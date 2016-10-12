@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001474</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001474&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001474</item>
+         <item attribuut="Document-id">0000107249</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 442</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van Es (P.S.P.) over het privébezit van een vuurwapen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 442</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">442</item>
+         <item attribuut="Indiener">
+            <persoon partij="PSP">Van Es</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-10-27</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Korthals Altes</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-02-25</item>
+         <item attribuut="Beginpagina">879</item>
+         <item attribuut="Eindpagina">880</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1986-1987 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="442" onderwerp="het privébezit van een vuurwa- pen." indiendatum="27 oktober 1986)">
+         <vrager partij="PSP" oorsprong="parlement">Van Es</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="8">
+      <vraag nummer="1 ">Hebben de procureurs-generaal  onlangs besloten dat Amerikaanse  soldaten in Nederland een bijzondere  machtiging kunnen krijgen voor het  privébezit van een vuurwapen? </vraag>
+      <vraag nummer="1 "/>
+      <vraag nummer="2 ">Wat is de reden om de nationaliteitseis  en de serieuze deelname aan de  schietsport als voorwaarden te laten  vallen voor de Amerikaanse soldaten  om een wapenvergunning te verkrij- gen?  </vraag>
+      <vraag nummer="3 ">Deelt de minister de mening, dat het  tijdelijk verblijf geen reden kan zijn  om voor Amerikaanse militairen een  uitzonderingspositie te creëren  inzake een wapenvergunning?  </vraag>
+      <vraag nummer="4 ">Geldt deze bijzondere machtiging  ook voor Nederlandse militairen?  </vraag>
+      <vraag nummer="5 ">Zijn voorwaarden gesteld aan de  bijzondere machtiging voor het bezit  en gebruik van een vuurwapen?  </vraag>
+      <vraag nummer="6 ">Gelden bij overtreding van de aan het  gebruik gestelde voorwaarden  dezelfde sancties ais bij gewone  vergunninghouders?  </vraag>
+      <vraag nummer="7 ">Staat het besluit van de procureurs- generaal haaks op de bedoeling van  de Vuurwapenwet om het privébezit  van wapens tegen te gaan en  derhalve aan strenge voorwaarden te  verbinden?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="3 ">In zijn algemeenheid deel ik de  mening dat, voor zover het privé  vuurwapens betreft, voor buitenlandse  NAVO-militairen dezelfde regeling  dient te gelden als voor de overige  sportschutters in Nederland.  Denkbaar is evenwel dat het  tijdelijke, soms korte, verblijf in  Nederland aanleiding kan zijn om de  voorwaarde, dat men gedurende een  jaar lid van een schietvereniging  dient te zijn alvorens een bijzondere  machtiging wordt verleend, een  soepeler toepassing te doen vinden.  Evenzo zou aan de buitenlandse  NAVO-militairen die met hun  privé-wapens slechts de schietsport  bedrijven op hun militaire basis, een  bijzondere machtiging kunnen  worden verleend onder de voorwaarde  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

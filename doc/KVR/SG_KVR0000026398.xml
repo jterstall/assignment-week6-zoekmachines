@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0000061</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0000061&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0000061</item>
+         <item attribuut="Document-id">0000026398</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Eerste Kamer 1990-1991 nummer 23</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Eerste Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van mevrouw Tiesinga-Autsema (D66) en de heer Van der Werff (V.V.D.) inzake overdracht van de afdeling scheepsarcheologie/Ketelhaven aan het Ministerie van WVC.</item>
+         <item attribuut="titel">Aanhangsel Eerste Kamer 1990-1991 nummer 23</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">23</item>
+         <item attribuut="Indiener">
+            <persoon>Tiesinga-Autsema</persoon>
+            <persoon>Van der Werff</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-03-12</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Maij-Weggen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-04-05</item>
+         <item attribuut="Beginpagina">47</item>
+         <item attribuut="Eindpagina">48</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Eerste Kamer der Staten-Generaal" kamer="1" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen door de leden der Kamer gesteld overeenkomstig artikel schriftelijk gegeven antwoorden"/>
+      <footer firstpaginanummer="47" allpagenumbers="47 18" vetnummer="" code="" lopendefooter="Eerste Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN0921 - 7398" uitgever="SDU uitgeverij 's Gravenhage 1991"/>
+      <vraagdata vraagnummer="" onderwerp="" indiendatum="">
+         <vrager partij="" oorsprong="parlement">Tiesinga-Autsema</vrager>
+         <vrager partij="" oorsprong="parlement">Van der Werff</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1991-04-5">
+         <antwoorder functie="mevrouw" ministerie="Ontvangen 5 april 1991">Maij-Weggen, minister van Verkeer en Waterstaat, mede namens mevrouw d'Ancona, minister van Welzijn, Volksgezondheid en Cultuur.</antwoorder>
+         <mede-antwoorder>mevrouw d'Ancona, minister van Welzijn, Volksgezondheid en Cultuur</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="23">Vragen van mevrouw Tiesinga– Autsema (D66) en de heer Van der Werff (V.V.D.) inzake overdracht van de afdeling scheepsarcheologie/ Ketelhaven aan het Ministerie van WVC. </vraag>
+      <vraag nummer="1">Delen de bewindsvrouwen de mening, dat uitstel van het defini– tieve besluit tot overdracht van de afdeling Scheepsarcheologie/Ketel– haven van Verkeer en Waterstaat aan Welzijn, Volksgezondheid en Cultuur niet verantwoord is gezien het aanmerkelijk belang van het hierbij betrokken culturele erfgoed? </vraag>
+      <vraag nummer="2">Wanneer denken de bewinds– vrouwen, mede in aansluiting op de opvattingen van de Raad voor het Cultuurbeheer, tot overeenstemming te geraken? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1 en 2">In het kader van de Heroverweging Rijksdienst voor de Usselmeer– polders heeft er tussen V en W en WVC geruime tijd overleg plaatsge– vonden over de overdracht van de afdeling Scheepsarcheologie/Ketel– haven. Ultimo 1990 is door de Minister van V en W een naar haar mening alleszins verantwoord aanbod gedaan. Hierover heeft overleg plaatsgevonden maar de Minister van WVC acht het huidige aanbod niet voldoende om de overdracht te effectueren. Op korte termijn zullen terzake beslissingen worden genomen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

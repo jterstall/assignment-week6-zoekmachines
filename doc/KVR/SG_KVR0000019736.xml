@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="eerder dan gesteld in de genoemde" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001350</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001350&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001350</item>
+         <item attribuut="Document-id">0000019736</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 336</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Rosenmöller en Willems (beiden Groen Links) over radio-actieve lozingen door Hoogovens.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 336</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">336</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Rosenmöller</persoon>
+            <persoon partij="Groen Links">Willems</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-01-10</item>
+         <item attribuut="Beantwoorder">
+            <persoon>De Vries</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-01-28</item>
+         <item attribuut="Beginpagina">717</item>
+         <item attribuut="Eindpagina">718</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="717" allpagenumbers="717" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="336" onderwerp="radio-actieve lozingen door Hoogovens." indiendatum="10januari 1992">
+         <vrager partij="Groen Links" oorsprong="parlement">Rosenmöller</vrager>
+         <vrager partij="Groen Links" oorsprong="parlement">Willems</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Waarom wordt in de ontwerpbeschikking van de Minister van Sociale Zaken en Werkgelegenheid, betreffende de aanvraag, 7 november 1991 van Hoogovens Groep B.V. te Umuiden van een vergunning als bedoeld in artikel 29 van de Kernenergiewet, een radio-actieve lozing toegestaan, die leidt tot een veel hogere stralingsbelasting dan maximaal is toegestaan in de nota «Normstelling ioniserende straling voor arbeid en milieu»'? </vraag>
+      <vraag nummer="2">Zal dit niet leiden tot continuering van de huidige lozingen door Hoogovens - die al jaren zonder vergunning plaatsvinden - en dus tot toeneming van de opeenhoping van Polonium-210 in zwevend slip, bodemsediment en mosselen? </vraag>
+      <vraag nummer="3">Deelt U onze mening dat, mede ter vermindering van de opeenhoping van Polonium-210, een scherpere normstelling dringend gewenst is? Zo nee, waarom niet? ontwerpbeschikking met een plan moet komen om de radio-actieve lozmgen te verminderingen en dat de beschikking richtlijnen hiervoor moet behelsen, waarvan de toepassing zonodig moet kunnen worden afgedwongen? Zo nee, waarom niet? </vraag>
+      <vraag nummer="5">Is het beleid van de regering erop gericht om vergunningen te verlenen voor radio-actieve lozingen van andere industrieën zonder dat vermindering van de uitstoot wordt geëist dan wel waarbij te hoge stralingsniveaus worden geaccepteerd? Zo ja, wat is in dat geval dan nog het nut van de normen in genoemde nota? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1">' Kamerstuk nr. 21 483</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+   <mededeling mededeler="" functie="" afdeling="Sociale Zaken en Werkgelegenheid" mededelingdatum="">Mededelmg van minister De Vries (Sociale Zaken en Werkgelegenheid). (Ontvangen 28 januari 1992} De vragen van de leden Rosenmöller en Willems, inzake radioactieve lozingen door Hoogovens kunnen tot mijn spijt niet binnen de gebruikelijke termijn worden beantwoord. De reden hiervoor is dat het interdepartementaal overleg nog niet is afgerond Gaarne zeg ik u toe, dat de beantwoording zo spoedig mogelijk zal geschieden. Deelt U onze mening, dat Hoogovens </mededeling>
+</kvr>

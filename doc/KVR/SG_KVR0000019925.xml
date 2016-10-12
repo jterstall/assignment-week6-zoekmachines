@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001539</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001539&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001539</item>
+         <item attribuut="Document-id">0000019925</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 521</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Weisglas en Blauw (beiden VVD) over de GATT-Uruguay ronde.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 521</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">521</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Weisglas</persoon>
+            <persoon partij="VVD">Blauw</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-03-09</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Bukman</persoon>
+            <persoon>Van Rooy</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-04-08</item>
+         <item attribuut="Beginpagina">1097</item>
+         <item attribuut="Eindpagina">1100</item>
+         <item attribuut="Omvang">4 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1097" allpagenumbers="1097 1098 00" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 - 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="521" onderwerp="de GATT-Uruguay ronde." indiendatum="1992-03-9">
+         <vrager partij="VVD" oorsprong="parlement">Weisglas</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Blauw</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-04-8">
+         <antwoorder functie="mmister" ministerie="Landbouw, Natuurbeheer en Vissenj">Bukman</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="8">
+      <vraag nummer="1">Zijn de EG-ministers van Handel en Landbouw er 2 en 3 maart j.l. niet in geslaagd overeenstemming te bereiken over de voorstellen van GATT-directeur generaal Dunkel, die zijn gencht op spoedige succesvolle afronding van de GATT-Uruguay ronde? Betekent dit, dat de kans op slagen van de GATT-onderhandelingen over een vrijere wereldhandel ernstig is verminderd? </vraag>
+      <vraag nummer="3" voetnoot="1">Heeft de staatssecretaris van Economische Zaken gezegd hierover zeer bezorgd te zijn en te vrezen voor een «explosie van protectionisme», die Europa zeer zou schaden? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="4" voetnoot="1">Heeft de minister van Landbouw, Natuurbeheer en Visserij daarentegen gezegd, dat een mislukking van de GATT-ronde niet rampzalig zou zijn en dat er dan geen protectionisme zal uitbreken? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="5" voetnoot="1">Heeft de minister van Landbouw Natuurbeheer en Visserij over dit meningsverschil gezegd: «leden van het kabinet hebben de vrijheid verschillend te spreken over het weer»? <voetnoot nummer="1"/>Is dat geen miskenning van het belang van de GATT-ronde? </vraag>
+      <vraag nummer="6">Willen de bewindslieden hun uitspraken over deze belangrijke zaak voortaan beter op elkaar afstemmen? Mag ervan worden uitgegaan dat de uitspraken van de staatssecretaris het regeringsstandpunt vertolken? </vraag>
+      <vraag nummer="7">Bestaat er over de voorstellen van de heer Dunkel inhoudelijk wel overeenstemming tussen de beide bewindslieden? Wat is hiervan op hoofdpunten de inhoud? </vraag>
+      <vraag nummer="8">Hoe zal binnen de EG nu verder worden gewerkt teneinde op korte termijn wel tot overeenstemming te komen over het EG-standpunt inzake de GATT-ronde? Op welk niveau? </vraag>
+      <vraag nummer="9">Willen de bewindslieden deze Kamer van het verloop van de laatste fase van de GATT-ronde op de hoogte blijven houden? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">De EG-ministers verantwoordelijk voor buitenlandse handel en landbouw zijn tijdens een gezamenlijke lunch op 2 maart jl. er niet in geslaagd om overeenstemming te bereiken over een gemeenschappelijk standpunt. Aan de orde was niet de totaliteit van de voorstellen van de heer Dunkel. Het ging om de vaststelling van de concessieschema's van de EG ten behoeve van de onderhandelingen inzake markttoegang, die per 1 maart in Genéve ingediend moesten zijn. Naast de aanbiedingen voor industrieprodukten betrof dit ook de ontwerp-lijsten voor landbouwprodukten. Voor landbouw hebben de verplichtingen betrekking op de 3 onderdelen: markttoegang, interne steun en exportsteun. Bij de schema's zouden de partijen het ontwerp-akkoord inzake landbouw m het Dunkel-document als uitgangspunt dienen te nemen. De EG-Raad heeft bij eerdere gelegenheid aangegeven substantiële aanpassing van de ontwerp-tekst na te streven. Vooralsnog zit de EG-Raad niet op éèn lijn wat betreft de prioriteit voor wijziging in de landbouwtekst. Daarbij gaat het vooral om de keuze tussen aanpassing van de volumebeperking ten aanzien van gesubsidieerde landbouwexporten of de opname van de produktie gebonden mkomenssteun, zoals voorgesteld door EG-commissaris Nederlandse zuivelexport. Bij markttoegang heeft de EG-commissie vooralsnog afgezien van tarificatie voor bananen, waarvoor de commissie binnenkort een afzonderlijk voorstel zal presenteren. </antwoord>
+      <antwoord nummer="2">De kans op een bevredigend resultaat voor de streefdatum van Pasen 1992 is na de Algemene Raad van 2 maart er niet groter op geworden. Een succesvolle afronding van de Ronde blijft echter mogelijk en blijft de inzet van de regermg. ledere vertraging of blokkade in de interne besluitvorming van de EG brengen risico's met zich mee voor het tijdschema van de onderhandelingen. Pasen 1992 is echter geen finale vervaldatum, maar een streefdatum. De belangrijkste partijen blijven naar eigen zeggen streven naar een spoedige afronding van de onderhandelingen, bij voorkeur voor de genoemde streefdatum. Wat de EG betreft zij verwezen naar de conclusies van het Voorzitterschap na de Algemene Raad van 2 maart 1992 (zie bijlage).' Voortgang in de onderhandelingen in Genève is afhankelijk van inspanningen van alle partijen op alle terreinen. Het gebrek aan overeenstemming tussen de EG en de Verenigde Staten op landbouwgebied vormt echter het belangrljkste struikelblok. De onderhandelingen tussen de EG-commissie en de Verenigde Staten worden momenteel geïntensiveerd en zijn gericht op een totaalpakket, dat vervolgens kan worden gemultilateraliseerd. vergelijking met de beoordeling van het weer te maken heeft de minister geenszins het belang van het succesvol en spoedig afronden van de Uruguay-Ronde willen miskennen. </antwoord>
+      <antwoord nummer="6">De regering is uitermate bezorgd over het trage verloop van de onderhandelingen en de negatieve gevolgen die een falen van de Ronde zou kunnen hebben voor de wereldhandel en de economische groei Hierover bestaat geen verschil van mening tussen de betrokken bewindslieden. Ja. De regering beschouwt de voorstellen in het Dunkel-document als een belangrijke constructieve stap in het proces van spoedige afronding van de Uruguay-Ronde. Voor een analyse van de voorstellen in het Dunkel-document zij verwezen naar de brief van Staatssecretaris Van Rooy aan de Tweede Kamer van 31 januari 1992 (kenmerk BEB/HAPO 92009539). Op hoofdlijnen kan de regering de ontwerp-akkoorden in het Dunkel-document aanvaarden. Op enkele onderdelen, met name landbouw en subsidies, zijn de ontwerpteksten vatbaar voor verbetering. Wat landbouw betreft hecht Nederland bijzonder aan handhaving van de coherentie tussen de reductieverplichtingen in de drie landbouwluiken, zowel qua basisperiode als benadermg In het luik exportsteun heeft Nederland altijd de voorkeur gegeven aan een budgettaire benadering. Vanwege het insisteren van sommige landen op een volumereductie voor met van de Uruguay-Ronde is echter pas mogelijk als de onderhandelingen inzake markttoegang en diensten zijn afgerond. In overeenstemming met de door de EG consequent uitgedragen globaliteitsgedachte dient de uiteindelijke beoordeling van de resultaten van de Uruguay-Ronde gebaseerd te zijn op een evenwicht van de voor– en nadelen in de totaliteit van alle onderhandelingsgebieden en het voorkomen van de negatieve consequenties van een falen van de Ronde voor de wereldeconomie en het wereldhandelssysteem. </antwoord>
+      <antwoord nummer="8">Alle Lid-Staten dienen te beseffen dat de marges voor aanpassing van de ontwerp-teksten in het Dunkel-document zeer beperkt zijn. Mede gelet op de verschillende prioriteiten die Lid-Staten leggen voor wijzigingen in het ontwerp-landbouwakkoord, zal de EG-commissie haar verantwoordelijkheid als onderhandelaar moeten nemen. Daarbij dient de EG-commissie zich in het belang van de Gemeenschap en de Lid-Staten constructief op te stellen. Daarbij zal het onvermijdelijk zijn dat compromissen moeten worden gesloten. Derhalve dient de EG-commissie enige flexibiliteit gegund te worden in de onderhandelingen. Afronding vóór de streefdatum van Pasen dient daarbij de inzet te blijven. De EG-raad zal een totaal onderhandelingspakket moeten beoordelen, dat haar door de EG-commissie wordt voorgelegd. Nederland acht een uitstelscenario of een mini-pakket zonder landbouw </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

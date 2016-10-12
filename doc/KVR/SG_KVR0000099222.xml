@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19871988:0001508</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001508&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001508</item>
+         <item attribuut="Document-id">0000099222</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1987-1988 nummer 565</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Beckers-de Bruijn (P.P.R.) over het gebruik van napalm door het Ethiopische Leger.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1987-1988 nummer 565</item>
+         <item attribuut="Jaargang">1987_1988</item>
+         <item attribuut="Vraagnummer">565</item>
+         <item attribuut="Indiener">
+            <persoon partij="PPR">Beckers-de Bruijn</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1988-04-27</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1988-05-19</item>
+         <item attribuut="Beginpagina">1135</item>
+         <item attribuut="Eindpagina">1136</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 7 - 1 9 8 8 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="" filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="565" onderwerp="het gebruik van napalm door het Ethiopische Leger." indiendatum="27 april 1988)">
+         <vrager partij="PPR" oorsprong="parlement">Beckers-de Bruijn</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1 ">Hebt u kennisgenomen van het  nieuwe offensief van het Ethiopische  leger in de provincies Eritrea en  Tigre?  </vraag>
+      <vraag nummer="2 ">Kunt u berichten bevestigen, dat het  leger daarbij van chemische wapens  (napalm) gebruik maakt?'  </vraag>
+      <vraag nummer="3 ">W a t is uw mening over het feit, dat  de Ethiopische autoriteiten buiten- landse hulporganisaties heben  gesommeerd het gebied te verlaten?  Hoeveel mensen worden door deze  maatregel onbereikbaar voor  voedselhulp?  </vraag>
+      <vraag nummer="4 ">Bent u bereid bij de Ethiopische  autoriteiten aan te dringen op het  ongedaan maken van deze maatregel?  </vraag>
+      <vraag nummer="5 ">Op welke wijze denkt u, wanneer de  autoriteiten daartoe niet bereid zijn,  de met de hongerdood bedreigde  bevolking te bereiken? Welke  initiatieven zult u op dit punt onder- nemen?  </vraag>
+      <vraag nummer="6 ">Bent u bereid diplomatieke stappen  te ondernemen, ook in EPS-verband,  om een einde te maken aan dit  conflict?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="1">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001582</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001582&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001582</item>
+         <item attribuut="Document-id">0000019968</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 564</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Krajenbrink (CDA), Apostolou (PvdA) en Dijkstal (VVD) over het maandelijks bedrag dat wordt uitgekeerd in verband met de remigratieregeling '85.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 564</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">564</item>
+         <item attribuut="Indiener">
+            <persoon>Krajenbrink</persoon>
+            <persoon>Apostolou</persoon>
+            <persoon>Dijkstal</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-04-02</item>
+         <item attribuut="Beantwoorder">
+            <persoon>De Vries</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-05-01</item>
+         <item attribuut="Beginpagina">1187</item>
+         <item attribuut="Eindpagina">1188</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1187" allpagenumbers="1187" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="'s Gravenhage 1992"/>
+      <vraagdata vraagnummer="564" onderwerp="het maandelijks bedrag dat wordt uitgekeerd in verband met de remigratieregeling '85." indiendatum="2 april 1992) i Is het maandelijks bedrag, dat aan degenen die met gebruikmaking van de remigratieregeling '85 (zgn. ouderenregeling) naar hun land van herkomst zijn teruggekeerd wordt uitbetaald, de afgelopen zes jaar onveranderd gebleven?">
+         <vrager partij="" oorsprong="parlement">Krajenbrink</vrager>
+         <vrager partij="" oorsprong="parlement">Apostolou</vrager>
+         <vrager partij="" oorsprong="parlement">Dijkstal</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-05-1">
+         <antwoorder functie="minister" ministerie="Sociale Zaken en Werkgelegenheid">De Vries</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="1">
+      <vraag nummer="2">Is er reden, gezien de inflatie-ontwikkeling en de koersverhoudingen e.d., het desbetreffende bedrag te herzien? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1">Ja, deze bedragen zijn per bestemmingsplan onveranderd gebleven sedert het ontstaan van deze remigratieregeling. en welke kosten men daarvoor noodzakelijk acht. Het is onmogelijk om daarvoor absolute normen aan te geven. Neemt men de levensomstandigheden en het gemiddelde loonpeil in die landen als vergelijkingsmateriaal, dan kan nog steeds gesteld worden dat de maandelijkse uitkering van de zgn. Ouderenregeling in het algemeen een zeer goed inkomen is. Ondanks de opgetreden inflatie en de koersverhoudingen zijn de wijzigingen over het geheel genomen niet zodanig substantieel geweest dat aanpassingen noodzakelijk moesten worden geoordeeld. Daarbij wil ik ook nog eens opmerken dat de geremigreerden niet de plicht hebben zich beschikbaar te houden voor de arbeidsmarkt, en dat zij het onbeperkte recht hebben andere inkomsten te verwerven. Dit in tegenstelling tot inwoners van Nederland die in een vergelijkbare situatie verkeren. Ik ben echter voornemens in de beleidsnota Remigratie nader aandacht te geven aan het vraagstuk van de hoogte van de remigratie-uitkeringen. Het maandelijkse bedrag dat wordt uitgekeerd beoogt te kunnen voorzien in de noodzakelijke kosten van bestaan in die landen. Bij het bepalen van het daarvoor benodigde bedrag is het van cruciale betekenis welke leefstijl men voor ogen heeft </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

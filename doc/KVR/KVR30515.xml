@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="9">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Gerkens en Roemer (beiden SP) aan de staatssecretarissen van Verkeer en Waterstaat en van Economische Zaken over het kraken van de RFID-chip van de OV-chipkaart. (Ingezonden 9 januari 2008); Antwoord</item>
+         <item attribuut="Bestand">17Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR30515
+</item>
+         <item attribuut="Inhoud">Vragen over de beveiliging van de OV-chipkaart, nu gebleken is dat de geheime code van de kaart te kraken is en privacygevoelige informatie van klanten op straat kan komen te liggen.</item>
+         <item attribuut="Rubriek">Verkeer, vervoer en waterstaat (Openbaar vervoer)</item>
+         <item attribuut="Trefwoorden">Chipkaarten Openbaar vervoer</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2007-2008, nr. 990, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070808030</item>
+         <item attribuut="Afkomstig_van">Verkeer en Waterstaat (VW)</item>
+         <item attribuut="Indiener">
+            <persoon partij="SP">Gerkens Roemer</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2008-01-16</item>
+         <item attribuut="Datum_indiening">2008-01-09</item>
+         <item attribuut="Document-id">KVR30515</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="2113" allpagenumbers="2113 2114" vetnummer="2070808030" code="0708tkkvr990" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Aanhangsel" filenaam="KVR30515" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="990" onderwerp="" indiendatum="2008-01-9">
+         <vrager partij="SP" oorsprong="parlement">Gerkens Roemer</vrager>
+         <vraagt-aan>de staatssecretarissen van Verkeer en Waterstaat en van Economische Zaken</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2008-01-16">
+         <antwoorder functie="staatssecretaris" ministerie="Verkeer en Waterstaat">Huizinga-Heringa</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="9">
+      <vraag nummer="1" voetnoot="1">Wat is uw reactie op het bericht «Geheime code van ov-kaart ligt op straat»? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Op welke wijze is de beveiliging getest voordat de chip op de OV-Chipkaart in gebruik werd genomen? Acht u de testen afdoende? Kunt u uw antwoord toelichten? </vraag>
+      <vraag nummer="3">Is het waar dat, om fraudegevoeligheid tegen te gaan, ook andere maatregelen zijn getroffen? Zo ja, welke? </vraag>
+      <vraag nummer="4">Op welke wijze heeft u ervoor gezorgd dat de privé-gegevens van mensen niet op straat kunnen komen te liggen? Heeft u invloed gehad op de keuze van de chip? Zo ja, op welke wijze? Zo neen, hoe heeft u zich er dan van verzekerd dat de OV-Chipkaart veilig is? </vraag>
+      <vraag nummer="5" voetnoot="2">Hoe verklaart u de opmerking dat ook privacygevoelige informatie op straat kan komen te liggen, terwijl u de Kamer heeft laten weten dat er geen privacygevoelige informatie aan de kaart gekoppeld is? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="6">Is het waar dat er beter beveiligde chips beschikbaar zijn? Zo ja, waarom is hier niet voor gekozen? Is de prijs hierop van invloed? </vraag>
+      <vraag nummer="7">Deelt u de mening dat Radio Frequency Identification (RFID) zonder meer geschikt is voor systemen als de OV-Chipkaart? Zo ja waarom? </vraag>
+      <vraag nummer="8">Welke stappen gaat u zetten om ervoor te zorgen dat RFID in de OV-Chipkaart op een veilige wijze gebruikt wordt? </vraag>
+      <vraag nummer="9">Kunt u deze vragen zo spoedig mogelijk beantwoorden? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="2008-01-8" bron="de Volkskrant">de Volkskrant, 8 januari 2008</noot>
+         <noot nummer="2" documenttype="Kamerstuk" kamerstuk-id="23 645" documentnummer="132">Kamerstuk 23 645, nr. 132</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="9">
+      <antwoord nummer="1">Zie bijgaande brief voor mijn reactie (Kamerstuk 23 645, nr. 183). Ik heb ook TLS om duidelijkheid gevraagd. Zij hebben mij de volgende eerste reactie gegeven: «Duitse onderzoekers hebben bekend gemaakt dat zij er achter gekomen zijn hoe de beveiliging van de technologie, die door NXP geheim is gehouden, werkt. De geheime codes zijn echter niet gekraakt. De beveiliging van de OV-chipkaart is hier echter niet uitsluitend afhankelijk van, omdat bij de beveiliging van het OV-chipkaart systeem gebruik wordt gemaakt van veel meer beveiligingsmaatregelen dan alleen dit standaardalgoritme» (zie ook antwoord 4). </antwoord>
+      <antwoord nummer="2">TLS heeft aangegeven dat de keuze voor de huidige technologie gebaseerd is op het feit dat deze technologie ten tijde van het ontwerp van het OV-chipkaartsysteem als good practice en proven technology uit de markt naar voren is gekomen. Beveiliging heeft bij deze keuze een belangrijke rol gespeeld. Ook nu worden wereldwijd 1 miljard van soortgelijke chips gebruikt in diverse toepassingen waaronder veel in het openbaar vervoer. De NXP-chip is door een onafhankelijk instituut gecertificeerd op grond van de ISO14443A standaard. Dat is een standaard voor opbouw en indeling van een RFID chip, inclusief de beveiliging ervan. De OV-chipkaart is daarnaast na testen door een onafhankelijk instituut gecertificeerd op grond van de specificaties voor het Nederlandse OV-chipkaart systeem. </antwoord>
+      <antwoord nummer="3">TLS heeft mij bevestigd dat er ook andere maatregelen zijn getroffen. De standaard beveiliging van de NXP-technologie is een van de vele elementen van het beveiligingssysteem van de OV-chipkaart en het totale OV-chipkaartsysteem. De beveiliging van de OV-chipkaart is daarmee niet afhankelijk van deze standaard beveiliging van NXP. Volgens TLS is van deze standaard beveiliging nu door de kraakpoging bekend geworden hoe het mechanisme werkt, maar niet wat de beveiligingscodes (sleutels) zijn. TLS heeft aangegeven dat in de Nederlandse OV-chipkaart veel aanvullende maatregelen zijn getroffen. Deze omvatten enerzijds qua techniek meerdere lagen van beveiliging in de chip alsmede getroffen beveiligingsmaatregelen in de apparatuur. Anderzijds zijn maatregelen geïmplementeerd om misbruik van de OV-chipkaart te detecteren en hierop te reageren. Zo is het mogelijk om door middel van een zogeheten blacklist OV-chipkaarten te blokkeren indien zich verdachte transacties met deze kaarten voordoen en zijn er andere preventieve maatregelen in het systeem aangebracht. Tenslotte zijn ook tal van organisatorische maatregelen getroffen bij de OV-bedrijven en TLS. Een voorbeeld hiervan is de controle op voertuigen en perrons door medewerkers met mobiele apparatuur en inspectie. TLS heeft een continu proces geïmplementeerd om de getroffen beveiligingsmaatregelen permanent te evalueren op adequaatheid en effectiviteit. Technologische ontwikkelingen en onderzoeksresultaten (door instellingen, experts en hackers in opdracht van TLS) worden hierin meegenomen. </antwoord>
+      <antwoord nummer="4">TLS heeft mij bevestigd dat de persoonsgebonden kaart slechts de geboortedatum en een «encrypted» nummer bevat. Ook wanneer de chip zou worden gekraakt is het daarom niet mogelijk dat privé-gegevens bekend worden, zo heeft TLS mij verzekerd. In de chip staan gegevens opgeslagen die nodig zijn om de chip correct te laten werken met de ov-chipkaart apparatuur. Dit omvat het saldo van de elektronische beurs, het afgesproken auto-reloadbedrag, de aangeschafte ov-producten (in de vorm van productcodes), de laatste 10 transacties en in het geval van de persoonlijke ov-chipkaart uitsluitend de geboortedatum van de kaarthouder. Dit laatste is benodigd om automatisch het juiste tarief bij in- en uitchecken te berekenen. Zoals bijvoorbeeld de reductie voor 65+ reizigers. Bij de anonieme OV-chipkaart zijn vanzelfsprekend geen persoonsgegevens bekend. De OV-chipkaart wordt door de vervoerbedrijven aan de klant aangeboden. Bij de keuze van het systeem heeft mijn ambtsvoorganger geen rol gespeeld. </antwoord>
+      <antwoord nummer="5">Zie antwoord op vraag 4. </antwoord>
+      <antwoord nummer="6">TLS heeft aangegeven de keuze te hebben gemaakt omdat deze technologie ten tijde van het besluit tot en het ontwerp van het OV-chipkaartsysteem als good practice en proven technology uit de markt naar voren is gekomen. Beveiliging heeft bij deze keuze een belangrijke rol gespeeld. Er zijn volgens TLS chips beschikbaar die gebruik maken van andere technologie. Ten tijde van de keuze voor de technologie van de OV-chipkaart was deze laatstgenoemde technologie nog onvoldoende uitontwikkeld. Overigens zijn ook deze chips onderhevig aan gerichte aanvallen. Daarnaast heeft TLS aangegeven dat het veilig maken en houden van systemen een continu proces is, waarbij evaluatie van technologische vooruitgang en gericht onderzoek (waaronder door hackers en onderzoekers) worden gebruikt om te bepalen of beveiligingsmaatregelen voldoende zijn en er reden is maatregelen toe te voegen en/of technologie te wijzigen c.q. verbeteren. Garantie voor een 100% veilig systeem bestaat helaas niet. De voorbeelden hiervan uit het (recente) verleden van onder andere de bancaire en telecom sector zijn legio. Zo valt te denken aan fraude met de pinpas die heeft geleid tot de opzetstukjes op de pinautomaten en later tot een migratiestrategie naar de zogeheten EMV-chip. </antwoord>
+      <antwoord nummer="7">De bedrijven geven aan dat hiervoor contactloze technologie noodzakelijk is. Dit ondermeer om de benodigde doorstroom van de openbaar vervoer reizigers te garanderen. De keuze voor bijvoorbeeld contacttechnologie is daarmee uitgesloten, want dit zou de doorstroom van de reizigers bij poortjes ernstig vertragen. In en buiten Nederland worden op zeer grote schaal RFID chips gebruikt in diverse toepassingen, waaronder veel in het openbaar vervoer. </antwoord>
+      <antwoord nummer="8">Zie inhoud van bijgaande brief. </antwoord>
+      <antwoord nummer="9">Bij deze. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

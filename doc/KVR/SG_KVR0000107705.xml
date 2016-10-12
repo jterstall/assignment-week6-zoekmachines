@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001930</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001930&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001930</item>
+         <item attribuut="Document-id">0000107705</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 897</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Leijnse, Moor en Ter Veld (allen P.v.d.A.) over inkomensterugval o.g.v. het verwerven van een arbeidsinkomen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 897</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">897</item>
+         <item attribuut="Indiener">
+            <persoon>Leijnse</persoon>
+            <persoon>Moor</persoon>
+            <persoon>Ter Veld</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-06-26</item>
+         <item attribuut="Beantwoorder">
+            <persoon>De Graaf</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-07-20</item>
+         <item attribuut="Beginpagina">1791</item>
+         <item attribuut="Eindpagina">1792</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 6 - 1 9 8 7 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="" filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="897" onderwerp="inkomensterugvalo.g.v. het verwer- ven van een arbeidsinkomen." indiendatum="26 juni 1987)">
+         <vrager partij="" oorsprong="parlement">Leijnse</vrager>
+         <vrager partij="" oorsprong="parlement">Moor</vrager>
+         <vrager partij="" oorsprong="parlement">Ter Veld</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="20 juli 1987)">
+         <antwoorder functie="staatssecretaris" ministerie="Sociale Zaken en Werkgele- genheid">D e Graaf</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1 ">W o r d t , wanneer een thuiswonende  bijstandsgerechtigde jongere onder  21 jaar, waarvan de ouder(s) eveneens  bijstandsgerechtigd is (zijn), bijvoor- beeld in het kader van een jeugdwerk- plan een arbeidsinkomen gaat  ontvangen, ongeacht de hoogte van  het inkomen, het betrokken gezin  geconfronteerd met de deurdelers- maatregel?  </vraag>
+      <vraag nummer="2 ">Erkent de minister, dat - zeker bij  lage arbeidsinkomsten - het gaan  werken van deze jongere(n) leidt tot  een teruggang van het inkomen van  het gezin, hetgeen arbeidsdeelname  feitelijk onbetaalbaar maakt?  </vraag>
+      <vraag nummer="3 ">Is de staatssecretaris bereid een  regeling te treffen, waarbij bij lage  arbeidsinkomsten van een jongere de  deurdelersregeling buiten werking  w o r d t gesteld, opdat het verwerven  van het arbeidsinkomen op z'n minst  niet tot deze inkomensterugval kan  gaan leiden?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1 ">Nee.  De hoogte van het inkomen van een  inwonend minderjarig kind bepaalt of  een woningdelersaftrek op de  bijstandsuitkering van de ouders  w o r d t toegepast. Indien dit kind een  inkomen ontvangt dat de van  toepassing zijnde Rww-norm niet of  nauwelijks overschrijdt, vindt geen  aftrek op de uitkering van de ouders  plaats.  Op dit aspect van de regeling is  nader ingegaan in de circulaire van  12 september 1986 waarin de  woningdelersmaatregel nader is  toegelicht. Daarbij is als inkomens- grens aangegeven de van toepassing  zijnde thuisinwonenden-norm  vermeerderd met de bijbehorende  maximale vrijlating van de inkomsten  uit arbeid. Wanneer het inkomen van  een inwonend minderjarig kind deze  grens overschrijdt,  w o r d t de aftrek op  de uitkering van de ouders bepaald  op het bedrag van de overschrijding,  doch ten hoogste op de volle  woningdelersaftrek van f 156,95 per  maand.  Binnenkort zal deze benadering in  het BIn worden geformaliseerd.  </antwoord>
+      <antwoord nummer="2 ">Uit het antwoord op de vorige vraag  volgt dat deelname aan het arbeids- proces van een jongere in bijstand  niet zal leiden tot een teruggang van  het totale gezinsinkomen. Er is dus  geen sprake van dat de arbeidsdeel- name van deze jongeren feitelijk  onbetaalbaar is.  </antwoord>
+      <antwoord nummer="3 ">Nee.  Uit het voorgaande volgt dat een  nadere regeling niet nodig is.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

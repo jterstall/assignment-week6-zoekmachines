@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001521</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001521&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001521</item>
+         <item attribuut="Document-id">0000011825</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 591</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Willems en Rosenmöller (beiden GroenLinks) over ondergrondse aardgasopslag.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 591</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">591</item>
+         <item attribuut="Indiener">
+            <persoon partij="GroenLinks">Willems</persoon>
+            <persoon partij="GroenLinks">Rosenmöller</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-04-14</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Andriessen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-05-25</item>
+         <item attribuut="Beginpagina">1209</item>
+         <item attribuut="Eindpagina">1210</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1209" allpagenumbers="1209" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat s Gravenhage 1993"/>
+      <vraagdata vraagnummer="591" onderwerp="ondergrondse aardgasopslag." indiendatum="14april 1993">
+         <vrager partij="GroenLinks" oorsprong="parlement">Willems</vrager>
+         <vrager partij="GroenLinks" oorsprong="parlement">Rosenmöller</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-05-25">
+         <antwoorder functie="minister" ministerie="Economische Zaken">Andriessen</antwoorder>
+         <mede-antwoorder>de minister van Landbouw, Natuurbeheer en Visserij</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1">Kent u de plannen van de NAM voor ondergrondse aardgasopslag in het Drentse Langelo? </vraag>
+      <vraag nummer="2">Hoe waarschijnlijk is het, dat de piekbelasting, waar de NAM van uitgaat bij haar argumentatie, zich werkelijk zal voordoen? </vraag>
+      <vraag nummer="3">Is de vermeende noodzaak van ondergrondse aardgasopslag niet veel meer gelegen in het langere termijn gasbeleid dan in het op korte termijn in gevaar komen van de leverïngszekerheid? Deelt u de mening, dat dus nog voldoende tijd beschikbaar is om verschillende alternatieven, zowel in de sfeer van de technische oplossingen als in de lokatie-keuze, tegen elkaar af te wegen? </vraag>
+      <vraag nummer="4">Hoe beoordeelt u de door de NAM opgestelde concept-MER opslaglokaties? Vindt u het juist, dat de NAM slechts lokaties geselecteerd heeft op technische en niet ook op milieuhygienische en ruimtelijke criteria? </vraag>
+      <vraag nummer="5">Past een eventuele aanwijzing van Langelo tot lokatie voor ondergrondse aardgasopslag in de in het Natuurbeleidsplan vastgelegde ecologische hoofdstructuur? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Uit de berekening van Gasunie en NAM blijkt dat zich voor het eerst in de winter 1996/1997 een situatie zou kunnen voordoen waarbij de gasvraag het gasaanbod overtreft. Dit is vooral afhankelijk van de dan optredende weersomstandigheden (in bijzonder temperatuur) die in grote mate bepalend zijn voor de omvang van de gasvraag. Na 1996 zal de kans op het optreden van een gastekort jaarlijks groter worden, doordat het gasaanbod (op dagbasis) door voortgaande winning uit het Groningen-veld en andere velden geldelijk zal teruglopen. De terugloop uit deze velden zal maar voor een klein deel gecompenseerd worden door nieuwe vondsten. De gasopslag in het Norg-veld is een van de vele omvangrijke investeringen die de komende jaren nodig zullen zijn om er voor te zorgen dat er het gehele jaar door op ieder uur van de dag voldoende gas beschikbaar zal zijn om aan de gasvraag te voldoen. </antwoord>
+      <antwoord nummer="3">Over de noodzaak van gasopslag teneinde de ongestoorde gasvoorziening blijvend te waarborgen bestaat geen twijfel. In de komende jaren blijft de omvang van gasreserves groot genoeg om de gasvoorziening veilig te stellen, maar de produktiecapaciteit (dat wil zeggen de hoeveelheid gas die in een dag geproduceerd kan worden) zal snel teruglopen. Ik ben het dus niet eens met de vragenstellers, die veronderstellen, dat noodzaak voor ondergrondse aardgas opslag in de eerste plaats voortvloeit uit het langere termijn gasbeleid. In het concept MER is de noodzaak voor ondergrondse beargumenteerd; daarbij zijn ook de alternatieven voor opslag in lege gasvelden en alternatieven voor opslag in het gasveld Norg behandeld. Er is nu geen tijd meer beschikbaar om opnieuw alternatieven tegen elkaar af te wegen. Het belang van een ongestoorde gasvoorziening vraagt dat de benodigde vergunningprocedures - op basis van de conclusies in het MER - spoedig worden doorlopen, om tijdig met de bouw van de installaties te kunnen aanvangen. De nog resterende jaren tot 1996 zijn hard nodig om het project tijdig te realiseren. </antwoord>
+      <antwoord nummer="4">De afweging die in het concept-Milieu Effectenrapport (MER) is gemaakt heeft, in zwaarwegend maatschappelijk belang waaraan niet redelijkerwijs elders of op andere wijze tegemoet kan worden gekomen. In concreto gaat het om het belang van een ongestoorde gasvoorziening. Een vergelijking van de voor– en nadelen in het MER en de nadere toelichting in een brief van de NAM aan het College van Burgemeester en Wethouders van de gemeente Norg laten zien dat Norg de meest geschikte locatie voor opslag van gas van «Groningen» - kwaliteit is. Daarnaast kunnen de te verwachten milieueffecten op de geplande locatie zodanig worden beperkt dat de realisering van de EHS niet wezenlijk behoeft te worden belemmerd. Alles afwegend is daarom de conclusie dat bij realisering van het meest milieuvriendelijke alternatief, waartoe de NAM zich bereid verklaard heeft, de locatie Langelo/Norg aanvaardbaar is. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

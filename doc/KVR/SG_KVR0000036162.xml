@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001755</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001755&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001755</item>
+         <item attribuut="Document-id">0000036162</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 831</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Voorhoeve (V.V.D.), Swildens-Rozendaal (P.v.d.A.), Lansink (C.D.A.), Tommel (D66), Rosenmöller (Groen Links), Leerling (R.P.F.), Van den Berg (S.G.P.) en Van Middelkoop (G.P.V.) over maatregelen in E.G.-verband tegen het doden van jonge zeehonden door de USSR.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 831</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">831</item>
+         <item attribuut="Indiener">
+            <persoon>Voorhoeve</persoon>
+            <persoon>Swildens-Rozendaal</persoon>
+            <persoon>Lansink</persoon>
+            <persoon>Tommel</persoon>
+            <persoon>Rosenmöller,Leerling</persoon>
+            <persoon>Van den Berg</persoon>
+            <persoon>Van Middelkoop</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-06-08</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Andriessen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-07-31</item>
+         <item attribuut="Beginpagina">1679</item>
+         <item attribuut="Eindpagina">1680</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1679" allpagenumbers="1679" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="831" onderwerp="maatre– gelen in E.G.-verband tegen het doden van jonge zeehonden door de USSR." indiendatum="1990-06-8">
+         <vrager partij="" oorsprong="parlement">Voorhoeve</vrager>
+         <vrager partij="" oorsprong="parlement">Swildens-Rozendaal</vrager>
+         <vrager partij="" oorsprong="parlement">Lansink</vrager>
+         <vrager partij="" oorsprong="parlement">Tommel</vrager>
+         <vrager partij="" oorsprong="parlement">Rosenmöller,Leerling</vrager>
+         <vrager partij="" oorsprong="parlement">Van den Berg</vrager>
+         <vrager partij="" oorsprong="parlement">Van Middelkoop</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="31 juli 1990), zie ook Aanhangsel Handelingen nr. 782, vergaderjaar 1989-1990">
+         <antwoorder functie="minister" ministerie="Landbouw, Natuurbeheer en Visserij a.i.">Andriessen</antwoorder>
+         <mede-antwoorder>de ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Economische Zaken en de staatsse– cretaris van Buitenlandse Zaken</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1" voetnoot="1">Worden door de USSR jaarlijks minstens 30.000 jonge zeehonden gevangen ten behoeve van de leer– en bontindustrie? <voetnoot nummer="1"/>Wordt door de doding met injecties het EG-verbod op invoer van doodgeknuppelde jonge zadelrobben omzeild? </vraag>
+      <vraag nummer="3">Bent u bereid u in de EG in te zetten voor een totaal verbod op de invoer van producten van zeehonden, zoals wordt bepleit door de Internationale Unie voor het Behoud van de Natuur, Greenpeace en het Internationale Fonds voor het Welzijn van Dieren teneinde de sterke achteruitgang van de zeehondenstand te keren? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1990-06-7" bron=" Zie de Telegraaf"> Zie de Telegraaf, 7 juni 1990</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">In de USSR werden in 1989 30.989 jonge Zadelrobben («whitecoats») en 2.475 oudere Zadelrobben gevangen in de Barents Zee en de Witte Zee (gegevens ICES). Gegevens over de omvang van de vangst van zeehonden in andere gebieden van de USSR zijn niet bekend. </antwoord>
+      <antwoord nummer="2">Neen. De invoer voor handelsdoeleinden van huiden en daarvan vervaardigde produkten van jonge dieren van Zadelrobben («whitecoats») en Klapmutsen («bluebacks») in de Europese Gemeenschap wordt op grond van de daartoe strekkende richtlijn sedert 1983 niet toegestaan en vindt voorzover bekend ook niet plaats. De wijze waarop de dieren worden gedood is daarbij niet relevant. Invoer van huiden of produkten van oudere dieren van de betreffende soorten en van andere - niet beschermde - zeehondensoorten is niet verboden, doch vindt voorzover het invoer in Nederland betreft, niet plaats. Invoer van dergelijke zeehonden– huiden uit de USSR in andere EG-!anden vindt voorzover bekend niet plaats. Op grond van de mij ter beschikking staande informatie kan niet gesproken worden van het omzeilen van de EG-richtlijn. </antwoord>
+      <antwoord nummer="3">De Werkgroep «Zadelrobben en Klapmutsen» van de «Internationale Raad voor het Onderzoek der Zee» (ICES) heeft in 1989 haar zorg uitge– sproken over de ontwikkeling van met name de populatie van Zadel– robben in de Witte Zee en de Barents Zee omdat uit onderzoek zou blijken dat het aantal volwassen vrouwtjes in de periode 1985-1988 aanzienlijk is afgenomen. De «Gezamenlijke Noors-Russische Visserijcommissie» heeft daarop voor 1990 een vangstquotum van 40.000 Zadelrobben In de Barents Zee en de Witte Zee geadviseerd waarvan 9.500 voor Noorwegen en 30.500 voor de USSR. Deze quota zijn dezelfde als de quota in 1989 en lager dan de quota in 1988 (70.000) en 1987 (80.000). Gezien de zeer beperkte beschikbare gegevens over de huidige stand van de betreffende zeehondenpopulaties en gezien recente berichten over massale sterfte van zeehonden en andere dieren in de Witte Zee, is de vraag gerechtvaardigd of de hoogte van de huidige vangstquota verant– woord is. Ik zal mij nader informeren over de omvang van de vangst van zeehonden in Noorwegen en de </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

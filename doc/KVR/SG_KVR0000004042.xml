@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0001531</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001531&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001531</item>
+         <item attribuut="Document-id">0000004042</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 317</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Willems en Brouwer (beiden Groen Links) over het militaire terreinencomplex Hombrug aan het Noordzeekanaal.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 317</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">317</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Willems</persoon>
+            <persoon partij="Groen Links">Brouwer</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-01-06</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Alders</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-02-16</item>
+         <item attribuut="Beginpagina">641</item>
+         <item attribuut="Eindpagina">642</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de ledert der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="641" allpagenumbers="641" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgeverij Plantijnstraat s Gravenhage 1994"/>
+      <vraagdata vraagnummer="317" onderwerp="het miiitaire terreinencomplex Hombrug aan het Noordzeekanaal." indiendatum="1994-01-6">
+         <vrager partij="Groen Links" oorsprong="parlement">Willems</vrager>
+         <vrager partij="Groen Links" oorsprong="parlement">Brouwer</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="IGfebruari 1994), zie ook Aanhangsel Handelingen nr. 287, vergaderjaar 1993-1994">
+         <antwoorder functie="Minister" ministerie="Volkshuisvesting Ruimtelijke Ordening en Milieubeheer">Alders</antwoorder>
+         <mede-antwoorder>de staatssecretaris van Welzijn, Volksgezondheid en Cultuur</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Is een deel van het militaire terreinencomplex Hombrug aan het Noordzeekanaal in Zaandam ernstig vervuild? <voetnoot nummer="1"/>Wat is de aard van de bodemverontreiniging? </vraag>
+      <vraag nummer="3">Wie is verantwoordelijk voor de schade? </vraag>
+      <vraag nummer="4">Is de hoofdinspectie milieuhygiëne Noord-Holland een onderzoek gestart naar de gevolgen van de verontreiniging voor de volksgezondheid? Welke maatregelen worden getroffen om schade aan de gezondheid te voorkomen, dan wel te beperken? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1993-12-9" bron=" De Telegraaf"> De Telegraaf, 9 december 1993</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Het complex Hembrug (in de vraag aangeduid als Hombrug) aan het Noordzeekanaal in Zaandam bestaat uit verschillende onderdelen, waarvan één deel bij het ministerie van Defensie in gebruik is. De bodemverontreiniging is met name geconstateerd op een gedeelte dat niet meer in gebruik is. Aangezien het vermoeden bestaat dat ook op de overige delen bodemverontreiniging aanwezig is, wordt daarnaar op dit moment onderzoek uitgevoerd. </antwoord>
+      <antwoord nummer="2">De bodemverontreiniging bestaat uit zware metalen, PAK's, minerale olie, plaatselijk complex-gebonden cyaniden en plaatselijk een hoog gehalte aan aromaten. </antwoord>
+      <antwoord nummer="3">Het is op dit moment niet bekend hoe en wanneer de verontreiniging is ontstaan. Bij het thans lopende bodemonderzoek wordt tevens onderzocht wat de oorzaak van de verontremiging is en in welke periode die is ontstaan. Vervolgens zal worden bezien door wie, op welke wijze en wanneer sanering zal worden uitgevoerd en wie voor de schade aansprakelijk kan worden gesteld. </antwoord>
+      <antwoord nummer="4">De Regionale Inspecteur Milieuhygiëne berïchtte mij dat de informatie over de bodemverontreiniging aan het licht kwam bij een strafrechtelijk onderzoek. Het Openbaar Ministerie heeft de Regionale Inspectie gevraagd de gevolgen van de verontreiniging voor de volksgezondheid te beoordelen. De Regionale Inspectie heeft op basis van de beschikbare gegevens een onderzoek gecoördineerd naar de gevolgen van de verontreiniging voor de volksgezondheid. Betrokkenen hierbij waren de gemeente Zaanstad, de provincie Noord-Holland, de GG&amp;GD Zaanstad, de Geneeskundige inspectie, de Inspectie Gezondheidsbescherming (Keuringsdienst van Waren) en het Provinciale Waterleidingbedrijf voor Noord-Holland. Uit dit onderzoek is niet gebleken dat er acute risico's voor de volksgezondheid bestaan; direct contact met de verontreiniging vindt niet plaats. Op korte termijn zijn geen maatregelen nodig om schade aan de gezondheid te voorkomen. De provincie Noord-Holland bespreekt de verontreinigingssituatie, voor zover dit het defensie-terrein betreft, in het overleg dat zij met Defensie voert over de bodemsaneringen van defensieterreinen in Noord-Holland. De Regionale Inspectie ziet erop toe dat de bodemsanering overeenkomstig de wettelijke bepalingen en het kabinetsbeleid wordt geïnitieerd. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

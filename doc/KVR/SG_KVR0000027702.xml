@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001365</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001365&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001365</item>
+         <item attribuut="Document-id">0000027702</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 431</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Leerling (R.P.F.) over onafhankelijkheid van Litouwen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 431</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">431</item>
+         <item attribuut="Indiener">
+            <persoon partij="RPF">Leerling</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-02-14</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-03-11</item>
+         <item attribuut="Beginpagina">875</item>
+         <item attribuut="Eindpagina">876</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="875" allpagenumbers="875" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1991"/>
+      <vraagdata vraagnummer="431" onderwerp="onafhankelijkheid van Litouwen." indiendatum="14februari 1991">
+         <vrager partij="RPF" oorsprong="parlement">Leerling</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="11 maart 1991).">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">Van den Broek</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Hebt u kennis genomen van de volksstemming in Litouwen, waarbij een overweldigende meerderheid van de bevolking zich heeft uitge– sproken voor onafhankelijkheid en afscheiding van de Sovjet-Unie? </vraag>
+      <vraag nummer="2">Welke betekenis hecht de Neder– landse regering aan de uitkomst van de volksstemming in Litouwen? </vraag>
+      <vraag nummer="3">Hoe zal de Nederlandse regering reageren op een verzoek van de Litouwse regering de diplomatieke betrekkingen te herstellen zoals die tot 1940 bestonden? Hebt u kennis genomen van de beslissing van Usland om Litouwen als onafhankelijke natie te erkennen? Kunt u deze berichten bevestigen? </vraag>
+      <vraag nummer="5">Overweegt de regering van Denemarken een zelfde stap als die van Usland? Zo ja, is de Nederlandse regering bereid het voorbeeld van Usland en Denemarken te volgen? Zo neen, waarom niet? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1"> t/m  5 Van de deelnemers aan de op 9 februari jl gehouden «opiniepeiling» (aldus luidt de door de Litouwse autoriteiten gebezigde terminologie) heeft ruim 90%, i.c. meer dan 75% van alle kiesgerechtigden, zich uitge– sproken voor een «onafhankelijke en democratische republiek». Hieruit lijkt te mogen worden afgeleid, dat de meerderheid van de bevolking van Litouwen voorstander is van het herkrijgen van de in 1940 verloren gegane onafhankelijkheid. Met alle begnp voor dit verlangen is de regering, met de EG-partners, van mening dat dit doel slechts kan worden bereikt langs de weg van een vreedzame en constructieve dialoog tussen Vilnius en Moskou. Partljen zijn dan ook zowel door de Twaalf alsook bilateraal opgeroepen om alles achterwege te laten wat de situatie zou kunnen verslechteren. Om deze reden ziet de regering geen aanleiding, op dit moment in te gaan op de oproep van Litouwse zijde om de diplomatieke betrekkingen zoals deze bestonden tot 1940, te herstellen. Volgens de mij ter beschikking staande gegevens heeft tot dusverre alleen de Uslandse regermg besloten besprekingen te openen over de mogelijkheid van het aangaan van diplomatieke relaties met Litouwen. Denemarken daarentegen is vooralsnog niet voornemens de diplomatieke betrekkingen met één of meer Baltische republieken te herstellen alvorens de souvereiniteit van de betrokken staten zal zijn hersteld. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

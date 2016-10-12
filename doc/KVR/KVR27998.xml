@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Teeven (VVD) aan de minister van Justitie over het niet informeren van het Openbaar Ministerie door de politie. (Ingezonden 1 mei 2007); Antwoord</item>
+         <item attribuut="Bestand">13Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR27998
+</item>
+         <item attribuut="Inhoud">Het OM blijkt niet geïnformeerd over de gehanteerde opsporingsmethoden in de zaak Charles Z. Volgens De Telegraaf waren deze methoden illegaal (Telegraaf, 27 april 2007).</item>
+         <item attribuut="Rubriek">Criminaliteit en openbare orde (Politie) Strafrecht en strafprocesrecht (Opsporingsonderzoek)</item>
+         <item attribuut="Trefwoorden">Opsporingen Politie</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2006-2007, nr. 1369, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2060713980</item>
+         <item attribuut="Afkomstig_van">Justitie (JUS)</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Teeven</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2007-05-08</item>
+         <item attribuut="Datum_indiening">2007-05-01</item>
+         <item attribuut="Document-id">KVR27998</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2006–2007" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="2907" allpagenumbers="2907" vetnummer="2060713980" code="0607tkkvr1369" lopendefooter="Tweede Kamer, vergaderjaar 2006–2007, Aanhangsel" filenaam="KVR27998" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2007"/>
+      <vraagdata vraagnummer="1369" onderwerp="" indiendatum="2007-05-1">
+         <vrager partij="VVD" oorsprong="parlement">Teeven</vrager>
+         <vraagt-aan>de minister van Justitie</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2007-05-8">
+         <antwoorder functie="minister" ministerie="Justitie">Hirsch Ballin</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Bent u bekend met het artikel «Politie verdoezelt illegale operaties in zaak Charles Z.»? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Is het waar dat het Openbaar Ministerie (OM) niet is geïnformeerd door de Nationale Recherche in de proactieve fase van een opsporingsonderzoek omtrent gehanteerde opsporingsmethoden? Zo ja, heeft dat voor u aanleiding gegeven per direct dit opsporingsbeleid te wijzigen? </vraag>
+      <vraag nummer="3">Is het waar dat het inlichtingenwerk van de Criminele inlichtingen eenheden niet heeft plaatsgevonden onder de verantwoordelijkheid van het OM? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="2007-04-27" bron="De Telegraaf">De Telegraaf, 27 april 2007</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2 en 3">De verslaggevers van dit bericht in de Telegraaf baseren zich op een proces-verbaal, waaruit zou blijken dat opsporingsambtenaren van de Dienst Nationale Recherche (DNR), buiten medeweten van het Openbaar Ministerie om, opsporingsactiviteiten zouden hebben verricht en de resultaten daarvan toegeschreven aan een verzonnen informant. De DNR heeft een intern onderzoek naar het voornoemde proces-verbaal verricht en is inmiddels tot de voorlopige conclusie gekomen dat het proces-verbaal een vervalsing is. Het onderzoek naar de herkomst van het proces-verbaal wordt op dit moment nog voortgezet. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

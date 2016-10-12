@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0001649</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001649&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001649</item>
+         <item attribuut="Document-id">0000004160</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 435</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Lankhorst (GroenLinks) over de kaderbrief.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 435</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">435</item>
+         <item attribuut="Indiener">
+            <persoon partij="GroenLinks">Lankhorst</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-04-05</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Lubbers</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-04-12</item>
+         <item attribuut="Beginpagina">883</item>
+         <item attribuut="Eindpagina">884</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994 Aanhangsel van de Handelingen" typehandeling="Vergaderjaar 1993-1994 Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter=" Gravenhaae 1994 Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel 883" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever=""/>
+      <vraagdata vraagnummer="" onderwerp="" indiendatum="">
+         <vrager partij="GroenLinks" oorsprong="parlement">Lankhorst</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-04-12">
+         <antwoorder functie="minister-president" ministerie="Algemene Zaken">Lubbers</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="3">435 Zie het antwoord op vraag 2. Vragen van het lid Lankhorst (Groen 4 Links) over de kaderbrief. lk zie geen aanleiding om op dit (Ingezonden 5 april 1994) verzoek in te gaan. </vraag>
+      <vraag nummer="1" voetnoot="1">Herinnert u zich mijn eerdere vragen over het uitlekken van de vertrouwelijke kaderbrief? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Hoe is het mogelijk dat de nieuwe kaderbrief al weer in de krant staat? </vraag>
+      <vraag nummer="3">Kunt u het lek echt niet boven water krijgen, voordat u weggaat? </vraag>
+      <vraag nummer="4">Wilt u de Kamer, mede met het oog op de verkiezingscampagne, de kaderbrief nu ook toesturen? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">De kaderbrief is een stuk met een vertrouwelijk karakter. Gedeeltes van deze brief zijn blijkbaar uitgelekt. Het uitlekken is een ernstige en betreurenswaardige aangelegenheid, die ook in de sfeer van preventie maatregelen vergt. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

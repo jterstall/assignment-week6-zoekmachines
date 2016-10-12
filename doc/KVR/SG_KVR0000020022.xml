@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001636</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001636&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001636</item>
+         <item attribuut="Document-id">0000020022</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 618</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Tommel en Versnel-Schmitz (beiden D66) over EG-richtlijnen met betrekking tot openbare aanbesteding.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 618</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">618</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Tommel</persoon>
+            <persoon partij="D66">Versnel-Schmitz</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-04-16</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Andriessen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-06-01</item>
+         <item attribuut="Beginpagina">1297</item>
+         <item attribuut="Eindpagina">1298</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1297" allpagenumbers="1297 1298" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeveri) Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="618" onderwerp="EG-richtlijnen met betrekking tot openbare aanbesteding." indiendatum="16april 1992">
+         <vrager partij="D66" oorsprong="parlement">Tommel</vrager>
+         <vrager partij="D66" oorsprong="parlement">Versnel-Schmitz</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1 juni 1992), zie ook Aanhangsel Handelingen nr. 579 (Vergaderjaar 1991-1992">
+         <antwoorder functie="minister" ministerie="Economische Zaken">Andriessen</antwoorder>
+         <mede-antwoorder>de ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Buitenlandse Zaken</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1">Kan naar aanleiding van het artikel in de Volkskrant van 24 maart jl. nader worden aangegeven welke mstellmgen, volgens de huidige inzichten van de regering zich moeten houden aan de EG-richtlijnen met betrekking tot openbare aanbesteding? </vraag>
+      <vraag nummer="2">Waarom vallen aanbestedingen van het ABP niet onder de EG-richtlijnen inzake openbare aanbesteding zoals' de regering heeft laten weten aan de Europese commissie? </vraag>
+      <vraag nummer="3">In hoeverre valt dit te rijmen met artikel 1b van de richtlijn «Werken» en de samenstelling en wijze van benoeming van het bestuur van de ABP? Waarom heeft de Gemeente Den Haag niet de opdracht voor het laten bouwen van het stadhuis conform de EG aanbestedingsvoorschriften zelf geplaatst? Is dit niet in strijd met artikel 1A punt c van de richtlijn «werken» (89/440)? </vraag>
+      <vraag nummer="5">Kan een lijst worden verstrekt van aanbestedmgen voor de uitvoermg van bouwwerken boven de 5 miljoen ECU van instellingen, die zich moe(s)ten houden aan de EG-richtlijn inzake «werken» (71/305, gewijzigd door 89/440), die de afgelopen 21 jaar niet zijn aangemeld in het publicatieblad van de EG of in de elektronische gegevensbank TED? Kan daarbij worden aangegeven waarom betreffende bouwerken niet zijn aangemeld? </vraag>
+      <vraag nummer="6">Op welke wijze denkt de regering te bevorderen, dat in de toekomst openbare aanbestedingen, die vallen onder de EG-richtlijnen daaraan zullen voldoen zodat: - de Europese commissie geen aanleiding zal hebben om boetes te verstrekken aan (overheids)instellingen; - de kans op privaatrechtelijke schadeclaims van bedrijven, die niet de mogelijkheid hebben gehad om mee te dingen naar de (overheids)opdracht, minimaal is; - aan het doel van deze richtlijnen, het bevorderen van de concurrentie, inhoud kan worden gegeven? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" titel="aanbesteding Haags stadhuis wel correct verlopen"> Volgens het artikel «aanbesteding Haags stadhuis wel correct verlopen» in Trouw van 25 maart il</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">De procedures uit de verschillende EEG-richtlijnen overheidsaanbestedingen dienen te worden toegepast door alle aanbestedende diensten, zoals nader omschreven in de verschillende richtlijnen op voornoemd terrein. Hieronder worden verstaan (zie onder andere artikel 1 (b) van de richtlijn werken 71/305 zoals gewijzigd door richtlijn 89/440 EEG): de Staat, zijn territoriale lichamen, publiekrechtelijke instellingen en verenigingen gevormd door een of meer van deze lichamen of instellingen. In het kader van de herziening van de EEG-richtlijnen zal worden bezien of bovenstaande begrippen nadere invulling behoeven. 2/3 Volgens artikel 1 b van de richtlijn werken wordt een instantie als een publiekrechtelijke instelling aangemerkt wanneer er aan de volgende, consecutieve, voorwaarden is voldaan: - opgericht zijn met het specifieke doel te voorzien in behoeften van algemeen belang andere dan die van commercieel of industrieel belang; - de organisatie moet rechtspersoonlijkheid bezitten; - directe financiële of bestuurlijke banden met de overheid hebben. Wanneer aan èén van deze genoemde voorwaarden niet is verhoudt tot richtlijn 71/305 en de wijziging daarvan in 1989 door richtlijn 89/440 waarmee het toepassingsgebied van voornoemde richtlijn is verruimd, is op dit moment onderwerp van discussie tussen de Nederlandse regering en de commissie. Wij zullen u in een later stadium informeren over de uitkomst hiervan. Allereerst merken wij ook dat de drempel van 5 miljoen ECU pas geldt sinds 19 juli 1990. Dit is de datum, waarop de gewijzigde richtlijn werken in werking is getreden. Voor die datum gold een drempel van 1 miljoen ECU. Het door u gevraagde overzicht is op korte termijn niet te leveren. Bovendien is het nog maar de vraag of de achterliggende motieven voor het niet aanmelden te achterhalen zijn. </antwoord>
+      <antwoord nummer="6">Met het oog op het bevorderen van het naleven van de richtlijnen heeft de regering bijzondere aandacht besteed aan de vormgeving van de nationale regelgeving ter uitvoering van de richtlijnen op het gebied van overheidsopdrachten. Het eerdergenoemde wetsvoorstel voor de Raamwet EEG-voorschriften aanbestedingen beoogt de uitvoering van de communautaire regelgeving in èén wettelijk kader te plaatsen. Hierdoor is met name het overzicht van de Nederlandse regelgeving in de toekomst beter gewaarborgd. Het geven van voorlichting over de verschillende richtlijnen op het terrein van de overheidsaanbestedingen is in dit verband van groot belang. In Economische Zaken over de richtlijnen leveringen en werken. Uit deze opsomming blijkt dat reeds veel voorlichting is verschaft. Hiermee zou ook in de toekomst worden voortgegaan. Tevens zullen nadere mogelijkheden worden onderzocht, om zorg te dragen voor een juiste toepassing van de richtlijnen door aanbestedende diensten. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

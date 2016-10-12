@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="er van uitgaande dat dit normale" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001794</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001794&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001794</item>
+         <item attribuut="Document-id">0000020180</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 775</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Te Veldhuis (VVD) over een rapport van de milieuvereniging Benegora.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 775</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">775</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Te Veldhuis</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-07-08</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Alders</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-08-10</item>
+         <item attribuut="Beginpagina">1615</item>
+         <item attribuut="Eindpagina">1616</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1615" allpagenumbers="1615" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="775" onderwerp="een rapport van de milieuvereniging Benegora." indiendatum="1992-07-8">
+         <vrager partij="VVD" oorsprong="parlement">Te Veldhuis</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Hebt u kennis genomen van het rapport van mei 1992 «West Brabant, de vuile witte vlek» van de overkoepelende milieuvereniging Benegora? </vraag>
+      <vraag nummer="2" voetnoot="1">Bent u het eens met de eindconclusie van het rapport? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="3">Zo ja, bent u dan bereid en voornemens om te bevorderen dat de betrokken en verantwoordelijke overheden alsnog passende maatregelen gaan treffen om de gesignaleerde knelpunten op te lossen, zoals: de installatie van voldoende meetstations; het publiekelijk zichtbaar maken van meetgegevens; het, waar nodig, terugdringen van ongewenste en ontoelaatbare vervuilingen; voldoende controle op de naleving van voorschriften en vergunningen; en het openbaar maken van rampenplannen? openbare gegevens zijn, zoals gebruikelijk in Nederland? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> De eindconclusies van Benegora zijn onderhands ter kennisneming aan de minister doorgezonden</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+   <mededeling mededeler="Alders" functie="minister" afdeling="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer" mededelingdatum="1992-08-10">Mededeling van minister Alders (Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer). (Ontvangen 10 augustus 1992) Naar aanleiding van de mij met brief, 9 juli 1992, toegezonden vragen van het lid der Kamer Te Veldhuis over een rapport van de milieuvereniging Benegora, deel ik u mede dat de beantwoording hiervan niet binnen de gestelde termijn kan plaatsvinden, aangezien het hiervoor vereiste overleg nog niet is afgerond. Als u vraag 2 ontkennend beantwoordt, kunt u dan het gewraakte gebrek aan gegevens alsnog verschaffen in de zin zoals door Benegora bedoeld en gewenst, </mededeling>
+</kvr>

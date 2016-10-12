@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Poppe (SP) aan de ministers van Volksgezondheid, Welzijn en Sport en van Landbouw, Natuurbeheer en Visserij over een snelle salmonellatest. (Ingezonden 15 januari 2002); Antwoord</item>
+         <item attribuut="Bestand">13Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR15124
+</item>
+         <item attribuut="Inhoud">Vragen over een test van ID-Lelystad die binnen 10 minuten kan aantonen of een dier (pluimvee) met salmonella is besmet.</item>
+         <item attribuut="Rubriek">Consument (Levensmiddelenkeuring) Consument (Voedings- en productveiligheid) Veeteelt (Pluimvee) Veeteelt (Vlees)</item>
+         <item attribuut="Trefwoorden">Pluimvee Vleeskeuring</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2001-2002, nr. 670, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2010204320</item>
+         <item attribuut="Afkomstig_van">Volksgezondheid, Welzijn en Sport (VWS)</item>
+         <item attribuut="Indiener">
+            <persoon partij="SP">Poppe</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2002-02-22</item>
+         <item attribuut="Datum_indiening">2002-01-15</item>
+         <item attribuut="Document-id">KVR15124</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2001–2002" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1407" allpagenumbers="1407" vetnummer="2010204320" code="" lopendefooter="Tweede Kamer, vergaderjaar 2001–2002, Aanhangsel" filenaam="KVR15124" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2002"/>
+      <vraagdata vraagnummer="670" onderwerp="" indiendatum="2002-01-15">
+         <vrager partij="SP" oorsprong="parlement">Poppe</vrager>
+         <vraagt-aan>de ministers van Volksgezondheid, Welzijn en Sport en van Landbouw, Natuurbeheer en Visserij</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2002-02-22">
+         <antwoorder functie="minister" ministerie="Volksgezondheid, Welzijn en Sport">Borst-Eilers</antwoorder>
+         <mede-antwoorder>de minister van Landbouw, Natuurbeheer en Visserij</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Is het waar dat ID-Lelystad een salmonellatest heeft ontwikkeld die binnen 10 minuten kan aantonen of een dier met salmonella is besmet? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Kan deze test ingezet worden om te testen of pluimvee c.q. pluimveeproducten besmet zijn met salmonella? </vraag>
+      <vraag nummer="3">Bent u bereid producenten te verplichten de test in te zetten om besmette producten uit de keten te verwijderen zodat er uitsluitend onbesmette pluimveeproducten in de winkel aan de consument aangeboden zal worden? Zo neen, waarom niet? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="2002-01-10" bron="Trouw">Trouw, 10 januari 2002</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">ID-Lelystad is testen aan het ontwikkelen die passen in de ontwikkelingen op het terrein van de ketengarantiesystematiek. In dit kader ontwikkelt ID-Lelystad testen die kunnen worden toegepast in de pluimveeproductieketen. Onlangs is één van deze testen, een salmonella antilichaam test, met goed gevolg uit de ontwerpfase van het onderzoek gekomen. ID-Lelystad is deze test momenteel aan het valideren. </antwoord>
+      <antwoord nummer="2">Indien deze test met goed gevolg de validatiefase doorloopt, dan kan deze test worden ingezet om het risico van besmetting van pluimveekoppels in te schatten. De resultaten van deze test geven aan of een koppel pluimvee wel of niet in aanraking is geweest met salmonella, hieruit kan worden afgeleid dat de pluimveeproducten van de betreffende koppel kippen een hogere of lagere kans hebben op een besmetting met salmonella. </antwoord>
+      <antwoord nummer="3">Het beleid van de overheid is gericht op een sterke en snelle reductie van salmonella en campylobacter in pluimveevlees. Goede hygiëne, snelle en goede detectiemethoden in combinatie met kanalisatie van besmet pluimveevlees naar de verwerkende industrie is de basis voor het realiseren van pathogeen-vrij pluimveevlees voor de consument. Detectiemethoden die daartoe beschikbaar zijn, dan wel komen, zijn van groot belang voor de uitvoering van dit beleid. Welke specifieke methoden gebruikt worden, is vooral een keuze van de sector zelf. Voorwaarde is dat het doel, pathogeenvrij vlees voor de consument, zo spoedig mogelijk bereikt dient te worden. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="1 " aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19871988:0001784</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001784&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001784</item>
+         <item attribuut="Document-id">0000099498</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1987-1988 nummer 841</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Dijkstal, Van Heemskerck Pillis-Duvekot, Hermans en Korthals (allen V.V.D.) over het beëindigen van de vrijstelling van dienstplicht voor politiepersoneel.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1987-1988 nummer 841</item>
+         <item attribuut="Jaargang">1987_1988</item>
+         <item attribuut="Vraagnummer">841</item>
+         <item attribuut="Indiener">
+            <persoon>Dijkstal</persoon>
+            <persoon>Van Heemskerck Pillis-Duvekot</persoon>
+            <persoon>Hermans</persoon>
+            <persoon>Korthals</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-12-15</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van Houwelingen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1988-09-14</item>
+         <item attribuut="Beginpagina">1691</item>
+         <item attribuut="Eindpagina">1692</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1987-1988 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van oe Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1987-1988, Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="841" onderwerp="het beëindigen van de vrijstelling van dienstplicht voor politiepersoneel." indiendatum="15 december 1986)">
+         <vrager partij="" oorsprong="parlement">Dijkstal</vrager>
+         <vrager partij="" oorsprong="parlement">Van Heemskerck Pillis-Duvekot</vrager>
+         <vrager partij="" oorsprong="parlement">Hermans</vrager>
+         <vrager partij="" oorsprong="parlement">Korthals</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 ">Heeft de staatssecretaris besloten  met onmiddellijke ingang de vrijstel- ling van dienstplicht voor politieper- soneel te beëindigen?  </vraag>
+      <vraag nummer="2 ">Welke overwegingen liggen hiervoor  ten grondslag?  </vraag>
+      <vraag nummer="3 ">Welke gevolgen zal dit hebben voor  de politie, mede in aanmerking  genomen dat sommige korpsen een  groot aantal vacatures hebben,  waarin reeds nu moeilijk kan worden  voorzien?  </vraag>
+      <vraag nummer="4 ">Is over deze beslissing overleg  gevoerd met de politievakorganisa- ties? Zo ja, wat is de uitkomst van dit  overleg?  Nader antwoord van staatssecretaris  (Ontvangen 14 september 1988)  In mijn antwoorden van 16 maart  1987 op vragen van de Tweede  Kamerleden Dijkstal, Hermans,  Korthals en Van Heemskerck  Pillis-Duvekot over de beëindiging  van de categoriale vrijstelling voor  politiepersoneel (Aanhangsel  Handelingen, Vergaderjaar 1986- 1987, nr. 506) heb ik medegedeeld u  hierover nog nader te informeren.  Het interdepartementaal gevoerde  overleg heeft geleid tot een praktische  oplossing, die voor alle betrokkenen  aanvaardbaar is en waarbij tegemoet  wordt gekomen aan mijn streven de  categoriale vrijstellingsregelingen af  te schaffen, terwijl wel de mogelijk- heid van vrijstelling op individuele  gronden blijft bestaan.  Als bijlage doe ik u hierbij toekomen  de brief aan de burgemeesters van de  minister van Binnenlandse Zaken,  mede namens zijn collega van  Justitie. </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Ter inzage gelegd op de bibliotheek. </noot>
+      </noten>
+   </antwoorden>
+</kvr>

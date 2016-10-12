@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001065</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001065&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001065</item>
+         <item attribuut="Document-id">0000027402</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 132</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Schutte (G.P.V.) over de ondervertegenwoordiging van vrouwen in politieke organisaties.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 132</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">132</item>
+         <item attribuut="Indiener">
+            <persoon partij="GPV">Schutte</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-10-25</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Dales</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-11-06</item>
+         <item attribuut="Beginpagina">267</item>
+         <item attribuut="Eindpagina">268</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="267" allpagenumbers="267" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="132" onderwerp="de ondervertegenwoordiging van vrouwen in politieke organi– saties." indiendatum="1990-10-25">
+         <vrager partij="GPV" oorsprong="parlement">Schutte</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-11-6">
+         <antwoorder functie="minister" ministerie="Binnenlandse Zaken">Dales</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Hebt u aan de Emancipatieraad advies gevraagd over mogelijkheden om de ondervertegenwoordiging van vrouwen in politieke organisaties en bestuurlijke organen om te buigen in een meer evenredige? </vraag>
+      <vraag nummer="2">Hebt u daarbij de mogelijkheid geopperd van samenwerking bij convenant tussen de overheid en politieke partijen? </vraag>
+      <vraag nummer="3">Deelt u de mening, dat het voor het goed functioneren van ons politieke bestel essentieel is, dat politieke partijen binnen de grenzen van Grondwet en wet geheel onafhan– kelijk zijn van de overheid, in het bijzonder waar het betreft het kandidaat stellen van personen voor algemeen vertegenwoordigende lichamen? Bent u bereid de adviesaanvraag voor wat betreft de mogelijke samenwerking tussen de overheid en politieke partijen in te trekken? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Ja. </antwoord>
+      <antwoord nummer="3">Ja. </antwoord>
+      <antwoord nummer="4" voetnoot="1">Nee, in de adviesaanvraag wordt duidelijk gesteld dat dit slechts een aangelegenheid van de politieke partijen kan zijn (zie bijlage). <voetnoot nummer="1"/>
+      </antwoord>
+      <antwoord nummer="5" voetnoot="1">Nee. <voetnoot nummer="1"/> Ter inzage gelegd op de bibliotheek. Onderkent u, dat van de adviesaan– vraag op z'n minst de suggestie uitgaat van beïnvloeding van de kandidaatstelling door de overheid? </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19871988:0001233</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001233&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001233</item>
+         <item attribuut="Document-id">0000098947</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1987-1988 nummer 294</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van Es (P.S.P.) over de gevangenisstraf van een Greenpeace-activist.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1987-1988 nummer 294</item>
+         <item attribuut="Jaargang">1987_1988</item>
+         <item attribuut="Vraagnummer">294</item>
+         <item attribuut="Indiener">
+            <persoon partij="PSP">Van Es</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-12-08</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Lubbers</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1988-01-26</item>
+         <item attribuut="Beginpagina">589</item>
+         <item attribuut="Eindpagina">590</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="" typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, mei de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 7 - 1 9 8 8 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="294" onderwerp="de gevangenisstraf van een Greenpeace-activist." indiendatum="8 december 1987)">
+         <vrager partij="PSP" oorsprong="parlement">Van Es</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1 ">Is het u bekend, dat een Nederlandse  Greenpeace-dctivist, die op  geweldloze en symbolische wijze  heeft geprotesteerd tegen de  ernstige vervuiling van de Ierse Zee  door lozingen van de Britse opwer- kingsfabriek bij Sellafield, door het  Britse Hooggerechtshof is veroor- deeld tot een gevangenisstraf van 3  maanden?  </vraag>
+      <vraag nummer="2 ">Deelt u de mening, dat de nu  ontstane toestand waarbij de vervuiler  mag blijven vervuilen en de bescher- mer van het milieu wordt veroordeeld  ongerijmd en onbevredigend is?  </vraag>
+      <vraag nummer="3 ">Welke stappen heeft de regering  genomen of overweegt zij om de  gevangenisstraf van de Greenpeace- activist ongedaan te maken?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="2 ">Voor de mening als in deze vraag tot  uitdrukking gebracht, kunnen wij  begrip hebben. De toestand van het  mariene milieu vervult de regering  met zorg, zoals onder meer moge  blijken uit het standpunt dat van  Nederlandse zijde is ingenomen op  de jongste Noordzee-conferentie.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

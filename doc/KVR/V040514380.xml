@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="uur?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Eijsink (PvdA) aan de staatssecretaris van Defensie over dreigend ontslag voor oudere militairen. (Ingezonden 4 mei 2005)</item>
+         <item attribuut="Bestand">15Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V040514380
+</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van een bericht in NRC Handelsblad van 30 april 2005.</item>
+         <item attribuut="Rubriek">Inkomen en rechtspositie (Ontslagen) Veiligheidsbeleid en defensie (Militairen) Welzijn (Ouderen)</item>
+         <item attribuut="Trefwoorden">Militairen Ontslagen Ouderen</item>
+         <item attribuut="Vindplaats">Kamervragen 2004-2005, vraagnr. 2040514380, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2040514380</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Eijsink</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2005-05-04</item>
+         <item attribuut="Document-id">V040514380</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2004–2005" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0405tkkvl2040514380" lopendefooter="Tweede Kamer, vergaderjaar 2004–2005, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2005"/>
+      <vraagdata vraagnummer="2040514380" onderwerp="" indiendatum="2005-05-4">
+         <vrager partij="PvdA" oorsprong="parlement">Eijsink</vrager>
+         <vraagt-aan>de staatssecretaris van Defensie</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="13">
+      <vraag nummer="1" voetnoot="1">Bent u op de hoogte van berichten over dreigend ontslag voor oudere militairen? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Klopt het dat u voornemens bent om «de komende jaren waarschijnlijk 3000 oudere militairen te ontslaan»? </vraag>
+      <vraag nummer="3" voetnoot="2">Hoe verhoudt zich het getal 3000 tot het in het Defensie migratieplan <voetnoot nummer="2"/>genoemde getal van 1391 BOT’ers (beroepsmilitairen voor onbepaalde tijd) die moeten afvloeien? </vraag>
+      <vraag nummer="4">Wat zijn in dit verband «oudere» militairen? </vraag>
+      <vraag nummer="5">Is dit dreigend ontslag een direct gevolg van het kabinetsbesluit om het prepensioen af te schaffen? </vraag>
+      <vraag nummer="6">Bent u van plan om de militaire ontslagleeftijd «ergens tussen de 60 en 65 jaar» te laten vallen? </vraag>
+      <vraag nummer="7">Hoe verdraagt dit beleid zich met de grote verjongingsoperatie bij Defensie die thans gaande is? Schuilt hierin niet een grote onderlinge tegenspraak? </vraag>
+      <vraag nummer="8" voetnoot="3">Deelt u de opvatting van oud-bevelhebber der landstrijdkrachten, H. Couzy, dat «Geld kennelijk belangrijker is dan gemotiveerd personeel»? <voetnoot nummer="3"/>
+      </vraag>
+      <vraag nummer="9">Hecht u veel waarde aan het draagvlak onder het personeel? Bent u niet bevreesd dat dit wordt uitgehold door deze dreigende nieuwe ontslagronde bovenop de lopende afslankingsoperaties? </vraag>
+      <vraag nummer="10" voetnoot="4">Klopt het, zoals Couzy stelt, dat u «geen enkel plan heeft» <voetnoot nummer="4"/>voor de invoering van de hogere ontslagleeftijd? Zo ja, wat wilt u daaraan doen? Zo neen, kan de Kamer die plannen dan per omgaande van u vernemen? Hoe wilt u deze plannen invoeren? </vraag>
+      <vraag nummer="11">Hoeveel oudere militairen worden «overtollig»? Wanneer? </vraag>
+      <vraag nummer="12">Kunt u de Kamer uitleggen waarom er nog steeds wordt gesproken van BBT-(beroepsmilitairen bepaalde tijd) en BOT-militairen, terwijl uit uw migratieplannen blijkt dat dit onderscheid inmiddels is opgeheven? </vraag>
+      <vraag nummer="13">Wilt u deze vragen beantwoorden vóór, 17 mei 2005, om 12.00 </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" datum="2005-04-30" bron="NRC Handelsblad">NRC Handelsblad, 30 april 2005</noot>
+         <noot nummer="2" documenttype="Kamerstuk" kamerstuk-id="29 800 X" documentnummer="62">Kamerstuk 29 800 X, nr. 62</noot>
+         <noot nummer="3" datum="2005-04-30" bron="NRC Handelsblad">NRC Handelsblad, 30 april 2005</noot>
+         <noot nummer="4">ibid</noot>
+      </noten>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001710</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001710&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001710</item>
+         <item attribuut="Document-id">0000012014</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 780</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Feenstra (PvdA) en Esselink (CDA) over natuur- en milleu-educatie.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 780</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">780</item>
+         <item attribuut="Indiener">
+            <persoon>Feenstra</persoon>
+            <persoon>Esselink</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-06-11</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Bukman</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-07-22</item>
+         <item attribuut="Beginpagina">1591</item>
+         <item attribuut="Eindpagina">1592</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1591" allpagenumbers="1591" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="780" onderwerp="natuur– en milleu-educatie." indiendatum="1993-06-11">
+         <vrager partij="" oorsprong="parlement">Feenstra</vrager>
+         <vrager partij="" oorsprong="parlement">Esselink</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-07-22">
+         <antwoorder functie="minister" ministerie="Landbouw, Natuurbeheer en Visserij">Bukman</antwoorder>
+         <mede-antwoorder>de minister-president</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Herinnert u zich de kameruitspraken van juni 1988 waarin een uitbouw en een gezamenlijke inzet van de zes betrokken departementen voor natuur– en milieu-educatie (NME) werd verlangd? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2" voetnoot="2">Herinnert u zich, dat nadien vanuit de Kamer regelmatig naar het uitbrengen van het Kaderplan NME is geïnformeerd en dat er van regeringszijde regelmatig toezeggingen over het moment van publiceren zijn gedaan? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="3">Kunt u bevorderen, dat de Kamer op zo kort mogelijke termijn het verlangde Kaderplan ontvangt? </vraag>
+      <vraag nummer="4">Welke bedragen hebben de betrokken ministeries vanaf 1988 vrijgemaakt voor NME? Hoeveel is daarvan toebedeeld aan particuliere organisaties? Worden er voldoende middelen overgedragen voor natuur– en milieu-educatie in het onderwijs? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="3"/>
+         <noot nummer="1"> Zie: motie-Esselink (20 487 nr. 3) en motie-Feenstra (20 487 nr. 4) gericht op de in de Interdepartementale Werkgroep NME deelnemende departementen van LNV, VROM, V&amp;W, EZ, O&amp;W en OS</noot>
+         <noot nummer="2"> Zie: Aanhangsel Handelingen '89-'90 nr. 856; Brief van de staatssecretaris van LNV, juli 1991 (20487 nr. 9); Voortgangsrapportage Kaderplan NME, augustus 1992 (20487 nr. 11); Begroting Milieubeheer 1993, oktober 1992 (Handelingen '92-'93 nr. 5)</noot>
+         <noot nummer="3"> Algemene Beschouwingen oktober 1990 (Handelingen '90-'91 nr. 3); Antwoord op vraag 44 en 45 (20 487 nr. 8)</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="12">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Ja. </antwoord>
+      <antwoord nummer="3">Ja. </antwoord>
+      <antwoord nummer="4">Vanaf 1988 zijn door de betrokken ministeries de volgende bedragen (in mln. guldens) voor NME vrijgemaakt. In deze opsomming zijn uitsluitend de voor NME bestemde middelen vermeld en geen middelen die ten dele voor NME zijn bestemd of bestemd zijn voor voorlichting. Voor het Ministerie van BuiZa (ontwikkelingssamenwerking) betekent dit, dat geen bedragen bestemd voor overheidsvoorlichting zijn opgenomen. 1988 1989 1990 1991 1992 1993 LNV VROM V&amp;W EZ O&amp;W WVC OS 7,3 </antwoord>
+      <antwoord nummer="3">- </antwoord>
+      <antwoord nummer="3">7,8 </antwoord>
+      <antwoord nummer="4">_ ,1 7,9 7,5 - 1,0 0,38 0, - </antwoord>
+      <antwoord nummer="16"/>
+      <antwoord nummer="1"/>
+      <antwoord nummer="0">- ,0 ,16 1, 0, - </antwoord>
+      <antwoord nummer="7"/>
+      <antwoord nummer="16">8,5 8,4 1,34 2,0 2,0 0,16 - 8,7 9,5 2,31 3,0 3,0 0,36 2,0 9,2 7,9 4,0 4,0" 4,0 0,36" 2,0 * Ooor het Ministerie van Economische zaken zijn tevens middelen beschikbaar gesteld voor andere doeleinden, die ook NME-aspecten hebben. " Door het Mimstene van WVC zijn tevens middelen voor andere hoofddoeleinden beschikbaar gesteld Een deel van deze middelen komt echter ook aan NME-doelen ten goede Van de bovengenoemde middelen zijn de volgende bedragen als subsidies voor NME-activiteiten toegekend aan particuliere organisaties: 1988 1989 1990 1991 1992 1993 LNV WVC 4,7 4,7 4,7 5,0 5,2 5,2 0,13 0,13 Het overgrote deel van de door het Ministerie van VROM ten behoeve van natuur– en milieu-educatie beschikbaar gestelde gelden wordt toebedeeld aan maatschappelijke organisaties, een klein deel aan onderwijs(verzorgings)instellingen en een zeer gering deel aan commerciële organisaties, die in deze sfeer werkzaam zijn. Omdat een toenemend aantal projecten gedragen wordt door samenwerkingsverbanden van milieu– en andere organisaties, is commerciële organisaties, die in de NME-sfeer werkzaam zijn. De door het Ministerie van Buitenlandse Zaken (ontwikkelingssamenwerking) in het kader van NME bestede middelen komen eveneens geheel ten goede aan het onderwijs, via particuliere organisaties. Het antwoord op de laatste volzin van deze vraag, waarin gevraagd wordt of er voldoende middelen worden overgedragen voor natuur– en milieu-educatie in het onderwijs, luidt eveneens «ja». Ter toelichting wordt voorts verwezen naar de financiële opstelling in de brief van de staatssecretaris van Onderwijs en Wetenschappen van 30 januari 1993, II, '91-92, 20487, nr. 10, alsmede naar die van de Sectorbeleidsplannen NME van 18 maart 1993, II, '92-93, 20487, nr. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

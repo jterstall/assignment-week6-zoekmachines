@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Dezentjé Hamming-Bluemink (VVD) aan de minister van Financiën over foutieve postbankrekeningnummers in aangiftebrieven inkomstenbelasting. (Ingezonden 23 januari 2007); Antwoord</item>
+         <item attribuut="Bestand">15Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR27316
+</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van bericht (Telegraaf, 16 januari 2007) over feit dat in de uitnodigingen tot het doen van de aangifte inkomstenbelasting over het jaar 2006 in circa 30.000 gevallen een onjuist Postbankrekeningnummer van de geadresseerde is vermeld. Indiener wil weten hoe dergelijke fouten voortaan kunnen worden voorkomen.</item>
+         <item attribuut="Rubriek">Belastingen (Belastingdiensten) Belastingen (Inkomstenbelasting)</item>
+         <item attribuut="Trefwoorden">Belastingdienst Inkomstenbelasting</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2006-2007, nr. 806, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2060705970</item>
+         <item attribuut="Afkomstig_van">Financiën (FIN)</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Dezentjé Hamming-Bluemink</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2007-02-13</item>
+         <item attribuut="Datum_indiening">2007-01-23</item>
+         <item attribuut="Document-id">KVR27316</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2006–2007" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1731" allpagenumbers="1731" vetnummer="2060705970" code="0607tkkvr806" lopendefooter="Tweede Kamer, vergaderjaar 2006–2007, Aanhangsel" filenaam="KVR27316" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2007"/>
+      <vraagdata vraagnummer="806" onderwerp="" indiendatum="2007-01-23">
+         <vrager partij="VVD" oorsprong="parlement">Dezentjé Hamming-Bluemink</vrager>
+         <vraagt-aan>de minister van Financiën</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2007-02-13">
+         <antwoorder functie="minister" ministerie="Financiën">Zalm</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Bent u bekend met het feit dat in de uitnodigingen tot het doen van aangifte inkomstenbelasting over het jaar 2006 in circa 30.000 gevallen een onjuist Postbankrekeningnummer van de geadresseerde is vermeld? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Weet u wat de oorzaak hiervan is geweest? Zo ja, is hier sprake van een incidentele vergissing of is de oorzaak meer structureel van aard? Zo neen, bent u bereid de oorzaak te achterhalen? </vraag>
+      <vraag nummer="3">Bent u voornemens de fout en de oorzaken ervan te herstellen? Zo ja, welke kosten (loonkosten, materiaalkosten, porti etc.) zijn er gemoeid met het herstel van deze fout(en)? </vraag>
+      <vraag nummer="4">Bent u voornemens maatregelen te treffen om te voorkomen dat zulke fouten in de toekomst opnieuw worden gemaakt? Zo ja, welke? Zo neen, waarom niet? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="2007-01-16" bron="De Telegraaf">De Telegraaf, 16 januari 2007</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja. Het aantal gevallen waarin sprake was van vermelding van een onjuist Postbankrekeningnummer betrof overigens 300.000 aangiftebrieven (zie persbericht van het ministerie van Financiën, 15 januari 2007). </antwoord>
+      <antwoord nummer="2, 3 en 4">De fout werd veroorzaakt door een softwarefout: in één productierun is een verkeerd bestand van Postbankrekeningnummers ingelezen. Deze fout had een incidenteel karakter en is inmiddels hersteld. De betrokken belastingplichtigen hebben een excuusbrief van de Belastingdienst ontvangen waarin de fout is gemeld en het juiste Postbankrekeningnummer is aangegeven. De integrale kosten van de herstelactie zijn begroot op ongeveer € 0,5 mln; het grootste deel hiervan wordt veroorzaakt door het maken van excuusbrieven en het opnieuw genereren van aangiftebrieven. Fouten in de massale productieprocessen van de Belastingdienst kunnen helaas nooit geheel worden voorkomen. De Belastingdienst wil desalniettemin de kans op het optreden van dit soort fouten zoveel mogelijk beperken door meer kwaliteitscontrole te gaan verrichten op uitgaande poststromen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

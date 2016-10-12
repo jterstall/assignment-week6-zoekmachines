@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="worden weggenomen?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19891990:0001153</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001153&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001153</item>
+         <item attribuut="Document-id">0000035560</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 231</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Buurmeijer en Schoots (beiden P.v.d.A.) over de bijstandsuitkering.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 231</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">231</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Buurmeijer</persoon>
+            <persoon partij="PvdA">Schoots</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-11-27</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Ter Veld</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-12-28</item>
+         <item attribuut="Beginpagina">467</item>
+         <item attribuut="Eindpagina">468</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="467" allpagenumbers="467" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="231" onderwerp="de bijstandsuitkering." indiendatum="1989-11-27">
+         <vrager partij="PvdA" oorsprong="parlement">Buurmeijer</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Schoots</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Beschouwt de gemeente Hoorn teruggave van inkomstenbelasting en premieheffing als inkomen bij de toekenning van een bijstandsuit– kering? </vraag>
+      <vraag nummer="2">Zo ja, waarop is de opvatting gebaseerd, dat een dergelijke teruggave die voortvloeit uit de belastingwetgeving dient te leiden tot een verlaging van de uitkering? </vraag>
+      <vraag nummer="4"/>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+   <mededeling mededeler="Ter Veld" functie="staatssecretaris" afdeling="Sociale Zaken en Werkgele– genheid" mededelingdatum="1989-12-28">Mededeling van staatssecretaris Ter Veld (Sociale Zaken en Werkgele– genheid). (Ontvangen 28 december 1989). De bij uw brief van 28 november jl. toegezonden vragen van de leden Buurmeijer en Schoots inzake de bijstandsverlening in de gemeente Hoorn kunnen tot mijn spijt niet binnen de gebruikelijke termijn worden beantwoord omdat hierom– trent momenteel door de rijksconsu– lenten Sociale Zekerheid nadere informatie worden ingewonnen. Ik zeg u gaarne toe dat de beant– woording zo spoedig mogelijk zal geschieden. Deelt u de opvatting, dat indien een dergelijke beoordeling conform de bestaande regelgeving van de algemene bijstandswet geschiedt, de gevolgen hiervan als ongewenst en onrechtvaardig zijn te kwalificeren? 4 Zo ja, bent u bereid terzake maatre– gelen te overwegen, die ertoe leiden, dat dergelijke onrechtvaardigheden </mededeling>
+</kvr>

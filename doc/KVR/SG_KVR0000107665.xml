@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001890</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001890&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001890</item>
+         <item attribuut="Document-id">0000107665</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 857</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid De Visser (P.v.d.A.) over de overdracht van paspoort ontwerp-activiteiten van KEP B.V. naar Joh. Enschede en Zn.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 857</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">857</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">De Visser</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-06-30</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van der Linden</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-07-09</item>
+         <item attribuut="Beginpagina">1709</item>
+         <item attribuut="Eindpagina">1710</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1986-1987 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="857" onderwerp="de overdracht van paspoort o n t w e r p a c t i v i t e i t e n van KEP B V . naar Joh. Enschede en Zn." indiendatum="3 0 juni 1987)">
+         <vrager partij="PvdA" oorsprong="parlement">De Visser</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="9 juli 1987)">
+         <antwoorder functie="staatssecretaris" ministerie="Buitenlandse Zaken">V a n der Linden</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="1">
+      <vraag nummer="1 ">Is KEP  B V . niet in staat gebleken een  nieuw paspoort te ontwerpen en is  deze taak thans overgedragen aan  J o h . Enschede en Zn. te Haarlem?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1 ">Neen.  2  t / m 4  Niet van toepassing. Van enige  vergelijkbaarheid met het «rijbewijs- gebeuren» zoals in de gestelde  vragen wordt gesuggereerd, is geen  sprake.  Zo ja, wil de staatssecretaris de  gevolgen van deze maatregel  schetsen en daarbij in het bijzonder  aandacht schenken aan de volgende  aandachtspunten:  - de positie van de KEP-organisatie  en de gesloten samenwerkingsover- eenkomst;  - de «haalbaarheid» van de randvoor- waarden, die voor het paspoortproject  door de regering zijn gesteld?  </antwoord>
+      <antwoord nummer="3 ">Heeft de staatssecretaris zich er van  vergewist, dat deze overdracht van  paspoort  o n t w e r p a c t i v i t e i t e n van  KEP naar  J o h . Enschede geen straf- rechtelijke auteursrechtelijke  gevolgen zal hebben, zoals deze  momenteel dreigen na de jongste  overdracht van het rijbewijs-ontwerp  van de Staatsdrukkerij naar Johan  Enschede?  </antwoord>
+      <antwoord nummer="4 ">Heeft de staatssecretaris, gezien de  huidige toestand, het overleg met de  Staatsdrukkerij hervat om na te gaan  hoe de daar aanwezige deskundigheid  alsnog kan worden aangewend? Zo  neen, waarom niet? Zo ja, tot welke  resultaten heeft dat geleid?  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

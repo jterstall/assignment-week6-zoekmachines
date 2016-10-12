@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="6">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001447</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001447&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001447</item>
+         <item attribuut="Document-id">0000011751</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 517</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van Rey (VVD) over de positie van de Alte Leipziger Versicherung AG.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 517</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">517</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Van Rey</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-03-24</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Kok</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-04-20</item>
+         <item attribuut="Beginpagina">1057</item>
+         <item attribuut="Eindpagina">1060</item>
+         <item attribuut="Omvang">4 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1057" allpagenumbers="1057 1058" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="'s Gravenhage 1993"/>
+      <vraagdata vraagnummer="517" onderwerp="de positie van de Alte Leipziger Versicherung AG." indiendatum="1993-03-24">
+         <vrager partij="VVD" oorsprong="parlement">Van Rey</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-04-20">
+         <antwoorder functie="minister" ministerie="Financiën">Kok</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1" voetnoot="1">Hebt u kennis genomen van de twijfels in de verzekeringsbranche omtrent de zgn. filiaalconstructie van de Alte Leipziger Versicherung bij dienstverrichtingen naar ons land? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Kan de notificatieverplichting worden omzeild door de dienstverrichting naar ons land te laten plaatsvinden via een vestiging van een Nederlandse tussenpersoon in het land waar de verzekeraar zetelt? Is Alte Leipziger Versicherung AG bij het verzekeren van Nederlandse «WAO-risico's» in dienstverrichting via het Duitse intermediair als schade– of levensverzekeraar actief? </vraag>
+      <vraag nummer="4">Behoeft Alte Leipziger Versicherung AG als levensverzekeraar tot 20 mei 1993 niet genotificeerd te zijn? </vraag>
+      <vraag nummer="5">Welke gevolgen heeft het ontbreken van de notificatieverplichting tot 20 mei 1993 voor de tot dan toe gesloten polissen voor Nederlandse «WAO-risico's» en de rechtsbescherming van de verzekeringsconsument? Kan het toezicht door de Lid-Staat van vestiging (i.c. Duitsland) als toereikend worden aangemerkt nu er sprake is van een typisch Nederlands verzekeringsprodukt? </vraag>
+      <vraag nummer="7">Zijn de waarborgen van de Pensioen– en spaarfondsenwet van toepassing op de verzekeringsprodukten naar buitelands recht? </vraag>
+      <vraag nummer="8">Zijn de premies voor verzekeringsprodukten naar buitenlands recht aftrekbaar voor de inkomsten– of vennootschapsbelasting? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1993-03-11" bron=" Het Verzekeringsblad"> Het Verzekeringsblad, 11 maart 1993, p. 263-264</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="6">
+      <antwoord nummer="1">Ja. Nee. Van dienstverrichting is sprake wanneer een verzekeraar vanuit een vestiging in een staat verzekeringen sluit in een andere staat, zonder aldaar te zijn gevestigd. Of een verzekeraar daarbij al dan niet een tussenpersoon inschakelt, is voor de vraag of er sprake is van dienstverrichting niet relevant. De notificatieplicht, zoals die thans voor schadeverzekeraars bestaat en voor levensverzekeraars met ingang van 20 mei 1993 van toepassing wordt, kan door het inschakelen van een tussenpersoon derhalve niet worden omzeild. </antwoord>
+      <antwoord nummer="3">Naar ik heb vernomen van de Verzekeringskamer betreft het de Alte Leipziger Lebensversicherung AG (in Duitsland wordt het desbetreffende produkt als levensverzekering beschouwd). </antwoord>
+      <antwoord nummer="4">De notificatieprocedure voor levensverzekeraars die diensten verrichten naar Nederland geldt ingevolge de Wet van 1 juli 1992 tot wijziging van de Wet toezicht verzekeringsbedrijf in verband met de tweede richtlijn levensverzekering (Stb. 1992, 441). Aangezien deze wet met ingang van 20 mei 1993 in werking treedt, behoeven in andere staten gevestigde levensverzekeraars tot die datum niet bij de Verzekeringskamer te notificeren indien zij voornemens zijn diensten te verrichten naar Nederland. </antwoord>
+      <antwoord nummer="5">De notificatieprocedure, zoals die reeds geldt voor schadeverzekeraars en met ingang van 20 mei 1993 gaat gelden voor levensverzekeraars, betreft het overleggen van bepaalde gegevens aan de Verzekeringskamer. Deze gegevens betreffen: - een certificaat waarin de toezichthoudende autoriteit van de EG-lid-staat waar de verzekeraar zijn zetel heeft, verklaart dat de verzekeraar beschikt over de vereiste ontbreken van deze procedure geen gevolgen voor de tot nu toe in dienstverrichting gesloten verzekeringen en voor de rechtsbescherming van de verzekeringsconsument. Overigens wordt erop gewezen dat de Verzekeringskamer, indien in een voorkomend geval het belang van verzekeringsnemers, verzekerden of gerechtigden op uitkeringen dat met zich zou brengen, op grond van de Wet toezicht verzekeringsbedrijf nu reeds de bevoegdheid heeft aan een verzekeraar met zetel buiten Nederland voorschriften of een verbod op te leggen ter zake van acquisitie in Nederland met betrekking tot vanuit een vestiging buiten Nederland te sluiten overeenkomsten van levensverzekering. </antwoord>
+      <antwoord nummer="6">De Duitse toezichthouder ziet toe op de solvabiliteit van de betrokken verzekeraar, maar beoordeelt niet of in dienstverrichting naar Nederland gesloten verzekeringen «passend» zijn gelet op de behoeften van de consument en de in Nederland toepasselijke wettelijke regels. Ook de Verzekeringskamer houdt thans - en evenmin na de invoering van de notificatieprocedure - geen toezicht op de inhoud van de verzekeringsovereenkomst. In een open verzekeringsmarkt als de Nederlandse, waar sprake is van effectieve concurrentie, zullen verzekeraars om commerciële redenen hun produkten zo goed mogelijk moeten afstemmen op de behoeften van de consument. Deze marktwerking wordt in Nederland dwingend van toepassing, ook indien die verzekering in dienstverrichting wordt gesloten met een buitenlandse verzekeraar. Een werkgever die een verzekenng sluit die niet aan de eisen van de PSW c.q. de Regelen voldoet, is strafbaar (artikel 30 PSW). Overigens is dit onderwerp, met inachtneming van vele mogelijke internationale situaties en complicaties die aan het internationale privaatrecht eigen zijn, uitgebreid aan de orde geweest bij de behandeling van de Wet van 23 december 1992 tot uitvoering van enkele conflictenrechtelijke bepalingen van de richtlijn 90/619/EEG van de Raad van de Europese Gemeenschappen van 8 november 1990, PbEG L 330 en coördinatie van conflictenrechtelijke bepalingen van het op 19 juni 1980 te Rome tot stand gekomen verdrag inzake het recht dat van toepassing is op verbintenissen uit overeenkomst, Trb. 1980, nr. 156, met die van de richtlijn (Stb. 1993, 16). Naar de desbetreffende Kamerstukken wordt verwezen'. </antwoord>
+      <antwoord nummer="8" voetnoot="3">Premies voor verzekeringsprodukten zijn aftrekbaar voor de loon–, inkomsten– of vennootschapsbelasting indien wordt voldaan aan de daartoe in de wet en de jurisprudentie gestelde eisen. Dit geldt ook voor verzekeringsprodukten naar buitenlandse recht. Met betrekking tot - al dan niet bij een buitenlandse verzekeraar afgesloten - polissen waarbij het Nederlandse «WAO-risico» is verzekerd, kan in dit verband een onderscheid worden gemaakt tussen premies, indien zij voor rekening van de werkgever komen, niet zijn belast dan wel, indien zij op de werknemer worden verhaald, in feite aftrekbaar zijn als verplichte bijdrage ingevolge een pensioenregeling (artikel 11, eerste lid, onderdeel a en onderdeel i, onder 1 °, van de Wet op de loonbelasting 1964). Dit geldt ook voor verzekeringsprodukten naar buitenlands recht. Hierbij zij wel opgemerkt dat ingevolge het wetsvoorstel Brede herwaardering II <voetnoot nummer="3"/>als voorwaarde zal worden gesteld dat de verzekeraar de pensioenverplichtingen - behoudens een hier niet relevante uitzondering - tot het binnenlandse ondernemingsvermogen van een Nederlandse vestiging rekent. Indien een werkgever aan een werknemer een aanspraak op een aanvullende invaliditeitsuitkering toekent anders dan via een pensioenregeling in de zin van de loonbelasting, zijn de premies voor de loonbelasting eveneens niet belast dan wel aftrekbaar indien het gaat om aanspraken die naar aard en strekking overeenkomen met aanspraken ingevolge de Wet op de arbeidsongeschiktheidsverzekering (artikel 11, eerste lid, onderdeel c en onderdeel i, onder 3°, van de Wet op de loonbelasting 1964). Indien een werkgever dergehjke premies voor zijn rekening neemt ten behoeve van werknemers zullen dit in het algemeen loonkosten zijn, welke voor de inkomsten– of vennootschapsbelasting van de winst aftrekbaar zijn. Indien een particulier buiten de loonsfeer een arbeidsongeschiktheidsverzekering </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

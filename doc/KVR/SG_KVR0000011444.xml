@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001140</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001140&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001140</item>
+         <item attribuut="Document-id">0000011444</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 209</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Groenman en Wolffensperger (beiden D66) over kentekenregistratie van bezoekers van homo-ontmoetingsplaatsen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 209</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">209</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Groenman</persoon>
+            <persoon partij="D66">Wolffensperger</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-11-16</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Hirsch Ballin</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-12-08</item>
+         <item attribuut="Beginpagina">431</item>
+         <item attribuut="Eindpagina">432</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="431" allpagenumbers="431" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="209" onderwerp="kentekenregistratie van bezoekers van homo-ontmoetingsplaatsen." indiendatum="1992-11-16">
+         <vrager partij="D66" oorsprong="parlement">Groenman</vrager>
+         <vrager partij="D66" oorsprong="parlement">Wolffensperger</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="8 december">
+         <antwoorder functie="minister" ministerie="Justitie">Hirsch Ballin</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Kloppen de berichten over registratie door sommige politiekorpsen van kentekens van bezoekers van homo-ontmoetingsplaatsen? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Zo ja, in welke vorm en met welk doel vindt deze kentekenregistratie plaats? </vraag>
+      <vraag nummer="3">Kunnen politiekorpsen zich daarbij beroepen op instructies van het Openbaar Ministerie? Zo ja, hoe luiden deze? Zo neen, op welke basis geschiedt kentekenregistratie dan? </vraag>
+      <vraag nummer="4">Biedt de Wet op de politieregisters de mogelijkheid gevoelige gegevens te registreren uit een oogpunt van preventie? </vraag>
+      <vraag nummer="5">Bent u van mening, dat het middel van kentekenregistratie noodzakelijk is voor het doel dat gelegen is in bescherming van homoseksuele mannen tegen agressie? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1992-11-14" bron=" Gaykrant"> Gaykrant, 14 november 1992</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja. Daarbij zij aangetekend dat de registratie van kentekens door de in het desbetreffende artikel genoemde groepen van het Korps Rijkspolitie op tijdelijke basis plaatsvond, en dat in Barendrecht een dergelijke registratie niet plaatsvindt en ook in het verleden niet heeft plaatsgevonden. </antwoord>
+      <antwoord nummer="2">De doelstelling van de registratie en de vorm daarvan waren verschillend bij de betrokken politiekorpsen. In Schagen werden de kentekens uitsluitend in het belang van een eventuele opsporing genoteerd. In Someren vond registratie uitsluitend plaats ten behoeve van het bestrijden van overlast als gevolg van prostitutie aldaar; in de overige gevallen werd naast de bestrijding van overlast als doelstelling van de registratie de opsporing van delicten, gepleegd op of in de omgeving van homo-ontmoetingsplaatsen, en het voorkomen van dergelijke delicten genoemd. In Valkenburg werden mutaties opgenomen in een geautomatiseerd mutatiesysteem; in de andere gevallen vond handmatige opslag van de gegevens plaats. Neen. De kentekenregistratie geschiedde in Someren in overleg met het plaatselijk gezag; in de andere gevallen op eigen initiatief van de betrokken politiekorpsen. </antwoord>
+      <antwoord nummer="4">Ja. In het algemeen mag geen politieregister worden aangelegd dan wanneer dit noodzakelijk is voor een goede uitvoering van de politietaak. Hieruit volgt dat politieregisters ook kunnen worden aangelegd met als doel de voorkoming van strafbare feiten. Ten aanzien van de registratie van gegevens met betrekking tot sexualiteit en intiem levensgedrag is artikel 5 van de Wet politieregisters van toepassing. Op grond van deze bepaling kan registratie van dergelijke gegevens uitsluitend plaatsvinden, indien dat voor het doel van het register onvermijdelijk is, en dit plaatsvindt in aanvulling op andere gegevens. Bovendien bepaalt artikel 3, eerste lid, van het Besluit politieregisters, dat opneming van dergelijke gegevens slechts mogelijk is indien het reglement voor het desbetreffende register dit uitdrukkelijk toestaat. Over bepalingen in een reglement die dit mogelijk maken, moet de Registratiekamer vooraf worden gehoord ingevolge artikel 5, derde lid, van de Wet politieregisters. Met inachtneming van deze regels is een dergelijke registratie dus mogelijk. </antwoord>
+      <antwoord nummer="5">Dat hangt van de omstandigheden af. Ik ben van mening dat in die gevallen waarin er concrete aanwijzingen bestaan op grond waarvan kan worden verwacht dat op bepaalde plaatsen homosexuele daarin opgenomen gegevens - in beginsel - uitsluitend voor het doel van dat register mogen worden gebruikt, en na het bereiken van dat doel moeten worden vernietigd, voor zover zij geen betekenis meer hebben voor een eventueel strafrechtelijk vervolg. Daarbij merk ik op dat het de politie niet vrij staat om door een keuze voor een andere vorm van registratie niet aan de vereisten genoemd in vraag 4 te voldoen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

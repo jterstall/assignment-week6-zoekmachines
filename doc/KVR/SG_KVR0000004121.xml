@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0001610</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001610&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001610</item>
+         <item attribuut="Document-id">0000004121</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 396</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Esselink (CDA) over natuurontwikkeling en relatienota-reservaatvorming.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 396</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">396</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Esselink</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-02-23</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Gabor</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-03-28</item>
+         <item attribuut="Beginpagina">805</item>
+         <item attribuut="Eindpagina">806</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="805" allpagenumbers="805" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's-Gravenhage 1994"/>
+      <vraagdata vraagnummer="396" onderwerp="natuurontwikkeling en relatienota-reservaatvorming." indiendatum="1994-02-23">
+         <vrager partij="CDA" oorsprong="parlement">Esselink</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-03-28">
+         <antwoorder functie="staatssecretaris" ministerie="Landbouw, Natuurbeheer en Visserij">Gabor</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1">Ondervinden bedrijven die als laatste ten behoeve van natuurontwikkeling of relatienota-reservaatvorming worden aangekocht hiervan geen extra financiële nadelen? Hoe worden de gebouwen in geval van verplaatsing van bedrijven in de taxatie meegerekend? </vraag>
+      <vraag nummer="3">Hoe worden de opstand en de inkomensderving in geval van verplaatsing van een fruitbedrijf in de taxatie meegerekend? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">In de Regeling begrenzing natuurontwikkelingsprojecten en in de Regeling beheersovereenkomsten 1993 is bepaald dat het Bureau Beheer Landbouwgronden (BBL) koopplicht heeft. Bovendien is bepaald dat bij de taxatie geen rekening wordt gehouden met de ligging in het natuurontwikkelingsproject of reservaatsgebied. Op bedrijven die als laatste worden verworven is deze regeling onverkort van kracht zodat zij hierdoor geen financieel nadeel ondergaan. </antwoord>
+      <antwoord nummer="2">Het BBL is bereid de bedrijfsgebouwen van grondgebonden bedrijven waarvan het merendeel van de bedrijfsoppervlakte binnen het natuurontwikkelingsproject of reservaatsgebied is gelegen mee te verwerven. Daarbij wordt dan de agrarische waarde gehanteerd. Bij verplaatsing is bovendien, indien aan de voorwaarden wordt voldaan, de Regeling Verlening Hervestigingstoeslag van toepassing. </antwoord>
+      <antwoord nummer="3">Bij taxatie van een fruitteeltbedrijf wordt de agrarische waarde van de fruitopstand vermeerderd met de waarde van de grond. Teneinde inkomensderving te voorkomen bestaat de bereidheid om voortgezet gebruik van de verkochte gronden toe te staan totdat vervangende percelen in produktie zijn genomen die in een vervangend inkomen voorzien. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

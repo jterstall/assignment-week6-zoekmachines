@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0001568</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001568&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001568</item>
+         <item attribuut="Document-id">0000004079</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 354</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Ockels over televisiezendtijd voor onafhankelijke plaatselijke politieke partijen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 354</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">354</item>
+         <item attribuut="Indiener">
+            <persoon>Ockels</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-02-09</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van Thijn</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-03-08</item>
+         <item attribuut="Beginpagina">719</item>
+         <item attribuut="Eindpagina">720</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="719" allpagenumbers="719" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="'s Gravenhage 1994"/>
+      <vraagdata vraagnummer="354" onderwerp="televisiezendtijd voor onafhankelijke plaatselijke politieke partijen." indiendatum="1994-02-9">
+         <vrager partij="" oorsprong="parlement">Ockels</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-03-8">
+         <antwoorder functie="minister" ministerie="Binnenlandse Zaken">Van Thijn</antwoorder>
+         <mede-antwoorder>de minister van Welzijn, Volksgezondheid en Cultuur</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1" voetnoot="1">Verschillen de ministers van Binnenlandse Zaken en van Welzijn, Volksgezondheid en Cultuur van mening over het toekennen van televisiezendtijd aan de onafhankelijke plaatselijke politieke partijen (verenigd in het POG) in verband met de gemeenteraadsverkiezingen? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Wat is het standpunt van het kabinet terzake? Zijn er reeds stappen gezet door de minister van Binnenlandse Zaken met betrekking tot subsidie voor vorming en scholing van het politiek kader van de onafhankelijke politieke groeperingen, zoals deze ook wordt ontvangen door de landelijke partijen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> 19 nov. 1990, brief mw. d' Ancona aan dhr. B. Stoelinga (secr. POG). de Limburger van 21 mei  1993</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Nee. </antwoord>
+      <antwoord nummer="2" voetnoot="1">Naar aanleiding van het advies van de Commissie subsidiëring politieke partijen heeft het kabinet op 19 februari 1993 besloten dat de bestaande praktijk ten aanzien van de subsidiermg van pohtieke partijen wordt voortgezet <voetnoot nummer="1"/>. De zendtijd ten behoeve van politieke partijen wordt geacht deel uit te maken van het geheel aan subsidies en andere vormen van ondersteuning ten behoeve van politieke partijen en daaraan gelieerde instellingen. Dit houdt onder meer in dat geen verandering is gekomen in de afwijzende opstelling tegenover het verzoek van het Platform van plaatselijke onafhankelijke groeperingen om aan plaatselijke groeperingen landelijke televisiezendtijd toe te wijzen. De toewijzing van de reguliere landelijke zendtijd is beperkt tot partijen die in de Tweede Kamer zijn vertegenwoordigd, en bij verkiezingen voor de Tweede Kamer en het Europees Parlement, tot politieke partijen en groeperingen die in het hele land deelnemen. De huidige regeling voorziet dus niet in de toewijzing van speciale landelijke zendtijd bij verkiezingen voor provinciale staten of gemeenteraden. Ten aanzien van publieke omroep op lokaal en regionaal niveau is de situatie geheel anders dan voor landelijke publieke omroep Kent de Mediawet landelijk vele zendgemachtigden, op fokaal en regionaal niveau is per gebied slechts één publieke omroep mogelijk. Deze laatste gebruikt daarbij zijn zendtijd geheel voor een programma dat in het bijzonder betrekking heeft op de desbetreffende gemeente of provincie. Met dit voorschrift is een voldoende garantie geschapen dat ruime aandacht wordt gegeven aan plaatselijke danwel provinciale politieke partijen of groeperingen, met name in een periode voorafgaande aan verkiezingen voor gemeenteraad of provinciale staten. </antwoord>
+      <antwoord nummer="3">Nee. Op grond van het eerdergenoemde kabinetsstandpunt wordt een dergelijke verruiming van de bestaande subsidieregelingen voor politieke instituten niet overwogen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

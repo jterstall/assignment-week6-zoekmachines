@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="zweefbaan te bouwen?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001289</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001289&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001289</item>
+         <item attribuut="Document-id">0000035696</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 367</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Weisglas en Wiebenga (beiden V.V.D.) over de boycot van een bedrijf door het gemeentebestuur van Arnhem.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 367</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">367</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Weisglas</persoon>
+            <persoon partij="VVD">Wiebenga</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-02-01</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Dales</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-02-28</item>
+         <item attribuut="Beginpagina">739</item>
+         <item attribuut="Eindpagina">740</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="739" allpagenumbers="739" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="367" onderwerp="de boycot van een bedrijf door het gemeentebestuur van Arnhem." indiendatum="1990-02-1">
+         <vrager partij="VVD" oorsprong="parlement">Weisglas</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Wiebenga</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Hebt u kennis genomen van de beslissing van het gemeentebestuur van Arnhem om het bedrijf Magnetbahn BmbH uit te sluiten van de mogelijkheid een zweefbaan voor openbaar vervoer aan te leggen, omdat zijn moederbedrijf op de «zwarte lijst» van «LOTA» staat vanwege banden met Zuid-Afrika? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Acht u deze beslissing een vorm van boycot van een bedrijf op grond van pohtieke overwegingen, gebaseerd op een gemeenteraadsbeslissing, die voor vernietiging door de Kroon in aanmerking komt? </vraag>
+      <vraag nummer="4"/>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Zie o.m. NRC-Handelsblad van 31 januari</noot>
+      </noten>
+   </antwoorden>
+   <mededeling mededeler="Dales" functie="minister" afdeling="Binnenlandse Zaken" mededelingdatum="28februari 1990">Mededeling van minister Dales (Binnenlandse Zaken). (Ontvangen 28februari 1990) De bij brief van 2 februari 1990 aan mij en aan mijn ambtgenoten van Buitenlandse Zaken, Volkshuis– vesting, Ruimtelijke Ordening en Milieubeheer, Economische Zaken en Verkeer en Waterstaat aangeboden vragen van de leden der Kamer Weisglas en Wiebenga, over de boycot van een bedrijf door het gemeentebestuur van Arnhem, kunnen tot mijn spijt niet binnen de gestelde termijn worden beantwoord. De reden van het uitstel is dat de benodigde inlichten van het gemeen– tebestuur van Arnhem nog niet zijn ontvangen. Heeft het gemeentebestuur van Arnhem aan de ministers van Volks– huisvesting, Ruimtelijke Ordening en Milieubeheer, van Economische Zaken en van Verkeer en Waterstaat f 288 mln. gulden subsidie gevraagd voor de aanleg van deze zweefbaan? 4 Wilt u het gemeentebestuur van Arnhem mededelen, dat het niet in aanmerking komt voor deze rijkssub– sidie, zolang bedrijven op grond van politieke overwegingen worden uitgesloten van de mogelijkheid deze </mededeling>
+</kvr>

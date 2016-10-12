@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19871988:0001557</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001557&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001557</item>
+         <item attribuut="Document-id">0000099271</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1987-1988 nummer 614</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van Es (P.S.P.) over de controle op de maximumsnelheid.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1987-1988 nummer 614</item>
+         <item attribuut="Jaargang">1987_1988</item>
+         <item attribuut="Vraagnummer">614</item>
+         <item attribuut="Indiener">
+            <persoon partij="PSP">Van Es</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1988-04-29</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Korthals Altes</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1988-06-09</item>
+         <item attribuut="Beginpagina">1233</item>
+         <item attribuut="Eindpagina">1234</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="" typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="" filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="614" onderwerp="de controle op de maximum- snelheid." indiendatum="2 9 april 1988)">
+         <vrager partij="PSP" oorsprong="parlement">Van Es</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1 ">Kan per 1 mei de nieuwe  m a x i m u n v  snelheid van 120  k m / u niet gecontro- leerd  w o r d e n , omdat vrijwel geen  politiekorps geld heeft voor de  aanschaf van de benodigde nieuwe  radar-apparatuur?  </vraag>
+      <vraag nummer="2 ">In welke gemeenten is de nieuwe  apparatuur inmiddels voorhanden?  </vraag>
+      <vraag nummer="3 ">Heeft het bedrijf Gatsometer b.v. te  Overveen nauwelijks nieuwe onbe- mande radarposten verkocht, ook  niet nu de snelheidscontrole door de  politie in het hele land moet worden  opgevoerd?  </vraag>
+      <vraag nummer="4 ">Heeft de gemeentepolitie in Dordrecht  bij gebrek aan financiële middelen  apparatuur bij Gatsometer b.v.  geleend?  </vraag>
+      <vraag nummer="5 ">Hoe is het te verwachten gebrek aan  controle te rijmen met de agressieve  advertentie-campagne waarin  afgeteld  w o r d t naar de dag waarop  automobilisten de gaspedaal  t o t  maximaal 120 km/u mogen indruk- ken?  Zie het Parool van  2 8 april  j l .  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="4 ">De gemeentepolitie Dordrecht  beschikt wel over radarapparatuur,  doch op dit moment niet over daar  o p aan te sluiten foto-apparatuur. In  navolging van het geïntensiveerde  beleid inzake snelheidsovertredingen  heeft het korps gemeend het effect  van zijn grote verkeersactie op 20  april  j . l . te kunnen versterken door  het gebruik van in dit geval van  Gatsometer B.V. geleende appara- tuur. Het betrof hier nieuw ontwikkel- de apparatuur, waarbij de fabrikant  belang stelde in gebruikerservaringen.  Mogelijk  w o r d t de desbetreffende  apparatuur bij volgende verkeersac- ties wederom ingezet.  </antwoord>
+      <antwoord nummer="5 ">De advertentie-campagne inzake de  invoering van de nieuwe snelheidsli- miet, gevolgd door het thans  gevoerde intensieve handhavingsbe- leid, heeft haar effect niet gemist. De  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

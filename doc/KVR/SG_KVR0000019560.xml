@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001174</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001174&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001174</item>
+         <item attribuut="Document-id">0000019560</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 161</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Sipkes (Groen Links) over het in behandeïmg nemen van asielverzoeken in Nederland.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 161</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">161</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Sipkes</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-10-21</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Kosto</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-11-19</item>
+         <item attribuut="Beginpagina">329</item>
+         <item attribuut="Eindpagina">330</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="329" allpagenumbers="329" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1991"/>
+      <vraagdata vraagnummer="161" onderwerp="het in behandeïmg nemen van asielverzoeken in Nederland." indiendatum="1991-10-21">
+         <vrager partij="Groen Links" oorsprong="parlement">Sipkes</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1991-11-19">
+         <antwoorder functie="staatssecretaris" ministerie="Justitie">Kosto</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1 2">Zijn asielzoekers die in Duitsland asiel hebben aangevraagd, «bij voorbaat kansloos in Nederland»? <voetnoot nummer="1"/>Wordt met het niet in behandeling nemen van deze asielverzoeken in Nederland vooruitgelopen op het - nog niet geratificeerde - Verdrag van Schengen, zoals verwoord in de brief van de minister van Buitenlandse Zaken? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="3">Bent u zich ervan bewust, dat Nederland onder gebruikelijk voorbehoud van art. 9 van het Verdrag van Dublin te allen tijde de mogelijkheid houdt om een asielverzoek in behandeling te nemen, ook indien de asielzoeker eveneens een verzoek elders heeft ingediend? </vraag>
+      <vraag nummer="4">Mag Nederland de toegang weigeren aan asielzoekers wier veiligheid niet kan worden gegarandeerd in het land van herkomst, noch in het land waar zij die veiligheid probeerden te vinden (in casu Duitsland)? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1991-10-16" bron=" Zie De Volkskrant"> Zie De Volkskrant, 16 oktober 1991</noot>
+         <noot nummer="2"> Brief van 25 juni 1991. Kamerstuk 19 326, nr. 50</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1 en 4">In hoofdstuk B7 van de Grensbewakingscirculaire van 1984 staat het beleid beschreven met betrekking tot weigering van toegang aan asielzoekers. De verplichtmgen op grond van het Verdrag van Genève van 1951 zoals gewijzigd bij het Protocol van New York van 1967 houden in dat Nederland iemand die gegronde vrees voor vervolging heeft vanwege één van de vervolgingsgronden, niet refouleert naar het land van herkomst. Indien echter aannemelijk is dat de asielzoeker niet rechtstreeks naar Nederland is gekomen en voor zijn komst in een ander land, bijvoorbeeld Duitsland, genoegzame bescherming genoot of had kunnen genieten tegen refoulement, hij naar het oordeel van de Minister verbleef of had kunnen verblijven onder ter plaatse niet als abnormaal aan te merken omstandigheden en zijn toegang en opvang aldaar redelijkerwijs is verzekerd, kan de toegang worden geweigerd. Ten aanzien van de oostgrens bepaalt de Grensbewakingscirculaire in het bijzonder dat asielzoekers die zich aan deze grens hebben aangemeld in beginsel de toegang tot Nederland wordt geweigerd. Hen wordt kenbaar gemaakt dat zij zich voor het indienen van een asielverzoek kunnen wenden tot een Nederlandse diplomatieke of consulaire vertegenwoordiging in Duitsland. Het asielverzoek wordt in dat geval in behandeling genomen en de uitslag wordt aan de vreemdeling medegedeeld via de betrokken diplomatieke of consulaire vertegenwoordiging in Duitsland. </antwoord>
+      <antwoord nummer="2">Neen. De asielverzoeken worden immers wel in behandeling genomen. </antwoord>
+      <antwoord nummer="3"/>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

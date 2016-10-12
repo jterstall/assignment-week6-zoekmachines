@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="4">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001522</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001522&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001522</item>
+         <item attribuut="Document-id">0000035929</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 600</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Schartman (C.D.A.) over electronisch betalen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 600</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">600</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Schartman</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-02-21</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Kok</persoon>
+            <persoon>Andriessen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-05-04</item>
+         <item attribuut="Beginpagina">1207</item>
+         <item attribuut="Eindpagina">1208</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1207" allpagenumbers="1207 1208" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="600" onderwerp="electronisch betalen." indiendatum="1990-02-21">
+         <vrager partij="CDA" oorsprong="parlement">Schartman</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="4 mei 1990), zie ook Aanhangsel Handelingen nr. 470, vergaderjaar 1989-1990">
+         <antwoorder functie="minister" ministerie="Financiën">Kok</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Deelt u de mening, dat het electro– nisch betalen voor alle deelnemers laagdrempelig en doorzichtig moet zijn? Onderschrijft u, dat de ondernemers in het midden– en kleinbedrijf ten aanzien van de ontwikkelingen van het betalingsverkeer een specifieke positie innemen? </vraag>
+      <vraag nummer="3">Is het u bekend, dat in het overleg over het electronisch betalen tussen enerzijds NCOV, KNOV en RFGB en anderzijds de gezamenlijke banken nog geen overeenstemming is bereikt over de kosten en de detail– listenvoorwaarden? </vraag>
+      <vraag nummer="4">Kunt u bevestigen, dat Beanet, de organisatie van de banken, die de electronische betalingen verwerkt, desondanks deze maand van start gaat? </vraag>
+      <vraag nummer="5">Welke activiteiten wilt u ondernemen teneinde te voorkomen, dat de banken vanuit hun monopolie, eenzijdig en onder hun condities, electronisch betalen in Nederland invoeren? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Het antwoord op de vraag of het electronisch betalen voor alle deelnemers laagdrempelig moet zijn, luidt bevestigend. Hierbij moet echter worden betrokken de mate waarin alternatieve betaalvormen beschikbaar zijn. Zolang laagdrem– pelige alternatieven voor handen zijn - wij menen dat daarvan thans sprake is - is onzes inziens de laagdrempeligheid van het electro– nisch betalen niet een eerste vereiste. Met betrekking tot de doorzichtigheid van het (gebruik– maken van) electronisch betalen zijn wij van mening dat die te allen tijde door de gebruikers zal worden verlangd. Voor zover met laagdrem– peligheid en doorzichtigheid gerefe– reerd wordt aan de kosten van het electronisch betalen, plaatsen wij twee kanttekeningen. Ten eerste gaat ook het verzorgen van het electronisch betalingsverkeer nu eenmaal met kosten gepaard. Gegeven de noodzaak van kosten– dekkendheid van het betalings– verkeer laat laagdrempeligheid dan ook onverlet dat tarieven aan de orde kunnen zijn. Ten tweede is een ieder gebaat bij doorzichtige tarieven. Daarbij verstaan wij onder doorzichtig dat gebruikers vooraf informatie kunnen verkrijgen over wat precies voor welke dienst moet worden betaald. Deze vraag is niet eenduidig met ja of nee te beantwoorden. De onder– nemers in het midden– en kleinbe– drijf nemen in zekere zin een speci– fieke positie in; vele, al dan niet girale betalingen worden geïnitieerd bij een van hun verkooppunten. Daar staat tegenover dat deze onder– nemers daardoor in wezen niet anders dan afnemers van betaal– diensten van het bankwezen zijn. Een en ander betekent natuurlijk wel dat het succes van electronisch betalen in belangrijke mate door de onder– nemers in het midderv en kleinbe– drijf wordt bepaald. Wij menen dan ook dat de banken de ondernemers in het midden– en kleinbedrijf terecht als serieuze gesprekspartners zien. </antwoord>
+      <antwoord nummer="3">Ja. Het is ons bekend dat er overleg gaande is tussen enerzijds NCOV, KNOV en RFGB en anderzijds de gezamenlijke banken. (Voorts is naar wij begrepen PTT-Telecom bij dit overleg betrokken.) Naar verluidt wordt in bedoeld overleg onder meer gesproken over de mogelijkheid de totale kosten voor het betalings– verkeer zo laag mogelijk te houden dan wel te verlagen. Dit heeft bijvoorbeeld geleid tot overleg met PTT-Telecom inzake de mogelijke aanpassing in de voor het electro– nische betalen zo belangrijke datacommunicatiekosten. Verder wordt ook gesproken over de wijze waarop de efficiëntie van bestaande betaaldiensten kan worden stemming tussen genoemde partijen binnen handbereik is. De partijen hebben overigens, zo is ons bekend, ook de verwachting om in gezamenlijk overleg en op relatief korte termijn tot een vergelijking te komen. </antwoord>
+      <antwoord nummer="4">Ja. Naar aanleiding van het in de vraag gebruikte woord «desondanks» merken wij op dat het in het econo– misch verkeer een ieder vrij staat een nieuwe activiteit c.q. een nieuwe onderneming op te starten. In de markt zal vervolgens blijken of zo'n onderneming al dan niet succesvol kan zijn. In het onderhavige geval betekent dit dat de in BeaNet samenwerkende banken de zakelijke en particuliere cliënten van het nut - in de zin dat de voordelen groter zijn dat de nadelen - van electronisch betalen zullen moeten zien te overtuigen. Uit berichten in de media maken wij op dat de banken daarin kennelijk nog niet echt zijn geslaagd. </antwoord>
+      <antwoord nummer="5">De overheid gaat er ten aanzien van het betalingsverkeer van uit dat sprake dient te zijn - en voor zover ons bekend ook sprake is - van werkzame concurrentieverhoudingen tussen aanbieders onderling en tussen aanbieders en vragers. Werkzame concurrentie draagt namelijk bij aan een adequate toere– kening van de kosten (in verhouding tot de baten) van betaaldiensten door middel van tarieven voor zowel de zakelijke als particuliere cliëntéle. Daarnaast heeft de overheid in de vorm van beleidspunten enkele condities van meer algemene aard aan het betalingsverkeer gesteld. middelen, verschillen voor de markt– partijen. Waar het een nieuwe betaaldienst als het electronisch betalen betreft, speelt daarnaast een rol dat, als gevolg van substitutie en voortschrijdende efficiëntie, bespa– ringen kunnen optreden. Ook deze «inverdieneffecten» zijn verschillend voor de marktpartijen. Wij gaan ervan uit dat deze effecten door marktpartijen zullen worden meege– wogen wanneer de - verdeling van de - kosten van electronisch betalen aan de orde is. Hiermee is tevens de complexiteit geschetst van de thans aan de orde zijnde kostenverdeling bij electronisch betalen. Deze bedrijfseconomisch gerelateerde problematiek moet echter door de betrokken marktpartijen (kunnen) worden opgelost. Op grond van overwegingen van efficiëntie, gebruiksgemak en veiligheid wordt het in brede kring - waaronder ook de overheid - wenselijk geacht dat er een uniforme en gemeenschappelijke infrastructuur voor het electronisch betalingsverkeer tot stand komt. Bovendien mag in het licht van zoëven genoemde overwegingen én de omvangrijke investeringen in zo'n infrastructuur, worden verondersteld dat bij afwezigheid van een gemeen– schappelijke aanpak het electronisch betalen op minder (kosten-)efficiënte wijze zou zijn opgezet. Gegeven deze wenselijkheid van een gemeenschap– pelijke infrastructuur, dient de aandacht wel uit te gaan naar de wijze waarop een gemeenschappe– lijke infrastructuur voor betaal– diensten vorm krijgt. Te vermijden ware immers dat (potentiële) negatieve neveneffecten van derge– lijke samenwerking de primair structuur voor hun rekening zullen nemen. In samenhang met het voorgaande gaat de overheid er wel vanuit dat de resulterende tarieven, doordat zij een weerspiegeling zijn van de werkelijke kosten, signalerend en sturend zijn. Dat wil zeggen dat zij een reële prikkel vormen voor de gebruiker (in casu de detaillist) om zowel naar - tarief per - betaaldienst als naar - totale tarifering per - pakket aan betaaldiensten van een aanbieder te selecteren op kosten en baten. In het licht van het voorgaande menen wij dat activi– teiten onzerzijds als bedoeld in de vraag thans niet aan de orde zijn. Volledigheidshalve vermelden wij dat er recentelijk door het Vakcentrum van levensmiddelendetaillisten een klacht is ingediend in het kader van de Wet economische mededinging over het prijsstellingsgedrag in het electronisch betalingsverkeer. Deze klacht wordt thans door ons onder– zocht. Te zijner tijd zullen wij de Kamer over de uitkomsten van dit onderzoek informeren. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

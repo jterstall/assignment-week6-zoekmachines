@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001434</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001434&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001434</item>
+         <item attribuut="Document-id">0000035841</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 512</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Verspaget en Buurmeijer (beiden P.v.d.A.) over een speciaal aanvraagformulier voor kinderbijslag voor zigeuners.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 512</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">512</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Verspaget</persoon>
+            <persoon partij="PvdA">Buurmeijer</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-03-19</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Ter Veld</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-04-05</item>
+         <item attribuut="Beginpagina">1029</item>
+         <item attribuut="Eindpagina">1030</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen door de leden der Kamer, met de daarop door de regering gegeven antwoorden."/>
+      <footer firstpaginanummer="1029" allpagenumbers="1029 1610" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="512" onderwerp="een speciaal aanvraagformulier voor kinderbijslag voor zigeuners." indiendatum="1990-03-19">
+         <vrager partij="PvdA" oorsprong="parlement">Verspaget</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Buurmeijer</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-04-5">
+         <antwoorder functie="staatssecretaris" ministerie="Sociale Zaken en Werkgele– genheid">Ter Veld</antwoorder>
+         <mede-antwoorder>de minister van Binnenlandse Zaken</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Bent u bekend met het feit, dat de Sociale Verzekeringsbank te Utrecht voor Zigeuners een speciaal aanvraagformulier voor kinderbijslag hanteert, waarop in de rechterbo– venhoek een hoofdletter Z is gedrukt? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Erkent u, dat het gebruik van de letter Z voor zigeuners in strijd is met het beginsel van non-discriminatie, zoals onder meer neergelegd in artikel 1 van de Grondwet? Bent u bereid na te gaan of ook andere Sociale Verzekeringsbanken een dergelijk formulier specifiek voor zigeuners gebruiken? </vraag>
+      <vraag nummer="4">Wilt u de Sociale Verzekeringsbank onverwijld berichten dat het gebruik van een speciaal aanvraagformulier voor zigeuners niet is toegestaan? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> De Volkskrant van 16 maart jl</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1"> tot  en  met  4 De hoofddirektie van de Sociale Verzekeringsbank (SVB) heeft inmiddels bij open brief dd. 16 maart 1990 gereageerd op het artikel in de Volkskrant van diezelfde datum betreffende een speciaal aanvraag– formulier voor zigeuners. Deze brief is onder meer naar de verantwoorde– lijke bewindspersonen en naar de Voorzitter en de leden van de Tweede Kamer der Staten-Generaal gezonden. Uit deze reactie blijkt dat het artikel feitelijk onjuist is en op een misverstand berust. Bij de afhandeling van de kinderbijslagaan– vrage is gebruik gemaakt van een oud formulier. Het bewuste formulier werd in het verleden gebruikt voor het opvragen van aanvullende infor– matie bij zelfdoeners. Het ging hierbij om bedrijven die voor hun werknemers zelf een deel van de kinderbijslagregeling uitvoerden. De voorgedrukte Z op het formulier verwijst dan ook naar het begrip «zelfdoener». Om verdere misver– standen te voorkomen zijn deze oude formulieren inmiddels vernietigd. Gelet op het vorenstaande zie ik geen aanleiding om de SVB over deze kwestie te benaderen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

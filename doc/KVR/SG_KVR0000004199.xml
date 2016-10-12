@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0001688</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001688&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001688</item>
+         <item attribuut="Document-id">0000004199</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 474</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Van Traa en Valk (beiden PvdA) over het gerechtelijk vonnis van 12 jaar gevangenschap tegen de leider van de Albanese Socialistische Partij.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 474</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">474</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Van Traa</persoon>
+            <persoon partij="PvdA">Valk</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-04-14</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Kooijmans</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-04-29</item>
+         <item attribuut="Beginpagina">961</item>
+         <item attribuut="Eindpagina">962</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="961" allpagenumbers="961 0" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's-Gravenhage 1994"/>
+      <vraagdata vraagnummer="474" onderwerp="het gerechtelljk vonnis van 72 jaar gevangenschap tegen de leider van de Albanese Socialistische Partij." indiendatum="14april 1994">
+         <vrager partij="PvdA" oorsprong="parlement">Van Traa</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Valk</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-04-29">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">Kooijmans</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Hoe beoordeelt u het onlangs in Albanië uitgesproken gerechtelijk vonnis van 12 jaar gevangenschap tegen de leider van de Albanese Socialistische Partij, de heer Fator Nano? Deelt u de mening van de Duitse ambassadeur in Tirana, dat dit vonnis politiek gemotiveerd is geweest, aangezien er geen bewijzen zijn gevonden dat hij tijdens zijn premierschap betrokken was bij corruptie met westerse hulpgelden voor Albanië? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="3">Bent u bereid, zo mogelijk met de andere lidstaten van de ÉU, bij de Albanese regering opheldering te vragen over deze kwestie? </vraag>
+      <vraag nummer="4">Aan welke andere maatregelen denkt u, ook in het kader van de Raad van Europa, om deze zaak op de agenda te houden? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1994-04-5" bron=" Immers, een aanklacht van die strekking is door de officier van Justitie gaande het proces ingetrokken, Trouw"> Immers, een aanklacht van die strekking is door de officier van Justitie gaande het proces ingetrokken, Trouw, 5 april 1994</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1"> en2 Het proces tegen Fatos Nano en de onlangstegen hem uitgesproken veroordeling tot 12 jaar gevangenisstraf geven de Nederlandse regering reden tot zorg. De Nederlandse regering kan niet treden in de beoordeling van de vraag of de heer Nano zich inderdaad heeft schuldig gemaakt aan de hem ten laste gelegde feiten. Wel lijken bepaalde aspecten van de onderhavige strafzaak in te druisen tegen de eisen die in een democratische rechtstazt aan een behoorlijke procesgang worden gesteld. Met name het feit dat de heer Nano zich geruime tijd in voorlopige hechtenis heeft bevonden, zonder dat hem is medegedeeld welk strafbaar feit hem ten laste werd gelegd, roept vragen op. Gezien de excesieve strafmaat is in brede kring de indruk gerezen dat het proces tegen de heer Nano mede is ingegeven door politieke overwegingen. 3 e n 4 In het kader van de Europese Unie wordt thans bezien in hoeverre nadere stappen bij de Albanese autorïteiten wenselijk zijn. Van de Raad van Europa vallen in dit kader geen maatregelen te verwachten, aangezien Albanië geen lid is van deze organisatie. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

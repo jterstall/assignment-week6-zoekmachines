@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="5">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001264</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001264&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001264</item>
+         <item attribuut="Document-id">0000019650</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 251</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Sipkes (Groen Links) over uitzetting van afgewezen asielzoekers naar Libië.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 251</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">251</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Sipkes</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-11-13</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Kosto</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-12-18</item>
+         <item attribuut="Beginpagina">509</item>
+         <item attribuut="Eindpagina">510</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="509" allpagenumbers="509" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="251" onderwerp="uitzetting van afgewezen asielzoekers naar Libië." indiendatum="1991-11-13">
+         <vrager partij="Groen Links" oorsprong="parlement">Sipkes</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1991-12-18">
+         <antwoorder functie="staatssecretaris" ministerie="Justitie">Kosto</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Bent u voornemens om afgewezen, statenloze, Palestijnse asielzoekers, afkomstig uit Libanon, uit te zetten naar Libië, omdat ze niet terug kunnen naar het land herkomst? <voetnoot nummer="1"/>Heeft al eerder uitzetting van afgewezen asielzoekers naar Libië plaats gehad, terwijl die niet uit dat iand afkomstig waren? </vraag>
+      <vraag nummer="3">Wat is uw mening over de uitspraak van het VN-commissariaat voor de Vluchtelingen van 21 februari jl. nl. «dat het moeilijk verdedigbaar lijkt om statenloze Palestijnen die geen band hebben met Libië en daar ook niet eerder verbleven, naar dat land te verwijderen»? </vraag>
+      <vraag nummer="4">Bent u zich ervan bewust, dat afgewezen asielzoekers die tegen-wil-en-dank naar Libië worden verwijderd, in dat land kunnen worden opgeroepen om de dienstplicht te vervullen? </vraag>
+      <vraag nummer="5">Hoe rijmt dat uitzettingsbeleid zich met het gedoogdenbeleid, dat mensen een tijdelijke status in Nederland moet geven, zolang ze niet naar het land van herkomst kunnen worden teruggestuurd? </vraag>
+      <vraag nummer="6">Acht u het bovendien niet tegenstrijdig om mensen te verwijderen naar een land waartegen door de EG een economische boycot wordt gehandhaafd, waarbij ook de diplomatieke betrekkingen op het laagste niveau zijn gesteld? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> IKON-KENMERK-t.v.-uitzending van 9 november j.l. De Volkskrant van 11 november j.l</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1">Ja, met dien verstande dat van geval tot geval wordt beoordeeld of verwijdering mogelijk en verantwoord is. Indien een vreemdeling niet vrijwillig naar een land van zijn keuze vertrekt, kan uitzetting volgen naar een land waar zijn toelating redelijkerwijs valt te verwachten. Blijkens berichtgeving van het ministerie van Buitenlandse Zaken, laatstelijk het algemeen ambtsbericht van 17juni 1991, is Libië vrij toegankelijk voor alle Arabieren. Mede op grond daarvan wordt verwijdering naar Libië van afgewezen Palestijnse asielzoekers overwogen. </antwoord>
+      <antwoord nummer="2">Neen. Mij is bekend hetgeen de Legal Assistant van het UNHCR-kantoor te Den Haag op 21 februari 1990 namens UNHCR heeft gesteld. In een brief van 27 november jongstleden heeft het Acting Head van het UNHCR Liaison Office in Den Haag het reeds eerder ingenomen standpunt bevestigd. Ik moge U voorts verwijzen naar mijn antwoord op vraag 1. </antwoord>
+      <antwoord nummer="4">Uit informatie van het ministerie van Buitenlandse Zaken is niet gebleken dat van verplichte opname in het Libische leger of in het PLA (Palestinian Liberation Army) van staatloze Palestijnen die in Libië verblijven thans sprake is. </antwoord>
+      <antwoord nummer="5">Het gedoogdenbeleid is van toepassing indien er op grond van het specifieke individuele geval geen zicht is op verwijdering van betrokkene, noch naar het land van herkomst mede met het oog op de algemene situatie in dat land en zonder dat het aan de schuld van betrokkene is te wijten, noch naar een ander land. Indien verwijdering naar Libië in een individueel geval mogelijk is en verantwoord wordt geacht, is het gedoogdenbeleid derhalve niet van toepassing. </antwoord>
+      <antwoord nummer="6">Het vreemdelingenbeleid en het daarmee samenhangende beleid inzake de verwijdering van vreemdelingen uit Nederland, staat in beginsel op zichzelf. Overigens blijkt uit informatie van het ministerie van Buitenlandse Zaken dat door de </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

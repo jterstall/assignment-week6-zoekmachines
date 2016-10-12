@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001667</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001667&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001667</item>
+         <item attribuut="Document-id">0000011971</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 737</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Lankhorst (GroenLinks) over de hangpuntenbrief.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 737</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">737</item>
+         <item attribuut="Indiener">
+            <persoon partij="GroenLinks">Lankhorst</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-07-07</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Lubbers</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-07-12</item>
+         <item attribuut="Beginpagina">1503</item>
+         <item attribuut="Eindpagina">1504</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1503" allpagenumbers="1503" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="737" onderwerp="de hangpuntenbrief." indiendatum="1993-07-7">
+         <vrager partij="GroenLinks" oorsprong="parlement">Lankhorst</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="1">
+      <vraag nummer="1">Is het kabinet zo gewend geraakt aan het uitlekken van de vertrouwelijke kaderbrief en de hangpuntenbrief, dat u er niet moeilijk meer over doet? Hoe valt anders te verklaren dat deze bneven eik jaar uitgebreid de pers halen? van een gewenningsproces ten aanzien van het uitlekken van vertrouwelijke stukken. Uitlekken van dergelijk stukken blijft een ernstige aangelegenheid die om actie vraagt. De minister van Financiën heeft terzake een onderzoek ingesteld en heeft mij medegedeeld dat een onderzoek binnen het ministerie van Financiën als primair betrokken ministerie bij de opstelling en verzending van de hangpuntenbrief, geen opheldering heeft gebracht over de vraag op welke wijze het document uitgelekt is. Hebt u, waar u bij eerdere gelegenheid sprak over ambtsmisdrijven, indien mensen documenten - waarvan bekend is dat die niet naar buiten mogen komen - toch naar buiten brengen, de moed opgegeven om adequate maatregelen te treffen? Mede gelet op het antwoord op de vragen 1 en 2 zie ik geen aanleiding om op dit verzoek in te gaan. Wilt u de recente hangpuntenbrief aan de Tweede Kamer sturen, zodat de Kamer niet minder geïnformeerd is dan de pers? Toelichting Handelingen II 1990-1991, nr. 26, blz. 4121. </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

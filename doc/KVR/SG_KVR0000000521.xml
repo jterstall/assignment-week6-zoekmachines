@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19941995:0000521</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000521&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000521</item>
+         <item attribuut="Document-id">0000000521</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1994-1995 nummer 187</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Giskes, Versnel-Schmitz en Van 't Riet (allen D66) over nieuwe spoorwegstations in een aantal nieuwbouwlokaties.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1994-1995 nummer 187</item>
+         <item attribuut="Jaargang">1994_1995</item>
+         <item attribuut="Vraagnummer">187</item>
+         <item attribuut="Indiener">
+            <persoon>Giskes</persoon>
+            <persoon>Versnel-Schmitz</persoon>
+            <persoon>Van 't Riet</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-10-26</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Jorritsma-Lebbink</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-11-21</item>
+         <item attribuut="Beginpagina">375</item>
+         <item attribuut="Eindpagina">376</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1994-1995" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="375" allpagenumbers="375" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1994-1995, Aanhangsel" filenaam="" issn-nummer="ISSN0921 -7398" uitgever="Sdu Uitgeverij Plantijnstraat 's-Gravenhage 1994"/>
+      <vraagdata vraagnummer="187" onderwerp="nieuwe spoorwegstations in een aantal nieuwbouwlokaties." indiendatum="1994-10-26">
+         <vrager partij="" oorsprong="parlement">Giskes</vrager>
+         <vrager partij="" oorsprong="parlement">Versnel-Schmitz</vrager>
+         <vrager partij="" oorsprong="parlement">Van 't Riet</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-11-21">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">Jorritsma-Lebbink</antwoorder>
+         <mede-antwoorder>de staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Dreigt in een aantal nieuwbouwlokaties het probleem dat nieuwe spoorwegstations zijn voorzien in ruimtelijke ordeningsplannen en in het MIT, terwijl de NS exploitatie van de beoogde lijnen/haltes niet financieel rendabel acht en derhalve niet voor zijn rekening wil nemen? </vraag>
+      <vraag nummer="2">Zo ja, om hoeveel lokaties gaat het? </vraag>
+      <vraag nummer="3">Hoe beoordeelt u deze ontwikkeling tegen de achtergrond van het RO-(m.n. VINEX–) en SVV2-beleid? </vraag>
+      <vraag nummer="4">Bent u bereid tot overleg met de NS opdat opzet en uitvoering van het RO-(m.n. VINEX–) en SVV-beleid niet worden gefrustreerd? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1"> t/m  4 De door de vragenstellers geschetste problematiek wordt binnen mijn ministerie thans geïnventariseerd. De problematiek is onder meer actueel in hetkadervandeVINEX. Ik ben hierover in overleg getreden met de Nederlandse Spoorwegen. Van die zijde is gesteld dat NS streeft naar een rendabele exploitatie van stations/lijnen. NS wenst dan ook geen nieuw onrendabel vervoer te gaan verrichten en zal nieuwe stations in beginsel alleen bedienen als aan een rendementscriterium wordt voldaan. Een structurele benadering hoe om te gaan met gewenste doch niet rendabele vervoerdiensten zal naar mijn oordeel gebaseerd moeten worden op het afsprakencomplex dat NS en V&amp;W thans vorm geven in het kader van het Kabinetsstandpunt Wijffels. Vooruitlopend daarop wordt in overleg met NS bezien onder welke condities enkele op korte termijn geplande nieuwe stations bediend kunnen worden. Het gaat daarbij om 6 a 8 nieuwe stations in de Randstad. De uitkomst van het overleg is mede bepalend voor mijn beslissing over het ter beschikking stellen van investeringsmiddelen voor de stichting van de nieuwe stations zoals voorzien in het MIT 1995-1999. Realisatie van het VINEX– en SVV ll-beleid inclusief de met de lagere overheden gemaakte uitvoeringsafspraken is daarbij voor mij een belangrijk uitgangspunt. Daarin wordt groot belang gehecht aan het ontsluiten van nieuwbouwlocaties met (hoogwaardig)openbaar vervoer. Bovendien speeit voor mij een rol dat de betrokken gemeenten in hun (ruimtelijke/verkeer– en vervoer–) plannen in goed overleg met het Rijk hebben geanticipeerd op de opemng van nieuwe stations. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

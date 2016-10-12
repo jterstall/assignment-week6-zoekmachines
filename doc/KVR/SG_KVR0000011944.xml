@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001640</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001640&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001640</item>
+         <item attribuut="Document-id">0000011944</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 710</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Wolffensperger (D66) over het afluisteren van gesprekken tussen advocaten en hun cliènten.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 710</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">710</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Wolffensperger</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-06-08</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Kosto</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-07-01</item>
+         <item attribuut="Beginpagina">1449</item>
+         <item attribuut="Eindpagina">1450</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1449" allpagenumbers="1449" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="710" onderwerp="het afluisteren van gesprekken tussen advocaten en hun cliènten." indiendatum="1993-06-8">
+         <vrager partij="D66" oorsprong="parlement">Wolffensperger</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-07-1">
+         <antwoorder functie="staatssecretaris" ministerie="Justitie">Kosto</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Hebt u kennis genomen van het bericht, dat gesprekken tussen advocaten en hun cliënten, die verblijven in Extra Beveiligde Inrichtingen, reeds geruime tijd worden afgeluisterd? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Hebt u een besluit tot een dergelijke maatregel genomen? Zo ja, wanneer en op welke gronden? Kunt u ingaan op de tegenstrijdige verklaringen die op dit punt door woordvoerders van uw ministerie zijn afgelegd? </vraag>
+      <vraag nummer="3">Deelt u de mening, dat het bedoelde afluisteren een aantasting betekent van het wettelijk beschermde grondbeginsel van het vrij verkeer tussen raadsman en cliënt en om die reden moet worden afgewezen? </vraag>
+      <vraag nummer="4">Bent u van mening, dat de gevangenhouding van vluchtgevaarlijke gedetineerden in Extra Beveiligde Inrichtingen het nemen van bijzondere maatregelen in het kader van het toezicht vereist, zonder dat dit echter een aantasting inhoudt van de vertrouwelijkheid van het verkeer tussen raadsman en cliënt? Wilt u de Kamer zo spoedig mogehjk op de hoogte stellen van de resultaten van het inmiddels door u aangekondigde onderzoek? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1993-06-5" bron=" Volkskrant"> Volkskrant, 5 juni 1993</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Nee. Ik betreur het dat misverstanden zijn ontstaan over de toelaatbaarheid van het afluisteren van gesprekken tussen advocaten en hun gedetineerde cliënten. Voor mij staat vast dat dit niet is toegestaan. </antwoord>
+      <antwoord nummer="3">Ja. </antwoord>
+      <antwoord nummer="4">Ja. </antwoord>
+      <antwoord nummer="5">Uit het door mij ingestelde onderzoek is gebleken dat in het gewraakte geval in de Penitentiaire Inrichting De Marwei sprake is geweest van een menselijke fout. Deze bestond daaruit dat verzuimd was de intercomverbinding met de naastgelegen ruimte van waaruit visueel toezicht werd gehouden, uit te schakelen. Mede gelet op het feit dat fouten als de genoemde wel een - terecht - gevoelige materie raken, heb ik de directeur van De Marwei verzocht het nodige en het mogelijke te doen om herhaling te voorkomen. Ik heb geen enkele reden om te veronderstellen dat het afluisteren van de gesprekken tussen advocaten en hun cliënten in de praktijk voorkomt anders dan in het onderhavige incident het geval is geweest. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001476</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001476&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001476</item>
+         <item attribuut="Document-id">0000035883</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 554</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Rosenmöller (Groen Links) en Eisma (D66) over het lozen van dichloormethaan op het water en in de lucht.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 554</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">554</item>
+         <item attribuut="Indiener">
+            <persoon>Rosenmöller</persoon>
+            <persoon>Eisma</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-04-02</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Maij-Weggen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-04-20</item>
+         <item attribuut="Beginpagina">1115</item>
+         <item attribuut="Eindpagina">1116</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1115" allpagenumbers="1115" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="554" onderwerp="het lozen van dichloormethaan op het water en in de lucht." indiendatum="2april 1990">
+         <vrager partij="" oorsprong="parlement">Rosenmöller</vrager>
+         <vrager partij="" oorsprong="parlement">Eisma</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-04-20">
+         <antwoorder functie="minister" ministerie="Verkeer en Water– staat">Maij-Weggen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1">Hebt u een ontwerp-beschikking van Gedeputeerde Staten mede onder– tekend waarin het Xantar te Delfzijl wordt toegestaan het bij de fabricage van polycarbonaat ontstane dichloormethaan te lozen op het water en in de lucht? </vraag>
+      <vraag nummer="2">Waarom is in de ontwerp– beschikking een lozing op water van 0,2 mg/liter dichloormethaan (DCM) toegestaan, terwijl nader onderzoek van DSM heeft aangetoond, dat ook met de huidige produktieprocessen een verdere beperking van de DCM-emissie tot 0,05 mg/liter mogelijk is? Welke juridische betekenis moet in dit verband gehecht worden aan de «verwach– tingswaarde» voor DCM van 0,05 mg/liter? </vraag>
+      <vraag nummer="3">Hoe verhoudt de ontwerp– vergunning voor de lozing van DCM zich tot het besluit van de Derde Noordzeeconferentie DCM op de Annex 1 D te plaatsen? </vraag>
+      <vraag nummer="4">Hebt u kennis genomen van het onderzoek van de chemiewinkel van de Rijksuniversiteit Groningen naar processen voor de produktie van polycarbonaat, waarbij geen milieu– schadelijke stoffen vrijkomen?' </vraag>
+      <vraag nummer="5">Hebben de resultaten van het onderzoek (oplosmiddel– en fosgeen– vrije procede's voor de produktie van polycarbonaat over enkele jaren beschikbaar) een rol gespeeld bij uw besluit akkoord te gaan met (de termijn van) de ontwerp-vergunning? </vraag>
+      <vraag nummer="6">Bent u, gezien de mogelijkheden tot verdere beperking van DCM-emissies ook binnen het huidige produktie– proces en het beschikbaar komen van alternatieve processen voor de produktie van DCM, bereid af te zien van vergunningverlening in de huidige vorm? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" titel="Polycarbonaat; preventie en reductie van emissies van het oplosmiddel dichloor– methaan bij de produktie van polycar– bonaat"> «Polycarbonaat; preventie en reductie van emissies van het oplosmiddel dichloor– methaan bij de produktie van polycar– bonaat». RUG, Chemiewinkel, februari 1990</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1">In het kader van een gecoördineerde behandeling van diverse aanvragen om milieuvergunningen hebben Gedeputeerde Staten van de provincie Groningen recent mijn ontwerp-beschikking ter visie gelegd naar aanleiding van de aanvraag op grond van de Wet verontreiniging oppervlaktewateren, van Xantar Poiycarbonates v.o.f. voor een voorgenomen lozing van afvalwater op het Zeehavenkanaal te Delfzijl. Hierin heb ik een oordeel gegeven over de aanvaardbaarheid van de voorgenomen lozing van onder meer dichloormethaan. </antwoord>
+      <antwoord nummer="2">Uitgangspunt is dat het bedrijf de beste bestaande techniek toepast om de lozing van dichloormethaan in oppervlaktewateren zoveel mogelijk te beperken. De door het bedrijf te treffen zuiveringstechnische maatre– gelen voldoen aan dit uitgangspunt. Dit leidt tot een maximale concen– tratie van dichloormethaan in het afvalwater van 0,2 mg per liter. Eerste onderzoek heeft aangetoond dat door proces optimalisatie deze waarde naar verwachting is te verlagen tot 0,05 mg per liter. In de ontwerp-beschikking is voorge– schreven dat het bedrijf de mogelijke maatregelen onderzoekt om deze aanmerkelijke reductie van de lozingen te realiseren binnen 2 jaar na de start van de produktie. De resultaten van dit onderzoek kunnen daarmee de basis zijn voor aanscherping van de lozingsvoor– schriften binnen 2-3 jaar. </antwoord>
+      <antwoord nummer="3">De onderhavige besluitvorming is in lijn met de besluiten van de Derde Noordzeeministersconferentie. </antwoord>
+      <antwoord nummer="4">Ja. </antwoord>
+      <antwoord nummer="5">Ja, deze gegevens waren goeddeels reeds beschikbaar ten tijde van de besluitvorming over de inhoud van </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19931994:0001243</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001243&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001243</item>
+         <item attribuut="Document-id">0000003754</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 29</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Laning-Boersema (CDA) en Van Otterloo (PvdA) over iatrosofische genezers.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 29</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">29</item>
+         <item attribuut="Indiener">
+            <persoon>Laning-Boersema</persoon>
+            <persoon>Van Otterloo</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-08-17</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Hirsch Ballin</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-10-04</item>
+         <item attribuut="Beginpagina">59</item>
+         <item attribuut="Eindpagina">60</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="59" allpagenumbers="59 60" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="" onderwerp="" indiendatum="">
+         <vrager partij="" oorsprong="parlement">Laning-Boersema</vrager>
+         <vrager partij="" oorsprong="parlement">Van Otterloo</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="4 oktober 1993), zie ook Aanhangsel Handelingen nr. 840, Vergaderjaar 1992-1993">
+         <antwoorder functie="minister" ministerie="Justitie">Hirsch Ballin</antwoorder>
+         <mede-antwoorder>de staatssecretaris van Welzijn, Volksgezondheid en Cultuur</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="29">Vragen van de leden Laning-Boersema (CDA) en Van Otterloo (PvdA) over iatrosofische genezers. (Ingezonden 17 augustus 1993) </vraag>
+      <vraag nummer="1" voetnoot="1">Hebt u gegevens betreffende het aantal personen dat door de zogenaamde iatrosofische genezers werd en momenteel nog wordt behandeld? Heeft het O.M. reeds maatregelen getroffen om een einde te maken aan dit type alternatieve behandelmethoden? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="3">Kan inderdaad worden vastgesteld dat met name de iatrosofen frequent de mensen die zich tot hen gewend hebben, de gang naar de reguliere geneeskunde dringend hebben ontraden c.q. onmogelijk hebben gemaakt? </vraag>
+      <vraag nummer="4" voetnoot="2">Bestaat het voornemen om de iatrosofische behandelaars in dit kader het uitoefenen van hun schadelijke praktijken volledig te verbieden en zonodig tegen hen strafvervolging in te stellen? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="5">Zijn er artsen die de iatrosofische behandelmethode aanhangen en beoefenen? Zo ja, op welke wijze denkt de inspectie voor de volksgezondheid deze artsen tot de orde te roepen? </vraag>
+      <vraag nummer="6" voetnoot="3">Biedt het door vragenstellers geamendeerde art. 109, thans art. 96 van de wet B.I.G. terzake voldoende mogelijkheden om afdoende in te grijpen in situaties zoals die zich thans voordoen rond de iatrosofen en hun behandelmethoden? <voetnoot nummer="3"/>
+      </vraag>
+      <vraag nummer="7">Blijkt uit het feit dat mensen met gezondheidsproblemen zich kennelijk tamelijk gemakkelijk onder de hoede stellen van niet-bonafide alternatieve genezers niet, dat op dit terrein de onkunde zeer groot is? Is dat op zichzelf al niet een gevaar voor een goede volksgezondheid? Verdient het aanbeveling om in de nabije toekomst een scala van indringende voorlichtingsactiviteiten hierop te richten? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Zoals nu gehleken is kan gesproken worden van dood door schuld in een aantal gevallen van iatrosofische behandeling</noot>
+         <noot nummer="2"> De wet regelende de uitoefening der geneeskunst (W.U.G.) geldt nog steeds Het verbod op het onbevoegd uitoefenen van de geneeskunst is dus nog steeds ten volle van kracht</noot>
+         <noot nummer="3"> Wanneer in de nabije toekomst de wet op de beroepen in de mdividuele gezondheidszorg (B I G ) de huidige WUG zal vervangen dan vervalt daarmee het verbod op het ongeautoriseerd uitoefenen van de geneeskunst. Art. 96 maakt het immers ook mogelijk in te grijpen, strafrechtelijk, wanneer er een aanmerkelijke kans op schade is. die buiten noodzaak wordt aangericht aan de gezondheid van een ander, en wanneer men weet of kan vermoeden dat schade zal worden aangericht</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Omdat de iatrosofische behandelaars niet in een algemeen kenbare en toegankelijke organisatie zijn verenigd en zij ook niet in ander opzicht individueel of als groep in de hoedanigheid van iatrosoof naar buiten treden, bestaat er dezerzijds geen betrouwbaar beeld met betrekking tot het aantal iatrosofische behandelaars. Evenmin beschikken derhalve wij over gegevens inzake het aantal patiënten van iatrosofische behandelaars. Indien bij de uitoefenmg van de geneeskunst door anderen dan degenen aan wie daartoe de bevoegdheid uitdrukkelijk is toegekend, schade wordt toegebracht aan de gezondheid van een patiënt waardoor er sprake is van een strafbaar feit, dan stelt het openbaar ministerie zo mogelijk strafvervolging in. Strafvervolging kan in dergelijke gevallen worden ingesteld wegens (onder meer) (poging tot) zware mishandeling (toebrengen van zwaar lichamelijk aantal andere gevallen een oriënterend onderzoek ingesteld. </antwoord>
+      <antwoord nummer="3">Het is bij de Inspectie van de Volksgezondheid en het openbaar ministerie bekend dat bepaalde iatrosofische behandelaars principiële bezwaren hebben tegen de reguliere gezondheidszorg en deze bezwaren naar patiënten toe uitdragen Zowel in strafzaken als in zaken in het kader van het Medisch Tuchtrecht is dit komen vast te staan. Er kan op basis hiervan echter, mede gelet op het gestelde in het antwoord op vraag 1, geen uitspraak worden gedaan over de frequentie van een zodanige handelwijze bij iatrosofische behandelaars in het algemeen. </antwoord>
+      <antwoord nummer="4" voetnoot="2">Een algemeen verbod tot de uitoefening van de geneeskunst door anderen dan aan wie de bevoegdheid daartoe uitdrukkelijk is toegekend (zoals neergelegd in de Wet regelende de uitoefening der geneeskunst) wordt - zoals in de memorie van toelichting bij het wetsvoorstel BIG <voetnoot nummer="2"/> ook tot uitdrukking is gebracht - wordt niet meer in overeenstemming geacht met de heersende maatschappelijke opvattingen. De uitoefening van de iatrosofische behandelwijze is voorts niet goed kenbaar en valt moeilijk te onderscheiden van andere alternatieve behandelwijzen. Een andere overweging is dat de schadelijkheid voor de volksgezondheid niet zozeer behoeft te liggen in een bepaalde behandelwijze, maar een gevolg kan zijn van de houding van de klachten ingediend bij het bevoegde Medisch Tuchtcollege. Dit heeft in één geval geleid tot het opleggen van een maatregel (berisping); de andere zaak zal op 5 oktober 1993 op een openbare zitting van het Medisch Tuchtcollege te Amsterdam worden behandeld. </antwoord>
+      <antwoord nummer="6">Artikel 96 van het wetsvoorstel BIG biedt voldoende mogelijkheden om op te treden in voorkomende gevallen. Genoemd artikel stelt strafbaar het geval dat een niet-gekwalificeerde beroepsbeoefenaar buiten noodzaak schade of een aanmerkelijke kans op schade heeft veroorzaakt bij het verlenen van gezondheidszorg. Onder niet-gekwalificeerde beroepsbeoefenaren wordt verstaan beoefenaren van beroepen die niet wettelijk zijn geregeld èn beoefenaren van wel wette'ijk geregelde beroepen die bij het verlenen van zorg buiten hun wettelijke deskundigheidsgebied zijn getreden. Artikel 96 is niet alleen van toepassing op degenen die zich beroepsmatig bezig houden met het verlenen van individuele gezondheidszorg, maar ook degenen die slechts incidenteel op dat terrein werkzaam zijn vallen onder deze bepalmg Voorts is de bepaling van artikel 96 van het wetsvoorstel BIG van toepassing op het gehele doen en laten van de zorgverlener ten opzichte van de patiënt. Ook als door toedoen van een beroepsbeoefenaar een bepaalde behandelmg achterwege blijft, terwijl die wèl geïndiceerd zou zijn, en vervolgens schade ontstaat, kan strafrechtelijk worden opgetreden. Hierbij kan patiëntencontacten. Voorts komt uit verschillende onderzoeken* naar voren dat patienten die van alternatieve behandelwijzen gebruik maken in het algemeen de reguliere zorg bepaald niet de rug toekeren; zij blijken tenminste evenveel van de reguliere zorg gebruik te maken als degenen die zich niet in de alternatieve zorg hebben begeven. Niettemin acht de tweede ondertekenaar het wenselijk dat een door het pubiiek eenvoudig te raadplegen register van beoefenaren van alternatieve behandelwijzen door de beroepsgroep tot stand wordt gebracht. Daartoe wordt financiële ondersteuning verschaft aan het huidige initiatief van de koepelorganisatie van (circa drieduizend) alternatieve beroepsbeoefenaren zijnde niet-arts om een dergelijk register in te stellen. Voor alternatieve beroepsbeoefenaren die arts zijn bestaat reeds een bijgehouden register. In het licht van het voorgaande vindt de tweede ondertekenaar voorlichtingsactiviteiten op dit moment niet noodzakelijk. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Ter inzage gelegd bij de afdeling Parlementaire Documentatie</noot>
+         <noot nummer="2"> TK 19522, nr. 3, p. 2</noot>
+         <noot nummer="3"> CBS, maandbericht Gezondheidsstatistiek, mei  1992</noot>
+         <noot nummer="4"> Maalbaarheidsonderzoek substitutie-effecten alternatieve geneeswijzen, NIVEL 1991. blz. 22 en CBS, maandbencht Gezondheidsstatistiek, mei 1992</noot>
+      </noten>
+   </antwoorden>
+</kvr>

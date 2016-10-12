@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19871988:0000993</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0000993&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0000993</item>
+         <item attribuut="Document-id">0000098707</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1987-1988 nummer 56</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Moret-de Jong (CDA.) over wapentransporten vanuit de haven van Zeebrugge.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1987-1988 nummer 56</item>
+         <item attribuut="Jaargang">1987_1988</item>
+         <item attribuut="Vraagnummer">56</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Moret-de Jong</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-10-01</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van Rooy</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-10-16</item>
+         <item attribuut="Beginpagina">111</item>
+         <item attribuut="Eindpagina">112</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="" typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 7 - 1 9 8 8 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="56" onderwerp="wapentransporten vanuit de haven van Zeebrugge." indiendatum="1 oktober 1987)">
+         <vrager partij="CDA" oorsprong="parlement">Moret-de Jong</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie="Economische Zaken"/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 ">Hebt u kennis genomen van het  bericht over de gebrekkige controle  op wapenzendingen vanuit de haven  van Zeebrugge? </vraag>
+      <vraag nummer="1 "/>
+      <vraag nummer="2 ">Vinden ook Nederlandse wapen- transporten vanuit deze haven  plaats?  </vraag>
+      <vraag nummer="3 ">Zo ja, welk beleid stelt u zich voor  te dezen voeren?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1 ">Ja.  </antwoord>
+      <antwoord nummer="2 ">Ja.  </antwoord>
+      <antwoord nummer="3 ">Indien militaire goederen van  Nederlandse oorsprong het vrije  verkeer van België verlaten, dient  daarvoor een uitvoervergunning van  de Belgische autoriteiten te worden  overgelegd. Deze  w o r d t alleen  verstrekt indien daarvoor toestem- ming is gegeven door de Nederlandse  autoriteiten.  Uiteraard hoeft geen toestemming  van Nederland te worden gevraagd  indien voor de Belgische instanties  reeds een Nederlandse uitvoervergun- ning kenbaar aanwezig is.  Ik heb geen aanleiding te veronder- stellen dat deze consultatie-procedu- re, die dient ter bewaking van de  Benelux-buitengrens, in de praktijk  onbevredigend werkt. Niettegen- staande het feit dat de mate en de  kwaliteit van de tenuitvoergelegde  controles in België onder de verant- woordelijkheid van dat land zelf  vallen, heb ik in deze berichten toch  aanleiding gezien met de ter zake  bevoegde autoriteiten in België  contact op te nemen teneinde nadere  informatie in te winnen over de  uitkomst van het onderzoek in  kwestie van de parlementaire  onderzoekscommissie.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

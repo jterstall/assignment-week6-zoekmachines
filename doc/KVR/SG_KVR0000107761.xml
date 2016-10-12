@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001986</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001986&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001986</item>
+         <item attribuut="Document-id">0000107761</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 952</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Weisglas en Van Heemskerck Pillis Duvekot (beiden V.V.D.) over de vermeende verrijking van uranium uit Namibië door Urenco.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 952</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">952</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Weisglas</persoon>
+            <persoon partij="VVD">Van Heemskerck Pillis Duvekot</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-07-21</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-08-17</item>
+         <item attribuut="Beginpagina">1901</item>
+         <item attribuut="Eindpagina">1902</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 6 - 1 9 8 7 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="952" onderwerp="de vermeende verrijking van uranium uit Namibië door Urenco." indiendatum="21 juli 1987)">
+         <vrager partij="VVD" oorsprong="parlement">Weisglas</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Van Heemskerck Pillis Duvekot</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1 ">Heeft de minister kennis genomen  van de uitspraak van een lid van de  werkgroep «Kairos» dat de secretaris- generaal van de Verenigde Naties  «niets, maar dan ook niets te maken  wil hebben» met de beslissing van de  V.N.-raad voor Namibië om de Staat  der Nederlanden voor de rechter te  dagen in verband met de vermeende  verrijking van uranium uit Namibië  door Urenco? </vraag>
+      <vraag nummer="1 "/>
+      <vraag nummer="2 ">Heeft de minister kennis genomen  van de uitspraak van een woordvoer^  der van het V.N. atoomagentschap  (I.A.E.A.), dat dit agentschap buiten  de kwestie van de Namibische  uraniumproduktie wil blijven? </vraag>
+      <vraag nummer="2 "/>
+      <vraag nummer="3 ">Wil de minister doen nagaan, of deze  twee uitspraken kloppen?  </vraag>
+      <vraag nummer="4 ">Zo ja, acht hij het dan merkwaardig  dat de secretaris-generaal van de  V.N. en het meest betrokken V.N.- agentschap in feite afstand  nemen van een zo belangrijke  aangelegenheid als de juridische  aanklacht van een ander V.N.-orgaan  jegens een lidstaat van de V.N.?  Is deze gang van zaken symptoma- tisch voor het gebrek aan coördinatie  binnen de V.N. en aan bevoegdheden  van de secretaris-generaal van deze  organisatie?  </vraag>
+      <vraag nummer="6 ">Wil de minister hierover zijn bevreerrv  ding kenbaar maken tegenover de  secretaris-generaal van het I.A.E.A.,  zulks uiteraard zonder vooruit te  lopen op een eventuele rechterlijke  uitspraak over de zaak zelf?  </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> NRC-Handelsblad van 15 juli 1987 </noot>
+         <noot nummer="2"> Algemeen Dagblad van 16 juli 1987 </noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

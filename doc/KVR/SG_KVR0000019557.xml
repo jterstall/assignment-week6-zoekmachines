@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001171</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001171&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001171</item>
+         <item attribuut="Document-id">0000019557</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 158</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Huys (PvdA) over de mestproblematiek.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 158</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">158</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Huys</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-10-24</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Bukman</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-11-18</item>
+         <item attribuut="Beginpagina">323</item>
+         <item attribuut="Eindpagina">324</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="323" allpagenumbers="323" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="'s Gravenhage 1991"/>
+      <vraagdata vraagnummer="158" onderwerp="de mestproblematiek." indiendatum="24oktober 1991">
+         <vrager partij="PvdA" oorsprong="parlement">Huys</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1991-11-18">
+         <antwoorder functie="minister" ministerie="Landbouw, Natuurbeheer en Visserij">Bukman</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Hebt u kennis genomen van berichten, dat de sociaal-economische voorlichtingsdiensten (SEV) van de landbouworganisaties veehouders met het oog op de komende mestmaatregelen adviseren hun veestapel uit te breiden?' </vraag>
+      <vraag nummer="2">Adviseert het Landbouwschap veehouders hun stallen vol te zetten teneinde te anticiperen op de voorgenomen verlaging van het grondgebonden mestproduktierecht? </vraag>
+      <vraag nummer="3">Acht u een dergelijke gang van zaken, gelet op de noodzaak de mestproblematiek te beheersen c.q. te verminderen, niet volstrekt ontoelaatbaar? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja. Het is mij niet bekend dat behalve de SEV ook het Landbouwschap aan veehouders heeft geadviseerd hun stallen vol te zetten teneinde te anticiperen op de voorgenomen verlaging van het grondgebonden mestproduktierecht. </antwoord>
+      <antwoord nummer="3">Mijn beleid is zeker niet gericht op het volzetten van stallen. Integendeel, in de Memorie van Toelichting bij de begroting van 1992 heb ik verschillende voornemens aangekondigd om een verdere uitbreiding van de mestproduktie te beperken. Advisering als gebeurd is door de SEV staat haaks op mijn beleid. Overweegt u de bijdragen, die van overheidswege aan de SEV worden verschaft nader te bezien nu blijkt, dat deze organisaties het zo noodzakelijke overheidsbeleid in deze bewust tegen werken? ' Agrarisch Dagblad van 23 oktober j.l. Naar aanleiding van de gemelde onjuiste advisering door de SEV, zoals dat ook verwoord is in een artikel in het blad Oogst dd. 18 oktober jl., is ambtelijk contact opgenomen met de SEV. Dit heeft geresulteerd in een aanpassing van haar advisering, waarvan melding is gemaakt in het blad Oogst dd. 25 oktober. Gelet hierop vormt dit incident voor mij geen aanleiding om de overheidsbijdrage aan de SEV te herzien. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

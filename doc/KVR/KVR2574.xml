@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Leers en V.A.M. van der Burg (beiden CDA) over ambassades in het Balticum. (Ingezonden 24 januari 1996); Antwoord</item>
+         <item attribuut="Bestand">13Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR2574
+</item>
+         <item attribuut="Inhoud">Vragen over het eventueel vestigen van een ambassade in Vilnius of Riga.</item>
+         <item attribuut="Rubriek">Internationale betrekkingen (Ambassades)</item>
+         <item attribuut="Trefwoorden">Ambassades Letland Litouwen</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 1995-1996, nr. 627, Tweede Kamer</item>
+         <item attribuut="Afkomstig_van">Buitenlandse Zaken</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Leers</persoon>
+            <persoon partij="CDA">V.A.M. van der Burg</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1996-02-20</item>
+         <item attribuut="Datum_indiening">1996-01-24</item>
+         <item attribuut="Document-id">KVR2574</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1995–1996" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1271" allpagenumbers="1271" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1995–1996, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 1996"/>
+      <vraagdata vraagnummer="627" onderwerp="" indiendatum="1996-01-24">
+         <vrager partij="CDA" oorsprong="parlement">Leers</vrager>
+         <vrager partij="CDA" oorsprong="parlement">V.A.M. van der Burg</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1996-02-20">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">Van Mierlo</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Is het waar, dat op korte termijn een ambassade hetzij in Vilnius of Riga zal worden gevestigd? Zo ja, wanneer zal het definitieve besluit hieromtrent genomen worden? </vraag>
+      <vraag nummer="2">In welke van deze twee Baltische staten zal de ambassade dan worden gevestigd? </vraag>
+      <vraag nummer="3">Is overwogen om te zamen met andere Europese lidstaten (bijvoorbeeld in BeNeLux-verband) ambassades in het Balticum op te zetten? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1 en 2" voetnoot="1">In de memorie van toelichting bij de begroting van het ministerie van Buitenlandse Zaken voor 1996 <voetnoot nummer="1"/>heb ik gesteld in 1996 onder meer de opening van een ambassade in Riga te overwegen. In de beantwoording van vragen die tijdens de behandeling van deze begroting zijn gesteld, heb ik aangegeven diplomatieke vertegenwoordiging ter plaatse in het Balticum duidelijk als prioriteit te onderkennen en er naar te streven dit in 1996 te realiseren. Een definitief besluit terzake zal in het kader van de uitwerking van de herijking van het buitenlands beleid plaatsvinden. </antwoord>
+      <antwoord nummer="3">Ja. Concrete sonderingen zullen evenwel eerst plaatsvinden, nadat een definitieve beslissing over de vestigingsplaats zal zijn genomen. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1" documenttype="Kamerstuk" kamerstuk-id="24 400 V" documentnummer="2">Kamerstuk 24 400 V, nr. 2</noot>
+      </noten>
+   </antwoorden>
+</kvr>

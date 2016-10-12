@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001490</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001490&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001490</item>
+         <item attribuut="Document-id">0000011794</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 560</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Akkerman (PvdA) over de werking van de Waterschapswet.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 560</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">560</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Akkerman</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-05-04</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Maij-Weggen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-05-13</item>
+         <item attribuut="Beginpagina">1147</item>
+         <item attribuut="Eindpagina">1148</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1147" allpagenumbers="1147" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="560" onderwerp="de werking van de Waterschapswet." indiendatum="1993-05-4">
+         <vrager partij="PvdA" oorsprong="parlement">Akkerman</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-05-13">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">Maij-Weggen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Is een evaluatie van de werking van de Waterschapswet voorzien? Zo ja, wanneer kan de Kamer de desbetreffende notitie verwachten? Hoe werkt in de praktijk de voor de wet cruciale trits «belang-betaling-zeggenschap»? </vraag>
+      <vraag nummer="3">Acht u het redelijk dat, daar waar het belang vooral bij de categorie «onbebouwd» ligt - bijvoorbeeld bij het wegenbeheer - de betaling, namelijk de verdeling van de waterschapslasten, vooral door de categorie «bebouwd» geschiedt? Zo nee, acht u het dan op uw weg liggen om, bij het parlement voorstellen in te dienen tot aanpassing van de wet? </vraag>
+      <vraag nummer="4">Hoe beoordeelt u de mogelijkheid om, bijvoorbeeld in samenwerking met de Unie van Waterschappen en/of het IPO, een modelverordening te maken inzake de omslagen die een waterschap kan heffen? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Neen, een formele evaluatie van de werking van de Waterschapswet is niet voorzien. Wel is het zo dat sinds de inwerkingtreding van de Waterschapswet (1 januari 1992) een overgangstermijn van 3 jaar is aangevangen, waarbinnen provincies de door hen ten aanzien van waterschappen gestelde regels dienen aan te passen aan de Waterschapswet. Pas na die periode kan een helder zicht worden verkregen in de doorwerking van de Waterschapswet in de concrete praktijk. </antwoord>
+      <antwoord nummer="2">De trits belang-betaling-zeggenschap is in de praktijk bepalend voor allereerst de samenstelling van het bestuur van het waterschap, en voorts - daarmee onlosmakelijk verbonden - voor de toedeling van de lasten aan de diverse aan het bestuur participerende categorieën van belanghebbenden (ongebouwd, gebouwd etc.). </antwoord>
+      <antwoord nummer="3">Ook voor de hier bedoelde toedeling van lasten (die voor het wegbeheer) geldt de eerder genoemde trits. Hoewel tussen de drie onderdelen van de trits geen wiskunde relatie is gelegen, is het wel zo dat naar rato van het belang moet worden betaald en de zeggenschap daardoor wordt bepaald. De door de vragensteller beschreven situatie beschouw ik derhalve niet als redelijk, los van de vraag of bij het wegenbeheer het belang inderdaad vooral bij de categorie ongebouwd ligt. Een aanpassing van de Waterschapswet ligt niet in mijn voornemen omdat de onderhavige trits reeds in de wet is vastgelegd (onder andere artt. 13 en 119 Waterschapswet) en eventuele afwijkingen daarvan in de provinciale reglementering aan het licht treden bij de uitoefening van het ministerieel toezicht (op basis van artikel 5 Waterschapswet) op de provinciale besluitvorming. </antwoord>
+      <antwoord nummer="4">De model-toedelingsverordening waarop hier wordt gedoeld is reeds gereed. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

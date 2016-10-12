@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="2">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001152</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001152&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001152</item>
+         <item attribuut="Document-id">0000027489</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 219</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Schutte (G.P.V.), Laning-Boersema (C.D.A.), Van der Vlies (S.G.P.) en Leerling (R.P.F.) over het standpunt van de minister van Welzijn, Volksgezondheid en Cultuur inzake abortus.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 219</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">219</item>
+         <item attribuut="Indiener">
+            <persoon>Schutte</persoon>
+            <persoon>Laning-Boersema</persoon>
+            <persoon>Van der Vlies</persoon>
+            <persoon>Leerling</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-11-29</item>
+         <item attribuut="Beantwoorder">
+            <persoon>D'Ancona</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-12-05</item>
+         <item attribuut="Beginpagina">441</item>
+         <item attribuut="Eindpagina">442</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="441" allpagenumbers="441" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 738x" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="219" onderwerp="het standpunt van de minister van Welzijn, Volks– gezondheid en Cu/tuur inzake abortus." indiendatum="1990-11-29">
+         <vrager partij="" oorsprong="parlement">Schutte</vrager>
+         <vrager partij="" oorsprong="parlement">Laning-Boersema</vrager>
+         <vrager partij="" oorsprong="parlement">Van der Vlies</vrager>
+         <vrager partij="" oorsprong="parlement">Leerling</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-12-5">
+         <antwoorder functie="minister" ministerie="Welzijn, Volksgezondheid en Cultuur">d'Ancona</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1">Hebt u de uitnodiging om het nieuwe pand van de abortuskliniek in Eindhoven te openen aanvaard onder meer om bij die gelegenheid duidelijk te kunnen maken dat u niets ophebt met de 'wijze van optreden van de anti-abortusbeweging'? Waarom hebt u daardoor gebroken met de sedert de totstandkoming van de Wet afbreking zwangerschap gehanteerde regel, dat bewinds– lieden zich onthouden van 'activi– teiten die als ondersteunend voor abortus zouden kunnen worden opgevat'? Is hier sprake van een kabinetsstandpunt? </vraag>
+      <vraag nummer="3">Erkent u, dat mensen die funda– mentele bezwaren hebben tegen de bestaande abortuspraktijk in Nederland het recht hebben hun bezwaren in woord en daad tot uitdrukking te brengen en dat het tot de taak van de rechter behoort te oordelen over de grenzen van de vrijheid van meningsuiting? waarde van uw opmerking, dat 'de anti-abortusbeweging haar vrijheid van meningsuiting op bedenkelijke wijze heeft opgerekt'? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Neen. De aangehaalde «regel» verwijst naar een afspraak tussen de toenmalige bewindslieden die dateert uit de periode van de totstandkoming van de Wet afbreking zwangerschap. Het huidige kabinet heeft daar geen afspraak over gemaakt. </antwoord>
+      <antwoord nummer="3 en 4">Ja, en het eerste heb ik in mijn toespraak ook met grote nadruk gezegd. Ik meen echter dat in sommige gevallen actie wordt gevoerd op een manier die inbreuk maakt op de privacy van direct betrokkenen. Overigens zij erop gewezen dat in ten minste één geval door de rechter een straatverbod is gegeven. Wat is tegen die achtergrond de </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

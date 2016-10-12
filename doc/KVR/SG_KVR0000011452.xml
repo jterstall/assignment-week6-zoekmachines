@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="4">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001148</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001148&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001148</item>
+         <item attribuut="Document-id">0000011452</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 217</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Leerling (RPF) over de invoering van milieutoeslag in de luchtvaart.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 217</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">217</item>
+         <item attribuut="Indiener">
+            <persoon partij="RPF">Leerling</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-12-03</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Maij-Weggen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-12-11</item>
+         <item attribuut="Beginpagina">447</item>
+         <item attribuut="Eindpagina">448</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="447" allpagenumbers="447" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="'s Gravenhage 1992"/>
+      <vraagdata vraagnummer="217" onderwerp="de invoering van milieutoeslag in de luchtvaart." indiendatum="1992-12-3">
+         <vrager partij="RPF" oorsprong="parlement">Leerling</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-12-11">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">Maij-Weggen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Kunt u toelichting geven bij het bericht', dat een grote buitenlandse luchtvaartmaatschappij op 1 januari 1993 een milieutoeslag zal invoeren voor alle vliegtuigpassagiers die uit Nederland vertrekken? </vraag>
+      <vraag nummer="2">Is de invoering van deze milieutoeslag in de luchtvaart een primeur? </vraag>
+      <vraag nummer="3">Is dit een doorbraak die uiteindelijk tot algemene invoering van een milieutoeslag dan wel milieubelasting in de luchtvaart zal leiden? </vraag>
+      <vraag nummer="4">Bent u bereid in dit kader een stimulerende rol te spelen? Zo ja, hoe? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1992-11-27" bron=" Telegraaf"> Telegraaf, 27 november 1992</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">De berichtgeving berust naar mijn indruk op een rondschrijven van de International Air Transport Association (IATA), dat inmiddels door de IATA is herroepen. Ik beschik overigens ook niet over stukken of correspondentie waarin mij wordt voorgesteld om de bedoelde f2,50 milieutoeslag in te voeren. </antwoord>
+      <antwoord nummer="2">Het instrument milieuheffing is niet nieuw in de luchtvaartsector. De overheid hanteert al sinds 1984 een geluidsheffing bij de verschillende luchthavens. De heffing wordt gebruikt om de kosten, welke verbonden zijn aan de saneringsmaatregelen rondom die luchthavens, af te dekken. Naast een milieuheffing van de overheid kan het bedrijfsleven uiteraard zelf «milieutoeslagen» doorberekenen. </antwoord>
+      <antwoord nummer="3">Zoals onder antwoord 2 is aangegeven gaat het niet om een doorbraak. Luchthavenheffingen zijn onder het Verdrag van Chicago toegestaan voor zover deze aangewend worden om specifieke, door luchtverkeer veroorzaakte, kosten te dekken. De genoemde geluidsheffing voldoet aan dit criterium. Ook in een aantal andere landen worden geluidsheffingen toegepast. </antwoord>
+      <antwoord nummer="4">Er is een aanpassing nodig van internationale afspraken voor een eventuele invoering van een niet aan specifieke kosten gerelateerde milieuheffing. In gevallen waar een milieuheffing een zlnvol instrument kan zijn ben ik bereid initiatieven te nemen. Zo is onlangs, mede op Nederlands initiatief, in ICAO (de Internationale Burgerluchtvaart Organisatie)-verband besloten om in het kader van het Committee Aviation Environmental Protection in een studie na te gaan of de toepassing van een kerosine-heffing een bijdrage kan leveren aan de beperking van luchtverontreinigde emissies. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

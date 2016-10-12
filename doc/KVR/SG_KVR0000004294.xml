@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0001783</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001783&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001783</item>
+         <item attribuut="Document-id">0000004294</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 569</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Van Hoof en Essers (beiden VVD) over de werkwijze van het Centraal Bestuur voor de Arbeidsvoorziening.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 569</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">569</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Van Hoof</persoon>
+            <persoon partij="VVD">Essers</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-06-01</item>
+         <item attribuut="Beantwoorder">
+            <persoon>De Vries</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-06-17</item>
+         <item attribuut="Beginpagina">1155</item>
+         <item attribuut="Eindpagina">1156</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1155" allpagenumbers="1155 1156" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat s Gravenhage 1994"/>
+      <vraagdata vraagnummer="569" onderwerp="de werkwijze van het Centraal Bestuur voor de Arbeidsvoorziening." indiendatum="1994-06-1">
+         <vrager partij="VVD" oorsprong="parlement">Van Hoof</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Essers</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="17juni 1994">
+         <antwoorder functie="minister" ministerie="Sociale Zaken en Werkgelegenheid">De Vries</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Hebt u kennis genomen van het voornemen van de Voorzitter van het Centraal Bestuur voor de Arbeidsvoorziening (CBA), om voor een vijfde van alle werklozen in Nederland geen moeite meer te doen om ze aan het werk te helpen omdat ze toch onbemiddelbaar zijn? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2" voetnoot="2">Vindt u dat wenselijk en aanvaardbaar? Hoe verhoudt de uitspraak van de Voorzitter van het CBA zich met de eerder door u geuite mening, dat een categorale uitsluiting van werklozen onwenselijk is, uitsluiting altijd tijdelijk dient te zijn en iedere werkzoekende recht op bemiddeling van het RBA heeft? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="4">In hoeverre zijn de uitspraken van de Voorzitter van het CBA te rijmen met de door u geuite mening, dat de resultaten van regionale pilotprojecten terzake eerst zorgvuldig dienen te worden geëvalueerd alvorens een mogelijke verbreding tot stand kan worden gebracht? Welke stappen bent u voornemens te ondernemen om ervoorte zorgen, dat het door de Voorzitter van het CBA geuite voornemen zal worden bijgesteld en derhalve niet in de praktijk worden gebracht? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="3"/>
+         <noot nummer="1" datum="1994-05-26" bron=" De Telegraaf, 27 mei 1994. Kenmerk televisie"> De Telegraaf, 27 mei 1994. Kenmerk televisie, 26 mei 1994</noot>
+         <noot nummer="2" datum="1994-03-22" bron=" Kamerstuk 21 477, nr. 34, pagina 26 onder 11 en Mondelinge vragen"> Kamerstuk 21 477, nr. 34, pagina 26 onder 11 en Mondelinge vragen, 22 maart 1994</noot>
+         <noot nummer="3" datum="1994-03-22" bron=" Mondelinge vragen"> Mondelinge vragen, 22 maart 1994</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja, ik heb hiervan kennisgenomen. Wanneer de Voorzitter van het CBA het letterlijk bedoelt zoals in vraag 1 is beschreven vind ik dit onwenselijk en onaanvaardbaar. </antwoord>
+      <antwoord nummer="3">Het is inderdaad zo dat ik categorale uitsluiting van werklozen onwenselijk acht. Voor zover in inviduele gevallen wordt geconstateerd dat het arbeidsbureau geen meerwaarde aan de begeleiding van een cliënt kan toevoegen dient deze conclusie een tijdelijk karakter te hebben. Op een bepaald moment zal er sprake moeten zijn van herbeoordeling van de mdividuele situatie. Bovendien dienen deze conclusies in samenwerking met de uitvoeringsorganen Sociale Zekerheid i.c. de Sociale Dienst te worden getrokken. De uitspraken van de Voorzitter van het CBA ontkennen deze lijn naar mijn mening niet. Het probleem is echter dat momenteel geen valide kwantitatieve gegevens beschikbaar zijn over het aantal cliënten, waarvoor geldt dat het arbeidsbureau tijdelijk zijn dienstverlening heeft opgeschort of wil opschorten. Op bestuurlijk niveau wordt binnen de Arbeidsvoorzieningsorganisatie gewerkt aan een zodanige indeling van de bestanden, dat betrouwbare kwantitatieve en kwalitatieve mtspraken over de afstand tot de arbeidsmarkt van een cliënt kunnen worden gedaan op basis van eenduidige criteria (categorisering). Deze zullen moeten worden afgewacht. Dat neemt niet weg dat ik mij zorgen maak over de uitkomsten, zeker gelet op de inschattingen die daarover worden gemaakt door de Voorzitter van het CBA. Ik hecht eraan in dit verband mijn standpunt te herhalen dat in die gevallen dat de dienstverlening van het arbeidsbureau (tijdelijk) ontoereikend dan wel uitgeput is, de Sociale Dienst een extra accent zal moeten leggen op begeleiding van de cliënt tot een bemiddelbaar niveau is bereikt. Daarna zal het Arbeidsbureau de begeleiding (weer) overnemen. sollicitatieplicht en sollicitatiegedrag van werkzoekenden; de consequenties van een en ander voor Gemeentelijke Sociale Diensten in het kader van de her in te richten Algemene Bijstandswet. De voor Arbeidsvoorziening relevante vragen heb ik, door middel van de overheidsgeleding, aan de Voorzitter van het CBA doen toekomen, met daarbij de kanttekening dat over deze vragen rapportage gewenst is vóórdat besluitvorming over integrale invoering aan de orde is. Ik ga er vanuit u mede op basis van deze rapportage adequaatte kunnen informeren. Naast de (impliciete) interventie-mogelijkheid, zoals ik die heb geschetst in mijn antwoord op vraag 4, staan mij andere mogelijkheden ter beschikking in het kader van de totstandkoming van het Landelijk Meerjarenbeleidskader 1995-1999. In dit kader zal ondermeer nader worden ingegaan op het beleid dat  de Arbeidsvoorzieningsorganisatie zal voeren m.b.t. de langdurig werklozen. Hoewel ik verwacht dat in goed overleg met de bestuursgeledingen in het CBA tot een bevredigend beleid op genoemde punten zal worden gekomen, zal besluitvorming over het LMBK rrioeten plaatsvinden op basis van een gekwalificeerde meerderheid. Dit verschaft de overheidsgeleding de mogelijkheid een onacceptabele lijn te blokkeren. Bovendien zal de TK in de gelegenheid zijn haar opvattingen te geven op basis van het voorlopig </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

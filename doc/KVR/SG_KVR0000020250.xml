@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001864</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001864&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001864</item>
+         <item attribuut="Document-id">0000020250</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 845</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Sipkes, Rosenmöller en Brouwer (allen Groen Links) over vergunningen voor wapenleveranties aan Turkije.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 845</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">845</item>
+         <item attribuut="Indiener">
+            <persoon>Sipkes</persoon>
+            <persoon>Rosenmöller</persoon>
+            <persoon>Brouwer</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-08-04</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-08-31</item>
+         <item attribuut="Beginpagina">1757</item>
+         <item attribuut="Eindpagina">1758</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1757" allpagenumbers="1757" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="845" onderwerp="vergunningen voor wapenleveranties aan Turkije." indiendatum="1992-08-4">
+         <vrager partij="" oorsprong="parlement">Sipkes</vrager>
+         <vrager partij="" oorsprong="parlement">Rosenmöller</vrager>
+         <vrager partij="" oorsprong="parlement">Brouwer</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="31 augustus 192">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">Van den Broek</antwoorder>
+         <mede-antwoorder>de staatssecretarissen van Economische Zaken en van Defensie en de minister van Financiën)</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1">Hebt u onlangs een vergunning afgegeven voor de leverantie van M483-granaten door Eurometaal aan Turkije'? Bent u zich bewust van het feit, dat deze granaten ingezet kunnen worden tegen de Koerdische bevolking? </vraag>
+      <vraag nummer="3">Zoja, waarom vindt u levering van granaten dan toch verantwoord, mede gelet op de recente gewelddadigheden van het Turkse leger tegen de Koerdische bevolking? </vraag>
+      <vraag nummer="4">Op grond waarvan hebt u geconcludeerd, dat in Turkije geen sprake is van een spanningsgebied, dat wapenleveranties verbiedt? </vraag>
+      <vraag nummer="5" voetnoot="1 2">Op grond waarvan hebt u geconcludeerd, dat met behulp van de te leveren wapens de mensenrechten in Turkije niet geschonden zullen en kunnen worden? Welke garanties hebt u gekregen, dat dat niet zal gebeuren? Hoe sterk moet de situatie in Turkije escaleren, opdat de Nederlandse regering geen vergunningen meer verstrekt voor wapenleveranties als die van Eurometaal? Deelt u de mening, dat deze beslissing in strijd is met uw zorg over de explosieve situatie in Zuid-Oost Turkije en de gewelddadige akties tegen de Koerdische bevolking door het Turkse leger, zoals geuit tijdens het mondeling overleg op 13 februari 1992 <voetnoot nummer="1"/> en het kamerdebat op 31 maart 1992? Zo neen, waarom niet <voetnoot nummer="2"/>? </vraag>
+      <vraag nummer="8">Deelt u de mening, dat deze beslissing ook in strijd is met uitspraken van uw zijde, onder meer tijdens de behandeling van de begrotingen Buitenlandse Zaken en Defensie 1991, dat er geen nieuwe defensiekontracten aangegaan zouden worden met de Turkse overheid? Zo neen, waarom niet? Deelt u de mening, dat de leverantie aan Turkije door Eurometaal geen bijdrage vormt aan het conversieproces, waarin Eurometaal is verwikkeld? </vraag>
+      <vraag nummer="10">Bent u bereid, uw invloed als aandeelhouder van Eurometaal aan te wenden om het conversieproces te bespoedigen? </vraag>
+      <vraag nummer="11">Bent u bereid uw beslissing inzake de vergunningverlening aan Eurometaal te heroverwegen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1992-07-24" bron=" Alkmaarse Courant van 30 juni jl ; Persbericht Anti-Militaristies Onderzoekskollektief, Utrecht"> Alkmaarse Courant van 30 juni jl ; Persbericht Anti-Militaristies Onderzoekskollektief, Utrecht, 24 juli 1992</noot>
+         <noot nummer="2"> TK 1991-1992, 21 664, nr. 83; Handelingen 1991-1992, nr. 23, pagina 4186ev</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1" voetnoot="2"> t/m  11 Tot dusverre is de kwestie van eventuele verlening van een vergunning als in deze vraag bedoeld, niet aan de orde geweest. Niettemin kan nog het volgende worden opgemerkt. Zoals bekend is de produktie door Eurometaal van M 483 munitie een reeds langlopende multilateraal (IEPG) project. De Verenigde Staten hebben in bondgenootschappelijk kader de licentierechten van de M 483 munitie gegund aan Nederland, dat door Eurometaal de hulzen laat produceren voor bedoelde munitie. De in dit project samenwerkende landen zijn Nederland, Turkije en het Verenigd Koninkrijk. Naast voorziening in eigen Nederlandse behoefte, is tevens sprake van overeenkomsten voor een gezamenlijke produktie met de beide andere deelnemende landen. De eerste contacten met <voetnoot nummer="2"/>Naar de mening van de Regering moet conversie worden beschouwd als een geleidelijk en evenwichtig proces van aanpassing van produktieactiviteiten, zoals ook moge blijken uit de nota «De Nederlandse Defensie-industrie» die de Kamer op 12 november 1990 is toegegaan. Dit houdt naar het oordeel van de Regering in, dat voortgaande levering van militaire goederen niet onverenigbaar is met de overschakeling van capaciteit van een bedrijf naar een civiele produktie. Zoals voorts in genoemde nota verwoord, is het primair de taak van betrokken ondernemers zelf om te reageren op marktontwikkelingen. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="2"> Kamerstuk 22 054, nr 9, vergaderjaar 1991-1992</noot>
+      </noten>
+   </antwoorden>
+</kvr>

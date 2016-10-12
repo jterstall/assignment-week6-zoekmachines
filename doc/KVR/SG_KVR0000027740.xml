@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001403</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001403&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001403</item>
+         <item attribuut="Document-id">0000027740</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 469</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Willems (Groen Links) over het aantal volmachtstemmen in de gemeente Echt</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 469</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">469</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Willems</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-02-27</item>
+         <item attribuut="Beantwoorder">
+            <persoon>De Graaff-Nauta</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-03-27</item>
+         <item attribuut="Beginpagina">951</item>
+         <item attribuut="Eindpagina">952</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="951" allpagenumbers="951 952" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN0921 - 7398" uitgever="SDU uitgeverij s Gravenhage 1991"/>
+      <vraagdata vraagnummer="469" onderwerp="het aantal volmacht– stemmen in de gemeente Echt" indiendatum="1991-02-27">
+         <vrager partij="Groen Links" oorsprong="parlement">Willems</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="2">Hebt u kennis genomen van berichten in de Limburgse pers' over het grote aantal uitgebrachte volmachtstemmen bij de raadsver– kiezingen van 28 november j.l. in de gemeente Echt? Is het u bekend, dat het aantal volmachtstemmen, nl. 1974 stemmen, goed was voor drie van de zeventien raadszetels? Hebt u eveneens kennis genomen van het antwoord van B&amp;W van Echt op de brieven van de gemeente– raadsfractie van Groen Links over deze aangelegenheid, waarin B&amp;W onder meer verwijzen naar het Rijk voor «het nemen van verdere maatregelen»? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="3">Bent u bereid te bevorderen, dat een nader onderzoek wordt verricht naar de wijze waarop het grote percentage volmachtstemmen in Echt tot stand is gekomen? </vraag>
+      <vraag nummer="4">Bent u van mening, dat de bestaande sancties op het ronselen van volmachtstemmen voldoende zijn? Bent u - bijvoorbeeld in het kader van de eerder door u toegezegde evaluatie van de Kieswet, waaronder het stemmen bij volmacht - bereid verdergaande maatregelen te overwegen, zoals sancties die gericht zijn op het ongeldig maken van de uitslag van de verkiezingen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="3"/>
+         <noot nummer="1" datum="1991-01-31" bron=" Limburgs Dagblad, van 31 januari jl. en De Limburger,"> Limburgs Dagblad, van 31 januari jl. en De Limburger,, 31 januari 1991</noot>
+         <noot nummer="2" datum="29 januan 1991" bron=" Brief, van 18 februan jl. van Burgemeester en Wethouders van Echt aan Groen Links, afd. Echt, t.a.v. de heer J. Meeuws. De brief is een reactie op brieven van de heer Meeuws, van 12 oktober en"> Brief, van 18 februan jl. van Burgemeester en Wethouders van Echt aan Groen Links, afd. Echt, t.a.v. de heer J. Meeuws. De brief is een reactie op brieven van de heer Meeuws, van 12 oktober en, 29 januan 1991</noot>
+         <noot nummer="3"> De toezegging tot een evaluatie is gedaan in antwoord op schriftelijke vragen van de leden Van Otterloo en Willems, dd. 30 maart 1990, Aanhangsel Handelingen nr. 639, Vergaderjaar 1989-1990, en herhaald in antwoord op schriftelijke vragen van de leden Willems en De Cloe, dd 18 september 1990, Aanhangsel Handelingen nr. 69, Vergaderjaar 1990-1991</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

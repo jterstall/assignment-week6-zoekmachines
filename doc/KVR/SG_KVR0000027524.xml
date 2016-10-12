@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001187</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001187&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001187</item>
+         <item attribuut="Document-id">0000027524</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 254</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Middel (P.v.d.A.) en Versnel-Schmitz (D66) over de Stichting Baoni.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 254</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">254</item>
+         <item attribuut="Indiener">
+            <persoon>Middel</persoon>
+            <persoon>Versnel-Schmitz</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-11-16</item>
+         <item attribuut="Beantwoorder">
+            <persoon>D'Ancona</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-12-17</item>
+         <item attribuut="Beginpagina">513</item>
+         <item attribuut="Eindpagina">514</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="513" allpagenumbers="513" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="254" onderwerp="de Stichting Baoni." indiendatum="1990-11-16">
+         <vrager partij="" oorsprong="parlement">Middel</vrager>
+         <vrager partij="" oorsprong="parlement">Versnel-Schmitz</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-12-17">
+         <antwoorder functie="minister" ministerie="Welzijn, Volksgezondheid en Cultuur">D'Ancona</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Hebt u kennisgenomen van het bericht', dat de Stichting Baoni «zou sjoemelen» met de uitkering aan vervolgingsslachtoffers. Vraagt deze Stichting van betrok– kenen geld voor de bemiddeling bij het aanvragen van een uitkering krachtens de Wet Uitkeringen Vervolgingsslachtoffers 1940-1 945 (Wuv)? </vraag>
+      <vraag nummer="3">Wat is de reden, dat aanvragers naast of in plaats van gebruik te maken van de begeleiding, die de wettelijk erkende begeleidende instellingen bieden, zich wenden tot de Stichting Baoni? </vraag>
+      <vraag nummer="4">Zijn in een aantal gevallen ook de uitkeringen krachtens de Wuv niet aan de vervolgingsslachtoffers zelf, maar aan de Stichting Baoni uitge– keerd? Zo ja, om hoeveel gevallen gaat het? </vraag>
+      <vraag nummer="6">Welke - wettelijke - mogelijkheden ziet u teneinde op te treden tegen de praktijken van dergelijke commer– ciële instellingen en voor de eventuele gedupeerden van de Stichting Baoni om de geleden schade te verhalen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1990-11-14" bron=" De Volkskrant"> De Volkskrant, 14 november 1990</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1">Ja. Uit informatie van de Stichting Baoni blijkt dat deze Stichting inderdaad een bijdrage vraagt voor haar bemid– deling bij het aanvragen van een uitkering krachtens de Wet Uitke– ringen Vervolgingsslachtoffers 1940-1945. Deze bijdrage is volgens de Stichting Baoni noodzakelijk in verband met te maken bureaukosten, reiskosten, druk– en portokosten. </antwoord>
+      <antwoord nummer="3">Het is niet ongebruikelijk dat aanvragers kiezen voor onder– steuning of begeleiding door een vrijwilligersorganisatie voor oorlogs– getroffenen. Ook bij de andere wetten voor oorlogsgetroffenen zijn er organi– saties die aanvragers ondersteunen. In de meeste situaties is er dan sprake van samenwerking met de wettelijk erkende begeleidende instelling. </antwoord>
+      <antwoord nummer="4">Bij de Pensioen– en Uitkeringsraad zijn de dossiers onderzocht waarvan bekend is dat de Stichting Baoni betrokken was bij de aanvraag voor een uitkering. Uit deze dossiers blijkt dat in geen van de gevallen een uitbetaling van de uitkering heeft plaatsgevonden aan de Stichting Baoni. </antwoord>
+      <antwoord nummer="5">n.v.t. </antwoord>
+      <antwoord nummer="6">Op zichzelf is het niet verboden dat een instelling (of bedrijf) op commerciële basis diensten verricht die zijn gericht op het verkrijgen (of behouden) van een uitkering. In feite doet die situatie zich steeds voor bij het inschakelen van een advocaten– kantoor in een bezwaar– of beroeps– procedure. Indien sprake zou zijn van onoorbare praktijken in de zin van het achter– houden van een deel van de uitke– ringsgelden ligt het in de rede dat de gedupeerde een civiele aktie instelt jegens zo'n instelling dan wel, indien van frauduleus handelen sprake zou zijn, zich wendt tot de officier van justitie ter plaatse. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

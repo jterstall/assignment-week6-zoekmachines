@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19851986:0001584</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001584&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001584</item>
+         <item attribuut="Document-id">0000115144</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1985-1986 nummer 663</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Franssen (V.V.D.) over de organisatie van het ambulancevervoer.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1985-1986 nummer 663</item>
+         <item attribuut="Jaargang">1985_1986</item>
+         <item attribuut="Vraagnummer">663</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Franssen</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-03-06</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van der Reijden</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-04-28</item>
+         <item attribuut="Beginpagina">1317</item>
+         <item attribuut="Eindpagina">1318</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1985-1986 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 5 - 1 9 8 6 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="663" onderwerp="de organisatie van het ambulan- cevervoer." indiendatum="6 maart 1986)">
+         <vrager partij="VVD" oorsprong="parlement">Franssen</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="28 april 1986)">
+         <antwoorder functie="staatssecretaris" ministerie="Welzijn, Volksgezond- heid en Cultuur">Van der Heijden</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1 ">Herinnert u zich uw toezegging, deze  Kamer uw standpunt kenbaar te  maken over het rapport van Twijnstra  en Gudde inzake de organisatie van  het ambulancevervoer?'  Het moment van beschikbaarstel- ling van mijn standpunt hangt mede  af van de afronding van het hierboven  genoemde interdepartementale  overleg. Ik zal bevorderen dat dit zo  mogelijk op korte termijn tot afronding  komt.  Waarom moet het zo lang duren  voordat dit standpunt kenbaar wordt  gemaakt, gelet op het feit dat dit  rapport reeds in mei 1985 aan u is  aangeboden?  </vraag>
+      <vraag nummer="3 ">Wilt u bevorderen dat deze Kamer  uiterlijk 1 mei a.s. over uw standpunt  kan beschikken?   Handelingen vergaderjaar 1983-1984, nr.  25. blz. 4298.  </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"/>
+      </noten>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1 ">Ja.  De standpuntbepaling van het IPO  over het rapport van Twijnstra en  Gudde heb ik eerst in oktober 1985  ontvangen. Daarnaast blijkt het  interdepartementaal overleg meer  tijd te nemen dan waarmee rekening  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

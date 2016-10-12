@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="5">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001631</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001631&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001631</item>
+         <item attribuut="Document-id">0000107406</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 599</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Moret-de Jong en Van der Sanden (beiden C.D.A.) over een verhoogde invoerheffing op Nederlandse sierteeltprodukten.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 599</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">599</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Moret-de Jong</persoon>
+            <persoon partij="CDA">Van der Sanden</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-03-16</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Braks</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-04-13</item>
+         <item attribuut="Beginpagina">1193</item>
+         <item attribuut="Eindpagina">1194</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 6 - 1 9 8 7 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="599" onderwerp="een verhoogde invoerhef- fing op Nederlandse sierteeltproduk- ten." indiendatum="16 maart 1987)">
+         <vrager partij="CDA" oorsprong="parlement">Moret-de Jong</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Van der Sanden</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="minister" ministerie="Landbouw en Visserij">B r a k s</antwoorder>
+         <mede-antwoorder>staatssecretaris van Economische Zaken, mevrouw Van Rooy</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1 ">Is het de bewindslieden bekend, dat  de Internationale Handelscommissie  (ITC) van de Amerikaanse regering  heeft vastgesteld dat zes landen,  waaronder Nederland, hun bloemen- export subsidiëren? </vraag>
+      <vraag nummer="1 "/>
+      <vraag nummer="2 ">Is het de bewindslieden bekend, dat  de ITC het daarom terecht vindt, dat  de invoerheffing op een aantal  buitenlandse snijbloemen, waaronder  de Nederlandse geplozen chrysanten,  met 3,5 procent extra is verhoogd tot  11,5 procent?  </vraag>
+      <vraag nummer="3 ">Delen de bewindslieden de opvatting,  dat er geen sprake is van subsidiëring  van Nederlandse snijbloemen via de  gasprijs, die aan de wisselende prijs  van zware stookolie is gekoppeld?  </vraag>
+      <vraag nummer="4 ">Onderschrijven de bewindslieden de  vrees, dat de Amerikaanse kwekers  de uitspraak, dat Nederland zijn  export subsidieert, zullen aangrijpen  om nieuwe klachten in te dienen bij  de handelsinstanties in de VS?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1 ">Ja.  </antwoord>
+      <antwoord nummer="2 ">Ja.  </antwoord>
+      <antwoord nummer="3 ">Ja.  </antwoord>
+      <antwoord nummer="4 ">Dit zal moeten worden afgewacht.  De eisen van de Amerikaanse  kwekers zijn overigens maar ten dele  ingewilligd.  </antwoord>
+      <antwoord nummer="5 ">Tijdens de hele procedure is tot op  het hoogste diplomatieke niveau aan  de Amerikaanse Administratie het  Nederlandse standpunt indringend  duidelijk gemaakt. De Amerikaanse  Administratie is dus bekend met de  Nederlandse bezwaren tegen het  opleggen van een heffing op bepaalde  soorten snijbloemen. Nederland zal  zich van het diplomatieke kanaal  blijven bedienen om tegen deze  heffing bezwaar te maken.  Welke middelen staan de Nederlandse  regering ten dienste om de Ameri- kaanse Administratie van de onjuist- heid van de heffingen op Nederlandse  sierteeltprodukten te overtuigen?  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

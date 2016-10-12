@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001206</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001206&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001206</item>
+         <item attribuut="Document-id">0000106981</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 173</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Weisglas (V.V.D.) over de gevolgen van een verklaring van de woordvoerder van de Oostenrijkse president voor de contacten van de EG-landen met de heer Waldheim.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 173</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">173</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Weisglas</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-11-03</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-11-20</item>
+         <item attribuut="Beginpagina">349</item>
+         <item attribuut="Eindpagina">350</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 6 - 1 9 8 7 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="173" onderwerp="de gevolgen van een verklaring van de woordvoerder van de Oosten- rijkse president voor de contacten van de EG-landen met de heer Waldheim." indiendatum="3 november 1986)">
+         <vrager partij="VVD" oorsprong="parlement">Weisglas</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 ">Heeft de minister kennis genomen  van de verklaring van de woordvoerder  van de Oostenrijkse president  Waldheim, dat deze deel uitmaakte  van een nazi-eenheid, die in 1942  een massamoord op duizenden  Joegoslavische burgers pleegde?  </vraag>
+      <vraag nummer="2 ">W a t is het oordeel van de regering  over deze verklaring?  </vraag>
+      <vraag nummer="3 ">W i l de minister in EG-verband de  vraag aan de orde stellen, welke  gevolgen deze verklaring dient te  hebben voor de contacten van de  EG-landen met de Oostenrijkse  president?  </vraag>
+      <vraag nummer="4 ">Wil hij daarbij als Nederlands  standpunt naar voren brengen, dat  de officiële contacten met de heer  Waldheim verder tot het strikt  noodzakelijke beperkt dienen te  blijven?  Dit is in lijnrechte tegenstelling tot  eerdere verklaringen van de heer  Waldheim, dat hij zich in de genoemde  periode op  3 0 0 km afstand van het  gebied, waar de massamoord werd  gepleegd, bevond.  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

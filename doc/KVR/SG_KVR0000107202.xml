@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001427</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001427&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001427</item>
+         <item attribuut="Document-id">0000107202</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 395</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Schaefer en De Pree (beiden P.v.d.A.) over reclame voor onroerend goed.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 395</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">395</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Schaefer</persoon>
+            <persoon partij="PvdA">De Pree</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-01-23</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Heerma</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-02-13</item>
+         <item attribuut="Beginpagina">789</item>
+         <item attribuut="Eindpagina">790</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 6 - 1 9 8 7 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="395" onderwerp="reclame voor onroerend goed." indiendatum="23 januari 1987)">
+         <vrager partij="PvdA" oorsprong="parlement">Schaefer</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">De Pree</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="13 februari 1987)">
+         <antwoorder functie="" ministerie="Volkshuisvesting, Ruimtelij- ke Ordening en Milieubeheer"/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1 ">Heeft u kennis genomen van de  beschouwing van mr. R. Overeem  over koop- en aanneming van  woningen in «Bouwrecht» van januari  1987, 24e jaargang nr. 1? </vraag>
+      <vraag nummer="1 "/>
+      <vraag nummer="2 ">Bent u bereid diens suggestie over te  nemen om te komen tot «algemene  aanbevelingen inzake de reclame  voor onroerend goed» door de  Nederlandse Reclame Code te  betrekken bij de uitvoering van de  motie 19 700 - XI nr. 52 (over de  positie van de koper) en wel in die  zin, dat wordt nagegaan of en zo ja  hoe misleidende reclame t.a.v.  nieuwe en bestaande woningen kan  worden teruggedrongen?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1 ">Ja.  z  Ik zal de door u aangehaalde suggestie  betrekken bij het opstellen van de  notitie ter uitvoering van motie  19 700-XI nr. 52 inzake het versterken  van de positie van de koper van  gesubsidieerde nieuwe koop- woningen.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

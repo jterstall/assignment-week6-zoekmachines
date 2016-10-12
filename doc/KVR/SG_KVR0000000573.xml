@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19941995:0000573</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000573&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000573</item>
+         <item attribuut="Document-id">0000000573</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1994-1995 nummer 238</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid M. B. Vos (GroenLinks) over met BST behandelde koeien.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1994-1995 nummer 238</item>
+         <item attribuut="Jaargang">1994_1995</item>
+         <item attribuut="Vraagnummer">238</item>
+         <item attribuut="Indiener">
+            <persoon partij="GroenLinks">M. B. Vos</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-11-07</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Aartsen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-12-06</item>
+         <item attribuut="Beginpagina">477</item>
+         <item attribuut="Eindpagina">478</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1994-1995" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="477" allpagenumbers="477" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1994-1995, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="s Gravenhage 1994"/>
+      <vraagdata vraagnummer="238" onderwerp="met BST behandelde koeien." indiendatum="1994-11-7">
+         <vrager partij="GroenLinks" oorsprong="parlement">M. B. Vos</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-12-6">
+         <antwoorder functie="minister" ministerie="Landbouw, Natuurbeheer en Visserij">Aartsen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Hebt u kennis genomen van de studie van Millstone, Brunner en White in Nature (deel 371, p. 647), waaruit blijkt dat het celgetal in melk van met BST behandelde koeien gemiddeld 19% verhoogd wordt en bij 11% van de behandelde dieren de Britse normen voor menselijke consumptie overstijgt? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Is het, op grond van deze onderzoeksresultaten uit het oogpunt van volksgezondheid, verantwoord melk van koeien die met BST behandeld zijn in Nederland op de markt toe te laten? Vindt u, dat de Food and Drug Administration in de Verenigde Staten terecht toestemming heeft gegeven voor het gebruik van Posilac? Zo neen, wilt u zich ervoor inspannen dat de Europese Unie maatregelen neemt die garanderen dat Europese consumenten niet ongewild en/of onbewust zuivelprodukten kopen afkomstig van koeien die mogelijk met BST behandeld zijn? </vraag>
+      <vraag nummer="4">Bent u van opvatting, dat de in Nature weergegeven onderzoeksresultaten tot de conclusie moeten leiden dat de stelling dat BST niet ongezond is voor koeien, niet langer houdbaar is? </vraag>
+      <vraag nummer="5" voetnoot="2">Ziet u in de bevindingen van de Arbeitsgemeinschaft bauerliche Landwirtschaft (AbL) - die heeft aangetoond dat BST-preparaten kennelijk eenvoudig in de Europese Unie kunnen worden ingevoerd - aanleiding om de controle op de handel in en het bezit van BST te verscherpen, al dan niet in Europees verband? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="6">Op welke wijze wordt in dit verband toegezien op de verpakkings– en distributie-activiteiten van Philips Duphar in Nederland? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1994-11-3" bron=" Het Parool, 22 oktober 1994 en NRC Handelsblad"> Het Parool, 22 oktober 1994 en NRC Handelsblad, 3 november 1994</noot>
+         <noot nummer="2" datum="1994-10-18" bron=" Boerderij"> Boerderij, 18 oktober 1994</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Het voornoemde onderzoek geeft geen aanwijzing dat BST negatieve gevolgen heeft voor de volksgezondheid. In een ander verband heeft ook de Codex Alimentarius van de WHO/FAO onlangs geconcludeerd dat melk afkomstig van met BST behandelde koeien veilig is voor de consument. Overigens geldt dit alleen wanneer BST volgens voorschrift wordt toegepast. Ten aanzien van de gesignaleerde toename van het celgetal in de melk, merk ik volledigheidshalve op dat een vergelijkbaar hoog celgetal ook voorkomt bij onbehandelde dieren met een hoog produktieniveau. </antwoord>
+      <antwoord nummer="3">De FDA heeft alvorens Posilac toe te laten de veiligheid, werkzaamheid, en kwaliteit van dit produkt uitgebreid beoordeeld. Ik heb geen reden om te twijfelen aan de deskundigheid van de  FDA. Overigens zal ik mij in Europees kader inzetten om te komen tot een verplichte etikettering van zuivel produkten samengesteld o.b.v. melk afkomstig van koeien die met BST zijn behandeld. </antwoord>
+      <antwoord nummer="4">Ik heb op dit moment geen reden om aan te nemen dat BST onveilig is voor koeien. Ik baseer mijn standpunt op het advies van het Committee for Veterinary Medicmal Products (CVMP) van 29 januari 1993. Het CVMP gaf daarin aan de door haar beoordeelde middelen voldoende veilig te achten voor mens en dier. Het onderzoek zoals weergegeven in Nature is door het CVMP betrokken in haar advies. Wel is het zo dat door een sterke verhoging van de melkproduktie. dient Philips Duphar alle transacties met grondstoffen alsmede gebruiksklare preparaten die BST bevatten, uitvoerig te administreren. De AID kan deze administratie te allen tijde aan een uitvoerig onderzoek onderwerpen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="2">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19851986:0001251</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001251&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001251</item>
+         <item attribuut="Document-id">0000114811</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1985-1986 nummer 331</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Konings (P.v.d.A.) over fusies van scholen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1985-1986 nummer 331</item>
+         <item attribuut="Jaargang">1985_1986</item>
+         <item attribuut="Vraagnummer">331</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Konings</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1985-12-19</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Ginjaar-Maas</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-01-10</item>
+         <item attribuut="Beginpagina">651</item>
+         <item attribuut="Eindpagina">652</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1985-1986 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 5 - 1 9 8 6 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="331" onderwerp="fusies van scholen." indiendatum="19 december 1985)">
+         <vrager partij="PvdA" oorsprong="parlement">Konings</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="10 januari 1986)">
+         <antwoorder functie="Staatssecretaris" ministerie="Onderwijs en Wetenschappen">Ginjaar-Maas</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1 ">Is het waar, dat u geen toestemming  voor fusies van scholen geeft met de  mededeling, dat u eerst de behande- ling van het wetsvoorstel Herschikking  en Fusie (kamerstuk 19 251) wilt  afwachten, ook waar tussen school- besturen overeenkomsten gesloten  zijn?  </vraag>
+      <vraag nummer="2 ">Zo ja, kunt u aangeven, welke  normen of maatstaven u daarbij  hanteert en op welke wetsartikelen u  zulks baseert?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1 ">Neen. Aangenomen wordt dat  vragensteller duidt op verzoeken tot  verplaatsing ex artikel 75, derde lid,  van de WVO in verband met fusiebe- sluiten van bevoegde gezagsorganen.  Deze verzoeken worden beoordeeld  op de gevolgen voor het evenwichtig  geheel van onderwijsvoorzieningen  en op de levensvatbaarheid van de  scholengemeenschappen of scholen  die ontstaan.  In de Wet op het Voortgezet Onder- met de besturenorganisaties voor  bijzonder onderwijs en de Vereniging  van Nederlandse Gemeenten (VNG)  gemaakt over het beoordelingskader  van dergelijke verzoeken (zie:  Eindverslag van de gemengde  werkgroep HEF-VO). Over de hoogte  van de normen die hierbij gelden is  echter geen overeenstemming  bereikt. Een voorstel voor de hoogte  van de opheffingsnormen voor  scholen aansluitend aan het basison- derwijs is in uw Kamer in behandeling  (wetsvoorstel 19 251).  Afgesproken is, dat verzoeken om  verplaatsing zoveel mogelijk gehono- reerd worden, tenzij de verwachting  bestaat dat de school die gevormd  wordt op middellange termijn minder  leerlingen zal tellen dan in mijn  wetsvoorstel omschreven. Voor die  (kleine groep) aanvragen wordt een  beslissing over de verplaatsing  aangehouden totdat de Kamer zich  heeft uitgesproken over het genoem- de wetsvoorstel. Wel is afgesproken  dat het aanhouden van de aanvragen  niet langer kan duren dan tot 15  maart 1986. Een beslissing zal dan  moeten worden genomen om het  bestuur van de betrokken school  tijdig vóór het nieuwe schooljaar  duidelijkheid te geven. Een en ander  zal geschieden in overleg met de  besturenorganisaties en de VNG. Het  overgrote deel van de aanvragen  wordt echter zonder uitstel afgeham  deld.  </antwoord>
+      <antwoord nummer="2 ">Zie 1.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

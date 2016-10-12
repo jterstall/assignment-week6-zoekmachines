@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001409</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001409&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001409</item>
+         <item attribuut="Document-id">0000035816</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 487</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Verspaget (P.v.d.A.) over Radioactieve besmetting via sperma.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 487</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">487</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Verspaget</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-02-23</item>
+         <item attribuut="Beantwoorder">
+            <persoon>De Vries</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-03-27</item>
+         <item attribuut="Beginpagina">981</item>
+         <item attribuut="Eindpagina">982</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="981" allpagenumbers="981" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="487" onderwerp="Radioactieve besmetting via sperma." indiendatum="1990-02-23">
+         <vrager partij="PvdA" oorsprong="parlement">Verspaget</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="27 maart 1990), zie ook Aanhangsel Handelingen nr. 398, Vergaderjaar 1989-1990.">
+         <antwoorder functie="minister" ministerie="Sociale Zaken en Werkgelegenheid">De Vries</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1">Hebt u kennis genomen van de uitspraak van het hoofd van de afdeling gezondheid en veiligheid van de Britse opwerkingsfabriek Sellafield, dat hij sommige werknemers zal adviseren geen kinderen te verwekken, omdat die kinderen een grotere kans zouden hebben op leukemie door radioac– tieve besmetting via het sperma van hun vader? Hebt u eveneens kennis genomen van de uitspraken van de leider van het onderzoek naar de relatie tussen leukemie en het zijn van werknemer bij Sellafield, nl. dat de kans op leukemie bij kinderen van werknemers van Sellafield, die aan de hoogste stralingsdoses zijn bloot– gesteld, zeven maal zo hoog is als bij andere kinderen, zijnde 1 op 300? </vraag>
+      <vraag nummer="3">Aan welke stralingsdoses waren de werknemers blootgesteld, bij wier kinderen leukemie werd vastgesteld? Waren deze doses beneden de grens, die op basis van de interna– tionale ICRP-normen ten aanzien van de aanvaardbare stralingsdoses voor werknemers zijn aanvaard? </vraag>
+      <vraag nummer="4">Zijn in Nederland werknemers gedurende de afgelopen jaren bloot– gesteld aan dezelfde stralingsdoses waaraan de bovengenoemde werknemers van Sellafield waren blootgesteld? Zo ja, om hoeveel mensen gaat het daarbij? </vraag>
+      <vraag nummer="5">Bent u van plan deze werknemers, indien zij eenzelfde stralingsdoses hebben ontvangen, eveneens te adviseren geen kinderen te verwekken? </vraag>
+      <vraag nummer="6">Erkent u, dat de resultaten van het onderzoek in Sellafield aanleiding zijn tot een drastische aanscherping van de stralingsnormen, die thans in Nederland gelden? </vraag>
+      <vraag nummer="7">Op welke termijn kan deze Kamer deze aanscherping tegemoet zien? Worden hierbij de resultaten van het Sellafieldonderzoek betrokken? </vraag>
+      <vraag nummer="8">Welke andere maatregelen gaat u op korte termijn nemen, vooruitlopend op de herziening van de normen, teneinde de risico's voor stralingsbe– lasting van werknemers te vermin– deren? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Ja. Van de acht leukemiegevallen onder kinderen van Seilafield werknemers bleek van drie de vaders een stralingsdosis voor de conceptie van 1 tot 49 mSv te hebben ontvangen. Van één vader bedroeg de ontvangen stralingsdosis voor de conceptie 97 mSv in 13 jaar en bij de overige vier had de vader een stralingsdosis van 100 mSv of meer ontvangen. Uit de laatste groep bedroeg de ontvangen stralingsdosis respectievelijk 102 mSv in 7 jaar, 162 mSv in 6 jaar, 188 mSv in 7 jaar en 370 mSv in 13 jaar. Deze cumula– tieve doses liggen beneden de dosis die op grond van de ICRP norm van 50 mSv per jaar mogelijk is. </antwoord>
+      <antwoord nummer="4">Uitgaande van een stralingsdosis boven 100 mSv en een vergelijkbare periode als genoemd in het onderzoek in Sellafield zijn er in Nederland sinds 1983 volgens het Nationaal Dosis Registratie en Infor– matie Systeem 225 werknemers met een dergelijke dosis. </antwoord>
+      <antwoord nummer="5">Mede gezien de onzekerheden, b.v. een andere oorzaak dan straling, die ook door prof. Gardner, leider van het onderzoek, zelf naar voren gebracht worden, en de negatieve uitslag van andere epidemiologische studies (Hiroshima en Nagasaki) ben ik niet voornemens het bedoelde advies aan de betrokken werknemers te geven. 6, 7 en 8 Op 19 maart 1990 is aan de Tweede Kamer toegezonden de beleidsnota </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

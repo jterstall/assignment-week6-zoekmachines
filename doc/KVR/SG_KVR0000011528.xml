@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001224</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001224&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001224</item>
+         <item attribuut="Document-id">0000011528</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 293</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Korthals (VVD) over drugsrunners.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 293</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">293</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Korthals</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-12-01</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Hirsch Ballin</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-01-14</item>
+         <item attribuut="Beginpagina">599</item>
+         <item attribuut="Eindpagina">600</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="599" allpagenumbers="599" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="'s Gravenhage 1993"/>
+      <vraagdata vraagnummer="293" onderwerp="drugsrunners." indiendatum="1991-12-1">
+         <vrager partij="VVD" oorsprong="parlement">Korthals</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1">Is het u bekend, dat zogenaamde drugsrunners regelmatig op de A 16 inzittenden van auto's uit België lastig vallen met het aanbod hen naar drugscentra te begeleiden? Is het u voorts bekend, dat deze drugsrunners niet schuwen op agressieve wijze de aandacht van de automobilisten te trekken, waarbij gevaarlijke verkeerssituaties kunnen ontstaan? </vraag>
+      <vraag nummer="3">Kunt u zich voorstellen, dat deze benadering vaak als bedreigend wordt ervaren? </vraag>
+      <vraag nummer="4">Zijn vooral automobllisten met een Frans kenteken de dupe van deze acties? </vraag>
+      <vraag nummer="5">Zijn er ook in andere EEG-landen drugsrunners actief of is het vooral een Nederlandse aangelegenheid? Zo ja, heeft dit te maken met een lankmoedig opsporings– en vervolgingsbeleid ten aanzien van drugsdelicten? </vraag>
+      <vraag nummer="6">Deelt u de opvatting, dat de situatie met betrekking tot de drugsrunners onaanvaardbaar is en dat het met het oog op de geloofwaardigheid van de overheid geboden is onmiddellijk op te treden? Zo ja, welke maatregelen zult u nemen? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="5 en 6">De drugsrunners zijn eveneens actief in België en veroorzaken ook daar dezelfde gevaarlijke situaties op de weg; daarnaast heeft België veel last van criminele activiteiten van Franse drugsverslaafden, gepleegd tijdens de reis van N.W. Frankrijk via België naar Nederland (zoals woninginbraken en autodiefstallen). Ook in Nederland worden door deze Franse verslaafden autodiefstallen gepleegd. Het is duidelijk dat aan deze situatie een einde moet komen; door het onderling verband dat bestaat tussen het optreden van de drugsrunners en de drugshandel en drugsrelateerde criminaliteit kan dit probleem effectief alleen regionaal worden aangepakt in samenwerking met de Belgische en Franse autoriteiten; op initiatief van mijn departement is daarom in oktober een vergadering belegd met vertegenwoordigers van het Openbaar Ministerie en alle betrokken politiediensten ter voorbereiding van een internationale conferentie op 8 december jl. te Breda. Deze conferentie heeft onder meer tot de volgende afspraken geleid: - experts van de drie landen komen regelmatig bij elkaar; - het drugstoerisme tussen Frankrijk en Nederland wordt in kaart gebracht en geanalyseerd; - verbetering van uitwisseling van politie-informatie en samenwerking op justitieel terrein, waarbij is afgesproken dat voorrang zal worden gegeven aan de uitvoering van onderhavige verzoeken; - op basis van langs deze weg verkregen informatie zal tegen dealersplaatsen in Nederland worden opgetreden. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

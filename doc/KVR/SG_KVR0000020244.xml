@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001858</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001858&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001858</item>
+         <item attribuut="Document-id">0000020244</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 839</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid De Korte (VVD) over belastingverhogingen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 839</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">839</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">De Korte</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-08-20</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Kok</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-08-28</item>
+         <item attribuut="Beginpagina">1745</item>
+         <item attribuut="Eindpagina">1746</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1745" allpagenumbers="1745" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="839" onderwerp="belastingverhogingen." indiendatum="1992-08-20">
+         <vrager partij="VVD" oorsprong="parlement">De Korte</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-08-28">
+         <antwoorder functie="minister" ministerie="Financiën">Kok</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1">Zijn er kabinetsvoornemens de belastingen per saldo eind volgend jaar met 7 miljard te verhogen ten opzichte van zijn start in 1989?' </vraag>
+      <vraag nummer="2">Bent u bereid de feitelijke gegevens met betrekking tot de stijging van de macro– resp. microbelastingdruk, die door de topambtenaren in de Centraal Economische Commissie aan het kabinet zijn gepresenteerd, openbaar te maken? Zo neen, waarom niet? Kunt u aangeven welk deel van de te hoge inflatie-ontwikkeling in de kabinetsperiode tot nu toe door belastingverzwarende maatregelen is veroorzaakt? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1992-08-19" bron=" De Telegraaf"> De Telegraaf, 19 augustus 1992</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Over het geheel aan afwegingen met betrekking tot de begroting 1993 vindt deze week finale besluitvorming plaats. In de Miljoenennota 1993, die over drie weken wordt aangeboden, zal onder meer een uitgebreid overzicht worden opgenomen van de lastenverzwarende en lastenverlichtende maatregelen voor zover deze deel zullen uitmaken van het beleid voor volgend jaar. </antwoord>
+      <antwoord nummer="2">De gegevens, opgenomen in interne adviezen van de Centraal Economische Commissie aan het kabinet, zijn in zoverre gedateerd dat zij betrekking hebben op de stand van zaken in een bepaaide fase van het proces van beleidsvorming. Zij dienen derhalve als zodanig als bouwstenen in de finale afweging. Bij het bekendmaken van de beleidsvoornemens voor 1993 zal het kabinet ook inzicht bieden in de ontwikkeling van de macro– en micro-belastingdruk. </antwoord>
+      <antwoord nummer="3">De bijdrage van belastingverzwarende maatregelen aan de inflatie bedroeg ten tijde van het laatst gepubliceerde CPB-beeld (CEP 1992/EB 1993) voor de periode 1990-1994 jaarlijks tussen de '/«% en Vi%, dit op een totale inflatie van tussen de 2'/2% en de 4 '/4% per jaar. Bij het beoordelen van het effect van deze belastingmaatregelen en de kostenontwikkeling in de kwartaire sector, dient te worden overwogen dat het kabinet - onder meer om redenen van allocatieve aard - tevens maatregelen in de sfeer van huisvesting en mobiliteit heeft getroffen waaraan evenzeer prijseffecten zijn verbonden. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Halsema en Duyvendak (beiden GroenLinks) aan de minister-president over de openbaarmaking van de overdrachtsdossiers. (Ingezonden 19 augustus 2002); Antwoord</item>
+         <item attribuut="Bestand">13Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR16144
+</item>
+         <item attribuut="Inhoud">Vragen om opebaarmaking van overdrachts- en informatiedossiers van de overige vertrekkende ministers en staatssecretarissen (via www.regering.nl), nu dat op Verkeer en Waterstaat en Financiën reeds gebeurd is.</item>
+         <item attribuut="Rubriek">Staats- en bestuursrecht (Ministeries) Staats- en bestuursrecht (Regering)</item>
+         <item attribuut="Trefwoorden">Financiën (ministerie) Ministers Openbaarheid van bestuur Verkeer en Waterstaat (ministerie)</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2001-2002, nr. 1562, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2010214070</item>
+         <item attribuut="Afkomstig_van">Algemene Zaken (AZ)</item>
+         <item attribuut="Indiener">
+            <persoon partij="GroenLinks">Halsema</persoon>
+            <persoon partij="GroenLinks">Duyvendak</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2002-08-26</item>
+         <item attribuut="Datum_indiening">2002-08-19</item>
+         <item attribuut="Document-id">KVR16144</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2001–2002" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="3315" allpagenumbers="3315" vetnummer="2010214070" code="" lopendefooter="Tweede Kamer, vergaderjaar 2001–2002, Aanhangsel" filenaam="KVR16144" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2002"/>
+      <vraagdata vraagnummer="1562" onderwerp="" indiendatum="2002-08-19">
+         <vrager partij="GroenLinks" oorsprong="parlement">Halsema</vrager>
+         <vrager partij="GroenLinks" oorsprong="parlement">Duyvendak</vrager>
+         <vraagt-aan>de minister-president</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2002-08-26">
+         <antwoorder functie="minister-president" ministerie="Algemene Zaken">Balkenende</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Bent u ervan op de hoogte dat de bewindslieden van Financiën en van Verkeer en Waterstaat de overdrachts- en informatiedossiers van hun voorgangers openbaar hebben gemaakt? </vraag>
+      <vraag nummer="2">Bent u bereid ervoor te zorgen dat ook de overige bewindspersonen de door hen ontvangen dossiers openbaar maken en dat deze worden ontsloten via www.regering.nl? Zo nee, waarom niet? </vraag>
+      <vraag nummer="3">Bent u bereid deze vragen per ommegaande te beantwoorden, en te bewerkstelligen dat de openbaarmaking eveneens per direct kan plaatsvinden? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja, zij het dat dit ook voor OCenW geldt. </antwoord>
+      <antwoord nummer="2">Ja. </antwoord>
+      <antwoord nummer="3">Zie http://www.regering.nl en de websites van de ministeries. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

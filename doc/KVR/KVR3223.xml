@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="2">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Verkerk (AOV) over problemen met computers in verband met de komende eeuwwisseling. (Ingezonden 21 mei 1996); Antwoord</item>
+         <item attribuut="Bestand">13Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR3223
+</item>
+         <item attribuut="Inhoud">Computerspecialisten voorzien dat computers op 1 januari 2000 op tilt zullen slaan. Staatssecretaris Kohnstamm (BiZa) zal de Tweede Kamer binnen drie maanden na 10 juni 1996 een overzicht verstrekken van de genomen maatregelen hieromtrent in de diverse sectoren van de rijksoverheid.</item>
+         <item attribuut="Rubriek">Communicatie, media en informatievoorziening (Hard- en software)</item>
+         <item attribuut="Trefwoorden">Automatisering</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 1995-1996, nr. 1263, Tweede Kamer</item>
+         <item attribuut="Afkomstig_van">Binnenlandse Zaken (BIZA)</item>
+         <item attribuut="Indiener">
+            <persoon partij="AOV">Verkerk</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1996-06-10</item>
+         <item attribuut="Datum_indiening">1996-05-21</item>
+         <item attribuut="Document-id">KVR3223</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1995–1996" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="2567" allpagenumbers="2567" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1995–1996, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 1996"/>
+      <vraagdata vraagnummer="1263" onderwerp="" indiendatum="1996-05-21">
+         <vrager partij="AOV" oorsprong="parlement">Verkerk</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1996-06-10">
+         <antwoorder functie="staatssecretaris" ministerie="Binnenlandse Zaken">Kohnstamm</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1">Is de Rijksoverheid en zijn lagere overheden voorbereid op het «jaar 2000»-probleem van computersystemen? 1, 2 </vraag>
+      <vraag nummer="2">Wilt u de Kamer zo spoedig mogelijk een overzicht verstrekken van de genomen maatregelen in de diverse sectoren van de Rijksoverheid, zoals rijkscomputercentrum, Defensie etc.? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1996-05-10" bron=", de Volkskrant" titel="KPN zet miljoenen opzij voor computerprobleem">«KPN zet miljoenen opzij voor computerprobleem», de Volkskrant, 10 mei 1996</noot>
+         <noot nummer="2" titel="op tilt">Computerspecialisten voorzien grote problemen in verband met de komende eeuwwisseling. Computers zullen op de eerste dag van het jaar 2000 in het ongerede raken, met grote gevolgen voor de samenleving: gezondheidszorg, salarisadministratie, elektriciteitscentrales, alles zal «op tilt» slaan. Bestaande computerprogramma’s zullen chaos veroorzaken, omdat zij niet zijn geprogrammeerd op het jaar 2000</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja. In zijn algemeenheid kan worden gesteld dat het probleem onderkend organisaties zich buigen over de te volgen strategie. </antwoord>
+      <antwoord nummer="2">Ja. Er wordt momenteel gewerkt aan zo’n overzicht. Dit overzicht zal ik binnen 3 maanden aan de Kamer verstrekken. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

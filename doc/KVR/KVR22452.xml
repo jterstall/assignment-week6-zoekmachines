@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Omtzigt (CDA) aan de minister van Volksgezondheid, Welzijn en Sport over NICTIZ en het Electronisch Medicatie Dossier (EMD). (Ingezonden 22 februari 2005); Antwoord</item>
+         <item attribuut="Bestand">23Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR22452
+</item>
+         <item attribuut="Inhoud">Vragen naar de voortgang van het Electronisch Medicatie Dossier (EMD), dat per 1 januari 2006 zou worden ingevoerd Hoe staat het met de inzet van het Nationaal ICT Instituut in de zorg (NICTIZ)? Wie is verantwoordelijk voor het welslagen van het Elektronisch Patiëntendossier (EPD)?</item>
+         <item attribuut="Rubriek">Gezondheidszorg (Geneesmiddelen)</item>
+         <item attribuut="Trefwoorden">Geneesmiddelen</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2004-2005, nr. 1137, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2040508950</item>
+         <item attribuut="Afkomstig_van">Volksgezondheid, Welzijn en Sport (VWS)</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Omtzigt</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2005-03-09</item>
+         <item attribuut="Datum_indiening">2005-02-22</item>
+         <item attribuut="Document-id">KVR22452</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2004–2005" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="2411" allpagenumbers="2411 2412" vetnummer="2040508950" code="0405tkkvr1137" lopendefooter="Tweede Kamer, vergaderjaar 2004–2005, Aanhangsel" filenaam="KVR22452" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2005"/>
+      <vraagdata vraagnummer="1137" onderwerp="" indiendatum="2005-02-22">
+         <vrager partij="CDA" oorsprong="parlement">Omtzigt</vrager>
+         <vraagt-aan>de minister van Volksgezondheid, Welzijn en Sport</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2005-03-9">
+         <antwoorder functie="minister" ministerie="Volksgezondheid, Welzijn en Sport">Hoogervorst</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="8">
+      <vraag nummer="1" voetnoot="1">Herinnert u zich de verscheidene malen gedane toezegging dat het Electronisch Medicatie Dossier (EMD) op 1 januari 2006 operationeel zal zijn en de vele onderzoeken die aantonen, dat een groot aantal levens bespaard kan worden als alleen al het gebruik van medicijnen beter wordt gevolgd, zodat niet de verkeerde medicijnen samen worden voorgeschreven? Hebt u kennisgenomen van het artikel «Tien medicijndoden per dag»? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Welke projecten zijn op dit moment operationeel ter verwezenlijking van het EMD, dat op 1 januari aanstaande landelijk zal zijn ingevoerd. Hoeveel mensen beschikken nu over een EMD? </vraag>
+      <vraag nummer="3">Zal op 1 januari 2006 inderdaad iedere huisarts, iedere apotheker en iedere arts rechtstreeks toegang hebben tot het EMD en het kunnen raadplegen (de datum staat onder andere in de meeste van uw brieven en on-line bij andere overheid)? Zult u actie ondernemen indien artsen op 2 januari 2006 het EMD niet kunnen raadplegen? Zo ja, welke? </vraag>
+      <vraag nummer="4" voetnoot="2 3">Hoeveel ongelukken en fouten zijn per maand te verwachten, indien het EMD niet op tijd wordt ingevoerd? Welke kosten zijn gemoeid met de extra ziekenhuisopnames? Staat u achter de conclusies van het rapport «Fouten worden duur betaald» van het NIPO, in opdracht van het NICTIZ, <voetnoot nummer="2"/>en van het recente rapport <voetnoot nummer="3"/>van de Inspectie voor de Volksgezondheid? </vraag>
+      <vraag nummer="5">Wie is verantwoordelijk voor het welslagen van het EPD (Elektronische Patiënten Dossier)? Kunt u een kritisch tijdpad weergeven met data en verantwoordelijkheden tot aan de invoering? </vraag>
+      <vraag nummer="6">Hoe denkt het NICTIZ de softwareleveranciers tot actie aan te sporen, indien blijkt dat zij nog geen producten gereed hebben? </vraag>
+      <vraag nummer="7">Gaat u een shared service center opzetten met een centrale verwijsindex? Zo ja, meent u dat dat het juiste concept is? Indien u het gaat opzetten, kunt u dan berichten, wie ervoor zorgt dat het op 1 januari 2006 ontworpen, gebouwd en operationeel zal zijn, daar het hier gaat om een zeer complexe materie. Overweegt u ook een andere strategie, zoals die ook bij het openbaar internet is toegepast, namelijk binnen een besloten omgeving gebruik te maken van de facto marktstandaard, zoals bijvoorbeeld .Net in combinatie met XML / HL 7 versie 3? </vraag>
+      <vraag nummer="8">Kunt u gezien het buitengewoon grote belang en de tijddruk, deze vragen vóór 8 maart 2005 beantwoorden, zodat de antwoorden kunnen worden betrokken bij het algemeen overleg op 10 maart? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="2005-02-7" bron="Trouw">Trouw, 7 februari 2005</noot>
+         <noot nummer="2">Nationaal ICT Instituut in de Zorg</noot>
+         <noot nummer="3">www.nictiz.nl</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="7">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2 en 3">In de brief van 2 maart 2005 aan de Voorzitter van de Tweede kamer over het elektronisch medicatiedossier ICT in de zorg (Kamerstuk 27 529, nr. 7) heb ik mijn plan van aanpak gepresenteerd voor de invoering van een landelijk elektronisch medicatiedossier. Dat plan gaat uit van een landelijke uitrol van het landelijk elektronisch medicatiedossier vanaf 1 januari 2006. Het landelijk elektronisch medicatiedossier vergt een aantal voorzieningen (Landelijk schakelpunt, sectorale berichtenvoorziening BSN) die in 2005 gerealiseerd moeten worden. De UZI-pas, het elektronische paspoort voor zorgverleners om veilig en betrouwbaar te kunnen communiceren, is reeds ontwikkeld en kan sinds januari jl. aangevraagd worden. Voor het gebruik van het BSN in de zorg is een wetsvoorstel in voorbereiding. Op korte termijn zal het landelijk elektronisch medicatiedossier en het e-waarneemdossier huisartsen starten in testomgevingen bestaande uit een aantal ziekenhuizen, apotheken en huisartsen. Op het moment dat het systeem draait en alle «kinderziektes» eruit zijn, kan overgegaan worden tot landelijke uitrol. Vooruitlopend op het landelijk elektronisch medicatiedossier heeft het Nationaal ICT Instituut in de zorg (NICTIZ) in 5 regio’s (de zogeheten versnellingsregio’s) projecten gestart. Deze projecten hebben ten doel ervaring op te doen met de organisatorische consequenties van het elektronisch medicatiedossier. In Kennemerland en Den Helder heeft dit inmiddels geleid tot een operationeel regionaal elektronisch medicatiedossier. In Zoetermeer en Gelderland is de implementatie in volle gang en in Zwolle vindt een heroverweging van de gemaakte plannen plaats. Overigens wisselt inmiddels al 40% (650) van de apotheken buiten deze experimenten om onderling medicatie-informatie tijdens de dienstwaarneming uit en zijn in kleinschalige situaties huisartsen aangesloten op het apotheeksysteem en kunnen zij elektronisch recepten versturen. </antwoord>
+      <antwoord nummer="4">Het is onmogelijk om het eventuele aantal ongelukken en fouten aan te geven die het gevolg zouden zijn van een vertraagde invoering van het landelijk elektronisch medicatiedossier. Ook een schatting van eventuele financiële consequenties zou zuiver speculatief zijn. Ik deel niettemin de conclusies uit de genoemde rapporten. Ook ik hecht zeer aan een snelle invoering van het landelijk elektronisch medicatiedossier. Zoals de Inspectie voor de Volksgezondheid in zijn rapport «Staat van de Gezondheidszorg 2004 – Patiëntveiligheid» van december 2004 terecht opmerkt (blz. 10) speelt ICT in de medicatieveiligheid een cruciale rol. De ontwikkeling van het elektronisch medicatiedossier heeft evidente voordelen voor de patiëntveiligheid. Recent onderzoek van de Inspectie laat echter ook de risico’s zien. (Rapport «ICT in ziekenhuizen. Beveiliging van informatie nog onvoldoende voor een papierloze patiëntenzorg», IGZ, 2004). Invoering van het landelijk elektronisch medicatiedossier dient dan ook zorgvuldig te geschieden. Dat gebeurt nu op basis van het eerder genoemde plan van aanpak. Ik wil overigens benadrukken dat fouten ook met een volledig operationeel medicatieoverzicht niet uitgesloten kunnen worden. </antwoord>
+      <antwoord nummer="5">Voor het welslagen van het elektronisch patiëntendossier – en dus ook het elektronisch medicatiedossier – heeft ieder van de betrokken partijen een eigen verantwoordelijkheid. In het genoemde plan van aanpak van 2 maart heb ik de rollen en verantwoordelijkheden van de betrokken partijen bij de totstandkoming toegelicht. In het plan van aanpak heb ik tevens het tijdpad aangegeven. Ik ben verantwoordelijk voor de landelijke randvoorwaarden gericht op betrouwbare communicatie. NICTIZ is verantwoordelijk voor het in te richten Landelijk Schakelpunt (LSP) en de doorontwikkeling van het EPD. Om tot dat EPD te komen zijn in het plan van aanpak actielijnen aangegeven. Naast de implementatiestappen op de korte termijn gericht op het elektronisch medicatiedossier, zal doorontwikkeling plaatsvinden richting een EPD. De «vervolghoofdstukken» die leiden tot een volledig dossier. Hiertoe zal de nodige standaardisering moeten plaatsvinden van technische, communicatie-, en inhoudelijke aspecten. Hierbij zal aangesloten worden op internationale ontwikkelingen. Aanbieders van zorg zijn verantwoordelijk voor de aansluiting van lokale systemen op het landelijke systeem en voor het daadwerkelijk gebruik hiervan. </antwoord>
+      <antwoord nummer="6">De ICT-leveranciers hebben bij brief van 20 oktober 2004 (VWS04-1407) aan de Tweede Kamer bevestigd dat zij hard werken aan de aanpassing van de benodigde software voor de invoering van het medicatiedossier. Daarbij hebben zij aangegeven dat er voor de daadwerkelijke invoering wel nog een aantal randvoorwaarden moet worden vervuld. Daarover vindt overleg plaats tussen NICTIZ en de ICT-leveranciers verenigd in het OIZ (Organisatie van ICT-leveranciers in de zorg). Met mijn brief van 20 december 2004 (Kamerstuk 27 529, nr. 6) heb ik u hierover geïnformeerd. </antwoord>
+      <antwoord nummer="7">Ja, ik heb NICTIZ de opdracht gegeven om een landelijk schakelpunt – door u shared service center genoemd – te realiseren. Ik heb de door NICTIZ ontworpen infrastructuur afgelopen najaar door DCE-Consultants laten auditten. Over de uitkomsten daarvan heb ik de Kamer geïnformeerd (brief van 20 december 2004 (Kamerstuk 27 529, nr. 6). De conclusie van DCE-Consultants was dat de AORTA-architectuur en specificaties van NICTIZ goed in elkaar zitten. Ik overweeg dan ook geen alternatieve strategie. </antwoord>
+      <antwoord nummer="8">Ja, de beantwoording gaat hierbij. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001086</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001086&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001086</item>
+         <item attribuut="Document-id">0000011390</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 155</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Dijkstal en Wiebenga (beiden VVD) over het intimideren en bedreigen van in Nederland wonende Marokkanen door de Marokkaanse overheid.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 155</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">155</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Dijkstal</persoon>
+            <persoon partij="VVD">Wiebenga</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-10-27</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Dales</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-11-19</item>
+         <item attribuut="Beginpagina">321</item>
+         <item attribuut="Eindpagina">322</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="321" allpagenumbers="321" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="155" onderwerp="het intimideren en bedreigen van in Nederland wonende Marokkanen door de Marokkaanse overheid." indiendatum="1992-10-27">
+         <vrager partij="VVD" oorsprong="parlement">Dijkstal</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Wiebenga</vrager>
+         <vraagt-aan>se</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-11-19">
+         <antwoorder functie="minister" ministerie="Binnenlandse Zaken">Dales</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Hebt u kennis genomen van het televisie-programma inzake het intimideren en bedreigen van in Nederland wonende Marokkanen door of vanwege de Marokkaanse overheid? <voetnoot nummer="1"/>Beschikt u over informatie die het bovenstaande staven? </vraag>
+      <vraag nummer="3">Wat is hierbij de rol van de UMMON, de Unie van Marokkaanse Moslim-organisaties in Nederland? </vraag>
+      <vraag nummer="4">Wat is uw oordeel hierover. Welke maatregelen hebt u genomen c.q. gaat u nemen? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Neen. In een aan mij gerichte brief hebben de stichting Nederlands Centrum Buitenlanders en de stichting Samenwerkingsverband van Marokkanen en Tunesiërs in algemene termen, zonder feiten of slachtoffers te vermelden, gewezen op naar hun oordeel ontoelaatbare handelingen, welke ook in bedoelde televisie-uitzending aan de orde zijn gesteld. De Unie van Marokkaanse Moslimorganisaties in Nederland heeft in een aan mij gericht schrijven deze beschuldigingen van de hand gewezen. </antwoord>
+      <antwoord nummer="4">Zonder wel omschreven feiten is het mij niet mogelijk, een oordeel te vormen over gebeurtenissen waarop in dit televisieprogramma wordt gedoeld. Ik sta gaarne open voor informatie over wat zich terzake zou hebben afgespeeld. Ik heb dit in het Nederlands Centrum Buitenlanders en het Samenwerkingsverband van Marokkanen en Tunesiërs ook in antwoord op hun brief gemeld. Daaraan heb ik toegevoegd dat betrokkenen zich bij het vermoeden van strafbare feiten met name tot het Openbaar Ministerie dienen te wenden. In het algemeen ben ik van oordeel dat vertegenwoordigingen van vreemde mogendheden in Nederland zich dienen te onthouden van activiteiten die er op gericht zijn, organisaties en personen te beïnvloeden omtrent de wijze waarop zij zich in ons land hebben te gedragen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

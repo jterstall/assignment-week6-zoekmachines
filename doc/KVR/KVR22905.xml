@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="7">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Crone en Smeets (beiden PvdA) aan de staatssecretaris van Financiën over elektronische aangifte voor ondernemers. (Ingezonden 11 april 2005); Antwoord</item>
+         <item attribuut="Bestand">19Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR22905
+</item>
+         <item attribuut="Inhoud">Vragen over de obstakels bij de elektronische aangifte voor ondernemers, zoals de aanschaf van nieuwe software.</item>
+         <item attribuut="Rubriek">Bedrijfsleven en industrie (Ondernemingen) Belastingen (Algemeen)</item>
+         <item attribuut="Trefwoorden">Belastingen Ondernemingen</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2004-2005, nr. 1544, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2040512510</item>
+         <item attribuut="Afkomstig_van">Financiën (FIN)</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Crone</persoon>
+            <persoon partij="PvdA">Smeets</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2005-04-26</item>
+         <item attribuut="Datum_indiening">2005-04-11</item>
+         <item attribuut="Document-id">KVR22905</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2004–2005" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="3293" allpagenumbers="3293 3294" vetnummer="2040512510" code="0405tkkvr1544" lopendefooter="Tweede Kamer, vergaderjaar 2004–2005, Aanhangsel" filenaam="KVR22905" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2005"/>
+      <vraagdata vraagnummer="1544" onderwerp="" indiendatum="2005-04-11">
+         <vrager partij="PvdA" oorsprong="parlement">Crone</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Smeets</vrager>
+         <vraagt-aan>de staatssecretaris van Financiën</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2005-04-26">
+         <antwoorder functie="staatssecretaris" ministerie="Financiën">Wijn</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1">Is het u bekend dat het besturingssysteem Windows 98 niet geschikt is voor het doen van elektronische aangifte voor ondernemers en dat daardoor veel ondernemers op kosten worden gejaagd omdat zij nieuwe software moeten aanschaffen? </vraag>
+      <vraag nummer="2">Is het u bekend dat het aangifteprogramma een heel zwaar bestand is, zodat bij computers met geringe geheugencapaciteit het veel tijd kost het programma te downloaden? </vraag>
+      <vraag nummer="3">Is het u bekend dat het printen van de ingevulde belastingaangifte veel tijd en geld kost doordat er op elke bladzijde van het aangifteformulier veel kleur meegeprint moet worden? </vraag>
+      <vraag nummer="4">Hoeveel ondernemers hebben het programma inmiddels gedownload? Hoeveel ondernemers hebben de aangifte al ingediend? Hoe staat dit in verhouding tot vorig jaar? </vraag>
+      <vraag nummer="5">Waarom is het wel verplicht voor ondernemers elektronische aangifte te doen, maar kan uitstel tot het doen van aangifte niet elektronisch worden geregeld, en bovendien in het programma niet wordt aangegeven dat er uitstel is verleend? </vraag>
+      <vraag nummer="6">Kunt u bewerkstelligen dat ondernemers gemakkelijker, in minder tijd en voor minder kosten de verplichte elektronische aangifte kunnen doen? </vraag>
+      <vraag nummer="7">Bent u bereid deze vragen zo spoedig mogelijk te beantwoorden, zodat ze betrokken kunnen worden bij het geplande algemeen overleg over het plan van aanpak van de Belastingdienst? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="7">
+      <antwoord nummer="1">Het besturingssysteem Windows 98 is zonder meer geschikt voor het doen van elektronische aangifte met behulp van de voorziening die de Belastingdienst biedt voor de aangifte omzetbelasting en de opgaaf intracommunautaire leveringen. Windows 98 is niet geschikt voor het doen van elektronische aangifte met behulp van de voorziening die de Belastingdienst biedt voor de inkomstenbelasting (winst) en vennootschapsbelasting. Wel kan aangifte worden gedaan met Windows 98 SE of een hogere versie. Van de ondernemers besteedt 85 tot 90% het doen van aangifte inkomstenbelasting of vennootschapsbelasting uit aan belastingconsulenten. Deze maken veelal gebruik van software van commerciële marktpartijen, met bij de belastingconsulenten bekende en gebruikelijke systeemeisen. Van het beperkte deel van de ondernemers dat zelf de aangifte verzorgt, heeft weer een beperkt deel een Windows-besturingssysteem dat ouder is dan Windows 98 SE. Volgens marktgegevens bedraagt dit deel in ieder geval minder dan 10%, en waarschijnlijk zelfs minder dan 5%. In totaal gaat het naar verwachting om tussen de 5.000 en 15.000 aangiften inkomstenbelasting (winst) op een totaal van 1.000.000. Deze ondernemers kunnen alleen zelf aangifte doen als zij overstappen op een nieuwer besturingssysteem. Gestreefd is naar een elektronische winstaangifte die platformonafhankelijk is. Om zowel het doen van aangifte met Linux, Mac als Windows te ondersteunen is gekozen voor Acrobat Reader voor het beschikbaarstellen van het formulier. De eisen die de (inhoud van de) winstaangifte stelt, maken het noodzakelijk om gebruik te maken van Acrobat Reader versie 6.0.2 (of hoger). Voor deze versie van Acrobat Reader is, als gebruik gemaakt wordt van het Windows-platform, Windows 98SE of hoger vereist. Het is overigens in de markt meestal gebruikelijk om bij nieuwe producten geen ondersteuning te bieden op oude versies van besturingssystemen. Dit is, onder andere vanuit beveiligingsoogpunt, ook niet gewenst, omdat oudere versies van besturingssystemen vaak in het geheel niet meer of nog maar korte tijd worden ondersteund door de desbetreffende leverancier. Dit is ook het geval bij oude Windows-versies. </antwoord>
+      <antwoord nummer="2">Voor de aangifte omzetbelasting en opgaaf ICL logt de ondernemer via internet in bij de voorziening die de Belastingdienst aanbiedt. Daarbij hoeft men geen programma te downloaden. Voor de aangifte inkomstenbelasting (winst) en vennootschapsbelasting moet men – indien men daar zelf nog niet over beschikt – Acrobat Reader 6.0.2 installeren. Dit is gratis. Bij oudere computerconfiguraties of eenvoudiger vormen van datatransport kan het downloaden – dat eenmaal per jaar noodzakelijk is – inderdaad tijd kosten. De ondernemer kan, ter vermijding van downloaden, elektronisch via de Belastingdienst een CD-ROM met de juiste versie van Acrobat Reader aanvragen. Het aantal ondernemers dat tot nu toe van deze mogelijkheid gebruik heeft gemaakt bedraagt 227 (225 voor Mac en Windows, 2 voor Linux). Als Acrobat Reader is geïnstalleerd vergt het downloaden van het PDF-document voor een modem met een snelheid van 5,6K per seconde maximaal 25 minuten (het aangiftebericht is 7,5 Mb groot; ter vergelijking: Acrobat Reader is 30Mb groot en één muzieknummer voor een MP3-speler tussen 3 en 5 Mb). </antwoord>
+      <antwoord nummer="3">Als men het op prijs stelt om een print te maken, is het niet noodzakelijk om het gehele aangifteformulier te printen. Men kan er ook voor kiezen alleen specifieke pagina’s af te drukken. Bovendien kan men kiezen tussen printen in kleur en printen in zwart/wit. Uiteraard kan men de aangifte ook opslaan op de computer om later te kunnen raadplegen. </antwoord>
+      <antwoord nummer="4">Het aantal downloads inkomstenbelasting (winst) en vennootschapsbelasting bedroeg per 1 april 179.000. Tot 1 april zijn 41.000 aangiften ingediend via de Belastingdienstvoorziening. Daarnaast zijn 28.000 aangiften ingediend via de genoemde commerciële software, in totaal dus 69.000 aangiften. Vorig jaar waren per 1 april 63.600 aangiften ingediend. Tot 1 april waren omstreeks 440.000 elektronische aangiften omzetbelasting over de maanden januari en februari ontvangen. </antwoord>
+      <antwoord nummer="5">Het aanvragen van individueel uitstel kan nog niet elektronisch. Dat is ook nog niet het geval voor de particuliere aangiften. De keus is gemaakt om eerst de grote aangiftestromen zelf zoveel mogelijk elektronisch te maken en in de komende jaren verdere voorzieningen te treffen zoals mogelijkheden om elektronisch uitstel aan te vragen of elektronisch bezwaar in te dienen. Voor de toepassing van de centrale uitstelregeling voor fiscale intermediairs geldt dat zij uitstel kunnen vragen door middel van een diskette. </antwoord>
+      <antwoord nummer="6">De ervaringen die in dit eerste jaar worden opgedaan worden geëvalueerd en waar mogelijk worden aanpassingen in de versie van volgend jaar verwerkt. Uiteraard bestaat de mogelijkheid dat ondernemers die nog niet beschikken over Windows 98 SE of hoger, indien gewenst, uitstel ontvangen voor het doen van de aangifte, zodat zij zich kunnen oriënteren op de aanschaf van benodigde hard- of software. In overleg met ondernemersorganisaties wordt nog gezocht naar mogelijkheden voor aanvullende dienstverlening voor deze categorie ondernemers. Uitgangspunt blijft dat zij elektronisch aangifte doen en, wegens het beschikbaar hebben van een computer, niet in aanmerking komen voor ontheffing. </antwoord>
+      <antwoord nummer="7">Ja. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

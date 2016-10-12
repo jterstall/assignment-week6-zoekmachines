@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001221</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001221&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001221</item>
+         <item attribuut="Document-id">0000011525</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 290</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Te Veldhuis (VVD) over opslag van vliegas.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 290</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">290</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Te Veldhuis</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-12-11</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Alders</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-01-13</item>
+         <item attribuut="Beginpagina">593</item>
+         <item attribuut="Eindpagina">594</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="593" allpagenumbers="593" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="'s Gravenhage 1993"/>
+      <vraagdata vraagnummer="290" onderwerp="opslag van vliegas." indiendatum="1992-12-11">
+         <vrager partij="VVD" oorsprong="parlement">Te Veldhuis</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1">Is het u bekend dat vliegas van de vuilverbrandingsinstallatie te Duiven zonder vergunning - op grond van de Wet Chemische Afvalstoffen - wordt opgeslagen op het terrein van deze installatie, dat deze situatie noodgedwongen wordt gedoogd zowel door de Inspektie Milieuhygiëne als door de provincie Gelderland, en dat er zeker voor de komende 6 maanden geen alternatieve, legale oplossing voor dit probleem wordt voorzien? </vraag>
+      <vraag nummer="2">Bent u het eens met de constatering dat het vliegas-probleem is verergerd door het rangschikken van vliegas onder klein chemisch afval, waardoor deze niet meer (of in elk geval: minder) kan worden hergebruikt, terwijl er anderzijds nog geen adequate oplossing is voor de legale opslag van het nu toenemende vliegas-volume? </vraag>
+      <vraag nummer="3">Acht u het waarschijnlijk of mogelijk dat het probleem in Duiven zal worden gevolgd door vergelijkbare problemen in andere delen van het land, onder meer door het voorziene Bouwstoffenbesluit in 1993? Kunt u nader aangeven om welke hoeveelheden vliegas het in Nederland totaal gaat, hoeveel van dat volume t.g.v. het kca-karakter zal moeten worden gestort, voor welke hoeveelheden al een wca-vergunning beschikbaar is, en voor welke hoeveelheden een zgn. gedoogbeschikking nodig zal zijn? </vraag>
+      <vraag nummer="5">Kunt u er voor zorgen dat, als het Bouwstoffenbesluit in werking treedt, dit ook uitvoerbaar en handhaafbaar zal zijn, in die zin dat er dan voor alle extra afvalstromen, zoals vliegas, legale oplossingen voor storten of opslag beschikbaar zijn, zodat niet massaal gedoogd moet worden? </vraag>
+      <vraag nummer="6">Bent u bereid om samen met de regio Arnhem en de provincie Gelderland zo spoedig mogelijk oplossingen te zoeken voor de vliegas-problemen in Duiven? In welke richtingen denkt u daarbij? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19891990:0000930</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0000930&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0000930</item>
+         <item attribuut="Document-id">0000035337</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 11</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Franssen (V.V.D.) over mogelijkheden tot fraude bij de eindexamens op de Nederlandse Antillen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 11</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">11</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Franssen</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-07-13</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Ginjaar-Maas</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-09-21</item>
+         <item attribuut="Beginpagina">21</item>
+         <item attribuut="Eindpagina">22</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="21" allpagenumbers="21" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="11" onderwerp="mogelijkheden tot fraude bij de eindexamens op de Nederlandse Antillen." indiendatum="1989-07-13">
+         <vrager partij="VVD" oorsprong="parlement">Franssen</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1989-09-21">
+         <antwoorder functie="staatssecretaris" ministerie="Onderwijs en Wetenschappen">Ginjaar-Maas</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Heeft de staatssecretaris kennisgeno– men van een bericht in de Volkskrant van 4 juli jl. inzake de mogelijkheden tot fraude bij de eindexamens havo/vwo op de Nederlandse Antillen? Is het de staatssecretaris bekend, dat door het tijdverschil van zes uur tussen Nederland en de Antillen het mogelijk is op de Antillen de examenopgave te bemachtigen voor de aanvang van het examen? </vraag>
+      <vraag nummer="3">Overweegt de staatssecretaris voor het volgende schooljaar de suggestie van de drie rectoren van middelbare scholen op curapao over te nemen om de vakken scheikunde, wiskunde, handelskennis, economie en natuur– kunde in Nederland in de middaguren te laten afnemen zodat het mogelijk wordt deze eindexamens gelijktijdig, d.w.z. 's morgens in de Antillen, af te nemen? Zo neen, waarom niet? </vraag>
+      <vraag nummer="4">Overweegt de staatssecretaris voor het volgende schooljaar de suggestie van de drie rectoren met betrekking tot de meerkeuzetoetsen over te nemen om in ieder geval de antwoor– den te verwisselen, zodat het doorbellen van de juiste A–, B–, C–, en D-tjes zinloos wordt? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Ja. In overleg met de Nederlandse Antillen en Aruba zijn maatregelen getroffen om te verhinderen dat kandidaten op de Antillen of Aruba kunnen beschikken over de opgaven voor de aanvang van de betreffende examentoetsen. Deze maatregelen houden in, dat de opgaven in Nederland pas openbaar worden, op het moment, dat op de Antillen en Aruba het examen in het betreffende vak begint. Daartoe heb ik het reeds gepubliceerde rooster voor de centrale examens in 1990 aangepast. Tevens zullen de examenregelingen zo worden aangepast dat de opgaven buiten de examenzalen geheim blijven tot de afloop van de betreffende zitting. Krachtens het Eindexamenbesluit v.w.o.-h.a.v.o.-m.a.v.o.-l.b.o. (Stb. 327 van 11 augustus 1989), dat op 1 augustus 1990 in werking treedt, zal het rooster voor de centrale examens vanaf dat tijdstip door de Centrale examencommissie vaststelling opgaven (CEVO) worden vastgesteld. Ik heb de CEVO dringend verzocht soortgelijke maatregelen te nemen. Omdat de maatregelen die ik heb getroffen afdoende zijn, is een aanpassing bij de gesloten vragen niet nodig. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

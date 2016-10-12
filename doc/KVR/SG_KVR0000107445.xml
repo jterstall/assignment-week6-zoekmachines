@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001670</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001670&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001670</item>
+         <item attribuut="Document-id">0000107445</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 637</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van Es (P.S.P.) over een Amerikaans rapport inzake wapenleveranties aan Zuid-Afrika.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 637</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">637</item>
+         <item attribuut="Indiener">
+            <persoon partij="PSP">Van Es</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-04-06</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-04-28</item>
+         <item attribuut="Beginpagina">1267</item>
+         <item attribuut="Eindpagina">1268</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 6 - 1 9 8 7 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="637" onderwerp="een Amerikaans rapport inzake wapenleveranties aan Zuid-Afrika" indiendatum="6 april 1987)">
+         <vrager partij="PSP" oorsprong="parlement">Van Es</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">V a n d e n B r o e k</antwoorder>
+         <mede-antwoorder>de Staatssecretaris van Economische Zaken, mevrouw Van Rooy</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 ">Hebt u kennis genomen van het rap- port van het Amerikaanse ministerie  van Buitenlandse Zaken, waarin  melding gemaakt  w o r d t van wapen- leveranties aan Zuid-Afrika onder  meer vanuit Nederland?'  </vraag>
+      <vraag nummer="2 ">Zo ja, bent u bereid het rapport  terstond ter kennis van deze Kamer  te brengen?  </vraag>
+      <vraag nummer="3 ">Op welke gegevens berust de  ontkenning van het ministerie van  Economische Zaken dat wapens of  onderdelen daarvan vanuit Nederland  geleverd zijn?  </vraag>
+      <vraag nummer="4 ">Zult u de in het rapport vermelde  gegevens nagaan? Welke stappen zult  u ondernemen wanneer inderdaad  blijkt dat Nederlandse bedrijven bij  wapenleveranties aan Zuid-Afrika  betrokken zijn geweest?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1 ">Ja. Het betreft een ongeclassificeerd  uittreksel van het Amerikaanse  rapport.  </antwoord>
+      <antwoord nummer="2 ">Ja. Een kopie van het sub 1 genoemde  document gaat de Kamer hierbij toe. </antwoord>
+      <antwoord nummer="1 ">3 en 4  Een vertrouwelijke toelichting op het  rapport van Amerikaanse zijde heeft  niet tot de conclusie kunnen leiden,  dat Nederlandse bedrijven het  VN-wapenembargo tegen Zuid-Afrika  hebben geschonden. Zelfs een  aanknopingspunt voor een nader  justitieel onderzoek in Nederland kan  in de verstrekte informatie niet  worden gevonden. Het rapport zou,  voor wat Nederland betreft, betrekking  hebben op levering aan Zuid-Afrika  van niet-militaire goederen. Deze  vallen niet onder het VN-wapenem- bargo.  In Nederland  w o r d t vergunning  onthouden voor export naar Zuid- Afrika van alle goederen vermeld in  het militaire deel van de bijlage  behorend bij het Uitvoerbesluit  Strategische Goederen 1963. Deze  lijst is gedetailleerd en duidelijk, een  «grijze zone» doet zich niet voor.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

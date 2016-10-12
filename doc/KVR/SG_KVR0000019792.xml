@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001406</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001406&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001406</item>
+         <item attribuut="Document-id">0000019792</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 391</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Melkert (PvdA) en Van Vlijmen (CDA) over de mensenrechten-situatie in Tibet.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 391</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">391</item>
+         <item attribuut="Indiener">
+            <persoon>Melkert</persoon>
+            <persoon>Van Vlijmen</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-02-19</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Lubbers</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-02-20</item>
+         <item attribuut="Beginpagina">829</item>
+         <item attribuut="Eindpagina">830</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="829" allpagenumbers="829" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="391" onderwerp="de mensenrechten-situatie in Tibet." indiendatum="19februari 1992">
+         <vrager partij="" oorsprong="parlement">Melkert</vrager>
+         <vrager partij="" oorsprong="parlement">Van Vlijmen</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-02-20">
+         <antwoorder functie="minister-president" ministerie="Buitenlandse Zaken a.i">Lubbers</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Is deze week in de VN-Commissie van de rechten van de mens in Genève de mensenrechtensituatie in Tibet aan de orde? Is de regering van mening, dat deze situatie onveranderd reden tot zorg geeft? </vraag>
+      <vraag nummer="3">Is Nederland bereid initiatieven te nemen tot het, zo mogelijk in EPS-verband, indienen van een resolutie waarin deze zorg tot uitdrukking wordt gebracht? </vraag>
+      <vraag nummer="4">Wilt u deze vragen in verband met het spoedeisende karakter voor donderdag 20 februari a.s. 11.00 uur beantwoorden? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1">Ja. schenken om die reden regelmatig aandacht aan deze kwestie, hetgeen ook kan blijken uit meerdere EPS-verklaringen. 3 e n 4 De mogelijkheid om in EPS-verband een resoiutie in te dienen waarm ondermeer kennis wordt genomen van de nota van de Secretaris-Generaal van de Verenigde Naties met informatie over de situatie in Tibet, wordt op dit moment onderzocht. Gezien de tijdslimiet als vermeld in vraag 4 kan in dit antwoord evenwel tot mijn spijt over het resultaat van dit onderzoek nog geen uitspraak worden gedaan. Aanhoudende berichten over mensenrechtenschendingen blijven inderdaad aanleiding geven tot ernstige bezorgdheid. De Twaalf </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

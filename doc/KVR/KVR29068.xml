@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="is." aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Omtzigt (CDA) aan de minister van Sociale Zaken en Werkgelegenheid en de staatssecretaris van Financiën over een aantal aspecten van de operatie WALVIS. (Ingezonden 30 juli 2007); Mededeling</item>
+         <item attribuut="Bestand">14Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR29068
+</item>
+         <item attribuut="Inhoud">Vragen over de automatiserings- en testtrajecten en over de aanbesteding van de software voor WALVIS.</item>
+         <item attribuut="Rubriek">Belastingen (Belastingdiensten) Communicatie, media en informatievoorziening (Hard- en software) Sociale zekerheid (Sociale verzekeringspremies) Sociale zekerheid (Uitvoeringsinstellingen sociale verzekeringen)</item>
+         <item attribuut="Trefwoorden">Automatisering Belastingdienst Sociale verzekeringspremies Uitvoeringsinstellingen sociale verzekeringen</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2006-2007, nr. 2395, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2060722220</item>
+         <item attribuut="Afkomstig_van">Sociale Zaken en Werkgelegenheid (SZW)</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Omtzigt</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2007-08-17</item>
+         <item attribuut="Datum_indiening">2007-07-30</item>
+         <item attribuut="Document-id">KVR29068</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2006–2007" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="5071" allpagenumbers="5071" vetnummer="2060722220" code="0607tkkvr2395" lopendefooter="Tweede Kamer, vergaderjaar 2006–2007, Aanhangsel" filenaam="KVR29068" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2007"/>
+      <vraagdata vraagnummer="2395" onderwerp="" indiendatum="2007-07-30">
+         <vrager partij="CDA" oorsprong="parlement">Omtzigt</vrager>
+         <vraagt-aan>de minister van Sociale Zaken en Werkgelegenheid en de staatssecretaris van Financiën</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="8">
+      <vraag nummer="1" voetnoot="1">Was er begin van dit jaar, een jaar na de invoering van de nieuwe polisadministratie, een eenduidige architectuur voor WALVIS? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Hoe vaak en wanneer zijn de systemen voor de polisadministratie en de toeslagen opnieuw ontworpen en aanbesteed? Kunt u de data van de aanbestedingen hierbij geven? </vraag>
+      <vraag nummer="3" voetnoot="2">Is er een ketentest gepland voor alle nieuw te ontwikkelen pakketten software, die gebruikt zullen worden voor het aanleveren van de herstelgegevens? Zo neen, loopt u dan niet hetzelfde risico als met de aanlevering van de oorspronkelijke gegevens? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="4">Worden bij de aanlevering van de herstelgegevens zowel de bestandsstructuur als de inhoud gecontroleerd? Zo neen, wanneer worden fouten over de inhoud dan teruggekoppeld en tot hoeveel vertraging zal dat leiden? </vraag>
+      <vraag nummer="5" voetnoot="3">Zijn alle partijen in de markt, die in contact wilden treden met UWV en Belastingdienst, ook in de gelegenheid geweest om bij het overleg aanwezig te zijn? <voetnoot nummer="3"/>
+      </vraag>
+      <vraag nummer="6">Zijn alle partijen het eens dat het gekozen traject uitvoerbaar en haalbaar is, ten minste op de punten van tijdsplanning en testen van de nieuwe software? </vraag>
+      <vraag nummer="7">Moeten partijen (uitzendbureaus), die nu al dubbel aanleveren, via zowel de niet-werkende POLIS en het werkende WeFlex-systeem, opnieuw, voor de derde keer, hun gegevens aanleveren, terwijl ze in bruikbare vorm in het WeFlex-systeem aanwezig zijn? </vraag>
+      <vraag nummer="8">Kunt u per ommegaande de halfjaarlijkse voortgangsrapportage SUB/WALVIS aan de Kamer doen toekomen, die vóór 1 juni 2007 de Kamer bereikt had moeten hebben (motie 29 529, nr. 17)? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="2007-07-27" bron=", Automatiseringsgids" titel="IT-ellende Walvis is topje van de ijsberg">«IT-ellende Walvis is topje van de ijsberg», Automatiseringsgids, 27 juli 2007</noot>
+         <noot nummer="2" titel="Deel loongegevens 2006 opnieuw nodig voor Toeslagen en ZVW-premie">Nieuwsbericht ministerie van Financiën, www.minfin.nl: «Deel loongegevens 2006 opnieuw nodig voor Toeslagen en ZVW-premie»</noot>
+         <noot nummer="3" datum="2007-07-26" bron="www.automatiseringsgids.nl" titel="Leveranciers salarissoftware boos over «oplossing» Belastingdienst-probleem">www.automatiseringsgids.nl, 26 juli 2007: «Leveranciers salarissoftware boos over «oplossing» Belastingdienst-probleem»</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+   <mededeling mededeler="Donner" functie="minister" afdeling="Sociale Zaken en Werkgelegenheid" mededelingdatum="2007-08-17">Mededeling van minister Donner (Sociale Zaken en Werkgelegenheid). (Ontvangen 17 augustus 2007) Hierbij deel ik u mede dat de beantwoording van de Kamervragen van het lid Omtzigt (CDA) over een aantal aspecten van de operatie Walvis niet binnen de gestelde termijn van drie weken mogelijk is omdat er voor de beantwoording van deze vragen nog nadere informatie van en overleg met de Belastingdienst en het UWV gewenst </mededeling>
+</kvr>

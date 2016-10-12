@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19871988:0001550</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001550&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001550</item>
+         <item attribuut="Document-id">0000099264</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1987-1988 nummer 607</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Haas-Berger (P.v.d.A.) over het Armour factor Vlll-preparaat.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1987-1988 nummer 607</item>
+         <item attribuut="Jaargang">1987_1988</item>
+         <item attribuut="Vraagnummer">607</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Haas-Berger</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1988-04-19</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Dees</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1988-06-08</item>
+         <item attribuut="Beginpagina">1219</item>
+         <item attribuut="Eindpagina">1220</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="" typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="" filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="607" onderwerp="het Armour factor Vlll-preparaat" indiendatum="19 aprili 1988)">
+         <vrager partij="PvdA" oorsprong="parlement">Haas-Berger</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="8 juni 1988)">
+         <antwoorder functie="" ministerie="Welzijn, Volksgezondheid en Cultuur"/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1 ">Heeft de Commissie ex artikel 1 van  het Besluit bloedplasma en bloedpro- dukten eind februari  j l . de importeur  Tramedico bv gelast het  A r m o u r  factor Vlll-preparaat uit de handel te  nemen?  </vraag>
+      <vraag nummer="2 ">W o r d t dit produkt reeds vele jaren en  tot volle tevredenheid voor de  behandeling van haemophilie-patiën- ten gebruikt?  </vraag>
+      <vraag nummer="3 ">Op grond waarvan is twijfel gerezen  over de veiligheid van dit stollingspre- paraat?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1 ">De Commissie ex artikel 1 van het  Besluit bloedplasma en bloedproduk- ten heeft in haar vergadering van 2  maart 1988 geconstateerd dat de  recall, waartoe Tramedico B.V. - op  verzoek van de commissie - in  februari had besloten, niet met de  gewenste nauwkeurigheid was  verricht. Daarover heeft de Genees- kundige hoofdinspectie vervolgens  de hemofiliebehandelaren, de  hemofiliepatiëntenvereniging en  andere betrokkenen ingelicht, waarbij  nadrukkelijk is gewezen op de  mogelijk aan het gebruik van het  betreffende factor VIII- preparaat  verbonden risico's.  Over de omvang van en de mate  van tevredenheid bij de hemofilie- patiënten over het gebruik van het  onderhavige produkt zijn mij geen  gegevens bekend.  W e l kan in het  algemeen  w o r d e n gesteld dat het  gebruik van uit de Verenigde Staten  afkomstige factor VIII- preparaten in  de afgelopen jaren geleidelijk aan is  afgenomen.  De hier bedoelde twijfel is gerezen  vanwege:  1. een aantal HIV seroconversies  met dit preparaat in Canada en  mogelijk in Engeland;  2. de HlV-incidentie in de betrok- ken plasmawinningsgebieden, welke  hoger ligt dan in Nederland;  3. de onbekendheid of de plasma- ferese-afnamestations voldoen aan  de door de 'Food and Drug Admini- stration (FDA)' opgestelde normen.  De FDA zal het Rijks Controle  Laboratorium van het RIVM hierover  nog nader informeren.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

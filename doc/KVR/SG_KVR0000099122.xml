@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19871988:0001408</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001408&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001408</item>
+         <item attribuut="Document-id">0000099122</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1987-1988 nummer 465</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Groenman (D66) over uitspraken inzake de opzegging van het verdrag gelijke berechtiging vrouw.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1987-1988 nummer 465</item>
+         <item attribuut="Jaargang">1987_1988</item>
+         <item attribuut="Vraagnummer">465</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Groenman</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1988-03-17</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van Dijk</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1988-04-12</item>
+         <item attribuut="Beginpagina">933</item>
+         <item attribuut="Eindpagina">934</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="" typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 7 - 1 9 8 8 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="465" onderwerp="uitspraken inzake de opzegging van het verdrag gelijke berechtiging vrouw." indiendatum="17 maart 1988)">
+         <vrager partij="D66" oorsprong="parlement">Groenman</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="12 april 1988)">
+         <antwoorder functie="" ministerie="Binnenlandse Zaken"/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1 ">Hebt u kennis genomen van het  artikel «De Koning studeert op  opzegging verdrag gelijke berechti- ging vrouw» waarin de minister van  Sociale Zaken als volgt geciteerd  w o r d t : «Het gaat mij niet om het  geld. Het gaat mij om het huidige  stelsel van sociale zekerheid. Gelijke  behandeling is daarin op redelijk  aanvaardbare wijze geregeld.  Bepalend voor mij is dat dit stelsel  vier jaar lang in debat is geweest in  de Tweede Kamer. Een politieke  meerderheid is er mee akkoord  gegaan. Daar laat ik me door  leiden»? </vraag>
+      <vraag nummer="1 ">Zo neen, wilt u de indruk wegnemen  als zou artikel  9 4 van de Grondwet  niet ten volle behoeven te worden  nageleefd?  </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Zie de Volkskrant van 10 maart 1988 </noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1 ">Ja.  </antwoord>
+      <antwoord nummer="2 ">Nee.  </antwoord>
+      <antwoord nummer="3 ">Daartoe bestaat geen enkel voorne- men.  Betekent deze uitspraak, dat artikel  94 van de Grondwet zo moet worden  gelezen, dat «binnen het Koninkrijk  geldende wettelijke voorschriften  geen toepassing vinden indien deze  toepassing niet verenigbaar is met  een ieder verbindende bepaling van  verdragen en van besluiten van  volkenrechtelijke organisaties, tenzij  de wetgever langdurig en met  politieke meerderheid heeft beraad- slaagd over de betreffende  w e t t e - lijke voorschriften»?  </antwoord>
+      <antwoord nummer="3 ">Zo ja, is de regering van plan te  komen met een voorstel om dit  artikel in deze zin te herformuleren  dan wel te schrappen?  De rechter heeft op grond van artikel  94 Grondwet de opdracht wettelijke  voorschriften dat wil zeggen zowel  formele wetgeving als lagere  regelgeving, buiten toepassing te  laten, indien deze toepassing niet  verenigbaar is met een ieder verbin- dende bepalingen van verdragen en  van besluiten van volkenrechtelijke  organisaties.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

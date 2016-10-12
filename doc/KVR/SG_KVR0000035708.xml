@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="5">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001301</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001301&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001301</item>
+         <item attribuut="Document-id">0000035708</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 379</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Tommel en Ybema (beiden D66) over het IPR-budget.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 379</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">379</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Tommel</persoon>
+            <persoon partij="D66">Ybema</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-02-15</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Bukman</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-03-07</item>
+         <item attribuut="Beginpagina">763</item>
+         <item attribuut="Eindpagina">764</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="763" allpagenumbers="763" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="379" onderwerp="het IPR-budget." indiendatum="1990-02-15">
+         <vrager partij="D66" oorsprong="parlement">Tommel</vrager>
+         <vrager partij="D66" oorsprong="parlement">Ybema</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-03-7">
+         <antwoorder functie="staatssecretaris" ministerie="Economische Zaken">Bukman</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1">Waren reeds op 6 februari jl. in de provincie Frlesland de financiële middelen voor het jaar 1990 voor de IPR (Investerings Premie Regeling) ten behoeve van bestaande bedrijven uitgeput? </vraag>
+      <vraag nummer="2">Acht u het beleidsmatig aanvaardbaar, dat de IPR-subsidiere– geling voor de uitbreiding van bestaande bedrijven vrijwel het gehele jaar buiten werking is, mede gelet op de zorgwekkend hoge werkloosheid in Friesland? </vraag>
+      <vraag nummer="3">In welke mate is het centrale IPR-budget voor 1990 thans uitgeput? </vraag>
+      <vraag nummer="4">In welke mate zijn de financiële middelen ten behoeve van de decen– trale IPR thans in de verschillende provincies uitgeput, zowel voor wat betreft de vestiging van nieuwe bedrijven als voor de uitbreiding van bestaande bedrijven? </vraag>
+      <vraag nummer="5">Geven de antwoorden op de voorgaande vragen u aanleiding te zoeken naar aanvullende financiële middelen ten behoeve van de IPR, bijvoorbeeld door het benutten van onderuitputting op andere onder– delen van de begroting van Econo– mische Zaken? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1">Voor de uitvoering van de Provinciale Investeringspremieregeling (voor projecten met een investering tot  f 4 mln.) is in 1990 aan de provincie Friesland f 11 510 000 beschikbaar gesteld, welk bedrag groter is dan het met de ingediende aanvragen gemoeide premiebedrag. Gedepu– teerde Staten van Friesland hebben binnen het hen ter beschikking gestelde budget f 5 275 000 gereserveerd voor uitbreidingspro– jecten, f 1 000 000 voor toeristische projecten en f 5 000 000 voor vesti– gings– en herstructureringsprojecten alsmede projecten van zeer zwaar– wegend belang voor de versterking van de economische structuur van de provincie Friesland. Het reste– rende bedrag ad f 235 000 kan door de provincie worden aangewend als vergoeding van de apparaatskosten voor de uitvoering van de provinciale IPR. Het door de provincie bepaalde budget voor uitbreidingsprojecten werd op 6 februari 1990 door het met de ingediende aanvragen gemoeide premiebedrag overtekend. In de twee andere deelbudgetten is nog ruimte aanwezig. Zo rust op het door de provincie gereserveerde budget voor vesti– gingsprojecten nog maar een zeer beperkt premiebeslag. </antwoord>
+      <antwoord nummer="2">IVlet de provincies zijn in november 1988 afspraken gemaakt over de hoogte en verdeling tussen de betrokken provincies van het decen– trale IPR-budget. Daarbij is overeen– gekomen dat de provincies zelf verantwoordelijk zijn voor het beheer van hun eigen IPR-budget. Op basis van deze eigen verantwoordelijkheid heeft de provincie Friesland ervoor gekozen het beschikbare budget te compartimenteren. Andere provincies hebben dat niet gedaan. </antwoord>
+      <antwoord nummer="3">Op 1 maart 1990 heb ik de voorzitter van de Tweede Kamer der Staten– Generaal hierover schriftelijk geïnfor– meerd. In de betreffende brief heb ik uiteengezet dat ik verwacht dat het budget voor de centrale IPR in 1990 ontoereikend is. Om deze reden heb ik, zoals in genoemde brief aange– geven de voorwaarden van de centrale IPR-regeling aangescherpt. </antwoord>
+      <antwoord nummer="4">Friesland kent als enige provincie in 1990 afzonderlijke budgetten voor vestigings– en uitbreidingsprojecten. Bij de overige zes provincies waar de IPR van kracht is, zijn er op dit moment geen budgettaire problemen en zijn deze gelet op de stand van de uitputting bij de afzonderlijke provincies voorlopig ook niet te verwachten. </antwoord>
+      <antwoord nummer="5">Nee. Ik zie geen reden, noch heb ik de financiële middelen, om de IPR-budgetten te verhogen. In dit kader zet ik dezelfde lijn voort als destijds gekozen is in het bestuurlijk overleg tussen mijn departement en de provincies op 29 november 1988. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

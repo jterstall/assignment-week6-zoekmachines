@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001392</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001392&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001392</item>
+         <item attribuut="Document-id">0000027729</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 458</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Koetje (C.D.A.) over servicekostenverzoeken en huurprijswijzigingsverzoeken bij huurcommissieressorten.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 458</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">458</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Koetje</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-02-11</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Heerma</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-03-21</item>
+         <item attribuut="Beginpagina">929</item>
+         <item attribuut="Eindpagina">930</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="929" allpagenumbers="929" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1991"/>
+      <vraagdata vraagnummer="458" onderwerp="servicekostenverzoeken en huurprijswijzigingsverzoeken bij huurcommissieressorten." indiendatum="1991-02-11">
+         <vrager partij="CDA" oorsprong="parlement">Koetje</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1991-03-21">
+         <antwoorder functie="staatssecretaris" ministerie="Volkshuisvesting, Ruimte– lijke Ordening en Milieubeheer">Heerma</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Hebt u kennisgenomen van het Jaarverslag 1990 van de Huurcom– missies in het ressort Amersfoort en Utrecht? Wordt het beeld dat in deze ressorten bestaat over de toename van het aantal van de verzoeken om een uitspraak over servicekosten en de gecompliceerdheid ervan bevestigd in andere huurcommissie– ressorten? Zo ja, leidt dit tot een achterstand in de afwikkeling van dergelijke zaken? </vraag>
+      <vraag nummer="3">Bestaat er met betrekking tot de onderwerpen servicekostenver– zoeken en huurprijswijzigingsver– zoeken, voor «monumentale» woonruimten per ressort jurispru– dentie? Zo ja, zijn er nogal verschillen in die jurisprudentie? </vraag>
+      <vraag nummer="4">Deelt de regering de opvatting van de voorzitter van de huurcommissies Amersfoort en Utrecht dat voor deze beide onderdelen verdergaande regelgeving dringend gewenst is? Welke mogelijkheden zijn hiervoor? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja. Het eerste deel van de vraag kan bevestigd worden beantwoord. Met name de laatste jaren is er sprake van een landelijke toename van het aantal verzoeken om een uitspraak over de servicekosten dat aan de huurcommissies wordt voorgelegd. In toenemende mate zijn daarbij de voorgelegde verzoeken door de vele en verschillende servicecompo– nenten complex van karakter. Bij veruit de meeste huurcommissies in het land worden de voorgelegde verzoeken doorgaans echter binnen de gestelde redelijkheidstermijn van 12 maanden afgehandeld. Incidenteel is het mogelijk dat door de bijzondere complexiteit van een servicekostengeschil de redelijk geachte termijn wordt overschreden. De afdoeningstermijn kan bovendien beïnvloed worden door de afwij– kende eisen die een (autonome) huurcommissie soms stelt aan de onderzoekrapportage welke door het secretariaat van die huurcommissie wordt opgesteld. Bij huurcommissies waar de gestelde redelijkheids– termijn van afdoening dreigt te worden overschreden, worden binnen het kader van de beperkte personele en materiële middelen, van departementswege zoveel als mogelijk is maatregelen in de sfeer van detachering en inhuur van tijde– lijke krachten getroffen om aanhangige servicekostenverzoeken binnen 12 maanden behandeld te hebben. Overigens wijkt de afdoe– ningstermijn van servicekostenver– zoeken bij de huurcommissies in de ressorten Utrecht en Amersfoort niet af van het landelijk beeld. </antwoord>
+      <antwoord nummer="3">Ja. De jurisprudentie verschilt per ressort, gezien de diversiteit en complexiteit van dergelijke zaken, alsmede de zekere mate van beleids– vrijheid, die autonome huurcom– missies terzake hebben. </antwoord>
+      <antwoord nummer="4">Deze opvatting wordt niet gedeeld. Een toenemende overheidsbe– moeienis past niet in de gedachte naar meer liberalisering. Bovendien staat nadere regelgeving haaks op het streven naar deregulering. In steden waar monumentenpanden voorkomen hebben zich inmiddels in de praktijk geaccepteerde beoorde– lingscriteria ontwikkeld die zijn toegesneden op de plaatselijke situatie. Daarnaast heeft een door Veldkamp marktonderzoek B.V. ingesteld onderzoek op het terrein van de servicekosten aan het licht gebracht dat het waarschijnlijk een illusie is te verwachten dat met wettelijke maatregelen alle problemen zullen zijn opgelost. Naar aanleiding van het door het onderzoekbureau in juni 1987 uitgebrachte rapport heb ik uw Kamer bij brief van 16 maart 1988', </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

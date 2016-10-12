@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0000065</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0000065&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0000065</item>
+         <item attribuut="Document-id">0000010369</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Eerste Kamer 1992-1993 nummer 27</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Eerste Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Boorsma (CDA) inzake kostenbedrag Toekomst-Conferentie in relatie tot Rijksbegroting.</item>
+         <item attribuut="titel">Aanhangsel Eerste Kamer 1992-1993 nummer 27</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">27</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Boorsma</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-03-09</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Hirsch Ballin</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-04-01</item>
+         <item attribuut="Beginpagina">55</item>
+         <item attribuut="Eindpagina">56</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Eerste Kamer der Staten-Generaal" kamer="1" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen door de leden der Kamer gesteld overeenkomstig artikel schriftelijk gegeven antwoorden"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Eerste Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverjj Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="" onderwerp="" indiendatum="">
+         <vrager partij="CDA" oorsprong="parlement">Boorsma</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-04-1">
+         <antwoorder functie="de" ministerie="Ontvangen 1 april 1993">heer Hirsch Ballin, minister van Nederlands-Antilliaanse en Arubaanse Zaken.</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="27">Vragen van het lid Boorsma (CDA) inzake kostenbedrag Toekomst-Conferentie in relatie tot Rijksbegroting. (Ingezonden 9 maart 1993) </vraag>
+      <vraag nummer="1">Wilt U aangeven hoeveel ambtenaren onderscheidenlijk van Algemene Zaken, het Kabinet voor Nederlands-Antilliaanse en Arubaanse Zaken en Binnenlandse Zaken de Minister-President en de beide ministers hebben vergezeld naar de Toekomst-conferentie van 8 en 9 maart 1993? </vraag>
+      <vraag nummer="2">Wilt U aangeven hoeveel Nederlandse kamerleden de conferentie hebben bijgewoond en hoeveel personen hen voor ambtelijke ondersteuning hebben vergezeld? </vraag>
+      <vraag nummer="3">Hoeveel ministers, resp. gedeputeerden, resp. statenleden, resp. ambtenaren waren aanwezig van elk van de eilanden? </vraag>
+      <vraag nummer="4">Wat is het kostenbedrag gemoeid met de conferentie, voorzoveel drukkend op de Rijksbegroting? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1"> t/m3 Voor de in de vragen 1 t/m 3 genoemde aantallen deelnemers aan de conferentie moge ik u verwijzen naar bijgevoegde lijst* van deelnemers. </antwoord>
+      <antwoord nummer="4">Het met de conferentie gemoeide kostenbedrag dat drukt op verschillende hoofdstukken van de rijksbegroting is circa f 150 000. Het bedrag bestaat uit: ongeveer f 100 000 reiskosten ongeveer f 25 000 hotelkosten (kamers en vergaderaccom– modatie) ongeveerf 10000 daggeldvergoedingen en ongeveer f 15 000 voor kantoorappara– tuur en aangeboden buffet. De reis– en verblijfkosten voor twee Kamerleden kwamen ten laste van mijn Kabinet. In het totaal geschatte bedrag zijn die kosten opgenomen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

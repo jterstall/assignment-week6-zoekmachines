@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001471</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001471&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001471</item>
+         <item attribuut="Document-id">0000035878</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 549</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Leerling (R.P.F.) over het NMP-plus en deel d van het SVV.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 549</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">549</item>
+         <item attribuut="Indiener">
+            <persoon partij="RPF">Leerling</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-04-09</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Lubbers</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-04-19</item>
+         <item attribuut="Beginpagina">1105</item>
+         <item attribuut="Eindpagina">1106</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1105" allpagenumbers="1105" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="549" onderwerp="het NMP-plus en deel d van het SVV." indiendatum="1990-04-9">
+         <vrager partij="RPF" oorsprong="parlement">Leerling</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-04-19">
+         <antwoorder functie="minister-president" ministerie="Minister van Algemene Zaken">Lubbers</antwoorder>
+         <mede-antwoorder>de ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Verkeer en Waterstaat</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1 2">Zijn concept-teksten van het NMP-plus <voetnoot nummer="1"/> en deel d van het SVV <voetnoot nummer="2"/>uitgelekt? Zo ja, gaat het hierbij om ontwerp-eindteksten? </vraag>
+      <vraag nummer="2">Bent u bereid, nu de bewuste teksten zijn uitgelekt, alle leden van de volks– vertegenwoordiging de betreffende concepten van genoemde nota's per ommegaande te doen toekomen? </vraag>
+      <vraag nummer="3">Op welke termijn zal het kabinet de eindteksten van het NMP-plus en deel d van het SVV vaststellen? Hoe schadelijk acht u het voortijdig bekend worden van desbetreffende documenten voor een gezonde relatie tussen kabinet en volksverte– genwoordiging? </vraag>
+      <vraag nummer="5">Zijn bij de kabinetsformatie afspraken gemaakt om het euvel van voortijdig uitlekken van beleidsvoornemens tegen te gaan? Zo ja, hoe valt het voortijdig bekend worden van belangwekkende documenten als het NMP-plus en deel d van het SVV te verklaren? Zo neen, bent u bereid in het kabinet heldere afspraken te maken? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> NMP-plus = Nationaal Milieubeleidsplan– plus</noot>
+         <noot nummer="2"> SVV = Structuurschema Verkeer en Vervoer</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Afgaande op de berichten in de media moet worden aangenomen dat (delen van) concept-teksten van het NMP-plus en van deel d van het SVV zijn «uitgelekt». De tekst van deze stukken is nog niet vastgesteld door het kabinet. Aangezien de besluitvorming in de ministerraad daaromtrent nog niet is afgerond kan beschikbaarstelling van de betreffende stukken aan de Kamer nog niet plaatsvinden. </antwoord>
+      <antwoord nummer="3">Het streven blijft erop gericht het NMP-plus en deel d van het SVV in het voorjaar naar de Tweede Kamer te zenden. </antwoord>
+      <antwoord nummer="4">Het voortijdig bekend worden is schadelijk voor een goede en democratische besluitvorming. Er zijn tijdens de kabinetsformatie geen specifieke afspraken gemaakt. Wel is het euvel van voortijdig bekend worden van stukken in het kabinet aan de orde geweest en is gewezen op de plicht van alle betrokkenen in de rijksdienst zich te houden aan de geheimhoudings– plicht ten aanzien van stukken. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

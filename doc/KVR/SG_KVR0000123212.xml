@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="bepaald. " aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19841985:0001240</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19841985:0001240&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19841985:0001240</item>
+         <item attribuut="Document-id">0000123212</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1984-1985 nummer 121</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Lankhorst (P.P.R.) over gelijkstelling van kosten voor naturalisatie voor gehuwden en samenwonenden.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1984-1985 nummer 121</item>
+         <item attribuut="Jaargang">1984_1985</item>
+         <item attribuut="Vraagnummer">121</item>
+         <item attribuut="Indiener">
+            <persoon partij="PPR">Lankhorst</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1984-09-12</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Korte-van Hemel</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1984-10-23</item>
+         <item attribuut="Beginpagina">239</item>
+         <item attribuut="Eindpagina">240</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1984-1985 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1984-1985, Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="121" onderwerp="gelijkstelling van kosten voor naturalisatie voor gehuwden en samenwonenden." indiendatum="12 september 1984)">
+         <vrager partij="PPR" oorsprong="parlement">Lankhorst</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 ">Is het waar, dat bij een verzoek tot  naturalisatie een gehuwd echtpaar  slechts eenmaal een bedrag van f300  dient te betalen en een langdurig  samenwonend paar dit bedrag  tweemaal moet voldoen?  </vraag>
+      <vraag nummer="2 ">Acht u dit in overeenstemming met  het algemene overheidsbeleid om te  komen tot een gelijkstelling van  gehuwden en samenwonenden?  </vraag>
+      <vraag nummer="3 ">Zo neen, bent u bereid maatregelen te  treffen om deze ongelijkheid op te  heffen?  2 en 3  Ik zal bevorderen dat bij gelijktijdige  naturalisatie van ongehuwden die in  een duurzame relatie anders dan het  huwelijk samenwonen het voor  naturalisatie verschuldigde bedrag  slechts eenmaal wordt geheven.  Antwoord  Antwoord van staatssecretaris  Korte-van Hemel (Justitie). (Ontvan- gen 23 oktober 1984)  </vraag>
+      <vraag nummer="1 ">Ja. Artikel 2, lid 2, van het Besluit  naturalisatiegelden 1981 (Stb. 1981,  12) bepaalt dat in geval van gelijktijdige  naturalisatie van twee met elkaar  gehuwde personen slechts eenmaal  het bedrag van f 300 is verschuldigd.  Ten aanzien van gelijktijdige naturali- satie van samenwonenden is niets  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

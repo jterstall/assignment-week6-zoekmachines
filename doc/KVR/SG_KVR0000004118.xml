@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0001607</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001607&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001607</item>
+         <item attribuut="Document-id">0000004118</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 393</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Vos (PvdA) en Koffeman (CDA) over deelname van het militair personeel aan spaarregelingen van de wet Vermeend/Vreugdenhil.&amp;lt;</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 393</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">393</item>
+         <item attribuut="Indiener">
+            <persoon>Vos</persoon>
+            <persoon>Koffeman</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-03-09</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Ter Beek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-03-28</item>
+         <item attribuut="Beginpagina">799</item>
+         <item attribuut="Eindpagina">800</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="799" allpagenumbers="799" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="'s Gravenhage 1994"/>
+      <vraagdata vraagnummer="393" onderwerp="deelname van het militair personeel aan spaarregelingen van de wet Vermeend/Vreugdenhil." indiendatum="1994-03-9">
+         <vrager partij="" oorsprong="parlement">Vos</vrager>
+         <vrager partij="" oorsprong="parlement">Koffeman</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Bent u bereid te bevorderen, dat het militair personeel in aanmerking kan komen voor deelname aan een spaarloonregeling en/of premiespaarregeling op grond van de wet Vermeend/Vreugdenhil? </vraag>
+      <vraag nummer="2">Zo ja, wilt u dan 20 spoedig mogelijk, in overleg met de vertegenwoordigers van het militaire personeel, stappen ondernemen die kunnen leiden tot de mogelijkheid van deelname van het militair personeel aan één of meer spaarregelingen van de wet Vermeend/Vreugdenhil? </vraag>
+      <vraag nummer="3">Wilt u de Kamer informeren over de resultaten hiervan? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

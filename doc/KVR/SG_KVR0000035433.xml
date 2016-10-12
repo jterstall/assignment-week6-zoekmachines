@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19891990:0001026</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001026&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001026</item>
+         <item attribuut="Document-id">0000035433</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 105</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Beckers-de Bruijn (Groen Links) over een aan Pakistan geleverde partij melkpoeder.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 105</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">105</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Beckers-de Bruijn</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-09-29</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Braks</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-11-03</item>
+         <item attribuut="Beginpagina">217</item>
+         <item attribuut="Eindpagina">218</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="217" allpagenumbers="217" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 921 7398" uitgever="SDU uitgeverij 's-Gravenhage 1989"/>
+      <vraagdata vraagnummer="105" onderwerp="een aan Pakistan geleverde partij melkpoeder." indiendatum="1989-09-29">
+         <vrager partij="Groen Links" oorsprong="parlement">Beckers-de Bruijn</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1">Is aan Pakistan 140 ton mager melkpoeder (verpakt in zakken met het opschrift «Frico») geleverd, waarvan het radioactieve stralings– niveau 22 procent boven de kritieke norm van de WHO lag? </vraag>
+      <vraag nummer="2">Welk deel van het melkpoeder is aan consumenten verkocht? Wat is met de rest van de partij gebeurd? </vraag>
+      <vraag nummer="3">Is het u bekend, wie deze partij geleverd heeft? Is de partij afkomstig uit voorraden van de EG en eerder door Singapore geweigerd? </vraag>
+      <vraag nummer="4">Hoe is het mogelijk, dat een partij melkpoeder, die het kritieke stralingsniveau van de WHO overschrijdt, en daarmee de EG-norm ruim overschrijdt, door de EG in opslag genomen en vervolgens in de handel gebracht is? </vraag>
+      <vraag nummer="5">Zult u er zorg voor dragen, dat de partij melkpoeder door de verant– woordelijke leverancier terug genomen en vernietigd wordt? </vraag>
+      <vraag nummer="6">Welke maatregelen kunt u nemen teneinde herhaling te voorkomen? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="2">Mij is geen nadere informatie bekend over de mate waarin de partij in het verkeer is gebracht en wat er met de rest van de partij is gebeurd. Uit het antwoord op vraag 1 kan worden opgemaakt dat consumptie van dit melkpoeder geen enkel bezwaar hoeft op te leveren. In de ontvangen documentatie wordt het merk Frico vermeld. Het is aannemelijk dat de partij afkomstig is uit EG-voorraden. Er kon nog geen bevestiging worden verkregen van de bewering dat de partij door Singapore is geweigerd. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

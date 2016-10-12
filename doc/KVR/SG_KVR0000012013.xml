@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001709</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001709&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001709</item>
+         <item attribuut="Document-id">0000012013</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 779</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Lankhorst (GroenLinks) over het optreden van de Bijzondere Bijstandseenheid in 1989 e.v.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 779</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">779</item>
+         <item attribuut="Indiener">
+            <persoon partij="GroenLinks">Lankhorst</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-07-02</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Hirsch Ballin</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-07-22</item>
+         <item attribuut="Beginpagina">1589</item>
+         <item attribuut="Eindpagina">1590</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1589" allpagenumbers="1589" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat s Gravenhage 1993"/>
+      <vraagdata vraagnummer="779" onderwerp="het optreden van de Bijzondere Bijstandseenheid in 1989 e.v." indiendatum="1993-07-2">
+         <vrager partij="GroenLinks" oorsprong="parlement">Lankhorst</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-07-22">
+         <antwoorder functie="minister" ministerie="Justitie">Hirsch Ballin</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1">Hebt u kennis genomen van de bevindingen van J. Boek, wetenschappelijk onderzoeker van de Universiteit van Leiden, met betrekking tot de omstandigheden, waaronder op 22 juni 1989 een tragisch einde is gekomen aan de gijzeling van de heer K. H. J. van de Kieft?' </vraag>
+      <vraag nummer="2">Vuren bij een optreden van de Bijzondere Bijstandseenheid twee scherpschutters in beginsel elk één schot af? </vraag>
+      <vraag nummer="3">Heeft bij de afloop van de gijzelmg op 22 juni '89 één van de twee schutters niet en de andere schutter twee keer geschoten? Verkeerde de schutter die schoot in een minder gunstige positie om goed te kunnen richten dan de andere schutter? </vraag>
+      <vraag nummer="4">Is de fatale afloop te wijten aan het feit dat er tussen het eerste en tweede schot enige seconden zat, waardoor de gijzelaar bliksemsnel de gegijzelde voor zich kon trekken? </vraag>
+      <vraag nummer="5">Wat is uw mening over de bevindingen van J. Boek? Acht u ze voorstelbaar? </vraag>
+      <vraag nummer="6">Hoe vaak is de Bijzondere Bijstandseenheid na 22 juni 1989 in stellmg gebracht? Is voor elke inzet uw uitdrukkelijke toestemming verkregen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="2"/>
+         <noot nummer="1" datum="1993-06-4" bron=" VPRO-progratnma Argos"> VPRO-progratnma Argos, 4 juni 1993</noot>
+         <noot nummer="2"> Zie Aanhangsel Handelingen nr. 807, vergaderjaar 1988-1989</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Het optreden van scherpschutters van de Bijzondere Bijstandseenheid is sterk situatie-afhankelijk. In voorkomende gevallen wordt ernaar gestreefd om verscheidene schutters gelijktijdig een schot te laten afvuren. Er kunnen zich situaties voordoen die een tweede schot noodzakelijk kunnen maken. Zoals gezegd is dit afhankelijk van de feiten en omstandigheden van het geval en het aantal schutters dat ingezet wordt. </antwoord>
+      <antwoord nummer="3">In de brief van 26 oktober 1989 (Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel Handelingen nr. 91) heeft mijn ambtsvoorganger al medegedeeld dat één schutter twee keer schoot. Uit het destijds ingestelde rijksrecherche-onderzoek kan worden afgeleid dat deze schutter zich in een verantwoorde schietpositie bevond. </antwoord>
+      <antwoord nummer="4">Blijkens verklaringen die zijn afgelegd ten overstaan van de rijksrecherche betrof de tijdsduur tussen het eerste en tweede schot niet meer dan èèn seconde. Uit onder andere genoemde brief van 26 oktober 1989 moge blijken dat onderzoek niet heeft kunnen aantonen hoe de gegijzelde in het schootsveld terecht is gekomen. Gelet op de zeer korte tijdsspanne is het evenwel niet waarschijnlijk dat zulks te wijten is aan het feit dat in de tijd tussen het eerste en tweede schot de gijzelnemer de gegijzelde voor zich kon trekken. </antwoord>
+      <antwoord nummer="5">Voor wat betreft de veronderstelling van de heer Boek dat de tijd, verlopen tussen het eerste en tweede schot, meer dan één seconde zou zijn, moge ik u verwijzen naar mijn antwoord op vraag 4. Ten aanzien van de zienswijze van de heer Boek over het optreden van de scherpschutters merk ik het volgende op. In de meergenoemde brief van 26 oktober 1989 is onder meer erkend dat de procedure rond de inzet van de scherpschutters niet juist is verlopen. Ook is daarin aangegeven dat de volgende instructie aan de scherpschutters is gegeven: «Als je </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

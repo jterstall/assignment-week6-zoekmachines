@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19891990:0001186</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001186&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001186</item>
+         <item attribuut="Document-id">0000035593</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 264</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Franssen (V.V.D.) over het Christelijk Agrarisch Onderwijs.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 264</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">264</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Franssen</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-12-19</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Braks</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-01-12</item>
+         <item attribuut="Beginpagina">533</item>
+         <item attribuut="Eindpagina">534</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regeting gegeven antwoorden"/>
+      <footer firstpaginanummer="533" allpagenumbers="533" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="264" onderwerp="het Christelijk Agrarisch Onderwijs." indiendatum="1989-12-19">
+         <vrager partij="VVD" oorsprong="parlement">Franssen</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-01-12">
+         <antwoorder functie="minister" ministerie="Landbouw, Natuurbeheer en Visserij">Braks</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Hebt u kennis genomen van uitla– tingen in de eerste jaarrede van de voorzitter van de onderwijscom– missie van de Christelijke Boeren– en Tuinders Bond, drs. J. Reitsma inzake de AOC-vorming? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Kunt u bevestigen, dat de AOC-vorming leidt tot AOC-centra waarbij na fusie sprake is van één bestuur, één centrale directie en één medezeggenschapsraad? </vraag>
+      <vraag nummer="3">Deelt u de opvatting, dat na fusie in het kader van de AOC-vorming uitsluitend sprake kan zijn van één instelling bestaande uit een hoofd– vestiging, nevenvestigingen en dislo– caties? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" titel="Het herkenbaar plaats inruimen voor het Chrïstelijk Agrarisch Onderijs in het nieuwe agrarisch onderwijsbestel is noodzaak en er zijn mogelijkheden voor door handhaving van de identiteit op de leslocatie Daartoe zal op die locatie een eigen personeels– beleid en een eigen beleid betreffende de onderwijsinrichting gevoerd moeten kunnen worden. ... De meerwaarde van de AOC-vorming zou welbeschouwd ook kunnen liggen in de blijvende verscheidenheid van de AOC-onderdelen"> «Het herkenbaar plaats inruimen voor het Chrïstelijk Agrarisch Onderijs in het nieuwe agrarisch onderwijsbestel is noodzaak en er zijn mogelijkheden voor door handhaving van de identiteit op de leslocatie Daartoe zal op die locatie een eigen personeels– beleid en een eigen beleid betreffende de onderwijsinrichting gevoerd moeten kunnen worden. ... De meerwaarde van de AOC-vorming zou welbeschouwd ook kunnen liggen in de blijvende verscheidenheid van de AOC-onderdelen»</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Ja. Ja, met dien verstande dat dislo– katies tijdelijk zijn en binnen afzienbare tijd worden afgebouwd. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

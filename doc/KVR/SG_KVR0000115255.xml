@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="4">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19851986:0001695</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001695&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001695</item>
+         <item attribuut="Document-id">0000115255</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1985-1986 nummer 774</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Willems (P.S.P.) over de te volgen gedragslijn tijdens de jaarvergadering van de Parijse Commissie.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1985-1986 nummer 774</item>
+         <item attribuut="Jaargang">1985_1986</item>
+         <item attribuut="Vraagnummer">774</item>
+         <item attribuut="Indiener">
+            <persoon partij="PSP">Willems</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-05-28</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Smit-Kroes</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-06-03</item>
+         <item attribuut="Beginpagina">1539</item>
+         <item attribuut="Eindpagina">1540</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1985-1986 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 5 - 1 9 8 6 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="774" onderwerp="de te volgen gedragslijn tijdens de jaarvergadering van de Parijse Commissie." indiendatum="28 mei 1986)">
+         <vrager partij="PSP" oorsprong="parlement">Willems</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="3 juni 1986)">
+         <antwoorder functie="Minister" ministerie="Verkeer en Waterstaat">Smit-Kroes</antwoorder>
+         <mede-antwoorder>de Ministervan Volkshuisves- ting, Ruimtelijke Ordening en Milieubeheer en de Staatssecretaris van Buitenlandse Zaken</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 ">Herinnert u zich uw toezegging om  deze Kamer vanzelfsprekend tijdig in  te lichten over de lijn, die de regering  voornemens is tijdens de jaarverga- dering van de Parijse Commissie te  volgen?  </vraag>
+      <vraag nummer="2 ">Bent u ervan op de hoogte, dat deze  jaarvergadering reeds volgende week  in Madrid begint?  </vraag>
+      <vraag nummer="3 ">Waarom hebt u deze Kamer niet  tijdig van de door u te volgen lijn op  de hoogte gesteld?  </vraag>
+      <vraag nummer="4 ">Wilt u alsnog per omgaande uw te  volgen gedragslijn meedelen? Zo  neen, waarom niet?  Deze vragen zijn een vervolg op de  op 14 mei ontvangen antwoorden op  eerdere vragen over deze zaak  (vergaderjaar 1985-1986, aan- hangsel 694).  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1 ">Ja.  </antwoord>
+      <antwoord nummer="2 ">Ja.  </antwoord>
+      <antwoord nummer="3 ">Als gevolg van het laat beschikbaar  komen van vergaderstukken werd  interdepartementaal overleg met  betrekking tot de instructie voor de  Nederlandse delegatie eerst op 26  mei afgerond.  </antwoord>
+      <antwoord nummer="4 ">De te volgen gedragslijn zend ik u  heden per afzonderlijke brief toe.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

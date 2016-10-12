@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0000068</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0000068&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0000068</item>
+         <item attribuut="Document-id">0000018454</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Eerste Kamer 1991-1992 nummer 31</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Eerste Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Schuurman (RPF), Ginjaar (VVD), Baarda (CDA), Van Kuilenburg-Lodder en K. Zijlstra (beiden PvdA), Tiesinga-Autsema en Schuyer (beiden D66), Pitstra (Groen Links), Barendregt (SGP) en Veling (GPV) inzake de gevolgen voor het milieu van genetisch gemanipuleerde bacteriën.</item>
+         <item attribuut="titel">Aanhangsel Eerste Kamer 1991-1992 nummer 31</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">31</item>
+         <item attribuut="Indiener">
+            <persoon>Schuurman</persoon>
+            <persoon>Ginjaar</persoon>
+            <persoon>Baarda</persoon>
+            <persoon>Van Kuilenburg-Lodder</persoon>
+            <persoon>Zijlstra K.</persoon>
+            <persoon>Tiesinga-Autsema</persoon>
+            <persoon>Schuyer</persoon>
+            <persoon>Pitstra</persoon>
+            <persoon>Barendregt</persoon>
+            <persoon>Veling</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-04-23</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Alders</persoon>
+            <persoon>Simons</persoon>
+            <persoon>Bukman</persoon>
+            <persoon>Hirsch Ballin</persoon>
+            <persoon>Ritzen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-07-15</item>
+         <item attribuut="Beginpagina">79</item>
+         <item attribuut="Eindpagina">82</item>
+         <item attribuut="Omvang">4 pag.</item>
+      </metadata>
+      <header titel="Eerste Kamer der Staten-Generaal" kamer="1" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen door de leden der Kamer gesteld overeenkomstig artikel schriftelijk gegeven antwoorden"/>
+      <footer firstpaginanummer="79" allpagenumbers="79 80 81" vetnummer="" code="" lopendefooter="Eerste Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="s Gravenhage 1992"/>
+      <vraagdata vraagnummer="" onderwerp="" indiendatum="">
+         <vrager partij="" oorsprong="parlement">Schuurman</vrager>
+         <vrager partij="" oorsprong="parlement">Ginjaar</vrager>
+         <vrager partij="" oorsprong="parlement">Baarda</vrager>
+         <vrager partij="" oorsprong="parlement">Van Kuilenburg-Lodder</vrager>
+         <vrager partij="" oorsprong="parlement">Zijlstra K.</vrager>
+         <vrager partij="" oorsprong="parlement">Tiesinga-Autsema</vrager>
+         <vrager partij="" oorsprong="parlement">Schuyer</vrager>
+         <vrager partij="" oorsprong="parlement">Pitstra</vrager>
+         <vrager partij="" oorsprong="parlement">Barendregt</vrager>
+         <vrager partij="" oorsprong="parlement">Veling</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-07-15">
+         <antwoorder functie="" ministerie="Ontvangen 15 juli 1992"/>
+         <mede-antwoorder>de heer Simons, staatssecretaris van Welzijn, Volksgezondheid en Cultuur, de heer Bukman, minister van Landbouw, Natuurbeheer en Visserij, de heer Hirsch Ballin, minister van Justitie en de heer Ritzen, minister van Onderwijs en Wetenschappen</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="9">
+      <vraag nummer="31">Vragen van de leden Schuurman (RPF), Ginjaar (VVD), Baarda (CDA), Van Kuilenburg Lodder en K. Zijlstra (beiden PvdA), Tiesinga-Autsema en Schuyer (beiden D66), Pitstra (Groen Links), Barendregt (SGP) en Veling (GPV) inzake de gevolgen voor het milieu van genetisch gemanipuleerde bacteriën. (Ingezonden 23 april 1992) </vraag>
+      <vraag nummer="1">Zijn de bewindslieden met de vragenstellers van oordeel dat het verontrustend is dat genetisch gemanipuleerde E.colibacteriën-k12 veel langer in het milieu overleven, dan deskundigen altijd hebben beweerd? (zie het bericht daarover in het Wagenings Universiteitsblad van 26 maart 1992) </vraag>
+      <vraag nummer="2">Zou het, nu gebleken is dat het risico van overleven van genetisch gemanipuleerde bacteriën in het milieu niet 0,0 is, aanbeveling verdienen om na te gaan wat het risico is van overdracht, vermeerdering of verspreiding - onder onvoorziene of ongewone omstandigheden - van de in de genetisch gemanipuleerde bacteriën aanwezige genetische informatie? Welk extra onderzoek wordt overwogen, indien verondersteld kan worden dat een dergelijk risico aanwezig is? Is eigenlijk bekend welke de mogelijk ongunstige gevolgen zijn van genetisch gemanipuleerde bacteriën in het milieu? </vraag>
+      <vraag nummer="4">Wordt overwogen om te onderzoeken langs welke mogelijke wegen in werkelijkheid genetisch gemanipuleerde bacteriën uit het laboratorium kunnen ontsnappen? Welke nieuwe veiligheidsmaatregelen worden vooralsnog genomen om verspreiding van genetisch gemanipuleerde bacteriën in het milieu te voorkomen? </vraag>
+      <vraag nummer="5">Hoe kan de controle op de juiste verzending per post van 3000 pakketjes per jaar met genetisch gemanipuleerde micro-organismen worden verbeterd? Overweegt de overheid daarvoor een veilig standaardpakket te ontwerpen en vervolgens voor gebruik te verplichten? </vraag>
+      <vraag nummer="6">Moet uit het onderzoek van het RIVM de conclusie worden getrokken dat wetenschappelijke onderzoekers onvoldoende zijn voorgelicht over de in acht te nemen veiligheidsmaatregelen? Indien dat het geval is, hoe denken de bewindslieden daarin verbetering te krijgen? Indien ze wel voldoende zijn voorgelicht, waarom worden de veiligheidsmaatregelen dan niet in acht genomen? Indien de veiligheidsmaatregelen wel in acht worden genomen, zou ook geconcludeerd kunnen worden dat ze onvoldoende zijn; is dat juist (zie vraag 4)? </vraag>
+      <vraag nummer="7">Zou, indien blijkt dat wetenschappelijke onderzoekers niet of onvoldoende rekening houden met de nodige veiligheidsvoorschriften inzake omgang met en verzending van genetisch gemanipuleerde bacteriën, de conclusie getrokken kunnen worden dat wetenschappelijke onderzoekers ook inzake de recombinant-DNA-technologie zelf meer dan eens onvoorzichtig of onverantwoord te werk gaan? </vraag>
+      <vraag nummer="8">Wordt uit voorzorg ook overwogen om bepaalde proeven met genetisch gemanipuleerde bacteriën op te schorten? Welke directe veiligheidsmaatregelen worden overwogen om het «morsen» met genetisch gemanipuleerde bacteriën te stoppen, indien van opschorten geen sprake is of kan zijn? </vraag>
+      <vraag nummer="9"/>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="7">
+      <antwoord nummer="1">De verontrusting van de vragenstellers over het mogelijk langer overleven van genetisch gemodificeerde E.coli K12 bacteriën wordt door mij niet gedeeld. Zoals toegelicht in bijlage 1 wordt in de veiligheidsvoorschriften rekening gehouden met de overlevingskans van deze bacteriën. Uit het aangehaalde onderzoek kan niet de conclusie worden getrokken dat deze veiligheidsvoorschriften niet voldoende zouden zijn. Het artikel in het Wagenings Universiteitsblad van 26 maart 1992 geeft een verkeerd beeld van de onderzoeksresultaten van het rapport (719102009) «Survival of E.coli K12 on laboratory coats made of 100% cotton» van het Rijksinstituut voor Volksgezondheid en Milieuhygiëne (RIVM). Zo kan uit dit rapport niet de conclusie getrokken worden dat «E.colibacteriën-k12, veel gebruikt als gastheer van gemanipuleerd erfehjk materiaal, eenmaal losgelaten in het milieu veel langer blijken te overleven dan verwacht» aangezien in dit rapport slechts de resultaten van het onderzoek naar de overleving van deze bacteriën op stukjes katoen van een laboratoriumjas beschreven worden. De stelling: «Ook blijkt Uit het RIVM onderzoek blijkt dat de fase van de groei waarin de bacterieculture op het moment van opbrengen verkeerde, alsmede de chromosomale achtergrond van de betrokken bacteriestam en de hoeveelheid cultuurvloeistof die opgebracht werd, grote invloed hebben op de overleving. De overleving was onder de gekozen condities langer dan de onderzoekers op grond van literatuurgegevens hadden verwacht. Overleving van bacteriën is echter ook afhankelijk van de relatieve vochtigheid van de omgeving, een feit waaraan in deze eerste «pilot»-studie zoals door de onderzoekers zelf wordt aangegeven nog onvoldoende aandacht is besteed. Uit de gepresenteerde gegevens kunnen dan ook zeker geen conclusies omtrent de overleving van E. coli K12 in het milieu worden getrokken. In het rapport wordt deze conclusie ook niet getrokken. Voor verdere achtergrondinformatie verwijs ik U naar de toelichting bij deze antwoorden in bijlage 1. </antwoord>
+      <antwoord nummer="2 en 3" voetnoot="2">Organismen die een risico van overleven in het milieu hebben van 0,0 bestaan niet. Wanneer de risico-analyse daartoe aanleiding geeft kan het bevoegde gezag bij de vergunningverlening de eis stellen dat de gemodificeerde bacteriën biologisch ingeperkt zijn zodat hun invloed in het milieu beperkt wordt. Bovendien kunnen afhankelijk van de aard van het experiment aangepaste fysische inperkingsmaatregelen worden voorgeschreven (zie verschillende overlevingskansen rapporteren. In hoeverre en sprake is van mogelijke risico's door overdracht, vermeerdering of verspreiding van de in de genetisch gemodificeerde bacteriën aanwezige informatie, wordt door verschillende factoren bepaald. De overlevingskans is éèn factor, maar even belangrijk is de aard van het ingebrachte genetische materiaal en de eigenschappen van het produkt waarvoor het codeert, overdrachtsfrequenties, gastheerbereik van de vector, enz. In de risico-analyses worden deze variabelen met elkaar in verband gebracht. In een onlangs verschenen voorlichtingsboekje is een samenvatting van deze risico-analyse opgenomen. <voetnoot nummer="2"/> De informatie die de risico-analyse oplevert wordt per geval beoordeeld door de VCOGEM. Afhankelijk van het resultaat van de beoordeling worden inperkingsmaatregelen vastgesteld. In die gevallen waarin er onzekerheid is over de mogelijke ongunstige gevolgen van ggo's in het milieu zullen de inperkingsmaatregelen hierop zijn afgestemd. Er is reeds veel onderzoek gedaan naar deze risico's. Op basis daarvan is een indeling gemaakt in risico-klassen met bijbehorende inperkingsmaatregelen. Deze zijn beschreven in de eerder genoemde richtlijnen van de VCOGEM. Voor veldproeven met genetisch gemodificeerde bacteriën is in sommige gevallen niet alle informatie voor het vaststellen of een experiment een risico oplevert voorhanden. Door het ministerie van daarvan wordt een onderzoekprogramma vastgesteld. </antwoord>
+      <antwoord nummer="4">De ontsnappingswegen voor ggo's uit het laboratorium zijn bekend. Als aangegeven bij de antwoorden op vraag 2 en 3 wordt hiermee rekening gehouden in de risico-analyse. Indien de aard van het ggo zulks noodzakelijk maakt wordt door fysische inperking de ontsnappingskans beperkt. Omdat geen nieuwe gegevens over de risico's zijn aangedragen worden nieuwe maatregelen niet overwogen. </antwoord>
+      <antwoord nummer="5">De uitkomsten van het RIVM onderzoek geven een aanwijzing dat het verzenden van genetisch gemodificeerde organismen (ggo's) in veel gevallen niet volgens de wettelijke voorschriften gebeurt. De maatregelen die ik zal treffen zijn beschreven in de antwoorden op de vragen (4 en 6) van de leden van de Tweede Kamer Van der Vlies en J. T. van den Berg dd. 26 maart 1992 (zie bijlage 2). </antwoord>
+      <antwoord nummer="6">Uit het onderzoek van het RIVM kan niet de conclusie getrokken worden dat wetenschappelijke onderzoekers onvoldoende zijn voorgelicht over de in acht te nemen veiligheidsmaatregelen. Onderzoekers die met ggo's werken ontvangen de eerder genoemde Richtlijnen van de VCOGEM. In Appendix G van deze richtlijnen zijn bijvoorbeeld de wettelijke voorschriften voor het vervoer van ggo's opgenomen. Niettemin is het wettelijke voorschriften voor de verzending van ggo's zonder te beschikken over een vergunning om hiervan af te wijken. Het zou echter onjuist zijn hieruit de conclusie te trekken dat ook met andere veiligheidsvoorschriften de hand wordt gelicht. Veiligheidsvoorschriften voor de werkzaamheden met ggo's bestaan reeds meer dan vijftien jaar en de onderzoekers zijn daar mee vertrouwd. </antwoord>
+      <antwoord nummer="8" voetnoot="1 1 3">Er zijn op dit moment geen aanwijzingen van enigerlei aard die het zouden rechtvaardigen bepaalde proeven met genetisch gemodificeerde bacteriën op te schorten. «Morsen» is uit de aard der zaak een ongeluk, dat niet verboden kan worden. Men kan slechts maatregelen opleggen die de kans op morsen, en met name de kans op verspreiding van gemorst materiaal, beperken. In de Veilige Microbiologische Techniek worden hiervoor de belangrijkste regels gegeven: netheid, gebruik van de juiste materialen en ontsmetting van de werkplek na afloop van het werk. Werkelijk «morsen» is een gebeurtenis die steeds als ongewenste gebeurtenis geregistreerd dient te worden. De regels voor Veilige Microbiologische Techniek stellen dat in dergelijke gevallen alle delen van de ruimte die besmet zijn, gedecontamineerd dienen te worden. Het is duidelijk dat hieronder ook de roerende goederen, zoals apparatuur en laboratoriumkleding begrepen dienen News). <voetnoot nummer="1"/> Richtlijnen voor de vervaardiging van en de handelingen met genetisch gemodificeerde organismen, Mededelingenblad «VCOGEMS» van de Voorlopige Commissie Genetische Modificatie nr. 1, 12 juli 1990. Een herziene versie waarvan het concept in januari 1992 is gepubliceerd zal eind 1992 als ministeriële regeling gebaseerd op het gewijzigde Besluit genetisch gemodificeerde organismen Wet milieugevaarlijke stoffen van kracht worden <voetnoot nummer="1"/> Erfelijke veranderingen bij bacteriën, planten en dieren; voordelen en risico's. Uitgeverij Jan van Arkel Utrecht, 1992 (bijgevoegd). <voetnoot nummer="3"/> Richtlijnen voor recombinant DNA bewerkingen in Nederland, derde deel, mogelijke risico's en risico-analyse. VROM publikatiereeks milieubeheer, juli 1986 no </antwoord>
+      <antwoord nummer="15"/>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

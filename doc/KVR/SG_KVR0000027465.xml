@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="beheer en Visserij." aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001128</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001128&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001128</item>
+         <item attribuut="Document-id">0000027465</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 195</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Willems en Beckers-de Bruijn (beiden Groen Links) over de aanleg van riolering in landinrichtingsgebieden.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 195</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">195</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Willems</persoon>
+            <persoon partij="Groen Links">Beckers-de Bruijn</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-10-23</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Alders</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-11-28</item>
+         <item attribuut="Beginpagina">393</item>
+         <item attribuut="Eindpagina">394</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="393" allpagenumbers="393" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="195" onderwerp="de aanleg van riolering in landinrichtingsgebieden." indiendatum="1990-10-23">
+         <vrager partij="Groen Links" oorsprong="parlement">Willems</vrager>
+         <vrager partij="Groen Links" oorsprong="parlement">Beckers-de Bruijn</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Hebt u kennis genomen van de opvatting van de Inspecteur Landin– richting in de Provincie Utrecht, dat «het aanbrengen van riolering ten behoeve van de in het kader van de ruilverkaveling Eemland te bouwen agrarische bedrijven uit het oogpunt van milieu niet noodzakelijk is en vanuit economisch standpunt bezien onrendabel is»? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Deelt u de mening van de Inspecteur, dat lozing op de gierkelder van huishoudelijk en bedrijfsafvalwater uit een oogpunt van milieu niet of nauwelijks bezwaarlijk is? </vraag>
+      <vraag nummer="3">Wat is uw oordeel over het feit, dat - doordat afvalwater, dat voorheen in het riool geloosd werd, nu in het milieu terecht zal komen - deze bedrijfsverplaatsingen leiden tot een extra belasting voor het milieu, en derhalve strijdig zijn met het stand– still beginsel? </vraag>
+      <vraag nummer="4">Hoe valt deze extra milieuvervuiling te rijmen met het uitgangspunt in de Landinrichtingswet, dat landinrich– tingsplannen niet ten koste mogen gaan van natuur en milieu? Bent u het eens met Gedeputeerde Staten van Utrecht, dat voortgang van de ruilverkaveling Eemland van eminent belang is voor de hele streek, zowel voor de landbouw als voor de belangen van natuur en landschap , of deelt u de mening van de Stichting Natuur en Milieu, dat de ruilverkaveling Eemland in strijd is met de voorgenomen ecologische hoofdstructuur en actuele en poten– tiële natuurwaarden aantast? Bent u van mening dat - gegeven het feit dat de riolering mede nodig is door de bedrijfsverplaatsingen - de rioleringskosten niet uit het ruilverka– velingsbudget betaald kunnen worden? Bent u bereid er bij Gedeputeerde Staten en de Inspecteur Landin– richting op aan te dringen, dat bedrijven na verplaatsing zo veel mogelijk wel op het riool aange– sloten worden en daarvoor binnen het ruilverkavelingsplan of anderszins gelden vrijgemaakt worden? Toelichting Deze vragen dienen ter aanvulling op de eerdere vragen terzake van het lid Eisma, ingezonden 17 oktober 1990. </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="2"/>
+         <noot nummer="3"/>
+         <noot nummer="1"> Brief van de Inspecteur Landinrichting, 17 mei 1990 aan het College van B en W van de gemeente Eemnes, kenmerk 4330/LD</noot>
+         <noot nummer="2"> Brief van Gedeputeerde Staten, 11 september 1990 aan B en W van de gemeente Eemnes, numrtier 362220/701</noot>
+         <noot nummer="3"> Brief van de Stichting Natuur en Milieu, 3 april 1990 aan de Minister van Landbouw, Natuurbeheer en Visserij</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+   <mededeling mededeler="Alders" functie="minister" afdeling="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer" mededelingdatum="1990-11-28">Mededeling van minister Alders (Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer). (Ontvangen 28 november 1990) Met verwijzing naar uw hierboven aangehaalde brief moet ik u tot mijn spijt mededelen dat ik de schriftelijke vragen van de leden der Kamer Willems en Beckers-de Bruijn, inzake aanleg van rioleiïng in landinrich– tingsgebieden niet binnen de gebrui– kelijke termijn kan beantwoorden. Reden hiervoor is dat er enige tijd nodig is voor de afstemming met het Ministerie van Landbouw, Natuur– </mededeling>
+</kvr>

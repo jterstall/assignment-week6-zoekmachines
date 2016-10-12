@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19851986:0001821</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001821&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001821</item>
+         <item attribuut="Document-id">0000115381</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1985-1986 nummer 900</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Mik (D66) over de financiering van het project van de Stichting «De Werkplaats» te Groningen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1985-1986 nummer 900</item>
+         <item attribuut="Jaargang">1985_1986</item>
+         <item attribuut="Vraagnummer">900</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Mik</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-05-30</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Brinkman</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-07-14</item>
+         <item attribuut="Beginpagina">1787</item>
+         <item attribuut="Eindpagina">1788</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1985-1986 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 5 - 1 9 8 6 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="900" onderwerp="de financiering van het project van de Stichting «De Werkplaats» te Groningen." indiendatum="30 mei 1986)">
+         <vrager partij="D66" oorsprong="parlement">Mik</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="14 juli 1986)">
+         <antwoorder functie="minister" ministerie="Welzijn, Volksgezondheid en Cultuur">Brinkman</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1 ">Is het u bekend, dat het project van  de Stichting «De Werkplaats» te  Groningen binnenkort dreigt te  worden gestaakt, omdat er geen  financiering is voor de jaren 1987 en  daarna?  </vraag>
+      <vraag nummer="2 ">Bent u bereid overleg te voeren met  uw ambtgenoot van Justitie (eventu- eel met uw ambtgenoot van Sociale  Zaken en Werkgelegenheid) en de  lokale overheden teneinde de  noodzakelijke financiering te verkrij- gen?  </vraag>
+      <vraag nummer="3 ">Bent u bereid op korte termijn  hieromtrent duidelijkheid te geven in  verband met de positie van de  betrokken personeelsleden en de  voortduring van het werk?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1 ">Ja.  </antwoord>
+      <antwoord nummer="2 ">Bij de start van het project is de  financiering voor 4 jaar in het kader  voortzetting van de financiering is  afhankelijk van de wijze waarop het  gemeentebestuur van Groningen het  project waardeert. Mij is gebleken  dat het gemeentebestuur veel  waardering heeft voor de Stichting  «De Werkplaats», doch dat prioriteits- afweging ertoe heeft geleid, dat  geen subsidie voor 1987 beschikbaar  kon worden gesteld.  Het Ministerie van Justitie heeft  voor 1986 bij wijze van overbrugging  eenmalig  f 2 5 000 beschikbaar  gesteld.  Ook het provinciaal bestuur van  Groningen acht het niet haar taak  zorg te dragen voor structurele  financiering van deze uitvoerende  instelling. Gegeven deze feiten, acht  ik het weinig zinvol overleg te voeren  met de in de vraag genoemde  instanties.  </antwoord>
+      <antwoord nummer="3 ">Alle betrokkenen zijn bekend met de  tijdelijkheid van het subsidie. Ook  gezien de afspraken die gemaakt zijn  met betrekking tot de wijze waarop  ISP II wordt uitgevoerd, nl. dat de  provincie in dit geval de subsidiërende  instantie is, acht ik het niet op mijn  weg liggen om de instelling te  benaderen.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

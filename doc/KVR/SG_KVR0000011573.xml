@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Maij-Weggen (Verkeer en" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001269</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001269&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001269</item>
+         <item attribuut="Document-id">0000011573</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 339</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Eisma (D66) over de ondersteuning van de vliegvelden Maastricht Airport en Liège Airport International.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 339</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">339</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Eisma</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-01-25</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Maij-Weggen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-02-15</item>
+         <item attribuut="Beginpagina">693</item>
+         <item attribuut="Eindpagina">694</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="693" allpagenumbers="693" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="339" onderwerp="de ondersteuning van de vliegvelden Maastricht Airport en Liége Airport International." indiendatum="1993-01-25">
+         <vrager partij="D66" oorsprong="parlement">Eisma</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1">Worden de vliegvelden Maastricht Airport en Liège Airport International beide door het Europese Fonds voor Regionale Ontwikkeling ondersteund? Zo ja, welke bedragen zijn hiermee gemoeid? Waterstaat). (Ontvangen 15 februari 1993) Binnen de voor deze vragen gestelde termijn kon geen uitsluitsel in Brussel worden verkregen over de exacte bedragen en criteria die met de mogelijke steun zijn gemoeid. Daarom verzoek ik u om uitstel. Zodra ik uit Brussel de benodigde informatie heb ontvangen, zal ik u de antwoorden zo spoedig mogelijk doen toekomen. Wat is de afstand tussen beide vliegvelden? </vraag>
+      <vraag nummer="3">Op welke wijze stelt u deze vorm van ondersteuning in de EG aan de orde? </vraag>
+      <vraag nummer="4">Deelt u de mening, dat de Euregio Maas/Rijn hooguit plaats biedt aan een regionale luchthaven? </vraag>
+      <vraag nummer="5">Welke zijn de voordelen van situering van een luchthaven in Luik vergeleken met die in Beek? </vraag>
+      <vraag nummer="6">Op welke wijze is en zal met de ontwikkeling van het Luikse vliegveld rekening worden gehouden in het kader van de toekomst van Maastricht Airport? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+   <mededeling mededeler="" functie="" afdeling="" mededelingdatum="">Mededeling van minister </mededeling>
+</kvr>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="5">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Rehwinkel en Van Nieuwenhoven (beiden PvdA) over overheidssubsidiëring aan politieke partijen (Ingezonden 24 maart 1995); Antwoord</item>
+         <item attribuut="Bestand">14Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR1317
+</item>
+         <item attribuut="Rubriek">Staats- en bestuursrecht (Politiek)</item>
+         <item attribuut="Trefwoorden">Politieke partijen Subsidies</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 1994-1995, nr. 679, Tweede Kamer</item>
+         <item attribuut="Afkomstig_van">Binnenlandse Zaken</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Rehwinkel</persoon>
+            <persoon partij="PvdA">Van Nieuwenhoven</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1995-04-13</item>
+         <item attribuut="Datum_indiening">1995-03-24</item>
+         <item attribuut="Document-id">KVR1317</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1994–1995" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1381" allpagenumbers="1381" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1994–1995, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgeverij Plantijnstraat ’s-Gravenhage 1995"/>
+      <vraagdata vraagnummer="679" onderwerp="" indiendatum="1995-03-24">
+         <vrager partij="PvdA" oorsprong="parlement">Rehwinkel</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Van Nieuwenhoven</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1995-04-13">
+         <antwoorder functie="minister" ministerie="Binnenlandse Zaken">Dijkstal</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Kent u het recente bericht <voetnoot nummer="1"/>over de overheidssubsidie¨ring aan politieke partijen? </vraag>
+      <vraag nummer="2">Overweegt u bij deze subsidie¨ring inderdaad onderscheid te maken tussen verschillende politieke partijen? </vraag>
+      <vraag nummer="3" voetnoot="2">Zal de gedachte zoals in het bericht verwoord, onderdeel uitmaken van een notitie die tijdens de behandeling van de begroting van Binnenlandse Zaken in de Kamer <voetnoot nummer="2"/>is toegezegd? </vraag>
+      <vraag nummer="4">Wanneer kan deze notitie worden verwacht? </vraag>
+      <vraag nummer="5">Zal de betreffende notitie eveneens een reactie bevatten op het rapport van de Commissie-Van den Berg? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1995-03-22" bron="De Telegraaf">De Telegraaf, 22 maart 1995</noot>
+         <noot nummer="2" documenttype="Handelingen" documentnummer="6" documentpagina="688">Handelingen II, nr. 6, blz. 688, Handelingen 1994–1995.</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Nee. </antwoord>
+      <antwoord nummer="3">Dit is nog onderwerp van nadere interne afweging, mede op basis van hetgeen de Commissie-Van den Berg ter zake heeft opgemerkt. In het algemeen is het niet mijn bedoeling om inhoudelijke criteria vast te stellen, waaraan moet worden getoetst in hoeverre bepaalde activiteiten subsidiabel zijn. Ik streef ernaar in dat opzicht het huidige systeem intact te houden. Dat wil zeggen dat marginaal wordt getoetst of afzonderlijke activiteiten subsidiabel zijn. </antwoord>
+      <antwoord nummer="4">Ik streef ernaar voor de zomer een notitie ter zake uit te brengen. </antwoord>
+      <antwoord nummer="5">Ja. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="4">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001895</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001895&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001895</item>
+         <item attribuut="Document-id">0000107670</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 862</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Eisma en Wolffensperger (beiden D66) over de nota «Gegrond ontgronden».</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 862</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">862</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Eisma</persoon>
+            <persoon partij="D66">Wolffensperger</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-06-18</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Smit-Kroes</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-07-10</item>
+         <item attribuut="Beginpagina">1719</item>
+         <item attribuut="Eindpagina">1720</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 6 - 1 9 8 7 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="862" onderwerp="de nota «Gegrond ontgronden»." indiendatum="18 juni 1987)">
+         <vrager partij="D66" oorsprong="parlement">Eisma</vrager>
+         <vrager partij="D66" oorsprong="parlement">Wolffensperger</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="10 juli 1987)">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">S m i t - K r o e s</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 ">Kunnen tot uiterlijk 17 juli a.s.  reacties op de op 18 mei jl. versche- nen nota «Gegrond ontgronden»  worden ingediend?  </vraag>
+      <vraag nummer="2 ">Is het de minister bekend, dat door  vele belangstellenden en belangheb- benden de integrale nota pas 3  weken na aanvraag werd ontvangen?  </vraag>
+      <vraag nummer="3 ">Is het de minister voorts bekend, dat  verscheidene gemeentebesturen niet  in staat zijn vóór 17 juli een raads- voorstel voor te bereiden en dit in de  gemeenteraad te behandelen?  </vraag>
+      <vraag nummer="4 ">Is de minister bereid bij de Raad van  de Waterstaat er op aan te dringen  de periode, waarin reacties op de  nota «Gegrond ontgronden» kunnen  worden ingediend, met bijvoorbeeld  2 maanden te verlengen en betrokke- nen van deze verlenging op de  hoogte te stellen?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1 ">Ja.  </antwoord>
+      <antwoord nummer="2 ">Aan vele belangstellenden en  belanghebbenden is de nota «Ge- grond Ontgronden» ongevraagd  rechtstreeks toegezonden omstreeks  14 mei 1987. Daarnaast zijn enkele  honderden nota's op aanvraag  toegezonden. Bij het Ministerie van  Verkeer en Waterstaat zijn een tiental  klachten (m.n. van gemeenten)  binnengekomen over de lange duur  (2 a 3 weken) tussen aanvraag en  ontvangst van de nota. Ook bij het  Distributiecentrum Overheidspublica- ties van waaruit de nota op aanvraag  werd en wordt toegezonden, zijn een  aantal van dergelijke klachten  binnengekomen.  </antwoord>
+      <antwoord nummer="3 ">Van enkele gemeenten is bekend dat  deze niet in staat zijn vóór 17 juli a.s.  een raadsvoorstel voor te bereiden  en dit in de gemeenteraad te  behandelen.  </antwoord>
+      <antwoord nummer="4 ">Nee. Het grootste deel van de  belanghebbenden en belangstellen- den beschikt 2 maanden vóór 17 juli  over de nota, terwijl de anderen  minimaal 6 weken vóór 17 juli  daarover konden beschikken. Meestal  wordt 2 maanden aangehouden, soms  minder. In de praktijk kan naar  verwachting in gevallen als bedoeld  bij punt 3 in overleg met de secretaris  van de Raad van de Waterstaat een  aanvaardbare oplossing worden  gevonden.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

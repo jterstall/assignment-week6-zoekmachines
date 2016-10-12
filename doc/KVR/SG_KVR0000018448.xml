@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="de EG beschikbaar? Is de rechtsgang" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0000062</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0000062&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0000062</item>
+         <item attribuut="Document-id">0000018448</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Eerste Kamer 1991-1992 nummer 25</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Eerste Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Coenemans, Van Gennip en R. Zijlstra (allen CDA) inzake misbruik van restitutie in de vleeswarensector.</item>
+         <item attribuut="titel">Aanhangsel Eerste Kamer 1991-1992 nummer 25</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">25</item>
+         <item attribuut="Indiener">
+            <persoon>Coenemans</persoon>
+            <persoon>Van Gennip</persoon>
+            <persoon>Zijlstra R.</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-04-02</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Bukman</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-04-14</item>
+         <item attribuut="Beginpagina">63</item>
+         <item attribuut="Eindpagina">64</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Eerste Kamer der Staten-Generaal" kamer="1" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen door de leden der Kamer gesteld overeenkomstig artikel schriftelijk gegeven antwoorden"/>
+      <footer firstpaginanummer="63" allpagenumbers="63" vetnummer="" code="" lopendefooter="Eerste Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 738x" uitgever="Sdu Uitgeverij Planttjnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="" onderwerp="" indiendatum="">
+         <vrager partij="" oorsprong="parlement">Coenemans</vrager>
+         <vrager partij="" oorsprong="parlement">Van Gennip</vrager>
+         <vrager partij="" oorsprong="parlement">Zijlstra R.</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="25">Vragen van de leden Coenemans, Van Gennip en R. Zijlstra (allen CDA) inzake misbruik van restitutie in de vleeswarensector. (Ingezonden 2 april 1992) </vraag>
+      <vraag nummer="1" voetnoot="1">Wil de minister een overzicht verstrekken van het aantal onderzoeken dat sinds 1980 is mgesteld inzake misbruik van restituties in de vleeswaren-sector <voetnoot nummer="1"/>en wil de bewindsman daarbij aangeven bij welke bedrijven dergelijke onderzoeken - hetzij regulier, hetzij incidenteel - hebben plaatsgevonden? </vraag>
+      <vraag nummer="2">Wil de minister meedelen welke maatstaven worden aangelegd bij de beoordeling van de vraag of sprake is van frauduleus handelen? In hoeveel gevallen is in de betrokken periode tot nu toe fraude geconstateerd en bij welke bedrijven? </vraag>
+      <vraag nummer="4">Welke straffen zijn terzake opgelegd? In het geval het hier boetes betreft, zijn deze ook geïnd en zo niet, welke argumenten zijn gebruikt om niet tot invordering over te gaan? Om welke bedragen gaat het hierbij? terzake in de EG redelijk uniform en hoe heeft de praktijk zich in onze partner-landen ontwikkeld? Als voorbeelden zagen deze vragenstellende leden graag de situatie in Frankrijk, Denemarken en lerland betrokken? </vraag>
+      <vraag nummer="6">Is er naar het oordeel van de minister sprake van een verontrustende situatie en ziet de minister betere mogelijkheden om misbruik van dit landbouwpolitieke instrument te voorkomen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1992-01-16" bron=" Zie Agrarisch Dagblad"> Zie Agrarisch Dagblad, 16 januari 1992</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+   <mededeling mededeler="heer Bukman, Minister van Landbouw, Visserij en Natuurbeheer." functie="de" afdeling="Ontvangen 14april 1992" mededelingdatum="14april 1992">Mededeling van de heer Bukman, Minister van Landbouw, Visserij en Natuurbeheer. (Ontvangen 14april 1992) De bij bovenvermelde brief aan mij toegezonden vragen van de leden Coenemans, Van Gennep en R. Zijlstra der Eerste Kamer inzake misbruikvan restituties in de vleeswarensector kunnen tot mijn spijt niet binnen de gebruikelijke termijn worden beantwoord. Gezien de aard van de vragen is nader onderzoek noodzakelijk. De beantwoording zal plaats hebben omstreeks 22 mei a.s. Welke rechtsgang wordt in deze gevolgd en welke jurisprudentie is in </mededeling>
+</kvr>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001169</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001169&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001169</item>
+         <item attribuut="Document-id">0000011473</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 238</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Aanvullende vragen van het lid Leerling (RPF) over de situatie in Zuid-Soedan.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 238</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">238</item>
+         <item attribuut="Indiener">
+            <persoon partij="RPF">Leerling</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-11-25</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-12-21</item>
+         <item attribuut="Beginpagina">489</item>
+         <item attribuut="Eindpagina">490</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="489" allpagenumbers="489" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat s Gravenhage 1992"/>
+      <vraagdata vraagnummer="238" onderwerp="de situatie in Zuid-Soedan." indiendatum="1992-11-25">
+         <vrager partij="RPF" oorsprong="parlement">Leerling</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-12-21">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">Van den Broek</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1">Hebt u kennis genomen van berichten' over genocide op het christelijke bevolkingsdeel van Zuid-Soedan? Beschikt u over een volledig beeld van wat er in Zuid-Soedan gebeurt? Op welke wijze worden christenen vervolgd, dan wel om het leven gebracht? </vraag>
+      <vraag nummer="3">Kent u berichten, als zouden er kruisigingen van christenen plaatsvinden? </vraag>
+      <vraag nummer="4">Acht u het verwijt van de organisatie «Artsen zonder Grenzen» terecht, dat de «onverschilligheid van de internationale gemeenschap de definitieve oplossing van het Soedanese probleem slechts kan bespoedigen»? </vraag>
+      <vraag nummer="5">Wat doet de Nederlandse regering al dan niet in internationaal verband om een einde te maken aan de verschrikkingen in Zuid-Soedan? </vraag>
+      <vraag nummer="6">Geven deze berichten u aanleiding tot nieuwe stappen? Zo ja, welke? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <toelichting>Deze vragen dienen ter aanvulling op de eerdere vragen terzake van het lid Verspaget, ingezonden 11 november </toelichting>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Van de in deze vraag bedoelde berichtgeving heb ik kennis genomen. 2 e n 3 Uit de mij ter beschikking staande informatie over de gebeurtenissen in Zuid-Soedan leid ik af dat niet kan worden gesproken van systematische vervolging van christenen. Wel zijn incidentele gevallen bekend waarbij christelijke kerken en hun leiders zijn belemmerd in de godsdienstuitoefening. Als straf voor zware misdaden zoals moord en roofoverval kent het Soedanese strafrecht kruisiging, welke overigens eerst wordt verricht nadat op andere wijze een doodvonnis ten uitvoer is gelegd. Mij zijn geen gevallen bekend dat, op bevel van gerechtelijke instanties, christenen door kruisiging om het leven zijn gebracht. </antwoord>
+      <antwoord nummer="4, 5 en 6">Naar aanleiding van de zorgwekkende ontwikkelingen in Soedan heeft de Algemene Vergadering van de Verenigde Naties een resolutie aangenomen over de mensenrechtensituatie daar te lande. In de desbetreffende resolutie wordt onder meer de Soedanese regering opgeroepen, zich te houden aan de internationale afspraken over mensenrechten. De Algemene Vergadering heeft de VN-Mensenrechtencommissie verder internationaal toezicht op de mensenrechtensituatie in Soedan aanbevolen. Daarnaast wordt bij alle partijen die in de vijandelijkheden zijn betrokken, aangedrongen op het afzien van het gebruik van geweld tegen de burgerbevolking. Nederland heeft samen met de overige lidstaten van de Twaalf, de resolutie waartoe het initiatief werd genomen door de Verenigde Staten, mede-ingediend, alsmede via demarches in daarvoor in aanmerking komende hoofdsteden ondersteuning gevraagd van andere VN-leden. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

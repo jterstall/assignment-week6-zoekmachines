@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19881989:0001337</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001337&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001337</item>
+         <item attribuut="Document-id">0000090936</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1988-1989 nummer 333</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Leijnse en Buurmeijer (beiden P.v.d.A.) over de lesgeldverplichting voor «vluchtelingenkinderen».</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1988-1989 nummer 333</item>
+         <item attribuut="Jaargang">1988_1989</item>
+         <item attribuut="Vraagnummer">333</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Leijnse</persoon>
+            <persoon partij="PvdA">Buurmeijer</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-01-18</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Deetman</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-02-28</item>
+         <item attribuut="Beginpagina">671</item>
+         <item attribuut="Eindpagina">672</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 8 - 1 9 8 9 " typehandeling="" typedoc=""/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 8 - 1 9 8 9 ,  A a n h a n g s e l " filenaam="" issn-nummer="ISSN 0921 7398 " uitgever="SDU uitgeverij 's Gravenhage 1989 "/>
+      <vraagdata vraagnummer="333" onderwerp="de lesgeldverplichting voor «vluchte- lingenkinderen»." indiendatum="18 januari 1989)">
+         <vrager partij="PvdA" oorsprong="parlement">Leijnse</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Buurmeijer</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="28 februari 1989)">
+         <antwoorder functie="minister" ministerie="Onderwijs en Wetenschappen">D e e t m a n</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1 ">Wanneer zal het interdepartementale  overleg over de problematiek van de  lesgeldverplichting voor vluchtelin- genkinderen worden afgerond?  </vraag>
+      <vraag nummer="2 ">Bent u bereid toe te zeggen, dat u  zolang dat overleg niet is afgerond,  de lesgeldverplichting voor vluchte- lingenkinderen zult opschorten dan  wel niet-betaling zult toelaten dan  wel de gemeenten zult tegemoetko- men, indien zij de betalingsverplich- ting overnemen?  </vraag>
+      <vraag nummer="3 ">Zo neen, welke uitweg hebt u de  betrokkenen dan te bieden?  Deze vragen dienen als aanvulling op  eerdere vragen van de leden Leijnse  en Buurmeijer terzake. Zie Aanhang- sels van de Handelingen, vergader- jaar  1 9 8 8 - 1 9 8 9 , nr. 199.  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1 ">Het ambtelijk overleg over de  betaling van lesgeld voor vluchtelin- genkinderen is inmiddels afgesloten.  Naar verwachting zal eind februari  1 989 de regering haar standpunt  over dit onderwerp hebben bepaald.  </antwoord>
+      <antwoord nummer="2 ">Pas begin april 1989 zal de invorde- ringsprocedure worden gestart.  Omdat er vóór die datum naar alle  waarschijnlijkheid duidelijkheid is,  zijn de door vraagstellers genoemde  maatregelen niet nodig.  </antwoord>
+      <antwoord nummer="3 ">Verwezen zij naar het antwoord op  vraag 2.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

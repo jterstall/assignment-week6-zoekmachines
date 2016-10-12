@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001836</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001836&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001836</item>
+         <item attribuut="Document-id">0000107611</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 803</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Melkert (P.v.d.A.) over de toegankelijkheid van het Duitse administratieve rechtstelsel voor Nederlandse belanghebbenden.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 803</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">803</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Melkert</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-06-04</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van der Linden</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-06-26</item>
+         <item attribuut="Beginpagina">1595</item>
+         <item attribuut="Eindpagina">1596</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 6 - 1 9 8 7 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="803" onderwerp="de toegankelijkheid van het Duitse administratieve rechtstelsel voor Nederlandse belanghebbenden." indiendatum="4 juni 1987)">
+         <vrager partij="PvdA" oorsprong="parlement">Melkert</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="staatssecretaris" ministerie="Economische Zaken">Van der Linden</antwoorder>
+         <mede-antwoorder>de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1 ">Heeft de regering kennis genomen  van de antwoorden van staatssecre- taris Grüner namens de Bondsrepu- bliek Duitsland op vragen van Schütz  (SPD) inzake de implicaties van het  oordeel van het Bundesverfassungs- gericht in de zaak Hamers  v s Duitse  administratieve rechtstelsel voor  Nederlandse belanghebbenden?'  </vraag>
+      <vraag nummer="2 ">Mag hieruit worden afgeleid dat de  aanvankelijke evaluatie door de  Duitse autoriteiten van voorlopige  aard was? </vraag>
+      <vraag nummer="2 "/>
+      <vraag nummer="3 ">Heeft de Bondsregering haar  beraadslaging over de onderhavige  kwestie inmiddels afgesloten  Zo ja, met welk resultaat?  Zo neen, wanneer kan de afronding  tegemoet worden gezien?  </vraag>
+      <vraag nummer="4 ">Is de regering voornemens de  Bondsregering te vragen naar haar  overwegingen en gevolgtrekkingen  terzake?  </vraag>
+      <vraag nummer="5 ">Wil de regering, zodra de Bondsrege- ring haar nadere standpuntbepaling  kenbaar heeft gemaakt, deze Kamer  hiervan op de hoogte stellen?  Welke vorderingen zijn gemaakt in  de, tijdens de begrotingsbehandeling  1983 van  V R O M , deel milieubeheer  aangekondigde besprekingen met de  Duitse overheid over de realisatie van  het beginsel van gelijke rechtstoegang  voor het gehele terrein van de  milieuhygiëne? </vraag>
+      <vraag nummer="3 "/>
+      <noten afkomstig="vraag">
+         <noot nummer="2"> Zoals weergegeven door staatssecretaris  Van der Linden op 1 7 februari j.l. (Handelin-gen nr. 18, blz. 2734) </noot>
+         <noot nummer="1"> Handelingen Zitting 1982-1983, nr. 18,  blz. 2489. </noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

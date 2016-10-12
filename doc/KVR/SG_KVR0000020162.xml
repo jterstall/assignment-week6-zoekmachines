@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="4">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001776</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001776&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001776</item>
+         <item attribuut="Document-id">0000020162</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 758</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Schriftelijke vragen van de leden Brouwer en Lankhorst (beiden Groen Links) over de verwijdering van drugsverslaafden uit de Amsterdamse metrostations door medewerkers van het GVB.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 758</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">758</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Brouwer</persoon>
+            <persoon partij="Groen Links">Lankhorst</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-07-03</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Alders</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-08-03</item>
+         <item attribuut="Beginpagina">1581</item>
+         <item attribuut="Eindpagina">1582</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1581" allpagenumbers="1581" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="758" onderwerp="de verwijdering van drugsverslaafden uit de Amsterdamse metrostations door medewerkers van het GVB." indiendatum="1992-07-3">
+         <vrager partij="Groen Links" oorsprong="parlement">Brouwer</vrager>
+         <vrager partij="Groen Links" oorsprong="parlement">Lankhorst</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-08-3">
+         <antwoorder functie="minister" ministerie="Justitie a.i.">Alders</antwoorder>
+         <mede-antwoorder>de minister van Verkeer en Waterstaat</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Heeft u kennis genomen van de verwijdering van drugsverslaafden uit de Amsterdamse metrostations door medewerkers van het Gemeentevervoerbedrijf in de nacht van 29/30 juni 1992? </vraag>
+      <vraag nummer="2" voetnoot="1">Hoe beoordeelt u de uitspraak van de GVB-medewerkers dat de publiciteit rondom het optreden van mariniers op perron nul in Rotterdam «een duw in de rug was voor ons optreden»? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="3">Deelt u de mening dat de uitspraken van de hoofdcommissaris van de Amsterdamse politie over de mariniersactie eveneens een aansporing geweest kunnen zijn voor deze vorm van «eigen richting»? </vraag>
+      <vraag nummer="4">Kunt u zeggen hoe het inmiddels staat met de uitvoering van adequate veiligheidsmaatregelen op de metrostations, waar Kamer en Kabinet bij herhaling op hebben aangedrongen? Wilt u erop toezien dat enerzijds maatregelen worden getroffen om overlast door drugsverslaafden voor burgers zoveel mogelijk terug te dringen, maar dat anderzijds drugsverslaafden niet te maken krijgen met vormen van «eigen richting»? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1992-06-30" bron=" Het parool"> Het parool, 30 juni 1992</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja De uitspraken van de betrokken medewerkers komen voor hun eigen rekening. </antwoord>
+      <antwoord nummer="3">De uitspraken van de hoofdcommissaris van politie te Amsterdam, gedaan in het NOS-programma Het Capitool van 28 juni jl., geven zijn persoonlijke opvatting weer dat het optreden van de mariniers te Rotterdam moet worden gezlen als signaal uit de samenleving. Wij vatten dit niet op als een aansporing voor enige vorm van «eigenrichting». </antwoord>
+      <antwoord nummer="4">Recentelijk heeft Amsterdam toestemming gekregen om de kosten van het versoberde Preventieplan Metro ten laste te brengen van het reeds eerder ter beschikking gestelde VlC-budget. Dit plan omvat uitbreiding van de kaartverkoopmogelijkheden (onder andere automaten) en het invoeren van een effectievere controle in de metro met behulp van zogenaamde controlelijnen (hekelementen waarbij controlepersoneel de vervoerbewijzen van de reizigers steekproefgewijs controleert). Daarnaast heeft, ter uitvoering van de aanbevelingen van het Overlegplatform bestnjding agressie in het openbaar vervoer, het GVB Amsterdam plannen ingediend om de veiligheid in het openbaar vervoer te vergroten. De minister van Verkeer en Waterstaat is bereid Amsterdam toe te staan de kosten van enkele van deze maatregelen ter vergroting van de veiligheid en controle in de metro ten laste te laten brengen van het reeds eerder beschikbaar gestelde VlC-budget. Amsterdam is voorgesteld dit voor een periode van minimaal twee jaar te doen met de kosten van uitbreiding van het metro-controlepersoneel met 50 personen en de uitbreiding van het ondersteuningsteam voor de metro met 12 personen. </antwoord>
+      <antwoord nummer="5">Het openbaar ministerie te Amsterdam heeft te kennen gegeven het onderwerp, toegespitst op de vraag hoe de door drugsverslaafden veroorzaakte overlast te beperken zonder het risico te lopen daardoor eigenmachtig en onbevoegd optreden tegen deze verslaafden in </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="2">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19941995:0000465</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000465&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000465</item>
+         <item attribuut="Document-id">0000000465</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1994-1995 nummer 131</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Dijksma (PvdA) over illegale vuilstort.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1994-1995 nummer 131</item>
+         <item attribuut="Jaargang">1994_1995</item>
+         <item attribuut="Vraagnummer">131</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Dijksma</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-09-29</item>
+         <item attribuut="Beantwoorder">
+            <persoon>De Boer</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-10-28</item>
+         <item attribuut="Beginpagina">263</item>
+         <item attribuut="Eindpagina">264</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1994-1995" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="263" allpagenumbers="263" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1994-1995, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 • 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's-Gravenhage 1994"/>
+      <vraagdata vraagnummer="131" onderwerp="illegale vuilstort." indiendatum="1994-09-29">
+         <vrager partij="PvdA" oorsprong="parlement">Dijksma</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-10-28">
+         <antwoorder functie="minister" ministerie="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer">De Boer</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1" voetnoot="1">Hebt u kennis genomen <voetnoot nummer="1"/> van de toename van illegale vuilstort op terreinen van de Vereniging Natuurmonumenten? Is de bereikbaarheid van stortplaatsen voor particulieren toereikend? </vraag>
+      <vraag nummer="3">Bent u het eens met de constatering van de Vereniging Natuurmonumenten, dat het politietoezicht in het buitengebied afneemt en te wensen overlaat? Zo ja, welke stappen gaat u zetten om dit probleem te ondervangen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Van Nature, september 1994 en de Volkskrant, 28september 1994</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja. Voor het verwijderen van afvalstoffen door particulieren is het zich ontdoen van afvalstoffen op stortplatsen in het algemeen niet de geëigende weg. Voor zover het betreft het zich ontdoen van grove huishoudelijke afvalstoffen, zij verwezen naar de Wet Milieubeheer art. 10.11, zesde lid. Daarin is bepaald, dat elke gemeente zorg draagt voor het inzamelen van deze afvalstoffen en tevens op ten minste één dartoe ter beschikking gestelde plaats binnen de gemeente (bijvoorbeeld de gemeentewerf) in voldoende mate gelegenheid wordt geboden om deze afvalstoffen achter te laten. </antwoord>
+      <antwoord nummer="3" voetnoot="1">De organisatie van de veld– en milieupolitietaak is de verantwoordelijkheid van de minister van Binnenlandse Zaken. Daar waar andere instanties zoals bijvoorbeeld de Inspectie Milieuhygiëne op specifieke gevallen stuiten, zullen deze zaken oppakken. In twee brieven van 2 augustus 1994 <voetnoot nummer="1"/> hebben de ministers van Justitie a.i. en van Binnenlandse Zaken aan respectievelijk de voorzitter van de Tweede Kamer en aan de voorzitters van de vaste Commissies voor Binnenlandse Zaken en voor Justitie gemeld, dat zij de Kamer nog nader informeren over de stand van zaken per regio met betrekking tot de uitvoering van de vroegere veldpolitietaken. Uw vraag zal ongetwijfeld in bedoelde rapportage aan de Kamer aan de orde worden gesteld. De bestuurlijke handhaving van de groene regelgeving valt onder de verantwoordelijkheid van de minister van Landbouw, Natuurbeheer en Visserij. Voor de volledigheid zij vermeld dat de ministeries van Landbouw, Natuurbeheer en Visserij, Binnenlandse Zaken en Justitie bezig zijn met het opzetten van een gezamenlijk project «Versterking handhaving groene wetgeving». Aan de handhaving van de groene wetgeving zal ook door alle handhavingspartners gezamenlijk in de Landelijke coördinatiecommissie Milieuwethandhaving (LCCM) aandacht worden besteed. Daarnaast is er een onderwijsmodule «groene wetgeving» in de maak om het kennisniveau bij de politie op dit terrein te verhogen. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Kamerstuk 23 815, nr. 1</noot>
+      </noten>
+   </antwoorden>
+</kvr>

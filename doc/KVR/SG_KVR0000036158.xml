@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001751</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001751&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001751</item>
+         <item attribuut="Document-id">0000036158</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 827</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Groenman (D66) over de kwalificatie 'zigeuners' in politieregisters.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 827</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">827</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Groenman</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-05-30</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Dales</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-07-26</item>
+         <item attribuut="Beginpagina">1671</item>
+         <item attribuut="Eindpagina">1672</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1671" allpagenumbers="1671" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 • 7398" uitgever="SOU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="827" onderwerp="de kwalificatie 'zigeuners' in politieregisters." indiendatum="1990-05-30">
+         <vrager partij="D66" oorsprong="parlement">Groenman</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="26juli 1990">
+         <antwoorder functie="minister" ministerie="Binnenlandse Zaken">Dales</antwoorder>
+         <mede-antwoorder>de minister van Justitie</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1">Houdt het feit, dat de kwalificatie 'zigeuners' nog steeds niet verwijderd is uit de politieregisters verband met het nog niet van kracht zijn van de Wet Politieregisters? Zo ja, wilt u dit toelichten? </vraag>
+      <vraag nummer="2">Deelt u de mening, dat ongeacht een mogelijk verband met de Wet Politie– registers, de kwalificatie 'zigeuners' niet mag voorkomen in de zogenaamde herkenningsdienstfor– mulieren? Bent u bereid, ingevolge artikel 5 lid 2 van de Wet Politieregisters, bij Algemene Maatregel van Bestuur nadere regels te stellen orntrent opneming van personeelsgegevens die (onder meer) betrekking hebben op de aanduiding 'ras', nu registratie van persoonsgegevens wegens (onder meer) 'ras' slechts plaatsvindt in aanvulling op andere persoonsge– gevens en voor zover dit voor het doel van het register onvermijdelijk Bent u bereid een dergelijke concept-AMvB aan deze Kamer voor te leggen, zodat zij zich een oordeel kan vormen over de daarin vastge– legde regels, mede gelet op de betekenis van het begrip 'ras' en het begrip 'zigeuner'? Toelichting De vragen dienen ter aanvulling op de eerdere vragen ter zake van de leden Verspaget, Esselink, Wiebenga en Van Es, ingezonden 28 mei 1990. </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Er zijn geen landelijke politieregisters meer waarin de registratie van het begrip «zigeuner» nog mogelijk is. De Wet politieregisters zal tot gevolg hebben dat alle beheerders van politieregisters dienen te bezien of de inhoud van deze politieregisters in overeenstemming is met het bepaalde bij of krachtens deze wet. Voor wat betreft de opneming in een register van persoonsgegevens die betrekking hebben op onder meer het kenmerk «ras», is in de Wet politieregisters bepaald: a. dat registratie daarvan slechts mag plaatsvinden in aanvulling op andere persoonsgegevens en voor zover dat voor het doel van de regis– tratie onvermijdelijk is, en b. dat over bepalingen in een reglement omtrent opneming van dergelijke gegevens vooraf de Regis– tratiekamer dient te worden gehoord. </antwoord>
+      <antwoord nummer="2">Ja </antwoord>
+      <antwoord nummer="3">Ja </antwoord>
+      <antwoord nummer="4">De concept-AMvB is voor consultatie toegezonden aan de burgemeesters van gemeenten met gemeentepolitie, de Algemeen Inspecteur van het Korps Rijkspolitie, de Centrale Recherche Informatiedienst, het Coördinerend Politie Beraad, de Vereniging van Nederlandse Gemeenten en de vergadering van procureurs-generaal. Ik zend u hierbij een afschrift van de concept-AMvB. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"/>
+         <noot nummer="1"> Ter inzage gelegd op de bibliotheek</noot>
+      </noten>
+   </antwoorden>
+</kvr>

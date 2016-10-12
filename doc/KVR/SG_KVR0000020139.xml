@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001753</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001753&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001753</item>
+         <item attribuut="Document-id">0000020139</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 735</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Aarts en Smits (beiden CDA) over de uitbetaling van de Nederlands-Antilliaanse AOW aan Nederlandse AOW-gerechtigden.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 735</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">735</item>
+         <item attribuut="Indiener">
+            <persoon partij="beiden CDA">Aarts en Smits</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-05-18</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Hirsch-Ballin</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-07-21</item>
+         <item attribuut="Beginpagina">1533</item>
+         <item attribuut="Eindpagina">1534</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1533" allpagenumbers="1533 1534" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat s Gravenhage 1992"/>
+      <vraagdata vraagnummer="735" onderwerp="de uitbetaling van de Nederlands-Antilliaanse AOW aan Nederlandse AOW-gerechtigden." indiendatum="1992-05-18">
+         <vrager partij="beiden CDA" oorsprong="parlement">Aarts en Smits</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="21 juli 1992), zie ook Aanhangsel Handelingen nr. 635, Vergaderjaar 1991-1992.">
+         <antwoorder functie="minister" ministerie="Nederlands-Antilliaanse en Arubaanse Zaken">Hirsch-Ballin</antwoorder>
+         <mede-antwoorder>de staatssecretaris van Sociale Zaken en Werkgelegenheid</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Is het u bekend dat de uitbetaling van de Nederlands-Antilliaanse AOW aan Nederlandse AOW-gerechtigden reeds geruime tijd vertraging oploopt? </vraag>
+      <vraag nummer="2">Kunt u de oorzaken daarvan aangeven? </vraag>
+      <vraag nummer="3">Hoeveel Nederlanders, die destijds op de Nederlandse Antillen gewerkt hebben, hebben thans recht op een AOW-uitkering uit de Nederlandse Antillen? Kan de Sociale Verzekeringsbank te Amstelveen medewerking verlenen aan de AOW-uitbetaling door de Sociale Verzekeringsbank op de Nederlandse Antillen en zo ja, hoe? </vraag>
+      <vraag nummer="5"/>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19881989:0001645</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001645&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001645</item>
+         <item attribuut="Document-id">0000091244</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1988-1989 nummer 638</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Beckers-de Bruijn (P.P.R.) over het bestrijdingsmiddel Vertimec.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1988-1989 nummer 638</item>
+         <item attribuut="Jaargang">1988_1989</item>
+         <item attribuut="Vraagnummer">638</item>
+         <item attribuut="Indiener">
+            <persoon partij="PPR">Beckers-de Bruijn</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-06-01</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Braks</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-06-20</item>
+         <item attribuut="Beginpagina">1279</item>
+         <item attribuut="Eindpagina">1280</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 8 - 1 9 8 9 " typehandeling="" typedoc=""/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 8 - 1 9 8 9 , Aanhangsel " filenaam="" issn-nummer="ISSN 921 • 7398 " uitgever="SDU uitgeverij 's Gravenhage 1989 "/>
+      <vraagdata vraagnummer="638" onderwerp="het bestrijdings- middel Vertimec." indiendatum="1 juni 1989)">
+         <vrager partij="PPR" oorsprong="parlement">Beckers-de Bruijn</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 ">W o r d t op Nederlandse tuinbouwbe- drijven in de teelt van komkommers  onder glas het - voor deze teelt  verboden - bestrijdingsmiddel  Vertimec gebruikt?'  </vraag>
+      <vraag nummer="2 ">Op welke schaal gebeurt dit en in  welke mate komen resten van het  betreffende middel op komkommers  voor?  </vraag>
+      <vraag nummer="3 ">Welke schadelijke effecten heeft  gebruik van dit middel voor de  volksgezondheid? Welke schadelijke  effecten zijn er als het alleen in de  bloementeelt gebruikt wordt?  </vraag>
+      <vraag nummer="4 ">Op welke wijze is de Algemene  Inspectie Dienst dit onwettige  verbruik op het spoor gekomen? Is  dit pas gebeurd nadat de fabrikant  van het middel de AID ingelicht had?  Heeft de AID daarvoor geen controle  uitgeoefend op het gebruik van het  middel?  Welke maatregelen hebt u getroffen  teneinde een eind te maken aan deze  praktijk? Is er aanleiding ook het  gebruik van het middel in de teelt van  siergewassen te verbieden?  </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> TROS-aktua, 30 mei jl </noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="3 ">Abamectine is bij relatief hoge  doseringen in dierproeven teratogeen  (misvormingen veroorzakend bij de  ongeboren vrucht). Uitgaand van het  te verwachten residu-niveau is er,  ook rekening houdend met de  gebruikelijke veiligheidsfactor, geen  gevaar voor de volksgezondheid bij  normale consumptie van komkom- mers.  Het middel is toegelaten voor  toepassing in de sierteelt en bij  gebruik volgens de voorschriften is er  geen gevaar aanwezig voor de  toepasser en werkers in de kas.  De Algemene Inspectiedienst voert  op dit moment, met medewerking  van de fabrikant, een administratief  onderzoek uit, om na te gaan bij  welke telers via de handel Vertimec  terecht is gekomen. Op basis van  deze controle kunnen er aanwijzingen  worden gevonden voor gericht  onderzoek bij tuinders, op grond  waarvan verdere opsporing en  vervolging kan plaatsvinden.  In de teelt van siergewassen is er  wegens de afwezigheid van schade- lijke nevenwerkingen geen aanleiding  om het gebruik van Vertimec te  verbieden.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

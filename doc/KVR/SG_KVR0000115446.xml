@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19851986:0001886</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001886&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001886</item>
+         <item attribuut="Document-id">0000115446</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1985-1986 nummer 965</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Lankhorst (P.P.R.) over activiteiten van het observatieteam van de rijkspolitie.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1985-1986 nummer 965</item>
+         <item attribuut="Jaargang">1985_1986</item>
+         <item attribuut="Vraagnummer">965</item>
+         <item attribuut="Indiener">
+            <persoon partij="PPR">Lankhorst</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-02-27</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Korthals Altes</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-08-19</item>
+         <item attribuut="Beginpagina">1921</item>
+         <item attribuut="Eindpagina">1922</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1985-1986 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 5 - 1 9 8 6 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="965" onderwerp="activiteiten van het observatieteam van de rijkspolitie." indiendatum="27 februari 1986)">
+         <vrager partij="PPR" oorsprong="parlement">Lankhorst</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie="Justitie"/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1 ">Is het journaal van het observatieteam  van de rijkspolitie eerst na publicatie  in Bluf onder de aandacht van het  openbaar ministerie gekomen'?  </vraag>
+      <vraag nummer="2 ">Ten behoeve van wie worden deze  journaals bijgehouden en wie oefent  controle uit op de inhoud daarvan?  </vraag>
+      <vraag nummer="3 ">Waarom zijn door de leiding van het  korps rijkspolitie geen maatregelen  getroffen nadat het journaal door  leden van het observatieteam was  opgemaakt?  </vraag>
+      <vraag nummer="4 ">Kunt u aangeven waarom tegen de  leidinggevende officieren van het  korps rijkspolitie geen strafvervolging  kan worden ingesteld terwijl zij  tevoren op de hoogte waren van het  voornemen van de leden van het  observatieteam?  </vraag>
+      <vraag nummer="5 ">Zijn bij het gehouden onderzoek door  de rijksrecherche ook andere  journaals betrokken en zijn daarbij  nog niet bekend geworden feiten aan  het licht gekomen die bij het discipli- naire onderzoek een rol moeten  spelen?  </vraag>
+      <vraag nummer="6 ">Bent u bereid het resultaat van het  disciplinaire onderzoek openbaar te  maken?  </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Zie antwoord, 25 februari 1986 op  eerdere vragen van Lankhorst over de  diefstal van brieven bij Stad-radio Amsterdam  door de leden van het observatieteam van  het korps rijkspolitie (Aanhangsel nr. 473). </noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1 "/>
+      <antwoord nummer="3 ">De directe chefs van betrokkenen  hebben niet terstond de ernst van het  gebeurde onderkend.  </antwoord>
+      <antwoord nummer="5 ">Neen.  </antwoord>
+      <antwoord nummer="6 ">Het disciplinaire onderzoek heeft  ertoe geleid dat de Algemeen  Inspecteur van het Korps Rijkspolitie  alle betrokkenen in een behoorlijk  onderhoud nadrukkelijk heeft  gewezen op het laakbare van hun  wijze van handelen. Een en ander is  ook schriftelijk vastgelegd.  </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Zie ook Aanhangsel Handelingen, nr. 557. </noot>
+      </noten>
+   </antwoorden>
+</kvr>

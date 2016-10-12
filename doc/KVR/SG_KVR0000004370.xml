@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0001859</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001859&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001859</item>
+         <item attribuut="Document-id">0000004370</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 645</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Zijlstra (PvdA) over het vervalsen van waardevolle documenten.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 645</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">645</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Zijlstra</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-06-15</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Kosto</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-07-13</item>
+         <item attribuut="Beginpagina">1309</item>
+         <item attribuut="Eindpagina">1310</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1309" allpagenumbers="1309" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgeverij Plantijnstraat s Gravenhage 1994"/>
+      <vraagdata vraagnummer="645" onderwerp="het vervalsen van waardevolle documenten." indiendatum="15juni 1994) Kent u de uitspraken over de schade van ca. één miljard gulden per jaar als gevolg van het vervalsen van waardevolle documenten met name door het gebruik van kleurenkopieermachines? 1">
+         <vrager partij="PvdA" oorsprong="parlement">Zijlstra</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="13juli 1994">
+         <antwoorder functie="minister" ministerie="Justitie">Kosto</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="2">Kent u de omvang van dit probleem? </vraag>
+      <vraag nummer="3">Zijn ertechnieken beschikbaar, waardoor het vervalsen van waardevolle documenten bemoeilijkt kan worden? </vraag>
+      <vraag nummer="4">Op welke wijze kan bevorderd worden, dat aanbieders van waardevolle documenten preventieve maatregelen nemen tegen vervalsing? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1994-06-11" bron=" VARA " titel="Spijkers met koppen"> VARA «Spijkers met koppen», 11 juni 1994</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">De genoemde schade van 1 miljard gulden is gebaseerd op een schatting van mensen uit de wereld van de fraudebestrijding en het bankwezen. Er bestaat geen exact inzicht in de omvang van het probleem omdat er, behalve wanneer het vals geld betreft, geen centrale meldingsplicht bestaat. Dat het hier een serieus probleem betreft, lijdt echter geen twijfel. </antwoord>
+      <antwoord nummer="3">Ja. Er zijn verschillende technieken beschikbaar die het vervalsen van waardevolle documenten bemoeilijken. De in de nieuwe Nederlandse bankbiljetten aangebrachte echtheidskenmerken vormen daarvan een goed voorbeeld. Ook bij paspoorten, rijbewijzen, OV-studentenkaarten, cheques, effecten en vele andere documenten zijn maatregelen getroffen om vervalsing te bemoeilijken. Sommige beveiligingsmaatregelen zijn speciaal ontworpen om vervalsing door middel van kleurenkopieermachines tegen te gaan. Naast de hiervoor genoemde documenten zijn er echter ook vele waardevolle documenten die niet of onvoldoende beveiligd zijn. </antwoord>
+      <antwoord nummer="4">Instanties die documenten in omloop brengen zullen zelf beveiligings– maatregelen moeten treffen, waarbij met name private ondernemers een afweging zullen maken tussen de kosten van beveiliging enerzijds en de omvang van mogelijke schade anderzijds. Niet zelden wordt de noodzaak van toepassmg van beveiligingsmaatregelen pas erkend nadat van behoorlijke schade of omvangrijke vervalsing is gebleken. Voorlichting over de mogelijkheden tot het nemen van preventieve maatregelen tegen vervalsing levert een bijdrage aan de bewustwording van deze problematiek. Het onlangs verschenen boek «Sterke Papieren», waaraan door de divisie Centrale Recherche Informatie van het Korps landelijke politiediensten (divisie CRI/KLPD) is meegewerkt, beoogt een handleiding te zijn voor instanties die fraude met waardedocumenten willen voorkomen. Daarnaast geeft de divisie CRI/KLPD regelmatig adviezen aan met name overheidsinstanties over de wijze waarop fraudegevoeligheid van waardedocumenten kan worden beperkt. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

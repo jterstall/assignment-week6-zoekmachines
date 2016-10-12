@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Ja. " aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19851986:0000985</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0000985&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0000985</item>
+         <item attribuut="Document-id">0000114545</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1985-1986 nummer 67</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Franssen en Dijkstal (beiden V.V.D.) over schoolverzuim van leerpichtigen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1985-1986 nummer 67</item>
+         <item attribuut="Jaargang">1985_1986</item>
+         <item attribuut="Vraagnummer">67</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Franssen</persoon>
+            <persoon partij="VVD">Dijkstal</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1985-09-16</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Ginjaar-Maas</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1985-10-09</item>
+         <item attribuut="Beginpagina">135</item>
+         <item attribuut="Eindpagina">136</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1985-1986 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 5 - 1 9 8 6 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="67" onderwerp="schoolver- zuim van leerplichtigen." indiendatum="16 september 1985)">
+         <vrager partij="VVD" oorsprong="parlement">Franssen</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Dijkstal</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1 " voetnoot="1">Is het waar, dat in Amsterdam,  Rotterdam en Utrecht grote aantallen  leerplichtige leerlingen, variërend van  enkele honderden in Rotterdam tot  tweeduizend in Amsterdam, na de  grote vakantie niet in hun school zijn  teruggekeerd <voetnoot nummer="1"/>?  </vraag>
+      <vraag nummer="2 ">Is de indruk juist, dat het elk jaar om  grotere aantallen leerlingen gaat, die  na de grote vakantie niet op school  terugkeren? Speelt dit probleem  alleen in de grote steden?  </vraag>
+      <vraag nummer="3 ">Wilt u er op doen toezien dat de  betrokken gemeentebesturen alles in  het werk stellen om na te gaan waar  deze leerlingen zijn gebleven en er  voor zorgdragen dat deze leerlingen  weer op school terugkeren?  </vraag>
+      <vraag nummer="4 " voetnoot="1">Wilt u deze Kamer op de hoogte  stellen van de resultaten ter zake?  <voetnoot nummer="1"/> Zie het Utrechts Nieuwsblad van 30 augustus  Antwoord  Antwoord van Staatssecretaris  Ginjaar-Maas (Onderwijs en Weten- schappen). (Ontvangen 9 oktober  i  Volgens informatie ons door de  desbetreffende gemeenten verstrekt  is het juist dat in Amsterdam en  Rotterdam grote aantallen leerlingen  na de grote vakantie nog niet in hun  school waren teruggekeerd.  </vraag>
+      <vraag nummer="2 ">Exacte gegevens konden door de  betreffende gemeenten thans nog niet  worden geleverd omdat men nog  doende is de beschikbare gegevens te  verwerken. Voor zover men thans  over gegevens beschikt, blijkt het dat  het in het merendeel van de gevallen  gaat om buitenlandse leerlingen.  Ongeveer driekwart van de geconsta- teerde verzuimgevallen blijkt zich in  de sector primair onderwijs voor te  doen. Bij navraag bij een tiental  gemeenten van verschillende omvang  bleek dat het probleem zich met name  in de grote steden lijkt voor te doen.  </vraag>
+      <vraag nummer="3 ">Het toezicht op de uitvoering van bij  de wet aan de gemeente opgedragen  taken berust bij de provincie. Het is  mij overigens bekend dat de grote  steden veel moeite doen om het  verschijnsel terug te dringen, maar  daarbij op de nodige problemen  stuiten. Het periodiek overleg met de  4 grote steden stelt mij in staat om de  bestaande problemen en eventuele  oplossingen te bespreken.  </vraag>
+      <vraag nummer="4 "/>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

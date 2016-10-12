@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19881989:0001835</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001835&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001835</item>
+         <item attribuut="Document-id">0000091434</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1988-1989 nummer 826</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Tommel, Eisma en Wolffensperger (allen D66) over het dumpen van autowrakken door Oosteuropese zeelieden.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1988-1989 nummer 826</item>
+         <item attribuut="Jaargang">1988_1989</item>
+         <item attribuut="Vraagnummer">826</item>
+         <item attribuut="Indiener">
+            <persoon>Tommel</persoon>
+            <persoon>Eisma</persoon>
+            <persoon>Wolffensperger</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-08-22</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Smit-Kroes</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-08-28</item>
+         <item attribuut="Beginpagina">1653</item>
+         <item attribuut="Eindpagina">1654</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 8 - 1 9 8 9 " typehandeling="" typedoc=""/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 8 - 1 9 8 9 ,  A a n h a n g s e l " filenaam="" issn-nummer="ISSN 921 7398 " uitgever="SDU uitgeverij 's Gravenhage 1989 "/>
+      <vraagdata vraagnummer="826" onderwerp="het dumpen van autowrakken door Oosteuropese zeelieden." indiendatum="22 augustus 1989)">
+         <vrager partij="" oorsprong="parlement">Tommel</vrager>
+         <vrager partij="" oorsprong="parlement">Eisma</vrager>
+         <vrager partij="" oorsprong="parlement">Wolffensperger</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="28 augustus 1989).">
+         <antwoorder functie="" ministerie="Verkeer en Waterstaat"/>
+         <mede-antwoorder>de minister van Buitenlandse Zaken</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1 ">Hoelang is het reeds bekend, dat  Oosteuropese zeelieden in ons land  en in andere Westeuropese landen  oude auto's kopen, hieruit de  waardevolle onderdelen verwijderen  en de resterende wrakken in zee  gooien? </vraag>
+      <vraag nummer="1 "/>
+      <vraag nummer="2 ">Deelt u de opvatting, dat dit vanuit  milieuhygiënisch oogpunt ontoe- laatbaar is?  Bent u bereid, bij voorkeur met de  andere Noordzee-staten, er bij de  regeringen van de desbetreffende  Oosteuropese landen op aan te  dringen, dat deze praktijken ten  spoedigste worden beëindigd?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1 ">Ik heb kennis genomen van de  artikelen in het «Nieuwsblad van het  Noorden» van 16, 17, 1 9 en 21  augustus 1989. Mij is niets bekend  over het storten van autowrakken in  zee, zoals u in uw vraag aanroert.  2 / 3  Via de Kustwacht heb ik inmiddels  aktie genomen  o m na te gaan  w a t  hiervan waar is. Mocht blijken, dat  (delen van) wagens inderdaad in zee  worden gestort, dan ben ik  voornemens terstond in het kader  van de London Dumping Convention  en met de vlaggestafa)t(en) van de  betrokken schepen aktie te onder- nemen om deze praktijk te stoppen.  (NB: Zowel de DDR, Polen als de  USSR zijn partij bij de London  Dumping Convention).  </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1">  N i e u w s b l a d  v a n het  N o o r d e n  v a n 16  a u g u s t u s jl </noot>
+      </noten>
+   </antwoorden>
+</kvr>

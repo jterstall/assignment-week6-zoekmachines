@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19871988:0001206</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001206&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001206</item>
+         <item attribuut="Document-id">0000098920</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1987-1988 nummer 267</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid De Pree (P.v.d.A.) over het woningwaarderingsstelsel.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1987-1988 nummer 267</item>
+         <item attribuut="Jaargang">1987_1988</item>
+         <item attribuut="Vraagnummer">267</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">De Pree</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-12-17</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Heerma</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1988-01-14</item>
+         <item attribuut="Beginpagina">533</item>
+         <item attribuut="Eindpagina">534</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1987-1988 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 7 - 1 9 8 8 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="267" onderwerp="het woningwaarderingsstelsel." indiendatum="17 december 1987)">
+         <vrager partij="PvdA" oorsprong="parlement">De Pree</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="14 januari 1988)">
+         <antwoorder functie="staatssecretaris" ministerie="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer">H e e r m a</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1 ">W o r d t in het woningwaarderingsstel- sel er vanuit gegaan, dat een woning  ten minste  4 0 kwaliteitspunten heeft?  </vraag>
+      <vraag nummer="2 ">Zo ja, waarom?  </vraag>
+      <vraag nummer="3 ">Komt het voor, dat er in bepaalde  gemeenten woningen zijn met een  lager aantal punten?  </vraag>
+      <vraag nummer="4 ">Biedt het feit, dat vanaf 1 juli 1986 in  de systematiek van de woningwaar- dering niet meer met een schijvenstel- sel, maar met een lineair stelsel  wordt gewerkt, aanleiding tot  aanpassing?  </vraag>
+      <vraag nummer="5 ">Zo ja, bent u bereid het  m i n i m u m - p u n - ten-aantal in de tabel overeenkomstig  de werkelijkheid naar beneden bij te  stellen, zodat de voor die woningen  geldende huurprijs lager kan worden  vastgesteld?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1 ">Ja.  Om een verantwoorde exploitatie  mogelijk te maken, is een minimale  huur noodzakelijk om de exploitatiekos- ten (onderhoud, beheer, belasting,  verzekering, huurderving, etc.) te  kunnen dekken. De minimaal redelijke  huur bij 40 punten is per 1 juli 1987  f 120,40 per maand.  </antwoord>
+      <antwoord nummer="3 ">Ja. Het betreft echter een zeer beperkt  aantal zelfstandige woonruimten.  </antwoord>
+      <antwoord nummer="4 ">Neen. De belangrijkste wijziging per 1  juli 1986 op dit punt is dat - gelet op  het onder punt 2 gestelde - ook voor  woningen met minder dan 40 punten  huurharmonisatie moet c.q. kan worden  toegepast, onder de voorwaarde dat er  geen gebreken of onderhoudstekortko- mingen in de woning aanwezig zijn.  Zodra een huur is bereikt van f 120,40  in de maand, behoeft de harmonisatie  niet meer.  Gelet op de hierboven geschetste  overwegingen zie ik geen aanleiding  het huuraanpassingsstelsel op dit punt  te wijzigen.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

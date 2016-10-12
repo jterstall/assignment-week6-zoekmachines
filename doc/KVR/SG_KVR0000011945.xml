@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001641</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001641&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001641</item>
+         <item attribuut="Document-id">0000011945</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 711</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Te Veldhuis (VVD) over de bouwlokatie Vleuten.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 711</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">711</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Te Veldhuis</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-06-17</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Alders</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-07-02</item>
+         <item attribuut="Beginpagina">1451</item>
+         <item attribuut="Eindpagina">1452</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1451" allpagenumbers="1451" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="711" onderwerp="de bouwlokatie Vleuten." indiendatum="17juni 1993">
+         <vrager partij="VVD" oorsprong="parlement">Te Veldhuis</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-07-2">
+         <antwoorder functie="minister" ministerie="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer">Alders</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Kent u het recente bericht' dat de voorzitter van de PvdA-fractie in de gemeenteraad van Vleuten-De Meern heeft beweerd, dat de plannen voor een nieuwe stad in het Vleutense kassengebied dreigen stuk te lopen op een financieel tekort van tenminste twee miljard gulden en dat hij zijn informatie zegt te hebben uit zeer betrouwbare bronnen in Den Haag? </vraag>
+      <vraag nummer="2" voetnoot="2">Ontstaan er enorme kosten vour infrastructuur, milieu-eisen, en (bodem-)sanering van het kassengebied? Maken de eisen van geluidhinder het gebruik van veel bouwplaatsen onmogelijk, waardoor de bouwlokatie Vleuten onhaalbaar is? <voetnoot nummer="2"/>Is een voor 21 juni a.s. gepland bestuurlijk overleg tussen kabinetsleden en het Regionaal Beraad Utrecht mede om deze reden afgezegd? </vraag>
+      <vraag nummer="4">Is het in vraag 1 genoemde tekort van tenminste twee miljard gulden in die orde van grootte min of meer juist? Komt dit tekort al dan niet overeen met de geschatte cijfers en getallen in een recente Interim-rapportage Uitvoeringsconvenant VINEX voor het stadsgewest Utrecht? Zo neen, hoe ziet het financiële plaatje er dan wel uit? </vraag>
+      <vraag nummer="5">Hoe staat het met de opstelling en ondertekening van de uitvoeringsconvenanten inzake de overige VINEX-lokaties in andere stedelijke knooppunten? Hoe zien de financiële plaatjes er daar uit? Hoe verhouden deze zich tot de bedragen die zijn vermeld bij de behandeling van de VINEX in de Tweede Kamer? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="3"/>
+         <noot nummer="1" datum="1993-06-6" bron=" Zie Utrechts Nieuwsblad van 1"> Zie Utrechts Nieuwsblad van 1, 6 juni 1993</noot>
+         <noot nummer="2"> Mededeling CDA-wethouder Melcherts te Vleuten</noot>
+         <noot nummer="3" datum="1993-04-10" bron=" Zulks mede gezien de mededelingen in een artikel in de Haagsche Courant"> Zulks mede gezien de mededelingen in een artikel in de Haagsche Courant, 10 april 1993</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja. Het Regionaal Beraad Utrecht (RBU) onderzoekt momenteel in overleg met rijk en provincie Utrecht de uitvoerbaarheid van de VINEX-afspraken, waarover in maart 1993 een startconvenant is afgesloten. Dat heeft - gezien de korte voorbereidingstijd - nog niet kunnen leiden tot een helder beeld van de uitvoeringskosten. Op grond van zeer globale aannames zijn in ambtelijke concepten van het RBU wel - ongetoetste - getallen genoemd, maar deze bleken niet geschikt als basis voor bestuurlijk overleg. Op rijksniveau worden thans geen berekeningen uitgevoerd over de uitvoerbaarheid van de bouwlocatie Vleuten - de Meern. Ook met betrekking tot de geluidhinder moet nog veel uitgezocht worden. Op voorhand kan echter reeds gesteld worden dat de locatie Vleuten de Meern niet onhaalbaar is als gevolg van eisen met betrekking tot de geluidhinder. </antwoord>
+      <antwoord nummer="3">Nee. Het RBU was van mening, dat haar voorbereidingen nog niet ver genoeg gevorderd was om een zinvol overleg te kunnen voeren. </antwoord>
+      <antwoord nummer="4">Op dit moment kan geen antwoord gegeven worden op vragen over de geraamde kosten van de uitvoering van de bouwlokatie Vleuten - de Meern. De uitvoerbaarheidsstudies van het RBU moeten daarvoor afgewacht worden. Over de uitvoeringscontracten met de overige drie grote steden vindt momenteel intensief bestuurlijk overleg plaats, dat erop gericht is om rond de zomer bestuurlijke overeenstemming te bereiken over de hoofdlijnen, waarna de uitvoeringscontracten mogelijk voor de jaarwisseling kunnen worden getekend. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

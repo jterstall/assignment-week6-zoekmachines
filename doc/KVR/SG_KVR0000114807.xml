@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19851986:0001247</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001247&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001247</item>
+         <item attribuut="Document-id">0000114807</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1985-1986 nummer 327</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Jabaaij, Buurmeijer en Knol (allen P.v.d.A.) over discriminatie naar huidskleur bij een uitzendbureau.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1985-1986 nummer 327</item>
+         <item attribuut="Jaargang">1985_1986</item>
+         <item attribuut="Vraagnummer">327</item>
+         <item attribuut="Indiener">
+            <persoon>Jabaaij</persoon>
+            <persoon>Buurmeijer</persoon>
+            <persoon>Knol</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1985-12-16</item>
+         <item attribuut="Beantwoorder">
+            <persoon>De Koning</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-01-06</item>
+         <item attribuut="Beginpagina">643</item>
+         <item attribuut="Eindpagina">644</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1985-1986 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 5 - 1 9 8 6 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="327" onderwerp="discriminatie naar huidskleur bij een uitzendbureau." indiendatum="16 december 1985)">
+         <vrager partij="" oorsprong="parlement">Jabaaij</vrager>
+         <vrager partij="" oorsprong="parlement">Buurmeijer</vrager>
+         <vrager partij="" oorsprong="parlement">Knol</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="6 januari 1986)">
+         <antwoorder functie="minister" ministerie="minister van Sociale Zaken en Werkgelegenheid">De Koning</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1 ">Heeft de minister kennis genomen  ^an het bericht in de «Volkskrant»  i/an 12 december, dat aantekeningen  als «donkere huidskleur» voorkomen  ap inschrijfkaarten van uitzendkrach- :en bij het uitzendbureau Multiplan?  </vraag>
+      <vraag nummer="2 ">Herinnert de bewindsman zich het  schriftelijke antwoord' van 12  november op een mondelinge vraag:  &lt;Van de Algemene Bond Uitzendbu- eaus (ABU) heb ik inmiddels  /ernomen dat geen geval bekend is,  dat een uitzendbureau een voorkeur  /an een werkgever voor een«blanke»  }f een «anders gekleurde» werknemer  :ou registreren en daarop zou  selecteren. Mede gelet op het feit  Jat een dergelijke handelwijze door  liet bij de ABU aangesloten uitzend- bureaus mij evenmin bekend is,  neen ik dat er vooralsnog geen  lanleiding is om nadere stappen ter  zake te ondernemen.»?  /Velke stappen neemt de minister  ïaar aanleiding van de in vraag 1  vermelde situatie?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1 ">Ja.  </antwoord>
+      <antwoord nummer="2 ">Ja.  </antwoord>
+      <antwoord nummer="3 ">Mij is bekend dat de zaak in kwestie  het Openbaar Ministerie aanleiding  heeft gegeven strafvervolging tegen  het bewuste uitzendbureau in te  stellen. Los daarvan heb ik de  loontechnische Dienst (LTD) verzocht  informatie over deze zaak te verzame- len. Tevens heb ik mij tot de ABU  gewend met een brief, waarin ik  constateer dat de ABU kennelijk  onvoldoende op de hoogte is van de  gedragingen van de bij deze bond  aangesloten uitzendbureaus in de  praktijk. De geconstateerde leemte in  informatie bij de grootste organisatie  van uitzendbureaus betreur ik in  sterke mate.  Aan de ABU heb ik een reactie  hierop gevraagd. Wanneer nieuwe  relevante gegevens voorhanden zijn  zal ik u nader informeren.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

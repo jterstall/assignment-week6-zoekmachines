@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19931994:0001343</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001343&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001343</item>
+         <item attribuut="Document-id">0000003854</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 129</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Ybema (D66) over een fiscale constructie voor directeuren met een eigen BV.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 129</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">129</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Ybema</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-10-22</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van Amelsvoort</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-11-16</item>
+         <item attribuut="Beginpagina">261</item>
+         <item attribuut="Eindpagina">262</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="261" allpagenumbers="261" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverii Plantijnslraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="129" onderwerp="een fiscale constructie voor directeuren met een eigen BV." indiendatum="1993-10-22">
+         <vrager partij="D66" oorsprong="parlement">Ybema</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-11-16">
+         <antwoorder functie="staatssecretaris" ministerie="Financiën">Van Amelsvoort</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Herinnert u zich mijn eerdere vragen over de bestrijding van een fiscale constructie voor directeuren met een eigen BV, die bekend staat als de reserve uitgestelde salaris constructie (RUS)? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Wilt u deze vragen nu zo spoedig mogelijk beantwoorden? </vraag>
+      <vraag nummer="3">Kunt u daarbij ook aangeven hoe u deze constructie denkt te gaan bestrijden? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Aanhangsel Handelingen nr. 76, Vergaderjaar 1992-1993</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2 en 3" voetnoot="1">Zoals ik in de toelichting bij de tweede nota van wijziging op het voorstel van wet tot wijziging van de Wet op de vermogensbelasting 1964 (verhoging van de ondernemingsvrijstelling en wijziging van de teruggaafregelmg inzake beperking van de gezamenlijke druk van inkomstenbelasting en vermogensbelasting <voetnoot nummer="1"/> heb uiteengezet, sluit ik niet uit dat het tegengaan van onbedoeld gebruik van de zogenaamde samenloopregeling in de vermogensbelasting op meer doeltreffende wijze zou kunnen worden bereikt door een maatregel die erop is gericht een einde te maken aan de fiscale voordelen die een directeur-grootaandeelhouder kan behalen indien hij de voor zijn werkzaamheden in de eigen vennootschap te verkrijgen beloning niet aanstonds incasseert, maar in die vennootschap reserveert. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Kamerstuk 21 882, nr. 8</noot>
+      </noten>
+   </antwoorden>
+</kvr>

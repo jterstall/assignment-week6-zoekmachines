@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="2">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Scheltema-de Nie en Dittrich (beiden D66) aan de ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Justitie over opleidingsplaatsen op politiescholen. (Ingezonden 22 april 2002); Antwoord</item>
+         <item attribuut="Bestand">13Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR15699
+</item>
+         <item attribuut="Inhoud">Vragen over het gebrek aan opleidingsplaatsen op politiescholen en hoe dit zich verhoudt met de inspanningen om meer politiepersoneel aan te trekken. Deze vragen dienen ter aanvulling op eerdere vragen ter zake van Tweede-Kamerlid Rietkerk, ingezonden 22 april 2002.</item>
+         <item attribuut="Rubriek">Criminaliteit en openbare orde (Politie)</item>
+         <item attribuut="Trefwoorden">Politieonderwijs</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2001-2002, nr. 1176, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2010209480</item>
+         <item attribuut="Afkomstig_van">Binnenlandse Zaken en Koninkrijksrelaties (BZK) Justitie (JUS)</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Scheltema-de Nie</persoon>
+            <persoon partij="D66">Dittrich</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2002-05-27</item>
+         <item attribuut="Datum_indiening">2002-04-22</item>
+         <item attribuut="Document-id">KVR15699</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2001–2002" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="2485" allpagenumbers="2485" vetnummer="2010209480" code="" lopendefooter="Tweede Kamer, vergaderjaar 2001–2002, Aanhangsel" filenaam="KVR15699" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2002"/>
+      <vraagdata vraagnummer="1176" onderwerp="" indiendatum="2002-04-22">
+         <vrager partij="D66" oorsprong="parlement">Scheltema-de Nie</vrager>
+         <vrager partij="D66" oorsprong="parlement">Dittrich</vrager>
+         <vraagt-aan>de ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Justitie</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2002-05-27">
+         <antwoorder functie="minister" ministerie="Binnenlandse Zaken en Koninkrijksrelaties">De Vries</antwoorder>
+         <mede-antwoorder>de minister van Justitie</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1">Hoe verhoudt het gebrek aan opleidingsplaatsen op politiescholen zich tot de inspanningen om, bijvoorbeeld met de campagne Waar jij voor staat is nodig op straat, meer politiepersoneel aan te trekken? </vraag>
+      <vraag nummer="2">Bent u het met de stelling eens dat op deze manier veel potentieel waardevol personeel voor de politieorganisatie verloren gaat? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="2002-04-18" bron="Metro">Metro, 18 april 2002</noot>
+      </noten>
+   </vragen>
+   <toelichting>Deze vragen dienen ter aanvulling op eerdere vragen ter zake van het lid Rietkerk, ingezonden 22 april 2002. </toelichting>
+   <antwoorden aantal="2">
+      <antwoord nummer="1" voetnoot="1">Er is geen gebrek aan opleidingsplaatsen bij het LSOP, zoals ook blijkt uit de antwoorden op de vragen van het lid Rietkerk. <voetnoot nummer="1"/>De wervingscampagne vindt dan ook gewoon doorgang. </antwoord>
+      <antwoord nummer="2">Het gestelde is niet aan de orde. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1" documenttype="Kamervragen" documentnummer="1175" documentjaargang="2001-2002">Aanhangsel Handelingen, nr. 1175, vergaderjaar 2001–2002.</noot>
+      </noten>
+   </antwoorden>
+</kvr>

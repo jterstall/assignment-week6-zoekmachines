@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19851986:0001841</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001841&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001841</item>
+         <item attribuut="Document-id">0000115401</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1985-1986 nummer 920</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Lankhorst (P.P.R.) over het milieujaar 1987en een Europese campagne voor het platteland.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1985-1986 nummer 920</item>
+         <item attribuut="Jaargang">1985_1986</item>
+         <item attribuut="Vraagnummer">920</item>
+         <item attribuut="Indiener">
+            <persoon partij="PPR">Lankhorst</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-04-23</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Nijpels</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-07-21</item>
+         <item attribuut="Beginpagina">1827</item>
+         <item attribuut="Eindpagina">1828</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1985-1986 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 5 - 1 9 8 6 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="920" onderwerp="het milieujaar 1987en een Europese campagne voor het platteland." indiendatum="23 april 1986)">
+         <vrager partij="PPR" oorsprong="parlement">Lankhorst</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="21 juli 1986)">
+         <antwoorder functie="minister" ministerie="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer">Nijpels</antwoorder>
+         <mede-antwoorder>de minister van Landbouw en Visserij</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 ">Hoe beoordeelt u het feit, dat 1987  door de Europese Gemeenschap tot  milieujaar is uitgeroepen en dat de  Raad van Europa in 1987 en 1988  een Europese campagne voor het  platteland wil voeren?  </vraag>
+      <vraag nummer="2 ">Hebt u gepoogd deze beide initiatieven  zowel inhoudelijk als organisatorisch  met elkaar in verbinding te brengen?  </vraag>
+      <vraag nummer="3 ">Zo neen, bent u dan bereid ervoor te  pleiten, dat in die landen, die tot  beide gemeenschappen behoren, in  1987 op geïntegreerde wijze  aandacht aan het milieu en het  platteland wordt besteed?  </vraag>
+      <vraag nummer="4 ">Hoe denkt u deze samenhang in  eigen land gestalte te geven (werk- gelegenheid jonge boeren, zure  regen, mestoverschotten)?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1 ">Tijdens de bijeenkomst van de  Europese Raad (12 lidstaten) op 29  en 30 maart 1985 hebben de  Staatshoofden en Regeringsleiders  van de lid-staten van de Europese  Gemeenschap de periode maart  1987 tot maart 1988 uitgeroepen tot  het Europees Jaar van het Milieu.  Het Comité van Ministers van de  Raad van Europa (21 lidstaten) heeft  in december 1985 besloten om in de  periode juni 1987 tot eind 1988 een  Europese Campagne voor het  Landelijk Gebied te voeren.  Het onder de publieke aandacht  brengen van het milieu door de E.G.  en van het Landelijk Gebied door de  Raad van Europa achten wij op zich  nuttig.  2, 3 en 4  De doelstelling van het Jaar van het  Milieu is om de Europese burger  meer bewust te maken van het  (Europese) milieubeleid.  De doelstelling van de Campagne  voor het Landelijk Gebied is om een  geïntegreerde ontwikkeling van het  Landelijk Gebied onder de aandacht  te brengen. Gezien de duidelijke  verschillen in doelstelling zou het niet  juist zijn beide akties te laten  samenvallen. Uiteraard zal waar  mogelijk en wenselijk zowel internati- onaal als nationaal afstemming  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

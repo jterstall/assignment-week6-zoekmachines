@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="antwoord." aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19931994:0001491</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001491&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001491</item>
+         <item attribuut="Document-id">0000004002</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 277</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Apostolou (PvdA) en Soutendijk-van Appeldoorn (CDA) over ex-Joegoslaven met een vergunning tot het blijf met een vestigingsvergunning.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 277</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">277</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Apostolou</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-12-23</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Kooijmans</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-01-24</item>
+         <item attribuut="Beginpagina">561</item>
+         <item attribuut="Eindpagina">562</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="561" allpagenumbers="561" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's-Gravenhage 1994"/>
+      <vraagdata vraagnummer="277" onderwerp="ex-Joegoslaven met een vergunning tot het blijf met een vestigingsvergunning." indiendatum="1993-12-23">
+         <vrager partij="PvdA" oorsprong="parlement">Apostolou</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1">Worden ex-Joegoslaven, houders van een vergunning tot verblijf voor onbepaalde duur en houders van een vergunning tot vestiging door de Nederlandse Ambassade in belgrado, ook voorzien van een Nederlands Toeristenvisum om doorreis naar Nederland mogelijk te maken? Zo ja, wat is de achterliggende beleidslijn op grond waarvan de Nederlandse vertegenwoordiging in Belgrado handelt? Is het waar, dat de Oostenrijkse en Duitse ambassades in Belgrado een aan ex-joegoslaven door de Nederlandse overheid verleende vergunning tot verblijf tot een vergunning tot vestiging niet accepteren als verblijfstitel en voor een doorreisvisum eerst een toeristenvisum voor Nederland verlangen? Waarom verleent de Nederlandse ambassade medewerking aan dit, ongerechtvaardigd verlangen van Oostenrijk en Duitsland? Heeft het aan ex-Joegoslaven met een vergunning tot verblijf of met een vestigingsvergunning verleende visum gevolgen voor de verblijfsstatus van deze vreemdelingen? </vraag>
+      <vraag nummer="4">Wilt u stappen ondernemen bij uw Duitse en Oostenrijkse ambtsgenoten om deze praktijk te doen beëindigen? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+   <mededeling mededeler="Kooijmans" functie="minister" afdeling="Buitenlandse Zaken" mededelingdatum="1994-01-24">Mededeling van minister Kooijmans (Buitenlandse Zaken), mede namens de minister van Justitie. (Ontvangen 24 januari 1994) Met verwijzing naar het schrijven van de Griffier Uwer Kamer, 24 december 1993, waarbij mij toegingen de door de leden Uwer Kamer Apostolou en Soutendijk-van Appeldoorn overeenkomstig artikel 121 van het Reglement van Orde ingediende vragen, moge ik mede namens de Minister van Justitie te Uwer kennis brengen, dat wij nog niet beschikken over alle voor beantwoording van de vragen benodigde gegevens. Het ligt in ons voornemen, U op zo kort mogelijke termijn in het bezit te stellen van ons </mededeling>
+</kvr>

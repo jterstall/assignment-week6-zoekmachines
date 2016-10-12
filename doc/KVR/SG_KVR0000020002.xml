@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001616</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001616&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001616</item>
+         <item attribuut="Document-id">0000020002</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 598</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Verspaget (PvdA) over de voedselsituatie in Afrika.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 598</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">598</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Verspaget</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-04-23</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Pronk</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-05-19</item>
+         <item attribuut="Beginpagina">1257</item>
+         <item attribuut="Eindpagina">1258</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1257" allpagenumbers="1257" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstra.it s Gravenhage 1992"/>
+      <vraagdata vraagnummer="598" onderwerp="de voedselsituatie in Afrika." indiendatum="1992-04-23">
+         <vrager partij="PvdA" oorsprong="parlement">Verspaget</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-05-19">
+         <antwoorder functie="minister" ministerie="Ontwikkelingssamenwerking">Pronk</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1">Herinnert u zich de eerdere vragen van leden van nagenoeg alle frakties uit deze Kamer over de voedselsituatie in Afrika?' </vraag>
+      <vraag nummer="2">Is het u bekend, dat ondanks de extra toezeggingen voor voedselhulp van de EG aan Ethiopië thans ruim een kwart van de volgens het World Food Program (WFP) noodzakelijke voedselhulp van 1 miljoen ton nog niet is toegezegd en dat bovendien vertragingen optreden bij de leverantie van het voedsel? </vraag>
+      <vraag nummer="3" voetnoot="2">Bent u ervan op de hoogte, dat volgens een recent rapport van de universiteit van Leeds <voetnoot nummer="2"/> in Eritrea sprake is van een zeer kritieke voedselsituatie door misoogst, gebrek aan regenval en de terugkeer van vluchtelingen uit omliggende landen? Weet u, dat voor dit jaar 450.000 ton voedsel voor Eritrea, waar 80% van de bevolking afhankelijk is van voedselhulp, noodzakelijk is, terwijl er nauwelijks toezeggingen zijn gedaan? </vraag>
+      <vraag nummer="4">Heeft de internationale donorgemeenschap slechts 1,5 miljoen dollar toegezegd voor hulp bij de terugkeer van 250.000 Eritrese vluchtelingen uit Soedan, terwijl volgens UNHCR tenmiste een bedrag van 18 miljoen dollar benodigd is, om enige begeleiding bij de terugkeer te kunnen bieden? Welk bedrag is door Nederland, respektievelijk door de EG toegezegd? </vraag>
+      <vraag nummer="5">Bent u bereid op de kortst mogelijke termijn bilateraal voedselhulp en hulp voor terugkerende vluchtelingen te verschaffen aan Eritrea? Wilt u bevorderen, dat de EG, zo mogelijk reeds voor de ontwikkelingsraad van 4 mei, toezeggingen doet voor (extra) voedselhulp voor Eritrea en Ethiopië en voor hulp bij de terugkeer van vluchtelingen naar Eritrea? </vraag>
+      <vraag nummer="6">Wilt u eveneens bevorderen, dat toegezegde voedselhulp op de kortst mogelijke termijn wordt vervoerd naar beide landen, zodat niet door ongewenste vertragingen velen de hongerdood sterven? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1992-04-1" bron=" Ingezonden"> Ingezonden, 1 april 1992</noot>
+         <noot nummer="2"> Project Food Aid Requirements, Eritrea 1991-1992 Centre for Development Studies, University of Leeds, februari 1992</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1">Ik moge U in dit verband verwijzen naar het Aanhangsel van de Handelingen, nr. 555. </antwoord>
+      <antwoord nummer="2">Ja, ik heb dit inmiddels uit de rapporten van het Wereldvoedsel Programma begrepen. </antwoord>
+      <antwoord nummer="3">Uit rapportage van VN-agencies blijkt duidelijk de ernst van het probleem als in de vraag geschetst. Het rapport van de Universiteit van Leeds is door mij opgevraagd </antwoord>
+      <antwoord nummer="4">De toezeggingen van de internationale donorgemeenschap zijn inderdaad voorshands ruimschoots ontoereikend om de gestelde doelen te realiseren. Nederland heeft inmiddels f 1 miljoen toegezegd ten behoeve van deze vluchtelingen. De EG heeft reeds in totaal 66.000 ton graan en 15.000 ton andere produkten voor Eritrea toegezegd ten behoeve van de door honger bedreigde bevolking aldaar. Daarvan zullen ook de terugkerende vluchtelingen kunnen profiteren. </antwoord>
+      <antwoord nummer="5">Recentelijk werd dezerzijds fl. 6 miljoen aan WFP toegezegd voor noodhulp en logistieke ondersteuning voor Ethiopië en Eritrea. Bovendien werd f 1,1 miljoen aan FAO beschikbaar gesteld voor kleinschalige irrigatie in Eritrea, waarvan ook terugkerenden kunnen profiteren. Daarnaast zal gedurende de komende maanden via NGO's voedselhulp worden geboden </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

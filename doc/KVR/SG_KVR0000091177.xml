@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="vragen. " aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19881989:0001578</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001578&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001578</item>
+         <item attribuut="Document-id">0000091177</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1988-1989 nummer 573</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van Es (P.S.P.) over de uitzetting van een Syrische vluchteling.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1988-1989 nummer 573</item>
+         <item attribuut="Jaargang">1988_1989</item>
+         <item attribuut="Vraagnummer">573</item>
+         <item attribuut="Indiener">
+            <persoon partij="PSP">Van Es</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-04-10</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Korte Van Hemel</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-05-24</item>
+         <item attribuut="Beginpagina">1149</item>
+         <item attribuut="Eindpagina">1150</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 8 - 1 9 8 9 " typehandeling="" typedoc=""/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 8 - 1 9 8 9 ,  A a n h a n g s e l " filenaam="" issn-nummer="ISSN 0921 • 7398 " uitgever="SDU uitgeverij 's-Gravenhage 1989 "/>
+      <vraagdata vraagnummer="573" onderwerp="de uitzetting van een Syrische vluchteling." indiendatum="10 april 1989)">
+         <vrager partij="PSP" oorsprong="parlement">Van Es</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1 ">Is een opsporingsbevel ten aanzien  van de Syrische vluchteling Z.E.  uitgevaardigd op grond van betrekkin- gen met de ADO? Zo ja, vindt u dat  dit gezien moet worden als politiek  tegenstanderschap van het bewind?  </vraag>
+      <vraag nummer="2 " voetnoot="2 3">Neemt u de uitzetting van en de  gevolgen voor betrokkene voor uw  verantwoording, mede gezien de  uitspraken van de Nederlandse  ambassadeur in Syrië, de heer  Neihuyzen, op 17 februari  j l . voor  Radio-Oost <voetnoot nummer="2"/> en mede gezien artikel  285 en 287 van het Syrische  Wetboek van Strafrecht <voetnoot nummer="3"/>?  </vraag>
+      <vraag nummer="3 ">Zijn er Syrische vluchtelingen vanuit  Zweden naar Syrië verwijderd? Zo ja,  wat is er met hen gebeurd in Syrië,  met name met de mannelijke  alleenstaande jongeren, die betrekkin- gen met ADO hebben?  Mededeling van staatssecretaris  (Ontvangen  2 4 mei 1989)  Met verwijzing naar de brief van de  Griffier van uw Kamer van 10 april  1989 betreffende de schriftelijke  vragen van het lid van uw Kamer  mevrouw Van Es, deel ik u mede dat  deze vragen eerst kunnen worden  beantwoord dan nadat een nader  onderzoek ter plaatse is ingesteld.  Aan de minister van Buitenlandse  Zaken heb ik op 12 april  j . l . verzocht  dit onderzoek te doen instellen en mij  de resultaten daarvan zo spoedig  mogelijk mede te delen.  In verband hiermee verzoek ik u om  uitstel van de beantwoording van de  door mevrouw Van Es gestelde  </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Zie antwoorden op vragen van het lid Van  Traa, Aanhangsel Handelingen nr. 416,  Vergaderjaar 1988-1989.  ADO = Syrian Democratie Organization </noot>
+         <noot nummer="1" titel=".. als men lid is  van een organisatie, die bepaalde doelstel- lingen heeft, die indruisen tegen de politiek  van het land, ja dan is men uiteraard  kwetsbaar"> De heer Neihuyzen zei o.a.: «men kan  eigenlijk niet waarborgen» «.. als men lid is  van een organisatie, die bepaalde doelstel-lingen heeft, die indruisen tegen de politiek  van het land, ja dan is men uiteraard  kwetsbaar»  welke aard dan ook, staat een strafbaar  stelling van drie tot vijf jaar.  Artikel 287: het verbod voor Syriers om  juiste of overdreven informatie te verstrekken,  die de reputatie van de Syrische staat  kunnen schaden.  M e d e d e l i n g  K o r t e  V a n  H e m e l (Justitie). </noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

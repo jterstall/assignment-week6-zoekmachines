@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="2">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19931994:0001327</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001327&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001327</item>
+         <item attribuut="Document-id">0000003838</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 113</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid E. van Middelkoop (GPV) over de herkeuringsprocedure.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 113</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">113</item>
+         <item attribuut="Indiener">
+            <persoon partij="GPV">E. van Middelkoop</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-10-14</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Ter Beek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-11-09</item>
+         <item attribuut="Beginpagina">229</item>
+         <item attribuut="Eindpagina">230</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="229" allpagenumbers="229" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="113" onderwerp="de herkeuringsprocedure." indiendatum="Uoktober 1993">
+         <vrager partij="GPV" oorsprong="parlement">E. van Middelkoop</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-11-9">
+         <antwoorder functie="minister" ministerie="Defensie">Ter Beek</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1">Komt het voor, dat dienstplichtigen die voor hun opkomst eerste oefening herkeuring vragen, vijf maanden moeten wachten op definitief uitsluitsel? Welke knelpunten in de herkeuringsprocedure verhinderen een snellere beslissing? </vraag>
+      <vraag nummer="3">Wat kunt u doen om deze procedure sneller te laten verlopen, zodat het beslag dat Defensie legt op de tijd van dienstplichtigen zoveel mogelijk wordt teruggebracht tot de wettelijke dienstplichttijd? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja, dat komt sporadisch voor. In het verleden waren hiervan onder andere capaciteitsproblemen de oorzaak. Thans liggen tussen aanvraag van herkeuring, de uitvoering en het geven van uitsluitsel in het algemeen vier tot zes weken. In een enkel geval heeft de keuringscommissie, om tot een oordeel te komen, behoefte aan informatie van behandelende artsen uit de burgersector. Na verkregen toestemming van de betrokkene wordt deze informatie opgevraagd. Niet iedere behandelende arts is even snel met beantwoording van deze verzoeken. Soms is, naar het oordeel van de keuringscommissie, een nader specialistisch onderzoek gewenst. Zoveel mogelijk worden deze uitgevoerd bij het Centraal Militair Hospitaal en/of perifere teams. </antwoord>
+      <antwoord nummer="3">De capaciteitsproblemen behoren Inmiddels tot het verleden. Het uitblijven van respons van de behandelende instantie in de burgersector wordt met behulp van een rappelsysteem aangepakt door een herhaald verzoek te zenden. De herkeuringsprocedure kan tot gevolg hebben dat de periode vóór opkomst in werkelijke dienst toeneemt, in het geval de keunngsuitslag niet bekend is voor de opkomstdatum. Dit heeft geen gevolgen voor de duur van de eerste oefening. Naast de eerdergenoemde factoren, die van invloed zijn op de duur van de herkeuringsprocedure, speelt het tijdstip van indiening van de aanvraag om herkeuring door verzoeker een belangrijke rol. In die gevallen waarin de duur van de onderzoeksprocedure uitstel noodzakelijk maakte, worden dienstplichtigen, van wie de keuringsuitslag luidt: geschikt, zo spoedig mogelijk opgeroepen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

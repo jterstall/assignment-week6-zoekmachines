@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001440</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001440&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001440</item>
+         <item attribuut="Document-id">0000035847</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 518</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Tommel en Schimmel (beiden D66) over een brochure van de Stichting Europoort Botlek Belangen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 518</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">518</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Tommel</persoon>
+            <persoon partij="D66">Schimmel</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-02-13</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Alders</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-04-06</item>
+         <item attribuut="Beginpagina">1043</item>
+         <item attribuut="Eindpagina">1044</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1043" allpagenumbers="1043" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN0921 - 7398" uitgever="SDU uitgeverij s Gravenhage 1990"/>
+      <vraagdata vraagnummer="518" onderwerp="een brochure van de Stichting Europoort Botlek Belangen." indiendatum="1990-02-13">
+         <vrager partij="D66" oorsprong="parlement">Tommel</vrager>
+         <vrager partij="D66" oorsprong="parlement">Schimmel</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-04-6">
+         <antwoorder functie="minister" ministerie="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer">Alders</antwoorder>
+         <mede-antwoorder>de minister van Binnen– landse Zaken</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Bent u van oordeel, dat de door de Stichting Europoort Botlek Belangen verspreide brochure «Wat buren moeten weten» een correcte weergave geeft van zowel de kans op een ernstig industrieel ongeval in het Rijnmond-gebied als van de mogelijke gevolgen ervan? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2" voetnoot="2 1">Zo neen, kunt u dan aangeven op welke punten de brochure onvol– ledige, tendentieuse dan wel onjuiste informatie bevat? Welke mogelijkheden staan u ten dienste om in het kader van de post Seveso-richtlijn verstrekte infor– matie, die naar uw oordeel onvol– ledig, tendentieus of onjuist is, te corrigeren? Acht u die voldoende? Zo neen, wordt hiermee rekening gehouden in de aangekondigde wijziging van de Rampenwet? <voetnoot nummer="2"/>
+         <voetnoot nummer="1"/> De Volkskrant van 8 februari jl. </vraag>
+      <vraag nummer="1"/>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Neen. </antwoord>
+      <antwoord nummer="2">In ieder geval zijn de volgende onjuistheden geconstateerd. De brochure geeft onder het tekstblokje met de titel 'aanvaardbaar risico' aan dat een ernstig ongeval in de industrie volgens de kansberekening eenmaal in de honderd miljoen jaar voorkomt. Op grond van de inmiddels ontvangen Externe Veilig– heidsrapporten en het Milieube– leidsplan van de provincie Zuid-Holland (sectordocument Externe Veiligheid) is ten aanzien van deze in de brochure geponeerde stelling het volgende op te merken: - als bedoeld is de kans op een ernstig ongeval per bedrijf dat onder de post Seveso Richtlijn valt, dan is de gegeven schatting ongeveer een factor 100 te laag; - als bedoeld is de kans op een ernstig ongeval bij één van de 27 bedrijven in het betreffende gebied, dan is de gegeven schatting zeker een factor 1000 te laag; - als bedoeld is de kans op een ernstig ongeval bij één van de 27 bedrijven of het transport van gevaarlijke stoffen in het betreffende gebied, dan is die schatting zeker een factor 10.000 te laag. De brochure geeft eveneens infor– matie over de mogelijke gevolgen van een ongeval. De omschrijving van die gevolgen blijft beperkt tot relatief minder ernstig letsel zoals duizeligheid, misselijkheid en bewus– teloosheid. Bij de hier aan de orde zijnde stoffen zoals bijvoorbeeld chloor, ammoniak en waterstof– fluoride is echter ook kans op dodelijk letsel. In de brochure wordt alleen van dodelijk letsel gesproken bij het voorbeeld van een neerstortend vliegtuig op een woonwijk. </antwoord>
+      <antwoord nummer="3">Op dit moment staan de overheid geen andere mogelijkheden ten dienste dan het in overleg met het bedrijfsleven doen doorvoeren van correcties. voor zover althans die mogelijkheid tot het voeren van overleg wordt geboden. In het onderhavige geval heeft weliswaar overleg plaatsgevonden zij het in een laat stadium maar dit heeft niet tot het gewenste resultaat geleid. Thans bereidt het Ministerie van Binnenlandse Zaken een wijziging voor van de Rampenwet om de verplichting van actieve informatie– verstrekking aan de bevolking zoals bedoeld in de post-Seveso Richtlijn te regelen. In deze regeling zal de primaire verantwoordeiijkheid worden gelegd bij Burgemeester en Wethouders. Op deze wijze wordt beoogd dat Burgemeester en Wethouders er op kunnen toezien dat de juiste informatie wordt verschaft aan de bevolking. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

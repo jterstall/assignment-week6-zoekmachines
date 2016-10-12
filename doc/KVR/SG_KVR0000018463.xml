@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0000077</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0000077&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0000077</item>
+         <item attribuut="Document-id">0000018463</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Eerste Kamer 1991-1992 nummer 40</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Eerste Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de heer T. Pitstra en mevrouw F. Bolding (beiden Groen Links) inzake sociale huursector poldergroeikernen Almere en Lelystad</item>
+         <item attribuut="titel">Aanhangsel Eerste Kamer 1991-1992 nummer 40</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">40</item>
+         <item attribuut="Indiener">
+            <persoon>Pitstra T.</persoon>
+            <persoon>Bolding F.</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-09-14</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Heersma</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-08-03</item>
+         <item attribuut="Beginpagina">99</item>
+         <item attribuut="Eindpagina">100</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Eerste Kamer der Staten-Generaal" kamer="1" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen door de leden der Kamer gesteld overeenkomstig artikel schriftelijk gegeven antwoorden"/>
+      <footer firstpaginanummer="99" allpagenumbers="99 100" vetnummer="" code="" lopendefooter="Eerste Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 738x" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="" onderwerp="" indiendatum="">
+         <vrager partij="" oorsprong="parlement">Pitstra T.</vrager>
+         <vrager partij="" oorsprong="parlement">Bolding F.</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="40">Vragen van de heer T. Pitstra en mevrouw F. Bolding (beiden Groen Links) inzake sociale huursector poldergroeikernen Almere en Lelystad (ontvangen 14 september 1992) </vraag>
+      <vraag nummer="1">Is het de staatssecretaris bekend dat poldergroeikernen Almere en Lelystad vrijwel geen woningen met een huur van lager dan f 450 per maand, alsmede dat ook het aantal woningen met een huur van lager dan f 575 per maand (de maximale huur die een huurder met een minimum-inkomen gezien de fiatteringsgrens mag verwonen) vrijwel is uitgeput? </vraag>
+      <vraag nummer="2">Realiseert de staatssecretaris zich dat, gezien dat gegeven, de f 450-maatregel voor jongeren tot 23 jaar, alsmede de fiatteringsgrens IHS er in Lelystad en Almere toe leiden dat de aandachtsgroep van beleid, de primaire doelgroep voor wat betreft de volkshuisvestingsinspanningen van de rijksoverheid, nauwelijks tot niet meer kan worden gehuisvest? </vraag>
+      <vraag nummer="3">Is het de staatssecretaris bekend dat zo forse wachtlijsten (oplopend) tot 2 a 3 jaar) voor de primaire doelgroep ontstaan omdat er weinig gemuteerd wordt in de woningen van lager dan f 450 per maand en lager dan f 575 per maand, terwijl er nog - zij het in veel geringere mate dan voorheen - woningen met huren van hoger dan f 575 per maand beschikbaar zijn? </vraag>
+      <vraag nummer="4">Is de staatssecretaris bereid voor de poldergroeikernen maatregelen te treffen die dit deel van de sociale huursector bereikbaar houden voor de primaire doelgroep? Zo ja, aan welke maatregelen denkt hij dan? </vraag>
+      <vraag nummer="5">Is de staatssecretaris met de vragenstellers van mening dat daar waar wachtlijsten ontstaan voor de primaire doelgroep de gemeenten zouden moeten kunnen fiatteren voor nog beschikbare woningen met een huur van hoger dan f 575 per maand? </vraag>
+      <vraag nummer="6">Is de staatssecretaris bereid in deze zin - overeenkomstig zijn uitlatingen tijdens de begrotingsbehandeling in de Eerste Kamer-een mededeling aan de gemeenten te doen uitgaan? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

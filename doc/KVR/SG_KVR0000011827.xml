@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001523</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001523&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001523</item>
+         <item attribuut="Document-id">0000011827</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 593</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Willems en Van Ojik (beiden GroenLinks) over de kerncentrale in Dodewaard.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 593</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">593</item>
+         <item attribuut="Indiener">
+            <persoon partij="GroenLinks">Willems</persoon>
+            <persoon partij="GroenLinks">Van Ojik</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-04-26</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Andriessen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-05-25</item>
+         <item attribuut="Beginpagina">1213</item>
+         <item attribuut="Eindpagina">1214</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1213" allpagenumbers="1213" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="593" onderwerp="de kerncentrale in Dodewaard." indiendatum="1993-04-26">
+         <vrager partij="GroenLinks" oorsprong="parlement">Willems</vrager>
+         <vrager partij="GroenLinks" oorsprong="parlement">Van Ojik</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-05-25">
+         <antwoorder functie="minister" ministerie="Economische Zaken">Andriessen</antwoorder>
+         <mede-antwoorder>de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="1">
+      <vraag nummer="1">Herinnert u zich de beleidslijn ten aanzien van de kerncentrale in Dodewaard, zoals uiteengezet in uw brief van 31 augustus 1992, dat toegewerkt wordt naar «een nieuwe, de gehele inrichting omvattende vergunning»?' Deelt u de mening, dat bij de vergunningverlening voor de «gehele inrichting» ook de vraag aan de orde is naar de wenselijkheid van en alternatieven vóór de inrichting? Waarom is in de richtlijnen voor de MER van 29 maart 1993 niet sprake van een beoordeling van de gehele inrichting, maar wordt slechts gerapporteerd over «wijzigingen die de veiligheid van de centrale verder dienen te verhogen»? Deelt u de mening, dat het logische gevolg van zowel uw brief van 31 augustus 1992 als de uitspraak van de Raad van State van 29 mei 1992 zou zijn geweest MER-richtlijnen op te stellen voor de hele inrichting? Waarom blijft bij de in deze MER-richtlijnen geschetste nuloptie de centrale gewoon doordraaien? Bent u alsnog bereid de MER-richtlijnen zodanig aan te passen, dat de hele inrichting op haar milieu-effecten beoordeeld kan worden en dat er sprake is van een werkelijke nuloptie? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Kamerstuk 22 675, nr 4, pag 6-7</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Neen, het betreft hier een wijziging van de vergunning en niet een oprichting. </antwoord>
+      <antwoord nummer="3">De plicht voor een milieu-effectrapportage door GKN is, op grond van het bepaalde in de Wet milieubeheer (Stb. 1992, 551), in het bijzonder de artikelen 7.2 en 7.10, en het besluit milieu-effectrapportage (Stb. 1987, 278), beperkt tot de uitbreiding of wijziging van de inrichting (zie met name pagina 27 van de Nota van Toelichting bij het Besluit mer). De richtlijnen voor het MER, welke zijn opgesteld na advies hierover gekregen te hebben van de Commissie voor de milieu-effectrapportage (Commissie mer), geven derhalve aan dat in het MER de gevolgen weergegeven moeten worden van de voorgenomen en momenteel gedoogde wijzigingen. Voor de beoordeling van de gevolgen dient evenwel de bestaande situatie van de gehele inrichting beschreven te worden, voor zover van belang voor de voorspelling en vergelijking van de milieugevolgen van de alternatieven voor de voorgenomen wijzigingen in de centrale. </antwoord>
+      <antwoord nummer="4">Neen. De reikwijdte van het MER hoeft niet noodzakelijkerwijs samen te vallen met de reikwijdte van de uiteindelijke vergunning. Deze situatie doet zich hier voor. Dit wordt veroorzaakt doordat in casu de nieuwe vergunning voor een deel zal bestaan uit reeds eerder vergunde activiteiten. Met betrekking tot een nieuwe vergunning wordt aldus, conform mijn brief van 31 augustus 1992, toegewerkt naar één, de gehele inrichting omvattende vergunning. Daarbij dient het bij de aanvraag voor de vergunning in te dienen nieuwe veiligheidsrapport, conform de uitspraak van de Raad van State, 29 mei 1992, aan de huidige eisen en inzichten te voldoen en dus te worden herzien. milieu, indien de activiteiten noch de alternatieven worden ondernomen». </antwoord>
+      <antwoord nummer="6">Neen, dat zou een afwijking inhouden van hetgeen bepaald is in de bestaande regelgeving. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

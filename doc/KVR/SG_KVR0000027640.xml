@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Nader antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001303</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001303&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001303</item>
+         <item attribuut="Document-id">0000027640</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 369</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Vos (P.v.d.A.) over Portugese werknemers op het Nederlands deel van het continentaal plat.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 369</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">369</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Vos</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-07-13</item>
+         <item attribuut="Beantwoorder">
+            <persoon>De Vries</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-02-05</item>
+         <item attribuut="Beginpagina">749</item>
+         <item attribuut="Eindpagina">750</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="749" allpagenumbers="749" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's-Gravenhage 1991"/>
+      <vraagdata vraagnummer="369" onderwerp="Portugese werknemers op het Nederlands deel van het continentaal plat." indiendatum="1990-07-13">
+         <vrager partij="PvdA" oorsprong="parlement">Vos</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="5 februari 1991) Met verwijzing naar het antwoord, 2 augustus 1990 op schriftelijke vragen van het lid van de Tweede Kamer de heer Vos (P.v.d.A.), (Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel 836)zend ik u hierbij ter nadere informatie de reactie van de Stichting van de Arbeid op mijn brief van 2 augustus 1990 aan de Stichting.">
+         <antwoorder functie="" ministerie="Sociale Zaken en Werkgele– genheid"/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Was u op de hoogte van de slechte arbeidsomstandigheden resp. arbeidsvoorwaarden waaronder vooral Portugese werknemers arbeid op het Nederlands deel van het continentaal plat moeten verrichten? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Zo ja, welke stappen hebt u inmiddels ondernomen om aan onderbetaling en gebrek aan ontslag– bescherming, een einde te maken? Kunt u zo spoedig mogelijk de betrokken ondernemingen op het Nederlands deel van het continentaal plat duidelijk maken, dat voortzetting van de huidige situatie ontoelaatbaar is? </vraag>
+      <vraag nummer="6" voetnoot="1 1">Bent u bereid, in afwachting van de inwerkingtreding van de Wet arbeid mijnbouwinstallaties Noordzee, met de betrokken organisaties van werknemers in contact te treden teneinde tot praktische afspraken voor de bestrijding van deze uiterst ongewenste situatie te komen? <voetnoot nummer="1"/> Noord-Hollands Dagblad van 23 juni jl.: «Vogelvrije Portugezen slaven van de offshore». ratie en Produktie Associatie (NOGEPA, organisatie van off shore– werkgevers), als reactie op de suggestie terzake van de Stichting van de Arbeid in haar bovenge– noemde brief. <voetnoot nummer="1"/> Ter inzage gelegd op de bibliotheek. Zijn de hoofdaannemers (de oliemaatschappijen) via de Wet op de ketenaansprakelijkheid niet medeverantwoordelijk voor het personeelsbeleid van de onderaan– nemers (de koppelbazen) waarbij de Portugese werknemers in dienst zijn? Zo ja, waarom is dan tot nu toe geen poging gedaan langs deze weg tot een oplossing van de problemen te geraken? Zo neen, van welke belem– meringen is hier dan sprake en hoe kunnen deze worden weggenomen? </vraag>
+      <vraag nummer="4">Is, zoals reeds jarenlang in antwoorden op schriftelijke vragen wordt toegezegd, de Wet arbeid mijnbouwinstallaties Noordzee nog steeds in voorbereiding? Wanneer zal dit wetsontwerp aan deze Kamer worden aangeboden? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

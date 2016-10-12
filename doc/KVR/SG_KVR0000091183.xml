@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19881989:0001584</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001584&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001584</item>
+         <item attribuut="Document-id">0000091183</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1988-1989 nummer 579</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van Es (P.S.P.) aan de minister van Justitie over een studiereis van ambtenaren van het openbaar ministerie naar Turkije.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1988-1989 nummer 579</item>
+         <item attribuut="Jaargang">1988_1989</item>
+         <item attribuut="Vraagnummer">579</item>
+         <item attribuut="Indiener">
+            <persoon partij="PSP">Van Es</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-04-17</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Korthals Altes</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-05-25</item>
+         <item attribuut="Beginpagina">1161</item>
+         <item attribuut="Eindpagina">1162</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 8 - 1 9 8 9 " typehandeling="" typedoc=""/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 8 - 1 9 8 9 ,  A a n h a n g s e l " filenaam="" issn-nummer="ISSN 0921 • 7398 " uitgever="SDU uitgeverij 's Gravenhage 1989 "/>
+      <vraagdata vraagnummer="579" onderwerp="een studiereis van ambtenaren van het openbaar ministerie naar Turkije." indiendatum="17 april 1989)">
+         <vrager partij="PSP" oorsprong="parlement">Van Es</vrager>
+         <vraagt-aan>de minister van Justitie</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="25 mei 1989), zie ook Aanhangsel Handelin- gen nr. 528, Vergaderjaar 1 9 8 8 - 1989.">
+         <antwoorder functie="minister" ministerie="Justitie">Korthals A l t e s</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1 ">Zijn de ongeveer tien leden van het  openbaar ministerie in Arnhem die  binnenkort een studiereis naar Turkije  maken, niet op persoonlijke titel voor  deze reis uitgenodigd,maar juist als  Justitieambtenaren? </vraag>
+      <vraag nummer="1 "/>
+      <vraag nummer="2 ">Zullen de bovenbedoelde leden van  het openbaar ministerie onder  andere ontmoetingen hebben met  Turkse ambtenaren van Justitie,  vertegenwoordigers van de militaire  politie en de gendarmerie? </vraag>
+      <vraag nummer="2 "/>
+      <vraag nummer="3 ">W a t is uw oordeel over ontmoetingen  tussen Nederlandse Justitieambtena- ren en leden van de Turkse militaire  politie en gendarmerie, indien de  eerstgenoemden beroepshalve zijn  uitgenodigd?  </vraag>
+      <vraag nummer="4 ">Deelt u de mening dat studiereizen  met een dergelijk programma door  ambtenaren van Justitie naar Turkije  ongewenst zijn vanwege de schendin- gen van de mensenrechten, die  regelmatig door het Turkse leger en  politie worden gepleegd? Zo ja, bent  u bereid uw ambtenaren van uw  opvatting kennis te geven?  </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Zie Aanhangsel Handelingen nr.  3 8 1 ,  V e r g a d e r j a a r  1 9 8 8 -1  9 8 9 ,  a n t w o o r d op  vraag 1 </noot>
+         <noot nummer="3">  D e z e vraag is niet  b e a n t w o o r d bij boven-g e n o e m d e serie  v r a g e n </noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1 ">Neen. Zoals ik u op 21 maart  jongstleden heb meegedeeld zal een  zestal leden van het openbaar  ministerie op persoonlijke titel en  voor eigen rekening deelnemen aan  deze reis. Deze reis  w o r d t niet op  uitnodiging maar op eigen initiatief  ondernomen.  </antwoord>
+      <antwoord nummer="2 ">Het programma van deze reis is mij  niet bekend.  3 en 4  Gelet op de antwoorden op de  vragen 1 en 2 behoeven deze vragen  geen beantwoording.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

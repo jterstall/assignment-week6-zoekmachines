@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0000984</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0000984&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0000984</item>
+         <item attribuut="Document-id">0000011288</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 52</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Beinema (CDA) over «verdwenen» kunstwerken uit de collectie van de Rijksdienst Beeldende Kunst.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 52</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">52</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Beinema</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-09-04</item>
+         <item attribuut="Beantwoorder">
+            <persoon>D'Ancona</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-10-08</item>
+         <item attribuut="Beginpagina">111</item>
+         <item attribuut="Eindpagina">112</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld cloor de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="111" allpagenumbers="111" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="" onderwerp="" indiendatum="">
+         <vrager partij="CDA" oorsprong="parlement">Beinema</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-10-8">
+         <antwoorder functie="minister" ministerie="Welzijn, Volksgezondheid en Cultuur">D'Ancona</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="52">Vragen van het lid Beinema (CDA) over «verdwenen» kunstwerken uit de collectie van de Rijksdienst Beeldende Kunst. (Ingezonden 4 september 1992) </vraag>
+      <vraag nummer="1" voetnoot="1">Hebt u er kennis van genomen, dat in 1991 een tachtigtal kunstwerken uit de collectie van de Rijksdienst Beeldende Kunst zijn «verdwenen»? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Wilt u nadere informatie verstrekken over de omstandigheden waaronder en de oorzaken waardoor dit is geschied? </vraag>
+      <vraag nummer="3">Berust u in de constatering van de over 1991 gesignaleerde verdwijningen? </vraag>
+      <vraag nummer="4">Welke maatregelen zijn of worden genomen teneinde in de toekomst dergelijke vermissingen te voorkomen, althans tegen te gaan? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Zie: Verslag van de Rijksdienst Beeldende Kunst 1991, bijlage 8</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja. In vrijwel alle gevallen gaat het om uitgeleend BKR-werk, waarvan de bruikleennemers hadden gemeld dat dit niet meer terug te vinden was. Deze gebruikleennemers behoren niet tot de categorie kunstinstellingen. Al eerder is geconstateerd, dat de Rijksdienst Beeldende Kunst over onvoldoende middelen beschikt om zijn beheerstaak naar behoren uit te voeren vanwege de enorme omvang van de collectieve (circa 320.000 stuks, waarvan 120.000 uitgeleend) en het grote aantal bruikleennemers (1650 rijksinstellingen, 1800 andere overheidsdiensten en sociaal-culturele instellingen en 120 kunstinstellingen). Daarom besprak ik niet lang geleden met u de mogelijkheid om de collectie van de Rijksdienst Beeldende Kunstte verkleinen door afstoting van het BKR-gedeelte dat niet van museale waarde is. </antwoord>
+      <antwoord nummer="3">Na melding van de vermissingen heeft de Rijksdienst Beeldende Kunst de bruikleennemers in gebreke gesteld en overeenkomstig het bruikleencontract geconfronteerd met een schadeclaim. In alle gevallen heeft de Rijksdienst beeldende Kunst eerst aangedrongen op verdere naspeuringen. </antwoord>
+      <antwoord nummer="4">De Rijksdienst Beeldende Kunst is onlangs gestart met de uitvoering van de afstotingsactie, waarover ik zojuist sprak. Door deze actie zal ook het aantal niet-museale bruikleennemers aanzienlijk worden verkleind. Deze groep heeft namelijk het meeste BKR-werk in bruikleen en als dit volgens plan binnenkort is geschonken, vervalt automatisch de bruikleenovereenkomst. Mocht men nog ander werk geleend hebben, dat wil zeggen BKR-werken van museale waarde of werken uit andere deelcollecties, dan zal de Rijksdienst Beeldende Kunst deze op termijn terughalen. Dan houdt ook het bruikleen van deze werken op. Nieuwe bruiklenen verstrekt de Rijksdienst Beeldende Kunst al enige tijd niet meer aan deze groep bruikleennemers. Nadat zowel de collectie als het bestand bruikleennemers kleiner is geworden, zal de Rijksdienst Beeldende Kunst beter dan voorheen in staat zijn regelmatig na te gaan of de uitgeleende kunstwerken op de juiste manier worden beheerd. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

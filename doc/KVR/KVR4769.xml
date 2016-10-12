@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="5">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Weisglas en Hoogervorst (beiden VVD) over belastinginning in Suriname. (Ingezonden 11 april 1997); Antwoord</item>
+         <item attribuut="Bestand">14Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR4769
+</item>
+         <item attribuut="Inhoud">Vragen inzake de beëindiging van de Nederlandse hulp aan de Surinaamse belastingdienst.</item>
+         <item attribuut="Rubriek">Belastingen (Belastingdiensten)</item>
+         <item attribuut="Trefwoorden">Belastingdienst Suriname</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 1996-1997, nr. 1075, Tweede Kamer</item>
+         <item attribuut="Afkomstig_van">Financiën</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Weisglas</persoon>
+            <persoon partij="VVD">Hoogervorst</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1997-04-21</item>
+         <item attribuut="Datum_indiening">1997-04-11</item>
+         <item attribuut="Document-id">KVR4769</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1996–1997" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="2195" allpagenumbers="2195" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1996–1997, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 1997"/>
+      <vraagdata vraagnummer="1075" onderwerp="" indiendatum="1997-04-11">
+         <vrager partij="VVD" oorsprong="parlement">Weisglas</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Hoogervorst</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1997-04-21">
+         <antwoorder functie="minister" ministerie="Ontwikkelingssamenwerking">Pronk</antwoorder>
+         <mede-antwoorder>de minister van Financiën en Buitenlandse Zaken</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Kunt u zich herinneren dat u in antwoord op eerdere Kamervragen dezerzijds heeft gezegd dat »de effectievere belastinginning in Suriname inderdaad een belangrijke rol heeft gespeeld bij de verbetering van de financieel-monetaire situatie in Suriname, en dat deze effectievere inning mede dankzij de Nederlandse belastingdeskundigen tot stand is gekomen«? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2" voetnoot="2">Deelt u de mening met de Nederlandse Ambassadeur in Suriname, dat het op dit moment nog niet zo ver is dat de Surinaamse belastingdienst, zonder hulp van Nederlandse deskundigen, op eigen benen kan staan? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="3">Hoe beoordeelt u in dit licht de beslissing van de President van Suriname, dat de Nederlandse belastingambtenaren niet langer werkzaam mogen zijn op het Surinaamse ministerie van Financiën? </vraag>
+      <vraag nummer="4">Zal de minister voor Ontwikkelingssamenwerking deze kwestie binnenkort opbrengen in het beleidsoverleg dat hij zal hebben met zijn Surinaamse ambtgenoot over de besteding van de Nederlandse ontwikkelingsgelden ten behoeve van Suriname? </vraag>
+      <vraag nummer="5">Wil de minister voor Ontwikkelingssamenwerking daarbij aangeven dat er geen sprake kan zijn van feitelijke compensatie met Nederlandse ontwikkelingsgelden van de naar verwachting thans te derven Surinaamse belastinginkomsten? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" documenttype="Kamervragen" documentnummer="885" documentjaargang="1996-1997">Aanhangsel Handelingen, nr. 885, vergaderjaar 1996–1997.</noot>
+         <noot nummer="2" datum="1997-04-10" bron="Trouw">Trouw, 10 april 1997</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">De Nederlandse Ambassadeur te Paramaribo heeft het standpunt van de Nederlandse regering vertolkt. </antwoord>
+      <antwoord nummer="3">De regering van Suriname is verzocht de beslissing om het samenwerkingsproject zonder de overeengekomen gezamenlijke evaluatie te beëindigen, te heroverwegen. </antwoord>
+      <antwoord nummer="4">Ja. </antwoord>
+      <antwoord nummer="5">Ja. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

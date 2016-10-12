@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001781</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001781&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001781</item>
+         <item attribuut="Document-id">0000107556</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 748</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Zijlstra en Lilipaly (beiden P.v.d.A.) over noodstops bij kerncentrales.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 748</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">748</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Zijlstra</persoon>
+            <persoon partij="PvdA">Lilipaly</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-05-06</item>
+         <item attribuut="Beantwoorder">
+            <persoon>De Graaf</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-06-09</item>
+         <item attribuut="Beginpagina">1483</item>
+         <item attribuut="Eindpagina">1484</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1986-1987 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 ,  A a n h a n g s e l 1483 " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="748" onderwerp="" indiendatum="">
+         <vrager partij="PvdA" oorsprong="parlement">Zijlstra</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Lilipaly</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="staatssecretaris" ministerie="Sociale Zaken en Werkgele- genheid">D e Graaf</antwoorder>
+         <mede-antwoorder>de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 ">In welke situaties treden noodstops  bij kerncentrales op?  </vraag>
+      <vraag nummer="2 ">Bent u het eens met de Nuclear  Energy Agency, dat noodstops  gevaren met zich meebrengen en dat  het aantal noodstops gereduceerd  moet worden? Zo ja, welke zijn de  gevaren?  </vraag>
+      <vraag nummer="3 ">Hoeveel noodstops hebben zich in de  laatste jaren voorgedaan bij kerncen- trales in Frankrijk, België en Neder- land? Is het eerder voorgekomen dat  bij die kerncentrales na de aanloop- periode in drie dagen twee noodstops  zijn opgetreden zoals onlangs tijdens  de staking in de kerncentrales Doel 4  en, zo ja, wanneer en om welke  reden?  </vraag>
+      <vraag nummer="4 ">Is het waar, dat bij de Franse kern- centrale Saint Laurent A1 op 12  januari  j l . de koelwaterinlaat bevroor,  dat dit leidde tot een noodstop, dat  tegelijkertijd turbines voor voedings- stroom voor het koelsysteem  uitvielen en dat de kern geheel of  gedeeltelijk gesmolten zou zijn indien  tevens de stroomtoevoer uit het net  of van de andere centrales bij Saint  Laurent uitgevallen zou zijn en  bovendien de reservekoeling met  natuurlijke circulatie niet zou hebben  gewerkt?  Bij vraag 2: zie «Reassessing Nuclear  Power: The Fallout From Chernobyl».  Christopher Flavin,  W o r l d w a t c h  Paper 75, maart 1987, pagina  4 2 .  Bij vraag  4 : zie Nucleonics Week, 22  januari 1987, pagina's 1 en 2.  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1 ">Een snelle vermogensafschakeling of  scram, in de vraag aangeduid als  noodstop, treedt automatisch op  indien één of meer vooraf ingestelde  waarden van procesparameters  worden overschreden. De ingestelde  waarden (bij voorbeeld druk, tempe- ratuur, neutronenflux, toerental) zijn  zo gekozen dat voorkomen wordt dat  tijdens verdere procesveranderingen  (transiënten) het proces buiten het  als veilig beschouwde gebied voor  bedrijfsvoering komt. Daarnaast  bestaat de mogelijkheid om met de  hand een scram te geven.  </antwoord>
+      <antwoord nummer="2 ">Alle onderdelen van een kerncentrale  zijn niet alleen ontworpen voor een  constante belasting van druk en  temperatuur maar ook voor cyclische  belastingen die verwacht worden op  te treden gedurende de levensduur  van de centrale, scrams daarbij  inbegrepen. Voor sommige compo- nenten betekent echter iedere scram  dat het toelaatbaar aantal resterende  belastingswisselingen steeds met  één afneemt hetgeen de levensduur  van die component beperkt. Boven- dien zijn sommige onderdelen zoals  pakkingen gevoelig voor grote druk  of temperatuurwisselingen. E.e.a. kan  aanleiding zijn tot lekkages. Hoewel  een scram niet direct een gevaarlijke  situatie betekent, is het vermijden  van scrams wenselijk.  In het algemeen kan een hoge  scramfrequentie ook een indicatie  zijn van tekortkomingen in de  bedrijfsvoering van een kerncentrale.  Tegelijkertijd hebben niet geplande  afschakelingen van de reactor  aanzienlijke economische gevolgen  voor het elektriciteitsbedrijf. In die  zin heeft de NEA zich uitgelaten over  scrams in verband met een symposi- um van  1 4 - 1 8 april 1986 in Tokio  onder de titel: «Reducing Reactor  Scram Frequency».  </antwoord>
+      <antwoord nummer="3 ">Op het bij antwoord 2 genoemde  NEA symposium werden de scramsta- tistieken van zowel België, Frankrijk  als Nederland gepresenteerd voor de  jaren  1 9 8 1 - 1 9 8 5 . Per kernreactor- jaar was het totale aantal scrams  voor België, Frankrijk en Nederland  (Borssele) gemiddeld over de  genoemde periode respectievelijk  3.7, 7.6 en  4 . 2 . Voor Dodewaard  (van kerncentrales met een elektrisch  vermogen van minder dan 100  M W  werden op dit symposium geen  statistieken gepresenteerd) bedroeg  het gemiddelde één scram per jaar in  de zelfde periode. Overigens traden  in 1986 drie scrams op in Dodewaard,  waarvan twee bij het beproeven van  de reaktordrukregeling tijdens het  beschikbaar zijn geweest om één van  deze of een alternatieve koelvoorzie- ning weer in bedrijf te krijgen. Pas als  dat niet zou lukken, zou beschadiging  van de splijtstof niet meer uit te  sluiten zijn.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

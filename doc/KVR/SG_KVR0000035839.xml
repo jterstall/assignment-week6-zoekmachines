@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001432</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001432&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001432</item>
+         <item attribuut="Document-id">0000035839</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 510</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Ter Veer en Tommel (beiden D66) over voorgenomen investeringen op het terrein van de voormalige rijkswerf in Den Helder.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 510</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">510</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Ter Veer</persoon>
+            <persoon partij="D66">Tommel</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-03-15</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van Voorst tot Voorst</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-04-05</item>
+         <item attribuut="Beginpagina">1025</item>
+         <item attribuut="Eindpagina">1026</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen door de leden der Kamer, met de daarop door de regering gegeven antwoorden."/>
+      <footer firstpaginanummer="1025" allpagenumbers="1025 102" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's-Gravenhage 1990"/>
+      <vraagdata vraagnummer="510" onderwerp="voorge– nomen investeringen op het terrein van de voormalige rijkswerf in Den Helder." indiendatum="1990-03-15">
+         <vrager partij="D66" oorsprong="parlement">Ter Veer</vrager>
+         <vrager partij="D66" oorsprong="parlement">Tommel</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-04-5">
+         <antwoorder functie="staatssecretaris" ministerie="Defensie">Van Voorst tot Voorst</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Is het u bekend, dat een projectont– wikkelaar serieuze plannen heeft ontwikkeld voor omvangrijke investe– ringen op het terrein van de voormalige rijkswerf in Den Helder? </vraag>
+      <vraag nummer="2">Bent u bereid - gezien het belang van de voorgenomen investeringen - mee te werken aan een wijziging van een militaire in een civiele bestemming van het terrein? Bent u hierover schriftelijk benaderd door burgemeester en wethouders van Den Helder? Zo ja, wanneer? Hoe luidde uw antwoord? </vraag>
+      <vraag nummer="3">Indien het eerste deel van de vorige vraag ontkennend wordt beant– woord, welke zwaarwegende redenen liggen hieraan ten grondslag? Indien dit terrem nodig blijft voor marine activiteiten, aan welke concrete bestemming denkt u dan? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1">Ja. 2 e n 3 De bestemming van het oude Rijkswerf-terrein na verplaatsing van de werfactiviteiten naar de Nieuwe Haven is nog in studie. Gebruik voor onderwijsdoeleinden en het geven van een museale bestemming aan een gedeelte van de historische bebouwing worden thans bezien. Ik ben bereid met de gemeente het geven van een civiele bestemming aan een deel van het oude Rijksvverf– terrein te onderzoeken. Daarbij zullen de resultaten van de hiervoor genoemde studie worden betrokken alsmede de eventuele herstructu– rering ten gevolge van het in de Defensienota te verwoorden beleid. Op 19 maart 1990 ontving ik een brief van B&amp;W van Den Helder waarin melding werd gemaakt van getoonde belangstelling van project– ontwikkelaars en ondernemers voor het terrein. Mij werd in dezelfde brief verzocht de gemeente Den Helder te informeren omtrent de plannen met het terrein. Ik zal de brief in de zin van het bovenstaande beant– woorden. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

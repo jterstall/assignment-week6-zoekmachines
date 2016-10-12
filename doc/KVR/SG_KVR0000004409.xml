@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0001898</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001898&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001898</item>
+         <item attribuut="Document-id">0000004409</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 684</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Verbugt en Blaauw (beiden VVD) en Smits en Wolters (beiden CDA) over de toewijzing van tankstations langs rijkswegen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 684</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">684</item>
+         <item attribuut="Indiener">
+            <persoon>Verbugt</persoon>
+            <persoon>Blaauw</persoon>
+            <persoon>Smits</persoon>
+            <persoon>Wolters</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-07-04</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Andriessen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-07-27</item>
+         <item attribuut="Beginpagina">1387</item>
+         <item attribuut="Eindpagina">1388</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1387" allpagenumbers="1387" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's-Gravenhage 1994"/>
+      <vraagdata vraagnummer="684" onderwerp="de toewijzing van tankstations langs rijkswegen." indiendatum="1994-07-4">
+         <vrager partij="" oorsprong="parlement">Verbugt</vrager>
+         <vrager partij="" oorsprong="parlement">Blaauw</vrager>
+         <vrager partij="" oorsprong="parlement">Smits</vrager>
+         <vrager partij="" oorsprong="parlement">Wolters</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-07-27">
+         <antwoorder functie="minister" ministerie="Economische Zaken">Andriessen</antwoorder>
+         <mede-antwoorder>de minister van Verkeer en Waterstaat en de staatssecretaris van Financiën</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1" voetnoot="1">Komt er een nieuwe regeling voor de toewijzing van tankstations langs rijkswegen? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Hebben de toewijzingen tot heden geleid tot disproportionele marktaandelen langs de rijkswegen? Wat is de rol van het CBR in deze toewijzingen? </vraag>
+      <vraag nummer="3">Zal de disproportionaliteit nog toenemen, enerzijds ten gevolge van de sterkere toename van het rijkswegverkeer ten opzichte van het overige verkeer en anderzijds ten gevolge van de sanering van duizenden stations in het kader van deSUBAT-regeling? </vraag>
+      <vraag nummer="4">Vond er - naast een jaarlijkse afdracht naar rato van het doorzet-volume - door de betreffende oliemaatschappij betaling plaats, indien een concessie werd verleend? Wordt een afdracht gedaan van 1 cent per liter verkochte brandstof? Zo ja, hoeveel bedraagt de afdracht van alle oliemaatschappijen landelijk gezien per jaar? Hoeveel is dit van de particulieren-gedupeerden, die vóór 1972 concessies kregen toegewezen? </vraag>
+      <vraag nummer="6">Bent u van plan met de nieuwe systematiek de disproportionaliteit die het gevolg is van het in het verleden gevoerde uitgiftebeleid terug te dringen? </vraag>
+      <vraag nummer="7">Vinden er momenteel - in het geval van verplaatsingen - al toewijzingen plaats door Rijkswaterstaat, terwijl overdracht van deze toewijzingen nog niet heeft plaatsgevonden? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" titel="Pompshop"> Zie artikel in «Pompshop», mei 1994</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1" voetnoot="1">Ja. 2,  3en  6 Zoals op 24 juni jl. is meegedeeld <voetnoot nummer="1"/>, zullen op korte termijn de evaluatie van de huidige regeling en de opzet van een nieuwe regeling aan het bedrijfsleven voor commentaar worden toegezonden. In deze evaluatie is ondermeer de taak van de Commissie Benzinestations langs Rijkswegen (CBR) vermeld, zoals die van toepassing is in het sedert 1972 gehanteerde systeem van toewijzing. Deze taak houdt in dat het CBR, onder leiding van een door de minister van Economische Zaken aan te wijzen voorzitter, deze minister adviseert omtrent de verdeling van de beschikbare vestigingsplaatsen over de deelnemende maatschappijen, op basis van de landelijke hoeveelheden benzine (normaal en super) die, in het laatst verstreken kalenderjaar in Nederland door ledere deelnemende maatschappij, onder eigen merk werden verkocht. Het lijkt niet aangewezen thans vooruit te lopen op onderdelen van de evaluatie, zoals de ontwikkeling van de marktaandelen. De evaluatie zal, tezamen met de nieuwe regeling aan de Tweede Kamer worden toegezonden nadat deze aan het bedrijfsleven voor commentaar is voorgelegd. </antwoord>
+      <antwoord nummer="4">Nee. In 1993 werd een vergoeding betaald van f 8,94 per 1000 liter brandstof; in 1994 van f 9,14 per 1000 liter brandstof. In 1993 werd in totaal f 14.885.636,19 ontvangen. Het is op korte termijn niet na te gaan welk bedrag daarvan afkomstig is van particulieren-gedupeerden, die vóór 1972 een vergunning kregen. Deze informatie zal door de staatssecretaris van Financiën op een later tijdstip aan u worden toegezonden. toewijzing van benzinestations langs Rijkswegen». </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Aanhangsel van de Handelingen 1993-1994, nummer 594</noot>
+      </noten>
+   </antwoorden>
+</kvr>

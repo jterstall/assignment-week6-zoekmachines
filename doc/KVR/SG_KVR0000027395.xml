@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="1">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001058</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001058&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001058</item>
+         <item attribuut="Document-id">0000027395</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 125</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van Es (Groen Links) over verstoring van uitzendingen van de Cubaanse televisie.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 125</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">125</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Van Es</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-05-18</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-11-05</item>
+         <item attribuut="Beginpagina">253</item>
+         <item attribuut="Eindpagina">254</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="253" allpagenumbers="253" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="125" onderwerp="verstoring van uitzen– dingen van de Cubaanse televisie." indiendatum="1990-05-18">
+         <vrager partij="Groen Links" oorsprong="parlement">Van Es</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="5 november 1990), zie ook Aanhangsel Handelingen nr. 697, Vergaderjaar 1989-1990">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">Van den Broek</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="1">
+      <vraag nummer="1">Verstoort het Amerikaanse TV Marti uitzendingen van de Cubaanse televisie? Deelt u de mening, dat deze vorm van inmenging in strijd is met het internationaal recht, met name de conventie van Nairobi, 1982 en de internationale telecommunicatie conventie? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1">Sinds 27 maart 1990 is het Ameri– kaanse TV Marti begonnen met dagelijkse televisie-uitzendingen vanuit Florida naar Cuba. Deze uitzendingen vinden plaats op een frequentie die in gebruik is bij een van de Cubaanse televisiekanalen, doch - voor zover mij bekend - op een tijdstip dat dit kanaal geen uitzendingen verzorgt (te weten 3.30 uur 's nachts tot 6.00 uur 's morgens). De (herziene) Internationale Telecommunicatie Conventie werd in 1982 te Nairobi aanvaard en wordt derhalve ook wel aangeduid als de «Conventie van Nairobi». Het verdrag regelt onder meer de taken en bevoegdheden van de Internationale Telecommunicatie Unie. Eén der organen van die Unie is het Interna– tionaal Comité ter zake van de regis– tratie van de frequenties (de «IFRB»). Dit Comité heeft onder meer de taak om Lidstaten te adviseren met betrekking tot het maximum aantal te gebruiken (radio)kanalen in die delen van het radiospectrum waar schadelijke interferentie kan optreden (art. 10van hetVerdrag). De taken en bevoegdheden van de IFRB zijn nader uitgewerkt in de Radio Reglementen (RR). Cuba heeft de kwestie aan de IFRB voorgelegd. Het Comité heeft daarop gereageerd en de Amerikaanse regering verzocht de technische eigenschappen van haar televisie-uitzendingen zo aan te passen dat zij voldoen aan de regels van het Verdrag en de Radio Regle– menten. De VS is het echter oneens met de interpretatie van deze regels door het Comité. In geval van een interpretatiegeschil tussen het Comité en een Lidstaat kan ingevolge de procedure die voorzien is in Resolutie 35 van de Wereld– administratieve Radio Conferentie van 1979 (WARC '79), de kwestie worden verwezen naar de Admini– stratieve Raad ten behoeve van behandeling in de eerstvolgende wereldadministratieve radio confe– rentie (WARC). Naar mijn mening wordt de kwestie thans, conform de bestaande proce– dures, behandeld in de daartoe aangewezen internationale fora. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

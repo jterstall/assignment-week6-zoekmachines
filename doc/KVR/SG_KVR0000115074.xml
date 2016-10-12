@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19851986:0001514</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001514&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001514</item>
+         <item attribuut="Document-id">0000115074</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1985-1986 nummer 593</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Weisglas, Blaauw en Voorhoeve (allen V.V.D.) over de diplomatieke erkenning van de PLO door de Spaanse regering.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1985-1986 nummer 593</item>
+         <item attribuut="Jaargang">1985_1986</item>
+         <item attribuut="Vraagnummer">593</item>
+         <item attribuut="Indiener">
+            <persoon>Weisglas</persoon>
+            <persoon>Blaauw</persoon>
+            <persoon>Voorhoeve</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-03-24</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-04-09</item>
+         <item attribuut="Beginpagina">1177</item>
+         <item attribuut="Eindpagina">1178</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1985-1986 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 5 - 1 9 8 6 , Aanhangsel 1177 " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="593" onderwerp="de diplomatieke erken- ningvan de FAO door de Spaanse regering." indiendatum="1986-03-24">
+         <vrager partij="" oorsprong="parlement">Weisglas</vrager>
+         <vrager partij="" oorsprong="parlement">Blaauw</vrager>
+         <vrager partij="" oorsprong="parlement">Voorhoeve</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1 ">Kan de minister bevestigen, dat de  regering van Spanje heeft besloten  over te gaan tot diplomatieke  erkenning van de PLO en dat hiertoe  de PLO-vertegenwoordiging in Madrid  volledige diplomatieke status zal  verkrijgen?  </vraag>
+      <vraag nummer="2 ">Betekent deze beslissing, dat de  PLO-vertegenwoordiging in Madrid  diplomatieke immuniteit zal krijgen,  met alle mogelijkheden van dien?  </vraag>
+      <vraag nummer="3 ">Heeft de Spaanse regering over deze  beslissing tevoren overleg gepleegd  in het kader van de Europese  Politieke Samenwerking (EPS)?  </vraag>
+      <vraag nummer="4 ">Zo neen, wil de minister dan - mede  als EG voorzitter - zijn afkeuring  daarover uiten tegenover de Spaanse  regering en deze mededelen dat het  Spaanse EG-lidmaatschap ook  betekent, dat over belangrijke  buitenlandse politieke kwesties  overleg in EPS-verband dient plaats  te vinden?  </vraag>
+      <vraag nummer="5 ">Wil de minister de Spaanse regering  doen weten, dat naar Nederlandse  PLO niet verder kunnen gaan dan  contacten op laag ambtelijk niveau,  zolang de PLO Israël niet erkent en  zolang deze niet volledig afstand  neemt van terroristische daden?  </vraag>
+      <vraag nummer="6 ">Is de minister bereid een en ander op  korte termijn aan de orde te stellen in  EPS-overleg - zo mogelijk op  ministerieel niveau  - , met als  doelstelling Spanje terug te doen  komen op deze eenzijdige beslissing,  die het gezamenlijke Midden-Oosten- beleid van de EG-landen doorkruist?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

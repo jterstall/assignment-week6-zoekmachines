@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001535</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001535&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001535</item>
+         <item attribuut="Document-id">0000019921</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 517</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Stoffelen (PvdA) over het tegen betaling leveren van beveiligingsadviezen door de Amsterdamse politie.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 517</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">517</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Stoffelen</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-02-21</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Dales</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-04-07</item>
+         <item attribuut="Beginpagina">1087</item>
+         <item attribuut="Eindpagina">1090</item>
+         <item attribuut="Omvang">4 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1087" allpagenumbers="1087 1088" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="517" onderwerp="het tegen betaling leveren van beveiligingsadviezen door de Amsterdamse politie." indiendatum="1992-02-21">
+         <vrager partij="PvdA" oorsprong="parlement">Stoffelen</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="10">
+      <vraag nummer="1">Is er een stichting opgericht voor het door de Amsterdamse politie tegen betaling leveren van beveiligingsadviezen?' </vraag>
+      <vraag nummer="2">Wat zijn de werkzaamheden van deze stichting? </vraag>
+      <vraag nummer="3">Wat is het doel van dit initiatief? </vraag>
+      <vraag nummer="4">Welke invloed heeft deze stichting op de concurrentiepositie van de particuliere beveiligingsbedrijven? </vraag>
+      <vraag nummer="5">Wat is uw oordeel over deze aktiviteit? </vraag>
+      <vraag nummer="6" voetnoot="1">Bent u voornemens terzake maatregelen te nemen? <voetnoot nummer="1"/> De Telegraaf van 20 februari jl Vragen van het lid Stoffelen (PvdA) over het tegen betaling leveren van beveiligingsadviezen door de Amsterdamse politie. (Ingezonden 21 februari 1992) </vraag>
+      <vraag nummer="1">Hebt u kennis genomen van berichten' dat: - de gemeentepolitie Amsterdam deze week als eerste politiekorps in Nederland begonnen is met het tegen betaling leveren van beveiligingsadviezen aan particulieren en bedrijven; - deze adviezen worden gegeven via een speciaal opgerichte Stichting International Police Product Centre; - deskundigen van de Amsterdamse gemeentepolitie in hun vrije tijd deze adviezen gaan verstrekken? </vraag>
+      <vraag nummer="2">Zijn deze activiteiten te rijmen met de nota Doorberekening Politiekosten? Zo ja, in hoeverre? </vraag>
+      <vraag nummer="3">Deelt u de opvatting, dat het geven van voorlichting over preventie in het algemeen een gewone taak is van de politie waarvoor burgers en bedrijven niet hoeven te betalen? </vraag>
+      <vraag nummer="4">Acht u het verenigbaar met de status en rechtspositie van een politie-ambtenaar - in Nederland toch op zijn minst een full-time-job –, dat politiemensen in hun vrije tijd werkzaamheden verrichten die dan ook nog op het terrein liggen van de politie? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1992-02-20" bron=" Zie De Telegraaf"> Zie De Telegraaf, 20 februari 1992</noot>
+      </noten>
+   </vragen>
+   <toelichting>Deze vragen dienen ter aanvulling op de eerdere vragen terzake van het lid Dijkstal, ingezonden 21 februari 1992. </toelichting>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="7">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001135</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001135&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001135</item>
+         <item attribuut="Document-id">0000011439</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 204</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Aanvullende vragen van het lid Sipkes (GroenLinks) over opsluiting van asielzoekers in isoleercellen van de Bijlmerbajes.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 204</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">204</item>
+         <item attribuut="Indiener">
+            <persoon partij="GroenLinks">Sipkes</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-11-19</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Kosto</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-12-07</item>
+         <item attribuut="Beginpagina">421</item>
+         <item attribuut="Eindpagina">422</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="421" allpagenumbers="421" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="204" onderwerp="opsluiting van asielzoekers in isoleercellen van de Bijlmerbajes." indiendatum="1992-11-19">
+         <vrager partij="GroenLinks" oorsprong="parlement">Sipkes</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-12-7">
+         <antwoorder functie="staatssecretaris" ministerie="Justitie">Kosto</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1">Kunt u bevestigen dat dit jaar al vijftien tot twintig keer asielzoekers in isoleercellen van de Bijlmerbajes zijn opgesloten, omdat ze zich volgens de directie van het grenshospitium «misdroegen»?' </vraag>
+      <vraag nummer="2">Waaruit bestond het «misdragen»? Wat wordt verstaan onder «niet-handhaafbaar» gedrag? Wordt daaronder bijvoorbeeld verbale agrecsie verstaan? </vraag>
+      <vraag nummer="3">Krijgen mensen vc^tevoren een waarschuwing dat ze bij bepaald gedrag kunnen worden overgeplaatst? </vraag>
+      <vraag nummer="4">Vindt er bij «niet-handhaafbaar» gedrag van asielzoekers overleg plaats met een psychiater? </vraag>
+      <vraag nummer="5">Waarom worden asielzoekers met «niet-handhaafbaar» gedrag niet overgebracht naar de psychiatrische afdeling van het AMC? </vraag>
+      <vraag nummer="6">Deelt u de mening, dat asielzoekers niet thuishoren in een strafinrichting? Bestaat binnen het grenshospitium de mogelijkheid spannmgen - als gevolg van de detentiesituatie of de onzekere positie waarin de asielzoekers verkeren - af te reageren, zonder dat meteen repercussies plaatsvinden? </vraag>
+      <vraag nummer="8">Wat is de gemiddelde verblijfsduur van asielzoekers in het grenshospitium? Hoe vaak is deze langer dan twee maanden? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1992-11-17" bron=" De Volkskrant van 19 november jl., NRC"> De Volkskrant van 19 november jl., NRC, 17 november 1992</noot>
+      </noten>
+   </vragen>
+   <toelichting>Deze vragen dienen ter aanvulling op de eerdere vragen terzake van het lid Wolffensperger. </toelichting>
+   <antwoorden aantal="7">
+      <antwoord nummer="1">Ja. In zeven gevallen was sprake van feitelijke fysieke agressie (aanvallen personeel of medebewoners), in twee gevallen ging het om ongewenste intimiteiten t.o.v. (vrouwelijk) personeel en in de overige gevallen was sprake van een zich herhaald niet houden aan opdrachten, huisregels, gepaard gaand met een hoge mate van verbale agressie en dreiging t.o.v. het personeel. De gemiddelde verblijfsduur op de afzonderingsafdeling bedroeg 5 dagen. In één geval was er sprake van 13 dagen. </antwoord>
+      <antwoord nummer="3">Nee, wel wordt hun uitgelegd aan welke regels men zich te houden heeft en wat de gevolgen kunnen zijn bij niet naleving daarvan. </antwoord>
+      <antwoord nummer="4">Als regel niet, slechts in die gevallen waarbij de arts inschakeling van een psychiater geïndiceerd acht. </antwoord>
+      <antwoord nummer="5">Omdat het geen psychiatrische gevallen betreft. </antwoord>
+      <antwoord nummer="6">Ja. </antwoord>
+      <antwoord nummer="7">Binnen het Grenshospitium bestaan diverse voorzieningen die kunnen bijdragen tot het reduceren van spanningen. Er zijn voorzieningen op het gebied van sport en ontspanning, er is een adequate medische begeleiding en frequent contact met organisaties als VVN is mogelijk. Vreemdelingenbegeleiders proberen tijdig spanningen te onderkennen en daarop in te spelen c.q. te verwijzen. Daarmee blijkt evenwel niet in alle gevallen voorkomen te worden dat spanningen optreden c.q. zonder problemen verwerkt worden. </antwoord>
+      <antwoord nummer="8">De gemiddelde verblijfsduur van asielzoekers bedraagt 6 a 7 weken. In 25% van de gevallen is deze langer dan twee maanden. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

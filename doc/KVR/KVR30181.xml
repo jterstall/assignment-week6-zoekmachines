@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="5">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Gerkens (SP) aan de minister van Economische Zaken over mobiele spam. (Ingezonden 1 november 2007); Antwoord</item>
+         <item attribuut="Bestand">16Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR30181
+</item>
+         <item attribuut="Inhoud">Reclame via Bluetooth is toegestaan volgens de Telecomwet (De Pers, 30 oktober 2007). Welke andere technieken die ook ongevraagde reclame kunnen verzenden, vallen niet onder de Telecomwet. Moet de Telecomwet aangepast worden om deze vorm van spam tegen te gaan.</item>
+         <item attribuut="Rubriek">Communicatie, media en informatievoorziening (Netwerken) Communicatie, media en informatievoorziening (Reclame)</item>
+         <item attribuut="Trefwoorden">Draadloze netwerken Reclame</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2007-2008, nr. 698, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070803880</item>
+         <item attribuut="Afkomstig_van">Economische Zaken (EZ)</item>
+         <item attribuut="Indiener">
+            <persoon partij="SP">Gerkens</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2007-11-19</item>
+         <item attribuut="Datum_indiening">2007-11-01</item>
+         <item attribuut="Document-id">KVR30181</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1485" allpagenumbers="1485 1486" vetnummer="2070803880" code="0708tkkvr698" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Aanhangsel" filenaam="KVR30181" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2007"/>
+      <vraagdata vraagnummer="698" onderwerp="" indiendatum="2007-11-1">
+         <vrager partij="SP" oorsprong="parlement">Gerkens</vrager>
+         <vraagt-aan>de minister van Economische Zaken</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2007-11-19">
+         <antwoorder functie="staatssecretaris" ministerie="Economische Zaken">Heemskerk</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Wat is uw reactie op het artikel «Nergens meer veilig voor spam»? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Is het waar dat reclame via Bluetooth volgens de Telecomwet geen spam is? Zo neen, kan de mobiele spam dan wel aangepakt worden op basis van de Telecomwet? </vraag>
+      <vraag nummer="3">Indien de reclame via Bluetooth inderdaad toegestaan is volgens de Telecomwet, vindt u dit dan wenselijk? Kunt u uw antwoord toelichten? </vraag>
+      <vraag nummer="4">Bent u bereid te inventariseren welke andere technieken ongevraagde reclame kunnen verzenden en niet onder de Telecomwet vallen? </vraag>
+      <vraag nummer="5">Bent u bereid de Telecomwet op dit gebied aan te passen? Zo neen, waarom niet? Zo ja, op welke termijn? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="2007-10-30" bron="Dagblad de Pers">Dagblad de Pers, 30 oktober 2007</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1">Ik heb kennis genomen van het artikel «Nergens meer veilig voor reclame». De kop van het artikel wekt de suggestie dat de gebruiker van elektronische communicatiemiddelen geen enkele bescherming geniet tegen spam. Dit geeft een verkeerd beeld van de situatie. In Nederland wordt door toezichthouder OPTA met succes krachtig opgetreden tegen spam. Nederland is eind 2006 door de Europese Commissie zelfs geprezen om haar anti-spam beleid en de toonaangevende resultaten van OPTA op dit terrein. </antwoord>
+      <antwoord nummer="2" voetnoot="1">Artikel 11.7, eerste lid, van de Telecommunicatiewet (hierna ook: het spamverbod) staat het gebruik van elektronische berichten voor het overbrengen van ongevraagde communicatie voor commerciële <voetnoot nummer="1"/>doeleinden toe wanneer de verzender van die berichten kan aantonen dat de (ontvangende) abonnee daarvoor toestemming heeft gegeven (opt in). OPTA kan op grond van de Telecommunicatiewet optreden tegen het verzenden aan een abonnee van ongevraagde reclame door middel van email en SMS. Bij Bluetooth gaat het om berichten die autonoom via apparaten worden verstuurd, dat wil zeggen onafhankelijk van een bepaald openbaar elektronisch communicatienetwerk en onafhankelijk van een elektronische communicatiedienst. Ook via een mobiele telefoon die geen verbinding (meer) heeft met het netwerk van een aanbieder (bijvoorbeeld door een gebrek aan ontvangst of omdat de gebruiker van de mobiele telefoon geen contract heeft met een specifieke aanbieder), kan een gebruiker langs de Bluetooth-interface berichten ontvangen. Artikel 11.7 van de Telecommunicatiewet is hierop niet van toepassing, omdat er geen sprake is van een openbare elektronische communicatiedienst en dus ook niet van een abonnee. </antwoord>
+      <antwoord nummer="3">De omvang van de hinder van reclame via Bluetooth blijft naar verwachting vooralsnog beperkt. In de eerste plaats omdat het bereik van Bluetooth gering is. Daardoor is het aantal mensen dat via een apparaat bereikt kan worden klein. In de tweede plaats maken de meeste mobiele bellers geen gebruik van Bluetooth. Tot slot kan op bijna alle mobieltjes Bluetooth zo worden ingesteld dat het toestel niet zichtbaar is voor deze vorm van ongevraagde reclame. Tot nog toe zijn mij ook geen klachten bekend over reclame via Bluetooth. Ik zal de ontwikkelingen nauwlettend blijven volgen. Mocht deze vorm van reclame echt van de grond komen en grote hinder gaan veroorzaken, dan zal ik onderzoeken of daar via regelgeving paal en perk aan kan worden gesteld (zie ook het antwoord op vraag 5). </antwoord>
+      <antwoord nummer="4">Nee, het inventariseren van technieken waarmee ongevraagde reclame kan worden verstuurd en die mogelijkerwijs niet onder de werking van het spamverbod vallen acht ik niet zinvol. Gelet op de snelle ontwikkelingen zou een dergelijke inventarisatie te snel achterhaald zijn. Bovendien gaat een dergelijke inventarisatie voorbij aan het werkelijke probleem, namelijk de vraag hoe ver de bescherming van artikel 11.7 van de Telecommunicatiewet zou moeten gaan. </antwoord>
+      <antwoord nummer="5" voetnoot="2">Gelet op de vele mogelijke vormen van elektronische communicatie, acht ik het zinvol de formulering en reikwijdte van het spamverbod goed tegen het licht te houden. Een beperking is nu bijvoorbeeld dat abonnees worden beschermd en niet gebruikers van een openbare elektronische communicatiedienst (zie het antwoord op vraag 2). De formulering en reikwijdte kunnen dus wellicht worden aangescherpt. Een eventuele aanscherping kan evenwel slechts op Europees niveau geschieden. Artikel 11.7 van de Telecommunicatiewet is de implementatie van artikel 13 van Richtlijn 2002/58/EG. Meer algemeen moet de Nederlandse regelgeving in oveereenstemming zijn met de bijzondere privacy richtlijn (Richtlijn 2002/58/EG <voetnoot nummer="2"/>). Ik zal in het kader van de nu lopende herziening van het Europees regelgevend kader voor de elektronische communicatiesector een mogelijke herformulering van het genoemde artikel 13 aan de orde stellen. Ik zal daarbij pleiten voor een meer algemene formulering, waarbij als uitgangspunt het beschermen van het belang van de eindgebruiker (abonnees en andere gebruikers) moet gelden. Deze ervaart immers de ontvangst van ongevraagde reclame als ongewenst, ongeacht de manier waarop het bericht is verzonden en ongeacht de apparatuur waarop het betreffende bericht bij de eindgebruiker binnenkomt. Ik wijs er voor de volledigheid op, dat ook reclame of marketing via Bluetooth valt onder de regels van het wetsvoorstel Oneerlijke handelspraktijken, dat momenteel ter behandeling in de Eerste Kamer ligt (EK 30 928, nr. A). </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1">Ook berichten voor een ideëel of charitatief doel vallen onder de werking van het spamverbod</noot>
+         <noot nummer="2">Richtlijn 2002/58/EG van het Europees Parlement en de Raad van 12 juli 2002 betreffende de verwerking van persoonsgegevens en de bescherming van de persoonlijke levenssfeer in de sector elektronische communicatie (richtlijn betreffende privacy en elektronische communicatie), Pb EG L201/37</noot>
+      </noten>
+   </antwoorden>
+</kvr>

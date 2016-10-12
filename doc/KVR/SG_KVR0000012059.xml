@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="4">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001755</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001755&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001755</item>
+         <item attribuut="Document-id">0000012059</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 825</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Van Heemskerck Pillis-Duvekot (VVD) en Ter Veer (D66) over de helicoptersamenstelling van de luchtmobiele brigade.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 825</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">825</item>
+         <item attribuut="Indiener">
+            <persoon>Van Heemskerck Pillis-Duvekot</persoon>
+            <persoon>Ter Veer</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-08-26</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Ter Beek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-08-31</item>
+         <item attribuut="Beginpagina">1683</item>
+         <item attribuut="Eindpagina">1684</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Karner, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1683" allpagenumbers="1683" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="825" onderwerp="de he/icoptersamenstelling van de luchtmobiele brigade." indiendatum="1993-08-26">
+         <vrager partij="" oorsprong="parlement">Van Heemskerck Pillis-Duvekot</vrager>
+         <vrager partij="" oorsprong="parlement">Ter Veer</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-08-31">
+         <antwoorder functie="minister" ministerie="Defensie">Ter Beek</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Hebben CDA en PvdA hun pleidooi voor een multi-purpose helicopter voor de luchtmobiele brigade tijdens een deze zomer gehouden gesprek met de minister en staatssecretaris van Defensie opgegeven?' </vraag>
+      <vraag nummer="2">Is in dit gesprek tussen de bewindslieden en de woordvoerders van CDA en PvdA de conclusie getrokken dat volstaan kan worden met «veel minder» gevechtshelicopters? (artikel NRC noemt 18 stuks) </vraag>
+      <vraag nummer="3">Willen de beide bewindslieden bevorderen dat een verslag van dit gesprek met de daarbij gemaakte afspraken over types, aantallen etc. zo spoedig mogelijk naar de Kamer wordt gezonden? </vraag>
+      <vraag nummer="4">Willen de minister en staatssecretaris tevens aangeven wat de status (nog) is van hun brief van 12 juli jl. (Kamerstuk 22 327, nr. 13) over de helicoptersamenstelling van de luchtmobiele brigade? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1993-08-21" bron=" NRC-Handelsblad"> NRC-Handelsblad, 21 augustus 1993</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">  e n 4 Wij hebben met de woordvoerders van CDA en PvdA een informeel, verkennend gesprek gevoerd over een aantal onderwerpen, waaronder de studie inzake «multi purpose»-helikopters. Daarbij werden geen conclusies getrokken. Het regeringsstandpunt over de wenselijkheid van de verwerving van een «multi purpose»-helikopter is neergelegd in onze brief van 12 juli jl. </antwoord>
+      <antwoord nummer="1">. Wij hopen hierover op korte termijn met de Kamer van gedachten te wisselen en de standpunten van alle fracties te vernemen. Na dit overleg kunnen verdere stappen voor de verwerving van de helikopters worden gezet. </antwoord>
+      <antwoord nummer="2">Neen. </antwoord>
+      <antwoord nummer="3">Bedoeld gesprek heeft niet geleid tot enigerlei afspraak over types en aantallen helikopters; er is geen verslag van het gesprek gemaakt. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Kamerstuk 22 327, nr. 13</noot>
+      </noten>
+   </antwoorden>
+</kvr>

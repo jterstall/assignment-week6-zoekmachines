@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001726</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001726&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001726</item>
+         <item attribuut="Document-id">0000012030</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 796</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van Gijzel (PvdA) over het N.L.R.-onderzoek over de veiligheid van Schiphol.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 796</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">796</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Van Gijzel</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-07-20</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Maij-Weggen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-08-18</item>
+         <item attribuut="Beginpagina">1623</item>
+         <item attribuut="Eindpagina">1624</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1623" allpagenumbers="1623 1624" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="796" onderwerp="het N.LR.-onderzoek over de veiligheid van Schiphol.' 1" indiendatum="1993-07-20">
+         <vrager partij="PvdA" oorsprong="parlement">Van Gijzel</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="18 augustus 1993), zie ook Aanhangsel Handelingen nr. 789, Vergaderjaar 1992-1993">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">Maij-Weggen</antwoorder>
+         <mede-antwoorder>de ministervan Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer (Ontvangen 18 augustus 1993), zie ook Aanhangsel Handelingen nr</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="10">
+      <vraag nummer="1">Bestaat er een vertrouwelijk rapport van het Nationaal Lucht– en Ruimtevaartlaboratorium (N.L.R.) over de gevolgen van de ontwikkeling van Schiphol tot mainport van de externe veiligheid? </vraag>
+      <vraag nummer="2">Wat is de status van dat rapport? Welke betekenis hebben de daarin gehanteerde cijfers? </vraag>
+      <vraag nummer="3">Heeft de MER-commissie in haar schrijven op 28 mei 1993 aan Gedeputeerde Staten van Noord-Holland de rekenmethodiek van het N.L.R. als bruikbaar beoordeeld? Bent u voornemens dit rapport openbaar te maken? Zo neen, waarom niet? </vraag>
+      <vraag nummer="5">Droeg het kabinet kennis van de inhoud van dit rapport op het moment dat er een voorlopige beslissing werd genomen inzake de eventuele aanleg van de vijfde baan? </vraag>
+      <vraag nummer="6">Wordt dit rapport betrokken bij de voorbereiding door de regering van deel 1 van de Planologische Kernbeslissing? </vraag>
+      <vraag nummer="7">Zo neen, hoe zullen dan de interne en externe veiligheidsaspecten betrokken worden bij het nu in voorbereiding zijnde deel 1 van de P.K.B.? </vraag>
+      <vraag nummer="8">Zal daar ook een veiligheidsstudie van het N.L.R: bij betrokken worden? Zo ja, wat voor studie betreft dat en wanneer komt die beschikbaar? Is er met de N.L.R. een afspraak gemaakt over de wetenschappelijke onafhankelijkheid bij onderzoeken naar de externe veiligheid van Schiphol? </vraag>
+      <vraag nummer="10">Zo ja, wat is de inhoud van die afspraak? Zo neen, hoe wordt dan de wetenschappelijke betrouwbaarheid van het resultaat gewaarborgd? </vraag>
+      <vraag nummer="11">Herinnert u zich de toezegging gedaan direct na de vliegramp in Amsterdam-Zuid-Oost dat vóór het zomerreces van 1993 een onderzoeksrapport openbaar gemaakt zou worden over de externe veiligheid van Schiphol? </vraag>
+      <vraag nummer="12">Hoe zal deze toezegging gestand worden gedaan?  4 </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Kamerstukken 11, blz I, 1992-1993, 21 964, nr</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="6">
+      <antwoord nummer="1">Het Nationaal Lucht– en Ruimtevaartlaboratorium (NLR) is bezig met twee opdrachten: a. Het ontwikkelen van een rekenmethodiek (in sommige stukken ook wel rekenmodel of rekenvoorschrift genoemd) die het mogelijk moet maken de risico's van het luchtverkeer voor omwonenden van luchthavens in kaart te brengen. b. Het daadwerkelijk berekenen van de externe risico's voor de baanvarianten die in het kader van het Project Mainport en Milieu Schiphol (PMMS) worden ontwikkeld. De rekenmethodiek is nog niet afgerond en vastgesteld. Op grond van een nog experimentele versie van de methodiek zijn voorlopige berekeningen gemaakt. De resultaten van de definitieve berekeningen zullen worden opgenomen in het Integrale Milieu Effect Rapport (IMER), dat mede ten grondslag ligt aan de Planologische Kernbeslissing deel 1 (PKB-1) over Schiphol. Aangezien het IMER op zich nog niets zegt over de aanvaardbaarheid van de berekende risico's zal het Commissie MER concludeert over de concept-rekenmethodiek: «Het rekenvoorschrift dat is gepresenteerd in de Final Draft van het rapport van het Nationaal lucht en Ruimtevaartlaboratorium (NLR) lijkt bruikbaar te zijn voor de uitvoering van de externe veiligheidsanalyse in het integrale MER. Met betrekking tot een vergroting van de bruikbaarheid voor het integrale MER heeft de Commissie opmerkingen over de volgende onderwerpen: - Causale versus niet-causale modellen; - Rechtvaardiging van belangrijke veronderstellingen; - Uitgesloten risico's.» Vervolgens heeft de Commissie MER nog een groot aantal gedetailleerde opmerkingen. Deze worden thans verwerkt. </antwoord>
+      <antwoord nummer="4">Zodra het eindrapport over de rekenmethodiek beschikbaar en vastgesteld is, kan het openbaar worden gemaakt. Het levert echter, zonder de rekenresultaten en de toetsing aan de kaderstelling, op zichzelf nog geen informatie voor definitieve besluitvorming. </antwoord>
+      <antwoord nummer="9">Het NLR is een onafhankelijk wetenschappelijk onderzoeksinstituut. Er zijn in dit verband met het NLR geen andere specifieke afspraken gemaakt, dan dat advies zou worden gevraagd aan de commissie MER. </antwoord>
+      <antwoord nummer="10">Zie het antwoord op vraag 9. Voorts zal de Commissie MER advies geven over de uiteindelijke Integrale MER die voor Schiphol wordt gemaakt. </antwoord>
+      <antwoord nummer="11">In de onder punt 8 genoemde brief van 10 juni 1993 is de Tweede Kamer geïnformeerd over de stand van zaken met betrekking tot de externe veiligheid van Schiphol. Het onderzoek waaraan wordt gerefereerd, is het veiligheidsonderzoek van de RAND-Corporation. Zoals in het antwoord op vraag 8 is medegedeeld, is dat rapport met deze brief openbaar gemaakt. </antwoord>
+      <antwoord nummer="12">Zie het antwoord op vraag 11. ' Kamerstuk 21 964, nr. 13, Vergaderjaar 1992-1993. Zoals in het antwoord op vraag 2 is uiteengezet, is, op het moment dat het Kabinet door de Stuurgroep in kennis werd gesteld over een voorlopige keus voor het toekomstige banenstelsel, slechts de vraag aan de orde gesteld of de voorliggende alternatieven, op basis van de toen beschikbare voorlopige berekeningen, significante verschillen opleverden ten aanzien </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

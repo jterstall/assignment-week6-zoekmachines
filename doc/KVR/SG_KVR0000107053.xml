@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001278</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001278&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001278</item>
+         <item attribuut="Document-id">0000107053</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 246</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Tazelaar (P.v.d.A.) over uitspraken van de voorzitter van het Landbouwschap inzake ambtenaren van het Landbouw Economisch Instituur.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 246</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">246</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Tazelaar</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-12-10</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Braks</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-12-15</item>
+         <item attribuut="Beginpagina">491</item>
+         <item attribuut="Eindpagina">492</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1986-1987 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="246" onderwerp="uitspraken van de voorzitter van het Landbouwschap inzake ambte- naren van het Landbouw Economisch Instituut." indiendatum="10 december 1986)">
+         <vrager partij="PvdA" oorsprong="parlement">Tazelaar</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="15 december 1986)">
+         <antwoorder functie="minister" ministerie="Landbouw en Visserij">B r a k s</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1 ">Hebt u kennis genomen van de  uitspraken van de heer Varekamp,  voorzitter van het KNLC en van het  Landbouwschap, tijdens de algeme- ne vergadering van de Hollandse  Maatschappij van Landbouw?  </vraag>
+      <vraag nummer="2 ">Deelt u zijn opvatting, dat ambtenaren  van het LEI (Landbouw Economisch  Instituut)  - «weer gemeend hebben zich te  moeten mengen in de landbouwpoli- tieke discussie» en «dat zij zich  daarmee buiten hun natuurlijke  werkterrein begeven»,  - «zich bemoeien met zaken die hen  niet aangaan»,  - geen vergaande beleidsconclusies  aan hun cijfermatige analyses  moeten verbinden en  - het niet tot hun taak mogen  rekenen bij te dragen aan beleidsvor- ming, aangezien zulks de taak is van  de landbouworganisaties?  </vraag>
+      <vraag nummer="3 ">Is het u opgeval'en, dat het Landbouw- schap dergelijke uitspraken slechts  doet wanneer beleidsconclusies van  het LEI niet stroken met de eigen  beleidsopvattingen?  Zie nr.  4 7 van de Landbode, 5  december, blz. 3.  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1 ">Ja.  Eerste gedachtenstreepje: neen  Tweede gedachtenstreepje: neen  derde gedachtenstreepje: ja  vierde gedachtenstreepje: neen.  </antwoord>
+      <antwoord nummer="3 ">Neen.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

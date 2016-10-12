@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="2">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Agema (PVV) aan de staatssecretaris van Volksgezondheid, Welzijn en Sport over de invoering van wasgeld in verzorgingshuizen. (Ingezonden 18 oktober 2007); Antwoord</item>
+         <item attribuut="Bestand">12Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR30155
+</item>
+         <item attribuut="Inhoud">Vindt de staatssecretaris het aanvaardbaar om ouderen in verzorgingshuizen te laten betalen voor het wassen van hun kleding?</item>
+         <item attribuut="Rubriek">Gezondheidszorg (Zorginstellingen)</item>
+         <item attribuut="Trefwoorden">Verzorgingshuizen</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2007-2008, nr. 673, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070802840</item>
+         <item attribuut="Afkomstig_van">Volksgezondheid, Welzijn en Sport (VWS)</item>
+         <item attribuut="Indiener">
+            <persoon partij="PVV">Agema</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2007-11-16</item>
+         <item attribuut="Datum_indiening">2007-10-18</item>
+         <item attribuut="Document-id">KVR30155</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1435" allpagenumbers="1435" vetnummer="2070802840" code="0708tkkvr673" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Aanhangsel" filenaam="KVR30155" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2007"/>
+      <vraagdata vraagnummer="673" onderwerp="" indiendatum="2007-10-18">
+         <vrager partij="PVV" oorsprong="parlement">Agema</vrager>
+         <vraagt-aan>de staatssecretaris van Volksgezondheid, Welzijn en Sport</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2007-11-16">
+         <antwoorder functie="staatssecretaris" ministerie="Volksgezondheid, Welzijn en Sport">Bussemaker</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1" voetnoot="1">Bent u bekend met het bericht «Invoering wasgeld verzorgingshuizen onaanvaardbaar»? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Deelt u mening dat het onaanvaardbaar is om ouderen in verzorgingshuizen te laten betalen voor het wassen van hun kleding? Zo ja, legt u het advies naast u neer? Zo neen, waarom niet? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="2007-10-16" bron="De Telegraaf">De Telegraaf, 16 oktober 2007</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Ik zal de Kamer informeren zodra ik een standpunt heb ingenomen over het CVZ-rapport. Dan zal ik ook ingaan op de door u gestelde vragen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

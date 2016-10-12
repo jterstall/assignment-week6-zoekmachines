@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Maastricht?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001556</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001556&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001556</item>
+         <item attribuut="Document-id">0000019942</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 538</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Lankhorst (Groen Links) over de sluiting van een nachtopvangcentrum voor daklozen in Maastricht.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 538</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">538</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Lankhorst</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-03-20</item>
+         <item attribuut="Beantwoorder">
+            <persoon>d'Ancona</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-04-16</item>
+         <item attribuut="Beginpagina">1133</item>
+         <item attribuut="Eindpagina">1134</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1133" allpagenumbers="1133" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="'s Gravenhage 1992"/>
+      <vraagdata vraagnummer="538" onderwerp="de sluiting van een nachtopvangcentrum voor daklozen in Maastricht." indiendatum="1992-03-20">
+         <vrager partij="Groen Links" oorsprong="parlement">Lankhorst</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Is het u bekend, dat de gemeente Maastncht een tijdeiijk nachtopvangcentrum voor daklozen negen dagen na de opening heeft gesloten vanwege pure terreur van een vijftigtal buurtbewoners? </vraag>
+      <vraag nummer="2">Is het juist, dat de terreur zodanig was dat gevreesd moest worden voor lijf en leden van de daklozen als de in gebruik zijnde sporthal nog langer als slaapplaats zou worden gebruikt? </vraag>
+      <vraag nummer="3">Is het u bekend, dat de daklozen als gevolg van de sluiting van de sporthal de nacht op straat moeten doorbrengen? Bent u bereid, voor zover dat vanuit uw verantwoordelijkheid mogelijk is, u in te zetten voor de snelle realisering door de gemeente Maastricht van een blijvend onderkomen voor dak– en thuislozen? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+   <mededeling mededeler="d'Ancona" functie="minister" afdeling="Welzijn, Volksgezondheid en Cultuur" mededelingdatum="1992-04-16">Mededeling van minister d'Ancona (Welzijn, Volksgezondheid en Cultuur). (Ontvangen 16 april 1992) De vragen van het lid Lankhorst over de sluiting van nachtopvangcentrum voor daklozen in Maastricht kunnen tot mijn spijt niet binnen de gebruikelijke termijn worden beantwoord. De reden van het uitstel is dat de burgemeester van Maastricht om inlichtingen is gevraagd. Deze inlichtingen zijn heden nog niet beschikbaar. De beantwoording zal naar verwachting kunnen plaatsvinden in de eerste week van mei. Is het juist dat de Maastrichtse politie zich niet in staat acht de groep daklozen en de betrokken medewerkers van het Leger des Heils te beschermen tegen de terreur van de buurtbewoners? Bent u bereid hierover in overleg te treden met de gemeentepolitie van </mededeling>
+</kvr>

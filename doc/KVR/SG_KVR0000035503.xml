@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="4">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19891990:0001096</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001096&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001096</item>
+         <item attribuut="Document-id">0000035503</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 173</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Van der Vlies (S.G.P.), Van Leijenhorst (C.D.A.), Schutte (GPV) en Leerling (RPF) over een brochure in het kader van de anti-aidscampagne.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 173</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">173</item>
+         <item attribuut="Indiener">
+            <persoon>Van der Vlies</persoon>
+            <persoon>Van Leijenhorst</persoon>
+            <persoon>Schutte</persoon>
+            <persoon>Leerling</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-11-06</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Simons</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-12-06</item>
+         <item attribuut="Beginpagina">353</item>
+         <item attribuut="Eindpagina">354</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="353" allpagenumbers="353" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 921 7398" uitgever="SDU uitgeverij 's Gravenhage 1989"/>
+      <vraagdata vraagnummer="173" onderwerp="een brochure in het kader van de anti-aidscampagne." indiendatum="1989-11-6">
+         <vrager partij="" oorsprong="parlement">Van der Vlies</vrager>
+         <vrager partij="" oorsprong="parlement">Van Leijenhorst</vrager>
+         <vrager partij="" oorsprong="parlement">Schutte</vrager>
+         <vrager partij="" oorsprong="parlement">Leerling</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1989-12-6">
+         <antwoorder functie="staatssecretaris" ministerie="Welzijn, Volksgezondheid en Cultuur">Simons</antwoorder>
+         <mede-antwoorder>de staats– secretaris van Onderwijs en Weten– schappen</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Is het u bekend, dat de Nederlandse Onderwijs Televisie (NOT) een nieuwe, door overheidsgelden gefinancierde brochure in het kader van de anti-aidscampagne <voetnoot nummer="1"/> onlangs naar alle scholen heeft gestuurd? </vraag>
+      <vraag nummer="2">Is het u opgevallen, dat deze nieuwe brochure, ondanks de door de Nationale Commissie Aidsbestrijding (NCAB) onderkende bezwaren, die in grote delen van het onderwijs leefden tegen de vorige brochure, nauwelijks is aangepast ten aanzien van de benadering van seksualiteit en de platvloerse toonzetting? </vraag>
+      <vraag nummer="3">Deelt u de mening, dat daar waar vertegenwoordigers van het algemeen en openbaar onderwijs deelnemen in een coördinatieoverleg tussen onderwijsorganisaties, NCAB en het Landelijk Centrum voor Gezondheidsvoorlichting en Opvoeding (LCGVO), het onjuist is, dat de algemene en openbare sectie van het NOT zonder vooraankon– diging en zonder rekening te houden met de coördinatie ten opzichte van het bijna gereed zijnde aiternatieve materiaal de brochure ongevraagd naar alle scholen heeft gestuurd? Deelt u de mening, dat de brochure niet beperkt is tot het geven van informatie met het oog op bestrijding van de verspreiding van het AIDS-virus, maar dat veel verder wordt gegaan en ook voorlichting wordt gegeven over in het kader van de beoogde doelstelling irrelevante aspecten van de seksualiteit? </vraag>
+      <vraag nummer="5">Acht u het geen tekortkoming van de brochure, dat hierin het gegeven, dat beperking van seksueel contact tot het monogame huwelijk het meest veilig is, eerder in twijfel wordt getrokken dan nader wordt uitge– werkt? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" titel="AIDS, het komt je niet aanwaaien!"> «AIDS, het komt je niet aanwaaien!»</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">De brochure is inderdaad nauwelijks aangepast. Bij de NOT is erop aange– drongen bij de herdruk van de brochure enkele door WVC genoemde deskundigen te raadplegen. Wij betreuren het dat deze deskundigen in verband met de tijdsdruk door de NOT onvoldoende in de gelegenheid zijn gesteld het projekt kritisch te beoordelen. Deze bezwaren zijn inmiddels aan de NOT duidelijk kenbaar gemaakt. </antwoord>
+      <antwoord nummer="3">Ja. De NOT heeft de afspraken met het Landelijk Centrum Gezondheids– voorlichting en –opvoeding inzake de distributie van het nieuwe materiaal hiermee genegeerd. </antwoord>
+      <antwoord nummer="4 en 5">De primaire verantwoordelijkheid van de overheid in deze is gelegen in de zorg voor adequate voorlichting aan alle burgers. Wij onderschrijven daarom het antwoord van onze ambtsvoorgangers op de vragen van de leden van de Tweede Kamer, de heren Leerling, Van der Vlies en Schutte' «het beschikbare voorlich– tingsmateriaal moet dus breed genoeg zijn om mensen met verschil– lende opvattingen aan te spreken, opdat een ieder zich kan bepalen tot risicomijdend gedrag dat het meest aansluit bij de eigen leefstijl.» Dat is juist de reden waarop de NOT is toegestaan een gewijzigde herdruk van de brochure te produceren en ook andere organisaties in staat werden gesteld alternatieven te ontwikkelen. Ten aanzien van de keuze voor en de benutting van voorlichtingsmateriaal is de eigen verantwoordelijkheid van het bevoegd gezag beslissend. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Aanhangsel Handelingen nr. 102, Verga– derjaar 1988-1989</noot>
+      </noten>
+   </antwoorden>
+</kvr>

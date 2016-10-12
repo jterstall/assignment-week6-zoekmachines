@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19931994:0001289</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001289&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001289</item>
+         <item attribuut="Document-id">0000003800</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 75</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Van Traa en Valk (beiden PvdA) over de heer H. Kaplan.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 75</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">75</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Van Traa</persoon>
+<persoon partij="PvdA">Valk</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-10-08</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Kooijmans</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-10-25</item>
+         <item attribuut="Beginpagina">151</item>
+         <item attribuut="Eindpagina">152</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="151" allpagenumbers="151" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="" onderwerp="" indiendatum="">
+         <vrager partij="PvdA" oorsprong="parlement">Van Traa</vrager>
+<vrager partij="PvdA" oorsprong="parlement">Valk</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-10-25">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">Kooijmans</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="75">Vragen van de leden Van Traa en Valk (beiden PvdA) over de heer H. Kaplan. (Ingezonden 8 oktober 1993) </vraag>
+      <vraag nummer="1">Is de heer H. Kaplan, wonende te Haarlem, in Turkije gevangen gezet om alsnog een straf opgelegd in 1981 door een militaire rechtbank, uit te zitten? Bent u bereid uw invloed aan te wenden opdat de Turkse autoriteiten de heer Kaplan naar Nederland laten terugkeren? </vraag>
+      <vraag nummer="3">Heeft de burgemeester van Haarlem op 27 september 1993 haar steun verleend aan de pogingen om H. Kaplan vrij te krijgen? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1"> t/m3 Ja. Deze aangelegenheid heeft reeds enige tijd de actieve aandacht van mijn ministerie. De omstandigheid dat de heer H. Kaplan eveneens de Turkse nationaliteit bezit, beperkt evenwel in ernstige mate de mogelijkheden van tussenkomst van de kant van de Nederlandse Ambassade in Ankara resp. het Consulaat-Generaal te Istanboel. Volgens de mij ter beschikking staande gegevens werd betrokkene, die kort voordien was uitgeweken naar Nederland, in 1981 door een Turkse militaire rechtbank bij verstek veroordeeld tot een gevangenisstraf van in totaal 17 jaar wegens poging tot moord en verboden wapenbezit. Hij zou tijdens een confrontatie tussen een groep linkse en rechtse jongeren hebben geschoten, waarbij een persoon gewond was geraakt. Blijkbaar in de veronderstelling dat zijn straf op grond van de in 1991 afgekondigde amnestie inmiddels geheel vervallen zou zijn verklaard, keerde de heer Kaplan deze zomer naar Turkije terug, naar verluidt voor familiebezoek. De amnestie in kwestie behelst echter uitsluitend een strafvermindering, met dien verstande dat hij thans nog een deel van de hem oorspronkelijk opgelegde straf zou moeten ondergaan. Tijdens een onlangs op verzoek van de Consul-Generaal te Istanboel tot stand gekomen gesprek met de advocaat van betrokkene is gebleken, dat de heer Kaplan intussen bij de burgerlijke rechtbank in Adana heropenmg van zijn zaak heeft verzocht. Hij zou namelijk een nieuwe getuige (t.w. zijn voormalige chef) hebben gevonden, die bereid zou zijn te verklaren dat hij zich op het bewuste tijdstip elders zou hebben opgehouden. Volgens zijn advocaat zal binnenkort de eerste zittingsdag bekend worden gemaakt en kan binnen zes maanden een uitspraak worden verwacht. Behandeling van een eventueel in te stellen hoger beroep zou vermoedelijk opnieuw zes maanden vergen. De burgemeester van Haarlem heeft inderdaad een verzoekschrift ondersteund van de tegenwoordige werkgever van de heer Kaplan, gericht aan de President van Turkije, tot gratieverlening op humanitaire gronden. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

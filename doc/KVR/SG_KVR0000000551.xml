@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19941995:0000551</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000551&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000551</item>
+         <item attribuut="Document-id">0000000551</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1994-1995 nummer 217</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Leers (CDA) over de Betuwelijn.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1994-1995 nummer 217</item>
+         <item attribuut="Jaargang">1994_1995</item>
+         <item attribuut="Vraagnummer">217</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Leers</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-11-14</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Jorritsma-Lebbink</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-11-28</item>
+         <item attribuut="Beginpagina">435</item>
+         <item attribuut="Eindpagina">436</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1994-1995" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="435" allpagenumbers="435" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1994-1995, Aanhangsel" filenaam="" issn-nummer="ISSN0921 -7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1994"/>
+      <vraagdata vraagnummer="217" onderwerp="de Betuwelijn." indiendatum="1994-11-14">
+         <vrager partij="CDA" oorsprong="parlement">Leers</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-11-28">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">Jorritsma-Lebbink</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Zijn uw uitspraken inzake de Betuwelijn in de pers correct weergegeven? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Waarom is (wordt) door uw ministerie een apart onderzoek uitgevoerd naar de capaciteit van het bestaande spoorwegnet? Rechtvaardigt dit onderzoek de uitspraak, dat er «nog voldoende capaciteit op het spoor zit»? </vraag>
+      <vraag nummer="3">Waarop baseert u uw oordeel, dat de potentie van het bestaande spoor een onderbelicht aspect is gebleven? Was dat ook het geval bij de parlementaire behandeling van de PKB-Betuweroute? </vraag>
+      <vraag nummer="4">Wat is uw oordeel over de uitspraken van de heer R Ranke, directeur Railned.,  dat «voor 2002 geen effect mag worden verwacht van innovatiemaatregelen op het spoor» en dat «de geplande uitbreiding van infrastructuur gewoon moet doorgaan»? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="2"/>
+         <noot nummer="1" datum="1994-11-8" bron=" NRC Handelsblad"> NRC Handelsblad, 8 november 1994</noot>
+         <noot nummer="2" titel="Kadans"> «Kadans», het managementblad van NS van oktober 1994</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja, inhoudelijk wel, zij het, dat ik de voorpagina-kop «Twijfel over noodzaak Betuwelijn» voor rekening van de krant laat. Het onderzoek naar de capaciteit van het bestaande spoorwegnet wordt uitgevoerd als een extra toets en een mogelijke herijking van wat daarover in bijlage 3 van de PKB Betuweroute is opgenomen. Van veel kanten wordt beweerd dat er nog voldoende capaciteit op het spoor zou zijn. Dit onderzoek wil deze uitspraak niet rechtvaardigen, maar deze bewering, of het ongelijk ervan, staven. </antwoord>
+      <antwoord nummer="3">Tijdens de parlementaire behandeling is meermalen naar voren gekomen dat de onderbouwing van de Betuweroute teveel een doelredenering zou zijn. Het punt van de benutting van de bestaande capaciteit, ook naar het moment van mogelijke ingebruikneming van de Betuweroute, was en is naar mijn mening een onderbelicht aspect. Thans wordt gewerkt aan het samenstellen van het tweede tactisch pakket railinfrastructuur, dat zal worden gerealiseerd na afronding van het eerste pakket projecten (Prorail). Hierbij zijn van belang de uitkomsten uit het onderzoek naar de capaciteit van het bestaande spoorwegnet en de benuttingsonderzoeken. Daarbij zal ook worden meegenomen of via innoverende maatregelen en technieken de capaciteit van het net op bepaalde knelpunten kan worden verruimd zonder of met minder uitbreiding van de infrastructuur. Zodra de uitkomsten van de bedoeide studies beschikbaar zijn kan de uitspraak van de heer Ranke worden getoetst. Wel kan nu al worden opgemerkt dat de ontwikkelings– en implementatietijd van nieuwe technieken niet een kwestie van zeer korte termijn is. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

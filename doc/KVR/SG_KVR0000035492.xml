@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19891990:0001085</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001085&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001085</item>
+         <item attribuut="Document-id">0000035492</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 162</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Voorhoeve en Linschoten (beiden V.V.D.) over premiepercentages voor de sociale verzekeringen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 162</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">162</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Voorhoeve</persoon>
+            <persoon partij="VVD">Linschoten</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-11-24</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Ter Veld</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-11-28</item>
+         <item attribuut="Beginpagina">331</item>
+         <item attribuut="Eindpagina">332</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="331" allpagenumbers="331" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 921 7398" uitgever="SDU uitgeverij 's Gravenhage 1989"/>
+      <vraagdata vraagnummer="162" onderwerp="" indiendatum="">
+         <vrager partij="VVD" oorsprong="parlement">Voorhoeve</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Linschoten</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1989-11-28">
+         <antwoorder functie="staatssecretaris" ministerie="Sociale Zaken en Werkgele– genheid">Ter Veld</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Zijn er reeds nieuwe premiepercen– tages voor de sociale verzekeringen vastgesteld? </vraag>
+      <vraag nummer="2">Zo ja, kunt u aangeven, hoe deze premies voor de sociale verzeke– ringen er met ingang van 1 januari 1990 uit gaan zien? </vraag>
+      <vraag nummer="3">Kunt u aangeven, wat de gevolgen zijn van de nieuwe premiepercen– tages voor het koopkrachtbeeld? </vraag>
+      <vraag nummer="4"/>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Met uitzondering van de premies AAW en AWW zijn inmiddels de premies voor de centrale fondsen vastgesteld. De premies AAW en AWW kunnen eerst worden vastge– steld na afhandeling van het wetsvoorstel handhaving leeftijds– grens verzekerings– en premieplicht AAW. Voorts dient de SER nog te adviseren inzake de verdeling van de te worden vastgesteld bij algemene AWf-premie over werkgevers en werknemers. Deze verdeling wordt vervolgens bij algemene maatregel van bestuur vastgesteld. Ook de verdeling van de ZFW-premie over werkgevers en werknemers dient nog maatregel van bestuur. </antwoord>
+      <antwoord nummer="2">Met inachtneming van het antwoord op vraag 1, luiden de premiepercen– tages per 1 januari 1990 als volgt: Werknemers Werkgevers Totaal Centrale fondsen AOW AWW AAW a AWBZ WAO AWf b ZFW Niet centrale fondsen Wgf c ZW C VUT° Vorstverlet WAO-franchise (gld per dag) ZFW-bejaarden ZFW-nominale premie (gld per maand per volwassene) Fictieve premies VVZ AAW AWBZ Overhevelingstoeslag 14,30 1,25 1,15 5,40 12,15 0,65 3,05 0,54 1.20 0,38 0,00 92,00 1,85 15,50 0,00 0,00 0,00 0,00 0,00 1,45 4,85 0,54 5,35 1,05 0,30 5,85 4,55 10,40 14,30 1,25 1,16 5,40 12,15 2,10 7,90 1,08 6,55 1,43 0,30 a  Vermeld zijn de premies AWW en AAW die van kracht zullen worden als het wetsontwerp handhaving leeftijdsgrens verzekerings– en premieplicht AAW wordt aanvaard b Over de verdeling zal de SER binnenkort nog adviseren. Opgenomen is het kabinetsvoorstel c  Deze premies worden vastgesteld door de bedrijfsverenigingen. Vermeld zijn de door SZW geraamde landelijk gemiddelde percentages Met inachtneming van het gestelde in het antwoord op vraag 1 is de koopkrachtontwikkeling als volgt. In het verleden zijn de koopkrachtmutaties steeds berekend zonder dat rekening is gehouden met de effecten van specifieke eigen risico's in de gezondheidszorg («specialistengeeltje en medicijnknaak»). Thans is het ongedaan maken daarvan, met als gevolg een verhoging van de nominale premie ZFW, wel in de cijfers opgenomen. generiek. </antwoord>
+      <antwoord nummer="4"/>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

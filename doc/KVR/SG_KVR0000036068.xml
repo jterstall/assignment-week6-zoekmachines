@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001661</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001661&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001661</item>
+         <item attribuut="Document-id">0000036068</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 737</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden M. de Jong en Esselink (beiden C.D.A.) over bij bodemsanering vrijkomende verontreinigde grond.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 737</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">737</item>
+         <item attribuut="Indiener">
+            <persoon>de Jong M.</persoon>
+            <persoon partij="CDA">Esselink</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-05-18</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Alders</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-06-25</item>
+         <item attribuut="Beginpagina">1487</item>
+         <item attribuut="Eindpagina">1488</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1487" allpagenumbers="1487" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's-Gravenhage 1990"/>
+      <vraagdata vraagnummer="737" onderwerp="bij bodemsanering vrijkomende veront– reinigde grond." indiendatum="1990-05-18">
+         <vrager partij="" oorsprong="parlement">de Jong M.</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Esselink</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="25 juni 1990), zie ook Aanhangsel Handelingen nr. 67, vergaderjaar 1989-1990">
+         <antwoorder functie="minister" ministerie="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer">Alders</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1">In hoeverre wordt de beschikbare capaciteit voor het reinigen van bij bodemsanering vrijkomende veron– treinigde grond daadwerkelijk benut? </vraag>
+      <vraag nummer="2">Hoeveel van de bij bodemsanering vrijkomende verontreinigde grond wordt afgevoerd naar tijdelijke opslagplaatsen? </vraag>
+      <vraag nummer="3">Hoeveel opslagcapaciteit is momenteel beschikbaar? Welke ontwikkeling voorziet u ten aanzien van nieuwe opslagplaatsen? </vraag>
+      <vraag nummer="4">Hoeveel van de verontreinigde grond die reeds eerder is c.q. nog steeds wordt opgeslagen, is met de momenteel beschikbare technieken te reinigen? </vraag>
+      <vraag nummer="5">In hoeverre heeft het sinds enige tijd functionerende Service Centrum Grondreiniging een verschuiving weten te bewerkstelligen naar meer reiniging en dus extra benutting van de reinigingscapaciteit? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">De huidige capaciteit van thermische reinigingsinstallaties is circa 500000 ton/jaar. Hiervan zal in 1990 naar raming van het Service Centrum Grondreiniging (SCG) ongeveer 55% worden benut (73 000 ton via SCG, 100 000 ton via derden, 100 000 ton vanuit het buitenland). De huidige capaciteit van extractieve reinigings– installaties is circa 175 000 ton/jaar. Deze capaciteit zal in 1990 naar verwachting van het SCG volledig door het SCG worden benut. De huidige capaciteit van biologische reinigingsinstallaties is circa 30 000 ton/jaar. Deze capaciteit zal in 1990 naar verwachting van het SCG volledig door derden worden benut. </antwoord>
+      <antwoord nummer="2">Naar verwachting van het SCG zal in 1990 200 000 tot 300 000 ton verontreinigde grond naar tijdehjke opslagplaatsen (TOP's) worden afgevoerd. </antwoord>
+      <antwoord nummer="3">Momenteel is ruim 600 000 ton aan opslagcapaciteit op TOP's aanwezig, waarvan 400 000 ton reeds wordt benut. Bij het SCG bestaan plannen om de TOP Moerdijk op korte termijn uit te breiden met 100 000 ton en op langere termijn met 180000 ton. Van de opgeslagen grond is naar schatting van het SCG ongeveer 356 000 ton reinigbaar met de huidige technieken (thermisch 70 000 ton, extractief 286 000 ton). </antwoord>
+      <antwoord nummer="5">Vanaf 1-1-1990 is melding aan het SCG van bij sanering vrijkomende verontreinigde grond verplicht, indien de sanering wordt gefinan– cierd op basis van de IBS. Reeds nu is meer grond aangeboden aan het SCG dan bij oprichting voor het eerste jaar was voorzien. Het betrof ook verontreinigde grond die vrij Is gekomen bij saneringen buiten het financiële kader van de IBS. Hiermee lijkt een verschuiving van storten naar reiniging op te treden. Het is echter te vroeg om hieraan reeds nu definitieve conclusies te verbinden. Dit grotere aanbod heeft met name geleid tot extra benutting van de extractieve reinigingscapaciteit. Voor de overige reinigingsinstallaties is het aanbod minder gebleven dan de actuele reinigingscapaciteit. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19851986:0001556</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001556&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001556</item>
+         <item attribuut="Document-id">0000115116</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1985-1986 nummer 635</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Knol, Wallage, Herfkens en Ter Beek (allen P.v.d.A.) over ontwikkelingshulp aan Zuidelijk-Afrika.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1985-1986 nummer 635</item>
+         <item attribuut="Jaargang">1985_1986</item>
+         <item attribuut="Vraagnummer">635</item>
+         <item attribuut="Indiener">
+            <persoon>Knol</persoon>
+            <persoon>Wallage</persoon>
+            <persoon>Herfkens</persoon>
+            <persoon>Ter Beek</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-03-14</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Schoo</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-03-18</item>
+         <item attribuut="Beginpagina">1263</item>
+         <item attribuut="Eindpagina">1264</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1985-1986 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 5 - 1 9 8 6 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="635" onderwerp="ontwikkelingshulp aan Zuidelijk-Afrika." indiendatum="14 maart 1986)">
+         <vrager partij="" oorsprong="parlement">Knol</vrager>
+         <vrager partij="" oorsprong="parlement">Wallage</vrager>
+         <vrager partij="" oorsprong="parlement">Herfkens</vrager>
+         <vrager partij="" oorsprong="parlement">Ter Beek</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="18 april 1986) 1 en 2 In bijgaande tabellen">
+         <antwoorder functie="minister" ministerie="Ontwikkelingssamenwerking">Schoo</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1 ">Wilt u een overzicht' verschaffen van  de hulp, die in de jaren 1984 en  1985 is aangeboden ten behoeve van  Angola, Botswana, Lesotho, Malawi,  Mozambique, Namibië, Swaziland,  Tanzania, Zambia en Zimbabwe  buiten de jaarlijkse allocatie, uitge- splitst naar begrotingsjaar, naar  begrotingscategorie, naar aard van  de hulp en het kanaal waarlangs die  wordt geleid?  </vraag>
+      <vraag nummer="2 ">Wilt u aangeven, welke posten tot  het zogenaamde Zuidelijk-Afrika-pro- gramma, inclusief de hulp aan  SADCC, moeten worden gerekend?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

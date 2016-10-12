@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19871988:0001510</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001510&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001510</item>
+         <item attribuut="Document-id">0000099224</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1987-1988 nummer 567</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Voorhoeve en Weisglas (beiden V.V.D.) over een internationaal hulpplan voor Afghanistan</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1987-1988 nummer 567</item>
+         <item attribuut="Jaargang">1987_1988</item>
+         <item attribuut="Vraagnummer">567</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Voorhoeve</persoon>
+            <persoon partij="VVD">Weisglas</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1988-04-19</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1988-05-19</item>
+         <item attribuut="Beginpagina">1139</item>
+         <item attribuut="Eindpagina">1140</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 7 - 1 9 8 8 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 7 - 1 9 8 8 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="567" onderwerp="een internationaal hulpplan voor Afghanis- tan" indiendatum="19 april 1988)">
+         <vrager partij="VVD" oorsprong="parlement">Voorhoeve</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Weisglas</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="19 mei 1988)">
+         <antwoorder functie="" ministerie="Buitenlandse Zaken"/>
+         <mede-antwoorder>de minister voor Ontwikke- lingssamenwerking</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1 ">Zijn de bewindslieden bereid de  situatie in Afghanistan, nu de  ondertekening van het Verdrag  inzake dat land heeft plaatsgevonden,  aan de orde te stellen in het kader  van de EG?  </vraag>
+      <vraag nummer="2 ">Willen zij daarbij met name aan de  orde stellen, dat de EG de totstand- koming van een internationaal  hulpplan ten behoeve van de  Afghaanse bevolking zou dienen te  stimuleren? Willen zij voorts bevorde- ren, dat de EG daar ruimhartig aan  bijdraagt?  </vraag>
+      <vraag nummer="3 ">Delen zij de mening, dat een dergelijk  hulpplan vooral gericht zou moeten  zijn op herstel van de enorme  oorlogsschade, op hervestiging van  de miljoenen vluchtelingen en op het  weer op gang brengen van de  voedselproduktie in Afghanistan?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1 ">Sinds de Sowjet-inval in Afghanistan  in 1979 vormt deze kwestie bij  voortduring onderwerp van overleg  in het kader van de Europese  Politieke Samenwerking.  W i j zijn van mening dat de EG een  nuttige rol kan spelen bij hulpacties  t.b.v. de Afghaanse bevolking en  ondersteunen het initiatief dat de  Commissie inmiddels al in deze  richting heeft ondernomen.  Eventuele voorstellen van de  Commissie voor een EG-bijdrage in  de vorm van co-financiering van  acties van internationale instellingen  als UNHCR, de WFP en/of ICRC  zullen  o p de gebruikelijke wijze  worden beoordeeld.  Naar ons oordeel zou in de eerste  plaats kunnen worden gedacht aan  hulp bij de terugkeer van vluchte- lingen.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

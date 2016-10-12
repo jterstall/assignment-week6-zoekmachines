@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001642</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001642&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001642</item>
+         <item attribuut="Document-id">0000011946</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 712</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Melkert (PvdA) over een nieuw zogenaamd groeifonds.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 712</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">712</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Melkert</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-06-04</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van Amelsvoort</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-07-02</item>
+         <item attribuut="Beginpagina">1453</item>
+         <item attribuut="Eindpagina">1454</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1453" allpagenumbers="1453 1454" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="712" onderwerp="een nieuw zogenaamd groeifonds." indiendatum="1993-06-4">
+         <vrager partij="PvdA" oorsprong="parlement">Melkert</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-07-2">
+         <antwoorder functie="staatssecretaris" ministerie="Financiën">Van Amelsvoort</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1" voetnoot="1">Heeft u kennisgenomen van de introductie van een nieuw zogenaamd groeifonds dat zich vooral richt op het realiseren van belastingbesparing voor belastingplichtigen die met een deel van hun belastbaar inkomen in het 50%- of 60%-tarief van de inkomstenbelasting vallen en die hun rente-/dividendvrijstelling reeds hebben benut? <voetnoot nummer="1"/>Hoeveel belastingplichtigen vallen met hun rente-inkomsten in het 50%-, respectievelijk het 60%-tarief? Welke bedragen zijn daarmee gemoeid? Om welke belastingopbrengsten gaat het daarbij? </vraag>
+      <vraag nummer="3">Kunt u de gegevens voor de vorige vraag ook verstrekken met betrekking tot dividenden? </vraag>
+      <vraag nummer="4">Kunnen met name belastingplichtigen met hoge inkomens via de groeifondsen aanzienlijke bedragen aan zowel inkomstenbelasting als vermogensbelasting besparen? </vraag>
+      <vraag nummer="5">Welk bedrag verliest de schatkist jaarlijks aan inkomstenbelasting. doordat de bovenbedoelde belastingplichtigen over de opbrengsten uit groeifondsen geen inkomstenbelasting betalen? </vraag>
+      <vraag nummer="6">Welke opbrengst loopt de schatkist mis, doordat er belastingplichtigen zijn die via een groeifonds hun belastbaar inkomen tot nihil terugbrengen en door middel van de toepassing van de zgn. 80%-regeling de vermogensbelasting ontgaan? </vraag>
+      <vraag nummer="7">Acht u het aanvaardbaar, dat hogere inkomens via groeifondsconstructies ten koste van de samenleving belasting ontgaan in een tijd waarin voor de meeste mensen koopkrachtverlies dreigt? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1993-05-5" bron=" Zie ondermeer Financieel Dagblad"> Zie ondermeer Financieel Dagblad, 5 mei 1993</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Er vallen circa 475 000 belastingplichtigen met rente-inkomsten in de 50%-schijf en circa 135 000 in de 60%-schijf (raming 1990). De rente-inkomsten waarover belasting wordt betaald (in casu de ontvangen rente minus de rentevrijstelling) bedragen respectievelijk 2 160 mln en 1 835 mln., hetgeen leidt tot een belastingopbrengst van respectievelijk 1 080 mln. en 1 100 mln. Er vallen circa 80000 belastingplichtigen met inkomsten uit aandelen in de 50%-schijf en circa 60 000 in de 60%-schijf (raming 1990). De inkomsten uit aandelen waarover belasting wordt betaald (in casu de inkomsten na aftrek van de dividendvrijstelling) bedragen respectievelijk 290 mln en 880 mln, hetgeen leidt tot een belastingopbrengst van respectievelijk 145 mln en 530 mln. </antwoord>
+      <antwoord nummer="4">Belegging via rentegroeifondsen heeft voor de particuliere belegger zowel positieve als negatieve fiscale aspecten. Zo is het tarief van de vennootschapsbelasting dat het groeifonds moet betalen (35%) lager dan het tarief van de inkomstenbelasting (tot 60%) dat de particuliere belegger zou moeten betalen indien hij of zij rente– of dividendinkomsten rechtstreeks zou genieten. Daar staat echter tegenover dat de grondslag voor de belastingheffing in de vennootschapsbelasting afwijkt van de grondslag in de inkomstenbelasting. Zo worden vermogenswinsten bij rechtstreekse belegging door een particulier in het algemeen niet belast, terwijl deze bij een rentegroeifonds in principe wel onder de heffing van vennootschapsbelasting vallen. Vermogensverliezen zijn voor een met name voor belastingplichtigen met een inkomen in de tweede of derde schijf. Belastingplichtigen met hoge inkomens kunnen in het algemeen door te beleggen in rentegroeifondsen geen vermogensbelasting besparen; de waarde van de aandelen in dergelijke fondsen is immers volledig belast voor de vermogensbelasting. Door te beleggen in een groeifonds kunnen belastingplichtigen wel eerder in aanmerking komen voor toepassing van de zogenoemde 80%-regeling, doordat dergelijke beleggingen - in tegenstelling tot beleggingen die rente of dividend opleveren - in beginsel geen invloed hebben op het belastbaar inkomen. In deze uitzonderingssituatie hoeven zij over een deel van het vermogen feitelijk geen vermogensbelasting te betalen. </antwoord>
+      <antwoord nummer="5">Het is niet zonder meer mogelijk het bedrag aan gederfde inkomstenbelasting te kwantificeren, doordat er diverse factoren in ogenschouw genomen moeten worden. Particulieren die beleggen via rentegroeifondsen betalen uit dezen hoofde weliswaar geen inkomstenbelasting, maar daar staat tegenover dat het resultaat van het rentegroeifonds wel in de vennootschapsbelasting wordt betrokken. Indien wordt uitgegaan van de fictieve situatie dat er geen rentegroeifondsen zouden bestaan, dan zou het thans in deze fondsen belegde vermogen door belastingplichtigen op een andere wijze zijn aangewend. In deze fictieve rendement is voor hen immers inkomstenbelastingvrij. Wel is het zo dat zij inderdaad een lager belastbaar inkomen hebben ten opzichte van de situatie dat deze belastingplichtigen rente– en/of dividendinkomsten zouden ontvangen over het thans in de rentegroeifondsen belegde vermogen. Het is In beginsel echter niet mogelijk uitsluitend door te beleggen in een groeifonds het belastbare inkomen tot nihil terug te brengen. Het op deze wijze inkomstenbelastingvrij geïncasseerde rendement is in zijn effect op het te betalen bedrag aan inkomstenbelasting vergelijkbaar met een aftrekpost, maar toch kunnen beide situaties niet zonder meer op één lijn worden gesteld. Een aftrekpost reduceert immers het belastbare inkomen, terwijl belegging in groeifondsen voorkomt dat het belastbare inkomen stijgt. </antwoord>
+      <antwoord nummer="7">Zoals ik in het antwoord op vraag 4 reeds heb aangegeven, zijn er voor de particuliere belegger zowel positieve als negatieve fiscale aspecten verbonden aan belegging in rentegroeifondsen. Overigens verwijs ik naar hetgeen ik tijdens het door de heer De Korte aangevraagde mterpellatiedebat van 4 mei jl. heb opgemerkt, namelijk dat het kabinet geen voornemen heeft de wetgeving ter zake van deze fondsen te wijzigen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

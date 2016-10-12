@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19851986:0001640</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001640&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001640</item>
+         <item attribuut="Document-id">0000115200</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1985-1986 nummer 719</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Groenman (D'66) over de beschikbaarheid van de brochure «Wat te doen na aanranding of verkrachting».</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1985-1986 nummer 719</item>
+         <item attribuut="Jaargang">1985_1986</item>
+         <item attribuut="Vraagnummer">719</item>
+         <item attribuut="Indiener">
+            <persoon partij="D'66">Groenman</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-03-21</item>
+         <item attribuut="Beantwoorder">
+            <persoon>De Korte</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-05-22</item>
+         <item attribuut="Beginpagina">1429</item>
+         <item attribuut="Eindpagina">1430</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1985-1986 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 5 - 1 9 8 6 , Aanhangsel 1429 " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="719" onderwerp="de beschikbaarheid van de brochure «Wat te doen na aanranding of verkrachting»." indiendatum="21 maart 1986)">
+         <vrager partij="D'66" oorsprong="parlement">Groenman</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="minister" ministerie="Binnenlandse Zaken">De Korte</antwoorder>
+         <mede-antwoorder>de Minister van Justitie en de Staatssecretaris van Sociale Zaken en Werkgelegenheid, mevrouw Kappeyne van de Coppello</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1 ">Heeft de door u in maart uitgebrachte  brochure «Wat te doen na aanranding  of verkrachting» de bedoeling de  aangiftebereidheid van slachtoffers  van sexuele geweldsmisdrijven te  vergroten?  </vraag>
+      <vraag nummer="2 ">Deelt u de mening, dat beschikbaar- heid van deze brochure alleen op  politiebureaus de aangiftebereidheid  niet vergroot, aangezien slachtoffers,  die zich bij de politie melden de  drempel naar de politie al hebben  genomen?  </vraag>
+      <vraag nummer="3 ">Ligt het wellicht meer voor de hand  de brochure ook ter beschikking te  stellen van bijvoorbeeld huisartsen  en andere personen of instellingen  die gemakkelijk toegankelijk zijn voor  eventuele slachtoffers? Zo ja, bent u  daartoe bereid? Zo nee, waarom niet?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1 ">Ja.  2 en 3  Het is niet zo dat alleen op de  politiebureaus de folders voor het  publiek aanwezig zijn. Ook de  zogenoemde Emancipatiekoepels zijn  in het distributieplan betrokken,  zodat de brochure ook beschikbaar is  bij instanties als «Vrouwen tegen  verkrachting», «Tegen haar wil»,  «Blijf van mijn lijf» enz. Verder heeft  het Landelijk Bureau Slachtofferhulp  brochures ter verspreiding ontvangen.  Dit bureau is het coördinerende  orgaan voor de slachtofferhulpprojec- ten in den lande. Ook wordt de  brochure verspreid op drie huishoud- beurzen (Maastricht, Amsterdam en  Enschede). Het zou wenselijk zijn nog  meer instellingen bij de distributie te  betrekken (MAIC's, RIAGG's,  e t c ) .  Ook de huisartsen zouden hierin een  belangrijke rol kunnen vervullen.  Op het Ministerie van Welzijn,  Volksgezondheid en Cultuur wordt  nagegaan hoe een en ander zou  kunnen worden geëffectueerd.  Overigens is de vakpers gezondheids- zorg op de hoogte gesteld van het  bestaan van de brochure met het  doel gezondheidszorg en hulpverle- ning te stimuleren de brochure aan te  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

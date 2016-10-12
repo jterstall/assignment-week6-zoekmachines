@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001357</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001357&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001357</item>
+         <item attribuut="Document-id">0000011661</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 427</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Willems (GroenLinks) en Schimmel (D66) over de uitvoer van klein chemisch afval (KCA).</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 427</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">427</item>
+         <item attribuut="Indiener">
+            <persoon>Willems</persoon>
+            <persoon>Schimmel</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-02-11</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Alders</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-03-22</item>
+         <item attribuut="Beginpagina">875</item>
+         <item attribuut="Eindpagina">876</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="rweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="875" allpagenumbers="875 876" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="427" onderwerp="de uitvoer van klein chemisch afval (KCAj." indiendatum="1993-02-11">
+         <vrager partij="" oorsprong="parlement">Willems</vrager>
+         <vrager partij="" oorsprong="parlement">Schimmel</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-03-22">
+         <antwoorder functie="minister" ministerie="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer">Alders</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1" voetnoot="1">Is het waar, dat grote hoeveelheden verfafval die gescheiden in KCA-depots e.d. zijn mgezameld, niet worden aangeboden aan verwerkingsinstallaties of met het oog op definitieve verwerking niet tijdelijk worden opgeslagen, maar gemengd worden gestort in Schönberg in de voormalige D.D.R.? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Worden voor deze exporten steeds vergunningen op grond van de Wet Chemische Afvalstoffen (WCA) afgegeven? Zo ja, waarom? Hoe vaak is een vergunning geweigerd? </vraag>
+      <vraag nummer="3" voetnoot="2">Herinnert u zich uw antwoord op eerdere schriftelijke <voetnoot nummer="2"/> vragen dat het, als verwerking in de toekomst mogelijk wordt, beter is in de tussentijd afvalstoffen tijdelijk op te slaan, en dat «voor de uitvoer van dergelijke afvalstoffen dan ook geen toestemming tot uitvoer wordt gegeven»? Deelt u de mening, dat het dan voor de h.and ligt geen toestemming te verlenen voor de uitvoer van KCA waarvoor waarschijnlijk binnenkort in Nederland verwerkingsmogelijkheden ontstaan? </vraag>
+      <vraag nummer="5">Wat vindt u van het verwijt van de betrokken afvalinzamelaars dat de export onvermijdelijk is geworden omdat het ministerie niet wil meewerken aan vergunningen voor tijdelijke opslag? </vraag>
+      <vraag nummer="6">Bent u bereid tijdelijke opslag mogelijk te maken zodat de periode totdat verantwoorde milieuhygiënische verwerking in Nederland mogelijk is, overbrugd kan worden? </vraag>
+      <vraag nummer="7">Bent u bereid in afwachting van een definitieve verwerkingsmogelijkheid nieuwe WCA-vergunningen voor export van KCA te weigeren? </vraag>
+      <vraag nummer="8">Bent u bereid een bijdrage te leveren aan de sanering van de oude deponie in Schönberg, aangezien ongeveer 10% van het gestorte afval afkomstig is van Nederlandse bedrijven? Ziet u mogelijkheden de betrokken bedrijven aan te slaan voor een saneringsbijdrage? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Aanhangsel Handelingen 1990-1991, 725 KCA = klein chemisch afval</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1">Ja. In 1992 is in totaal ruim 20% van het (zowel bij bedrijven als bij KCA-depots) ingezamelde verfafval uitgevoerd naar Schönberg. Dit betrof zowel bewerkbaar als niet bewerkbaar verfafval. Tot de categorie bewerkbaar verfafval behoort onder andere de lege verfemballage, het overgrote deel van het in KCA-depots ingezamelde verfafval. De categorie niet bewerkbaar verfafval betreft met name de met verf vervuilde voorwerpen die niet in een verfbehandelingsinstallatie bewerkt kunnen worden maar bij voorkeur rechtstreeks verbrand dienen te worden. </antwoord>
+      <antwoord nummer="2">Ja. De Wet chemische afvalstoffen (Wca) biedt de mogelijkheid om bezwaar te maken tegen voorgenomen uitvoer indien die strijdig is met programma's als bedoeld in artikel 4, zesde lid van de EG-Richtlijn 84/631 EEG. Tot oktober 1992 is geen bezwaar tegen uitvoer gemaakt omdat er onvoldoende bewerkings– en opslagcapaciteit bestond. Na de uitbreiding van de vergunning voor de verfopslag in Vlissingen en het in werking treden van de verfbehandelingsinstallatie van ATM was het capaciteitsprobleem voor de totdat het beroep is behandeld. De ervaring heeft geleerd dat dit 1 a 2 jaar in beslag neemt. Bij de behandeling van een verzoek om schorsing is niet de rechtmatigheid van de bestreden beschikking in het geding, maar alleen een belangenafweging. In dit geval achtte de voorzitter van de Raad van State dat Hoogers Chemisch Afval, mede omdat op het moment van de behandeling van het schorsingsverzoek onvoldoende kon worden aangetoond dat de bewerkingscapaciteit groot genoeg was (opstartproblemen bij ATM), onevenredig in zijn belang zou zijn geschaad indien de bestreden beschikking niet zou worden geschorst. Overigens wi! ik opmerken dat slechts door een beperkt aantal inzamelaars verfafval naar Schönberg wordt uitgevoerd. Er is zes keer bezwaar gemaakt tegen een voornemen om bewerkbaar verfafval uit te voeren. </antwoord>
+      <antwoord nummer="3">Ja. </antwoord>
+      <antwoord nummer="4">Ja, echter zie ook het antwoord op vraag 2. </antwoord>
+      <antwoord nummer="5">Het verwijt dat het ministerie niet wil meewerken aan vergunningen voor tijdelijke opslag is niet terecht. Indien hiermee export van gevaarlijk afval kan worden voorkomen wordt waar mogelijk hieraan medewerking verleend. Uiteraard moet dan wel worden voldaan aan de randvoorwaarden die de wet stelt om een dergelijke vergunning af te geven. Dit laatste maakt daarom niet aan de orde </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

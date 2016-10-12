@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001385</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001385&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001385</item>
+         <item attribuut="Document-id">0000035792</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 463</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Lankhorst (Groen Links) over luchtvervuiling rondom Schiphol.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 463</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">463</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Lankhorst</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-01-24</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Alders</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-03-19</item>
+         <item attribuut="Beginpagina">931</item>
+         <item attribuut="Eindpagina">932</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="931" allpagenumbers="931 932" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="463" onderwerp="luchtvervuiling rondom Schiphol." indiendatum="1990-01-24">
+         <vrager partij="Groen Links" oorsprong="parlement">Lankhorst</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-03-19">
+         <antwoorder functie="minister" ministerie="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer">Alders</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Hebt u kennis genomen van de kritiek van Natuur en Milieu op het rapport van het Rijksinstituut voor Milieuhygiëne (RIVM) over luchtver– vuiling in de regio rondom Schiphol en de mate waarin het vliegverkeer daaraan bijdraagt?' </vraag>
+      <vraag nummer="2">Zo ja, wat is uw reactie hierop? </vraag>
+      <vraag nummer="3">Is het bericht juist, dat de eerste auteur van het rapport van het RIVM in deze kwestie een spreekverbod heeft gekregen? Zo ja, wat is hiervan de reden?' </vraag>
+      <vraag nummer="4">Is er opdracht gegeven voor een vervolgonderzoek, mede nu blijkt dat critici komen tot een drie– tot viermaal hoger aandeel van Schiphol in de luchtverontreiniging in de regio? Zo nee, bent u bereid deze opdracht alsnog op korte termijn te verstrekken? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja. Inmiddels is nadere informatie verkregen door direct contact met Natuur en Miüeu. - De krittiek van Natuur en Milieu is voornamelijk gericht op de procedure waarin m.b.v. concentra– tiemetingen op het Schipholterrein de emissies, zoals verkregen uit onderzoek elders, werden getoetst. Met name spitst de kritiek zich toe op de resultaten zoals verkregen voor de component SÜ2. De oorspronkelijke schatting van de emissie van deze component hangt af van het brandstofgebruik, het zwavelgehalte daarin en de tijdsduur van de verschillende vliegfasen. Het RIVM-onderzoek gaat uit van 0,1% zwavel in de brandstof en van boven– waarden voor beide andere parameters. In de eerder genoemde toetsingsprocedure wordt m.b.v. een verspreidingsmodel, uitgaande van de geschatte emissie de concen– traties berekend en vergeleken met de gemeten concentraties. Binnen de nauwkeurigheidsmarge van de procedure, door de onderzoekers geschat op circa 50%, bleek overeenstemming tussen meting en berekening te bereiken door halvering van de SOa-emissie. Deze halvering nu komt Natuur en Milieu zo curieus voor dat geconstateerd wordt dat de hele procedure tot systematische onderschatting van de concentraties met een factor 3 a 4 leidt. Het zwavelgehalte van een kerosine zoals geleverd aan Schiphol blijkt, volgens opgave van alle betrokken oliemaatschappijen kleiner dan 0,05% zwavel te zijn. Halvering van de SOa-uitstoot is dus alleen al op basis van het zwavelgehalte van de brandstof zeer wel mogelijk. Hiermee vervalt een belangnjk argument om te twijfelen aan de betrouwbaarheid van de toegepaste procedure. Bovendien kan nog opgemerkt worden dat het verspreidingsmodel toegepast wordt om de concen– traties zoals gemeten op Schiphol, te extrapoleren naar de regio. Systema– tische fouten in het model spelen daardoor geen rol. Behalve naar het zwavelgehalte van de kerosine geleverd aan Schiphol is eveneens gekeken naar het zwavel– gehalte in het buitenland. Ook hier blijkt het zwavelgehalte gemiddeld lager te liggen dan 0,05%. Het zwavelgehalte wordt bewust laag gehouden omdat zwavel ten dele wordt omgezet in zuur dat de turbi– neschroefbladen aantast. Resumerend kan gesteld worden dat de kritiek van Natuur en Milieu geen aanleiding vormt tot twijfel aan de schattingen van de lange termijn concentraties en de bijdrage van Schiphol daaraan. - De opmerkingen van Natuur en Milieu dat in het onderzoek geen aandacht is geschonken aan het verschijnsel stank en aan de grootte van de depositie is juist. Hoewel de resultaten van het onderzoek journalist zich rechtstreeks tot één van de auteurs van het RIVM-rapport. Deze heeft vervolgens de journalist gewezen op de binnen het RIVM geldende regels en dus verwezen naar de woordvoerder ter zake. </antwoord>
+      <antwoord nummer="4">Het onderzoek van het RIVM was gericht op het inzicht verkrijgen naar de luchtkwaliteit rondom Schiphol en met name naar die stoffen die mogelijk kankerverwekkend zijn. Dit vanwege de ongerustheid van de bevolking ter plaatse inzake een mogelijk verhoogd kankerrisico. Gezien de conclusies van het RIVM-rapport heeft de begeleidings– commissie, waarin alle betrokkenen waren vertegenwoordigd, het niet nodig geoordeeld verder vervolgon– derzoek aan te bevelen. Een reaktie die nu, zie het antwoord op vraag 2, niet is veranderd. De houding van de begeleidingscommissie moet ook gezien worden in het licht van de onderzoeken die in het kader van het Plan van Aanpak Schiphol en omgeving gaande zijn of nog moeten worden opgestart. Op dit moment is het ministerie van VROM in onderhandeling met een gerenommeerd onderzoeksinstituut om te komen tot een beschrijving van de huidige luchtverontreiniging in de directe omgeving van Schiphol en de toekomstige luchtverontrei– niging. Bij de toekomstige belasting zullen verschillende ontwikkelings– scenario's worden doorgerekend. Voor wat betreft de huidige situatie is het geen herhaling van het RIVM-onderzoek doch een uitbreiding. In de huidige situatie zal aandacht besteed worden aan </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

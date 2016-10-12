@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001411</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001411&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001411</item>
+         <item attribuut="Document-id">0000019797</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 396</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Willems (Groen Links) over allesbranders en haarden.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 396</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">396</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Willems</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-01-21</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Alders</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-02-24</item>
+         <item attribuut="Beginpagina">839</item>
+         <item attribuut="Eindpagina">840</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="839" allpagenumbers="839 840" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="'s Gravenhage 1992"/>
+      <vraagdata vraagnummer="396" onderwerp="allesbranders en haarden." indiendatum="1992-01-21">
+         <vrager partij="Groen Links" oorsprong="parlement">Willems</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="24 februari 1992) zie ook Aanhangsel Handelingen, nr. 346, Vergaderjaar 1991-1992">
+         <antwoorder functie="minister" ministerie="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer">Alders</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1">Deelt u de mening, dat het thans beschikbare Nederlandse en buitenlandse onderzoek naar de effecten op volksgezondheid en milieu van het gebruik van kachels voor vaste brandstoffen (houtkachels, open haarden, allesbranders en dergelijke) voldoende aanleiding geeft tot het op korte termijn ontwikkelen van een landelijk beleid terzake? </vraag>
+      <vraag nummer="2" voetnoot="1">Kent u de rapporten over de milieu-effecten van kachels voor vaste brandstoffen, afkomstig van de vereniging van directeuren van basisgezondheidsdiensten in Noord-Brabant en van de vakgroep energie– en milieukunde van de Rijksuniversiteit te Groningen? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="3">Bent u bereid opdracht te geven tot aanvullend onderzoek naar de uitstoot door dergelijke kachels van componenten als benzo(a)pyreen, benzeen, aldehyden en stikstofhoudende aromatische koolwaterstoffen, zoals aanbevolen in genoemde onderzoeken? </vraag>
+      <vraag nummer="4">Kan al tijdens het huidige stookseizoen een begin worden gemaakt met een voorlichtingscampagne ter bevordering van stookgedrag dat zo min mogelijk hinder en uitstoot van schadelijke stoffen met zich meebrengt? </vraag>
+      <vraag nummer="5">Hoe staat het met de ontwikkeling van een verplicht keurmerk voor houtkachels en openhaarden? Wanneer kan een dergelijk keurmerk worden ingevoerd? </vraag>
+      <vraag nummer="6">Ziet u mogelijkheden om, in aansluiting op Duitse voorschriften, eisen te stellen aan in vaste kachels te gebruiken brandstof? Welke ervaringen zijn in Duitsland opgedaan tnet de handhaving van dergelijke voorschriften? </vraag>
+      <vraag nummer="7">Kan bij het ontwikkelen van een landehjk beleid ten aanzien van kachels voor vaste brandstoffen worden aangesloten bij beleid zoals dat in verschillende andere landen (bijvoorbeeld de Verenigde Staten, Engeland, Zweden en Duitsland) al is geformuleerd? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" titel="Milieu-effecten van allesbranders en open haarden"> B. J. A. Groot en M. C. M. van der Made, «Allesbranders, een bron van ellende...» (Vereniging van directeuren basisgezondheidsdiensten en RIMH Noord-Brabant) P. A. Okken, «Milieu-effecten van allesbranders en open haarden» (Vakgroep energie en milieukunde, Rijksuniversiteit Groningen)</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja. Het milieubeleid ten aanzien van houtkachels en open haarden wordt er op gericht om er enerzijds voor te zorgen dat de emissies van houtkachels en open haarden zodanig laag zijn dat aan de luchtkwaliteitseisen voor polycyclische aromatische koolwaterstoffen, betrokken op de carcinogene gidsstof benzo(a)pyreen, kan worden voldaan en anderzijds het optreden van hinder zoveel mogelijk te voorkomen. Vooralsnog zal voor nieuwe houtkachels en open haarden een typekeuringsregeling worden opgesteld teneinde emissies van luchtverontreinigende stoffen terug te dringen. Tevens zal er voorlichting plaatsvinden gericht op het beïnvloeden van het stookgedrag. De mate van optredende hinder wordt namelijk voor een groot deel bepaald door het stookgedrag. Bij de beantwoording van vraag 4 wordt verder op het instrument voorlichting ingegaan. Afhankelijk van de uitkomsten van reeds lopend onderzoek zal worden bezien of verdergaande maatregelen noodzakelijk zijn. onder vraag 1 beschreven maatregelen op de milieukwaliteit zal zijn en welke andere maatregelen getroffen kunnen worden. De resultaten daarvan zullen dit voorjaar bekend zijn. </antwoord>
+      <antwoord nummer="4">Bij de implementatie van het nieuwe beleid zai voorlichting over de nieuwe maatregelen worden gegeven (winter 1993/'94). Tevens zal voorlichting plaatsvinden die gericht is op het beïnvloeden van het stookgedrag. Sinds 1985 is er een brochure over «Verstandig stoken van kachels en haarden voor vaste brandstoffen». De voorraad van deze brochure is op het ogenblik uitgeput. Omdat de inhoud verouderd is, is een ongewijzigde herdruk niet wenselijk. Een gewijzigde herdruk kan dit stookseizoen niet meer worden geproduceerd en zal daarom het volgende stookseizoen verschijnen (winter '92/'93). regels kunnen stellen, wordt handhaving duidelijk als een probleem ervaren. </antwoord>
+      <antwoord nummer="7">Er bestaan in diverse landen, zoals Duitsland, de Verenigde Staten en Zweden typekeuringsregelingen voor vaste brandstofkachels. Voor zover nu bekend is er van verdergaande beleidsontwikkeling op landelijk mveau ten aanzien van vaste-brandstofkachels in deze landen (nog) geen sprake. Wel bestaan er locale regelingen. Bij verdere beleidsontwikkeling inzake vastebrandstofkachels in Nederland zal zoveel mogelijk rekening worden gehouden met de ervaringen van andere landen op dit terrein. Dit maakt dan ook deel uit van het bij de beantwoording van vraag 3 geschetste onderzoek. Er is reeds een onderzoek naar de implicaties van het uitvoeren van een verplichte typekeuring in gang gezet (zie de antwoorden op vragen 1 en 3). Naar alle waarschijnlijkheid kan medio 1993 een verplichte typekeuring worden ingevoerd. </antwoord>
+      <antwoord nummer="6">Het inventariseren van de mogelijkheden om eisen te stellen aan in kachels voor vaste brandstoffen te gebruiken brandstoffen valt onder het bij de beantwoording van vraag 3 geschetste onderzoek. In de Bondsrepubliek is een regeling op bondsniveau: onder bepaalde </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

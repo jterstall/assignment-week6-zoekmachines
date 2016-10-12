@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001269</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001269&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001269</item>
+         <item attribuut="Document-id">0000107044</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 237</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden De Pree en Verspaget (beiden P.v.d.A.) over gezondheidsschade bij werknemers ten gevolge van begassing met methylbromide.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 237</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">237</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">De Pree</persoon>
+            <persoon partij="PvdA">Verspaget</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-10-08</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Nijpels</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-12-11</item>
+         <item attribuut="Beginpagina">473</item>
+         <item attribuut="Eindpagina">474</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 6 - 1 9 8 7 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="237" onderwerp="gezondheidsschade bij werknemers ten gevolge van begassing met methylbromide." indiendatum="8 oktober 1986)">
+         <vrager partij="PvdA" oorsprong="parlement">De Pree</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Verspaget</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="11 december 1986)">
+         <antwoorder functie="minister" ministerie="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer">Mijpels</antwoorder>
+         <mede-antwoorder>de Staatssecretaris van Sociale Zaken en Werkgelegenheid</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="10">
+      <vraag nummer="1 ">Hebt u kennis genomen van berichten  inzake gezondheidsschade bij  werknemers ten gevolge van begas- sing van het Muiderslot met methyl- bromide?'  Welke hoeveelheid methylbromide  werd gebruikt?  </vraag>
+      <vraag nummer="3 ">W a t was de directe oorzaak van de  gezondheidsschade?  </vraag>
+      <vraag nummer="4 ">Is en was deze toepassing van  methylbromide toegelaten?  </vraag>
+      <vraag nummer="5 ">Is bij begassing van het Muiderslot  voldaan aan de meldingsplicht? Zo ja,  wat is met deze melding gebeurd?  </vraag>
+      <vraag nummer="6 ">Welke voorschriften dienen bij deze  toepassing in acht te worden  genomen? Is dat in het onderhavige  geval ook gebeurd? Zo neen, wie  draagt hiervoor de verantwoordelijk- heid?  </vraag>
+      <vraag nummer="7 ">Bieden alternatieve methoden, die uit  het oogpunt van gezondheid en  milieu de voorkeur verdienen, een  oplossing? Zo ja, zijn deze methoden  in dit geval overwogen? Zo neen,  waarom niet?  </vraag>
+      <vraag nummer="8 ">Welke andere niet-landbouwtoepas- singen van methylbromide zijn thans  toegestaan?  </vraag>
+      <vraag nummer="9 ">Kennen deze toepassingen, net als  die in de tuinbouw, afstandseisen ten  aanzien van omliggende bebouwing?  </vraag>
+      <vraag nummer="10 ">Hoe denkt u nieuwe ongevallen met  methylbromide bij niet-landbouwtoe- passingen te voorkomen?  </vraag>
+      <vraag nummer="11 ">Wanneerzal de eerder aangekondigde  algemene beëindiging van het  methylbromidegebruik een feit zijn?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="6">
+      <antwoord nummer="1 ">Ja.  </antwoord>
+      <antwoord nummer="2 ">Volgens berekening van de Arbeidsin- spectie (4e district te Nieuwegein) is  in totaal ca. 1 75 kg. methylbromide  gebruikt.  </antwoord>
+      <antwoord nummer="3 " voetnoot="1">Uit onderzoek van genoemd district  van de Arbeidsinspectie is gebleken  dat blootstelling van de huid aan, in  vergelijking met de MAC-waarde',  <voetnoot nummer="1"/> Publicatieblad DG Arbeid, P 145: De  Nationale MAC-lijst 1986.  hoge concentraties methylbromide- damp de directe oorzaak is geweest  van de gezondheidsschade.  4 en 8  De toepassing van methylbromide is  uitsluitend toegelaten in gasdicht af  te sluiten ruimten ter bestrijding van  insekten, mijten en aaltjes in voorra- den van in de toelatingsbeschikking  genoemde produkten, materialen en  voorwerpen. De gassing van het  Muiderslot vond plaats ter bestrijding  van aantasting door insekten van de  houten constructie van het gebouw;  bovendien werden enkele aangetaste  houten voorwerpen meegegast. Ten  tijde van deze toepassing was een  expliciet verbod van het gebruik van  methylbromide ten behoeve van  bestrijding van houtaantastende  insekten in gebouwen reeds in  voorbereiding, maar nog niet  opgenomen in het wettelijke afleve- rings- en gebruiksvoorschrift. Het ligt  in de bedoeling een dergelijk verbod  op korte termijn in te voeren.  </antwoord>
+      <antwoord nummer="5 " voetnoot="2 3 2 3">Ja. De firma die deze toepassing  uitvoerde heeft op 26 augustus  j l . de  Rijkskeuringsdienst van Waren te  Amsterdam de gegevens gemeld die  onderde meldingsregeling methylbro- mide ex artikel 14 c van het Bestrij- dingsmiddelenbesluit <voetnoot nummer="2"/> vallen. Door  onbekendheid met de ambtelijke  afspraken als bedoeld in de toelichting  bij de Regeling melding methylbromi- de <voetnoot nummer="3"/> heeft doormeiding aan het  districtshoofd van de Arbeidsinspec- tie en aan de Regionaal Inspecteur  van de Volksgezondheid belast met  het toezicht op de hygiëne van het  milieu niet plaatsgevonden.  <voetnoot nummer="2"/> Staatsblad 1986 199.  <voetnoot nummer="3"/> Staatscourant 186, 130  uitgebreid aandacht geschonken aan  de in acht te nemen voorschriften en  te nemen veiligheidsmaatregelen.  In hoeverre er voorschriften niet in  acht zijn genomen is nog onderwerp  van onderzoek dat  w o r d t uitgevoerd  door het 4e district van de Arbeidsin- spectie. In beginsel berust de  verantwoordelijkheid voor het in acht  nemen van deze voorschriften bij de  aanwezige deskundige als bedoeld in  artikel 14a van het Bestrijdingsmidde- lenbesluit.  </antwoord>
+      <antwoord nummer="7 ">Houtaantastende insekten zijn  eveneens afdoende te bestrijden met  behulp van gassing met fosforwater- stof of cyaanwaterstof. Vanwege de  benodigde langere duur van gassing  met fosforwaterstof (welke zou  resulteren in sluiting van het Muider- slot gedurende minimaal 8 dagen) is  alléén het alternatief cyaanwaterstof  in overweging genomen. Op advies  van het Centraal Laboratorium voor  onderzoek van voorwerpen van kunst  en wetenschap is gekozen voor  methylbromide vanwege de grotere  effectiviteit van dit middel en de in  vergelijking tot cyaanwaterstof  geringere aantasting van kunstvoor- werpen. Bij dit advies hebben  overwegingen van arbeidshygiënische  aard geen rol gespeeld. Alternatieve  methoden bestaan voorts uit het  behandelen van onbewerkt hout met  een vloeibaar insecticide. Deze  laatste behandeling is gekozen voor  de torens en zolders van het Muider- slot (deze ruimten zijn niet gegast  met methylbromide), maar vormde  geen alternatief voor de andere  ruimten, daar hier geen onbewerkt  hout voorkomt.  het te gassen objekt en via een  verdampingsapparaat mag worden  ingebracht,  b. opname van het voorschrift dat  ontgassing van buitenaf plaats dient  te vinden.  c. opname van het voorschrift dat de  metingen ten behoeve van de  gasvrijverklaring door de gassingslei- der (houder van een bewijs van  deskundigheid) uitgevoerd dienen te  worden.  Voorts worden thans de mogelijkhe- den van verdere vervanging van  bepaalde toepassingen van methyl- bromide bestudeerd.  11  Ten aanzien van de toelatingen voor  gebruik van methylbromide anders  dan als grondontsmettingsmiddel  bestaat het voornemen in 1987 alle  toepassingen die niet in vaste  gassingsinstallaties plaatsvinden en  waarvoor een geschikt vervangend  middel voorhanden is te verbieden.  Ten aanzien van de toepassing van  methylbromide ten behoeve van  grondontsmetting  w o r d t verwezen  naar het Indicatieve Meerjaren  Programma Milieubeheer  1 9 8 7 - </antwoord>
+      <antwoord nummer="1991" voetnoot="4">
+         <voetnoot nummer="4"/>, waarin gesteld is dat over de  aangekondigde beëindiging van dit  gebruik van methylbromide in 1986  wordt beslist.  Thans voeren de betrokken  ministeries hierover afrondend  overleg; het resultaat hiervan wordt  de Tweede Kamer zo spoedig  mogelijk bericht.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="5">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001239</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001239&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001239</item>
+         <item attribuut="Document-id">0000027576</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 306</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Lilipaly (P.v.d.A.) over voetbalvandalisme.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 306</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">306</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Lilipaly</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-11-29</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Dales</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-01-16</item>
+         <item attribuut="Beginpagina">617</item>
+         <item attribuut="Eindpagina">618</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="617" allpagenumbers="617" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1991"/>
+      <vraagdata vraagnummer="306" onderwerp="voetbalvandalisme." indiendatum="1990-11-29">
+         <vrager partij="PvdA" oorsprong="parlement">Lilipaly</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1991-01-16">
+         <antwoorder functie="minister" ministerie="Binnenlandse Zaken">Dales</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1">Bent u bereid met de KNVB, de NS en de Burgemeesters, vooruitlopend op overleg met deze Kamer over voetbalvandalisme, op korte termijn te overleggen teneinde gebeurte– nissen, zoals die van het afgelopen weekeinde bij de wedstrijd Feijenoord-FC Den Haag, te voorkomen? </vraag>
+      <vraag nummer="2">Hebt u de indruk, dat de organisaties in het betaalde voetbal gemaakte afspraken aan hun laars lappen? </vraag>
+      <vraag nummer="3">Deelt u de opvatting, dat wanneer de verenigingen zich niet aan afspraken houden, zij voor de kosten van het voetbalvandalisme moeten opdraaien? Zo ja, bent u bereid dit aan de clubs in het betaald voetbal mede te delen? </vraag>
+      <vraag nummer="4">Is er onderzoek gedaan naar de kosten die gemaakt worden ten behoeve van de politie-inzet met betrekking tot het betaald voetbal? Zo neen, bent u bereid een dergelijk onderzoek te laten doen? </vraag>
+      <vraag nummer="5">Wanneer zal de regering haar standpunt over het rapport Voetbal– vandalisme geven? Bent u bereid daarbij de gedragingen van voetbal– supporters rondom stadions en reizende naar en van stations te betrekken? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1">Er is geen reden om thans extra overleg te voeren met de in de vraag bedoelde instanties, waar in het verleden reeds goede afspraken zijn gemaakt en alle geledingen in goed onderling contact met elkaar staan. Ik wijs in dit verband op het Centraal Informatiepunt Voetbalvandalisme, ondergebracht bij de gemeentepo– litie te Utrecht, dat een belangrijke rol speelt bij de afstemming en coördinatie van de concreet per wedstrijd te nemen maatregelen. Voorts is er regelmatig overleg tussen de NS en mijn departement over de incidentele politie-assistentie bij vervoer rond wedstrijden met een risico-karakter. </antwoord>
+      <antwoord nummer="2">Neen, zeker niet in algemene zin. Ik kan mij echter niet aan de indruk onttrekken dat in een enkel geval de afspraken over het aan supporters van de uitreizende club ter beschikking stellen van zogeheten combi-kaarten niet geheel zijn nagekomen. </antwoord>
+      <antwoord nummer="3">Ik ben van oordeel dat onder omstandigheden, indien blijkt dat een vereniging in strijd met gemaakte afspraken heeft gehandeld en (mede) daardoor schade is ontstaan aan de belangen van anderen, verhaal van deze schade op de betreffende vereniging via een daartoe strekkende civielrechtelijke procedure, denkbaar is. Het is aan de belanghebbenden zelf om een derge– lijke actie te ondernemen. Over de mogelijkheid en wense– lijkheid om in het algemeen kosten verbonden aan politieinzet rond betaald-voetbalwedstrijden door te berekenen, zullen mijn ambtgenoot van Justitie en ik u op korte termijn informeren bij gelegenheid van ons standpunt over het vorig jaar uitge– brachte rapport «Profijt en politie». </antwoord>
+      <antwoord nummer="4">Ja. Voor het seizoen 1986-1987 is een berekening gemaakt voor de directe kosten verbonden aan de politieinzet rond betaald-voetbalwed– strijden. Deze kwam uit op 10 miljoen gulden. Het Centraal Infor– matiepunt Voetbalvandalisme heeft mij bericht dat de politieinzet in het seizoen 1989-1990 in omvang nagenoeg gelijk was aan het eerder genoemde seizoen 1986-1987 en berekent de daarmee verband houdende directe kosten, gecorri– geerd met gestegen personeels– lasten, op 11,2 miljoen gulden. </antwoord>
+      <antwoord nummer="5">Een rapport «Voetbalvandalisme» is mij onbekend. Wanneer in de vraag wordt gedoeld op de reeds toege– zegde voortgangsrapportage terzake van het rijksoverheidsbeleid rond voetbalvandalisme, kan ik meedelen dat het in het voornemen ligt om </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

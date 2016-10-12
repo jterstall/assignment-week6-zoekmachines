@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="afstemming." aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001753</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001753&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001753</item>
+         <item attribuut="Document-id">0000028090</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 817</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Esselink en Laning-Boersema (beiden CDA) over controle op het werken aan en met genetisch gemodificeerde organismen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 817</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">817</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Esselink</persoon>
+            <persoon partij="CDA">Laning-Boersema</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-07-23</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Alders</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-08-21</item>
+         <item attribuut="Beginpagina">1665</item>
+         <item attribuut="Eindpagina">1666</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1665" allpagenumbers="1665" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1991"/>
+      <vraagdata vraagnummer="817" onderwerp="controle op het werken aan en met genetisch gemodificeerde organismen." indiendatum="1991-07-23">
+         <vrager partij="CDA" oorsprong="parlement">Esselink</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Laning-Boersema</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1" voetnoot="1">Hebt u kennis genomen van de klachten over het functioneren van de Inspectie Milieuhygiëne bij de controle op het werken aan en met genetisch gemodificeerde organismen? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Deelt U de mening, dat juist op dit terrein, waar uiterste zorgvuldigheid bij de vergunningverlening geboden is, ook bij de controle op de verleende vergunningen diezelfde zorgvuldigheid in acht moet worden genomen? </vraag>
+      <vraag nummer="3">Kunt u inzicht verschaffen in de capaciteit (kwantitatief en kwali– tatief) van de Inspectie Millieuhy– giëne, zowel voor de directe controle, als voor het noodzakelijke aanvullende (laboratorium–) onderzoek, die beschikbaar is op het onderhavige terrein? </vraag>
+      <vraag nummer="4" voetnoot="2">Hoeveel vergunningen als bedoeld in art. 2 van het Besluit genetisch gemodificeerde organismen <voetnoot nummer="2"/> zijn in omloop? Hoe vaak zijn de vergun– ninghouders gecontroleerd op naleving van de vergunning in de afgelopen twee jaren? </vraag>
+      <vraag nummer="5">Hoe verloopt de controle op de in dit verband door gemeenten verleende Hinderwetvergunningen? </vraag>
+      <vraag nummer="6">Vindt u de controle op naleving van de door het rijk en de gemeenten verleende vergunningen voor het werken aan en met genetisch gemodificeerde organismen voldoende? Zo neen, wat denkt u daaraan te doen? Mededeiing Mededeling van minister Alders (Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer). (Ontvangen 21 augustus 1991) Met verwijzing naar uw hierboven aangehaalde brief moet ik u tot mijn spijt mededelen dat ik de schriftelijke vragen van de leden der Kamer Esselink en Laning-Boersema, inzake controle op het werken aan en met genetisch gemodificeerde organismen, niet binnen de gebruike– lijke termijn kan beantwoorden. Reden hiervoor is dat er enige tijd nodig is voor de interdepartementale </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Brandpunt van 21 juli j.l</noot>
+         <noot nummer="2"> Staatsblad nr. 53, 1990</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

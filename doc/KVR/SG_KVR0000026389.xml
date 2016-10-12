@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0000052</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0000052&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0000052</item>
+         <item attribuut="Document-id">0000026389</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Eerste Kamer 1990-1991 nummer 14</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Eerste Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Boorsma, Christiaanse en Postma (allen C.D.A.) inzake de Operatie grote efficiency.</item>
+         <item attribuut="titel">Aanhangsel Eerste Kamer 1990-1991 nummer 14</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">14</item>
+         <item attribuut="Indiener">
+            <persoon>Boorsma</persoon>
+            <persoon>Christiaanse</persoon>
+            <persoon>Postma</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-10-30</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Lubbers</persoon>
+            <persoon>Kok</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-12-11</item>
+         <item attribuut="Beginpagina">27</item>
+         <item attribuut="Eindpagina">28</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Eerste Kamer der Staten-Generaal" kamer="1" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen door de leden der Kamer gesteld overeenkomstig artikel schriftelijk gegeven antwoorden"/>
+      <footer firstpaginanummer="27" allpagenumbers="27 28" vetnummer="" code="" lopendefooter="Eerste Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 738x" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="" onderwerp="" indiendatum="">
+         <vrager partij="" oorsprong="parlement">Boorsma</vrager>
+         <vrager partij="" oorsprong="parlement">Christiaanse</vrager>
+         <vrager partij="" oorsprong="parlement">Postma</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1991-12-11">
+         <antwoorder functie="de" ministerie="Ontvangen 11 december 1991">Minister van Binnenlandse Zaken a.i. de heer Lubbers, Minister-President, Minister van Algemene Zaken, mede namens de heer Kok, Minister van Financiën.</antwoorder>
+         <mede-antwoorder>de heer Kok, Minister van Financiën</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="8">
+      <vraag nummer="14">Vragen van de leden Boorsma, Christiaanse en Postma (allen C.D.A.) inzake de Operatie grote efficiency. (Ingezonden 30 oktober 1990) Blijkens de brief van 2 oktober jl. van de minister van Binnenlandse Zaken betreffende de Operatie grote efficiency (Kamerstuk 21 835, nr. 1) heeft het kabinet besloten dat besparingen in apparaatskosten voor 60% mogen worden aangewend door het besparende departement, waarbij de uitvoeringskosten uit dat 60%-deel worden bekostigd. </vraag>
+      <vraag nummer="1">Deelt de regering de zienswijze dat het gevaar bestaat dat bezuinigingen zoveel mogelijk onder deze paraplu worden gebracht in verband met dat «eigen»-6%-deel, met alle gevolgen van dien voor de overige bezuini– gingen? </vraag>
+      <vraag nummer="2">Zullen de «eigen aanwendingen» in gang worden gezet op het moment dat de besparingen in de begro– tingen worden ingecalculeerd? Zijn de bewindslieden het met de vragen– stellers eens, dat vele ongeboekte bezuinigingen bij de uitvoering niet zijn gerealiseerd? Indien dat het geval is, menen zij dan met de vragenstellers dat «eigen aanwen– dingen» pas mogelijk zijn nadat de besparingen gerealiseerd zijn? Staat de afspraak over het «eigen»- 60%-deel op gespannen voet met het budgetrecht van de Staten– Generaal? Suggereert de tekst van de brief van de minister van Binnen– landse Zaken dat er een discre– tionaire ruimte wordt gecreëerd? Zijn de bewindslieden het met de vragen– stellers eens dat aanwending van de vrijkomende middelen alleen mogelijk is nadat daartoe begro– tingswetsvoorstellen zijn geautori– seerd? Erkennen de bewindslieden dat daarbij een andere prioriteitenstelling denkbaar is, bijvoorbeeld realisermg van de afgesproken reductie van het financieringstekort, zodat de belofte van interne aanwending niet kan worden vervuld? </vraag>
+      <vraag nummer="4">Zijn de bewindslieden het eens met de stelling uit de achterliggende Nota van de ARD dat de inhoud van de voorstellen belangrijker is dan het bedrag dat ze moeten opleveren? </vraag>
+      <vraag nummer="5">Op grond van welke overwegingen is de coördinatie thans gelegd bij de minister van Binnenlandse Zaken en niet bij die van Financiën? Is het ministerie van Financiën daartoe niet beter geëquipeerd (Inspectie Rijksfi– nanciën, IBP, etc.) en is daar niet veel meer ervaring opgedaan met betrekking tot dit soort operaties, onder andere de Heroverweging? </vraag>
+      <vraag nummer="6">In de achterliggende Nota van de ARD is gewezen op de noodzaak van strakke planning. Volgens het daar gegeven plan zijn de voorstellen van departementen en secretarissen– generaal in oktober 1990 gereed. Wat is de stand van zaken? Worden deze voorstellen als achtergrond– stukken bij de definitieve voorstellen gepubliceerd? Zo niet, is de minister van Binnen– landse Zaken bereid die voorstellen op andere wijze openbaar te maken? </vraag>
+      <vraag nummer="7">Zijn de bewindslieden het eens met de uitspraak van de achterliggende Nota van de ARD dat bij uitbesteding van werkzaamheden «veelal hogere kosten» optreden? Zo ja, willen ze dat onderbouwen met resultaten uit binnen– en buitenlands onderzoek? </vraag>
+      <vraag nummer="8">Verdient het, overeenkomstig de bepalingen van het Taalunieverdrag en in navolging van A. Vondeling, niet de voorkeur dat de regering Engelse termen als efficiency vermijdt, indien een goed Neder– lands woord, te weten doelma– tigheid, beschikbaar is? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="2">Bij de aanwending van het 60%-deel zal dezelfde procedure worden gehanteerd als het geval is bij andere bezuinigingen, of deze nu dienen voor intensiveringen of voor (generale) ombuigingen Dat wil zeggen dat na de besluitvorming in de ministerraad voorbereidingen kunnen worden getroffen ten aanzien van de voorgenomen maatregelen, uiteraard onder het voorbehoud van goedkeuring door de Staten– Generaal. Besparingen worden pas ingeboekt nadat deze zijn getoetst op haalbaarheid en plausibiliteit. Deson– danks komt het voor dat besparingen niet worden gerealiseerd. Toepassing van de regels budgetdiscipline betekent daarom dat alternatieve bezuinigingen dienen te worden getroffen indien (in de loop van het begrotingsjaar) blijkt dat de bezuini– gingstaakstelling niet zal worden gerealiseerd. </antwoord>
+      <antwoord nummer="3">De brief van de minister van Binnen– landse Zaken bevat de besluit– vorming van het kabinet betreffende de verdeling van de opbrengst van de Grote Efficiency-operatie. Het uiteindelijke kabinetsstandpunt zal worden opgenomen in ontwerp– begrotingswetten. Voorzover een en ander aanpassingen vergt voor de lopende begroting, zijn suppletoire wetten nodig. Het zijn uiteraard de Staten-Generaal die uiteindelijk over de aanwending beslissen. bijzonder (Inspectie der Rijksfi– nanciën), alsmede die van relevante commissies, zoals de door vragen– stellers genoemde IBP, gevoegd zal worden bij de op het Ministerie van Binnenlandse Zaken aanwezige kennis en ervarinp, zodat een optimaal resultaat zal worden bereikt met betrekking tot de kwaliteitsver– betering binnen de Rijksdienst. </antwoord>
+      <antwoord nummer="6">Het Kabinet heeft de planning van de ARD niet overgenomen. Momenteel wordt hard gewerkt aan de voorstellen. De planning is erop gericht in april 1991 besluitvorming in het Kabinet te laten plaatsvinden. De voorstellen zijn echter nog niet uitgekristalliseerd. Zodra besluit– vorming in de ministerraad heeft plaatsgevonden zal de kamer hierover worden geïnformeerd. Aangezien de voorstellen nog niet gereed zijn, kunnen wij ons ook nog geen oordeel vormen over de oppor– tuniteit van eventuele openbaar– making ervan. </antwoord>
+      <antwoord nummer="7">De ARD noemt in de bijlage bij zijn advies inzake grote efficiency en effektiviteit Rijksoverheid een aantal invalshoeken voor de grote efficiency-operatie. De ARD merkt hierbij terecht op dat een nadeel bij uitbesteding kan zijn dat hogere kosten optreden en dat niet zelf, binnen de organisatie, kennis en ervaring terzake wordt opgebouwd. Uitbesteding kan echter ook belang– rijke voordelen hebben, bijvoorbeeld ten aanzien van het inhuren van specifieke deskundigheid, die slechts </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

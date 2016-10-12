@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="4">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Duyvendak (GroenLinks) aan de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer over het aanpassen van het bouwverbod rond Schiphol. (Ingezonden 14 oktober 2004); Antwoord</item>
+         <item attribuut="Bestand">16Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR21732
+</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van een ANP-bericht, 13 oktober 2004 over mogelijke aanpassing van de Nota Ruimte op dit punt.</item>
+         <item attribuut="Rubriek">Bouw (Bouwvergunningen) Milieu (Geluidhinder) Verkeer, vervoer en waterstaat (Luchtvaartterreinen)</item>
+         <item attribuut="Trefwoorden">Bouwvergunningen Geluidhinder Schiphol</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2004-2005, nr. 489, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2040501820</item>
+         <item attribuut="Afkomstig_van">Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer (VROM)</item>
+         <item attribuut="Indiener">
+            <persoon partij="GroenLinks">Duyvendak</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2004-11-01</item>
+         <item attribuut="Datum_indiening">2004-10-14</item>
+         <item attribuut="Document-id">KVR21732</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2004–2005" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1023" allpagenumbers="1023" vetnummer="2040501820" code="0405tkkvr1" lopendefooter="Tweede Kamer, vergaderjaar 2004–2005, Aanhangsel" filenaam="KVR21732" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2004"/>
+      <vraagdata vraagnummer="489" onderwerp="" indiendatum="2004-10-14">
+         <vrager partij="GroenLinks" oorsprong="parlement">Duyvendak</vrager>
+         <vraagt-aan>de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2004-11-1">
+         <antwoorder functie="minister" ministerie="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer">Dekker</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Kent u het bericht «Minister: bouwverbod rond Schiphol opnieuw bekijken»? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Bent u bereid vóór de behandeling van de Nota Ruimte in de Kamer, op 6 december a.s., duidelijkheid te geven over de aanpassingen die u wilt aanbrengen in het bouwverbod in de gebieden direct grenzend aan de 20 Ke-geluidszone van Schiphol? Zo neen, waarom niet en wanneer komt die duidelijkheid er wel? </vraag>
+      <vraag nummer="3">Hoe groot is de kans dat u voor deze aanpassing in het bouwverbod rond Schiphol de (Planologische Kernbeslissing) PKB-procedure opnieuw moet doorlopen? </vraag>
+      <vraag nummer="4">Zijn er nog meer punten in de Nota Ruimte die «een beetje onhandig» zijn en die bij nader inzien aanpassing behoeven? Zo ja, welke? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="2004-10-13" bron="ANP">ANP, 13 oktober 2004</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja, dat bericht is mij bekend. </antwoord>
+      <antwoord nummer="2">Ik ben op dit moment samen met mijn collega van Verkeer en Waterstaat bezig met een inventarisatie van de exacte gevolgen van de bouwbeperkingen rond Schiphol zoals verwoord in de Nota Ruimte voor concrete initiatieven van gemeenten.Op basis van de resultaten hiervan zal het kabinet bezien of dit aanleiding geeft voor de aanpassing van het kabinetsstandpunt. </antwoord>
+      <antwoord nummer="3">Ik acht deze kans afwezig.Het bouwverbod voor nieuwe uitleglocaties binnen en aan de 20 Ke-contour was geen reden voor het opnieuw doorlopen van de PKB-procedure van de Nota Ruimte. Dat geldt eveneens voor een eventuele aanpassing, op basis van de behandeling van deze Nota in de Tweede Kamer. </antwoord>
+      <antwoord nummer="4">Neen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

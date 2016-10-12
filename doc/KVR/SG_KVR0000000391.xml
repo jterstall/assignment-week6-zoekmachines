@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19941995:0000391</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000391&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000391</item>
+         <item attribuut="Document-id">0000000391</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1994-1995 nummer 57</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Aanvullende vragen van het lid Poppe (SP) over Gene Pharming.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1994-1995 nummer 57</item>
+         <item attribuut="Jaargang">1994_1995</item>
+         <item attribuut="Vraagnummer">57</item>
+         <item attribuut="Indiener">
+            <persoon partij="SP">Poppe</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-09-20</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van Aartsen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-10-11</item>
+         <item attribuut="Beginpagina">113</item>
+         <item attribuut="Eindpagina">114</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1994-1995" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="113" allpagenumbers="113" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1994-1995, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's-Gravenhage 1994"/>
+      <vraagdata vraagnummer="" onderwerp="" indiendatum="">
+         <vrager partij="SP" oorsprong="parlement">Poppe</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="II oktober1994">
+         <antwoorder functie="minister" ministerie="Landbouw, Natuurbeheer en Visserij">Van Aartsen</antwoorder>
+         <mede-antwoorder>de minister van Economische Zaken</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="57">Aanvullende vragen van het lid Poppe (SP) over Gene Pharming. (Ingezonden 20 september 1994) </vraag>
+      <vraag nummer="1" voetnoot="1">Kunnen de nakomelingen van de stier Herman geen humaan lactoferrine produceren, aangezien het beoogde genconstruct mutaties bevat die in het menselijk DNA niet voorkomen? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Is het waar, dat Gene Pharming dit al enkele jaren weet, maar deze wetenschap al die tijd zowel voor u, als de Commissie-Schroten als de Tweede Kamer geheim gehouden heeft teneinde de subsidiestroom in stand te houden? Zo ja, is er dan geen sprake van oplichting van de kant van Gene Pharming? </vraag>
+      <vraag nummer="3">Bent u bereid de samenwerking met Gene Pharming met onmiddellijke ingang op te zeggen, nu u bovenstaande informatie tot u beschikking heeft? Bent u tevens bereid de reservering voor het technisch ontwikkelingskrediet van 21 miljoen gulden te annuleren? </vraag>
+      <vraag nummer="4">Bent u bereid de door ID-DLO gemaakte kosten voor huisvesting van Herman en zijn nakomelingen terug te vorderen van Gene Pharming? I Toelichting Deze vragen dienen ter aanvulling op de eerdere vragen ter zake van vragensteller ingezonden 15 september jl., van het lid M. B. Vos en van het lid Huys, ingezonden 19 september jl. </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1">De nakomelingen zullen naar verwachting lactoferrine produceren dat in enkele opzichten zal afwijken van het lactoferrine dat bij mensen voorkomt. Het bedrijf voorziet geen veranderingen in de werking van het eiwit. 2,3,4 Het is correct dat Gene Pharming Europe B.V. (GPE) reeds een aantal jaren op de hoogte is van de mutaties in het genconstruct. Deze informatie is ook reeds in 1990 en 1991 gepubliceerd in wetenschappelijke tijdschriften. Deze informatie is niet relevant voor de vraagstelling van het «Herman»-project dat er immers vooral toe strekt na te gaan of het genconstruct wordt overgeërfd en tot expressie komt in de melk van transgene nakomingen van «Herman». Er is derhalve geen sprake van geheimhouding met het oog op de instandhouding van subsidiestromen en dus ook niet van oplichting. Er is derhalve op die grond geen reden de samenwerking op te zeggen noch het TOK te annuleren, noch om de door de ID-DLO gemaakte kosten terug te vorderen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

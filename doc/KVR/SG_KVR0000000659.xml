@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="2">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19941995:0000659</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000659&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000659</item>
+         <item attribuut="Document-id">0000000659</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1994-1995 nummer 325</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Vreeman (PvdA) over de eisen voor Arbodiensten.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1994-1995 nummer 325</item>
+         <item attribuut="Jaargang">1994_1995</item>
+         <item attribuut="Vraagnummer">325</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Vreeman</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-12-08</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Linschoten</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-12-28</item>
+         <item attribuut="Beginpagina">659</item>
+         <item attribuut="Eindpagina">660</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1994-1995" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="659" allpagenumbers="659" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1994-1995, Aanhangsel" filenaam="" issn-nummer="ISSN0921 -7398" uitgever="Sdu Uitgeverij Plantijnstraat"/>
+      <vraagdata vraagnummer="325" onderwerp="de eisen voor Arbodiensten." indiendatum="1994-12-8">
+         <vrager partij="PvdA" oorsprong="parlement">Vreeman</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-12-28">
+         <antwoorder functie="staatssecretaris" ministerie="Sociale Zaken en Werkgelegenheid">Linschoten</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1" voetnoot="1">Kent u het bericht over de (te hoge) eisen voor Arbodiensten? <voetnoot nummer="1"/>Verwacht u dat er per 1 januari 1996 voldoende gecertificeerde Arbodiensten zullen zijn? Zo ja, wanneer? Op welke manier verwacht u dan een inhaalslag? Zo neen, wat bent u van plan hieraan te doen? </vraag>
+      <vraag nummer="3">Bent u van plan de eisen voor certificering te verlagen? Zo ja, in welk(e) opzicht(en)? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1994-12-6" bron=" NRC-handelsblad"> NRC-handelsblad, 6 december 1994</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja. Ja. Op 19 december 1994 zijn de eerste drie certificaten toegekend. In behandeling zijn aanvragen van circa 80 diensten. Ik veronderstel dat de meeste diensten die uiteindelijk op deze markt werkzaam zullen zijn zich reeds gemeld hebben teneinde voor 1 januari 1996 een certificaat te verwerven. Vanaf die datum zal immers ongeveer de helft van de werkgevers verplicht zijn een contract te hebben met een gecertificeerde dienst. Wie daarna pas op de markt verschijnt zal een aanzienlijk concurrentienadeel hebben. Ik verwacht daarom nog maar een gering aantal volledig nieuwe vragen. De capaciteit van het projectbureau certificatie is voldoende om de verwachte aanvragen tijdig te kunnen verwerken. Bovendien kan deze capaciteit zonodig op korte termijn worden vergroot. Het tot stand komen van voldoende aanbod is voorts niet alleen afhankelijk van het verschijnen van nieuwe diensten, maar zal ook gerealiseerd worden door groei van bestaande arbodiensten. In maart 1995 zal ik de Tweede Kamer uitgebreid rapporteren over de stand van zaken. </antwoord>
+      <antwoord nummer="3">Ik zie geen reden de kwaliteitseisen te verlagen. Die kwaliteit is noodzakelijk om het beoogde stelsel, met een grotere private verantwoordelijkheid voor hetterugdringen van het ziekteverzuim en het verminderen van het beroep op de arbeidsongeschiktheidsuitkeringen, een succes te doen zijn. Het certificatie-instrument bevat voldoende flexibiliteit door de mogelijkheid van het verlenen van een certificaat onder voorschriften. Aldus kunnen eventuele knelpunten in de huidige opbouwfase worden opgevangenzonder het beoogde kwaliteitsniveau te verlagen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

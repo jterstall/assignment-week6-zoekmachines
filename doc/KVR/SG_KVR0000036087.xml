@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001680</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001680&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001680</item>
+         <item attribuut="Document-id">0000036087</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 756</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden J. T. van den Berg (S.G.P.) en V.A.M. van der Burg (C.D.A.) over het afleggen van de eed of belofte</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 756</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">756</item>
+         <item attribuut="Indiener">
+            <persoon>van den Berg J.T.</persoon>
+            <persoon>van der Burg V.A.M.</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-06-08</item>
+         <item attribuut="Beantwoorder">
+            <persoon>De Graaff-Nauta</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-07-02</item>
+         <item attribuut="Beginpagina">1527</item>
+         <item attribuut="Eindpagina">1528</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1527" allpagenumbers="1527" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="756" onderwerp="het afleggen van de eed of belofte" indiendatum="1990-06-8">
+         <vrager partij="" oorsprong="parlement">van den Berg J.T.</vrager>
+         <vrager partij="" oorsprong="parlement">van der Burg V.A.M.</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-07-2">
+         <antwoorder functie="staatssecretaris" ministerie="Binnenlandse Zaken">De Graaff-Nauta</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="8">
+      <vraag nummer="1" voetnoot="1">Heeft in de gemeente Dirksland een raadslid bij zijn installatie op 1 mei jl. behalve de ambtsbelofte (art. 45 lid 1 gemeentewet) en de zuiveringsbe– lofte (art. 45 lid 2 gemeentewet) ook de ambtseed respectievelijk de zuiveringseed afgelegd, althans aan de ambtsbelofte respectievelijk de zuiveringsbelofte de woorden van de eed («Zo waarlijk helpe mij God almachtig») toegevoegd? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2" voetnoot="2">Bent u van oordeel, dat deze gang van zaken geen gevolgen heeft voor de rechtsgeldigheid van de beëdiging? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="3">Zo ja, deelt u de mening, dat hierdoor elke uitspraak bij het afleggen van de eed of belofte kan worden geaccepteerd, zolang die maar tevens de door de wet (o.a. art. 45 gemeentewet) gevraagde bewoordingen en handeling bevat? </vraag>
+      <vraag nummer="4">Zo ja, heeft dit geen vergaande degradermg van het afleggen van de eed (dan wel de belofte) tot gevolg? </vraag>
+      <vraag nummer="5">Bent u niet van oordeel, dat het afwijken van of toevoegen aan de door de wet voorschreven bewoor– dingen in strijd is met art. 1 van de Wet vorm van de eed (Stb. 1911, 215)? Zo ja, welke rechtsgevolgen dienen daaraan te worden toegekend? </vraag>
+      <vraag nummer="6">Brengt art. 1 Eedswet 1971 met zich mee, dat het afleggen van de eed dan wel de belofte niet kan worden gecombineerd met het afleggen van de belofte respectievelijk de eed? </vraag>
+      <vraag nummer="7">Hoe oordeelt u, gelet op art. 1 Eedswet 1971, over het op verschil– lende momenten kiezen voor verschillende formuleringen, in die zin, dat bijvoorbeeld bij de beëdiging tot raadslid enerzijds de ambtseed en anderzijds de zuiveringsbelofte (of omgekeerd) wordt gekozen? </vraag>
+      <vraag nummer="8">Acht u het noodzakelijk nadere richt– lijnen inzake de vormen en voorschriften voor het afleggen van eed, belofte of bevestiging te doen toekomen aan die organen die belast zijn met het afnemen van eed, belofte of bevestiging? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1990-05-15" bron=" Zie Algemeen Dagblad"> Zie Algemeen Dagblad, 15 mei 1990</noot>
+         <noot nummer="2" datum="1990-05-31" bron=" Zie Algemeen Dagblad"> Zie Algemeen Dagblad, 31 mei 1990</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Uit ingewonnen ambtsbericht bij het college van burgemeester en wethouders van de gemeente Dirksland is gebleken dat bij de installatie van nieuwe raadsleden in de gemeente Dirksland op 1 mei jl. een persoon bij het afleggen van de ambtsbelofte naast de voorge– schreven formule «Dat beloof ik !» de woorden «zo waarlijk helpe mij God almachtig» heeft uitgesproken. Ten aanzien van de bevestiging van de belofte van zuivering heeft betrokkene een overeenkomstige handelwijze gevolgd. Het betrokken raadslid heeft verklaard vanwege zijn geloofsovertuiging niet tot het afleggen van de eed te kunnen overgegaan, maar een bede om hulp bij de bevestiging van de belofte niet te willen uitsluiten. </antwoord>
+      <antwoord nummer="2">Betrokkene heeft uitdrukkelijk verklaard de belofte te willen afleggen en ook het terzake van de belofte voorgeschreven formulier uitgesproken. Ik ben van mening dat in dit geval de toevoeging van de zinsnede «zo waarlijk helpe mij God almachtig» aan de bevestiging van die belofte, deze bevestiging niet ongeldig maakt. </antwoord>
+      <antwoord nummer="3 en 4">Neen. Er zijn gevallen denkbaar waarbij een toevoeging in strijd is met de eed of belofte of bevestiging digheid te leiden 6 e n  7 Artikel 1 van de Eedswet 1971 (Stb. 1971, 211) strekt ertoe een vrije keuze tussen eed en belofte overeenkomstig de overtuiging van betrokkene te verzekeren. De door de vragenstellers geschetste situatie waarin het afleggen van de belofte zou worden gecombineerd met het afleggen van de eed of omgekeerd, komt mij, gelet op de strekking van de Eedswet 1971, ongerijmd voor. Er zijn mij geen gevallen bekend waarin deze situatie zich heeft voorgedaan. </antwoord>
+      <antwoord nummer="8">Het uitvaardigen van richtlijnen zoals door de vragenstellers bedoeld, acht ik niet noodzakelijk. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

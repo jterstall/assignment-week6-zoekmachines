@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001779</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001779&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001779</item>
+         <item attribuut="Document-id">0000012083</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 849</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Van Leijenhorst en De Hoop Scheffer (beiden CDA) over het Zambiaanse nationale voetbalelftal.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 849</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">849</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Van Leijenhorst</persoon>
+            <persoon partij="CDA">De Hoop Scheffer</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-08-26</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Pronk</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-09-14</item>
+         <item attribuut="Beginpagina">1731</item>
+         <item attribuut="Eindpagina">1732</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1731" allpagenumbers="1731" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="'s Gravenhage 1993"/>
+      <vraagdata vraagnummer="849" onderwerp="het Zambiaanse nationale voetbalelftal." indiendatum="1993-08-26">
+         <vrager partij="CDA" oorsprong="parlement">Van Leijenhorst</vrager>
+         <vrager partij="CDA" oorsprong="parlement">De Hoop Scheffer</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-09-14">
+         <antwoorder functie="minister" ministerie="Ontwikkelingssamenwerking">Pronk</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Acht u het uw taak een bijdrage te leveren aan de kwalificatie van het Zambiaanse nationale voetbalelftal voor de eindronde van het wereldkampioenschap in 1994?' </vraag>
+      <vraag nummer="2">Hoe verhoudt de bijdrage van 150.000 gulden ten behoeve van de training van het elftal in Nederland zich tot de hoofddoelstelling van het OS-beleid, nl. armoedebestrijding en economische verzelfstandiging? </vraag>
+      <vraag nummer="3">Wordt door dergelijke uitgaven niet het draagvlak voor ontwikkelingssamenwerking verzwakt, juist in een tijd dat dit onder druk staat? Uit welk begrotingsartikel is de bedoelde bijdrage bekostigd? Aan welke instantie wordt het bedrag uitgekeerd? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1993-08-19" bron=" Bron: persbericht OS voorlichtingsdienst"> Bron: persbericht OS voorlichtingsdienst, 19 augustus 1993</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Neen. </antwoord>
+      <antwoord nummer="2">De beslissing om positief te reageren op het verzoek van de Zambiaanse regering om steun te verlenen ten behoeve van de opbouw van het nationale Zambiaanse elftal na het tragisch verongelukken van de nationale selectie als gevolg van een vliegtuigongeluk is bij wijze van uitzondering genomen in het licht van genoemde bijzondere omstandigheden die in Zambia als een nationale ramp zijn ervaren. Het uitzonderlijke karakter van de steunverlening kan worden afgeleid uit de wijze waarop in de nota een «Wereld van Verschil» aandacht wordt besteed aan de ondersteuning van welzijnsvoorzieningen, waaronder sportbeoefening. In de nota wordt gesteld dat dergelijke steunverlening gericht dient te zijn op zijn activiteiten aan de basis, zulks ter bevordering van ontwikkeling van, voor en door mensen. Voorts wijs ik op het NAR advies «Partikuliere organisaties en maatschappij opbouw» van juni 1992. De raad bevestigt daarin dat interculturele uitwisseling en sportieve manifestaties geen centrale beleidspunten zijn in het ontwikkelingssamenwerkingsbeleid, maar beveelt aan «gezien het belang dat aan activiteiten op dit vlak door grote delen van de bevolking van ontwikkelingslanden wordt gehecht, hieraan, waar zich geschikte aangrijpingspunten voordoen. aandacht te besteden.» De raad grijpt in dit verband ook terug op haar advies «Culturele Aspecten van Ontwikkelingssamenwerking» van april 1981, waarin gewezen wordt op het belang van culturele organisaties ter versterking van de eigen identiteit, het vergroten van het zelfvertrouwen en het mobiliseren van de bevolking. </antwoord>
+      <antwoord nummer="3">Neen. </antwoord>
+      <antwoord nummer="4">De financiering heeft plaats gevonden lasten begrotingscategorie I.g4, pot 788.1 «speciale activiteiten». Van het totaal gealloceerde bedrag is f 91.564,- beschikbaar voor kosten gemaakt door de NOC en het NSF in verband met de organisatie van het trainingskamp. Daarenboven worden de kosten voor de terugreis door Nederland betaald. De Franse regering heeft de heenreis naar Europa en de, aan de Nederlandse oefenstage voorafgaande, training in Frankrijk bekostigd, het VK heeft voor een periode van 4 maanden een coach beschikbaar gesteld, en in juni is in Denemarken op kosten van de overheid een trainingsstage georganiseerd geweest. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001356</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001356&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001356</item>
+         <item attribuut="Document-id">0000019742</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 342</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid E. van Middelkoop (GPV) over het talenregiem in de EG.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 342</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">342</item>
+         <item attribuut="Indiener">
+            <persoon>van Middelkoop E.</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-01-10</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Dankert</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-01-30</item>
+         <item attribuut="Beginpagina">731</item>
+         <item attribuut="Eindpagina">732</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="731" allpagenumbers="731 132" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 - 7398" uitgever="'s Gravenhage 1992"/>
+      <vraagdata vraagnummer="342" onderwerp="het talenregiem in de EG." indiendatum="10 januari 1992}">
+         <vrager partij="" oorsprong="parlement">van Middelkoop E.</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="30 januari 1992}">
+         <antwoorder functie="staatssecretaris" ministerie="Buitenlandse Zaken">Dankert</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1">Heeft de Duitse Bondskanselier aan de voorzitter van de Europese Commissie verzocht in de Europese Gemeenschap de Duitse taal een even groot gewicht te geven als het Frans en het Engels?' </vraag>
+      <vraag nummer="2">Over welke bevoegdheden beschikt de Europese commissie terzake? Wat is de materiële betekenis van een eventuele honorering van dit verzoek? tweedeling binnen het talenregiem in de EG te voorkomen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1992-01-3" bron=" NRC-Handelsblad"> NRC-Handelsblad, 3 januari 1992</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Persberichten aangaande het geven van een even groot gewicht aan de Duitse taal als aan het Frans en het Engels in de Gemeenschap zijn, voor zover dezerzijds bekend, niet gebaseerd op een officieel schriftelijk verzoek van Bondskanselier Kohl aan de Voorzitter van de Europese Commissie. Vertegenwoordigers, met slechts enkele van de officiële gemeenschapstalen gewerkt. Praktische overwegingen rechtvaardigen deze praktijk. Een en ander heeft niet betrekking op het beschikbaar stellen van officiële documenten en de bijeenkomsten op raadsniveau zodat geen strijdigheid bestaat met de gelijke berechtiging van alle officiële talen van de lidstaten van de EG. </antwoord>
+      <antwoord nummer="5">Gezien het bovenstaande is dergelijke actie niet aan de orde. Wat is uw oordeel over de kennelijke ontwikkeling naar een praktijk waarbij binnen instellingen van de EG een onderscheid wordt gemaakt tussen de talen van de grote lidstaten en de overige? </antwoord>
+      <antwoord nummer="4">Is een dergelijke ontwikkeling niet strijdig met de overeengekomen gelijke berechtiging van alle officiële talen van de lidstaten van de EG? Wilt u, al dan niet in samenwerking met de regeringen van de lidstaten met «kleinere» taalgebieden, gebruik maken van uw bevoegdheden ex artikel 217 EEG-verdrag om een De Europese Commissie kan voorstellen indienen tot wijziging van het talenregiem, waaromtrent dan de Raad krachtens art. 217 EEG-Verdrag met eenparigheid van stemmen dient te beslissen. Het Frans en het Engels hebben binnen de Gemeenschappen formeel een even groot gewicht als de overige gemeenschapstalen. Honorering van bovenvermeld verzoek, waarvan zoals opgemerkt kennelijk geen sprake is, is derhalve niet aan de orde. </antwoord>
+      <antwoord nummer="3">  e n 4 Sedert het begin van het bestaan van de Gemeenschappen wordt in een aantal gremia, bijvoorbeeld het Comité van Permanente </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

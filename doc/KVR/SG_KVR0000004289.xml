@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0001778</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001778&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001778</item>
+         <item attribuut="Document-id">0000004289</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 564</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Dees (VVD) over risico's van straling.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 564</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">564</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Dees</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-05-17</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Alders</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-06-16</item>
+         <item attribuut="Beginpagina">1145</item>
+         <item attribuut="Eindpagina">1146</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1145" allpagenumbers="1145 1146" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgeverij Plantijnstraat s Gravenhage1994"/>
+      <vraagdata vraagnummer="564" onderwerp="risico's van straling." indiendatum="1994-05-17">
+         <vrager partij="VVD" oorsprong="parlement">Dees</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="16 juni 1994), zie ook Aanhangsel Handelingen nr. 540, Vergaderjaar 1993-1994">
+         <antwoorder functie="minister" ministerie="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer">Alders</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="8">
+      <vraag nummer="1" voetnoot="1">Herinnert u zich de discussie tijdens het Mondeling Overleg van 25 oktober 1990 <voetnoot nummer="1"/> over de notitie Omgaan met risico's, waarbij u erkende dat nieuwe beleidsvoorstellen pas toegepast kunnen worden als de voorstellen de instemming van de Kamer hebben verkregen? </vraag>
+      <vraag nummer="2">Herinnert u zich de afspraak die u in 1990 hebt gemaakt met de vaste Commissie voor het Milieubeheer, dat de nieuwe milieunorm voor het verwaarloosbaar risico pas zou worden toegepast voor straling nadat de notitie Omgaan met risico's van straling door de Kamer was geaccordeerd? </vraag>
+      <vraag nummer="3">Onderschrijft u de stelling, dat de normen voortvloeiend uit de notitie Omgaan met risico van straling pas een juridische geldigheid krijgen nadat zij zijn vastgelegd in het Besluit Stralingsbescherming op basis van de Kernenergiewet? </vraag>
+      <vraag nummer="4">Is het u bekend, dat de inspectie de omstreden normen al sinds 1990 hanteert bij het bespreken en verlenen van vergunningen in het kader van de Kernenergiewet? Deelt u de mening, dat voor dit handelen van de inspectie geen rechtsgrond bestaat, omdat u tot op heden niet met de Kamer tot overeenstemming bent gekomen over het te voeren beleid zoals neergelegd in de notitie Omgaan met risico's van straling? </vraag>
+      <vraag nummer="6">Bent u bereid op korte termijn de gewraakte vergunningen te herzien en in overeenstemming te brengen met hetthans geldende Besluit Stralingsbescherming, opdat betrokkenen geen lange en kostbare procedures hoeven te volgen? </vraag>
+      <vraag nummer="7">Bent u bereid, gezien het belang van harmonisatie van Europese regelgeving, de voorstellen over de wijziging van het Besluit Stralingsbescherming in overeenstemming te brengen met de spoedig te verwachten nieuwe richtlijn van de EU? </vraag>
+      <vraag nummer="8" voetnoot="2">Waarom wordt in de Handleiding van 15 december 1993 nog steeds de risicogrens van 10  8  gehandhaafd, terwijl dit in strijd is met de lijn zoals neergelegd in de door de Kamer aanvaarde motie Esselink-Feenstra <voetnoot nummer="2"/>? </vraag>
+      <vraag nummer="9">Waarom moet het vervangen van het niveau van het verwaarloosbaar risico van 10  door een nieuwe term secundair niveau (0,0004 mSV/j) gezien worden als een uitvoering van de motie Esselink-Feenstra? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Kamerstuk21 137, nr. 51</noot>
+         <noot nummer="2"> Kamerstuk 22 800 XI, nr. 23</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="6">
+      <antwoord nummer="1" voetnoot="1 2">Ja, de door u genoemde discussie over de nota «Omgaan met Risico's» <voetnoot nummer="1"/>in het door u genoemde Mondelinge Overleg van 25 oktober 1990 <voetnoot nummer="2"/>herinner ik mij inderdaad. De door u genoemde afspraken herinner ik mij echter niet en heb ik ook niet teruggevonden inhet stenografische verslag van dit overleg. Wel heb ik daarin de stelling gevonden: «Een nota - en dat is het verschil met een wet - is beleid tot het moment dat het tegendeel blijkt.». Deze stelling onderschrijf ik nog steeds. </antwoord>
+      <antwoord nummer="2">Zie  1. Ja, maar dit neemt niet weg dat, gezien mijn antwoord op de eerste twee vragen, bij vergunningverlening binnen het vigerende wettelijke kader wel rekening wordt gehouden met regeringsbeleid zoals dat is vastgelegd in nota's. (BsK). Een dergelijk optreden van de inspectie is ook in het belang van de vergunninghouders omdat het in het algemeen kosten-effectiever is om reeds bij de bouw van installaties rekening te houden met op handen zijnde nieuwe normen in plaats van het achteraf nemen van maatregelen om saneringssituaties aan te pakken. Voor alle duidelijkheid merk ik overigens op dat de Inspectie Milieuhygiëne niet belast is met de vergunningverlening, maar met het handhaven van de Kernenergiewet. De verlening van de vergunningen vindt plaats door het bevoegde gezag dat in dit kader wordt gevormd door de ministers van SZW, VROM en WVC. Wel worden de aanvragers van vergunningen door de inspectie geïnformeerd over het beleid en wordt het bevoegde gezag geadviseerd over de uitvoerbaarheid en handhaafbaarheid van de te verlenen vergunningen. </antwoord>
+      <antwoord nummer="5">Nee, deze mening deel ik gezien het antwoorden op de vorige vragen niet. Ook het huidige BsK gaat uit van dosislimieten en het redelijkerwijs-principe. Nieuw element van ORS is dat dit het Verwaarloosbare Risico als ondergrens aangeeft voor het hanteren van het redelijkerwijs-criterium, terwijl het BsK geen kwantitatieve criteria voorschrijft. In die zin heeft het Verwaarloosbare Risico enige tijd gefungeerd als een nadere invulling van de beleidsvrijheden die er bestaan in het kader van de stralenbeschermingsbeleid, wordt sinds die tijd in de vergunningen geen gebruik meer gemaakt van het Verwaarloosbare Risico. In die gevailen waarin vigerende vergunningen aan herziening toe zijn en in die gevallen waarin vergunninghouders daar om verzoeken, zal het verwaarloosbare risiconiveau ook uit bestaande vergunningen worden geschrapt. Het op eigen initiatief schrappen van het Verwaarloosbare Risico door het bevoegde gezag, zou door de vergunninghouders ook als een aanscherping kunnen worden gezien en daarmee juist juridische procedures uitlokken. </antwoord>
+      <antwoord nummer="7">De ontwerp-wijziging Besluit stralenbescherming Kernenergiewet zoals deze op 23 december 1993 is gepubliceerd in de Staatscourant, is tijdens het mondelinge overleg met de vaste commissie voor het Milieubeheer, 11 april 1994, uitgebreid besproken. Hierbij is de relatie met de te verwachten nieuwe Euratom Basisnormen besproken en zijn ook procedure-afspraken gemaakt. Aan deze afspraken wil ik mij houden. </antwoord>
+      <antwoord nummer="8">Zoals ook tijdens het hierboven genoemde Mondelinge Overleg d.d 11 april door mij is aangegeven, is het niet in alle gevallen zinvol om als bevoegd gezag bij een vergunningaanvraag een relatief dure volledige risico-analyse te vreagen. In het hanteren van een verschil van twee ordes van grootte tussen het secundaire niveau en het Maximaal Toelaatbare Risico redelijk. Het Verwaarloosbare Risico en het secundaire niveau hebben dus een geheel ander karakter. Het verwaarloosbare niveau werd in ORS gehanteerd als afkapgrens voor het hanteren van het redelijkerwijs-criterium. Het secundaire niveau geldt nu slechts als waarde waaronder in eerste instantie, bij de voorbereiding van de vergunningaanvraag, bepaald wordt of gewerkt kan worden met vuistregels. De motie Esselink-Veenstra wordt om die redenen mijns inziens volledig in het stralenbeschermingsbeleid uitgevoerd. </antwoord>
+      <antwoord nummer="9">Zie8. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="2"> Kamerstuk 21 137, nr. 51</noot>
+         <noot nummer="3"> Kamerstukken 21 483, nrs. 1 en 15</noot>
+      </noten>
+   </antwoorden>
+</kvr>

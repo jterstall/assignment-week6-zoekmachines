@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="vermeld staan op de kassabon?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Omtzigt en Vietsch (beiden CDA) aan de staatssecretaris van Financiën en de ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, van Economische Zaken en van Binnenlandse Zaken en Koninkrijksrelaties over de verpakkingsbelasting (Ingezonden 7 mei 2008)</item>
+         <item attribuut="Bestand">13Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V070819710
+</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van een artikel in De Telegraaf van 3 mei 2008 over de verpakkingsbelasting. De indieners vragen aan de staatssecretaris en ministers of het waar is dat de heffingen op verpakking vanaf 1 mei 2008 verplicht vermeld staan op de kassabon.</item>
+         <item attribuut="Rubriek">Consument (Verpakkingen) Milieu (Milieuheffingen)</item>
+         <item attribuut="Trefwoorden">Milieuheffingen Verpakkingen</item>
+         <item attribuut="Vindplaats">Kamervragen 2007-2008, vraagnr. 2070819710, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070819710</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Omtzigt Vietsch</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2008-05-07</item>
+         <item attribuut="Document-id">V070819710</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0708tkkvl2070819710" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="2070819710" onderwerp="" indiendatum="2008-05-7">
+         <vrager partij="CDA" oorsprong="parlement">Omtzigt Vietsch</vrager>
+         <vraagt-aan>de staatssecretaris van Financiën en de ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, van Economische Zaken en van Binnenlandse Zaken en Koninkrijksrelaties</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Heeft u kennisgenomen van het artikel over de verpakkingsbelasting? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Is het volgens uw berekeningen waar dat deze verpakkingsbelasting gemiddeld tot een prijsstijging van 1% moeten leiden in de supermarktketen? Kunt u zowel bij een positief als een negatief antwoord een onderbouwing geven van de berekening van de hoogte van de prijsstijging? Welke stijging blijkt uit de gegevens van het CBS? </vraag>
+      <vraag nummer="3">Indien u tot de conclusie komt dat de prijsstijging niet alleen door de verpakkingsbelasting kan worden veroorzaakt, bent u dan bereid te laten onderzoeken of over het verschil afspraken gemaakt zijn in de branche? </vraag>
+      <vraag nummer="4" voetnoot="2">Op welke wijze wordt uitvoering gegeven aan de motie Vietsch c.s. <voetnoot nummer="2"/>waarin gevraagd wordt aan de regering om toe te zien dat als gevolg van het verpakkingenconvenant geen lastenverzwaring optreedt voor de burgers? Heeft de regering naar aanleiding van de motie Vietsch contact gehad met de gemeenten over de vraag hoe tot uitvoering van de motie-Vietsch overgegaan kan worden en wat het resultaat is van dat overleg voor de heffingen? </vraag>
+      <vraag nummer="5">Is het waar dat de heffingen op verpakking vanaf 1 mei 2008 verplicht </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="3"/>
+         <noot nummer="1" datum="2008-05-3" bron="De Telegraaf">De Telegraaf, 3 mei 2008</noot>
+         <noot nummer="2" documenttype="Kamerstuk" kamerstuk-id="28694" documentnummer="52" documentjaargang="2007-2008">Kamerstuk 28694, nr. 52, vergaderjaar 2007–2008</noot>
+         <noot nummer="3" datum="2008-05-3" bron="De Telegraaf">De Telegraaf, 3 mei 2008</noot>
+      </noten>
+   </antwoorden>
+</kvr>

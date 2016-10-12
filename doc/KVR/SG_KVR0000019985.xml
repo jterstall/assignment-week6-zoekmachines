@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001599</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001599&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001599</item>
+         <item attribuut="Document-id">0000019985</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 581</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Lankhorst (Groen Links) over het ontslag van de hoofdinspecteur van de Inspectie Jeugdhulpverlening.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 581</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">581</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Lankhorst</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-04-16</item>
+         <item attribuut="Beantwoorder">
+            <persoon>d'Ancona</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-05-12</item>
+         <item attribuut="Beginpagina">1221</item>
+         <item attribuut="Eindpagina">1222</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1221" allpagenumbers="1221" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plamijnstraat 's-Gravenhage 1992"/>
+      <vraagdata vraagnummer="581" onderwerp="het ontslag van de hoofdinspecteur van de Inspectie Jeugdhulpverlening." indiendatum="1992-04-16">
+         <vrager partij="Groen Links" oorsprong="parlement">Lankhorst</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-05-12">
+         <antwoorder functie="minister" ministerie="Welzijn, Volksgezondheid en Cultuur">d'Ancona</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Wilt u alsnog antwoord geven op de vraag of de hoofdinspecteur van de Inspectie Jeugdhulpverlening op eigen initiatief is weggegaan? <voetnoot nummer="1"/>Heeft het feit, dat zijn ontslag mede is gebaseerd op de voorwaarden waaronder hij heeft gefunctioneerd, speciale verplichtingen voor WVC? Zo ja, welke zijn dat? Welke eventuele kosten zijn daaraan verbonden? </vraag>
+      <vraag nummer="3">Waarom is de invulling van de vacature niet afhankelijk gesteld van de komst van de nieuwe Interdepartementale Inspectie? </vraag>
+      <vraag nummer="4">Ontstaat er bij het totstandkomen van de Interdepartementale Inspectie een vacature voor de hoofdinspecteur? Zo ja, wat betekent dat voor de nu pas benoemde hoofdinspecteur? Zo neen, is het ministerie van Justitie dan nu reeds met de benoeming akkoord gegaan? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Zie aanhangsel Handelingen nr. 507, vergaderjaar 1991-1992</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Naar aanleidmg van eerdere vragen van de heer Lankhorst (Aanhangsel Handelmgen, Vergaderjaar 1991-1992, nr. 507, vraag 2) berichtte ik u dat de toenmalige hoofdinspecteur zelf besloot zijn functie neer te leggen. Omwille van de privacy-bescherming van betrokkene heb ik gemeend daarmee toen te moeten volstaan. Nu vragensteller mijn eerdere antwoord kennelijk onbevredigend vindt meen ik er goed aan te doen, onder handhaving van de overwegingen t.a.v. de privacy-bescherming van betrokkene, nog de volgende aanvulling te verstrekken. Zoals ik reeds heb medegedeeld, heeft betrokkene zelf besloten zijn functie neer te leggen. Dat is gebeurd na een discussieproces van maanden en na het herhaaldelijk constateren van een niet te repareren vertrouwensbreuk binnen de Hoofdinspectie Jeugdhulpverlening. </antwoord>
+      <antwoord nummer="2">Aan de voormalige hoofdinspecteur is ontslag verleend op grond van artikel 99 van het ARAR. Het tweede lid van die bepaling schrijft voor dat een regeling moet worden getroffen waarbij aan de ambtenaar een uitkering wordt verleend. Dat impliceert dat daaraan kosten voor het departement verbonden zijn. Aangezien het hier gaat om een regeling met een individuele ambtenaar acht ik mij vrij noch gehouden hierover in openbare stukken detailinformatie te verstrekken. Wellicht ten overvloede merk ik nog op dat de kosten van deze regeling ten koste komen van het personeelsbudget van het Directoraat-Generaal Welzijn. </antwoord>
+      <antwoord nummer="3">Uit het vorengaande moge blijken dat binnen de Inspectie Jeugdhulpverlening reeds maandenlang sprake was van een managementscrisis. In het belang van het functioneren van de inspectie - en daarmee in het belang van de Jeugdhulpverlening - leek het mij niet verantwoord een vacuüm aan de top van de Hoofdinspectie te laten bestaan. Wachten op een - ongetwijfeld nog vele maanden in beslag nemende - discussie over de totstandkoming (en daaraan gekoppelde realisatie) van de beoogde interdepartementale inspectie was derhalve niet verantwoord. </antwoord>
+      <antwoord nummer="4">Bij de vorming van de beoogde interdepartementale inspectie zal ongetwijfeld - net als in alle vergelijkbare gevallen - een sociaal beleidskader tot stand komen in overleg met Dienst - en/of Bijzondere commissie(s). Op basis daarvan kunnen pas </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

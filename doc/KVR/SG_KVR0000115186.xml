@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="afluisteren met justitiële toestem-" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19851986:0001626</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001626&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001626</item>
+         <item attribuut="Document-id">0000115186</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1985-1986 nummer 705</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Van Es (P.S.P.), Lankhorst (P.P.R.) en Brouwer (C.P.N.) over de inval van de politie bij AMOK.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1985-1986 nummer 705</item>
+         <item attribuut="Jaargang">1985_1986</item>
+         <item attribuut="Vraagnummer">705</item>
+         <item attribuut="Indiener">
+            <persoon>Van Es</persoon>
+            <persoon>Lankhorst</persoon>
+            <persoon>Brouwe</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-04-17</item>
+         <item attribuut="Beantwoorder">
+            <persoon>De Korte</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-05-15</item>
+         <item attribuut="Beginpagina">1401</item>
+         <item attribuut="Eindpagina">1402</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1985-1986 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 5 - 1 9 8 6 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="705" onderwerp="de inval van de politie bij AMOK." indiendatum="17 april 1986)">
+         <vrager partij="" oorsprong="parlement">Van Es</vrager>
+         <vrager partij="" oorsprong="parlement">Lankhorst</vrager>
+         <vrager partij="" oorsprong="parlement">Brouwe</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="8">
+      <vraag nummer="1 ">Was de tip die leidde tot de inval van  de politie bij het Anti Militaristisch  Onderzoeks Kollektief (AMOK) te  Utrecht op 19 november 1985, een  gevolg van gericht onderzoek van de  Binnenlandse Veiligheidsdienst  (BVD) of een andere inlichtingen- dienst?  </vraag>
+      <vraag nummer="2 ">Zo ja, van welke inlichtingendienst?  </vraag>
+      <vraag nummer="3 ">Heeft de desbetreffende minister  toestemming gegeven voor dit  onderzoek?  </vraag>
+      <vraag nummer="4 ">Zo ja, op welke gronden?  </vraag>
+      <vraag nummer="5 ">Was dit onderzoek gericht op AMOK  of op één van de leden van AMOK?  </vraag>
+      <vraag nummer="6 ">Werden de gegevens op grond  waarvan de inval werd verricht,  verkregen door middel van afluisteren  van het bij AMOK in gebruik zijnde  telefoonnummer of het privé-nummer  van R.V.?  </vraag>
+      <vraag nummer="8 ">Indien het gaat om justitieel afluiste- ren, om welk vooronderzoek gaat het  dan, gegeven dat het vooronderzoek  tegen AMOK pas is begonnen na de  inval op 19 november 1985?  </vraag>
+      <vraag nummer="9 ">Indien werd afgeluisterd, om welk  tijdvak gaat het dan en is het  afluisteren inmiddels beëindigd?  Antwoord van minister De Korte  (Binnenlandse Zaken), mede namens  de Minister van Defensie en van  Justitie. (Ontvangen 15 mei 1986)  1 t/m 9  Op 31 december 1985 heeft de  Minister van Justitie in antwoord op  vragen van dezelfde leden verklaard,  dat de mededeling die mede de  aanleiding vormde tot de huiszoeking  bij het AMOK afkomstig was van de  Binnenlandse Veiligheidsdienst.  Gezien de aard van de aan de  Binnenlandse Veiligheidsdienst  opgedragen taak staat het mij niet  vrij hierover publiekelijk nader in  detail te treden. De onderhavige  vragen kunnen slechts worden  beantwoord in de beslotenheid van  de vaste Commissie voor de inlichtin- gen- en veiligheidsdiensten. Daartoe  ben ik desgevraagd gaarne bereid.  Zo ja, gaat het hier dan om afluisteren  met politieke toestemming of om  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

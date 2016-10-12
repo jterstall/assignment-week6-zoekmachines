@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Zijlstra (PvdA) aan de minister van Justitie over de Mesdagkliniek te Groningen. (Ingezonden 25 oktober 1999); Antwoord</item>
+         <item attribuut="Bestand">13Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR10566
+</item>
+         <item attribuut="Inhoud">Vragen over de jarenlange onrust bij de Mesdagkliniek in Groningen.</item>
+         <item attribuut="Rubriek">Criminaliteit en openbare orde (Gevangeniswezen en penitentiair recht) Gezondheidszorg (Zorginstellingen)</item>
+         <item attribuut="Trefwoorden">Gevangeniswezen TBS</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 1999-2000, nr. 279, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2990001500</item>
+         <item attribuut="Afkomstig_van">Justitie</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Zijlstra</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1999-11-15</item>
+         <item attribuut="Datum_indiening">1999-10-25</item>
+         <item attribuut="Document-id">KVR10566</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1999–2000" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="577" allpagenumbers="577" vetnummer="2990001500" code="" lopendefooter="Tweede Kamer, vergaderjaar 1999–2000, Aanhangsel" filenaam="KVR10566" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 1999"/>
+      <vraagdata vraagnummer="279" onderwerp="" indiendatum="1999-10-25">
+         <vrager partij="PvdA" oorsprong="parlement">Zijlstra</vrager>
+         <vraagt-aan>de minister van Justitie</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1999-11-15">
+         <antwoorder functie="minister" ministerie="Justitie">Korthals</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Kent u de recente berichtgeving over de onrust bij de Mesdagkliniek te Groningen? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Welke maatregelen zullen er genomen worden om de situatie te verbeteren? </vraag>
+      <vraag nummer="3">Wat is de verklaring voor de jarenlange onrust binnen deze inrichting? </vraag>
+      <vraag nummer="4">Speelt de ambtelijke inbedding binnen de organisatie van het ministerie van Justitie hierbij een rol? </vraag>
+      <vraag nummer="5">Wordt overwogen de bestuursvorm te wijzigen in de stichtingsvorm, zoals deze van toepassing is op de meeste andere TBS-klinieken? Zo nee, waarom niet? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1999-10-19" bron="Nieuwsblad van het Noorden">Nieuwsblad van het Noorden, 19 oktober 1999</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2 en 3">Voor het antwoord op deze vragen moge ik u verwijzen naar mijn brief aan uw Kamer van 26 oktober 1999, kenmerk 800178/99/DJI. </antwoord>
+      <antwoord nummer="4">Hoewel de besturingsreIatie van mijn departement met een rijksinrichting waarmee immers een hiërarchische relatie bestaat, duidelijk anders is dan met een particuIiere inrichting, waarmee een contractueIe relatie bestaat, beschik ik niet over concrete aanwijzingen dat de problemen in de Van Mesdagkliniek verband houden met de ambtelijke inbedding binnen de organisatie van het ministerie van Justitie. Met betrekking tot de andere rijks TBS-inrichtingen bestaan genoemde probIemen niet. </antwoord>
+      <antwoord nummer="5">Mede gelet op het antwoord op vraag 4, wordt thans niet overwogen de bestuursvorm van de Van Mesdagkliniek te wijzigen in de stichtingsvorm. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

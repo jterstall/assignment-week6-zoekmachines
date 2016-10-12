@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="omstreeks eind januari 1991." aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001228</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001228&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001228</item>
+         <item attribuut="Document-id">0000027565</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 295</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Vliegenthart (P.v.d.A.) over kinderopvang.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 295</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">295</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Vliegenthart</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-11-06</item>
+         <item attribuut="Beantwoorder">
+            <persoon>D'Ancona</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-01-14</item>
+         <item attribuut="Beginpagina">595</item>
+         <item attribuut="Eindpagina">596</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="595" allpagenumbers="595" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1991"/>
+      <vraagdata vraagnummer="295" onderwerp="kinderopvang." indiendatum="1990-11-6">
+         <vrager partij="PvdA" oorsprong="parlement">Vliegenthart</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1">Hoe hoog zijn de kosten op uurbasis van kinderopvang in een kinderdag– verblijf? </vraag>
+      <vraag nummer="2">Hoe hoog zijn de tarieven per uur in de gastouderopvang? </vraag>
+      <vraag nummer="3">Kunt U een indicatie geven van de omvang van de informele kinder– opvang? </vraag>
+      <vraag nummer="4">Zijn er gegevens bekend over de omvang van een mogelijk zwart circuit in de kinderopvang zowel ten opzlchte van de fiscus als ten opzichte van de bijstand? </vraag>
+      <vraag nummer="5">Kan vanuit de invalshoek van de fiscus aangegeven worden wat een niet-verdienende partner kan bijver– dienen zonder belasting en premies te hoeven afdragen? Wat betekent dit voor het aantal op te vangen kinderen en het aantal uren? Kan vanuit de invalshoek van vrijla– tingsbepalingen in de bijstand aangegeven worden wat de mogelijkheden zijn om bij te verdienen voor een alleenstaande ouder met kind en voor een gehuwde partner? Wat betekent dit voor het aantal op te vangen kinderen en het aantal uren? Wat betekent de werkgelegenheid, die het gevolg is van de stimule– ringsmaatregel kinderopvang, theoretisch voor belasting en premie-inkomsten van de overheid en voor de vermindering van uitgaven in de sociale zekerheid? </vraag>
+      <vraag nummer="8">Bent U van oordeel, dat zwart werk en fraude in de sociale zekerheid ook op het terrein van kinderopvang niet wenselijk is en bestreden moet worden? Toelichting: zie «Elco Brinkman en de zwarte kinderopvang» FNV-magazine 3 november 1990. </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+   <mededeling mededeler="D'Ancona" functie="minister" afdeling="Welzijn, Volksgezondheid en Cultuur" mededelingdatum="14januari 1991">Mededeling van minister D'Ancona (Welzijn, Volksgezondheid en Cultuur). (Ontvangen 14januari 1991) De bij brief aan mij toegezonden vragen van het lid der Kamer Vliegenthart inzake kinderopvang kunnen tot mijn spijt niet binnen de gebruikelijke termijn worden beant– woord. De reden van uitstel is dat de antwoorden nog dienen te worden geparafeerd door de staatssecreta– rissen van Sociale Zaken en Werkge– legenheid en van Financiën. De beantwoording zal plaatshebben </mededeling>
+</kvr>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="fosfaat?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001697</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001697&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001697</item>
+         <item attribuut="Document-id">0000020083</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 679</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van der Vaart (PvdA) over fosfaat-en stikstofzuivering van effluenten van rioolzuiveringsinstallaties.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 679</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">679</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Van der Vaart</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-06-09</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Alders</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-06-26</item>
+         <item attribuut="Beginpagina">1421</item>
+         <item attribuut="Eindpagina">1422</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1421" allpagenumbers="1421" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Planiijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="679" onderwerp="fosfaat– en stikstofzuivering van effluenten van rioolzuiveringsinstal/aties." indiendatum="1992-06-9">
+         <vrager partij="PvdA" oorsprong="parlement">Van der Vaart</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1" voetnoot="1">Zijn drie zuiveringsschappen in Zuid-Holland, Limburg en Gelderland voornemens af te zien van fosfaat– en stikstofzuivering van effluenten van rioolzuiveringsinstallaties? <voetnoot nummer="1"/>o Hoe beoordeelt u deze voornemens en de argumenten die de zuiveringsschappen hiervoor aanvoeren? Welke mogelijkheden hebt u om de zuiveringsschappen te dwingen zich te houden aan afspraken die gemaakt zijn in RAP/NAP-verband? </vraag>
+      <vraag nummer="4">Welke mogelijkheden hebt u om de zuiveringsschappen te houden aan afspraken die gemaakt zijn in het kader van de uitvoering van de Derde Nota Waterhuishouding met betrekking tot stikstofemissies? Wanneer is de AMvB met betrekking tot de lozing van stikstof te verwachten? Welke stappen zult u wanneer zetten om de zuiveringsschappen alsnog voortvarend het ingezette stikstof– en fosfaatbeleid uit te laten voeren? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+   <mededeling mededeler="Alders" functie="minister" afdeling="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer" mededelingdatum="1992-06-26">Mededeling van minister Alders (Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer). (Ontvangen 26 juni 1992) Naar aanleiding van de mij met brief d.d. 10juni 1992, toegezonden vragen van het lid der Kamer Van der Vaart over fosfaat– en stikstofzuivering van effluenten van rioolzuiveringsinstallaties, deel ik u mede dat de beantwoording hiervan niet binnen de gestelde termijn kan plaatsvinden, aangezien het hiervoor vereiste overleg nog niet is afgerond. Welke mogelijkheden hebt u om de zuiveringsschappen te houden aan de uitvoering van de AMvB met betrekking tot grenswaarden voor </mededeling>
+</kvr>

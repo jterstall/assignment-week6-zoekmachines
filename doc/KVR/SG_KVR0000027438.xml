@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="2">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001101</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001101&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001101</item>
+         <item attribuut="Document-id">0000027438</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 168</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Vos (P.v.d.A.) over troepen en materieel voor toekomstige VN-vredesoperaties.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 168</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">168</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Vos</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-10-31</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-11-20</item>
+         <item attribuut="Beginpagina">339</item>
+         <item attribuut="Eindpagina">340</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="339" allpagenumbers="339" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="168" onderwerp="troepen en materieel voor toekomstige VN– vredesoperaties." indiendatum="1990-10-31">
+         <vrager partij="PvdA" oorsprong="parlement">Vos</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-11-20">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">Van den Broek</antwoorder>
+         <mede-antwoorder>de minister van Defensie</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1">Heeft de Secretaris-Generaal van de Verenigde Naties in mei van dit jaar via de permanente vertegenwoor– diger een vragenformulier aan alle VN-lidstaten gezonden met het verzoek duidelijk te maken of en in welke mate troepen en materieel beschikbaar kunnen worden gesteld voor toekomstige VN-vredesope– raties? formeel aanbod aan de VN om «stand-by-forces» beschikbaar te houden voor vredesoperaties. De vraag welke bijdrage Nederland in beginsel bereid zou zijn ter beschikking te stellen voor toekom– stige VN-vredesoperaties, is aan de orde bij de voorbereidingen voor de Defensienota. De beantwoording van de brief van de Secretaris-Generaal van de Verenigde Naties, zal dan ook pas mogelijk zijn nadat de Defen– sienota is afgerond. De Secretaris– Generaal is hiervan op de hoogte. Heeft de Nederlandse regering inmiddels op dit verzoek gereageerd? Zo ja, wat is de inhoud van deze reactie geweest? </vraag>
+      <vraag nummer="3">Zo neen, waarom niet? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2 en 3">De Nederlandse regering heeft zich steeds sterk gemaakt voor VN-vredesoperaties als instrument voor conflictbeheersing. Dat is onder meer tot uitdrukking gebracht in een </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

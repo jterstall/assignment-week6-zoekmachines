@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19871988:0001283</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001283&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001283</item>
+         <item attribuut="Document-id">0000098997</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1987-1988 nummer 343</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Lankhorst (P.P.R.) over de uitlevering van een Argentijn.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1987-1988 nummer 343</item>
+         <item attribuut="Jaargang">1987_1988</item>
+         <item attribuut="Vraagnummer">343</item>
+         <item attribuut="Indiener">
+            <persoon partij="PPR">Lankhorst</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1988-01-18</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Korte-van Hemel</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1988-02-19</item>
+         <item attribuut="Beginpagina">689</item>
+         <item attribuut="Eindpagina">690</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 7 - 1 9 8 8 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 7 - 1 9 8 8 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="343" onderwerp="de uitlevering van een Argentijn." indiendatum="18 januari 1988)">
+         <vrager partij="PPR" oorsprong="parlement">Lankhorst</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1 ">Bent u voornemens binnenkort een  29-jarige Argentijn uit te leveren aan  Argentinië?  </vraag>
+      <vraag nummer="2 ">Betreft het hier een tenuitvoerlegging  van vonnissen, uitgesproken ten tijde  van het militaire regime in Argentinië?  Zo ja, welke rol heeft dit feit dan  gespeeld bij uw oordeelsvorming?  </vraag>
+      <vraag nummer="3 ">Welke concrete toezegging hebt u  van de Argentijnse autoriteiten  aangaande de juridische waarborgen  voor betrokkene en zijn persoonlijke  veiligheid?  </vraag>
+      <vraag nummer="4 ">Bent u op de hoogte van het enkele  dagen geleden uitgebrachte nieuwe  psychiatrische rapport dat de  toestand van betrokkene als zorgwek- kend aanmerkt?  </vraag>
+      <vraag nummer="5 ">Bent u bereid, gezien de gezondheids- toestand van betrokkene, uw  beslissing tot uitlevering te herover- wegen danwei de uitvoering op te  schorten?  Het betreft hier de heer  L . D . A . ,  geboren 23 januari 1958, geregi- streerd bij de Hoofdafdeling Staats- en strafrecht, onder nummers E.X.  8 6 0 / 0 9 5 . Het psychiatrisch rapport  is afkomstig van Dr. E. M. M. Mol.  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="7 ">Neen. Bij uitzetting is nimmer sprake  van het overdragen van een  v r e e m - deling aan de justitiële autoriteiten in  het buitenland. Betrokkene heeft dan  ook bij aankomst op de luchthaven  van Buenos Aires zijn reisdocumenten  gekregen, waardoor hij zich als  normaal passagier kon presenteren  bij de personencontrole.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

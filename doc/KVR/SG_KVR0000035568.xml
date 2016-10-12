@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19891990:0001161</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001161&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001161</item>
+         <item attribuut="Document-id">0000035568</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 239</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid De Kok (C.D.A.) over de veroordeling van Sergej Kuznetsof.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 239</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">239</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">De Kok</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-12-06</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-01-02</item>
+         <item attribuut="Beginpagina">483</item>
+         <item attribuut="Eindpagina">484</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="483" allpagenumbers="483" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="239" onderwerp="de veroordeling van Sergej Kuznetsof." indiendatum="1989-12-6">
+         <vrager partij="CDA" oorsprong="parlement">De Kok</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-01-2">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">Van den Broek</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Hebt u kennis genomen van de «statement by the Moscow Helsinki Group on Sergej Kuznetsof» <voetnoot nummer="1"/>, waaruit blijkt dat de onafhankelijke journalist en mensenrechtenactivist Sergej Kuznetsof in Sverdlovsk vanwege laster is veroordeeld? Bent u bereid tegen deze veroordeling te protesteren? </vraag>
+      <vraag nummer="2">Is het u bekend, dat de heer Kuznetsof reeds 40 dagen in honger– staking is? Bent u bereid er bij de Sovjet-overheid op aan te dringen, dat hij de juiste medische begeleiding krijgt? </vraag>
+      <vraag nummer="3">Hoe is dit te rijmen met de politiek van glasnost en perestrojka? Welke gevolgen zou deze veroordeling kunnen hebben voor het CVSE-proces  in het algemeen en de mensenrechtenconferentie in Moskou in 1991 in het bijzonder? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="2"/>
+         <noot nummer="1" datum="1989-11-29" bron=" Zie de Volkskrant"> Zie de Volkskrant, 29 november 1989</noot>
+         <noot nummer="2"> CVSE = conferentie voor veiligheid en samenwerking in Europa</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1 en 2">De journalist S.U. Koetnetsow, correspondent van het blad Glasnost en lid van de afdeling Sverdlovsk van de Alternatieve Politieke Partij, werd op 23 november jongstleden wegens smaad tot zeven maanden gevange– nisstraf veroordeeld. De aanklacht luidde dat hij een militia-functionaris in zijn woonplaats schriftelijk van moord had beschuldigd. Zijn advocaat heeft tegen het vonnis beroep aangetekend. Koetnetsow was eerder uit protest tegen de slechte behandeling in de gevangenis in hongerstaking gegaan en daarop in het ziekenhuis van de gevangenis opgenomen. Hij werd vervolgens tijdelijk naar het Serpski Instituut in Moskou overgebracht. Begin december deelde een Sowjet woordvoerder mede dat de heer Koetnetsow niet langer in honger– staking was. Hij bevond zich toen weer in Sverdlovsk waar hij door zijn familie werd bezocht. Hr Ms Ambassadeur te Moskou heeft op 6 december jl. de zorg van de Nederlandse regering over het lot van de heer Koetnetsow aan de Sowjet-autoriteiten kenbaar gemaakt. De Franse Zaakgelastigde te Moskou heeft op 8 december namens de Twaalf landen van de Europese Gemeenschap met het oog op de behandeling van de heer Koetnetsow bij de Sowjet-autoriteiten gedemar– cheerd. Van Sowjet-zijde werd bij die gelegenheid toegezegd dat de Présidence van de EG volledig op de hoogte zal worden gehouden van nieuwe ontwikkelingen die zich ten aanzien van de zaak van de heer Koetnetsow zouden voordoen. Hoewel de regering alert zal blijven ten aanzien van de behandeling van gevangenen in de Sowjet-Unie, acht zij het bemoedigend dat de Sowjet– autoriteiten thans in het kader van het CVSE-proces volledige openheid betrachten ten aanzien van strafpro– cessen als het onderhavige. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

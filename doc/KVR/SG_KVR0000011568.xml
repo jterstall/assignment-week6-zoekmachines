@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001264</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001264&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001264</item>
+         <item attribuut="Document-id">0000011568</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 334</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Lankhorst (GroenLinks) over uitingen van racisme in en rondom de voetbalstadions.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 334</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">334</item>
+         <item attribuut="Indiener">
+            <persoon partij="GroenLinks">Lankhorst</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-01-21</item>
+         <item attribuut="Beantwoorder">
+            <persoon>d'Ancona</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-02-11</item>
+         <item attribuut="Beginpagina">683</item>
+         <item attribuut="Eindpagina">684</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="683" allpagenumbers="683" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="334" onderwerp="uitingen van racisme in en rondom de voetbalstadions." indiendatum="1993-01-21">
+         <vrager partij="GroenLinks" oorsprong="parlement">Lankhorst</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="minister" ministerie="Welzijn, Volksgezondheid en Cultuur">d'Ancona</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Kent u de constateringen van het Centraal Informatiepunt Voetbalvandalisme, dat voetbalsupporters steeds vaker racistische leuzen roepen? </vraag>
+      <vraag nummer="2">Is het U bekend wanneer de KNVB nu eindelijk met een anti-racismeprogramma komt? </vraag>
+      <vraag nummer="3">Mag ervan worden uitgegaan, dat de bestuurlijke penkelen bij de profsectie van de KNVB het uitbrengen van het actieplan niet vertragen en dat het actieplan ook echt een plan van actie is? </vraag>
+      <vraag nummer="4">Wilt u de KNVB en de clubs nog eens aanspreken op hun verantwoordelijkheid om in en rondom de voetbalstadions uitingen van racisme en antisemitisme in woord, beeld en gebaar niet te tolereren en om alert te zijn op identificatiesymbolen die provocerend kunnen werken? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja. (Ontvangen 11 februari De KNVB heeft een plan van aanpak «Bestnjdmg discriminatie in voetbalstadions» op 22 januari j . l . gepresenteerd. </antwoord>
+      <antwoord nummer="3">Uit informatie van de KNVB is mij gebleken dat de bestuursperikelen van de sectie betaald voetbal geen vertraging in de uitvoering van de in het plan opgenomen actiepunten zullen opleveren </antwoord>
+      <antwoord nummer="4">Het gepresenteerde plan van aanpak bevat vele actiepunten van zowel preventieve en repressieve aard, die erop gericht zijn discriminerende uitingen te voorkomen en tegen te gaan. De uitvoering van het plan geschiedt in nauwe samenwerking met betrokken organisaties uit de voetbalwereld en met justitie, politie en gemeenten. Gezien deze ontwikkeling heb ik er vertrouwen in dat de KNVB ernst maakt met het tegengaan van discriminatie op en rond de voetbaltribunes. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

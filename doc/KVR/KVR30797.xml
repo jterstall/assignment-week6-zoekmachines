@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Boekestijn (VVD) aan de minister van Defensie over de verijdelde aanslag op het kamp Holland. (Ingezonden 24 januari 2008); Antwoord</item>
+         <item attribuut="Bestand">14Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR30797
+</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van een RTL-bericht van 22 januari 2008 over een verijdelde aanslag op Kamp Holland.</item>
+         <item attribuut="Rubriek">Veiligheidsbeleid en defensie (NAVO) Veiligheidsbeleid en defensie (Oorlogen en conflicten)</item>
+         <item attribuut="Trefwoorden">Afghanistan NAVO Oorlogen</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2007-2008, nr. 1257, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070809550</item>
+         <item attribuut="Afkomstig_van">Defensie (DEF)</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Boekestijn</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2008-02-06</item>
+         <item attribuut="Datum_indiening">2008-01-24</item>
+         <item attribuut="Document-id">KVR30797</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="2687" allpagenumbers="2687" vetnummer="2070809550" code="0708tkkvr1257" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Aanhangsel" filenaam="KVR30797" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="1257" onderwerp="" indiendatum="2008-01-24">
+         <vrager partij="VVD" oorsprong="parlement">Boekestijn</vrager>
+         <vraagt-aan>de minister van Defensie</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2008-02-6">
+         <antwoorder functie="minister" ministerie="Defensie">Van Middelkoop</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Heeft u kennis genomen van het bericht in de media inzake een verijdelde aanslag op Kamp Holland? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Hoe is het mogelijk dat explosieven Kamp Holland zijn binnengesmokkeld? </vraag>
+      <vraag nummer="3">Welke veiligheidsmaatregelen gaat U nemen of heeft U al genomen om te voorkomen dat explosieven het kamp kunnen worden binnengesmokkeld? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="2008-01-22" bron="RTL">RTL, 22 januari 2008</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Er is geen explosief materiaal het kamp binnengesmokkeld. </antwoord>
+      <antwoord nummer="3">De huidige veiligheidsvoorzieningen voldoen. Details over deze voorzieningen worden om veiligheidsredenen niet in detail bekend gemaakt. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

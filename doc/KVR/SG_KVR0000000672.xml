@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="1" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19941995:0000672</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000672&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000672</item>
+         <item attribuut="Document-id">0000000672</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1994-1995 nummer 338</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden De Graaf en Scheltema-de Nie (beiden D66) over het gebruik van handboeien door particuliere beveilïgingsmedewerkers.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1994-1995 nummer 338</item>
+         <item attribuut="Jaargang">1994_1995</item>
+         <item attribuut="Vraagnummer">338</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">De Graaf</persoon>
+            <persoon partij="D66">Scheltema-de Nie</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-12-08</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Sorgdrager</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1995-01-06</item>
+         <item attribuut="Beginpagina">687</item>
+         <item attribuut="Eindpagina">688</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1994-1995" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="687" allpagenumbers="687" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1994-1995, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 • 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's-Gravenhage 1995"/>
+      <vraagdata vraagnummer="338" onderwerp="het gebruik van handboeien door particuliere beveilïgingsmedewerkers 1 ." indiendatum="1994-12-8">
+         <vrager partij="D66" oorsprong="parlement">De Graaf</vrager>
+         <vrager partij="D66" oorsprong="parlement">Scheltema-de Nie</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Welke stappen hebt u ondernomen om gebruik van handboeien door anderen dan de politie te voorkomen? </vraag>
+      <vraag nummer="2">Worden, behalve bij Vroom en Dreesman, ook bij andere bedrijven respectievelijk particuliere beveiligingsdiensten handboeien gebruikt? </vraag>
+      <vraag nummer="4"/>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+   <mededeling mededeler="Sorgdrager" functie="minister" afdeling="Justitie" mededelingdatum="1995-01-6">Mededeling van minister Sorgdrager (Justitie), mede namens de minister van Binnenlandse Zaken. (Ontvangen 6 januari 1995) In antwoord op uw brief bericht ik u mede namens mijn ambtgenoot van Binnenlandse Zaken dat het tot mijn spijt niet mogelijk is gebleken de door de leden uwer Kamer De Graaf en Scheltema-De Nie gestelde vragen binnen de daarvoor gestelde termijn te beantwoorden, aangezien het ambtelijk overleg daarover nog niet is afgerond. Zo spoedig mogelijk zal ik u nader berichten. Acht u de kans groot dat gebruik van handboeien door anderen dan de politie, altijd aan rechterlijke toetsing wordt onderworpen? 4 Acht u het niet verstandig, vanwege duidelijkheid en rechtszekerheid voor burgers, om «uiterst ongewenst» gebruik van handboeien door anderen dan de politie wettelijkte verbieden dan wel aan wettelijke voorwaarden te binden? </mededeling>
+</kvr>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19941995:0000623</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000623&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000623</item>
+         <item attribuut="Document-id">0000000623</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1994-1995 nummer 289</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Aanvullende vragen van het lid Sipkes (GroenLinks) over een civiel wapentransport van de Koninklijke marine.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1994-1995 nummer 289</item>
+         <item attribuut="Jaargang">1994_1995</item>
+         <item attribuut="Vraagnummer">289</item>
+         <item attribuut="Indiener">
+            <persoon partij="GroenLinks">Sipkes</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-11-17</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Voorhoeve</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-12-20</item>
+         <item attribuut="Beginpagina">583</item>
+         <item attribuut="Eindpagina">584</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1994-1995" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door da leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="583" allpagenumbers="583" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1994-1995, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="'s Gravenhage 1994"/>
+      <vraagdata vraagnummer="289" onderwerp="een civiel wapentransport van de Koninklijke marine." indiendatum="1994-11-17">
+         <vrager partij="GroenLinks" oorsprong="parlement">Sipkes</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-12-20">
+         <antwoorder functie="minister" ministerie="Defensie">Voorhoeve</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Heeft de Koninklijke marine onlangs een particulier koeriersbedrijf ingeschakeld om een grote hoeveelheid wapens en munitie te brengen naar mariniers op oefening in de Spaanse Pyreneeën? Werd dit transport door Franse douane gecontroleerd met als gevolg dat de chauffeurs aangehouden zijn? </vraag>
+      <vraag nummer="2">Worden particuliere bedrijven vaker ingeschakeld voor het verzorgen van wapentransporten? Deelt u de mening, dat dit een onverantwoord en zeer riskant beleid is en dat dit soort transporten altijd door uw ministerie zelf zouden moeten worden uitgevoerd? Zo ja, waarom gebeurt dit dan niet? Is dat omdat uw ministerie over onvoldoende gekwalificeerde chauffeurs en vervoermiddelen beschikt? Hoe worden transporten geregeld van door uw ministerie verkocht oud-materieel? Schakelt Defensie voor dit soort transporten ook particulieren bedrijven in? </vraag>
+      <vraag nummer="4">Worden de ingeschakelde particuliere bedrijven dan op de hoogte gebracht van wat ze vervoeren? Zo neen, waarom niet? Zo ja, wat voor afspraken worden gemaakt met de desbetreffende bedrijven om een situatie zoals aan de Spaans-Franse grens te voorkomen en om de veiligheidsrisico's verbonden aan dit soort transporten tot een minimum te reduceren? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1994-11-16" bron=" Zie de Volkskrant"> Zie de Volkskrant, 16 november 1994</noot>
+      </noten>
+   </vragen>
+   <toelichting>Deze vragen dienen ter aanvuiling op de eerdere vragen ter zake van het lid Van den Doel, ingezonden 17 november 1994. </toelichting>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Afhankelijk van de te kiezen vervoerstechniek, zee–, lucht–, rail– of wegvervoer, worden bij uitzondering civiele vervoerders ingeschakeld voor het vervoer van wapens en munitie. Op zich brengt het transport van wapens en munitie door civiele vervoerders geen grotere risico's met zich mee, mits de hand wordt gehouden aan de voorschriften. Uitbesteding is dan verantwoord. </antwoord>
+      <antwoord nummer="3">Transport van overtollig defensiemateriaal geschiedt onder verantwoordelijkheid van de dienst der domeinen. Civiele bedrijven worden altijd en volledig ingelicht omtrent de aard, de herkomst en de bestemming van de goederen, welke zij voor Defensie dienen te vervoeren. Transporten van wapens en munitie moeten worden gemeld aan de betrokken buitenlandse autoriteiten door tussenkomst van de Nederlandse ambassade. Het transport mag pas vertrekken nadat de toestemming schriftelijk is verleend. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

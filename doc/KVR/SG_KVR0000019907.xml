@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001521</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001521&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001521</item>
+         <item attribuut="Document-id">0000019907</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 504</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Lankhorst en Rosenmöller (beiden Groen Links) over vochtproblemen in woningen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 504</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">504</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Lankhorst</persoon>
+            <persoon partij="Groen Links">Rosenmöller</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-02-27</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Andriessen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-04-01</item>
+         <item attribuut="Beginpagina">1059</item>
+         <item attribuut="Eindpagina">1060</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1059" allpagenumbers="1059" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="504" onderwerp="vochtproblemen in woningen." indiendatum="1992-02-27">
+         <vrager partij="Groen Links" oorsprong="parlement">Lankhorst</vrager>
+         <vrager partij="Groen Links" oorsprong="parlement">Rosenmöller</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-04-1">
+         <antwoorder functie="minister" ministerie="Economische Zaken">Andriessen</antwoorder>
+         <mede-antwoorder>de staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1" voetnoot="1">Is het ministerie van Economische Zaken betrokken geweest bij een praktijkonderzoek <voetnoot nummer="1"/> naar de werking van mogelijke oplossingen van vochtproblemen in woningen? Is daarbij ook onderzocht wat de invloed is op de temperatuur van de vloer en de toetreding van vocht uit de kruipruimte? </vraag>
+      <vraag nummer="2">Is de in opdracht van het ministerie van Economische Zaken gemaakte samenvatting van dit onderzoek («Beknopt Rapport») het thermische gedeelte weggelaten? Zo ja, waarom? Zijn in dit beknopte rapport bij het systeem «vloerafwerking» ten aanzien van de vochtreductie in de woonkamer, andere resultaten weergegeven dan in het eindverslag van het onderzoek en in het afzonderlijke productrapport? Zo ja, waarom? </vraag>
+      <vraag nummer="4">Zijn bij dit systeem CFK's gebruikt? Wordt dit systeem in een door het ministerie van Economische Zaken nog in 1990 uitgegeven voorlichtingsbrochure aangeraden? Zijn voor de samenstelling van deze brochure de gegevens gebruikt uit het oorspronkelijke onderzoek of uit het «Beknopte Rapport»? </vraag>
+      <vraag nummer="5" voetnoot="2">Is bij een gewelfde vloer een dikte van 50 mm isolatieschuim vaak onvoldoende om aan de minimum-isolatie-eis te voldoen? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="6">Deelt u de mening, dat enerzijds het gebruik van CFK's drie jaar na ondertekening van het protocol van Montreal niet meer had mogen worden aangeraden, en anderzijds de te gebruiken isolatiematerialen ten minste dienen te voldoen aan de door de subsidieverlener te stellen minimum-eisen? </vraag>
+      <vraag nummer="7">Deelt u de mening, dat de onjuist weergegeven onderzoeksresultaten een indruk hebben kunnen wekken dat de bewuste methode de beste oplossing voor de vochtproblemen is? </vraag>
+      <vraag nummer="8">Bent u beiden bereid een eventuele verkeerde indruk weg te nemen? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="6">
+      <antwoord nummer="1">Het onderzoek is ruim 5 jaar geleden verschenen (22 januari 1987). Ze is uitgevoerd in het kader van het onderzoekprogramma Rationeel Energiegebruik in de Gebouwde Omgeving (REGO) met een financiële bijdrage van het ministerie van Economische Zaken. Het REGO-programma werd beheerd door PEO (Stichting Projectbeheersbureau Energie-onderzoek, de voorloper van Novem). In de studie is ook onderzocht wat de invloed is op de temperatuur van de vloer en de toetreding van vocht uit de kruipruimte. </antwoord>
+      <antwoord nummer="2">Het rapport en samenvatting kennen geen afzonderlijke thermisch gedeelte. Van de twee onderwerpen die tot zo'n 'thermisch gedeelte' gerekend kunnen worden (kruipruimtetemperatuur en vloertemperatuur) komt het voor dit rapport belangrijkste onderwerp, de 'kruipruimtetemperatuur', aan bod in de samenvatting. De samenvatting van de onderzoeker geeft de hoofdzaken van het onderzoek en onderzoeksrapport weer. de energiebedrijven en de Consumentenbond - is van algemene aard en raadt geen specifieke systemen aan. Bij de samenstelling van deze brochure zijn de bovenstaand genoemde rapport en samenvatting niet gebruikt. </antwoord>
+      <antwoord nummer="5">Nee. Bij een dikte van 50 mm isolatieschuim wordt een R-waarde bereikt van 1,4; het vereiste minimum is R = 1.3. </antwoord>
+      <antwoord nummer="6">Zie beantwoording vraag 4. Het gebruik van CFK's wordt als zodanig niet aangeraden. Om voor subsidie in aanmerking te komen dienen de isolatiematerialen te voldoen aan de eisen van de regeling. </antwoord>
+      <antwoord nummer="7">Voor de beantwoording hiervan zij verwezen naar de beantwoording van vragen 3 en 4. </antwoord>
+      <antwoord nummer="8">Gezien het voorgaande behoeft dit geen verdere beantwoording. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

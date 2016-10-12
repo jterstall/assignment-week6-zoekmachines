@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="4">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Verbugt (VVD) over de HSL-Zuid. (Ingezonden 29 maart 1996); Antwoord</item>
+         <item attribuut="Bestand">13Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR2912
+</item>
+         <item attribuut="Inhoud">Betreft het bericht in de Volkskrant van 28 maart 1996, dat Amsterdam CS niet volwaardig zal worden aangesloten op de aan te leggen HSL-Zuid.</item>
+         <item attribuut="Rubriek">Ruimtelijke ordening en infrastructuur (PKB's) Verkeer, vervoer en waterstaat (Spoorwegen)</item>
+         <item attribuut="Trefwoorden">PKB's Spoorwegen</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 1995-1996, nr. 958, Tweede Kamer</item>
+         <item attribuut="Afkomstig_van">Verkeer en Waterstaat (VW)</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Verbugt</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1996-04-15</item>
+         <item attribuut="Datum_indiening">1996-03-29</item>
+         <item attribuut="Document-id">KVR2912</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1995–1996" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1947" allpagenumbers="1947" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1995–1996, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 1996"/>
+      <vraagdata vraagnummer="958" onderwerp="" indiendatum="1996-03-29">
+         <vrager partij="VVD" oorsprong="parlement">Verbugt</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1996-04-15">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">Jorritsma-Lebbink</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Kent u het bericht <voetnoot nummer="1"/>, dat Amsterdam CS niet volwaardig zal worden aangesloten op de aan te leggen HSL-Zuid? </vraag>
+      <vraag nummer="2">Ontwikkelt u thans plannen om Amsterdam CS te schrappen als HSL-station? </vraag>
+      <vraag nummer="3">Zo ja, welke overwegingen hebt u om Amsterdam geen volwaardige aansluiting te geven op het hoge-snelheidsnet? </vraag>
+      <vraag nummer="4">Zo ja, hoe verhouden deze plannen zich tot de beleidsvoornemens in de Ontwerp-PKB? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1996-03-28" bron="Volkskrant">Volkskrant, 28 maart 1996</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Nee. Er worden door mij geen plannen ontwikkeld om Amsterdam CS te schrappen als HST Station. </antwoord>
+      <antwoord nummer="3">N.v.t. </antwoord>
+      <antwoord nummer="4">N.v.t. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

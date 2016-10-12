@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19871988:0001394</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001394&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001394</item>
+         <item attribuut="Document-id">0000099108</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1987-1988 nummer 451</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Ploeg en Weisglas (beiden V.V.D.) over diplomatieke betrekkingen tussen Israël en Griekenland.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1987-1988 nummer 451</item>
+         <item attribuut="Jaargang">1987_1988</item>
+         <item attribuut="Vraagnummer">451</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Ploeg</persoon>
+            <persoon partij="VVD">Weisglas</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1988-03-22</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1988-04-06</item>
+         <item attribuut="Beginpagina">905</item>
+         <item attribuut="Eindpagina">906</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 7 - 1 9 8 8 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 7 - 1 9 8 8 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="451" onderwerp="diplomatieke betrekkingen tussen Israël en Griekenland" indiendatum="22 maart 1988)">
+         <vrager partij="VVD" oorsprong="parlement">Ploeg</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Weisglas</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="6 april 1988)">
+         <antwoorder functie="" ministerie="Binnenlandse Zaken"/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1 ">Hebt u kennis genomen van de  jongste uitspraken van de Griekse  premier Papandreou, dat Griekenland  als eerstvolgend voorzitter van de EG  diplomatieke betrekkingen met Israël  zou moeten aanknopen, maar dat  hiervan, gezien de situatie in de  bezette gebieden, thans geen sprake  kan zijn?'  </vraag>
+      <vraag nummer="2 ">Is deze aangelegenheid aan de orde  geweest tijdens uw jongste bezoek  aan Griekenland?  </vraag>
+      <vraag nummer="3 ">Deelt u de opvatting, dat het ook in  het licht van de huidige situatie in de  bezette gebieden, juist van het  grootste belang is, dat het land dat  het EG-voorzitterschap bekleedt  volledige diplomatieke betrekkingen  met Israël heeft?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1 ">Premier Papandreou heeft zich  inderdaad op 11 maart  j l . in het  Griekse parlement uitgelaten in de in  deze vraag bedoelde zin.  2 en 3  Ja. Bij die gelegenheid heb ik  uiteraard het bekende Nederlandse  standpunt naar voren gebracht en  onderstreept dat een besluit van de  Griekse regering om volledige  diplomatieke betrekkingen met Israël  aan te gaan, van Nederlandse zijde  stellig zal worden verwelkomd.  </antwoord>
+      <antwoord nummer="4 ">Nog afgezien van het feit dat het hier  in de eerste plaats een souvereine  aangelegenheid van de Griekse  regering betreft, zou onder de  omstandigheden een eventueel  Nederlands initiatief van deze  strekking mijns inziens niet zinvol  zijn.  W i l t u deze aangelegendheid ter  sprake brengen in het kader van de  Europese Politieke Samenwerking,  met als doel Griekenland alsnog te  bewegen vóór 1 juli  a s . - wanneer  het Griekse EG-voorzitterschap  aanvangt - diplomatieke betrekkingen  met Israël aan te gaan?  </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Zie ondermeer de Volkskrant van 14 maart </noot>
+      </noten>
+   </antwoorden>
+</kvr>

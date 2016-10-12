@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Roethof en De Graaf (beiden D66) over het aftappen van GSM. (Ingezonden 6 december 1995); Antwoord</item>
+         <item attribuut="Bestand">15Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR2304
+</item>
+         <item attribuut="Inhoud">Betreft het bericht dat GSM-telefonie eenvoudig en gemakkelijker dan verondersteld afgetapt kan worden, in tegenstelling tot wat tot voor kort mogelijk werd gehouden. De minister ontkent dit en zegt dat opsporingsambtenaren zonder bezwaar gebruik kunnen maken van de GSM-telefoons.</item>
+         <item attribuut="Rubriek">Communicatie, media en informatievoorziening (Telecommunicatie)</item>
+         <item attribuut="Trefwoorden">Mobiele telefonie</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 1995-1996, nr. 370, Tweede Kamer</item>
+         <item attribuut="Afkomstig_van">Verkeer en Waterstaat (VW)</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Roethof</persoon>
+            <persoon partij="D66">De Graaf</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1995-12-19</item>
+         <item attribuut="Datum_indiening">1995-12-06</item>
+         <item attribuut="Document-id">KVR2304</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1995–1996" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="751" allpagenumbers="751" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1995–1996, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgeverij Plantijnstraat ’s-Gravenhage 1995"/>
+      <vraagdata vraagnummer="370" onderwerp="" indiendatum="1995-12-6">
+         <vrager partij="D66" oorsprong="parlement">Roethof</vrager>
+         <vrager partij="D66" oorsprong="parlement">De Graaf</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1995-12-19">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">Jorritsma-Lebbink</antwoorder>
+         <mede-antwoorder>de minister van Justitie</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1" voetnoot="1">Kan GSM-telefonie eenvoudig en gemakkerlijker dan verondersteld, afgetapt worden, in tegenstelling tot wat tot voor kort voor mogelijk werd gehouden? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2" voetnoot="2 3">Zo ja, waarom is tijdens de behandeling van het wetsvoorstel aftappen van GSM <voetnoot nummer="2"/>gesteld, dat het aftappen van deze vorm van telefonie zo moeilijk is? <voetnoot nummer="3"/>
+      </vraag>
+      <vraag nummer="3">Heeft de regering inzicht in de omvang van de fraude met gekloonde SIM-cards? </vraag>
+      <vraag nummer="4">Is het mogelijk de elektronische logboeken, die aangeven waar de GSM-gebruiker zich bevindt, adequaat te beveiligen? </vraag>
+      <vraag nummer="5">Zo neen, is het dan verantwoord opsporingsambtenaren met een GSM-telefoon uit te rusten? </vraag>
+      <vraag nummer="6">Vindt u, dat apparatuur waarmee GSM-gesprekken afgeluisterd kunnen worden vrij verhandelbaar moet zijn of niet? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1995-12-2" bron="Vrij Nederland">Vrij Nederland, 2 december 1995</noot>
+         <noot nummer="2" documenttype="Kamerstuk" kamerstuk-id="24 108">Kamerstuk 24 108</noot>
+         <noot nummer="3">Zie Handelingen II 1995–1996, nr. 6, blz. 1120–1125. SIM =Subscriber Identity module</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1 en 2">GSM is niet eenvoudig af te luisteren. Het systeem kent een zeer hoog beveiligingsniveau; e´e´n van de belangrijkste beschermingen tegen het afluisteren is de geavanceerde codering van het ethersignaal. Afluisteren van gesprekken is daardoor haast onmogelijk. De beveiligingskarakteristieken zijn overigens, gezien het grensoverschrijdende karakter van GSM, in breed Europees verband en overeenkomstig de beoogde toepassingen van GSM vastgesteld. </antwoord>
+      <antwoord nummer="3">De regering beschikt niet over informatie over de omvang van de fraude met gekloonde SIM-cards. In Nederland zijn tot op heden in ieder geval geen concrete gevallen bekend. </antwoord>
+      <antwoord nummer="4 en 5">De «electronische logboeken», die aangeven waar een GSM-gebruiker zich bevindt, maken deel uit van de GSM-infrastructuur. De gegevens uit deze logboeken kunnen uitsluitend worden ingezien door een zeer beperkt aantal medewerkers van de GSM-netwerkbeheerder. Deze medewerkers bekleden vertrouwensfuncties, op grond waarvan er van kan worden uitgegaan dat de gegevens adequaat beveiligd zijn. Er is dan ook geen bezwaar tegen het gebruik van GSM-telefoons door opsporingsambtenaren. </antwoord>
+      <antwoord nummer="6">Voor de handel in apparatuur waarmee de ether, en daarmee ook de gecodeerde GSM-gesprekken, kunnen worden afgeluisterd bestaan geen wettelijke regels. Het gebruik van, door middel van deze apparatuur, opgevangen informatie is, behoudens uitzonderingen op grond van regelgeving, verboden (zie het Besluit radio-elektrische inrichtingen, artikel F.1.1 (Stb. 1988, 552). Op basis van deze bepaling kan misbruik van dit soort apparatuur worden tegengegaan. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

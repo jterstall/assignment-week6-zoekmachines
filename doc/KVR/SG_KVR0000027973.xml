@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001636</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001636&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001636</item>
+         <item attribuut="Document-id">0000027973</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 700</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Achttienribbe-Buijs (PvdA) over de brand in het natuurgebied «De Grote Peel».</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 700</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">700</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Achttienribbe-Buijs</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-05-29</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Dales</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-07-05</item>
+         <item attribuut="Beginpagina">1429</item>
+         <item attribuut="Eindpagina">1430</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1429" allpagenumbers="1429 1430" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN0921 - 7398" uitgever="'s-Gravenhage 1991"/>
+      <vraagdata vraagnummer="700" onderwerp="de brand in het natuurgebied «De Grote Peel»." indiendatum="1991-05-29">
+         <vrager partij="PvdA" oorsprong="parlement">Achttienribbe-Buijs</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1991-07-5">
+         <antwoorder functie="minister" ministerie="Binnenlandse Zaken. (Ontvangen 5 juli 1991">Dales</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Hebt u kennis genomen van de brand in het natuurgebied «De grote Peel»? Is het u bekend of voor dit natuur– gebied een rampenbestrijdingsplan gemaakt is? </vraag>
+      <vraag nummer="2">Hebt u kennis genomen van het feit, dat in dit - provinciegrensover– schrijdend - gebied van een lacune sprake is ten aanzien van coördinatie van brandbestrijding en van heldere bestuursafspraken? </vraag>
+      <vraag nummer="3">Bent u van mening dat de «prijs» die betaald wordt, namelijk de vernie– tiging van een groot deel van een waardevol natuurgebied, te hoog is om de geconstateerde lacunes aan het licht te brengen? </vraag>
+      <vraag nummer="4">Bent u thans bereid om het pleidooi van het afstemmingsorgaan Opbouw Regionale Brandweren, te weten het instellen van een onafhankelijke toetsingscommissie, die periodiek de prestaties van de rampenbestrij– dingsorganisaties op lokaal niveau aan de hand van objectieve criteria meet, te honoreren? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja. In ambtsbericht is mij gemeld dat voor het natuurgebied de Groote Peel geen specifiek rampbestrij– dingsplan is gemaakt. Wel beschikken de gemeenten, waarin het natuurgebied is gelegen, over rampenplannen. Het gebied is gelegen in drie brandweerregio. Deze beschikken ieder over regelingen ten aanzien van inzet van middelen van en coördinatie door de regionale brandweer in geval van branden en rampen. </antwoord>
+      <antwoord nummer="2">Uit verschillende bronnen is mij het volgende gebleken. In een kort tijds– bestek ontstonden branden op verschillende lokaties in het natuur– gebied. In het gedeelte dat is gelegen in de brandweerregio's Noord-Limburg was de omvang zodanig dat volstaan kon worden met inzet van gemeentelijke brand– weerkorpsen; inzet van middelen van en coördinatie door de regionale brandweer was niet nodig. In het gedeelte dat is gelegen in de brand– weerregio Midden-Limburg was de brand omvangrijker; daar is besloten tot bijstand en coördinatie door de regionale brandweer. In het gedeelte dat is gelegen in de brandweerregio Zuid-Oost Noord-Brabant was de omvang van de brand eveneens omvangrijk. De betrokken autori– teiten oordeelden echter bijstand en coördinatie door de regionale brandweer niet meteen noodzakelijk. Pas in een late fase is hier besloten ook de regionale brandweer in te zetten. De bestrijding van de brand is hierdoor minder adequaat verlopen dan mogelijk was. De omstandigheid dat het natuurgebied in twee provincies is gelegen speelde hierbij overigens geen rol. De bij de brandbestrijding betrokken diensten uit beide provincies stonden met elkaar in contact. </antwoord>
+      <antwoord nummer="3 en 4">De bestrijding van branden, ongevallen en rampen is, evenals de voorbereiding daarop, een primaire verantwoordelijkheid van de lokaie overheden. In de evaluatie van de brand in het natuurgebied de Groote Peel is door alle bestuurlijk en opera– tioneel betrokken partijen (burge– meesters, provinciaal bestuur, regionale brandweercommandanten, politie, staatsbosbeheer) erkend dat de brandbestrijding effectiever had gekund. De lessen die men hieruit heeft geleerd leiden er in de eerste plaats toe dat op korte termijn voor het natuurgebied een samenhangend brandbestrijdingsplan wordt opgesteld. In de tweede plaats zal het algemeen bestuur van de regionale brandweer Zuid-Oost Noord-Brabant komen tot herziening van de afspraken over het verlenen van bijstand en coördinatie door de regionale brandweer bij daarvoor in aanmerking komende incidenten. Vooruitlopend op het formaliseren van de bestuurlijke afspraken is besloten dat de commandant van de is voorts dat de minister van Binnen– landse Zaken verantwoordelijk is voor een goede werking van het systeem van brandweerzorg en rampenbestrijding in het algemeen. Een toetsing van de kwaliteit van dat systeem moet daarom mogelijk blijven. Over de wijze waarop dit toetsingselement vorm krijgt beraad ik mij nog in verband met de volgende ontwikkelingen. Voor een toetsing als hier bedoeld maak ik voor een deel gebruik van de Inspectie voor het brandweerwezen. De organisatie en taken van deze inspectie worden thans herover– wogen. Daarnaast zijn er thans verschillende activiteiten binnen het vervolgtraject van het project reorganisatie rampenbestrijding. Ik heb dat op 17 april j.l. in de Tweede Kamer uiteen– gezet. Deze activiteiten dienen alle voor het op peil brengen of houden van de kwaliteit van de rampenbe– strijdingsorganisatie. Ik noem de conferenties binnen de brandweer– regio's die dit najaar worden gehouden en waar onder andere het oefenbeleid veel aandacht zal krijgen. Ik noem ook het van start gaan van een vliegende brigade, bestaande uit deskundigen uit het veld, die als taak heeft het adviseren van gemeenten en regio's over het opstellen van rampen en rampbe– strijdingsplannen. Ik zal evalueren wat het resultaat is van deze ontwik– kelingen, waarbij ik er de nadruk op leg dat de lokale en regionale besturen primair, verantwoordelijk zijn voor een adequate brand– weerzorg en rampenbestrijding. Daarna zal ik uiteraard de Kamer </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

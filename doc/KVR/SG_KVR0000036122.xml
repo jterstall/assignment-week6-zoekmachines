@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001715</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001715&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001715</item>
+         <item attribuut="Document-id">0000036122</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 791</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid De Kok (C.D.A.) over stottertherapieën.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 791</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">791</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">De Kok</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-06-20</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Simons</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-07-16</item>
+         <item attribuut="Beginpagina">1597</item>
+         <item attribuut="Eindpagina">1598</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1597" allpagenumbers="1597" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgeverij 's-Gravenhage 1989"/>
+      <vraagdata vraagnummer="791" onderwerp="stottertherapieën." indiendatum="20juni 1990">
+         <vrager partij="CDA" oorsprong="parlement">De Kok</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-07-16">
+         <antwoorder functie="staatssecretaris" ministerie="Welzijn, Volksgezondheid en Cultuur">Simons</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Hebt u kennis genomen van een artikel inzake stottertherapieën?' </vraag>
+      <vraag nummer="2">Overtreffen de resultaten van thera– pieën die gebaseerd zijn op de theorie, zoals beschreven en verdedigd in hier boven aangehaald artikel, verre de resultaten van stottertherapieën in het zogenaamde reguliere circuit? </vraag>
+      <vraag nummer="3">Kan vergoeding van die kosten door het ziekenfonds alleen geschieden als een cliënt eerst uitputtend behandeld is in het tradionele circuit? Zo ja, hebt u dan kennis genomen van een uitspraak van de kanton– rechter te Groningen op 23 mei jl. ten gunste van een op basis van die theorie genezen cliënt inzake een geding tegen een ziekenfonds, dat ervan was uitgegaan dat het verstrekken van een vergoeding uitsluitend mogelijk is nadat de cliënt uitputtend in het traditionele circuit is behandeld? </vraag>
+      <vraag nummer="5">Kan informatie worden gegeven over de opstelling van de Duitse «Krankenkasse» en de Nederlandse particuliere verzekeraars ten opzichte van deze zogenaamde Del Ferro– theorie/behandeling? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" titel="respiratory muscle incoördination in stuttering speech"> Van L. Zocchi, M. Estenne, P T Maculem e.a., in «American Review of Respiratory Disease» van juni 1990, mzake «respiratory muscle incoördination in stuttering speech»</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1">Ik heb kennis genomen van het betreffende artikel. Daarbij merk ik op dat in het artikel geen stotterthe– rapieën worden behandeld, doch dat het een vergelijkend onderzoek betreft tussen 10 stotteraars en 5 personen zonder stotterproblemen. Daarbij bleek dat de stotteraars bij het spreken de spieren die zorgdragen voor de ademhaling, minder onder controle hebben dan de personen die vloeiend spreken en dat bij de stotteraars deze spieren ongecontroleerd en ongecoördineerd werkten. Op grond hiervan conclu– deren de auteurs dat het aanbeveling verdient dat bij stottertherapieën stotteraars geleerd wordt controle over hun ademhalingsspieren te krijgen. </antwoord>
+      <antwoord nummer="2">Er zijn aanwijzingen dat stotterthe– rapie die gericht is op het beheersen van de ademhalingsspieren, zoals de zogenaamde Del Ferro-methode, betere resultaten oplevert dan reguliere logopedische behandeling. Een wetenschappelijk onderzoek waarbij de diverse stottertherapieën op hun resultaten werden verge– leken, is mij niet bekend. </antwoord>
+      <antwoord nummer="3">De in de vraag bedoelde Del Ferro– methode is niet in het ziekenfonds– pakket opgenomen, zodat dergelijke behandelingen niet ten koste van de in de Ziekenfondswet geregelde verzekering kan plaatsvinden. Wel heeft een aantal ziekenfondsen de vergoeding van de Del Ferro– methode opgenomen in hun aanvul– lingsfondsen. In enkele gevallen geldt daarbij de voorwaarde dat vergoeding pas mogelijk is indien eerdere logopedische behandeling geen of onvoldoende resultaat heeft opgeleverd. </antwoord>
+      <antwoord nummer="4">De in de vraag bedoelde uitspraak had betrekking op een vergoeding uit het aanvullingsfonds van het Groningse ziekenfonds. Bij dergelijke aanvragen werd tot 1 januari 1990 de in het antwoord op vraag 3 vermelde voorwaarde gehanteerd. Gebleken is dat de verzekerde, die de aanvraag voor 1 januari 1990 had ingediend, in het verleden zonder resultaat logopedische behandeling heeft gehad. Overigens is meerge– noemde voorwaarde met ingang van 1 januari 1990 bij dit aanvullings– fonds niet meer van toepassing. </antwoord>
+      <antwoord nummer="5">Over de opstelling van de Duitse «Krankenkasse» ten aanzien van vergoeding van de zogenaamde Del Ferro-methode heb ik geen gegevens. Voor wat betreft de </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

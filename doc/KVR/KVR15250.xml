@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Hoekema (D66) aan de staatssecretaris van Justitie en de minister van Volksgezondheid, Welzijn en Sport over de dood van een baby in het AZC Leusden. (Ingezonden 14 februari 2002); Antwoord</item>
+         <item attribuut="Bestand">13Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR15250
+</item>
+         <item attribuut="Inhoud">Deze vragen dienen ter aanvulling op eerdere vragen hierover van de leden Arib en Middel, ingezonden 11 februari 2002 (Aanhangsel van de Handelingen II, 2000-2001, 741).</item>
+         <item attribuut="Rubriek">Gezondheidszorg (Ziekten en ziektepreventie) Welzijn (Vreemdelingen en asielzoekers)</item>
+         <item attribuut="Trefwoorden">Gezondheidszorg Vluchtelingen</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2001-2002, nr. 787, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2010206090</item>
+         <item attribuut="Afkomstig_van">Justitie (JUS)</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Hoekema</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2002-03-11</item>
+         <item attribuut="Datum_indiening">2002-02-14</item>
+         <item attribuut="Document-id">KVR15250</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2001–2002" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1649" allpagenumbers="1649" vetnummer="2010206090" code="" lopendefooter="Tweede Kamer, vergaderjaar 2001–2002, Aanhangsel" filenaam="KVR15250" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2002"/>
+      <vraagdata vraagnummer="787" onderwerp="" indiendatum="2002-02-14">
+         <vrager partij="D66" oorsprong="parlement">Hoekema</vrager>
+         <vraagt-aan>de staatssecretaris van Justitie en de minister van Volksgezondheid, Welzijn en Sport</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2002-03-11">
+         <antwoorder functie="staatssecretaris" ministerie="Justitie">Kalsbeek</antwoorder>
+         <mede-antwoorder>de minister van Volksgezondheid, Welzijn en Sport</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Hebt u kennisgenomen van de berichten over de dood van een Irakese baby in het AZC Leusden? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Welke onderzoeken zijn c.q. worden naast het door de Inspectie ingestelde onderzoek door de Medische Opvang Asielzoekers (MOA) ingesteld? Is er al iets te zeggen over de toedracht van de dood van de baby? </vraag>
+      <vraag nummer="3">Bent u bereid en van plan de regels met betrekking tot de medische hulpverlening na een kritische toets opnieuw onder de aandacht van alle bewoners en andere betrokken in de AZC’s te brengen om herhaling zo mogelijk te voorkomen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="2002-02-8" bron="Trouw">Trouw, 8 februari 2002</noot>
+      </noten>
+   </vragen>
+   <toelichting>Deze vragen dienen ter aanvulling op eerdere vragen terzake van de leden Arib en Middel, ingezonden 11 februari jl. </toelichting>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Voor het antwoord op vraag 2 verwijs ik u naar het antwoord op vraag 1 van het lid Halsema van uw Kamer, met nummer 201026190, over de dood van een baby na het uitblijven van medische zorg in het asielzoekerscentrum in Leusden. </antwoord>
+      <antwoord nummer="3">Afhankelijk van de resultaten van het onderzoek en eventuele aanbevelingen van de Inspectie voor de Gezondheidszorg, zullen zonodig maatregelen worden getroffen om herhaling zo enigszins mogelijk te voorkomen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

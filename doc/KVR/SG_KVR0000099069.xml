@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19871988:0001355</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001355&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001355</item>
+         <item attribuut="Document-id">0000099069</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1987-1988 nummer 414</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Beckers-de Bruijn en Lankhorst (beiden P.P.R.) over de tekst van de CITO-eindtoets informatieverwerking voor het basisonderwijs.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1987-1988 nummer 414</item>
+         <item attribuut="Jaargang">1987_1988</item>
+         <item attribuut="Vraagnummer">414</item>
+         <item attribuut="Indiener">
+            <persoon partij="PPR">Beckers-de Bruijn</persoon>
+            <persoon partij="PPR">Lankhorst</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1988-03-01</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Ginjaar-Maas</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1988-03-21</item>
+         <item attribuut="Beginpagina">831</item>
+         <item attribuut="Eindpagina">832</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 7 - 1 9 8 8 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 7 - 1 9 8 8 , Aanhangsel 831 " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="414" onderwerp="de tekst van de CITO-eindtoets informatieverwerking voor het basisonderwijs." indiendatum="1 maart 1988)">
+         <vrager partij="PPR" oorsprong="parlement">Beckers-de Bruijn</vrager>
+         <vrager partij="PPR" oorsprong="parlement">Lankhorst</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="21 maart 1988)">
+         <antwoorder functie="" ministerie="Onderwijs en Wetenschappen"/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1 ">Bent u nog altijd van mening, dat de  tekst 'De mooiste vrouw van de  wereld' met de bijbehorende vragen,  die vorig jaar als CITO-eindtoets  informatieverwerking aan de leerlin- gen van het basisonderwijs is  voorgelegd, een slechte keuze was  en weinig bevordelijk voor een  kritische houding van de leerlingen?  </vraag>
+      <vraag nummer="2 ">Zijn dezelfde tekst en dezelfde  vragen desondanks in braille overge- zet en op 23 februari  j l . gebruikt voor  de blinde leerlingen van het basison- derwijs?  </vraag>
+      <vraag nummer="3 ">Acht u het beginsel van gelijke  behandeling hier wellicht te ver  doorgevoerd?  </vraag>
+      <vraag nummer="4 ">Kan hieruit worden opgemaakt, dat  de door CITO toegezegde heroverwe- ging van de procedure nog niets  heeft opgeleverd?  W a a r o m niet?  </vraag>
+      <vraag nummer="5 ">Hoe vaak is inmiddels aan blinde  leerlingen een tekst van het vorig jaar  voorgelegd?  </vraag>
+      <vraag nummer="6 ">Gebeurt dit ook in andere gevallen?  Zie het antwoord op eerdere schrifte- lijke vragen. Aanhangsel Handelingen,  vergaderjaar  1 9 8 6 - 1 9 8 7 , nr. 663.  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1 ">Ja.  Ja. Het is gebruikelijk dat een  gebrailleerde versie van de Eindtoets  basisonderwijs in twee opeenvolgen- de jaren  w o r d t gebruikt. De betreffen- de tekst is vorig jaar gebrailleerd en  aan de scholen toegezonden om ook  in dit jaar te worden gebruikt.  </antwoord>
+      <antwoord nummer="3 ">Alle leerlingen in het basisonderwijs  krijgen dezelfde tekst voorgelegd.  </antwoord>
+      <antwoord nummer="4 ">De door het CITO toegezegde  heroverweging van de procedure had  betrekking op nieuw te ontwikkelen  versies van de Eindtoets basisonder- wijs. Ten aanzien van de al gebrail- leerde versie is daaraan niet meer  gedacht.  </antwoord>
+      <antwoord nummer="5 ">Tweemaal, zie het gestelde bij punt  2.  </antwoord>
+      <antwoord nummer="6 ">Neen, de tekst is voor de laatste maal  gebruikt en niet meer in andere  gevallen voorgelegd.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

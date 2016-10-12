@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19931994:0001452</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001452&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001452</item>
+         <item attribuut="Document-id">0000003963</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 238</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Tommel (D66) over de Amvb-glastuinbouw.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 238</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">238</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Tommel</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-11-04</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Alders</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-01-06</item>
+         <item attribuut="Beginpagina">481</item>
+         <item attribuut="Eindpagina">484</item>
+         <item attribuut="Omvang">4 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="481" allpagenumbers="481 482 483" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1994"/>
+      <vraagdata vraagnummer="238" onderwerp="de Amvb-glastuinbouw." indiendatum="1993-11-4">
+         <vrager partij="D66" oorsprong="parlement">Tommel</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="6 januari 1994) zie ook aanhangsel Handelingen nr. 194, Vergaderjaar 1993-1994">
+         <antwoorder functie="minister" ministerie="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer">Alders</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="11">
+      <vraag nummer="1" voetnoot="1 2">Is de concept-Algemene maategel van bestuur «Tuinbouwbedrijven bedekte teelten» (Amvb-glastuinbouw) strijdig metde Wet milieubeheer, zoals de Zuidhollandse Milieufederatie beweert? <voetnoot nummer="1"/>Zijn in deze concept-Amvb– glastuinbouw geen voorschriften opgenomen die de uitstoot van schadelijke pesticiden voor bedekte teelten - geschat op 606 000-628 000 kilo op jaarbasis - voorkómen? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="3">Hoe denkt u in dit verband om te gaan met het beleid van de minister van Verkeer en Waterstaat, te weten het standpunt over atmosferische depositie in de ontwerp-Evaluatienota Water (pag. 8, 7e gedachtenstreepje)? </vraag>
+      <vraag nummer="4">Zijn in de concept-Amvb– glastuinbouw geen voorschriften (zoals gevelisolatie en schermen) opgenomen om het energiegebruik (totaal ca. 4,2 miljard m </vraag>
+      <vraag nummer="3"> voor de glastuinbouw op jaarbasis) terug te dringen? </vraag>
+      <vraag nummer="5">Zijn in bedoelde Amvb geen voorschriften opgenomen voor preventie en hergebruik van afvalstoffen uit de glastuinbouw? </vraag>
+      <vraag nummer="6">Zijn in deze Amvb geen voorschriften opgenomen om de verkeersbewegingen te beperken? </vraag>
+      <vraag nummer="7">Bent u het eens met de stelling, dat de nieuwe Wet milieubeheer beoogt het milieu te beschermen bij activiteiten uit inrichtingen, en dat de Wet een doelmatige verwijdering van afvalstoffen beoogt, een zuinig gebruik van energie en grondstoffen, en de beperking van verkeersbewegingen? </vraag>
+      <vraag nummer="8">Hoe is voldaan aan Art. 8.11 lid 3 Wet milieubeheer in de concept Amvb-glastuinbouw waar het gaat om de uitstoot van pesticiden, h ^t zuinig omgaan metenergie en grondstoffen en preventie en hergebruik van afvalstoffen? </vraag>
+      <vraag nummer="9">Hoe zijn de aspecten van Art. 8.40 leden 2a en 2b Wet Milieubeheer, te weten de bestaande toestand van het milieu (achtergronddepositie) en de gevolgen voor het milieu van de betreffende inrichtingen, verwerkt in de concept-AmvB? </vraag>
+      <vraag nummer="10" voetnoot="1 2">Kent u de genoemde 31 maatregelen van de Milieufederatie om de vervuiling vanuit de glastuinbouw terug te dringen? In hoeverre zijn deze in de Amvb verwerkt? <voetnoot nummer="1"/> NRC Handelsblad van 28 oktober 1993. <voetnoot nummer="2"/> Meerjarenplan Gewasbescherming, T.K. </vraag>
+      <vraag nummer="21"/>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ik ben van mening dat het ontwerp-besluit niet in strijd is met de Wet milieubeheer. In het ontwerp-besluit zullen geen voorschriften worden opgenomen die de uitstoot van schadelijke pesticiden geheel voorkomen. Het besluit bevat overigens wel voorschriften om de emissie van bestrijdingsmiddelen te beperken. Nadat bestrijdingsmiddelen zijn toegepast vindt emissie naar bodem, water of lucht plaats voorzover het middel niet achterblijft op het produkt of wordt afgebroken. De kern van het milieubeleid ten aanzien van bestrijdingsmiddelen is gericht op het verregaand terugdringen van de structurele afhankelijkheid van gewasbeschermingsmiddelen in de land– en tuinbouw en op het verminderen van de omvang van het gebruik. Deze beleidsdoelstellingen zijn vastgesteld in het Meerjarenplan - preventieve en hygiënische maatregelen waarmee de oorzaken van ziekten en plagen deels kunnen worden weggenomen; - hettoepassen van niet-chemische bestrijdingsmethoden; - het meer selectief en curatief toepassen van middelen in plaats van preventieve behandeling van het gehele gewas; - het toepassen van meer efficiënte toedieningstechnieken met een relatief laag verbruik. Overeenkomstig het genoemde bestuursaccoord zal binnenkort in een sectorwerkplan voor de glastuinbouw het pakket aan maatregelen, nodig om de doelstellingen te realiseren, worden vastgesteld. Vooruitlopende hierop zullen in het ontwerp-besluit maatregelen worden opgenomen die zijn gericht op een zorgvuldig omgaan met bestrijdingsmiddelen en op het voorkomen van ernstige milieugevolgen door het ongecontroleerde vrijkomen van bestrijdingsmiddelen. Voor andere onderdelen van het pakket van maatregelen is de Bestrijdingsmiddelenwet een geschikter kader of wordt in eerste instantie uitgegaan van de eigen verantwoordelijkheid van het bedrijfsleven. Voor de definitieve vaststelling van dit besluit zal nog afstemming plaatsvinden met het sectorwerkplan wanneer dat is vastgesteld. Zoals aangekondigd in het MJP-G en het hiervoor genoemde Bestuursaccoord geldt 1995 als ijkjaar voor de voortgangsbewaking op de overeengekomen onderdelen. Indien bronnen. De bronnen van de emissies en atmosferische depositie van bestrijdingsmiddelen zijn de feitelijke toepassing van bestrijdingmiddelen. Emissiebeperkende maatregeien na de feitelijke toepassing van een bestrijdingsmiddel zijn veelal technisch niet mogelijk of economisch niet haalbaar. Zoals blijkt uit het antwoord op vraag 2 is bij het opstellen van het ontwerp-besluit een integrale afweging gemaakt om toepassing van bestrijdingsmiddelen te beperken met als resultaat een aanpak langs drie wegen: de Wet milieubeheer, de Bestrijdingsmiddelenwet en de eigen verantwoordelijkheid van het bedrijfsleven. Op dit punt bestaat geen verschil van inzicht met mijn collega van Verkeer en Waterstaat. </antwoord>
+      <antwoord nummer="4">In het kader van het energiebesparingsbeleid is onderzoek gedaan naar mogelijkheden voor energiebesparing in de sector glastuinbouw. De resultaten hiervan zijn verwerkt in de Meerjarenafspraak voor de glastuinbouw. Niet duidelijk is echter in hoeverre hier sprake is van mogelijkheden die redelijkerwijs door elk bedrijf dat onder het ontwerp-besluit gaat vallen benut kunnen worden. Dat is een voorwaarde om die mogelijkheden te vertalen in algemene regels. Begin volgend jaar gaat een onderzoek hiernaar van start. De bespreking van de resultaten met de doelgroep zal gekoppeld worden aan de evaluatie van de bestaande Meerjarenafspraak energiebesparing die in 1995 plaatsvindt. Alsdan zal het inzicht De afvalwaterproblematiek zal worden geregeld in het in voorbereiding zijnde Lozingenbesluit Wvo. De onderhavige bedrijfsactiviteit brengt het ontstaan van plantaardig afval noodzakelijkerwijs metzich mee. Preventie van dit afval is niet mogelijk. Wel wordt dit plantaardig afval in de meeste gevallen buiten de inrichting gecomposteerd. De compost wordt toegepast als bodemverbeteraar. Ten aanzien van substraatmatten kan worden opgemerkt dat deze onder meer zijn ingevoerd om los van de grond te telen. Dit heeft het milieuhygiënisch voordeel dat minder bestrijdingsmiddelen nodig zijn, omdat geen grond hoeft te worden ontsmet. Bovendien schept het telen op substraat de mogelijkheid om water en nutriënten nauwkeuriger te doseren en opnieuwte gebruiken, voor zover ze niet door de plant zijn opgenomen. Veelal is het mogelijk substraatmatten meerdere malen te gebruiken. Dit is echter afhankelijk van een aantal teelt-technische factoren die zich moeilijk laten reguleren door algemene voorschriften. Het opnieuw toepassen van de substraatmatten is echter economisch voordelig, waardoor de teler hiervoor zal kiezen als dit teelttechnisch mogelijk is. Indien de substraatmatten niet meer geschikt zijn voor hergebruik, wordt een deel van deze uit steenwol bestaande matten gesmolten en opnieuw ingezet voor de produktie van steenachtige produkten, zoals klinkers voor bestrating. Een deel is echter Zie de antwoorden op de vragen 1 t/m  6. Het ontwerp-besluit heeft voor het overgrote deel betrekking op bestaande bedrijven. Omdat het gaat om bestaande bedrijven is het niet mogelijk om los van elkaar aan te geven wat de bestaande toestand van het milieu zou zijn zonder de betreffende inrichtingen en wat de gevolgen voor het milieu zijn van de betreffende inrichtingen. Op vele punten is de milieusituatie in de sector aan verbetering toe met het oog op een duurzame ontwikkeling. Om deze verbeteringen te bereiken wordt gewerkt op een aantal fronten zoals het Meerjarenprogramma Gewasbescherming, de Meerjarenafspraken over het energiegebruik, het verpakkingsconvenant, de Bestrijdingsmiddelenwet, het Lozingenbesluit Wvo dat in voorbereiding is en het ontwerp-Besluit tuinbouwbedrijven met bedekte teelt. Dit pakket van maatregelen maakt het naar verwachting mogelijk om op termijn de gewenste milieukwaliteit in glastuinbouwgebieden te bereiken. </antwoord>
+      <antwoord nummer="10">Ter voorbereiding van het ontwerp-besluit is naast intensief afstemmingsoverleg met de ministeries van Landbouw, Natuurbeheer en Visserij en van Verkeer en Waterstaat ook overleg gevoerd met de betrokken maatschappelijke organisaties, zoals </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

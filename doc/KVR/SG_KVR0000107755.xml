@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001980</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001980&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001980</item>
+         <item attribuut="Document-id">0000107755</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 946</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Van Es (P.S.P.) en Beckers-de Bruijn (P.P.R.) over de deelneming van 3 Zuidafrikanen aan het open Nederlands kampioenschap golf.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 946</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">946</item>
+         <item attribuut="Indiener">
+            <persoon>Van Es</persoon>
+            <persoon>Beckers-de Bruijn</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-07-28</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-08-13</item>
+         <item attribuut="Beginpagina">1889</item>
+         <item attribuut="Eindpagina">1890</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 6 - 1 9 8 7 " typehandeling="Aanhangsel van  d e Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="946" onderwerp="de deelneming wan 3 Zuidafrikanen aan het open Nederlands kampioen- schap golf." indiendatum="28 juli 1 987)">
+         <vrager partij="" oorsprong="parlement">Van Es</vrager>
+         <vrager partij="" oorsprong="parlement">Beckers-de Bruijn</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1 ">Is het u bekend, dat evenals in  voorgaande jaren, in strijd met de  sportboycot van Zuid-Afrika een  drietal Zuidafrikanen deelneemt aan  het open Nederlands kampioenschap  golf te Hilversum?  </vraag>
+      <vraag nummer="2 ">Hebt u activiteiten ondernomen om  uitvoering te geven aan deze sport- boycot door nauwlettend de deelne- merslijst van de golf-kampioenschap- pen te doen onderzoeken op deelna- me van Zuidafrikanen en door het  bestuur van de Nederlandse Golf  Federatie (NGF) te wijzen op het  bestaan van de boycot?  </vraag>
+      <vraag nummer="3 " voetnoot="1">Bent u bereid volgend jaar stringenter  op de naleving van de sportboycot  toe te zien nu opnieuw een drietal  Zuid-Afrikanen, met medeweten van  het bestuur van de NGF <voetnoot nummer="1"/>) en met  behulp van paspoorten uit andere  landen toegang tot het toernooi heeft  verkregen?  </vraag>
+      <vraag nummer="4 ">Bent u bereid vroegtijdig de NGF- richtlijnen voor 1988 over het  verbod van deelname van Zuidafrika- nen te verstrekken; bent u voorts  bereid zonodig een lijst te verstrekken  met namen van Zuidafrikanen die  met behulp van paspoorten van  andere nationaliteiten trachten  toegang te verkrijgen tot golftoernooi- en?  </vraag>
+      <vraag nummer="5 ">Zo neen, acht u het toelaatbaar dat  telkenjare bij de golfkampioenschap- pen van de sportboycot van Zuid- Afrika een farce  w o r d t gemaakt?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

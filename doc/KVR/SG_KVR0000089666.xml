@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19881989:0000067</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0000067&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0000067</item>
+         <item attribuut="Document-id">0000089666</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Eerste Kamer 1988-1989 nummer 28</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Eerste Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de heren Kaland, Kruisinga en Van Velzen (allen C.D.A.) inzake het gas- en kolenaandeel in de electriciteitsproductie.</item>
+         <item attribuut="titel">Aanhangsel Eerste Kamer 1988-1989 nummer 28</item>
+         <item attribuut="Jaargang">1988_1989</item>
+         <item attribuut="Vraagnummer">28</item>
+         <item attribuut="Indiener">
+            <persoon>Kaland</persoon>
+            <persoon>Kruisinga</persoon>
+            <persoon>Van Velzen</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-03-21</item>
+         <item attribuut="Beantwoorder">
+            <persoon>De Korte</persoon>
+            <persoon>Lubbers</persoon>
+            <persoon>Nijpels</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-05-17</item>
+         <item attribuut="Beginpagina">55</item>
+         <item attribuut="Eindpagina">56</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 8 - 1 9 8 9 " typehandeling="" typedoc=""/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Eerste Kamer, vergaderjaar  1 9 8 8 - 1 9 8 9 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="28" onderwerp="" indiendatum="21 maart 1989)">
+         <vrager partij="" oorsprong="parlement">Kaland</vrager>
+         <vrager partij="" oorsprong="parlement">Kruisinga</vrager>
+         <vrager partij="" oorsprong="parlement">Van Velzen</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 ">Is het waar dat de directeur-generaal  voor energie van het Ministerie van  Economische Zaken vindt dat  «verlaging van het huidige gasaandeel  in de electriciteitsproductie gewenst  is»? (Zie het gestelde in het artikel  «Kabinet houdt vast aan spreiding  van brandstoffen» in de NRC van 14  maart 1989)  </vraag>
+      <vraag nummer="2 ">Is het waar dat hij bovendien heeft  gezegd dat het kolenaandeel niet ter  discussie moet komen te staan?  </vraag>
+      <vraag nummer="3 ">Indien beide vragen bevestigend  worden beantwoord, hoe zijn die  uitlatingen dan in overeenstemming  te brengen met de uitspraak van de  minister van Volkshuisvesting,  Ruimtelijke Ordening en Milieubeheer  in de Eerste Kamer gedaan «Het is  overigens de laatste kolencentrale  die zal worden gebouwd in ons land.  Dat is toch een beleidswijziging,  waarop sommigen twee jaar geleden  nog niet hadden durven hopen», (zie  Handelingen Eerste Kamer van 21  februari 1989 pagina  1 9 - 7 4 9 linker  kolom)?  </vraag>
+      <vraag nummer="4 ">Is de beleidswijziging die de minister  van Volkshuisvesting, Ruimtelijke  Ordening en Milieubeheer vermeldde  juist of onjuist?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

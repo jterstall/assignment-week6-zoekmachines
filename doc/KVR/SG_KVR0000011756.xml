@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="omstreeks 6 mei a.s." aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001452</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001452&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001452</item>
+         <item attribuut="Document-id">0000011756</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 522</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Beckers-de Bruijn (GroenLinks) over de voorgenomen uitbreiding van het zenderpark Goeree.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 522</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">522</item>
+         <item attribuut="Indiener">
+            <persoon partij="GroenLinks">Beckers-de Bruijn</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-02-11</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Gabor</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-04-26</item>
+         <item attribuut="Beginpagina">1069</item>
+         <item attribuut="Eindpagina">1070</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1069" allpagenumbers="1069" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's-Gravenhage 1993"/>
+      <vraagdata vraagnummer="522" onderwerp="de voorgenomen uitbreiding van het zenderpark Goeree." indiendatum="1993-02-11">
+         <vrager partij="GroenLinks" oorsprong="parlement">Beckers-de Bruijn</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1">Is het u bekend, dat het ministerie van Defensie plannen heeft ontwikkeld voor de uitbreiding van het zenderpark Goeree door het plaatsen van extra antennes buiten het huidige zenderpark en door de bouw van ondergrondse onderkomens (bunkers)? </vraag>
+      <vraag nummer="2">Is hierover tussen uw ministerie en het ministene van Defensie overleg gevoerd? Zo ja, wat waren de uitkomsten van dit overleg? </vraag>
+      <vraag nummer="3">Zijn voor het bijplaatsen van nieuwe antennes al toezeggingen gedaan aan het ministerie van Buitenlandse Zaken en aan de Konmklijke Marine? </vraag>
+      <vraag nummer="4">Is hierover tussen uw ministerie en het ministerie van Defensie overleg gevoerd? </vraag>
+      <vraag nummer="5">Komen in het natuurgebied «De Westduinen» duingraslandvegetaties voor die tot de meest zeldzame van Nederland behoren? Deelt u de mening, dat de kwaliteiten van het natuurgebied «De Westduinen» in belangrijke mate hebben bijgedragen tot de aanwijzing van de duinen van Goeree tot Kerngebied binnen de Ecologische Hoofdstructuur en het voornemen dit gebied in 1996 aan te wijzen als beschermd natuurgebied? </vraag>
+      <vraag nummer="7">Deelt u de mening, dat uitbreiding van het zenderpark tot buiten de huidige begrenzing in strijd is met de geplande aanwijzing van «De Westduinen» als beschermd natuurgebied? </vraag>
+      <vraag nummer="8">Bent u bereid alternatieven te ontwikkelen conform het aktiepunt 32 uit het Meerjarenprogramma Natuuren Landschap 1992-1996 voor het huidige zenderpark op Goeree en/of voor de uitbreiding ervan? Mededelingen Nadere mededeling van staatssecretaris Gabor (Landbouw, Natuurbeheer en Visserij). (Ontvangen 26 april 1993) De bij bovenvermelde brief aan mij toegezonden vragen van het lid Beckers-De Bruijn der Tweede Kamer der Staten-Generaal inzake voorgenomen uitbreiding van het zenderpark Goeree kunnen tot mijn spijt niet binnen de gebruikelijke termijn worden beantwoord. De reden van dit tweede verzoek om uitstel is het afwachten van de uitkomst van het interdepartementaal overleg. Tot op heden is er geen overeenstemming bereikt met de initiatiefnemers (Defensie) van het zenderpark over de beantwoording. De beantwoording zal plaats hebben </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

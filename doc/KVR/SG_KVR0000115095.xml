@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19851986:0001535</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001535&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001535</item>
+         <item attribuut="Document-id">0000115095</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1985-1986 nummer 614</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Nijhuis (V.V.D.) over ambtelijke uitspraken inzake werkloosheidscijfers.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1985-1986 nummer 614</item>
+         <item attribuut="Jaargang">1985_1986</item>
+         <item attribuut="Vraagnummer">614</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Nijhuis</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-03-12</item>
+         <item attribuut="Beantwoorder">
+            <persoon>De Koning</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-04-14</item>
+         <item attribuut="Beginpagina">1219</item>
+         <item attribuut="Eindpagina">1220</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1985-1986 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 5 - 1 9 8 6 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="614" onderwerp="ambtelijke uitspraken inzake werkloosheidscijfers." indiendatum="12 maart 1986)">
+         <vrager partij="VVD" oorsprong="parlement">Nijhuis</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1 ">Hebt u kennis genomen van de  uitspraak van de directeur-generaal  voor arbeidsvoorziening, dat zonder  uitbreiding van de arbeidstijdverkor- ting tot het jaar 2015 het aantal  werklozen tussen de 800.000 en 1  miljoen zal bedragen? </vraag>
+      <vraag nummer="1 "/>
+      <vraag nummer="2 ">Wat is uw oordeel over deze sombere  voorspelling?  </vraag>
+      <vraag nummer="3 ">Hebt u kennis genomen van zijn  opmerking dat verder gegaan moet  worden met arbeidstijdverkorting tot  32 uur?  </vraag>
+      <vraag nummer="4 ">Wat is uw oordeel hierover?  </vraag>
+      <vraag nummer="5 ">Acht u het wenselijk dat een van uw  topambtenaren uitspraken doet, die  niet sporen met die van u zelf?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="5 ">In bovenstaande antwoorden heb ik  mijn opvattingen over de rol van  arbeidsduurverkorting in de bestrij- ding van de werkloosheid nog eens  uiteengezet. Er zijn geen wezenlijke  verschillen in inzicht tussen de  directeur-generaal voor de Arbeids- voorziening en mij.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

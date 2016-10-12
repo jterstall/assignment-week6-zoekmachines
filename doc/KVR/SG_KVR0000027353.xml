@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001016</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001016&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001016</item>
+         <item attribuut="Document-id">0000027353</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 84</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Feenstra, Quint-Maagdenberg en Ruigrok-Verreijt (allen P.v.d.A.) over mogelijke sluiting van twee RAF-bases in Duitsland.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 84</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">84</item>
+         <item attribuut="Indiener">
+            <persoon>Feenstra</persoon>
+            <persoon>Quint-Maagdenberg</persoon>
+            <persoon>Ruigrok-Verreijt</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-09-26</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Maij-Weggen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-10-23</item>
+         <item attribuut="Beginpagina">171</item>
+         <item attribuut="Eindpagina">172</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="171" allpagenumbers="171" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="" onderwerp="" indiendatum="">
+         <vrager partij="" oorsprong="parlement">Feenstra</vrager>
+         <vrager partij="" oorsprong="parlement">Quint-Maagdenberg</vrager>
+         <vrager partij="" oorsprong="parlement">Ruigrok-Verreijt</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-10-23">
+         <antwoorder functie="minister" ministerie="Verkeer en Water– staat">Maij-Weggen</antwoorder>
+         <mede-antwoorder>de ministervan Defensie</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="84">Vragen van de leden Feenstra, Quint-Maagdenberg en Ruigrok– Verreijt (allen P.v.d.A.) over mogelijke sluiting van twee RAF-bases in Duitsland. (Ingezonden 26 september 1990) </vraag>
+      <vraag nummer="1">Heeft de regering van Groot– Brittannië besloten twee van haar vier RAF-bases in Duitsland te zullen sluiten? Zo ja, heeft dit betrekking op de nabij de Nederlandse grens gelegen bases in Bruggen en/of Wildenrath? Bent u voornemens bij sluiting van één of beide RAF-bases de vrijko– mende luchtruimte boven Neder– lands grondgebied te claimen? Zo ja, op welke wijze zal dit worden aangewend? </vraag>
+      <vraag nummer="3">Bent u voornemens te bewerkstel– ligen, dat een eenmaal gesloten basis vervolgens hooguit een beperkte luchtvaartfunctie toebe– deeld krijgt? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">De minister van Defensie van het Verenigd Koninkrijk heeft voorge– steld twee van de vier RAF-bases in Duitsland te sluiten. Dit voorstel zal te zijner tijd moeten worden goedge– keurd door het parlement van het Verenigd Koninkrijk. Het is nog niet bekend welke vliegvelden het betreft. </antwoord>
+      <antwoord nummer="2">Het is zeer onzeker wat de status van de vliegbases wordt als zou worden besloten deze niet meer voor vlieg– operatiën te gebruiken. Bij een volledige sluiting, waarbij tevens de aanwijzing tot luchtvaartterrein zou worden ingetrokken zal het plaat– selijk verkeersleidingsgebied rond de bases komen te vervallen. In dat geval zullen die stukken van het betreffende plaatselijke verkeerslei– dingsgebied die boven Nederland zijn gesitueerd worden ingepast in de bestaande luchtruimtestructuur. </antwoord>
+      <antwoord nummer="3">Het verdient de voorkeur de defini– tieve besluitvorming in het Verenigd Koninkrijk af te wachten. Dan zal ook bekend zijn om welke vliegbases het handelt; tenslotte is het onzeker welke bestemming deze vliegbases krijgen als de RAF deze niet meer gebruikt ten behoeve van vredesope– raties. Gezien deze onzekerheden kan ik geen mededelingen doen omtrent de luchtvaartfunctie van voornoemde vliegbases. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

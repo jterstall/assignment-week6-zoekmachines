@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="4">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19871988:0001129</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001129&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001129</item>
+         <item attribuut="Document-id">0000098843</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1987-1988 nummer 191</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Mateman en De Leeuw (beiden C.D.A.) over 35% IPR voor de kern Vroomshoop (gemeente Den Ham).</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1987-1988 nummer 191</item>
+         <item attribuut="Jaargang">1987_1988</item>
+         <item attribuut="Vraagnummer">191</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Mateman</persoon>
+            <persoon partij="CDA">De Leeuw</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-11-19</item>
+         <item attribuut="Beantwoorder">
+            <persoon>De Korte</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-12-10</item>
+         <item attribuut="Beginpagina">381</item>
+         <item attribuut="Eindpagina">382</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 7 - 1 9 8 8 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 7 - 1 9 8 8 , Aanhangsel 381 " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="191" onderwerp="35% IPR voor de kern Vroomshoop (gemeente Den Ham)." indiendatum="19 november 1987)">
+         <vrager partij="CDA" oorsprong="parlement">Mateman</vrager>
+         <vrager partij="CDA" oorsprong="parlement">De Leeuw</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="10 december 1987)">
+         <antwoorder functie="minister" ministerie="Economische Zaken">D e K o r t e</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 ">Is het u bekend, dat de werkloosheid  in de kern Vroomshoop (gemeente  Den Ham) al jaren tot de hoogste in  ons land behoort?  </vraag>
+      <vraag nummer="2 ">Hebben veenkoloniale gebieden in  het algemeen een vestigingssubsidie  voor bedrijven van 35% IPR?  </vraag>
+      <vraag nummer="3 ">Kent ook de provincie Overijssel in  haar regionaal beleid de hoogste  prioriteit toe aan Vroomshoop,  teneinde het industrieterrein aldaar  te kunnen benutten?  </vraag>
+      <vraag nummer="4 ">Bent u bereid bij de komende herijking  van het sociaal-economische beleid  te herzien of deze gemeente, c.q.  deze kern, in aanmerking kan komen  voor 35% IPR teneinde tot een  evenwichtige spreiding te komen?  IPR = Investeringspremieregeling  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1 ">Het is mij bekend dat er in de gemeente  Den Ham sprake is van een werkloos- heid, die wordt ingeschat boven het  landelijk gemiddelde en in sommige  maanden zelfs aanmerkelijk daarbo- ven. Cijfers over afzonderlijke kernen,  als Vroomshoop, worden overigens  nooit gepubliceerd.  </antwoord>
+      <antwoord nummer="2 ">Vaststelling van de regio's waarvoor  IPR geldt, vindt plaats op basis van  werkloosheidscijfers in primair de  zogenaamde COROP-gebieden en  niet op basis van factoren als de  vraag of er sprake is van een veenko- loniaal gebied.  </antwoord>
+      <antwoord nummer="3 ">De provincie Overijssel kent, naar mij  van provinciale zijde is meegedeeld,  in haar beleid prioriteit toe aan het  COROP-gebied Twente, maar voert  daarbinnen geen specifiek beleid  voor Vroomshoop.  W e l houdt zij  voorzover mogelijk rekening met de  specifieke factoren, die in kernen als  Vroomshoop, een rol spelen.  </antwoord>
+      <antwoord nummer="4 ">Bij de komende herijking van het  regionaal beleid wordt onder meer  bezien hoe de investeringspremie,  qua gebiedsaanwijzing gerelateerd  aan de werkloosheidscijfers, zo  effectief mogelijk kan worden  ingezet.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

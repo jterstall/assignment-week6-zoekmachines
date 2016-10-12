@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001058</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001058&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001058</item>
+         <item attribuut="Document-id">0000019444</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 46</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Esselink en Laning-Boersema (beiden CDA) over controle op het werken aan en met genetisch gemodificeerde organismen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 46</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">46</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Esselink</persoon>
+            <persoon partij="CDA">Laning-Boersema</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-07-23</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Alders</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-10-04</item>
+         <item attribuut="Beginpagina">93</item>
+         <item attribuut="Eindpagina">96</item>
+         <item attribuut="Omvang">4 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="93" allpagenumbers="93 94" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat s Gravenhage 1991"/>
+      <vraagdata vraagnummer="" onderwerp="" indiendatum="">
+         <vrager partij="CDA" oorsprong="parlement">Esselink</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Laning-Boersema</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1991-10-4">
+         <antwoorder functie="minister" ministerie="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer">Alders</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="46">Vragen van de leden Esselink en Laning-Boersema (beiden CDA) over controle op het werken aan en met genetisch gemodificeerde organismen. (Ingezonden 23 juli 1991) </vraag>
+      <vraag nummer="1" voetnoot="1">Hebt u kennis genomen van de klachten over het functioneren van de Inspectie Milieuhygiëne bij de controle op het werken aan en met genetisch gemodificeerde organismen? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Deelt U de mening, dat juist op dit terrein, waar uiterste zorgvuldigheid bij de vergunningverlening geboden is, ook bij de controle op de verleende vergunnmgen diezelfde zorgvuldigheid in acht moet worden genomen? </vraag>
+      <vraag nummer="3">Kunt u inzicht verschaffen in de capaciteit (kwantitatief en kwali– tatief) van de Inspectie Millieuhy– giëne, zowel voor de directe controle, als voor het noodzakelijke aanvullende (laboratorium–) onderzoek, die beschikbaar is op het onderhavige terrein? </vraag>
+      <vraag nummer="4" voetnoot="2">Hoeveel vergunningen als bedoeld in art. 2 van het Besluit genetisch gemodificeerde organismen <voetnoot nummer="2"/> zijn in omloop? Hoe vaak zijn de vergun– ninghouders gecontroleerd op nalevmg van de vergunning in de afgelopen twee jaren? </vraag>
+      <vraag nummer="5">Hoe verloopt de controle op de in dit verband door gemeenten verleende Hinderwetvergunningen? </vraag>
+      <vraag nummer="6">Vindt u de controle op nalevmg van de door het rijk en de gemeenten verleende vergunningen voor het werken aan en met genetisch gemodificeerde organismen voldoende? Zo neen, wat denkt u daaraan te doen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Brandpunt van 21 juli j.l</noot>
+         <noot nummer="2"> Staatsblad nr. 53, 1990</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1">Ja. Ik heb kennis genomen van de Brandpuntuitzending van 21 juli 1991 en van de daarin door de secretaris van de Voorlopige commissie genetische modificatie (VCOGEM) gemaakte opmerking over de mogelijkheden en beper– kingen van de controle van (veld)proeven met genetisch gemodificeerde organismen (GGO's). Naar de secretaris van de VCOGEM mijn ministerie heeft bericht, is zijn uitspraak - die zijn persoonlijke mening weergaf - uit de oorspronke– lijke context gehaald, waardoor de indruk wordt gewekt dat veldproeven waarvoor vergunning is verleend, niet goed te controleren zouden zijn. Gezien zijn ervaringen heeft hij daarentegen juist de indruk dat de met deze materie belaste Inspectie Milieuhygiëne voldoende is toegerust om inspectie van veldproeven te kunnen verrichten. De opmerking van de secretaris richtte zich op een onderliggende vraag in de discussie, namelijk de vraag of ontduiking van de wetgeving eenvoudig is vast te stellen. Hij heeft er op gewezen dat genetisch gemodificeerde organismen zich slechts zelden onderscheiden van hun niet-genetisch gemodificeerde voorouders op een manier die direct waarneembaar is. Alleen moleculair biologisch onderzoek zal over het algemeen kunnen aantonen of de experimentator werkelijk werkt met het organisme waarvoor hij een vergunning heeft verkregen. Een dergelijk onderzoek kan in alle gevallen worden verricht, maar vereist steeds een specialistisch onderzoek dat alleen in een goed geoutilleerd moleculair biologisch laboratorium kan worden uitgevoerd. Dergelijke laboratoria zijn ruim voorhanden in Nederland, en de Inspectie Milieuhygiëne kan, indien daar aanleiding toe bestaat, het benodigde onderzoek laten uitvoeren. De opmerking van de secretaris van de VCOGEM richtte zich op de vraag of het wenselijk zou woordelijk zijn voor de controle op de naleving van de voorschriften die in de Hinderwetvergunningen zijn opgenomen. Handelingen met GGO's die worden uitgevoerd buiten die inrichtingen, vallen onder het Besluit genetisch gemodificeerde organismen Wet milieugevaarlijke stoffen. Vergun– ningen hiervoor worden door mij afgegeven en de Inspectie Milieuhy– giëne is het controlerend orgaan. Sedert maart 1990 zijn er in totaal 9 vergunningen krachtens dit besluit verleend. Hierdoor mochten er in 1991 op in totaal 19 locaties proeven met genetisch gemodifi– ceerde planten worden uitgevoerd, waarbij een groot aantal voorschriften in acht moet worden genomen. Voor de uitvoering van deze controles heeft de Inspectie Milieu– hygiëne een medewerker met een adequate opleiding op het terrein van de genetische modificatie voor 0,25 mensjaar beschikbaar. Gezien het huidige aantal vergunningen, de aard van de daarin opgenomen voorschriften en het aantal locaties acht ik dat op dit moment voldoende. Het aantal vergunning– aanvragen zal naar verwachting in de nabije toekomst echter snel stijgen. Afhankelijk van aantal en aard van de afgegeven vergunningen zal uitbreiding van de controlecapaciteit noodzakelijk zijn. Voor inhoudelijke ondersteuning kan de Inspectie Milieuhygiëne een beroep doen op de VCOGEM en op deskundigen en laboratorium-facili– teiten van het Rijksinstituut voor gedurende het groeiseizoen van de planten waarvoor vergunning is verleend, gecontroleerd op de naleving van de vergunning. In totaal zijn er tot begin augustus dit jaar 18 controles uitgevoerd op een 15-tal locaties. Recentelijk is een bestuurskundig onderzoek gedaan naar de uitvoering van de Hinderwet voor inrichtingen waarin wordt gewerkt met genetisch gemodificeerde organismen. De resultaten van dit onderzoek zullen binnenkort worden gepubliceerd. In dat onderzoek is ondermeer aandacht besteed aan de handhaving van vergunningen. Uit het onderzoek komt naar voren dat de handhaving van vergunningen de zwakste schakel is in de toepassing van de Hinderwet. De controlefrequentie is laag. Meer dan de helft van de vergunningverleners controleert minder dan een maal per jaar. De betrokken controleurs beschouwen zichzelf over het algemeen onvoldoende deskundig om aile aspecten van de vergunning adequaat te kunnen controleren met name of met het organisme wordt gewerkt waarvoor men een vergunning heeft gekregen en of de modificaties worden uitgevoerd overeenkomstig de meldingen bij de VCOGEM. In drie gevallen is een Hinderwetvergunning afgegeven voor een veldproef met GGO's binnen een inrichting. De controle– frequentie van die veldproeven is, voor zover kan worden nagegaan, vergelijkbaar met dle genoemd in het onderzoeksrapport. voor het ingeperkt gebruik van genetisch gemodificeerde micro– organismen (richtlijn 90/219/EG, Pb L117). In die nieuwe regeling blijft de vergunningverlening voor de inrichting door gemeente of provincie gehandhaafd. In die inrich– tingen uit te voeren afzonderlijke projecten met GGO's worden aan mijn departement gemeld. Afhan– kelijk van de aard van het project geldt daarvoor al dan niet een wachttermijn en is in bepaalde gevallen mijn schriftelijke toestemming vereist. Met deze nieuwe regeling blijft de controle op de naleving van de veiligheidsvoorzieningen bij de gemeente of provincie, maar komt de eerstelijn-controle op de uitvoering van de afzonderlijke projecten te liggen bij de Inspectie Milieuhygiëne die voor de handhaving van deze nieuwe taak zal worden toegerust. Bijlage Overzicht per 1 augustus 1991 van verleende vergunningen als bedoeld in artikel 2 van het Besluit genetisch gemodificeerde organismen. Hierin zijn weergegeven de vergun– ninghouder en de titel van het project zoals deze als aanvraag, ontwerpbeschikking en uiteindelijke beschikking zijn gepubliceerd. Mogen International nv te Leiden, voor het vermeerderen van genetisch gemodificeerde, tegen aardappel– virus X resistent gemaakte aardap– pelrassen, in de gemeente Dronten. planten in de gemeente Reimerswaal. Mogen International nv te Leiden, voor het vermeerderen van genetisch gemodificeerde, tegen aardappel– virus X resistent gemaakte aardap– pelrassen, en toetsing van die virus– resistentie onder veldomstandig– heden, in de gemeente Dronten. D. J. Van der Have BV te Kapelle, voor de veldevaluatie van phosphino– tricine-resistentie van genetisch gemodificeerde maïs-planten in de gemeente Reimerswaal. Florigene BV te Rijnsburg, voor het testen van het vermeer– deren van genetisch gemodificeerde chrysanten onder produktie-omstan– digheden, in de gemeente De Lier. Proefstation voor de Akkerbouw en de Groenteteelt in de Vollegrond (PAGV), te Lelystad, voor het verrichten van cultuur– en gebruikswaarde onderzoek aan het genetisch gemodificeerde, tegen aardappelvirus X resistent gemaakte aardappelras Escort in de gemeenten: Pekela, Muntendam, Hefshuizen, Delfzijl, Kollummerland, Beilen, Odoorn, Smilde, Rolde, Gasselte, Vledder, Steenwijk, Steen– wijkerwold, Hardenberg, Grams– bergen, Wageningen, Lelystad, Dronten, Noordoostpolder, Wierin– germeer, Binnenmaas, Kortgene, Nuth, Venray, Wanroij en Vierlingsbeek. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

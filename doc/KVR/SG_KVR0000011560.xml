@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001256</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001256&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001256</item>
+         <item attribuut="Document-id">0000011560</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 325</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van Dis (SGP) over het verzenden van het blad Playboy aan de Nederlandse militairen in het voormalig Joegoslavië.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 325</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">325</item>
+         <item attribuut="Indiener">
+            <persoon partij="SGP">Van Dis</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-01-18</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Ter Beek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-02-04</item>
+         <item attribuut="Beginpagina">665</item>
+         <item attribuut="Eindpagina">666</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="665" allpagenumbers="665" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="325" onderwerp="het verzenden van het blad Playboy aan de Nederlandse militairen in het voorma/ig Joegoslavië." indiendatum="18januari 1993">
+         <vrager partij="SGP" oorsprong="parlement">Van Dis</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-02-4">
+         <antwoorder functie="minister" ministerie="Defensie">Ter Beek</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Krijgen de Nederlandse militairen in het voormalig Joegoslavië gratis exemplaren toegestuurd van het blad «Playboy»? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">In hoeverre is uw ministerie hierbij betrokken wat betreft de contacten met de uitgever c.q. redactie van «Playboy», als wat betreft de verzending en verspreiding? </vraag>
+      <vraag nummer="3">Acht u het, lettend op het karakter van genoemd blad, juist dat uw ministerie op enigerlei wijze betrokken is bij de distributie van dit blad onder de Nederlandse VN-militairen? Bent u bereid er op toe te zien, dat uw ministerie voortaan op generlei wijze medewerking zal verlenen aan de distributie van periodieken die, op het punt van de eerbaarheid, de toetst der kritiek niet kunnen doorstaan? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1993-01-14" bron=" Algemeen Dagblad"> Algemeen Dagblad, 14 januari 1993</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">De uitgever heeft de bladen - als een éénmalig gebaar - gratis aan Defensie aangeboden. Voor de verzending naar het voormalig Joegoslavië is gebruik gemaakt van vrije transportcapaciteit bij de lijndienst die de Koninklijke landmacht op Zagreb onderhoudt. </antwoord>
+      <antwoord nummer="3">Ja. </antwoord>
+      <antwoord nummer="4">Het is niet aan mij het tijdschrift op het punt van eerbaarheid te toetsen. Ik constateer dat het blad deel uitmaakt van het brede assortiment lectuur dat in boekhandel en supermarkt te koop is. Bij eventuele andere aanbiedingen voor de eenheden in het voormalig Joegoslavië zal ik laten nagaan of de behoefte aan het betrokken produkt een één op één-distributie rechtvaardigt. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

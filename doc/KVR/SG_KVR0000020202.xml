@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001816</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001816&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001816</item>
+         <item attribuut="Document-id">0000020202</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 797</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Rempt-Halmmans de Jongh en Dijkstal (beiden VVD) over illegalen</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 797</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">797</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Rempt-Halmmans de Jongh</persoon>
+            <persoon partij="VVD">Dijkstal</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-07-21</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Kosto</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-08-13</item>
+         <item attribuut="Beginpagina">1661</item>
+         <item attribuut="Eindpagina">1662</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1661" allpagenumbers="1661" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="'s Gravenhage 1992"/>
+      <vraagdata vraagnummer="797" onderwerp="illegalen" indiendatum="1992-07-21">
+         <vrager partij="VVD" oorsprong="parlement">Rempt-Halmmans de Jongh</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Dijkstal</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-08-13">
+         <antwoorder functie="staatssecretaris" ministerie="Justitie">Kosto</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Is het bericht' juist, dat in het eerste halfjaar van 1992 bij 87 bedrijven in het Westland 135 illegalen zijn opgepakt, van wie er 90 het land zijn uitgezet en 45 zijn vrijgelaten omdat hun identiteit en land van herkomst niet kon worden vastgesteld? </vraag>
+      <vraag nummer="2">Hoe vaak komt het voor, dat personen van wie het vermoeden bestaat, dat ze illegaal in Nederland verblijven worden vrijgelaten en niet uitgezet, omdat zij hun identiteit en land van herkomst niet prijsgeven? Is hierbij sprake van een groeiende tendens? Deelt u de mening, dat het voorkomen van uitzetting en het moeten vrijlaten van personen van wie het vermoeden bestaat, dat ze illegaal hier te lande verblijven door het niet kenbaar maken van de identiteit en land van herkomst, onwenselijk is? </vraag>
+      <vraag nummer="4">Zo ja, op welke wijze bent u voornemens aan deze problematiek oplossing te geven? Zo neen, waarom niet? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja, met dien verstande dat 3 van de 45 vreemdelingen werden heengezonden, niet omdat zij onverwijderbaar waren, maar wegens gebrek aan celcapaciteit. </antwoord>
+      <antwoord nummer="2">Jaarlijks doen zich enkele honderden gevallen voor waarin de identiteit van een aangehouden vreemdeling niet kan worden vastgesteld. Deze problematiek concentreert zich op enkele nationaliteiten, met de Marokkanen als duidelijke koploper. Van de 70 vreemdelingen die zich per 31-7-92 in het Huis van Bewaring Schutterswei te Alkmaar in vreemdelingenbewaring bevonden, waren 29 Marokkanen die hun identiteit trachten te verzwijgen. </antwoord>
+      <antwoord nummer="3">Ja. De oplossing voor deze problematiek ligt in het zo zorgvuldig mogelijk uitvoeren van de identiteitsonderzoeken en het voeren van intensief overleg met de autoriteiten van de landen van herkomst. In het geval van Marokko hebben de Minister van Justitie en ik reeds overleg gevoerd met Marokkaanse bewindslieden. Dit overleg wordt in september voortgezet. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

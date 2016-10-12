@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="antwoord te doen toekomen." aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001231</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001231&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001231</item>
+         <item attribuut="Document-id">0000027568</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 298</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Schutte en Van Middelkoop (beiden G.P.V.) over de procedure inzake de melding van euthanasie of hulp bij zelfdoding.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 298</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">298</item>
+         <item attribuut="Indiener">
+            <persoon partij="GPV">Schutte</persoon>
+            <persoon partij="GPV">Van Middelkoop</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-12-14</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Hirsch Ballin</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-01-15</item>
+         <item attribuut="Beginpagina">601</item>
+         <item attribuut="Eindpagina">602</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="601" allpagenumbers="601" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgevenj 's Gravenhage 1991"/>
+      <vraagdata vraagnummer="298" onderwerp="de procedure inzake de melding van euthanasie of hulp bij zelfdoding." indiendatum="14december 1990">
+         <vrager partij="GPV" oorsprong="parlement">Schutte</vrager>
+         <vrager partij="GPV" oorsprong="parlement">Van Middelkoop</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="11">
+      <vraag nummer="1" voetnoot="1">Wat is het rechtskarakter van de procedure inzake de melding van euthanasie of hulp bij zelfdoding? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">In welke mate zijn individuele artsen en lijkschouwers hieraan gebonden? </vraag>
+      <vraag nummer="3">Kan zo concreet mogelijk worden aangegeven in welk opzicht deze procedure verschilt van het in 1986 door de Landelijke Overleggroep Openbaar Ministerie - Staatstoezicht op de volksgezondheid gedane voorstel voor een meldingspro– cedure? Is al in mei 1990 overeenstemming bereikt over de hoofdlijnen van een procedure? Vormt de samenvatting hiervan in GGD Nieuws 1990, blz. 259, een goede weergave, met name voor wat betreft de vermelding van de personalia van de geconsulteerde collega-arts en het door hem gegeven advies? </vraag>
+      <vraag nummer="5" voetnoot="2">Waarom is in de procedure, anders dan in geval van toepassing in een ziekenhuis, geen melding gemaakt van de consultatie van een of meer andere geneeskundigen, van wie mag worden aangenomen dat zij een onafhankelijk oordeel kunnen geven? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="6">Moet hieruit worden afgeleid, dat de bewindslieden - anders dan hun ambtsvoorgangers - een dergelijke consultatie als regel niet beschouwen als een vereiste voor zorgvuldig handelen in geval van euthanasie? Zo neen, op welke wijze zal de officier van justitie dan kunnen beschikken over de bevindingen van een tweede geneeskundige? </vraag>
+      <vraag nummer="7">Waarom is in de procedure, anders dan in wetsvoorstel 20 383, niet voorzien in een regeling op grond waarvan de gemeentelijke lijkschouwer en de officier van justitie kunnen beschikken over de zienswijze van een geraadpleegde tweede geneeskundige? </vraag>
+      <vraag nummer="8">Wordt met het verslag van de gemeentelijke lijkschouwer hetzelfde bedoeld als met dit begrip in artikel 29t van de Wet op de Lijkbezorging, waarvoor het formulier is vastgesteld bij Koninklijk besluit van 8 maart 1956,  Stb. 112? </vraag>
+      <vraag nummer="9">Is het de bedoeling, dat de vermelding van eventuele bijzonder– heden in het verslag verder zal gaan dan een beschrijving van het lijk op grond waarvan de doodsoorzaak kan worden vastgesteld? Is hiervoor een rechtsgrond aanwezig? </vraag>
+      <vraag nummer="10">Zal het overleg tussen de officier van justitie en de lijkschouwer ook kunnen dienen voor het vragen van een oordeel van de lijkschouwer over de motieven waarom en de omstan– digheden waaronder euthanasie is toegepast? Is de lijkschouwer tot dergelijk overleg verplicht? </vraag>
+      <vraag nummer="11">Vormen de in wetsvoorstel 20 383 vermelde vereisten voor zorgvuldig handelen voor het openbaar minis– terie ook thans een redelijke indicatie van de interpretatie welke in de rechtspraak wordt gegeven aan de bepalingen van het Wetboek van Strafrecht? </vraag>
+      <vraag nummer="12">Is de conclusie juist, dat de officier van justitie in de meeste gevallen zal besluiten tot afgifte van een verklaring van geen bezwaar tegen lijkbezorging en tot afzien van straf– vervolging nadat hij slechts kennis heeft kunnen nemen van de summiere informatie waarin deze procedure voorziet? Op grond van welke informatie zal de officier van justitie een oordeel kunnen vormen over de vraag of gehandeld is in strijd met de bepalingen van het Wetboek van Strafrecht? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Kamerstuk 21 800 VI, nr. 23, en Medisch Contact van 2 november jl</noot>
+         <noot nummer="1"> Vgl het voorgesteld art 6b van het wetsvoorstel wet Regelen met betrekking tot het zorgvuldig medisch handelen door een arts die zich beroept op overmacht bij levensbeëindiging op uitdrukkelijk en ernstig verlangen van een patiënt (kamerstuk 20383)</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+   <mededeling mededeler="" functie="" afdeling="" mededelingdatum="">ernaar u voor 20 januari 1991 mijn </mededeling>
+</kvr>

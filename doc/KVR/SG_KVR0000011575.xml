@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001271</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001271&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001271</item>
+         <item attribuut="Document-id">0000011575</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 341</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Van Erp (VVD) en Versnel-Schmitz (D66) over het gebruik van een persoonlijke kwaliteitskaart bij het ministerie van volkshuisvesting, ruimtelijke ordening en milieubeheer.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 341</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">341</item>
+         <item attribuut="Indiener">
+            <persoon>Van Erp</persoon>
+            <persoon>Versnel-Schmitz</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-01-21</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Alders</persoon>
+            <persoon>Heerma</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-02-15</item>
+         <item attribuut="Beginpagina">701</item>
+         <item attribuut="Eindpagina">702</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="701" allpagenumbers="701 702" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="341" onderwerp="het gebruik van een persoonlijke kwaliteitskaart bij het ministerie van volkshuisvesting, ruimtelijke ordening en milieubeheer." indiendatum="1993-01-21">
+         <vrager partij="" oorsprong="parlement">Van Erp</vrager>
+         <vrager partij="" oorsprong="parlement">Versnel-Schmitz</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="15februari 1993">
+         <antwoorder functie="minister" ministerie="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer">Alders en staatssecretarls Heerma</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="10">
+      <vraag nummer="1">Wilt u de brief aan alle medewerkers van het ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 9 december 1992 aan de Kamer doen toekomen ter beoordeling van de gebruikte citaten? </vraag>
+      <vraag nummer="2" voetnoot="1">Hoe is het mogelijk, dat, indien alle medewerkers tevoren geïnformeerd zijn over de bedoeling van de kwaliteitskaart als persoonlijke profielschets, die slechts tot stand zou komen met de instemming van de individuele medewerker en waarvoor toestemming van de betrokken medewerker vereist was om hem te gebruiken, de DCC begin december 1992 het vertrouwen opzegde in de DGVH, omdat de feitelijke toepassing van de kwaliteitskaart anders was dan afgesproken? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="3">Is de informatie dan wel doeltreffend genoeg geweest? </vraag>
+      <vraag nummer="4">Is de omgang met de kwaliteitskaart wel conform de oorspronkelijke afspraak geweest? </vraag>
+      <vraag nummer="5">Is die persoonlijke instemming altijd verkregen? </vraag>
+      <vraag nummer="6">Betekende die persoonlijke instemming dat de medewerker het recht had tot wijziging bij verschil van mening? </vraag>
+      <vraag nummer="7">Zo ja, zijn de medewerkers van het DGVH daarop gewezen? </vraag>
+      <vraag nummer="8">Zo neen, waarom was er dan geen beroepsmogelijkheid? </vraag>
+      <vraag nummer="9">Hoeveel personeelsleden hebben op vrijwillige basis meegedaan aan het opzetten van een persoonlijke kwaliteitskaart? In hoeverre was vrijwillig ook echt vrijwillig? 10 Zou, gezien de introductie van de kwaliteitskaart, een sollicitatie van een VH-medewerker binnen of buiten het ministerie daadwerkelijk mogelijk zijn, zonder die kwaliteitskaart te tonen of zou de medewerkers bij niet-tonen het odium van «minder geschikt» op zich laden? 11 Zijn de mederwerkers van het ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer tijdens de reorganisatie uitgescholden voor dieren en lichaamsdelen? Zo ja, acht u dat een juiste wijze van handelen bij een reorganisatieproces? </vraag>
+      <vraag nummer="12"/>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Antwoord op vragen van de leden Versnel-Schmitz en Scheltema-de Nie, Tweede Kamer 1992-1993, Aanhangsel nr 273</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1" voetnoot="1 1">De brief dd 9 december 1992 van de direkteur-generaal aan alle medewerkers gaat als bijlage hierbij. <voetnoot nummer="1"/>2,  3 e n 4 Aan de medewerkers is tijdens informatiebijeenkomsten veelvuldig informatie verstrekt hoe het management met de kwaliteitskaarten zou omgaan. Gedurende het afgelopen jaar is tijdens het periodiek overleg tussen de direkteur-generaal (DG) en de dienstdienstcommissie (DDC) regelmatig gesproken over de wijze waarop en de mate waarin de kwaliteitskaart zou worden gebruikt bij o.m. het opstellen van het concept-personeelsplan de aanbieding van het concept-personeelsplan expliciet tot uitdrukking kwam. Het standpunt van het ministerie was, dat het bevoegd gezag slechts in de fase na het vaststellen van het definitieve personeelsplan bij herplaatsing gebonden is aan de objectieve criteria, zoals vermeld in het Sociaal Statuut VROM 1991. De vertegenwoordigers van werknemers in de Bijzondere Commissie en de DDC namen het standpunt in, dat deze objectieve criteria ook reeds in de plaatsingsfase in de zin van het Sociaal Statuut VROM dienen te worden toegepast. Voor de DDC was dit mede aanleiding om op 3 december 1992 het vertrouwen in het overleg met de DG op te zeggen. Op verzoek van de Bijzondere Commissie dd. 9 november 1992 gaf de direkteur Personele Zaken van VROM een nadere schriftelijke toelichting over de gevolgde procedure en een beschrijving van de status en de wijze van totstandkomen van de kwaliteitskaart. Bij brief dd. 11 november 1992 heeft de direkteur Personele Zaken van VROM in een brief aan de Bijzondere Commissie o.m. het volgende bericht: «Deze wijze van invullen van het personeelsplan, die in principe bij DGVH is gevolgd, verhoudt zich volledig tot de bepalingen van het Sociaal Statuut en met de afspraken tussen de dienstleiding en DDC en zoals afgesproken met de Bijzondere Commissie». aan het personeel (zie bijlage) <voetnoot nummer="1"/>. «De DDC distantieert zich daarin van persoonlijke aantijgingen en vindt dat de pers er nu verder maar eens buiten moet blijven», aldus de nieuwsbrief. </antwoord>
+      <antwoord nummer="5, 6, 7 en 8" voetnoot="2">Bij de beantwoording van de vraag of persoonlijke instemming altijd is verkregen moet een onderscheid gemaakt worden in het totstandkomen van de kwaliteitskaart en het gebruik ervan. Zoals op eerdere vragen van de leden Versnel-Schmitz en Scheltema-de Nie <voetnoot nummer="2"/> hierover reeds is geantwoord kon de kwaliteitskaart slechts tot stand komen met instemming van de individuele medewerker. Ingeval er verschil van opvatting bestond tussen de medewerker en de externe begeleider over de inhoud van de kwaliteitskaart was de mogelijkheid aanwezig om hierover overleg te plegen. In veel gevallen leidde dit alsnog tot een kwaliteitskaart. Ingeval dit overleg niet tot resultaat leidde kwam dus geen kwaliteitskaart tot stand. Op grond hiervan is niet voorzien in een beroepsgang. In de loop van het proces zijn een tweetal door de DDC aangewezen medewerkers als vertrouwenspersoon gaan fungeren. Ook voor het gebruik van de kwaliteitskaart moest vooraf toestemming worden gegeven door de betrokken medewerker. In een enkel geval is echter zonder van vacatures het voordeel kon geven van voorrang op medewerkers, die niet in het bezit waren van een dergelijke kaart. Gegeven het feit, dat het maken van een kwaliteitskaart een aanvullende faciliteit was, was ook zonder kwaliteitskaart plaatsing mogelijk en laadde men niet het odium van minder geschikt op zich. Dit laatste blijkt o.m. ook uit het feit, dat in het concept-personeelsplan voor de nieuw op te zetten inspecties van de volkshuisvesting ook medewerkers zonder kwaliteitskaart geplaatst waren. </antwoord>
+      <antwoord nummer="11">In de uitvoerige vragenlijst (in totaal 84 vragen), die ten behoeve van het opstellen van een kwaliteitskaart moest worden ingevuld, was een multiple-choise vraag opgenomen, waarin een aantal dierennamen gehanteerd werden met de daaraan gekoppelde vraag, waarmee men zich het meest identificeerde. Voor zover medewerkers tijdens gesprekken zouden zijn uitgescholden achten wij dit onjuist. </antwoord>
+      <antwoord nummer="12">Het advies van mevr. mr. A. Beuker-Tilstra dd. 13 december 1992 is bijgevoegd.' </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="2"> Aanhangsel Handelingen nr 340, Vergaderjaar 1992-1993</noot>
+      </noten>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001127</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001127&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001127</item>
+         <item attribuut="Document-id">0000011431</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 196</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Krajenbrink en Vreugdenhil (beiden CDA) over de controle op de opbrengstverantwoording van winsten behaald met de exploitatie van uitbetalende speelautomaten.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 196</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">196</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Krajenbrink</persoon>
+            <persoon partij="CDA">Vreugdenhil</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-11-02</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Kosto</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-12-07</item>
+         <item attribuut="Beginpagina">405</item>
+         <item attribuut="Eindpagina">406</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="405" allpagenumbers="405" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="'s Gravenhage 1992"/>
+      <vraagdata vraagnummer="196" onderwerp="de controle op de opbrengstverantwoording van winsten behaald met de exploitatie van uitbetalende speelautomaten." indiendatum="1992-11-2">
+         <vrager partij="CDA" oorsprong="parlement">Krajenbrink</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Vreugdenhil</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="7 december 1992), zie ook Aanhangsel Handelingen nr. 181, vergaderjaar 1992-1993.">
+         <antwoorder functie="Staatssecretaris" ministerie="Justitie">Kosto</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Is het u bekend, dat er zich in de praktijk problemen voordoen met de controle op de opbrengstenverantwoording van winsten behaald met de exploitatie van uitbetalende speelautomaten?' Kan hierdoor bijvoorbeeld geld, verkregen door criminele activiteiten zoals de drugshandel, simpel wit gewassen worden en wordt de winst hierdoor tot aanzienlijk te lage bedragen fiscaal verantwoord? </vraag>
+      <vraag nummer="3">Deelt u de mening, dat het in het kader van een adequate aanpak van fraude noodzakelijk is dat de controlerende instanties (Ukwezen, fiscus, Openbaar Ministerie) ook daadwerkelijk de aan hun opgedragen taken kunnen vervullen? </vraag>
+      <vraag nummer="4">Is er geen wettelijke plicht de hier bedoelde speelautomaten te voorzien van (niet manipuleerbare) telmechanismen waarmee controle op de opbrengst mogelijk wordt? Zo ja, bent u bereid een dergelijke verplichting op te leggen en hieraan een registratieplicht van tellerstanden van speelautomaten te koppelen, bijvoorbeeld als voorwaarde voor het afgeven van vergunningen in het kader van de Wet op de kansspelen? </vraag>
+      <vraag nummer="6">Bent u bereid te bevorderen, dat er ook in het kader van de fiscale regelgeving ondubbelzinnig wordt vastgelegd, al dan niet door middel van een resolutie, dat het registreren van tellerstanden verplicht is? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1992-08-8" bron=" O.a. Dagblad van Noord Limburg van 1 mei 1991. De Gelderlander en het Algemeen Dagblad van 10 maart 1992 en De Telegraaf"> O.a. Dagblad van Noord Limburg van 1 mei 1991. De Gelderlander en het Algemeen Dagblad van 10 maart 1992 en De Telegraaf, 8 augustus 1992</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1 en 2">Ja. In diverse gemeenten zijn schattingen gemaakt hoe hoog de opbrengst voor exploitanten van uitbetalende speelautomaten ongeveer zou moeten zijn, waarna is vergeleken met de opgegeven opbrengsten. Er bleken aanzienlijke verschillen te zijn, waaruit geconcludeerd kan worden dat waarschijnlijk niet alle opbrengsten verantwoord worden. Het is op zich zelf ook mogelijk dat gelden die verkregen zijn uit criminele activiteiten via de exploitatie van speelautomaten worden witgewassen. Over het vóórkomen daarvan zijn thans geen gegevens voorhanden. In het geval van witwassen zullen echter niet lagere, doch hogere dan in werkelijkheid behaalde opbrengsten worden opgegeven. </antwoord>
+      <antwoord nummer="3">Ja. Een dergelijke wettelijke plicht is er thans niet. Er zal een studie worden verricht naar de wijze waarop de aanwezigheid van - niet manipuleerbare - telmechanisme in speelautomaten en de registratie van tellerstanden verplicht kunnen worden gesteld. In de door mij op 17 november jl. in uw Kamer toegezegde evaluatie van het speelautomatenbeleid zal hier nader op worden ingegaan. </antwoord>
+      <antwoord nummer="6">Artikel 53a, lid 1 van de Algemene wet inzake rijksbelastingen (AWR) bepaalt dat een persoon die een bedrijf of zelfstandig beroep uitoefent gehouden is: «... van zijn vermogenstoestand en van alles betreffende zijn bedrijf... op zodanige wijze boekhouding te voeren alsmede aantekening te houden, dat te allen tijde zijn rechten en verplichtingen alsmede de lid 3 van de AWR nadere regelen te geven over de wijze waarop de aantekenmgen moeten worden gehouden. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

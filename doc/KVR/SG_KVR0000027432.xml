@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001095</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001095&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001095</item>
+         <item attribuut="Document-id">0000027432</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 162</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Mulder-van Dam en Roosen-van Pelt (beiden C.D.A.) over het voornemen van de Roteb om klein chemisch afval te exporteren naar Frankrijk.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 162</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">162</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Mulder-van Dam</persoon>
+            <persoon partij="CDA">Roosen-van Pelt</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-10-16</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Alders</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-11-15</item>
+         <item attribuut="Beginpagina">327</item>
+         <item attribuut="Eindpagina">328</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="327" allpagenumbers="327" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's-Gravenhage 1990"/>
+      <vraagdata vraagnummer="162" onderwerp="het voornemen van de Roteb om klein chemisch afval te exporteren naar Frankrijk." indiendatum="1990-10-16">
+         <vrager partij="CDA" oorsprong="parlement">Mulder-van Dam</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Roosen-van Pelt</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-11-15">
+         <antwoorder functie="minister" ministerie="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer">Alders</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Hebt u kennis genomen van het voornemen van de Rotterdamse reinigingsdienst Roteb om klein chemisch afval te exporteren naar Frankrijk? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Wat is de inhoud van de door de Roteb mgediende vergunningaan– vraag voor wat betreft hoeveelheden, samenstelling en bestemming, het laatste zowel naar locatie als naar wijze van verwijdering (verwerking, verbranding of stort)? </vraag>
+      <vraag nummer="3" voetnoot="2">Hoe verhoudt zich dit voornemen tot het beleid voor de interimopslag van klein chemisch afval, zoals uiteen– gezet in uw brieven van 1 juni en 31 augustus van dit jaar, waarmee de grootste knelpunten in het kca-beleid zouden zijn opgelost? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="4">Kan ook de Roteb gebruik maken van de in genoemde brieven vermelde opslagcapaciteit voor klein chemisch afval en wel op een zodanig korte termijn, dat niet hoeft te worden overgegaan tot de noodsprong van export? Zijn meerdere inzamelaars van klein chemisch afval ondanks het nu uitgestippelde interimbeleid voornemens afval uit deze categorie te exporteren? </vraag>
+      <vraag nummer="6">Hoe denkt u de komende tijd te handelen ten aanzien van aanvragen voor de export van klein chemisch afval? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="2"> Zie 21 300-XI, nrs 79 en 90</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="6">
+      <antwoord nummer="1">Ja. Op 15 oktober jl. zijn een tweetal EG-documenten afkomstig van de ROTEB ontvangen. Hierin wordt voor twee afvalstoffen, verfafval en oplos– middelen, toestemming gevraagd om deze naar een bedrijf in Frankrijk te exporteren. Aangezien nog enkele essentiele gegevens bij de aanvraag ontbreken zijn de aanvragen vooralsnog niet in behandeling genomen. </antwoord>
+      <antwoord nummer="2">Volgens de momenteel beschikbare gegevens betreft de eerste aanvraag de uitvoer van 2.000 ton halogeen– vrije oplosmiddelen met als bestemming ARF - Centre de regroupement et de pretraitement des dechets industriels - in St. Remy du Nord waar deze afvalstoffen worden bewerkt ten behoeve van verbranding. De tweede aanvraag betreft de uitvoer van 6.000 ton verfafval naar dezelfde bestemming eveneens het oogmerk deze afval– stoffen na voorbewerking te verbranden. Overigens bevatte de aanvraag onvoldoende informatie om vast te kunnen stellen of alle bij de voorbewerking vrijgekomen deelstromen worden verbrand. Dit was een van de redenen om de aanvraag nog niet behandeling te nemen. </antwoord>
+      <antwoord nummer="3">De interimopslag is primair bedoeld voor verbrandbaar (klein) chemisch afval dat momenteel wordt gestort (in het buitenland) en voor verbrandbaar chemisch afval waarvoor momenteel geen verwijde– ringsmogelijkheden bestaan. Aan de realisering van de interimopslag ligt als uitgangspunt ten grondslag dat de inzameling van kca gecontinueerd moet kunnen worden en dat de ingezamelde afvalstoffen op een milieuhygiënische wijze worden verwijderd. Voor het uitvoerbeleid van gevaarlijke afvalstoffen betekent dit dat na de ingebruikname van de interimopslag geen uitvoervergun– ningen meer verleend zullen worden voor verbrandbaar (klein) chemisch afval indien deze afvalstoffen in het buitenland op een lager niveau, bijvoorbeeld door storten, verwijderd zullen worden. </antwoord>
+      <antwoord nummer="4">De intenmopslag, die naar verwachting in de loop van 1991 genomen). </antwoord>
+      <antwoord nummer="5">Gezien de huidige beperkte verwer– kings– en opslagmogelijkheden wordt nog een deel van het klein chemisch afval door een aantal (grote) inzamelaars uitgevoerd. Overigens hebben de leden van de Nederlandse Vereniging van Verwerkers van Chemisch Afval (N.V.C.A.) in een intentie-verklaring vastgelegd dat, indien verwijderings– faciliteiten in Nederland beschikbaar zijn de ingezamelde afvalstoffen daar worden verwijderd. </antwoord>
+      <antwoord nummer="6">Na de ingebruikname van de interim– opslag zal uitvoer van klein chemisch afval alleen worden toegestaan indien de verwerking in het buitenland plaatsvindt op hetzelfde niveau als in Nederland plaats zal (gaan) vinden dan wel indien de verwerking in het buitenland op een hoger niveau plaatsvindt. Indien verwerking van bepaalde categorieën klein chemisch afval in Nederland mogelijk is en voldoende capaciteit beschikbaar is zal alleen toestemming worden verleend indien verwerking in het buitenland op een hoger niveau plaatsvindt. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

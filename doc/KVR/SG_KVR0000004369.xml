@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0001858</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001858&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001858</item>
+         <item attribuut="Document-id">0000004369</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 644</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Van Hoof en Blaauw (beiden VVD) over opvang van gewonden van VN-missies.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 644</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">644</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Van Hoof</persoon>
+            <persoon partij="VVD">Blaauw</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-06-16</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Ter Beek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-07-12</item>
+         <item attribuut="Beginpagina">1307</item>
+         <item attribuut="Eindpagina">1308</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1307" allpagenumbers="1307 0" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's-Gravenhage 1994"/>
+      <vraagdata vraagnummer="644" onderwerp="opvang van gewonden van VN-missies." indiendatum="16juni 1994">
+         <vrager partij="VVD" oorsprong="parlement">Van Hoof</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Blaauw</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-07-12">
+         <antwoorder functie="minister" ministerie="Defensie">Ter Beek</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Is het bericht waar, dat er geen centrale opvang bestaat voor gewonden van VN-missies? Zo ja, waarom is daarin niet voorzien? Bent u eventueel bereid zo'n opvang alsnog te doen realiseren? Zo neen, op welke wijze is dan te verklaren, dat dat kennelijk onvoldoende bekend is bij betrokkenen? </vraag>
+      <vraag nummer="2">Wat zijn de huidige opvangmogelijkheden voor militairen met geestelijke nood, die terugkeren van een VN-missie? Wat is uw reactie op het verwijt, dat er in deze gevallen niet voldoende gereageerd zou worden door en binnen de Defensie-organisatie? Hoe kan een toereikende benadering van betrokkenen worden gerealiseerd? </vraag>
+      <vraag nummer="3">Wat is uw reactie op de kritiek, dat er ten aanzien van deze categorie militairen onvoldoende afstemming zou zijn tussen instanties die zich bezig houden met actieven en de afdelingen die zich buigen over inactieven? Hoe kan dat worden verbeterd? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1994-06-11" bron=" NRC-Handelsblad van 2 en"> NRC-Handelsblad van 2 en, 11 juni 1994</noot>
+      </noten>
+   </vragen>
+   <toelichting>Deze vragen dienen ter aanvulling op de eerdere vragen ter zake van het lid Zijlstra, ingezonden 6 juni 1994. </toelichting>
+   <antwoorden aantal="3">
+      <antwoord nummer="1" voetnoot="1">Het is juist dat binnen Defensie geen centraal opvangpunt bestaat. Er zijn geen voornemens een dergelijke organisatie op te zetten. De personeelszorg in de actieve periode is en blijft een verantwoordelijkheid van de krijgsmachtdelen. Wel is voor gewonde militairen per krijgsmachtdeel een opvangpunt nodig en zal dit, waar het nog ontbreekt worden opgezet. <voetnoot nummer="1"/> (zie beantwoording vraag 7 van kamerlid Zijlstra). </antwoord>
+      <antwoord nummer="2" voetnoot="2">Zie het antwoord op de vragen van de kamerleden Zijlstra en Hillen. <voetnoot nummer="2"/> Het verwijt dat er onvoldoende door en binnen de Defensie-organisatie wordt gereageerd is onterecht. Het spreekt voor zich dat in deze gevallen alle mogelijke moeite wordt gedaan om voor een adequate opvang te zorgen. </antwoord>
+      <antwoord nummer="3">De afstemming tussen de instanties die zich bezighouden met actieven respectievelijk de postactieven kan inderdaad worden verbeterd. Dit zal ook gebeuren. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Zie aanhangsel Handelingen nr. 642, Vergaderjaar 1993-1994</noot>
+         <noot nummer="2"> Zie aanhangsels Handelingen nr. 642 en 643, Vergaderjaar 19943-1994</noot>
+      </noten>
+   </antwoorden>
+</kvr>

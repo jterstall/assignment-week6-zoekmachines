@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Blom (PvdA) aan de staatssecretaris van Defensie over een conflict over ontwerp- en bouwgegevens van onderzeeÃ«rs. (Ingezonden 19 augustus 2004); Antwoord</item>
+         <item attribuut="Bestand">16Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR21045
+</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van een bericht in het Algemeen Dagblad van 18 augustus 2004 over een conflict tussen Joep van den Nieuwenhuyzen en het ministerie van Defensie over het eigendomsrecht van ontwerp- en bouwgegevens van onderzeeÃ«rs.</item>
+         <item attribuut="Rubriek">Burgerlijk recht en burgerlijk procesrecht (Intellectueel en industrieel eigendom) Veiligheidsbeleid en defensie (Marine) Veiligheidsbeleid en defensie (Militair materieel)</item>
+         <item attribuut="Trefwoorden">Auteursrecht Onderzeeboten</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2003-2004, nr. 2215, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2030419810</item>
+         <item attribuut="Afkomstig_van">Defensie (DEF)</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Blom</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2004-09-02</item>
+         <item attribuut="Datum_indiening">2004-08-19</item>
+         <item attribuut="Document-id">KVR21045</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2003–2004" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="4683" allpagenumbers="4683" vetnummer="2030419810" code="0304tkkvr2215" lopendefooter="Tweede Kamer, vergaderjaar 2003–2004, Aanhangsel" filenaam="KVR21045" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2004"/>
+      <vraagdata vraagnummer="2215" onderwerp="" indiendatum="19augustus 2004">
+         <vrager partij="PvdA" oorsprong="parlement">Blom</vrager>
+         <vraagt-aan>de staatssecretaris van Defensie</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2004-09-2">
+         <antwoorder functie="staatssecretaris" ministerie="Defensie">Van der Knaap</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Kent u het bericht over een conflict tussen Joep van den Nieuwenhuyzen en het ministerie van Defensie over ontwerp- en bouwgegevens van onderzeeërs? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Welke afspraken zijn contractueel vastgelegd tussen de Staat der Nederlanden en RDM Technology of andere belanghebbenden over het eigendomsrecht van ontwerpen en/of andere vertrouwelijke of geheime informatie van onderzeeërs? </vraag>
+      <vraag nummer="3">Hoe is over het algemeen het eigendomsrecht van vertrouwelijke of geheime informatie geregeld bij het verstrekken van opdrachten door het ministerie van Defensie? </vraag>
+      <vraag nummer="4">Wat zijn de gevolgen voor de belastingbetaler, indien de Staat de onderhavige ontwerp- en bouwgegevens niet terugkrijgt? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="2004-08-18" bron="Algemeen Dagblad">Algemeen Dagblad, 18 augustus 2004</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2 en 3">Het intellectueel eigendom van de bouw- en ontwerpgegevens van onderzeeboten en van bovenwaterschepen berust nagenoeg volledig bij de Staat. Bedrijven als RDM-T, RDM-S en Nevesbu hadden veelal een gebruiksrecht van deze gegevens. De bouw- en ontwerpgegevens van schepen en onderzeeboten mogen niet aan derden worden verstrekt zonder toestemming van de Staat. Een verzoek tot toestemming wordt eveneens onderworpen aan de regels van exportcontrole. Aan toestemming kunnen voorts voorwaarden worden verbonden zoals het in rekening brengen van royalties. Een deel van de bouw- en ontwerpgegevens van de onderzeeboten en schepen is gerubriceerd als Staatsgeheim. Voor het beheer en gebruik van deze gerubriceerde gegevens dienen de bedrijven te voldoen aan de eisen van de Algemene Beveiligingseisen voor Defensie Opdrachten (ABDO). In dat geval screent de MIVD de bedrijven vooraf en ziet toe op de naleving van de eisen van de ABDO. Het intellectueel eigendom van de bouw- en ontwerpgegevens van ander defensiematerieel ligt merendeels niet bij de Staat maar bij de industrie. Ook in die gevallen worden de bedrijven gescreend en dienen zij zich te houden aan de ABDO. </antwoord>
+      <antwoord nummer="4">De bedoelde bouw- en ontwerpgegevens betreffen een extra (digitale) back-up van het originele archief. Het zonder toestemming in het bezit hebben van de gerubriceerde gegevens is strafbaar. Hiervan is aangifte gedaan. Op 30 augustus 2004 is de complete back-up teruggegeven aan de Staat. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

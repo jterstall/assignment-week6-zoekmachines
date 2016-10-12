@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="worden?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001499</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001499&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001499</item>
+         <item attribuut="Document-id">0000027836</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 563</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Blauw (VVD) over de onbelaste overheveling en/of doorschuiving bij pacht.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 563</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">563</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Blauw</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-04-11</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van Amelsvoort</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-05-14</item>
+         <item attribuut="Beginpagina">1151</item>
+         <item attribuut="Eindpagina">1152</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1151" allpagenumbers="1151" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1991"/>
+      <vraagdata vraagnummer="563" onderwerp="de onbelaste overheveling en/of doorschuiving bij pacht." indiendatum="1991-04-11">
+         <vrager partij="VVD" oorsprong="parlement">Blauw</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1">Herinnert u zich de indiening en de daarbij behorende toelichting van de motie Voorhoeve/De Vries' betrekkmg hebbend op de onbelaste overheveling en/of doorschuiving van het melkquotum tussen ouders en kinderen? </vraag>
+      <vraag nummer="3"/>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Kamerstuk 20 200, nr. 26, Vergaderjaar 1987-1988, 8 10-1987</noot>
+      </noten>
+   </antwoorden>
+   <mededeling mededeler="Van Amelsvoort" functie="staatssecretaris" afdeling="Financiën" mededelingdatum="1991-05-14">Mededeling van staatssecretaris Van Amelsvoort (Financiën). (Ontvangen 14 mei 1991) Naar aanleiding van uw brief, waarbij u vragen, gesteld door het lid van de Tweede Kamer Blauw aan mij ter beantwoording toezond, deel ik u het volgende mede. Ik beschik thans nog niet over alle gegevens die voor de beantwoording benodigd zijn. Ik streef ernaar de vragen op korte termijn te beant– woorden. Kunt u bevestigen, nu ook de onbelaste overheveling en/of doorschuiving per 7 februari 1990 bij pacht gerealiseerd is, dat de startende ondernemer nu weer gekneveld wordt door het schen– kingsrecht? 3 Deelt u de mening, dat gelet op eerder geldende beleidslijnen en steeds weer geactualiseerde aanvul– lende argumenten (zoals tijdelijkheid van de regeling) het redelijk is, u via een aanwijzing laat weten dat ook het schenkingsrecht in dit uitzonder– lijke geval niet geheven dient te </mededeling>
+</kvr>

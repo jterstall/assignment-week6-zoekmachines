@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001110</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001110&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001110</item>
+         <item attribuut="Document-id">0000011414</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 179</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Netelenbos en De Pree (beiden PvdA) over het mogelijke verband tussen het gebruik van fenothiazine preparaten en de wiegedood.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 179</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">179</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Netelenbos</persoon>
+            <persoon partij="PvdA">De Pree</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-10-28</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Simons</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-11-25</item>
+         <item attribuut="Beginpagina">371</item>
+         <item attribuut="Eindpagina">372</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="371" allpagenumbers="371" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="179" onderwerp="het mogelijke verband tussen het gebruik van fenothiazine preparaten en de wiegedood." indiendatum="1992-10-28">
+         <vrager partij="PvdA" oorsprong="parlement">Netelenbos</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">De Pree</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-11-25">
+         <antwoorder functie="Staatssecretaris" ministerie="Welzijn, Volksgezondheid en Cultuur">Simons</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Bent u op de hoogte van het mogelijke verband tussen het gebruik van fenothiazine preparaten en het optreden van wiegedood? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2" voetnoot="2">Waarom is het artikel van Kahn en Blum <voetnoot nummer="2"/>, waarin op dit verband gewezen wordt, door het College voor Geneesmiddelen niet aangegrepen om de preparaten promethazine (Phenergan) en alimemazine (Nedeltran) uitsluitend op recept te verstrekken of tenminste aan te dringen op een waarschuwing in de bijsluiter? </vraag>
+      <vraag nummer="3">Deelt u de mening, dat van een middel dat voor zuigelingen toelaatbaar geacht wordt eerst overtuigend de veiligheid moet worden aangetoond? Zo ja, waarom is dit voor genoemde middelen niet gebeurd? </vraag>
+      <vraag nummer="4">Bent u van plan maatregelen te nemen opdat fenothiazine preparaten uitsluitend op recept verkrijgbaar zijn of dat tenminste in de bijsluiter een ernstige waarschuwing opgenomen zal worden tegen gebruik van deze middelen bij jonge kinderen? </vraag>
+      <vraag nummer="1"/>
+      <noten afkomstig="vraag">
+         <noot nummer="2" titel="Phenothiazines and sudden infant death syndrome"> A. Kahn en D Blum «Phenothiazines and sudden infant death syndrome», Pediatrics 1982:70:75-8</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja. Het artikel van Kahn en Blum bevat enige gegevens die mogelijk verband tussen het gebruik van fenothiazines en het optreden van wiegedood suggereren. Deze gegevens hebben indertijd voor het College ter beoordeling van geneesmiddelen geen reden gevormd speciale waarschuwingen in de produktinformatie te laten opnemen of de staatssecretans te adviseren promethazine bevattende geneesmiddelen onder het U.R.-regime te brengen. Alimemazine bevattende geneesmiddelen vallen overigens reeds sinds jaar en dag onder het U.R.-regime. </antwoord>
+      <antwoord nummer="3">Ja. Door het College wordt overigens altijd de balans werkzaamheid-schadelijkheid opgemaakt voordat een geneesmiddel tot de Nederlandse markt wordt toegelaten. Hierbij wordt rekening gehouden met alle groepen patiënten waarvoor het middel is bedoeld (o.a. leeftijd) en worden alle gegevens die ten tijde van de registratieprocedure bekend zijn meegewogen. Indien na registratie nieuwe feiten (gegevens) bekend worden die naar het oordeel van het College de balans werkzaamheid-schadelijkheid negatief beïnvloeden dat gaat het College over tot aanscherping van de produktinformatie ter zake of tot doorhaling van de registratie. Alimemazine (Nedertran) en promethazine (Phenergan) zijn in 1969 respectievelijk 1973 geregistreerd. Op grond van de toen aanwezige gegevens was er geen reden te twljfelen aan de balans werkzaamheid-schadelijkheid. </antwoord>
+      <antwoord nummer="4">De mogelijke relatie tussen het gebruik van fenothiazine bevattende geneesmiddelen en wiegedood is onderwerp van discussie geweest in het EEG-Comité voor farmaceutische specialiteiten. Naar aanleiding van deze discussie heeft het College ter beoordeling van geneesmiddelen in mei 1992 besloten dat in de samenvatting van de kenmerken van het produkt (IB-teksten) en bijsluiters van orale fenothiazine bevattende produkten, die mede bestemd zijn voor kinderen, de volgende contra-indicatie dient te worden opgenomen: «Niet gebruiken bij kinderen jonger </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

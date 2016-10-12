@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001458</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001458&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001458</item>
+         <item attribuut="Document-id">0000107233</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 426</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Haas-Berger (P.v.d.A.) over tuchtzaken, waarin nog geen vonnis is gewezen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 426</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">426</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Haas-Berger</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-12-19</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Dees</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-02-20</item>
+         <item attribuut="Beginpagina">849</item>
+         <item attribuut="Eindpagina">850</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1986-1987 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="426" onderwerp="" indiendatum="">
+         <vrager partij="PvdA" oorsprong="parlement">Haas-Berger</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="20 februari 1987)">
+         <antwoorder functie="" ministerie="Welzijn, Volksgezondheid en Cultuur"/>
+         <mede-antwoorder>de Minister van Justitie</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 ">Heeft in een aantal tuchtzaken,  waarvan de rechtszitting al in 1984  of 1985 heeft plaatsgevonden, het  Centraal Medisch Tuchtcollege nog  geen vonnis gewezen?  </vraag>
+      <vraag nummer="2 ">Zo ja, om hoeveel zaken gaat het en  in welke jaren hebben de rechtszit- tingen plaatsgehad?  </vraag>
+      <vraag nummer="3 ">W a t is de oorzaak van deze aanzien- lijke vertraging, die voor zowel klager  als aangeklaagde een grote onzeker- heid met zich mee brengt?  </vraag>
+      <vraag nummer="4 ">Welke maatregel overweegt u om  aan deze misstand een einde te  maken?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1 ">Er is inderdaad in een aantal tuchtza- ken waarvan de rechtszittingen in  1984 en 1985 hebben plaatsgevom  den door het Centraal Medisch  Tuchtcollege nog geen uitspraak  gedaan.  Het betreft één tuchtzaak waarvan de  rechtszitting in 1984 heeft plaatsge- vonden en 9 tuchtzaken waarvan de  rechtszitting in 1985 hebben  plaatsgevonden. Het totaal aantal in  1985 behandelde tuchtzaken  bedroeg 140,  </antwoord>
+      <antwoord nummer="3 ">De achtergrond van deze, ook door  het Centraal Medisch Tuchtcollege  betreurde, situatie is gelegen in  structurele problemen  Het aantal tuchtzaken neemt  jaarlijks toe terwijl de personeelsbe- zetting van het Centraal Medisch  Tuchtcollege niet is toegenomen. De  tuchtzaken worden gecompliceerder  en vergen meer vooronderzoek,  hetgeen moge blijken uit de beslissin- gen van het Centraal Medisch  Tuchtcollege.  Mede gezien de tijd die het  ontwerpen van beslissingen vergt is  de werkdruk van de voorzitter en  secretaris alsmede hun plaatsvervan- gers, die hun functies als nevenfunctie  moeten verrichten, te groot.  </antwoord>
+      <antwoord nummer="4 ">Ik heb maatregelen getroffen met het  oog op een personele versterking van  het Centraal Medisch Tuchtcollege.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

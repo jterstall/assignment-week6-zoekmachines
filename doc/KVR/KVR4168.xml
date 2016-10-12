@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Koekkoek (CDA) over het vertrouwen in het Openbaar Ministerie. (Ingezonden 15 november 1996); Antwoord</item>
+         <item attribuut="Bestand">14Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR4168
+</item>
+         <item attribuut="Inhoud">Vragen n.a.v. de enquête naar het vertrouwen in politie en openbaar ministerie.</item>
+         <item attribuut="Rubriek">Criminaliteit en openbare orde (Politie) Rechterlijke organisatie (Openbaar ministerie)</item>
+         <item attribuut="Trefwoorden">Openbaar ministerie Politie</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 1996-1997, nr. 489, Tweede Kamer</item>
+         <item attribuut="Afkomstig_van">Justitie</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Koekkoek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1997-01-07</item>
+         <item attribuut="Datum_indiening">1996-11-15</item>
+         <item attribuut="Document-id">KVR4168</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1996–1997" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1005" allpagenumbers="1005" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1996–1997, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 1997"/>
+      <vraagdata vraagnummer="489" onderwerp="" indiendatum="1996-11-15">
+         <vrager partij="CDA" oorsprong="parlement">Koekkoek</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="7 januari 1997), zie ook Aanhangsel Handelingen nr. 443, vergaderjaar 1996–1997.">
+         <antwoorder functie="minister" ministerie="Justitie a.i">Pronk</antwoorder>
+         <mede-antwoorder>de minister van Binnenlandse Zaken</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Kent u de resultaten van de door het Instituut voor Communicatie Research uitgevoerde enquête naar het vertrouwen in politie en openbaar ministerie? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Welke conclusies verbindt u aan het opinieonderzoek voor het beleid ten aanzien van de politie? </vraag>
+      <vraag nummer="3">Op welke wijze, naast het reeds voorgenomen beleid, denkt u het gebrek aan vertrouwen in het Openbaar Ministerie te kunnen ombuigen in een herstel van vertrouwen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1996-11-14" bron="De Telegraaf">De Telegraaf, 14 november 1996</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Dit onderzoek betreft de uitkomst van een steekproef onder de bevolking over het functioneren van politie en justitie. Vanzelfsprekend is het zorgelijk indien er een negatief beeld zou bestaan. Nadere bestudering van het onderzoek leidt overigens ook tot enige relativering van de uitkomsten van het onderzoek. Er is duidelijk sprake van een momentopname. De «politiemonitor bevolking» is een instrument waarmee gestandaardiseerd en geregeld het oordeel over de politie wordt gemeten. Uit die monitor komen meer positieve signalen over het oordeel van de bevolking. </antwoord>
+      <antwoord nummer="3" voetnoot="1">De vraag die u stelt, is eveneens aan de orde geweest tijdens de behandeling van de begroting van het Ministerie van Justitie op 21 november 1996 <voetnoot nummer="1"/>. Daar heb ik onder meer gewezen op de ontwikkelingen op het bestuursdepartement en geconstateerd dat we op de goede weg zijn. Voorts wees ik op het werk naar aanleiding van de parlementaire enquêtecommissie «opsporingsmethoden». Het Plan van Aanpak terzake is recent met de Kamer besproken. Naar mijn oordeel bieden de daar genomen maatregelen instrumenten die kunnen bijdragen aan een verder herstel van het vertrouwen van de bevolking in politie en justitie. Eenzelfde bijdrage verwacht ik van de reorganisatie van het openbaar ministerie. Voor de recente stand van zaken verwijs ik u naar de tweede voortgangsrapportage die in november naar uw Kamer is gezonden. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1" documenttype="Handelingen" documentjaargang="1996-1997">Handelingen II, vergaderjaar 1996–1997, nr. 10 blz. 2333–2355, 2382–2408.</noot>
+         <noot nummer="2" documenttype="Kamerstuk" kamerstuk-id="24 072" documentnummer="89">Kamerstuk 24 072, nr. 89</noot>
+      </noten>
+   </antwoorden>
+</kvr>

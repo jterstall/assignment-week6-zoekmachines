@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001443</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001443&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001443</item>
+         <item attribuut="Document-id">0000011747</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 513</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Blauw (VVD) over de Nota 3e fase mestbeleid.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 513</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">513</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Blauw</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-03-31</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Bukman</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-04-22</item>
+         <item attribuut="Beginpagina">1047</item>
+         <item attribuut="Eindpagina">1048</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1047" allpagenumbers="1047" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="513" onderwerp="de Nota 3e fase mestbeleid." indiendatum="1993-03-31">
+         <vrager partij="VVD" oorsprong="parlement">Blauw</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-04-22">
+         <antwoorder functie="minlster" ministerie="Landbouw, Natuurbeheer en Visserij">Bukman</antwoorder>
+         <mede-antwoorder>de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1" voetnoot="1">Wanneer wordt de Nota 3e fase mestbeleid nu eindelijk aan de Kamer aangeboden? Waarom zijn de eerder gedane toezeggingen <voetnoot nummer="1"/> hieromtrent niet nagekomen? Waarom is de Kamer daar niet over gemformeerd? </vraag>
+      <vraag nummer="3">Erkent u dat het steeds maar weer uitblijven van de noodzakelijke duidelijkheid, zoals de nota 3e fase mestbeleid, en het keer op keer niet nakomen van toezeggingen twijfels oproept bij het landbouwbedrijfsleven?  O.a. bij de behandeling van de landbouwbegroting voor het jaar 1993, Handelingen II, 1992-1993, nr. 6, blz. 1056 </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"/>
+      </noten>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1" voetnoot="1 1">Het streven is er op gericht de Notitie mest– en ammoniakbeleid derde fase begin juni a.s. aan de Tweede Kamer aan te bieden. 2 e n 3 Bij brief van 19 oktober 1992 <voetnoot nummer="1"/> heb ik, mede namens mijn collega Alders, de Tweede Kamer geïnformeerd over de voortgang van aangekondigde beleidsvoornemens en het tijdpad voor de Notitie mest– en ammoniakbeleid derde fase. Ook tijdens de begrotingsbehandeling heb ik hierover met de Kamer gesproken. In de lijn van dit tijdpad is aan de voorbereiding van de notitie gewerkt. Juist met het oog op het draagvlak en het creëren van duidelijkheid over dit complexe beleidsveld hechten collega Alders en ik sterk aan zorgvuldig overleg over het te voeren beleid met de andere overheden en de meest betrokken maatschappelijke organisaties, in casu het landbouwbedrijfsleven en de natuur– en milieu organisaties Dit overleg, dat meer tijd vergt dan aanvankelijk was voorzien, is thans nog in volle gang en zal naar verwachting binnen enkele weken kunnen worden afgerond. <voetnoot nummer="1"/> Kamerstuk 19 882, nr. 31, Vergaderjaar 1992-1993 </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

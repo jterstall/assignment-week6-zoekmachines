@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19851986:0001853</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001853&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001853</item>
+         <item attribuut="Document-id">0000115413</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1985-1986 nummer 938</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Knol (P.v.d.A.) over een vergoeding van reiskosten gemaakt door academici in een sollicitatieprocedure.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1985-1986 nummer 938</item>
+         <item attribuut="Jaargang">1985_1986</item>
+         <item attribuut="Vraagnummer">938</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Knol</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-06-20</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van Dijk</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-07-28</item>
+         <item attribuut="Beginpagina">1855</item>
+         <item attribuut="Eindpagina">1856</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1985-1986 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="1" allpagenumbers="1" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 5 - 1 9 8 6 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="938" onderwerp="" indiendatum="">
+         <vrager partij="PvdA" oorsprong="parlement">Knol</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="28 juli 1986)">
+         <antwoorder functie="minister" ministerie="Binnenlandse Zaken">Van Dijk</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 ">Vragen van het lid Knol (P.v.d.A.)  over een vergoeding van reiskosten  gemaakt door academici in een  sollicitatieprocedure. (Ingezonden 20  juni 1986)  </vraag>
+      <vraag nummer="1 ">Kregen werkloze academici, die  reflecteerden op een in de landelijke  bladen verschenen advertentie met  de titel: «Unieke kans voor 28  werkloze academici» en tijdens de  gehouden voorlichtingsbijeenkom- sten een verzoek om reiskosten  indienden, als antwoord dat het ging  om een vrijblijvende voorlichtingsbij- eenkomst welke als zodanig geen  deel uitmaakte van de sollicitatiepro- cedure en zij dus niet voor vergoeding  van reiskosten in aanmerking  kwamen?  </vraag>
+      <vraag nummer="2 ">Werden na afloop van de voorlich- tingsbijeenkomsten kandidaten in de  gelegenheid gesteld een sollicitatie- formulier in te vullen en gingen op  die wijze de voorlichtingsbijeenkom- sten toch onderdeel van de sollicita- tieprocedure uitmaken?  </vraag>
+      <vraag nummer="3 ">Acht u het juist, dat werkloze  academici, die reageren op een  advertentie en één der voorlichtings- bijeenkomsten bezoeken, niet in  aanmerking komen voor reiskosten- vergoeding? Zo ja, op grond waarvan?  Zo neen, bent u dan bereid alsnog tot  vergoeding over te gaan?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1 ">Ja.  </antwoord>
+      <antwoord nummer="2 ">Nee, het ging om het invullen van  een inschrijfformulier dat door het  GAB 's-Gravenhage in het algemeen  wordt gebruikt ten behoeve van  inschrijving van werkzoekenden met  een academische opleiding.  Overigens merk ik op dat de  voorlichtingsbijeenkomsten een  vrijblijvend karakter hadden, hetgeen  duidelijk tot uiting komt in de wijze  waarop men zich daarvoor kon  opgeven, namelijk telefonisch.  Voorafgaande aan die bijeenkomsten  kon dan ook niet worden getoetst of  belangstellenden aan de objectieve  eisen voldeden. Ook gezien deze  omstandigheden kunnen de voorlich- tingsbijeenkomsten niet geacht  worden deel uit te maken van de  sollicitatieprocedure.  </antwoord>
+      <antwoord nummer="3 ">Op grond van mijn antwoord op  vraag 2 acht ik het in principe juist  dat betrokkenen niet in aanmerking  zijn gebracht voor vergoeding van de  door hen voor het bijwonen van de  voorlichtingsbijeenkomst gemaakte  reiskosten. Niettemin is op grond van  de kennelijk niet ondubbelzinnige  interpretatie van het karakter van de  bewuste bijeenkomsten besloten aan  de bezoekers daarvan alsnog de  gemaakte reiskosten volgens de  gebruikelijke normen te vergoeden.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

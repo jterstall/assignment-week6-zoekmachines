@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19941995:0000479</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000479&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000479</item>
+         <item attribuut="Document-id">0000000479</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1994-1995 nummer 145</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Aanvullende vragen van het lid Marijnissen (SP) over sponsonng van lesmateriaal.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1994-1995 nummer 145</item>
+         <item attribuut="Jaargang">1994_1995</item>
+         <item attribuut="Vraagnummer">145</item>
+         <item attribuut="Indiener">
+            <persoon partij="SP">Marijnissen</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-09-14</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Nuis</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-11-03</item>
+         <item attribuut="Beginpagina">291</item>
+         <item attribuut="Eindpagina">292</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1994-1995" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="291" allpagenumbers="291" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1994-1995, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgeverij Plantijnstraat s Gravenhage 1994"/>
+      <vraagdata vraagnummer="145" onderwerp="sponsonng van lesmateriaal." indiendatum="1994-09-14">
+         <vrager partij="SP" oorsprong="parlement">Marijnissen</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="3 november 1994), zie ook aanhangsel Handelingen nr. 46, vergaderjaar 1994-1995.">
+         <antwoorder functie="staatssecretaris" ministerie="Onderwijs, Cultuur en Wetenschappen">Nuis</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Bent u het met de Consumentenbond eens, dat in het door de Postbank gesponsorde lesmateriaal van de Nederlandse Onderwijs Televisie (NOT) (bij de drama-serie «Economie in Beeld») de invloed van de sponsor veel te ver gaat? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Onderschrijft u de opvatting van de NOT, dat zonder extra geld uit sponsoring alleen een saaie documentaire over economie te maken valt? </vraag>
+      <vraag nummer="3">Zo ja, moet de conclusie dan niet zijn, dat de overheid meer geld ter beschikking rnoet stellen in plaats van dat de NOT haar toevlucht neemt tot sponsors die hun eisen stellen? </vraag>
+      <vraag nummer="4">Wat is uw opvatting over sponsoring van lesmateriaal door commerciële instellingen? Hoe wilt u voorkomen, dat in ons land toestanden ontstaan als in de Verenigde Staten waar kinderen naar de mening van de Ouderraad Protestants-christelijk Onderwijs (OPCO) «met commerciële onderwijs-televisie kinderen min of meer worden gehersenspoeld»? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> TROUW. Bseptember 1994</noot>
+      </noten>
+   </vragen>
+   <toelichting>Deze vragen dienen ter aanvulling op de eerdere vragen ter zake van het lid Verhagen, ingezonden 13 september jl. </toelichting>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Het is niet aan mij om een oordeel uit te spreken over de mate van invloed van de Postbank in het NOT-programma. Het Commissariaat voor de Media komt tot de conclusie dat het NOT-televisieprogramma geen uitingen bevat die in strijd zijn met de Mediawet. Overigens merk ik op dat al vele jaren Postbankmateriaal in het onderwijs wordt gebruikt op directe aanvraag van scholen. Neen, Ik wijs er echter op dat de NOT zelf prioriteiten kan stellen inzake investeringen. Overigens wijs ik erop dat een wettelijke regeling inzake sponsoring bij de publieke omroep thans bij de Kamer in behandeling is </antwoord>
+      <antwoord nummer="1">. </antwoord>
+      <antwoord nummer="3">Ik deel deze conclusie niet. Ik acht de beoordeling of en in hoeverre gesponsord lesmateriaal verantworod gebruikt kan worden een zaak tussen lesmateriaalproducenten en het op dit terrein per definitie autonome schoolbestuur. Toestanden uit de VS als door de OPCO geschetst dienen te worden voorkomen. Ik heb, mede in dat verband, de NOT gewezen op het bestaan van de Consumentenbond-code voor gesponsord lesmateriaal. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Kamerstuk 23 752</noot>
+      </noten>
+   </antwoorden>
+</kvr>

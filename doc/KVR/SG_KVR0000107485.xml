@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001710</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001710&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001710</item>
+         <item attribuut="Document-id">0000107485</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 677</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Kosto en Haas-Berger (beiden P.v.d.A.) over de zaak Harm Dost.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 677</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">677</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Kosto</persoon>
+            <persoon partij="PvdA">Haas-Berger</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-04-02</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Korte-van Hemel</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-05-08</item>
+         <item attribuut="Beginpagina">1345</item>
+         <item attribuut="Eindpagina">1346</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 6 - 1 9 8 7 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 ,  A a n h a n g s e l 1345 " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="677" onderwerp="de zaak Harm Dost." indiendatum="2 april 1987)">
+         <vrager partij="PvdA" oorsprong="parlement">Kosto</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Haas-Berger</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 ">Bent u bereid commentaar te geven  op de stelling van de raadsman van  Harm Dost, mr. A. M. M. Orie, dat de  regering op  3 0 september 1986 de  Eerste Kamer der Staten-Generaal  heeft misleid inzake de zaak Harm  Dost? </vraag>
+      <vraag nummer="1 "/>
+      <vraag nummer="2 ">Is het waar, dat de regering als  argument om niet te interveniëren bij  de Spaanse regering, die Dost op  basis van onjuiste gegevens aan de  Bondsrepubliek zou hebben uitgele- verd, zich beroept op het feit, dat zij  niet kon beschikken over de benodig- de stukken, hetgeen door Dost ten  stelligste wordt ontkend?  </vraag>
+      <vraag nummer="3 ">Bent u bij nader inzien bereid alsnog  van die stukken kennis te nemen en  bij de Spaanse overheid aan te  dringen op het, voorzover mogelijk,  ongedaan maken van de uitlevering  van Dost aan de Bondsrepubliek?  Deze vragen worden gesteld nadat  de president van de arrondissements- rechtbank te 's-Gravenhage Dost in  de vordering tot rectificatie gedaan in  kort geding niet ontvankelijk heeft  verklaard, daarbij onder meer  verwijzende naar de immuniteit van  onder andere ministers en staatsse- cretarissen voor hetgeen zij in de  vergaderingen van de Staten-Gene- raal of van commissie daaruit hebben  gezegd of aan deze schriftelijk  hebben overgelegd. Vragenstellers  willen met vraag 3 duidelijk als hun  standpunt kenbaar maken, dat ook  langs de daarin gegeven weg moet  worden geprobeerd begane en  betreurde routen te herstellen.  </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Handelingen I, nr. 2. </noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

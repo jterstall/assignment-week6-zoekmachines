@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19871988:0001261</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001261&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001261</item>
+         <item attribuut="Document-id">0000098975</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1987-1988 nummer 321</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Lankhorst (P.P.R.) over 'een auto van de zaak' voor ambtenaren</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1987-1988 nummer 321</item>
+         <item attribuut="Jaargang">1987_1988</item>
+         <item attribuut="Vraagnummer">321</item>
+         <item attribuut="Indiener">
+            <persoon partij="PPR">Lankhorst</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-12-18</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van Dijk</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1988-02-10</item>
+         <item attribuut="Beginpagina">645</item>
+         <item attribuut="Eindpagina">646</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="" typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 7 - 1 9 8 8 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="321" onderwerp="'een auto van de zaak' voor ambtenaren" indiendatum="18 december 1987)">
+         <vrager partij="PPR" oorsprong="parlement">Lankhorst</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="10 februari 1988)">
+         <antwoorder functie="" ministerie="Binnenlandse Zaken"/>
+         <mede-antwoorder>de Ministers van Verkeer en Water- staat en van Volkshuisvesting, Ruimtelijke Ordening en Milieube- heer</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="1">
+      <vraag nummer="1 ">Bent u van plan ambtenaren een  'auto van de zaak' ter beschikking te  stellen, waarmee ook privé gereden  kan worden?  Acht u dit idee bevorderlijk voor de  oplossing van de file-problematiek,  het terugdringen van het  w o o n - w e r k - verkeer per auto en de bestrijding  van de verzuring van het milieu?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1 ">Naar aanleiding van het voorstel om  de kilometervergoeding ingevolge  het Reisbesluit 1971 aan te passen is  in het Centraal Georganiseerd  Overleg in Ambtenarenzaken op 16  december  j l . onder meer gesproken  over een voorstel van de Centrale  voor Middelbaar en Hoger Personeel.  Dit voorstel omvat onder andere het  privégebruik van dienstauto's.  Namens de ministervan Binnenlandse  Zaken is in het overleg medegedeeld  dat in de beschikking Beheer  motorrijtuigen rijksoverheid thans  nog is bepaald dat dienstauto's niet  voor privédoeleinden mogen worden  gebruikt. Toegezegd is dat bij de - in  het kader van de deregulering - reeds ter hand genomen vervanging  van deze beschikking nader zal  worden gestudeerd of er mogelijkhe- den zijn voor het privégebruik van  dienstauto's.  Bij deze toezegging is meer in het  bijzonder gedacht aan een meer  marktconforme gedragslijn van de  overheid als werkgever.  </antwoord>
+      <antwoord nummer="2 ">Nee. Het beschikbaar zijn van een  «auto van de zaak» leidt in het  algemeen tot verhoging van het  autogebruik. Het beleid van de  regering is er blijkens de onlangs aan  de Tweede Kamer aangeboden  Notitie Verkeer en Milieu en het  bereikbaarheidsplan Randstad op  gericht om het autogebruik af te  remmen. Daarom zal bij de uitwerking  van het idee een afweging moeten  plaatsvinden tussen enerzijds het  arbeidsvoorwaardenbeleid en  anderzijds het verkeer- en milieube- leid.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

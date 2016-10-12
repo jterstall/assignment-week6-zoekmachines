@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="regionale stichtingen buitenlandse " aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19851986:0001601</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001601&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001601</item>
+         <item attribuut="Document-id">0000115161</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1985-1986 nummer 680</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Lankhorst (P.P.R.) over informatiemateriaal inzake de Basis-subsidieregeling en de Experimentele Ouderenregeling ten behoeve van remigratie.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1985-1986 nummer 680</item>
+         <item attribuut="Jaargang">1985_1986</item>
+         <item attribuut="Vraagnummer">680</item>
+         <item attribuut="Indiener">
+            <persoon partij="PPR">Lankhorst</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-04-11</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Kappeyne van de Coppello</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-05-07</item>
+         <item attribuut="Beginpagina">1351</item>
+         <item attribuut="Eindpagina">1352</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1985-1986 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 5 - 1 9 8 6 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="680" onderwerp="" indiendatum="">
+         <vrager partij="PPR" oorsprong="parlement">Lankhorst</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 ">Wanneer zal het informatiemateriaal  over de Basis-subsidieregeling en de  Experimentele Ouderenregeling ten  behoeve van remigratie in de diverse  landstalen gereed zijn?  </vraag>
+      <vraag nummer="2 ">Deelt u de mening, dat het met het  oog op een goede beoordeling van  dit experiment nodig is zo snel  mogelijk over dit materiaal te  beschikken en dat niet gewacht kan  worden op de instelling van een  projectgroep'?  i Zie kamerstuk 16 102, nr 132  diensten, MAIC's, arbeidsbureaus,  rechts- en wetswinkels, sociale  raadslieden, uitvoeringsorganen  sociale zekerheid, e.d.  </vraag>
+      <vraag nummer="2 ">Ja.  Antwoord  Antwoord van Staatssecretaris  Kappeyne van de Coppello  (Sociale Zaken en Werkgelegenheid).  (Ontvangen 7 mei 1986)  </vraag>
+      <vraag nummer="1 ">De bedoelde informatie zal naar  verwachting medio mei in gedrukte  vorm in de diverse landstalen  beschikbaar zijn en worden toegezon- den aan de instanties die direct zijn  betrokken bij vragen van en hulpver- lening aan buitenlanders, zoals  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

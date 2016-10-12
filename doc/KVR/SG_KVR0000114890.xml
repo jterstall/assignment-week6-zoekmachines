@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="uit. " aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19851986:0001330</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001330&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001330</item>
+         <item attribuut="Document-id">0000114890</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1985-1986 nummer 410</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Tommel (D'66) over eventuele aanpassing van de aardgasprijs.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1985-1986 nummer 410</item>
+         <item attribuut="Jaargang">1985_1986</item>
+         <item attribuut="Vraagnummer">410</item>
+         <item attribuut="Indiener">
+            <persoon partij="D'66">Tommel</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-01-23</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van Aardenne</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-02-04</item>
+         <item attribuut="Beginpagina">809</item>
+         <item attribuut="Eindpagina">810</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1985-1986 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="3 3" allpagenumbers="3 3" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 5 - 1 9 8 6 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="410" onderwerp="eventuele aanpassing van de aardgasprijs." indiendatum="23 januari 1986)">
+         <vrager partij="D'66" oorsprong="parlement">Tommel</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1 ">Geeft de recente aanzienlijke  prijsdaling van aardolieprodukten u  reden tot een verlaging b.v. per 1  maart a.s. van de gasprijs voor  kleinverbuikers?  </vraag>
+      <vraag nummer="2 ">Zo neen, welke prijswijzigingen  dienen zich voor te doen voordat u  wèl tot aanpassing van de aardgasprijs  bereid bent?  </vraag>
+      <vraag nummer="3 ">Wat is het vroegste tijdstip waarop  bedoelde prijs kan worden aangepast?  Antwoord  Antwoord van minister Van Aarden- ne (Economische Zaken). (Ontvangen  4 februari 1986)  </vraag>
+      <vraag nummer="1 ">De verhogingen van de kleinverbrui- kersprijs werden in het verleden  telkens (naast andere factoren)  gebaseerd op een prijsontwikkeling  van huisbrandolie in het voorafgaande  jaar. Een verlaging van de kleinverbrui- kersprijs dient evenzo gebaseerd te  zijn op de prijsontwikkeling van  huisbrandolie over een langere  periode. Met een langere referentie- periode kan de KV-prijs in principe  voor een heel jaar worden vastgesteld  prijsaanpassingen stuiten bovendien  op uitvoeringstechnische bezwaren.  De te hanteren referentieperiode bij  de vaststelling van het KV-tarief is  niet eenduidig vastgelegd. Uit het  bovenstaande volgt dat in beginsel  aan een periode van een jaar gedacht  moet worden. Indien in uitzonderings- gevallen een tussentijdse prijsaanpas- sing wordt overwogen is een kortere  periode denkbaar, bij voorbeeld  - naar analogie van het systeem bij  de grootverbruikers - van minimaal 6  maanden. Gegeven deze overwegin- gen zal het duidelijk zijn dat een  prijsaanpassing per 1 maart a.s. niet  in de rede ligt.  </vraag>
+      <vraag nummer="2 ">Of een prijsaanpassing in de loop  van dit jaar, bij voorbeeld 1 juli 1 a.s.,  mogelijk is hangt dus af van de  HBO-ontwikkeling in onder meer de  komende maanden. Deze kwestie is  echter niet alleen te mijner beoorde- ling. In eerste instantie zouden  immers Gasunie en VEGIN tot een  gezamenlijk onderhandelingsresultaat  moeten komen. Daarom heb ik 27  januari jl. Gasunie en VEGIN verzocht  om te onderzoeken of zij aanleiding  zien de gasprijs per 1 juli a.s. te  herzien en, zo ja, een gezamenlijk  voorstel daartoe te ontwikkelen.  </vraag>
+      <vraag nummer="3 ">Gelet op het feit, dat de onderhande- lingen nog moeten beginnen maar  bovenal een redelijke referentieperio- de moet worden gekozen, ligt een  prijsaanpassing op kortere termijn  niet in de rede. In dit verband wijs ik  erop dat de HBO-pariteit in het  laatste half jaar van 1985 bijna 10  daling van de HBO-noteringen sluit ik  echter een verlaging medio 1 986 niet  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

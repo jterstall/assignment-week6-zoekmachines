@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001878</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001878&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001878</item>
+         <item attribuut="Document-id">0000020264</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 859</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van Vlijmen (CDA) over de geldigheid van de strippenkaart.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 859</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">859</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Van Vlijmen</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-08-31</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Maij-Weggen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-09-09</item>
+         <item attribuut="Beginpagina">1785</item>
+         <item attribuut="Eindpagina">1786</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1785" allpagenumbers="1785" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="859" onderwerp="de geldigheid van de sthppenkaart." indiendatum="1992-08-31">
+         <vrager partij="CDA" oorsprong="parlement">Van Vlijmen</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-09-9">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">Maij-Weggen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1">Zijn strippenkaarten, gekocht in 1991 of eerder, geldig tot 31 december 1992 waarbij tevens is bepaald dat er geen mogelijkheid tot restitutie bestaat? Zo ja, welke argumenten liggen ten grondslag aan het besluit om de geldelijke waarde van de alsdan ongeldige strippenkaarten tevens tot nul te reduceren als gevolg waarvan restitutie onmogelijk is? </vraag>
+      <vraag nummer="2">Hoe verhoudt de onmogelijkheid van restitutie zich met het gegeven, dat een strippenkaart een waardeprodukt is en dus ook als zodanig behandeld dient te worden? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1/2">Ja. In mijn brief van 22 december 1989' heb ik u medegedeeld dat ik op verzoek van de bedrijfstak openbaar vervoer, de geldigheid van de strippenkaarten zal beperken tot 12 maanden na de eerstvolgende tariefwijziging van de betreffende strippenkaart. Gelet op de landelijke geldigheid van de strippenkaart kan er naar redelijkheid van worden uitgegaan dat de reiziger dan in staat is geweest de strippenkaart geheel te gebruiken zodat restitutie niet noodzakelijk is. Daarnaast is de strippenkaart niet persoonsgebonden zodat ook anderen dan de koper er gebruik van kunnen maken. voldoende mate bekendheid aan deze maatregel gegeven. </antwoord>
+      <antwoord nummer="4" voetnoot="1">Ja. Voorshands voorzie ik in de toekomst geen wijziging van deze maatregel. <voetnoot nummer="1"/> Kamerstuk 21 300 XII, nr. 29, Vergaderjaar 1989-1990. Op welke wijze vindt de voorlichting ten aanzien van voornoemd besluit plaats? Is naar uw oordeel de wijze waarop en de mate waarin de voorlichting plaatsvindt voldoende? </antwoord>
+      <antwoord nummer="3">Bent u van mening, dat de gekozen systematiek, inhoudende dat de beëindiging van de geldigheid van de strippenkaart eveneens impliceert dat de waarde van de strippenkaart tot nul is gereduceerd, de enige juiste is? Zal deze ook in de toekomst gehanteerd blijven worden? Op 17 mei 1992 is de bedrijfstak openbaar vervoer een voorlichtingscampagne gestart. Er zijn affiches opgehangen bij de verkooppunten en in de voertuigen en zijn er zowel op de verkooppunten als in de voertuigen folders verkrijgbaar. Daarnaast zijn er persberichten gemaakt ten behoeve van de landelijke, regionale en lokale dag– en nieuwsbladen alsmede voor de huis-aan-huis bladen. De bedrijfstak openbaar vervoer heeft mijns inziens dan ook in ruim </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

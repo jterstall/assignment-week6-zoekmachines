@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="alle hypotheeknemers?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Jansen en Irrgang (beiden SP) aan de minister van Financiën over niet-standaard hypotheken. (Ingezonden 2 oktober 2007)</item>
+         <item attribuut="Bestand">13Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V070801070
+</item>
+         <item attribuut="Inhoud">Nadere vragen over opmars van de riskante hypotheken. De minister heeft bij de beantwoording van de vragen aangeven dat dit probleem nauwelijks speelt in Nederland. Zie Aanhangsel van de Handelingen II, 2006-2007, nr. 2502. In NRC Next van 27 september 2007 geeft de commercieel directeur van Sparck aan dat hij voor de niet-standaard-hypotheken een groeimarkt van 5 tot 10% verwacht.</item>
+         <item attribuut="Rubriek">Consument (Algemeen) Geld- en kapitaalmarkt (Algemeen)</item>
+         <item attribuut="Trefwoorden">Consumenten Hypotheken</item>
+         <item attribuut="Vindplaats">Kamervragen 2007-2008, vraagnr. 2070801070, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070801070</item>
+         <item attribuut="Indiener">
+            <persoon partij="SP">Jansen</persoon>
+            <persoon partij="SP">Irrgang</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2007-10-02</item>
+         <item attribuut="Document-id">V070801070</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0708tkkvl2070801070" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2007"/>
+      <vraagdata vraagnummer="2070801070" onderwerp="" indiendatum="2007-10-2">
+         <vrager partij="SP" oorsprong="parlement">Jansen</vrager>
+         <vrager partij="SP" oorsprong="parlement">Irrgang</vrager>
+         <vraagt-aan>de minister van Financiën</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1" voetnoot="1 2">Heeft u kennisgenomen van het artikel «De risicohypotheek komt eraan..., ... want huizen zijn te duur»? <voetnoot nummer="1"/>Herinnert u zich uw antwoorden op eerdere schriftelijke vragen <voetnoot nummer="2"/>over subprime hypotheken? </vraag>
+      <vraag nummer="2">Hoe verhoudt de uitspraak van de commercieel directeur van Sparck, die op een termijn van vier jaar een marktaandeel van 5 tot 10% verwacht voor de niet-standaard hypotheken, zich tot uw antwoord dat de Nederlandse markt voor dergelijke hypotheken klein is en een jaarlijkse groei van 10% weinig effect heeft op het marktaandeel? </vraag>
+      <vraag nummer="3" voetnoot="1">Was uw antwoord <voetnoot nummer="1"/>«In Nederland kiezen de meeste consumenten er de laatste tijd voor om hun hypothecaire leningenrente voor langere tijd vast te zetten». een inschatting of gebaseerd op concrete gegevens uit de sector? Hoe hoog is op dit moment het aandeel niet-standaard hypotheken met een variabele rente? </vraag>
+      <vraag nummer="4">Was uw antwoord: «In dit verband is relevant dat de aanbieders van non-conforming hypothecaire leningen hun klanten geen tophypothecaire lening aanbieden, bovendien is er vaak een eigen inleg nodig» gebaseerd op bindende regelgeving, of was dit een momentopname van de feitelijke situatie per augustus 2008? In het laatste geval: bent u bereid om deze bijkomende voorwaarden in regelgeving op te nemen? </vraag>
+      <vraag nummer="5">Was uw antwoord: «Mensen met serieuzere betalingsproblemen, en dus een slechtere BKR-notering hebben, komen bij deze aanbieders niet in aanmerking voor hypothecaire leningen» gebaseerd op bindende regelgeving, of was dit een momentopname van de feitelijke situatie per augustus 2008? In het laatste geval: bent u bereid om deze bijkomende voorwaarde in regelgeving op te nemen? </vraag>
+      <vraag nummer="6">Is het relatieve aantal huisuitzettingen wegens wanbetaling bij eigenwoningbezitters met niet-standaard hypotheken in Nederland, net als in Groot-Brittanië, veel hoger dan het gemiddelde over </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" datum="2007-09-27" bron="NRC Next">NRC Next, 27 september 2007</noot>
+         <noot nummer="2" documenttype="Kamervragen" documentnummer="2502" documentjaargang="2006-2007">Aanhangsel Handelingen, nr. 2502, vergaderjaar 2006–2007.</noot>
+      </noten>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="4">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0000997</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0000997&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0000997</item>
+         <item attribuut="Document-id">0000011301</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 65</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Versnel-Schmitz (D66) over woonzorgprojecten.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 65</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">65</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Versnel-Schmitz</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-09-17</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Heerma</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-10-13</item>
+         <item attribuut="Beginpagina">141</item>
+         <item attribuut="Eindpagina">142</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="141" allpagenumbers="141" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeveri) Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="" onderwerp="" indiendatum="">
+         <vrager partij="D66" oorsprong="parlement">Versnel-Schmitz</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-10-13">
+         <antwoorder functie="staatssecreians" ministerie="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer">Heerma</antwoorder>
+         <mede-antwoorder>de minister van Welzijn, Volksgezondheid en Cultuur</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="65">Vragen van het lid Versnel-Schmitz (D66) over woonzorgprojecten. (Ingezonden 17 september 1992) </vraag>
+      <vraag nummer="1">Heeft de staatssecretaris van Volkshuisvesting, Ruimtelijke Ordenmg en Milieubeheer op 16 juli jl. een brief geschreven aan de Stuurgroep Experimenten Volkshuisvesting (SEV) naar aanleiding van het kabinetsbesluit om in geval van een indicatiestelling voor een bejaardenoord, de woon/zorg combinatie volledig onder de AWBZ te laten vallen, zodat er ook in geval van substitutie (wonen met thuiszorg) geen sprake meer kan zijn van zelfstandig wonen? </vraag>
+      <vraag nummer="2">Heeft de staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer de SEV verzocht de toewijzing van woonzorgprojecten, waarbij het ministerie van Welzijn, Volksgezondheid en Cultuur en/of het ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer als subsidient betrokken zijn, in Eindhoven, Almere, Enschede, Amstelveen, alsmede daarna komende projecten op te schorten? Waarom worden, vooruitlopend op nadere wet– en regelgeving, experimenten die in overeenstemming zijn met de nota «Ouderen in Tel» opgeschort? </vraag>
+      <vraag nummer="4">Is de regering bereid dit verzoek in te trekken? Is de regering bereid deze vragen voor de Algemene Beschouwingen te beantwoorden? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1 en 2" voetnoot="2">Op 16 juli 1992 is een brief van de ministeries van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Welzijn, Volksgezondheid en Cultuur naar de Stuurgroep Experimenten Volkshuisvesting (SEV) gezonden, waarin wordt gewezen op het kabinetsstandpunt inzake wonen en zorg. Voor het kabinetsstandpunt terzake wordt verwezen naar de adviesaanvraag van de minister van WVC aan de Ziekenfondsraad van 14 juli, waarvan de Tweede Kamer een afschrift is gestuurd'. Tevens wordt verwezen naar de memorie van toelichting bij de begroting 1993 van WVC en van VROM <voetnoot nummer="2"/>. In afwachting van de uitwerking van het kabinetsstandpunt is de SEV verzocht om de toewijzing van de betreffende projecten op te schorten omdat aan de reguliere beoordelingstermijn van vier weken niet kon worden voldaan </antwoord>
+      <antwoord nummer="3">Het is afhankelijk van de verdere uitwerking van het kabinetsstandpunt of projecten zoals in de brief aan de SEV genoemd, onder het werkingsgebied van de huidige regelgeving zullen blijven vallen Daarom zou het op dit moment toekennen van de experimenteerstatus aan deze projecten strijdig zijn met het uitgangspunt van het experimenteerbeleid, dat gericht is op implementatie van de resultaten van geslaagde projecten. </antwoord>
+      <antwoord nummer="4">Neen, de redenen voor het verzoek zijn onverkort van kracht. </antwoord>
+      <antwoord nummer="5" voetnoot="1 1">Ja. <voetnoot nummer="1"/> Ter inzage gelegd bij de afdeling Parlementaire Documentatie. <voetnoot nummer="1"/> Kamerstukken II, 22 800 XVI en 22 800 XI. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

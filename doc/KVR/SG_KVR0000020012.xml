@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="9">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001626</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001626&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001626</item>
+         <item attribuut="Document-id">0000020012</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 608</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Sipkes (Groen Links) over het overlijden van een zwangere Zairese asielzoekster.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 608</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">608</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Sipkes</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-05-04</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Kosto</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-05-21</item>
+         <item attribuut="Beginpagina">1277</item>
+         <item attribuut="Eindpagina">1278</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1277" allpagenumbers="1277" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="608" onderwerp="het overlijden van een zwangere Zalrese asielzoekster." indiendatum="1992-05-4">
+         <vrager partij="Groen Links" oorsprong="parlement">Sipkes</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-05-21">
+         <antwoorder functie="Staatssecretaris" ministerie="Justitie">Kosto</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="9">
+      <vraag nummer="1">Hebt u kennis genomen van de door Vluchtelingenwerk ingediende klacht inzake het overlijden van een zwangere Zairese asielzoekster?' Heeft deze Zairese met haar gezin vier dagen doorgebracht in de transitruimte van Schiphol? </vraag>
+      <vraag nummer="3">Zijn op haar herhaaldelijk verzoek om een piek om te liggen, slechts dekens verstrekt? </vraag>
+      <vraag nummer="4">Is het gebruikelijk, dat asielzoekers die een of meerdere nachten in de transitruimte verblijven niet kunnen beschikken over een bed of matras? </vraag>
+      <vraag nummer="5" voetnoot="2">Zo ja, zijn de passantenkamers op Schiphol, waarin volgens uw antwoorden op vragen van 15 juli 1991 <voetnoot nummer="2"/> tien stoelen en tien bedden staan, niet langer in gebruik? </vraag>
+      <vraag nummer="6">Bent u van mening, dat de medische begeleiding naar aanleiding van de klachten van de zwangere vrouw op Schiphol en in het grenshospitium tekort is geschoten? </vraag>
+      <vraag nummer="7">Waarom heeft in het grenshospitium geen uitvoerig medisch onderzoek van de vrouw plaatsgevonden? </vraag>
+      <vraag nummer="8">Was het medisch nog verantwoord om de zwangere vrouw naar het Opvangcentrum in Nijeveen te laten reizen? Op welke wijze wordt er zorggedragen voor een goede opvang en begeleiding van de echtgenoot en de kinderen van de overleden vrouw? 10 Heeft de echtgenoot toestemming gegeven tot het verrichten van autopsie op zijn overleden vrouw? Is hij in kennis gesteld van de resultaten? </vraag>
+      <vraag nummer="11">Welke maatregelen gaat u treffen teneinde asielzoekers met klachten van medische aard die in de transitruimte of in het grenshospitium verblijven de juiste verzorging te bieden? </vraag>
+      <vraag nummer="12">Bent u bereid de resultaten van het onderzoek naar de doodsoorzaak van de Zairese asielzoekster door de Algemene Geneeskundige Inspectie aan deze Kamer te doen toekomen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Volkskrant van april 1992</noot>
+         <noot nummer="2"> Aanhangsel Handelmgen nr. 737, Vergaderjaar 1990-1991</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="9">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Ja. Van een herhaaldehjk verzoek zoals in de vraag bedoeld heb ik tot nu toe geen bevestiging kunnen krijgen. Dit punt zal verder worden betrokken bij het in mijn brief van heden aan de Voorzitter van de Tweede Kamer der Staten-Generaal aangekondigde rijksrecherche-onderzoek (Kamerstuk 22 300 VI, nr42) </antwoord>
+      <antwoord nummer="4">Ja. Men slaapt op de in de transitruimte aanwezige banken. </antwoord>
+      <antwoord nummer="5">In deze ruimte worden geen asielzoekers ondergebracht, omdat de bewegingsvnjheid zeer beperkt is. De kamers zijn afgesloten, waardoor men zich niet vrij in de transitruimte kan bewegen. </antwoord>
+      <antwoord nummer="6">Op de luchthaven Schiphol is er geen medische begeleiding geweest Voor wat betreft de medische begeleiding in het grenshospitium sluit ik mij aan bij de bevindingen hieromtrent in het rapport van de Geneeskundige Inspecties. </antwoord>
+      <antwoord nummer="7">Er heeft in het grenshospitium </antwoord>
+      <antwoord nummer="10">Ja. </antwoord>
+      <antwoord nummer="11">Ik zie geen aanleiding om de huidige regelingen anders aan te passen dan in mijn brief van heden aan de Voorzitter van de Tweede Kamer der Staten-Generaal over dezelfde kwestie is aangegeven. </antwoord>
+      <antwoord nummer="12">De minister van Welzijn, Volksgezondheid en Cultuur, heeft u heden het gevraagde rapport - vertrouwelijk - doen toekomen. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1">)</noot>
+         <noot nummer="1"> Ter inzage gelegd op de bibliotheek</noot>
+      </noten>
+   </antwoorden>
+</kvr>

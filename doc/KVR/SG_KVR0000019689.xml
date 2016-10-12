@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="1">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001303</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001303&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001303</item>
+         <item attribuut="Document-id">0000019689</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 290</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Sipkes (Groen Links) over de VN-functionarissen in Noord-lrak.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 290</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">290</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Sipkes</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-12-20</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-01-13</item>
+         <item attribuut="Beginpagina">593</item>
+         <item attribuut="Eindpagina">594</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="593" allpagenumbers="593" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="'s-Gravenhage 1992"/>
+      <vraagdata vraagnummer="290" onderwerp="de VN-functionarissen in Noord-lrak." indiendatum="1991-12-20">
+         <vrager partij="Groen Links" oorsprong="parlement">Sipkes</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1 3 j a n u a n 1992">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">Van den Broek</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="1">
+      <vraag nummer="1">Zullen VN-functionarissen die in Noord-lrak gestationeerd zijn volgende maand teruggetrokken worden, indien er op korte termijn geen financiële middelen voor hun onderhoud beschikbaar komt?' Zo ja, is het juist dat door het gebrek aan fondsen in de komende dagen reeds een reductie van het aantal functionarissen zal plaatsvinden en dat het gebrek aan fondsen onder andere te wijten is aan het feit dat België, Itaiie, Portugal, Spanje en de Europese Commissie de toegezegde financiële hulp nog niet betaald hebben? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1" voetnoot="1">  e n 2 Inderdaad zijn half december enkele tientallen VN-guards uit Noord-lrak teruggetrokken als gevolg van een tekort aan financiële middelen. Dit tekort was ontstaan doordat enerzijds een aantal toezeggingen nog niet waren gehonoreerd en anderzijds de kosten voor de VN-bewakingseenheid hoger uitvielen dan geraamd. Inmiddels heeft een aantal landen, waaronder Nederland, additionele fondsen beschikbaar gesteld. Een negentigtal nieuwe VN-guards zal binnenkort naar Noord-lrak kunnen vertrekken. De financiële situatie met betrekking tot de VN-bewakingseenheid blijft evenwel precair indien nieuwe bijdragen onverhoopt mochten uitblijven. Zo ja, bent u bereid als voorzitter van de Algemene Raad van de Europese Gemeenschap zowel bij uw collega's van België, Italië, Portugal en Spanje als bij de Europese Commissie er op aan te dringen de toegezegde financiële hulp met spoed aan de VN te voldoen zodat de operatie in Noord-lrak ter bescherming van de Koerdische bevolking voortgezet kan worden? <voetnoot nummer="1"/> NRC van 18 december jl. Geheel in de geest van de onderhavige vraag heeft het Nederlandse EG-Voorzitterschap de nodige inspanningen ontplooid </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="precies betekent?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Verdonk (Verdonk) aan de minister van Verkeer en Waterstaat over de verwarring rond de vermelding van de bevoegdheid tot besturen van een tractor op het rijbewijs. (Ingezonden 16 april 2008)</item>
+         <item attribuut="Bestand">11Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V070818040
+</item>
+         <item attribuut="Inhoud">Vragen over de betekenis van T met een streep erdoor op het rijbewijs.</item>
+         <item attribuut="Rubriek">Landbouw (Landbouwwerktuigen) Verkeer, vervoer en waterstaat (Verkeersveiligheid)</item>
+         <item attribuut="Trefwoorden">Landbouwers Rijbewijzen</item>
+         <item attribuut="Vindplaats">Kamervragen 2007-2008, vraagnr. 2070818040, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070818040</item>
+         <item attribuut="Indiener">
+            <persoon partij="Verdonk">Verdonk</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2008-04-16</item>
+         <item attribuut="Tekstcorrecties">In de voetnoot wordt verwezen naar Bijlage 1, maar die ontbreekt.</item>
+         <item attribuut="Document-id">V070818040</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0708tkkvl2070818040" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="2070818040" onderwerp="" indiendatum="2008-04-16">
+         <vrager partij="Verdonk" oorsprong="parlement">Verdonk</vrager>
+         <vraagt-aan>de minister van Verkeer en Waterstaat</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1" voetnoot="1">Bent u op de hoogte van de verwarring die rond de vermelding van de bevoegdheid tot het besturen van een tractor op het rijbewijs bestaat bij bestuurders van tractoren? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Bent u bereid voor bestuurders van tractoren duidelijker te maken wat T met een streep erdoor in het rijbewijs </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1">Bijlage 1</noot>
+      </noten>
+   </antwoorden>
+</kvr>

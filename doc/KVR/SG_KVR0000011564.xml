@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001260</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001260&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001260</item>
+         <item attribuut="Document-id">0000011564</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 330</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Rempt-Halmmans de Jongh (VVD) over het besloten mondeling overleg met de vaste Commissie voor economische zaken.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 330</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">330</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Rempt-Halmmans de Jongh</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-02-05</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Andriessen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-02-10</item>
+         <item attribuut="Beginpagina">675</item>
+         <item attribuut="Eindpagina">676</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="675" allpagenumbers="675" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="'s Gravenhage 1993"/>
+      <vraagdata vraagnummer="330" onderwerp="het besloten mondeling overleg met de vaste Commissie voor economische zaken." indiendatum="1993-02-5">
+         <vrager partij="VVD" oorsprong="parlement">Rempt-Halmmans de Jongh</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="10februari 1993">
+         <antwoorder functie="minister" ministerie="Economische Zaken">Andriessen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Heeft de minister, na het besloten mondeling overleg met de vaste commissie voor EZ op 2 februari, in het openbaar, namelijk in een persconferentie, dezelfde mededelingen gedaan als in het mondeling overleg? In het overleg heb ik - anders dan in het openbaar - ook concrete gegevens verstrekt over de voorgenomen reddingsoperatie, onder andere over benodigde financiële middelen en de bijdragen die met name genoemde partijen daarin zouden hebben moeten leveren. </vraag>
+      <vraag nummer="2">De informatie zoals hierboven beschreven, beschouw ik als vertrouwelijke bedrijfsgegevens. Ook achteraf gezien zijn mijns inziens de motieven voor het verzoek tot een besloten overleg voor de volle 100 procent geldig Zo ja, zijn de motieven die de minister conform artikel 24 van het Reglement van Orde gaf bij zijn verzoek om beslotenheid van het mondeling overleg, achteraf ongeldig gebleken? </vraag>
+      <vraag nummer="3">Mag worden aangenomen dat het verborgen motief van de minister voor dit verzoek, niet is om Kamerleden monddood te maken? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1">Het verzoek om een besloten mondeling overleg te houden heb ik gedaan, omdat in dat overleg vertrouwelijke bedrijfsgegevens naar voren zouden komen. Ik heb voor verzoeken als deze geen verborgen motieven. Verzoeken als deze worden ingegeven door de wens om de Staten-Generaal in een open sfeer volledig te kunnen informeren en op nadere vragen zonder terughoudendheid te kunnen antwoorden. Daarom heb ik er de voorkeur aan gegeven de Kamer een - openbare - brief te sturen en deze in een besloten overleg nader toe te lichten. Ik meen ook dat niet alleen mijn ervaringen, maar ook die van de vaste Commissie, met dergelijke besloten overleggen positief zijn. Dit geeft aan dat in het algemeen een goed evenwicht kan worden gevonden tussen het uitgangspunt van openbaarheid van het werk van de Kamer enerzijds en de bescherming van vertrouwelijke bedrijfsgegevens anderzijds. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

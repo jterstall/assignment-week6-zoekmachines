@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Agema (PVV) aan de staatssecretaris van Volksgezondheid, Welzijn en Sport over het bericht dat veel verzorgingshuizen, kinderdagverblijven en woningcomplexen niet hitteproof zijn. (Ingezonden 17 juli 2007); Antwoord</item>
+         <item attribuut="Bestand">13Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR29135
+</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van een artikel in De Limburger van 15 juli 2007 'Zorgen GGD over hittegolf'. Wanneer zijn verzorgingshuizen, kinderdagverbijven en woningcomplexen wel hitteproof.</item>
+         <item attribuut="Rubriek">Gezondheidszorg (Zorginstellingen) Voortgezet onderwijs (Schoolbestuur) Welzijn (Kinderopvang)</item>
+         <item attribuut="Trefwoorden">Kinderopvang Verzorgingshuizen Woningen</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2006-2007, nr. 2461, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2060721180</item>
+         <item attribuut="Afkomstig_van">Volksgezondheid, Welzijn en Sport (VWS)</item>
+         <item attribuut="Indiener">
+            <persoon partij="PVV">Agema</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2007-08-22</item>
+         <item attribuut="Datum_indiening">2007-07-17</item>
+         <item attribuut="Document-id">KVR29135</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2006–2007" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="5205" allpagenumbers="5205" vetnummer="2060721180" code="0607tkkvr2461" lopendefooter="Tweede Kamer, vergaderjaar 2006–2007, Aanhangsel" filenaam="KVR29135" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2007"/>
+      <vraagdata vraagnummer="2461" onderwerp="" indiendatum="2007-07-17">
+         <vrager partij="PVV" oorsprong="parlement">Agema</vrager>
+         <vraagt-aan>de staatssecretaris van Volksgezondheid, Welzijn en Sport</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2007-08-22">
+         <antwoorder functie="staatssecretaris" ministerie="Volksgezondheid, Welzijn en Sport">Bussemaker</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Bent u bekend met het bericht <voetnoot nummer="1"/>dat veel verzorgingshuizen, kinderdagverblijven en woningcomplexen niet hitteproof zijn? </vraag>
+      <vraag nummer="2">Kunt u verklaren waarom dat nog niet het geval is? Zo neen, waarom niet? </vraag>
+      <vraag nummer="3">Wanneer zijn verzorgingshuizen, kinderdagverblijven en woningcomplexen wel hitteproof? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="2007-07-15" bron="www.limburger.nl, " titel="Zorgen GGD over hittegolf">www.limburger.nl, «Zorgen GGD over hittegolf», 15 juli 2007</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja, hiermee ben ik bekend. GGD Noord en Midden Limburg heeft preventief aan het begin van de maand juli de gemeenten, kinderdagverblijven, ziekenhuizen en huisartsen aangeschreven. De zomer stond voor de deur en het hitteplan was landelijk in het nieuws, dat was de aanleiding voor de mailing aldus de GGD. Met deze mailing is naast een brief ook één geplastificeerde A4 kaart aangeboden (met tips bij hitte), die in de instelling aan het prikbord gehangen kon worden in geval van hitte. </antwoord>
+      <antwoord nummer="2">Er is geen «keurmerk hitteproof». Klimaatbeheersing vraagt om een breder scala aan maatregelen dan de aanwezigheid van koelinstallaties en airco’s. Er zijn andere (bouw)technische maatregelen mogelijk en ook zijn er tal van zorggerelateerde maatregelen te nemen. Het College bouw zorginstellingen heeft hierover in een rapport adviezen gegeven voor zorginstellingen. In dit rapport is een scala aan mogelijkheden gepresenteerd hoe de temperatuur in een gebouw gereguleerd kan worden. De keuze voor een systeem is afhankelijk van het gebouw. </antwoord>
+      <antwoord nummer="3">Het is aan zorgaanbieders en beheerders zelf om te bepalen hoe ze in hun instelling omgaan met koelen van ruimten. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

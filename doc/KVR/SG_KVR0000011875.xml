@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001571</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001571&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001571</item>
+         <item attribuut="Document-id">0000011875</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 641</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Willems (GroenLinks) over BVD-informant C. v. L.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 641</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">641</item>
+         <item attribuut="Indiener">
+            <persoon partij="GroenLinks">Willems</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-05-26</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Dales</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-06-11</item>
+         <item attribuut="Beginpagina">1309</item>
+         <item attribuut="Eindpagina">1310</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1309" allpagenumbers="1309 1310" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="641" onderwerp="BVD-informant C. v. L." indiendatum="1993-05-26">
+         <vrager partij="GroenLinks" oorsprong="parlement">Willems</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-06-11">
+         <antwoorder functie="minister" ministerie="Binnenlandse Zaken">Dales</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="12">
+      <vraag nummer="1" voetnoot="1 2">Hebt u kennis genomen van de activiteiten van een informant, c.q. infiltrant van de BVD, de Nijmegenaar C.v.L, die onder meer bekend was onder de naam Homerus? <voetnoot nummer="1"/>Heeft deze man zichzelf bekend gemaakt als BVD-informant? Heeft hij een uitgebreid schriftelijk verslag gemaakt van zijn activiteiten als informant voor de BVD? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="3">Hebt u er kennis van genomen, dat C.v.L., geconfronteerd met diens activiteiten in het desbetreffende radioprogramma Argos, voor verdere informatie naar de BVD heeft doorverwezen? Mag daaruit worden afgeleid dat C.v.L. in opdracht van de BVD werkte? </vraag>
+      <vraag nummer="4">Is er een verzoek gedaan vanuit de BVD om een deel van het proces dat tegen betrokken BVD-informant was aangespannen wegens twee overvallen op een postagentschap in Brabant, achter gesloten deuren te houden? Zijn de contacten tussen de BVD en betrokkene na de veroordeling voortgezet? </vraag>
+      <vraag nummer="5">Waarom verwijst de Nijmeegse PID-chef Oolbekkink voor informatie over C.v.L. naar de BVD? In welke mate was de PID betrokken bij diens activiteiten? </vraag>
+      <vraag nummer="6">Is de veroordeling van betrokkene voor zijn aandeel in een poging tot brandstichting bij een internationale politietentoonstelling naar aanleiding van het 20-jarig jubileum van de Nijmeegse afdelmg van de International Police Association in mei 1979, voor de BVD geen reden geweest de contacten met hem te verbreken? Waarom niet? </vraag>
+      <vraag nummer="7">Is er in maart 1993 contact geweest tussen de BVD en het Huis van Bewaring in Almelo om te bewerkstelligen dat C.v.L. eerder vrij kwam? </vraag>
+      <vraag nummer="8" voetnoot="3">Is er contact geweest tussen de BVD en het GAK over de verstrekking van een uitkering aan betrokkene, ook gedurende zijn detentie? Zo ja, wat is uw oordeel daarover? Is betrokkene in de periode 1978-1990 actief geweest in actiegroepen als het Rood Verzetsfront, de anti-kernenergiebeweging en de kraakbeweging? 10 Heeft deze man regelmatig geprobeerd actiegroepen aan te zetten tot gewelddadige handelingen waaronder bomaanslagen? <voetnoot nummer="3"/>
+      </vraag>
+      <vraag nummer="11">Was de BVD op de hoogte van de handelwijze van deze man? </vraag>
+      <vraag nummer="12">Heeft de BVD opdracht gegeven voor de activiteiten van C.v.L, dan wel er achteraf goedkeuring aan gegeven? Kreeg betrokkene voor zijn activiteiten een vergoeding? </vraag>
+      <vraag nummer="13" voetnoot="1">Is besloten tot het grootschalige politieoptreden bij de ontruiming van het «vrouwenkraakpand» aan de Prof. Schrijnenstraat in Nijmegen in maart 1980 op grond van informatie afkomstig van betrokken informant? 14 Wordt C.v.L. bij de actie in de Prof. Schrijnenstraat «de organisator van de verdediging» genoemd? Zette hij daarbij aan tot het plegen van geweld? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="15">Had mede dankzij informatie van C.v.L. het politieoptreden bij de actie rond de Piersonstraat, eveneens in Nijmegen, een extra grootschalig karakter? </vraag>
+      <vraag nummer="16">Hoe beoordeelt u in het licht van de feiten zoals die in de documentaire over C.v.L. naar voren komen. Kan uw eerder gedane uitspraak «De BVD is gehouden zijn taak uit te oefenen in gebondenheid aan de wet. Het zou vanzelfsprekend ontoelaatbaar zijn dat deze dienst zou uitlokken tot het plegen van strafbare feiten. De BVD past een </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1"> t/m  16 Ik heb kennis genomen van het programma Argos van de VPRO-radio dat op vrijdag 21 mei 1993 werd uitgezonden. Dat programma ging over een vermeende BVD-informant, die in de uitzending Homerus, dan wel Rob Kamphuis werd genoemd. De VPRO heeft in het programma zorgvuldig vermeden de bij hun bekende identiteit van deze vermeende BVD-informant openbaar te maken. Kennelijk wilde men de privacy van betrokkene eerbiedigen of misschien ook wilde men het risico vermijden zich schuldig te maken aan een misdrijf door het openbaren van een staatsgeheim. Om gelijksoortige redenen kan ik in het openbaar geen antwoord geven op deze vragen. Er is immers geen antwoord mogelijk zonder een impliciete erkenning danwel ontkenning van een informantenrol van iemand die door u is aangeduid als C.v.L. Dit gegeven dient nu juist geheim te blijven. Het is van essentieel belang voor het goed functioneren van de BVD en daarmee voor de veiligheid van de Staat dat geheim is en blijft wie wel of niet als informant van de dienst optreedt of is opgetreden. Ik wijs in dit verband ook op de wettelijke verschoningsplicht van het Hoofd van de BVD en de op hem rustende zorgplicht met betrekking tot de veiligheid van de personen met wier medewerking gegevens worden verzameld. Ik zal de gestelde vragen in de beslotenheid van de vaste </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

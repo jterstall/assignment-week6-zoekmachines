@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001270</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001270&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001270</item>
+         <item attribuut="Document-id">0000019656</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 257</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Schimmel (D66) over arbeidsomstandigheden in agrarische sectoren.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 257</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">257</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Schimmel</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-11-29</item>
+         <item attribuut="Beantwoorder">
+            <persoon>De Vries</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-12-19</item>
+         <item attribuut="Beginpagina">523</item>
+         <item attribuut="Eindpagina">524</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="523" allpagenumbers="523 524" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's-Gravenhage 1992"/>
+      <vraagdata vraagnummer="257" onderwerp="arbeidsomstandigheden in agrarische sectoren." indiendatum="1991-11-29">
+         <vrager partij="D66" oorsprong="parlement">Schimmel</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1991-12-19">
+         <antwoorder functie="minister" ministerie="Sociale Zaken en Werkgelegenheid">De Vries</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1">Welke garantie bestaat er dat het initiatief van de bedrijfsgezondheidszorg in de bollenteelt - bedoeld in uw brief dd. 21 november 1991' - werkelijk toegankelijk is voor seizoens– en vakantiewerkers? Hoe ziet u de mogelijkheden voor illegale werknemers in de bollenteelt om een beroep op de bedrijfsgezondheidszorg te doen? </vraag>
+      <vraag nummer="2" voetnoot="2">Herinnert u zich uw toezegging <voetnoot nummer="2"/> om nog in 1990 een publicatieblad voor te bereiden inzake «arbeidshygiënisch werken met bestrijdingsmiddelen in de bollenteelt» dat als uitgangspunt voor toezicht en handhaving door de arbeidsinspectie zou dienen? Is dit zogenaamde P-blad inmiddels al tot stand gekomen? Zo nee, waarom niet? Zo ja, kunt u de Kamer dit doen toekomen? </vraag>
+      <vraag nummer="3" voetnoot="3">Bent u voornemens ook voor andere agrarische sectoren - zoals de in uw brief <voetnoot nummer="3"/> genoemde glastuinbouw, pootgoed-aardappelenteelt, fruitteelt en champignonteelt - de normen voor de arbeidsomstandigheden aan te scherpen via publikatiebladen? Zo ja, wanneer kunnen die tegemoet worden gezien? Zo nee, welke beleidsinstrumenten bent u dan voornemens in te zetten </vraag>
+      <vraag nummer="4" voetnoot="4">Kunt u de Kamer nader informeren over het onderzoek naar bepalingen in het Bestrijdingsmiddelen– en het Landbouwveiligheidsbesluit, die voor actualisering en aanscherping in aanmerking komen? <voetnoot nummer="4"/>
+      </vraag>
+      <vraag nummer="5">Bent u bereid - als de nodige aanpassingen pas op langere termijn kunnen worden verwezenlijkt - om, tegen de achtergrond van de chemicalisering van de landbouw, in het kader van een interim-regeling de bepalingen over toxische stoffen uit het Veiligheidsbesluit voor Fabrieken en Werkplaatsen van overeenkomstige toepassing te verklaren in het Landbouwveiligheidsbesluit? Zo nee, waarom niet? </vraag>
+      <vraag nummer="6">Acht u nader onderzoek naar de gezondheidseffecten van bestrijdingsmiddelen ook in de overige bij vraag 3 genoemde agrarische sectoren dringend gewenst? Zo ja, welke concrete voornemens heeft u om dergelijk onderzoek op korte termijn te laten plaatsvinden? Zo nee, waarom niet? </vraag>
+      <vraag nummer="7">Welke bestrijdingsmiddelen zijn inmiddels herbeoordeeld op hun toelaatbaarheid? Tot welke inzichten en maatregelen heeft dit geleid? Welke maatregelen denkt u in de komende drieënhalf jaar nog te nemen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Brief van de minister van Sociale Zaken en Werkgelegenheid dd. 21 november 1991 met betrekking tot de invoering BGZ in de bloembollenteelt</noot>
+         <noot nummer="2"> Brief van de minister van Sociale Zaken en Werkgelegenheid dd 5 april 1990 (21 507, nr. 1) en Verslag van een Mondeling Overleg dd. 2 juli 1990 (21 300 XV, nr. 2)</noot>
+         <noot nummer="3"> Idem als 2</noot>
+         <noot nummer="4"> Idem als 2</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">De toegankelijkheid van bedoelde bedrijfsgezondheidszorg voor seizoens– en vakantiewerkers wordt gegarandeerd door een schriftelijk vastgelegde toezegging van het Landbouwschap. Bij mijn beoordeling van de ontwikkeling van de bedrijfsgezondheidszorg in de bollenteelt zal ik specifiek aandacht schenken aan de realisatie van deze toezegging. Afgaande op de toezegging van het Landbouwschap is het ook voor illegale werkers mogelijk beroep te doen op de zorg. Het is echter voorstelbaar dat juist in bedrijven waar illegalen in dienst zijn de werkgever een negatieve houding richting de aangeboden BGZ inneemt. </antwoord>
+      <antwoord nummer="2" voetnoot="2">Het CP-blad «Werken met bestrijdingsmiddelen in de Arbeidsomstandighedenwet. In dit stadium kan ik de Kamer nog geen mededelingen doen over de resultaten van het onderzoek. <voetnoot nummer="2"/> Ter inzage gelegd op de bibliotheek. Ik ben bereid, door middel van een interim-regeling, de bepalingen in het Landbouwveiligheidsbesluit ten aanzien van werken met toxische stoffen aan te scherpen tot het niveau van het Veiligheidsbesluit voor Fabrieken of Werkplaatsen 1938. Het is echter te vroeg thans te beslissen over de vorm waarin zulks geëffectueerd kan worden. </antwoord>
+      <antwoord nummer="6">Een meerjarenplan ter uitvoering van dergelijk onderzoek is in opdracht van het ministerie van Sociale Zaken en Werkgelegenheid inmiddels door het Medische Biologisch Laboratorium van TNO voorbereid. Door de Directeur Generaal van de Arbeid zal over de uitvoering van dit onderzoeksplan met het Landbouwschap overleg worden gevoerd teneinde het landbouwbedrijfsleven te doen meefinancieren. </antwoord>
+      <antwoord nummer="7">In opdracht van het ministerie van Sociale Zaken en Werkgelegenheid beoordeelt het Advies Centrum Chemische Arbeidsomstandigheden-TNO de werkzame stoffen in voor de bollenteelt toegelaten grondontsmettings– en plantgoedontsmettingsmiddelen op mogelijke schadelijke nevenwerkingen. Dit onderzoek omvat de bestrijdingsmiddelen welke </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

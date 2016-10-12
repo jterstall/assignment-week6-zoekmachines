@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="overschrijdende wandelwegen in het " aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19841985:0001724</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19841985:0001724&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19841985:0001724</item>
+         <item attribuut="Document-id">0000123696</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1984-1985 nummer 604</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Mateman en Van der Linden (beiden C.D.A.) over grensoverschrijdende wandelpaden.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1984-1985 nummer 604</item>
+         <item attribuut="Jaargang">1984_1985</item>
+         <item attribuut="Vraagnummer">604</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Mateman</persoon>
+            <persoon partij="CDA">Van der Linden</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1985-02-15</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Korte-van Hemel</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1985-03-14</item>
+         <item attribuut="Beginpagina">1195</item>
+         <item attribuut="Eindpagina">1196</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1984-1985 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1984-1985, Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="604" onderwerp="grensoverschrijdende wandelpaden." indiendatum="15 februari 1985)">
+         <vrager partij="CDA" oorsprong="parlement">Mateman</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Van der Linden</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1 ">Is het waar, dat de regeringen van de  Bondsrepubliek en van België een  overeenkomst gesloten hebben inzake  het gebruik zonder paspoort van een  aantal grensoverschrijdende wandel- paden ten zuiden van Aken?  </vraag>
+      <vraag nummer="2 ">Is het waar, dat ook in het Nederland- se-Duitse grensgebied in Limburg  behoefte bestaat aan eenzelfde  regeling?  Nederlands-Duitse grensgebied. Deze  wegen, die zich ook in het Nederlands- Duitse grensgebied in Limburg  bevinden, kunnen worden gebruikt  door onderdanen van de lid-staten  der EG, met dien verstande dat het  bezit van een geldig grensoverschrij- dingsdocument bij grenspassage  verplicht is.  </vraag>
+      <vraag nummer="3 ">Zie antwoord op vraag 2. Ik teken  hierbij aan dat de op 11 april 1960  tussen de Beneluxlanden gesloten  overeenkomst inzake de verlegging  van de personencontrole naar de  buitengrenzen van het Beneluxgebied  een dergelijke regeling tussen België  en Nederland overbodig maakt.  Is de regering bereid, internationale  overeenkomsten terzake te sluiten  met de regeringen van de Bondsrepu- bliek en van België?  Antwoord  Antwoord van Staatssecretaris  Korte-van Hemel (Justitie). (Ontvan- gen 14 maart 1985)  </vraag>
+      <vraag nummer="1 ">Nee. Personen, die gebruik mogen  maken van grensoverschrijdende  wandelwegen tussen België en de  Bondsrepubliek Duitsland, dienen in  het bezit te zijn van een geldig  grensoverschrijdingsdocument.  </vraag>
+      <vraag nummer="2 ">Tussen Nederland en de Bondsrepu- bliek Duitsland bestaat reeds een  regeling tot het instellen van grens- </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

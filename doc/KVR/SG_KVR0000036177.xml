@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001770</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001770&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001770</item>
+         <item attribuut="Document-id">0000036177</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 846</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het de leden K. Zijlstra en Stemerdink (beiden P.v.d.A.) over bestraalde hoogverrijkte splijtstoffen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 846</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">846</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">K. Zijlstra</persoon>
+            <persoon partij="PvdA">Stemerdink</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-05-30</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Andriessen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-08-14</item>
+         <item attribuut="Beginpagina">1709</item>
+         <item attribuut="Eindpagina">1710</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1709" allpagenumbers="1709 1710" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgevenj 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="846" onderwerp="bestraalde hoogverrijkte splijt– stoffen." indiendatum="1990-05-30">
+         <vrager partij="PvdA" oorsprong="parlement">K. Zijlstra</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Stemerdink</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="14 augustus 1990), zie ook aanhangsel Handelingen nr. 755, vergaderjaar 1989-1990">
+         <antwoorder functie="minister" ministerie="Economische Zaken">Andriessen</antwoorder>
+         <mede-antwoorder>de ministers van Buitenlandse Zaken en van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer (Ontvangen 14 augustus 1990), zie ook aanhangsel Handelingen nr</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="8">
+      <vraag nummer="1">Kunnen de in de onderzoeksreac– toren te Petten en Delft bestraalde hoogverrijkte splijtstoffen niet meer naar de Savannah River Plant in de V.S. worden teruggestuurd? Zo neen, wat is daarvan de reden? </vraag>
+      <vraag nummer="2">Zijn reeds bestraalde hoogverrijkte splijtstoffen uit deze reactoren op grond van de verstrekte transportver– gunning naar de kernmstaüatie UKAEA Dounreay in Schotland verzonden?' </vraag>
+      <vraag nummer="3">Voeren Euratom (de beheerder van de hoge fluxreactor te Petten) en AEA Fuel Services (voor de opwer– kingsfabriek te Dounreay) onderhan– delingen in deze aangelegenheid? Zo ja, wat houden die in? </vraag>
+      <vraag nummer="4">Wat zal bij afvoer van bestraalde hoogverrijkte splijtstof naar Dounreay daarmee verder gebeuren? Kan de regering garanderen, dat de bestraalde splijtstof op generlei wijze bij de productie van kernwapens wordt betrokken? </vraag>
+      <vraag nummer="6" voetnoot="2">Indien de bestraalde splijtstof in Dounreay wordt opgewerkt, wat zal dan de uiteindelijke bestemming zijn van zowel de opgewerkte splijtstof als het door opwerking ontstane radio-actieve afval? Wordt voor bestralingsinstrumenten in de hoge fluxreactor te Petten gebruik gemaakt van 60 uitgewerkte splijtstofelementen van 0,2 kg per element? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="8">Hoeveel splijtstofelementen bevmden zich op dit ogenblik in de reactorkern en in het opslagbassin van de hoge fluxreactor? </vraag>
+      <vraag nummer="9">Hoeveel uitgewerkte splijtstofele– menten kunnen op zijn hoogst in het opslagbassin opgeslagen worden? </vraag>
+      <vraag nummer="10">Hoeveel splijtstofelementen zijn sedert 1980 jaarlijks vanuit de hoge fluxreactor naar de Savannah River Plant afgevoerd? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Zie het jaarlijks overzicht van vervoer van bestraalde en/of hoogverrijkte splijtstoffen, kamerstuk no. 20 607, nr. 11</noot>
+         <noot nummer="2"> Zie F. de Meulmeester, rapport ECN 89-044 UKAEA = United Kingdom Atom Energy Authority AEA = Atom Energy Authority</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1">De in de onderzoeksreactoren te Petten en Delft bestraalde hoogver– rijkte splijtstofelementen kunnen inderdaad voorlopig niet terug worden gezonden naar de Verenigde Staten. Teneinde tegemoet te komen aan de eisen van de National Environmental Policy Act worden zogenaamde «environmental assess– ments» uitgevoerd. Eind 1988 heeft het Department of Energy hangende dit onderzoek, de terugname van bestraalde hoogverrijkte splijtstofele– menten uit buitenlandse onderzoeks– reactoren opgeschort. Voor zover op dit moment bekend mag een beslissing van de Amerikaanse overheid tegen het eind van 1990 verwacht worden. </antwoord>
+      <antwoord nummer="2">Neen. </antwoord>
+      <antwoord nummer="3, 4 en 6">Zoals blijkt uit het antwoord, 1 mei 1990 van de Britse regering op een vraag uit het Britse parlement, is AEA Technology met name geïnte– resseerd in het afsluiten van opwer– kingscontracten met exploitanten van buitenlandse onderzoeksreac– toren. De Britse regering heeft in haar antwoord duidelijk gesteld dat actor in Petten, de Europese Commissie, worden inderdaad oriën– terende besprekingen gevoerd over het aanbod van AEA Technology, evenals dit door de eigenaren van andere Europese onderzoeksreac– toren geschiedt. Door de Britse regering is de verze– kering gegeven dat de installaties in Dounreay uitsluitend voor vreedzame doeleinden worden gebruikt. Aangezien tevens in het Verenigd Koninkrijk een strikte scheiding wordt gehanteerd tussen de civiele en militaire splijtstofcycli, zullen de uit de onderzoeksreactoren in Petten en Delft afkomstige bestraalde splijt– stoffen - zo deze naar Dounreay zouden worden afgezonden - direct noch indirect bij de produktie van kernwapens worden betrokken. </antwoord>
+      <antwoord nummer="7">Neen. De in het rapport van F.M. de Meulenmeester (ECN-89-944) beschreven faciliteit is nooit gereali– seerd. </antwoord>
+      <antwoord nummer="8, 9 en 10">Volgens opgave van de Europese Commissie, de eigenaar van de hoge fluxreactor, bevinden zich in de standaard configuratie van de reactorkern van de hoge fluxreactor 33 splijtstofelementen en zes regel– staven. Dit geldt eveneens voor de huidige bedrijfscyclus (situatie 1 juni 1990). Daarnaast heeft de Europese Commissie laten weten dat gegevens met betrekking tot het aantal opgeslagen bestraalde splijtstofele– menten, de totale opslagcapaciteit daarvan en het aantal naar de Verenigde Staten vervoerde </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

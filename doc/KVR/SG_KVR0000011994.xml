@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Nader antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001690</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001690&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001690</item>
+         <item attribuut="Document-id">0000011994</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 760</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Schriftelijke vragen van het lid Schutte (GPV) over het reclamevliegen op zondag.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 760</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">760</item>
+         <item attribuut="Indiener">
+            <persoon partij="GPV">Schutte</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-05-04</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Maij-Weggen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-07-15</item>
+         <item attribuut="Beginpagina">1551</item>
+         <item attribuut="Eindpagina">1552</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1551" allpagenumbers="1551" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat s Gravenhage 1993"/>
+      <vraagdata vraagnummer="760" onderwerp="het reclamevliegen op zondag." indiendatum="1993-05-4">
+         <vrager partij="GPV" oorsprong="parlement">Schutte</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="1">
+      <vraag nummer="1">Herinnert u zich uw brief van 21 juni 1991', waarin u het voornemen meldt een verbod voor het reclamevliegen op zondag voor te stellen? Waarom is de in 1990 opgestelde concept-regeling, waarvan de essentie een landelijk verbod voor sleepvluchten op zondagen is, nog steeds niet aan de Kamer voorgelegd? conform mijn toezegging aan de heer Schutte in antwoord op zijn vragen terzake. Het concept is tot stand gekomen in overeenstemming met mijn ambtgenoot van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer. In het concept zijn onder meer de voorstellen verwerkt van de Vereniging van Nederlandse Luchtvaart Ondernemingen (VNLO), die een zeer significante geluidsreductie opleveren. Het is mijn bedoeling dat de nieuwe regeling met ingang van 1 januari 1994 van kracht zal kunnen worden. Bent u bereid zo spoedig mogelijk de eerder gedane toezegging gestand te doen en een landelijk verbod voor sleepvluchten op zondag in te voeren? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"/>
+         <noot nummer="1"> Ter inzage gelegd op de Afdeling Parlementaire Documentatie</noot>
+         <noot nummer="1"> Brief aan de vaste Commissie voor Verkeer en Waterstaat (VW 91-448)</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

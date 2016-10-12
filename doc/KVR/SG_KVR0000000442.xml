@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19941995:0000442</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000442&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000442</item>
+         <item attribuut="Document-id">0000000442</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1994-1995 nummer 108</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Smits en Hillen (beiden CDA) over het mailinghouse APM in Zoetermeer.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1994-1995 nummer 108</item>
+         <item attribuut="Jaargang">1994_1995</item>
+         <item attribuut="Vraagnummer">108</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Smits</persoon>
+            <persoon partij="CDA">Hillen</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-09-19</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Vermeend</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-10-24</item>
+         <item attribuut="Beginpagina">215</item>
+         <item attribuut="Eindpagina">216</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1994-1995" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="215" allpagenumbers="215 216" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1994-1995, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="'s Gravenhage 1994"/>
+      <vraagdata vraagnummer="108" onderwerp="het mailinghouse APM in Zoetermeer." indiendatum="1994-09-19">
+         <vrager partij="CDA" oorsprong="parlement">Smits</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Hillen</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="24oktober1994) Alvorens in te gaan op de door u gestelde vragen merk ik voor de goede orde op dat de SENS een verzelfstandigde stichting is, met een eigen directie onder toezicht van een Raad van Commissarissen. In de Raad van Commissarissen is één commissaris van overheidswege vertegenwoordigd.">
+         <antwoorder functie="staatssecretaris" ministerie="Financiën">Vermeend</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="9">
+      <vraag nummer="1" voetnoot="1">Kent u het recente bericht <voetnoot nummer="1"/> inzake het mailinghouse APM in Zoetermeer? Dreigt de Staatsloterij schade te lijden als gevolg van het faillissement van APM? Om welk bedrag gaat het? </vraag>
+      <vraag nummer="3">Is deze schade (mede) ontstaan als gevolg van dubieuze praktijken van APM met betrekking tot PTT-kredietnummers? </vraag>
+      <vraag nummer="4">Zijn er afspraken gemaakt tussen APM, de curator en (de directeur van) de Staatsloterij over afwikkeling van de schade? Hoe luiden deze afspraken? </vraag>
+      <vraag nummer="5">Is de directeur van de Staatsloterij mede-eigenaar geweest van APM? Wat was de omvang van dit belang en overwelke periode? </vraag>
+      <vraag nummer="6">Om welke redenen is de Staatsloterij juist met APM in zee gegaan? </vraag>
+      <vraag nummer="7">Is de directeur van de Staatsloterij op enigerlei wijze aanspreekbaar (geweest) op de handel en wandel van APM? </vraag>
+      <vraag nummer="8">Heeft de directeur van de Staatsloterij nog belangen in andere ondernemingen waarmee de Staatsloterij zakelijke banden onderhoudt? Zo ja, welke? Heeft hij deze belangen (vooraf) kenbaar gemaakt aan u of uw ambtsvoorganger(s)? </vraag>
+      <vraag nummer="9">Is vermenging van belangen wel acceptabel gezien dat de Staatsloterij onkreukbaarheid uitstraalt? </vraag>
+      <vraag nummer="10">Deelt u de opvatting die de directeur volgens de perspublicatie heeft, namelijk dat hij in zijn functie zaken kan doen met ondernemingen waarin hij aandelen heeft? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> de Volkskrant van 13september 1994</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1">Ja. In opdracht van de raad van commissarissen van de SENS is door de externe accountant van de SENS (Moret Ernst &amp; Young) een onderzoek uitgevoerd. In het rapport van dit onderzoek, dat mij ter inzage is voorgelegd, is het volgende opgenomen. Op 31 december 1993 had de SENS een vordering op APM Zoetermeer BV ad f 420 000. Begin 1994 heeft een zgn. activa/passiva transactie vanuit APM Zoetermeer B.V. naar APM Computerservice B.V. plaatsgevonden. Hierrnee is de schuld aan de SENS (f 420 000,- per 31 december 1993) op laatstgenoemde vennootschap overgegaan. Met APM computerservice B.V. is vervolgens een afspraak gemaakt over aflossing van de nog uitstaande vordering. Conform deze afspraak wordt de bestaande vordering tot op heden afgebouwd. Binnen de SENS bestaat de verwachting dat de gehele vordering op voorheen APM Zoetermeer B.V., die per 30 september 1994 nog rond f 300 000,- bedroeg, geïncasseerd zal worden en de schade beperkt zal blijven tot renteverlies. Volgens het rapport van Moret, Ernst &amp; Young is vooralsnog niet gebleken dat het PTT-kredietnummer van de SENS is misbruikt. Nader onderzoek afgestoten voordat hij in april 1993 directeur van de verzelfstandigde SENS werd. Dit is vastgelegd in een overeenkomst, 30 december 1992. Hoewel er volgens de aanbiedingsbrief van het eerdergenoemde rapport geen sprake is van belangenverstrengeling, is de beperkte opzet van dit onderzoek voor mij niettemin aanleiding mijn departementale accountantsdienst een aantal punten nader te laten onderzoeken. Zodra dit onderzoek is afgerond zal ik u nader berichten. de betreffende perspublicatie wordt door de directie dan ook betreurd. In het rapport van Moret Ernst &amp; Young heeft ons het volgende medegedeeld. Voor wat de verzendacties in het kader van de werving van nieuwe loterijdeelnemers betreft, is de inschakeling geschied via een reclamebureau, dat van APM reeds gebruik maakt als onderleverancier. Bij de gegevensinvoer en verzendwerkzaamheden verband houdende met de operationele werkzaamheden van de SENS is vervolgens ook gekozen voor APM. Dit is gebeurd door vergelijk van schriftelijke offertes van een drietal leveranciers, alsmede op basis van de positieve ervaringen van de afdeling Marketing met de door APM reeds uitgevoerde werkzaamheden tot dan toe. Het betreft volgens het externe accountantsrapport een minderheidsbelang. De directeur van de SENS heeft aangegeven dat hij als minderheidsaandeelhouder geen </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

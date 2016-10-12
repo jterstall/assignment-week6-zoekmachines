@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001250</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001250&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001250</item>
+         <item attribuut="Document-id">0000027587</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 317</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden M. de Jong en Beinema (beiden C.D.A.) over kant en klaar maaltijden.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 317</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">317</item>
+         <item attribuut="Indiener">
+            <persoon>de Jong M.</persoon>
+            <persoon partij="CDA">Beinema</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-12-20</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Simons</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-01-21</item>
+         <item attribuut="Beginpagina">639</item>
+         <item attribuut="Eindpagina">640</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="639" allpagenumbers="639" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1991"/>
+      <vraagdata vraagnummer="317" onderwerp="kant en klaar maaltijden." indiendatum="1990-12-20">
+         <vrager partij="" oorsprong="parlement">de Jong M.</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Beinema</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1991-01-21">
+         <antwoorder functie="staatssecretaris" ministerie="Welzijn, Volksgezondheid en Cultuur">Simons</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Heb u kennis genomen van het onderzoek van de consumentenbond naar kant en klaar maaltijden? <voetnoot nummer="1"/>Acht u het feit, dat maaltijden niet voldoen aan de voedingsnormen aanleiding tot het nemen van maatregelen? Zo ja, tot welke? Zo neen, waarom niet? </vraag>
+      <vraag nummer="3">Is de conclusie van de consumen– tenbond juist, dat er een gerede kans is op voedselvergiftiging vanwege te hoge bewaartemperaturen op de verkooppunten? </vraag>
+      <vraag nummer="4">Zo ja, welke maatregelen bent u van plan te nemen teneinde dit te verbe– teren? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Voedingsnormen, dat wil zeggen minimumgehalten aan vitaminen zijn in het algemeen niet gesteld aan levensmiddelen. Indien het betref– fende levensmiddel een zeer belangrijk deel van de dagelijkse behoefte van een vitamine levert bij een gebruikelijke voeding, zou van een ondeugdelijk levensmiddel kunnen worden gesproken indien het gehalte aan dat vitamine tot een fractie van het gebruikelijke gehalte is teruggelopen. In dat geval kan worden opgetreden tegen het in de handel brengen van zulk een levens– middel. Van een dergelijke situatie is geen sprake in het door de Consu– mentenbond uitgevoerde onderzoek. </antwoord>
+      <antwoord nummer="3">In het geval van ernstige overschrijding van de koeltempe– ratuur bij bewaring van kant-en-klaar-maaltijden kan Inderdaad een kans op voedselver– giftiging ontstaan. </antwoord>
+      <antwoord nummer="4">Door de Hoofdinspectie Gezond– heidsbescherming wordt regelmatig op de temperatuur van bewaring op verkooppunten gecontroleerd. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

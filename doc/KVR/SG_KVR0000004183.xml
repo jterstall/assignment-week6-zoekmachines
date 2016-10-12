@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0001672</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001672&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001672</item>
+         <item attribuut="Document-id">0000004183</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 458</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Schutte (GPV) over buitenlandse loterijen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 458</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">458</item>
+         <item attribuut="Indiener">
+            <persoon partij="GPV">Schutte</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-03-30</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Kosto</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-04-21</item>
+         <item attribuut="Beginpagina">929</item>
+         <item attribuut="Eindpagina">930</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="929" allpagenumbers="929" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgeveri] Planti|nstraat 's Gravenhage 1994"/>
+      <vraagdata vraagnummer="458" onderwerp="buitenlandse loterijen." indiendatum="1994-03-30">
+         <vrager partij="GPV" oorsprong="parlement">Schutte</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-04-21">
+         <antwoorder functie="staatssecretaris" ministerie="Justitie">Kosto</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Heeft het Europese Hof voor Justitie uitspraak gedaan Inzake een door de Britse regering uitgevaardigd verbod van buitenlandse loterijen? Zo ja, wat is de strekking van deze uitspraak? <voetnoot nummer="1"/>Van welke buitenlandse loterijen is bekend dat zij ook in Nederland actief zijn? </vraag>
+      <vraag nummer="3">Biedt de uitspraak van het Europese Hof mogelijkheden voor Nederland om op te treden tegen buitenlandse loterijen op de Nederlandse markt? Zo ja, bent u voornemens op te treden? </vraag>
+      <vraag nummer="4">Welke mogelijkheden biedt de uitspraak van het hof om ook in Nederland meer inhoud te geven aan een terughoudend kansspelbeleid? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> NRC/Handelsblad 26 maart1994</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja. Het Hof is van oordeel dat het Britse verbod op het bevorderen van de deelneming aan «buitenlandse» nationale loterijen (vgl. artikel 1, aanhef en onder b, van de Wet op de kansspelen) onder de gegeven omstandigheden niet discriminatoir is en een gerechtvaardigde beperking vormt van het vrije dienstenverkeer in de  zin van  art.  59  van het Unie-Verdrag. Deze rechtvaardiging ligt volgens het Hof besloten in de bijzondere kenmerken van het kansspel en de daarmee verband houdende doelstellingen van nationale regelgeving op hetterrein van de kansspelen. </antwoord>
+      <antwoord nummer="2" voetnoot="1">Van de in het buitenland toegelaten loterijen is bekend dat de Süddeutsche Klassenlotterie en de Nordwest Deutsche Lotterie in Nederland actief zijn. Daarnaast is sprake van een ook anderszins illegaal aanbod vanuit het buitenland, zoals de «loterij-activiteiten» waarover de leden A. de Jong en Zijlstra op 30 november 1993 kamervragen hebben gesteld; deze vragen zijn door mij bij brief van 22 december 1993 beantwoord <voetnoot nummer="1"/>. Het Hof heeft in de situatie waarop de uitspraak betrekking had het aanbrengen van beperkingen met betrekking tot buitenlands aanbod op het terrein van kansspelen gerechtvaardigd geacht. Bij de strafrechtelijke handhaving van het verbod van artikel 1, aanhef en onder b, van de Wet op de kansspelen zal voorrang gegeven worden aan die activiteiten vanuit het buitenland die strijdig zijn met uitgangspunten van het Nederlandse kansspelbeleid, b.v., omdat de integriteit van het spel niet is verzekerd. Bij die prioriteitsstelling is voorts van belang dat in artikel 13 van de Grondwet neergelegde onschendbaarheid van het briefgeheim, in samenhang met de in het Wetboek van Strafvordering geregelde uitzonderingen daarop, met zich mee brengt dat vanuit het buitenland verzonden aanbiedingen om mee te spelen in buitenlandse loterijen niet steeds gemakkelijk als zodanig geïdentificeerd kunnen worden en mede daarom niet zonder meer in beslag kunnen worden genomen. </antwoord>
+      <antwoord nummer="4">Bij brief van 10 maart jl. </antwoord>
+      <antwoord nummer="2"> heb ik u geïnformeerd over het besluit van het Kabinet om het kansspelbeleid aan te scherpen. De uitspraak van het Hof staat de voorgenomen aanscherping niet in de weg. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Zie Aanh. Hand. TK 1993-1994 nr. 212</noot>
+         <noot nummer="2"> Kamerstukken II, 21 277 nr. 30</noot>
+      </noten>
+   </antwoorden>
+</kvr>

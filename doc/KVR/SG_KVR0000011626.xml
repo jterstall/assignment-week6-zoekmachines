@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001322</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001322&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001322</item>
+         <item attribuut="Document-id">0000011626</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 392</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vraag van de leden Weisglas (VVD), De Hoop Scheffer (CDA), Melkert (PvdA), Kohnstamm (D66), Sipkes (GroenLinks), Van Middelkoop (GPV) en Leerling (RPF) over de Britse schrijver Salman Rushdie</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 392</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">392</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Weisglas</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-02-19</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Kooijmans</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-03-08</item>
+         <item attribuut="Beginpagina">805</item>
+         <item attribuut="Eindpagina">806</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="2" vergaderjaar="Vergaderjaar 1992-1993 Aanhangsel van de Handelingen" typehandeling="Vergaderjaar 1992-1993 Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="sGravenhage 1993 Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel 805" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat _ ., . ,nnn • r\nt sGravenhage 1993 Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel 805"/>
+      <vraagdata vraagnummer="392" onderwerp="de Britse schrijver Salman Rushdie" indiendatum="1993-02-19">
+         <vrager partij="VVD" oorsprong="parlement">Weisglas</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="8 maart 1993) Verwezen moge worden naar mijn antwoord sub 1 op de schriftelijke vragen d.d. 15 februari jl., van de leden Melkert, Leerling, De Hoop Scheffer, Weisglas, Kohnstamm en Sipkes, welke betrekking hebben op dezelfde aangelegenheid">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">Kooijmans</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="1">
+      <vraag nummer="1">Bent u bereid om ook in de EG en de VN het initiatief te nemen tot een krachtige politieke veroordeling van de regermg van Iran naar aanleiding van de door die regering gesteunde herhaalde oproep van Iran's geestelijke leiding om de Britse schrijver Salman Rushdie te doden? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1">. ' Zie Aanhangsel Handelingen nr. 391, vergaderjaar 1992-1993</noot>
+      </noten>
+   </antwoorden>
+</kvr>

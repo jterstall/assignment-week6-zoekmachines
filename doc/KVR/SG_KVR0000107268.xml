@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001493</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001493&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001493</item>
+         <item attribuut="Document-id">0000107268</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 461</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Schutte (G.P.V.) over het huwelijk en niet wettelijk geregelde relatiepatronen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 461</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">461</item>
+         <item attribuut="Indiener">
+            <persoon partij="GPV">Schutte</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-12-17</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Deetman</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-03-05</item>
+         <item attribuut="Beginpagina">917</item>
+         <item attribuut="Eindpagina">918</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 6 - 1 9 8 7 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="461" onderwerp="" indiendatum="">
+         <vrager partij="GPV" oorsprong="parlement">Schutte</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1 ">Moet uit de toespraak van de  minister, gehouden op zondag 7  december j.l. te Amsterdam, worden  afgeleid, dat naar zijn mening  relatiepatronen tussen mannen en  vrouwen, het gezin en dergelijke  louter cultureel bepaalde en dus  historisch gegroeide gegevenheden  zijn?'  </vraag>
+      <vraag nummer="2 ">Hoe moet dit 'historisch gegroeide'  worden verstaan in het licht van het  feit, dat de eerste mensen zijn  geschapen als man en vrouw,  teneinde samen een gezin te vormen?  </vraag>
+      <vraag nummer="3 ">W a t is de betekenis voor het Neder- landse beleid van het feit, dat in  verscheidene geratificeerde verdra- gen de positie van het gezin  w o r d t  beschermd, daarbij expliciet of  impliciet verband leggend tussen  huwelijk en gezinsvorming? </vraag>
+      <vraag nummer="2 "/>
+      <vraag nummer="4 ">Kan de regeling van het huwelijk in  het Burgerlijk Wetboek geheel  worden verklaard uit cultureel  bepaalde gegevenheden of moet  daaruit ook vandaag nog mede de  erkenning door de wetgever worden  afgeleid van de betekenis van het  huwelijk van man en vrouw voor de  openbare samenleving, zulks in  afwijking van andere niet wettelijk  geregelde relatiepatronen?  j.l.  </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Nederlandse Staatscourant van 8 december </noot>
+         <noot nummer="2"> Vergaderjaar 1984-1 985, Aanhangsel  Handelingen nr. 1059. </noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="3 ">Bovenstaand standpunt laat onverlet  de bescherming van het gezin,  waartoe het Nederlandse beleid zich  heeft verplicht.  </antwoord>
+      <antwoord nummer="4 ">Wat betreft de regeling van het  huwelijk in het Burgerlijk Wetboek  wil ik volstaan met u te verwijzen  naar de antwoorden op vragen 1, 2  en 3.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

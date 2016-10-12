@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001449</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001449&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001449</item>
+         <item attribuut="Document-id">0000107224</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 417</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Leerling (R.P.F.) over de toestanden in de Kamwala-gevangenis te Lusaka.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 417</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">417</item>
+         <item attribuut="Indiener">
+            <persoon partij="RPF">Leerling</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-02-02</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-02-19</item>
+         <item attribuut="Beginpagina">831</item>
+         <item attribuut="Eindpagina">832</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 6 - 1 9 8 7 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="417" onderwerp="de toestanden in de Kamwala- gevangeniste Lusaka" indiendatum="2 februari 1987)">
+         <vrager partij="RPF" oorsprong="parlement">Leerling</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="19 februari 1987)">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">V a n d e n B r o e k</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1 ">Kent de minister de berichten over  mensonterende toestanden in de  Kamwala-gevangenis in deZambiaan- se hoofdstad Lusaka?'  </vraag>
+      <vraag nummer="2 ">Kan de minister deze berichten  bevestigen en beschikt hij over  gegevens waaruit blijkt, dat in andere  gevangenissen in Zambia soortgelijke  situaties bestaan?  Ja; het aangehaalde artikel lijkt de  situatie in diverse Afrikaanse,  waaronder ook Zambiaanse, gevange- nissen juist weer te geven.  </vraag>
+      <vraag nummer="3 ">Ik ben bereid om binnen het kader  van de Europese Politieke Samenwer- king de vraag aan de orde te stellen  welke mogelijkheden er zijn voor een  effectief optreden terzake van de  Twaalf om een verbetering van de  situatie te bewerkstelligen.  </vraag>
+      <vraag nummer="4 ">De Regering acht geen gronden  aanwezig om de ontwikkelingsrelatie  met Zambia hiertoe aan te wenden.  Zijn reeds stappen ondernomen of  overwogen om bij de Zambiaanse  regering uiting te geven aan veront- waardiging en aan te dringen op  verbetering van het lot van de  gevangenen?  </vraag>
+      <vraag nummer="4 ">Kan de hulpverlening aan de frontlijn- staten, waarvan Zambia er een is, als  middel worden aangewend  o m  verbetering in de leefsituatie van de  gevangenen aan te brengen?  </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Een bericht uit het Idea-Spectrum,  Nachrichten aus der Evangelischen Welt van  21 januari 1987 is aan de minister toegezonden. </noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1 ">J a ; deze berichten zijn mij bekend.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

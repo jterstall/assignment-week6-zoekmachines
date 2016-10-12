@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="doen toekomen." aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0000993</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0000993&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0000993</item>
+         <item attribuut="Document-id">0000011297</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 61</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Sipkes en Brouwer (beiden GroenLinks) over een bezoek van een delegatie van de politie van het Zuidafrikaanse thuisland Kwazulu aan Nederland.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 61</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">61</item>
+         <item attribuut="Indiener">
+            <persoon partij="GroenLinks">Sipkes</persoon>
+            <persoon partij="GroenLinks">Brouwer</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-09-17</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-10-09</item>
+         <item attribuut="Beginpagina">133</item>
+         <item attribuut="Eindpagina">134</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="133" allpagenumbers="133" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="'s Gravenhage 1992"/>
+      <vraagdata vraagnummer="" onderwerp="" indiendatum="">
+         <vrager partij="GroenLinks" oorsprong="parlement">Sipkes</vrager>
+         <vrager partij="GroenLinks" oorsprong="parlement">Brouwer</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="61">Vragen van de leden Sipkes en Brouwer (beiden Groen Links) over een bezoek van een delegatie van de politie van het Zuidafrikaanse thuisland Kwazulu aan Nederland. (Ingezonden 17 september 1992) </vraag>
+      <vraag nummer="1">Is het waar dat een delegatie van de politie van het Zuidafrikaanse thuisland Kwazulu een bezoek heeft gebracht aan Nederland en daarbij onder andere op bezoek is geweest bij de Amsterdamse politie?' </vraag>
+      <vraag nummer="2">Is het u bekend, dat dit corps slecht bekend staat, algemeen verantwoordelijk wordt gehouden voor het opereren van doodsescaders in het thuisland en dat de leider van de delegatie bekend staat als de «slager van Natal»? Deelt u de mening, dat dit bezoek in strijd is met EG-afspraken die veiligheidscontacten met Zuid Afrika verbieden, dat het geen enkele bijdrage levert aan de democratisering van Zuidafrikaanse politie en ongepast is gezien de slechte naam van het politiecorps? </vraag>
+      <vraag nummer="4">Waarom hebben de leden van de delegatie een visum gekregen voor hun bezoek aan Nederland? </vraag>
+      <vraag nummer="5">Welke stappen hebt u ondernomen teneinde te voorkomen dat Nederlandse politiekorpsen of de Nederlandse afdeling van de International Police Association Zuidafrikaanse politiemensen zullen ontvangen? </vraag>
+      <vraag nummer="6">Vindt u het aanvaardbaar dat vertegenwoordigers van de Nederlandse afdeling van de International Police Association de viering van het tienjarige bestaan van de Zuidafrikaanse afdelmg bijwonen en daar hun felicitaties overbrengen, terwijl bekend is dat leden van die afdeling betrokken zijn bij het geweld in Zuid Afrika? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Vrij Nederland van 5 september 1992 Mededeling</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+   <mededeling mededeler="Van den Broek" functie="minister" afdeling="Buitenlandse Zaken" mededelingdatum="1992-10-9">Mededeling van minister Van den Broek (Buitenlandse Zaken), mede namens de minister van Bmnenlandse Zaken. (Ontvangen 9 oktober 1992) Onder verwijzing naar het schrijven van de Griffier Uwer Kamer d.d. 18 september jl., waarbij deze mij deed toekomen de door de leden Sipkes en Brouwer overeenkomstig artikel 121 van het Reglement van Orde van de Tweede Kamer bij U ingediende vragen, heb ik de eer U mede namens mijn ambtgenote van Binnenlandse Zaken te doen weten dat onzerzijds nog niet wordt beschikt over de voor beantwoording van bedoelde vragen vereiste gegevens. Het ligt in de bedoeling, U op zo kort mogelijke termijn ons antwoord te </mededeling>
+</kvr>

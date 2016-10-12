@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001340</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001340&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001340</item>
+         <item attribuut="Document-id">0000011644</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 410</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Eisma en Versnel-Schmitz (beiden D66) over de schending van mensenrechten in Oost-Timor.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 410</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">410</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Eisma</persoon>
+            <persoon partij="D66">Versnel-Schmitz</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-02-23</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Kooijmans</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-03-16</item>
+         <item attribuut="Beginpagina">841</item>
+         <item attribuut="Eindpagina">842</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="841" allpagenumbers="841" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat s Gravenhage 1993"/>
+      <vraagdata vraagnummer="410" onderwerp="de schending van mensenrechten in Oost-Timor." indiendatum="1993-02-23">
+         <vrager partij="D66" oorsprong="parlement">Eisma</vrager>
+         <vrager partij="D66" oorsprong="parlement">Versnel-Schmitz</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-03-16">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">Kooijmans</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Hebt u kennis genomen van de berichten rond het proces tegen de Oosttimorese FRETILIN-leider José Alexandre («Xanana») Gusmao dat in Dili (Oost Timor) gevoerd wordt? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Hebt u tevens kennis genomen van de beschuldigingen van de Portugese regering als zou Gusmao gemarteld zijn? </vraag>
+      <vraag nummer="3">Is het waar dat noch Amnesty International, noch andere onafhankelijke mensenrechten-juristen tot het proces zijn toegelaten? </vraag>
+      <vraag nummer="4" voetnoot="2">Wat is uw oordeel over deze gang van zaken? Is er sprake van een ondersteuning in EPS-verband van de Portugese protesten? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="6">Indien er nog geen EPS-demarche in dezen ondernomen is, bent u dan bereid daar een aanzet toe te geven? bij </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1993-02-10" bron=" Zie NRC-Handelsblad, 1 en"> Zie NRC-Handelsblad, 1 en, 10 februari 1993</noot>
+         <noot nummer="2"> Gezien het feit dat deze moeten aansluiten a het rapport van VN-rapporteur Kooijmans van 8 januari 1992 (cf. o.a. Volkskrant, 28 januari 1992) en b. het slotcommuniqué van de conferentie van ministers van Buitenlandse Zaken van de EG– en de ASEAN-landen m Manilla van 30 oktober 1992, waarin de beide groepen landen uitspreken, zich in te zullen zetten voor het beter respecteren van de mensenrechten</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Ja. 3 e n 4 Helaas heeft Amnesty International inderdaad geen toestemming verkregen het proces tegen Xanana Gusmao bij te wonen. De Indonesische autoriteiten hebben er echter wel mee ingestemd dat de International Commission of Jurists en Asia Watch bij het proces zijn vertegenwoordigd. </antwoord>
+      <antwoord nummer="5 en 6">Het proces wordt nauwlettend door de Twaalf gevolgd, onder meer via bijwoning, bij toerbeurt, van de zittingen door leden van een of meer van de diplomatieke vertegenwoordigingen van de lidstaten. Het ligt voorts in het voornemen, de uitkomst van het proces onderwerp van bespreking in EPS-kader te doen zijn. Voor het overige moge voor wat betreft de ten deze door de Europese Gemeenschap en haar lidstaten ondernomen activiteiten worden verwezen naar de beantwoording sub 2, 4 en 5, van eerdere vragen van de leden Beckers-de Bruin en Sipkes'. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Aanhangsel Handelingen nr. 264, Vergaderjaar 1992-1993</noot>
+      </noten>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="10">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Duyvendak (GroenLinks) aan de staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, de ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Buitenlandse Zaken over het zoekraken van 30 kilo plutonium in Sellafield. (Ingezonden 18 februari 2005); Antwoord</item>
+         <item attribuut="Bestand">20Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR22390
+</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van een bericht op NOS-teletekst van 17 februari 2005 met name over de situatie met betrekking tot Nederlands kernafval.</item>
+         <item attribuut="Rubriek">Energie, water en grondstoffen (Kernenergie) Milieu (Afvalverwerking) Milieu (Gevaarlijke stoffen)</item>
+         <item attribuut="Trefwoorden">Afvalverwerking Gevaarlijke afvalstoffen Kernenergie</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2004-2005, nr. 1073, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2040508910</item>
+         <item attribuut="Afkomstig_van">Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer (VROM)</item>
+         <item attribuut="Indiener">
+            <persoon partij="GroenLinks">Duyvendak</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2005-02-25</item>
+         <item attribuut="Datum_indiening">2005-02-18</item>
+         <item attribuut="Document-id">KVR22390</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2004–2005" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="2279" allpagenumbers="2279 2280" vetnummer="2040508910" code="0405tkkvr1073" lopendefooter="Tweede Kamer, vergaderjaar 2004–2005, Aanhangsel" filenaam="KVR22390" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2005"/>
+      <vraagdata vraagnummer="1073" onderwerp="" indiendatum="2005-02-18">
+         <vrager partij="GroenLinks" oorsprong="parlement">Duyvendak</vrager>
+         <vraagt-aan>de staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, de ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Buitenlandse Zaken</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2005-02-25">
+         <antwoorder functie="staatssecretaris" ministerie="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer">Van Geel</antwoorder>
+         <mede-antwoorder>de ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Buitenlandse Zaken</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="10">
+      <vraag nummer="1" voetnoot="1">Kent u het bericht «Sellafield mist 30 kilo plutonium»? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Wat betekent het feit dat plutonium zoekraakt voor de veiligheid van kernenergie? </vraag>
+      <vraag nummer="3">Kunt u een overzicht geven van de vermissingen van plutonium uit opwerkingsfabrieken wereldwijd in de afgelopen tien jaar? </vraag>
+      <vraag nummer="4">Klopt het dat een meetverschil van 30 kilo plutonium per jaar voor een opwerkingsfabriek «niet ongebruikelijk» is, zoals de Britse autoriteiten beweren? </vraag>
+      <vraag nummer="5">Deelt u het standpunt dat de mogelijkheid dat nucleair materiaal in handen valt van terroristen een groot gevaar vormt? Zo ja, waarom? Zo neen, waarom niet? </vraag>
+      <vraag nummer="6">Deelt u het standpunt dat kernafval niet meer moet worden opgewerkt zolang niet 100% gegarandeerd is dat er bij dat proces geen radioactief materiaal zoekraakt? Zo neen, waarom niet? </vraag>
+      <vraag nummer="7">Op welke wijze wordt gegarandeerd dat het kernafval uit de kerncentrale Borssele, dat in Frankrijk wordt opgewerkt, niet zoekraakt? </vraag>
+      <vraag nummer="8">Komt het Nederlandse kernafval dat in het buitenland is en wordt opgewerkt, terug naar Nederland? Zo ja, op welke termijn? Hoe wordt de veiligheid van het transport gegarandeerd? </vraag>
+      <vraag nummer="9">Wat betekent de terugkomst van het opgewerkte Nederlandse afval voor de veiligheidssituatie in Nederland? Is hiervoor al een veiligheidsanalyse gemaakt? Zo neen, waarom niet en wanneer gaat dit gebeuren? Zo ja, wat zijn de uitkomsten hiervan? </vraag>
+      <vraag nummer="10">Wat zijn de kosten die verbonden zijn aan het beveiligen van het radioactief materiaal, zowel het materiaal dat aanwezig is in of bij de kerncentrale Borssele als het afval dat afkomstig is uit Borssele? Wie betaalt die kosten? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="2005-02-17" bron="NOS-teletekst">NOS-teletekst, 17 februari 2005</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="10">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">De gegevens als bedoeld in vraag 1 zijn afkomstig uit de jaarlijkse publicatie van de Nuclear Material Balance in het Verenigd Koninkrijk en vallen onder de vermelding «Materials Unaccounted For» (MUF). Deze hoeveelheden MUF komen voort uit de verschillen tussen de – voorafgaand aan de opwerking – berekende hoeveelheden plutonium (en uranium) die zich in de op te werken splijtstof bevindt en als zodanig in de administratie worden opgenomen, en de na de opwerking daadwerkelijk vastgestelde (gemeten) hoeveelheden. Sommige jaren is het verschil positief en soms (zoals nu) is het verschil negatief. Dit betekent niet dat er ineens plutonium bijkomt of zoekraakt. De verschillen zijn het gevolg van onzekerheden in de bepaling van de hoeveelheden. Uit deze gegevens mag dan ook niet geconcludeerd worden dat er materiaal is kwijtgeraakt of gestolen. In die zin heeft dit dus ook geen betekenis voor de veiligheid van kernenergie. </antwoord>
+      <antwoord nummer="3">Er zijn mij geen gegevens bekend waaruit geconcludeerd kan worden dat er in het verleden plutonium vermist is. De inspecties van de toezichthoudende internationale organisaties (Euratom, de Europese organisatie verantwoordelijk voor het administratieve splijtstofbeheer in de EU en de International Atomic Energy Agency, IAEA) zouden zulke vermissingen ook moeten hebben constateren. </antwoord>
+      <antwoord nummer="4">Ja. De hoeveelheid van 30 kg plutonium die nu gemeld is, is in lijn met de afwijkingen die kunnen optreden. Euratom heeft de gemelde hoeveelheden geaccepteerd. De IAEA hanteert als richtssnoer een onzekerheidspercentage van 1. In het geval van Sellafield bedroeg dit percentage 0,5, dus ruimschoots daarbinnen. </antwoord>
+      <antwoord nummer="5">De regering onderkent het risico dat terroristen nucleair materiaal in handen zouden willen krijgen. Het Nederlandse beleid is erop gericht dit te voorkomen. Nederland heeft zich gebonden aan internationale normen en richtssnoeren op dit gebied, zoals het Non-proliferatieverdrag en het Additioneel Protocol en de IAEA gedragscode inzake veiligheid en beveiliging van radioactieve bronnen en leeft deze ook na. Nederland draagt ook actief bij aan internationale inspanningen om de acceptatie van deze en andere instrumenten zoveel mogelijk te verbreiden. </antwoord>
+      <antwoord nummer="6">Zoals ik hiervoor in het antwoord op vraag 2 uiteen heb gezet, raakt bij de opwerking geen radioactief materiaal zoek. </antwoord>
+      <antwoord nummer="7">Zie antwoord op vragen 2, 3 en 6. </antwoord>
+      <antwoord nummer="8">Het hoog radioactief afval dat bij de opwerking van de splijtstof afkomstig uit Nederland ontstaat, wordt naar Nederland terug gezonden en opgeslagen in de speciaal daarvoor bestemde opslagfaciliteit bij COVRA in Borsele. Eind 2004 is het eerste transport met hoogradioactief materiaal bij COVRA aangekomen. Het volgende transport zal naar verwachting komend voorjaar plaatsvinden. Voor de komende jaren zijn thans nog twee transporten gepland. De transporten van dit hoogradioactieve opwerkingsafval worden per spoor uitgevoerd. De toegepaste speciale en internationaal goedgekeurde transportverpakkingen garanderen de veiligheid voor de omgeving tijdens de transporten en dragen ook bij aan de beveiliging tegen ongewenste beïnvloeding van buiten af. Voorafgaand aan het transport wordt een draaiboek opgesteld ter naadloze aansluiting op het plan Externe beveiligingsorganisaties van COVRA. Dit draaiboek dient tevens ter monitoring en begeleiding van de transporten door het Korps Landelijke Politie Diensten of de Koninklijke Marechaussee. </antwoord>
+      <antwoord nummer="9">Bij de vergunningverlening voor de COVRA is met behulp van de uitkomsten van risicoanalyses rekening gehouden met de opslag van dit materiaal ter plaatse. Over de toegepaste beveiligingsmaatregelen kan met het oog op de effectiviteit en vertrouwelijkheid daarvan geen gedetailleerde informatie worden verstrekt. </antwoord>
+      <antwoord nummer="10">Die kosten zijn moeilijk aan te geven omdat de kosten die gemaakt moeten worden voor de bescherming van mens en milieu vanwege de radioactieve eigenschappen van bedoelde materialen, ook hun vruchten afwerpen bij de beveiliging tegen ongewenste beïnvloeding van buiten af (zoals beperking van toegankelijkheid). De vergunninghouders van de nucleaire installaties zijn verplicht om tal van veiligheidsmaatregelen en beveiligingsmaatregelen te nemen. De kosten van die maatregelen komen voor rekening van de exploitant en/of vervoerder. Aansluitende maatregelen in het kader van de openbare orde en veiligheid van de staat komen als gebruikelijk voor de overheid. Het is mij niet bekend om welke bedragen het hierbij gaat omdat de kerncentrale Borssele en de bijbehorende transporten deel uitmaken van het totaal aan objecten die aandacht vergen in het kader van het voorkomen van terroristische aanslagen en dergelijke. De brief van de ministers van BZK en Justitie van 24 januari jl. (Kamerstuk 29 754, nr. 5) gaat hierop nader in. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

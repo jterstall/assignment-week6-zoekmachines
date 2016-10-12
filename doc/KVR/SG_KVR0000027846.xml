@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="de Griffier Uwer Kamer de dato 4" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001509</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001509&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001509</item>
+         <item attribuut="Document-id">0000027846</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 573</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Quint-Maagdenberg (P.v.d.A.) over de moord op een ontwikkelingswerker op de Filippijnen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 573</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">573</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Quint-Maagdenberg</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-03-01</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Ter Beek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-05-16</item>
+         <item attribuut="Beginpagina">1171</item>
+         <item attribuut="Eindpagina">1172</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1171" allpagenumbers="1171" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1991"/>
+      <vraagdata vraagnummer="573" onderwerp="de moord op een ontwikkelingswerker op de Filippijnen." indiendatum="1991-03-1">
+         <vrager partij="PvdA" oorsprong="parlement">Quint-Maagdenberg</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Bent u op de hoogte van de moord op 20 oktober 1990 op Sarah Nervato Bermudez, uitvoerend direkteur van de NGO Antique Farmers' Development and Assis– tance Program? maart 1991, kenmerk 2909 103580, waarbij mij namens U werden toege– zonden de door het lid Uwer Kamer Mevrouw Quint-Maagdenberg, overeenkomstig artikel 121 van het Reglement van Orde van Tweede Kamer bij U ingediende vragen, vraag ik U in verband met de tijd die gemoeid is met het inwinnen van de benodigde inlichtingen de voor beantwoording gestelde termijn te willen verlengen. Is deze moord gepleegd door het 15e Infanterie Bataljon? </vraag>
+      <vraag nummer="3">Zo ja, hebt u geprotesteerd bij de Filippijnse regering en om ophel– dering gevraagd over deze zaak? </vraag>
+      <vraag nummer="4">Welke zijn de risico's van mensen, betrokken bij ontwikkelingsprojekten, die gefinancierd worden door Nederland, in de Filippijnen? </vraag>
+      <vraag nummer="5">Bent u voornemens ook hierover met de Filippijnse regering contact op te nemen opdat die veiligheid gegaran– deerd is? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+   <mededeling mededeler="Ter Beek" functie="minister" afdeling="Ontwikkelingssamenwerking a.i." mededelingdatum="1991-05-16">Mededeling van minister Ter Beek (Ontwikkelingssamenwerking a.i.). (Ontvangen 16 mei 1991) Onder verwijzing naar de brief van </mededeling>
+</kvr>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001164</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001164&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001164</item>
+         <item attribuut="Document-id">0000106939</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 131</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Mateman (C.D.A.) over een gasproject in de Noorse Troll- en Sleipnervelden.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 131</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">131</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Mateman</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-10-15</item>
+         <item attribuut="Beantwoorder">
+            <persoon>De Korte</persoon>
+            <persoon>Van Rooy</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-11-10</item>
+         <item attribuut="Beginpagina">259</item>
+         <item attribuut="Eindpagina">260</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 6 - 1 9 8 7 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="131" onderwerp="een gasproject in de Noorse Troll- en Sleipnervelden." indiendatum="15 oktober 1986)">
+         <vrager partij="CDA" oorsprong="parlement">Mateman</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1 ">Heeft de staatssecretaris kennis  genomen van berichten, dat de  Franse regering er met klem bij de  Noorse regering op zou hebben  aangedrongen de Franse industrie in  te schakelen bij de uitvoering van het  zeer omvangrijke gasproject in de  Noorse Troll- en Sleipnervelden? Zijn  deze berichten waar?  </vraag>
+      <vraag nummer="2 ">Zo ja, is dan de vrees van de Neder- landse offshore-industrie buitenspel  te worden gezet, niet gerechtvaar- digd? Welke verdere bijzonderheden  kan de regering op dit moment nog  bekendmaken zonder dat dit afbreuk  doet aan de Nederlandse onderhan- delingspositie? Wil de regering  ingaan op de vraag of zij - in het  belang van de werkgelegenheid in  ons land - actie heeft ondernomen  ter verkrijging van een evenredig deel  van het naar schatting 15 miljard  grote project?  </vraag>
+      <vraag nummer="3 ">Is het waar dat de Franse regering  een directe koppeling heeft gelegd  tussen de afname van gas en het  verkrijgen van tegenorders van de  Franse industrie? Zo ja, betekent dit  dan, dat de Franse regering bij een  40% gasafname ook ten waarde van  4 0 % van het totale contract aan  tegenorders opeist?  Hoe oordeelt de regering over de  visie van de Gasunie, dat onderhan- delingen gaande zijn tussen de  Franse regering en Statiol omtrent de  grootte van de tegenorders?  </vraag>
+      <vraag nummer="5 ">Is hier sprake van een inbreuk op het  vrijhandelsbeginsel?  </vraag>
+      <vraag nummer="6 ">W a t is het standpunt van de Noorse  regering over de zogenaamde  evenredigheid tussen afzet (c.q.  aankoop in de toekomst van gas door  Frankrijk) en de eis een groot aandeel  in het project te verkrijgen dat niet  door Frankrijk  w o r d t gefinancierd?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="4 ">De visie van Gasunie wijkt niet af van  hetgeen hierboven uiteengezet is.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

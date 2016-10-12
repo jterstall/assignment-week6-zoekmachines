@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19851986:0001775</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001775&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001775</item>
+         <item attribuut="Document-id">0000115335</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1985-1986 nummer 854</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Schutte (G.P.V.) over het verlenen van een vergunning ex artikel 2 van de Wet afbreking zwangerschap aan een arbortuskliniek te Enschede.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1985-1986 nummer 854</item>
+         <item attribuut="Jaargang">1985_1986</item>
+         <item attribuut="Vraagnummer">854</item>
+         <item attribuut="Indiener">
+            <persoon partij="GPV">Schutte</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-05-30</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Brinkman</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-06-27</item>
+         <item attribuut="Beginpagina">1699</item>
+         <item attribuut="Eindpagina">1700</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1985-1986 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 5 - 1 9 8 6 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="854" onderwerp="het verlenen van een vergunning ex artikel 2 van de Wet afbreking zwangerschap aan een arbortuskliniek te Enschede." indiendatum="30 mei 1986)">
+         <vrager partij="GPV" oorsprong="parlement">Schutte</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="27 juni 1986)">
+         <antwoorder functie="minister" ministerie="Welzijn, Volksgezondheid en Cultuur">Brinkman</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="1">
+      <vraag nummer="1 ">Is een vergunning ex artikel 2 van de  Wet afbreking zwangerschap  verleend aan een abortuskliniek te  Enschede?  Op grond waarvan kan worden  aangenomen, dat is voldaan aan de  eis ex artikel 18 van het Besluit  afbreking zwangerschap (Staatsblad  1984, 218), dat een abortuskliniek  een samenwerkingsovereenkomst  moet hebben gesloten met een  ziekenhuis «in de omgeving van de  kliniek» (lid 1)?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1 ">Bij beschikking van 17 april 1986  heb ik aan de Stichting ter bevordering  van medisch verantwoorde zwanger- schapsafbreking Enschede e.o. te  Enschede een vergunning verleend  als bedoeld in artikel 2 van de Wet  afbreking zwangerschap.  </antwoord>
+      <antwoord nummer="2 ">Genoemde Stichting heeft bij haar  vergunningaanvraag een samenwer- een academisch ziekenhuis. Bij de  bespreking van het Besluit afbreking  zwangerschap (Stb. 1984, 218) door  de Tweede Kamer der Staten- Generaal, is gebleken dat naar veler  gevoelen de woorden «in de omgeving  van de kliniek» niet te beperkt - bijv.  door het noemen van een bepaalde  afstand - moesten worden gedefini- eerd. Voorts is met betrekking tot  artikel 18 een motie aanvaard  (18386, nr. 11). Volgens het dictum  van deze motie wordt de regering  aanbevolen artikel 18, eerste lid,  zodanig te wijzigen dat een samen- werkingsovereenkomst van een  abortuskliniek met een academisch  ziekenhuis «als voldoende wordt  gekwalificeerd».  Ik heb destijds gemeend geen  wijziging van het Besluit in deze zin  te moeten bevorderen, doch heb mij  in materiële zin wel aan deze  kameruitspraak gebonden geacht. Dit  moge mede blijken uit de in antwoord  1 genoemde vergunning.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

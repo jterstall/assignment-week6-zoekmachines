@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="derde spoor?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Bruls en Van Hijum (beiden CDA) aan de minister van Verkeer en Waterstaat over de aansluiting Betuweroute Duitsland. (Ingezonden 5 april 2005)</item>
+         <item attribuut="Bestand">15Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V040512000
+</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van uitspraken van Hartmut Mehdoorn, directeur van de Duitse spoorwegen (De Gelderlander, 31 maart 2005), dat 'Duitsland geen geld wil investeren voor extra spoor', in verband met de aansluiting Betuweroute - Duitsland. Indieners vragen ook duidelijkheid over de invulling van de middellange termijn bij de Duitse spoorwegen ('Mittelfrist planning 2008-2012').</item>
+         <item attribuut="Rubriek">Verkeer, vervoer en waterstaat (Goederenvervoer) Verkeer, vervoer en waterstaat (Spoorwegen)</item>
+         <item attribuut="Trefwoorden">Duitsland Goederenvervoer Spoorwegen</item>
+         <item attribuut="Vindplaats">Kamervragen 2004-2005, vraagnr. 2040512000, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2040512000</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Bruls</persoon>
+            <persoon partij="CDA">Van Hijum</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2005-04-05</item>
+         <item attribuut="Document-id">V040512000</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2004–2005" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0405tkkvl2040512000" lopendefooter="Tweede Kamer, vergaderjaar 2004–2005, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2005"/>
+      <vraagdata vraagnummer="2040512000" onderwerp="" indiendatum="2005-04-5">
+         <vrager partij="CDA" oorsprong="parlement">Bruls</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Van Hijum</vrager>
+         <vraagt-aan>de minister van Verkeer en Waterstaat</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Hebt u kennisgenomen van het artikel «Duitsland: geen geld voor extra spoor»? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Bent u bereid uw Duitse ambtgenoot om opheldering te vragen over de uitspraken van Hartmut Mehdoorn, directeur van de Duitse spoorwegen? </vraag>
+      <vraag nummer="3">Wat is de status van de overeenkomst tussen de Bund, het Bundesland Noordrijn-Westfalen (NRW) en de Deutsche Bahn AG van 2002 waarin NRW een derde van de voorziene € 895 miljoen investering voor zijn rekening neemt? </vraag>
+      <vraag nummer="4">Is er al duidelijkheid over de invulling van de Mittelfrist planning 2008–2012 met het oog op de realisatie van het </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" datum="2005-03-31" bron="De Gelderlander">De Gelderlander, 31 maart 2005</noot>
+      </noten>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0000959</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0000959&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0000959</item>
+         <item attribuut="Document-id">0000027296</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 28</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Willems (Groen Links) over luchtverontreiniging door mobiele werktuigen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 28</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">28</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Willems</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-08-20</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Alders</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-09-28</item>
+         <item attribuut="Beginpagina">59</item>
+         <item attribuut="Eindpagina">60</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="59" allpagenumbers="59" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="" onderwerp="" indiendatum="">
+         <vrager partij="Groen Links" oorsprong="parlement">Willems</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-09-28">
+         <antwoorder functie="minister" ministerie="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer">Alders</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="28">Vragen van het lid Willems (Groen Links) over luchtverontreiniging door mobiele werktuigen. (Ingezonden 20 augustus 1990) </vraag>
+      <vraag nummer="1" voetnoot="1">Hebt u kennis genomen van het artikel «Mobiele werktuigen: de vergeten sector. Uitstoot NO X  tien tot twintig procent hoger dan veron– dersteld» in Nieuwe Beta en van het daarin beschreven onderzoek naar luchtverontreiniging door mobiele werktuigen? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Onderschrijft u de conclusie, dat de sector mobiele werktuigen in ongeveer dezelfde mate bijdraagt aan de luchtvervuiling als het vracht– verkeer in Nederland? </vraag>
+      <vraag nummer="3">Welke beleidsconclusies trekt u uit deze gegevens? Ja, met inachtname van de eveneens getrokken conclusie, dat de raming van de hoeveelheden mobiele werktuigen, het brandstofverbruik daarvan en de schadelijke emissies daarvan een grote marge van onzekerheid bevat. </vraag>
+      <vraag nummer="3">Verder onderzoek naar de groep mobiele werktuigen is noodzakelijk, en reeds aangevangen, om tot een nauwkeuriger inventarisatie te komen van aantallen, aard en intensiteit van gebruik, brandstofverbruik en emissie van schadelijke stoffen. Afhankelijk van de resultaten van dit onderzoek zullen specifieke voor deze categorieën geldende maatre– gelen worden overwogen. Los daarvan zullen de mogelijkheden worden onderzocht om in Europees verband emissie-normen op te stellen voor deze, grotendeels door dieselmotoren aangedreven, werktuigen. </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1"/>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001116</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001116&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001116</item>
+         <item attribuut="Document-id">0000019502</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 104</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Leerling (RPF) over de positie van christenen in Peru.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 104</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">104</item>
+         <item attribuut="Indiener">
+            <persoon partij="RPF">Leerling</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-10-02</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-10-29</item>
+         <item attribuut="Beginpagina">213</item>
+         <item attribuut="Eindpagina">214</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="213" allpagenumbers="213" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverjj Plantijnstraat 's Gravenhage 1991"/>
+      <vraagdata vraagnummer="104" onderwerp="de positie van christenen in Peru." indiendatum="1991-10-2">
+         <vrager partij="RPF" oorsprong="parlement">Leerling</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1991-10-29">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">Van den Broek</antwoorder>
+         <mede-antwoorder>de minister voor Ontwikke– lingssamenwerking</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Hebt u kennisgenomen van berichten over vervolging en verdwijning van christenen, die onder meer tot de CONSEJO Nacional Evangelico del Peru behoren? <voetnoot nummer="1"/>Kunt U deze berichten bevestigen? Kan nadere informatie worden verstrekt over de motieven? </vraag>
+      <vraag nummer="3">Bent u in contact getreden met de regering van Peru om deze tragische gebeurtenissen onder de aandacht van de Peruviaanse autoriteiten te brengen? Zo ja, op welke wijze? Wat was de reactie van Peruviaanse zijde? </vraag>
+      <vraag nummer="4">In hoeverre beschikt de regering van Peru over de middelen om chris– tenen in bescherming te nemen tegen aanvallen van de guenlla bewegmg Sendero Luminoso? </vraag>
+      <vraag nummer="5">Welke initiatieven ter verbeterïng van de positie van de Peruviaanse chris– tenen zal de minister voor Ontwikke– lingssamenwerking in het kader van hulpverlening aan de Andesregio ontplooien? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" titel="Paz y Esperaza"> zie bijgevoegd jaarverslag 1990 van de Peruviaanse organisatie «Paz y Esperaza»</noot>
+         <noot nummer="1"/>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">  e n 2 Ja; specifieke motieven zijn ons evenwel niet bekend 3 e n 4 De zorg van de Regering over de mensenrechtensituatie in Peru is meermalen tegenover de autoriteiten aldaar kenbaar gemaakt, zowel in bilaterale contacten alsook in het kader van de Europese Politieke Samenwerking. Daarbij pleegt met name te worden uitgegaan van berichten over het hoge aantal verdwijningen, resp. over folteringen en buitengerechtelijke executies. In hun reactie beroept men zich van Peruaanse zijde enerzijds op de penibele economische situatie van het land, doch wijst men anderzijds op een aantal maatregelen die beogen mensenrechtenschendingen tegen te gaan. Zo wordt bijvoorbeeld met de oprichting van de zgn. Raad voor de Vrede, die op 12 oktober jl. werd geïnstalleerd, gestreefd naar beëindiging van de gewelddadige tegenstellingen binnen de Peruaanse samenleving. Volgens de ons ter beschikking staande informatie is de situatie vooral zorgwekkend in de departe– menten Ayacucho, Apurimac en Huancavelica, waar vanwege acties van de guerrilla-beweging Sendero Luminoso de noodtoestand werd afgekondigd. De indruk bestaat dat de Peruaanse overheid er tot dusverre niet in is geslaagd de plaat– selijke bevolking afdoende bescherming te bieden. </antwoord>
+      <antwoord nummer="5">Hoofddoelstelling van het Andes– regioprogramma is doelgerichte armoedebestrijding, waarmee, in een land waar de overgrote meerderheid van de bevolking tot het christelijke geloof behoort, impliciet ook de verbetering van de situatie van Peruaanse christenen wordt beoogd. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Ter inzage gelegd op de bibliotheek</noot>
+      </noten>
+   </antwoorden>
+</kvr>

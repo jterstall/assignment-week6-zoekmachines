@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Vendrik (GroenLinks), Van Dam (PvdA) en Rouvoet (ChristenUnie) aan de staatssecretaris van Financiën over het verplichte gebruik van «closed source» software bij elektronische belastingaangifte. (Ingezonden 2 maart 2005); Antwoord</item>
+         <item attribuut="Bestand">18Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR22506
+</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van bericht (website Belastingdienst en Adobe), dat bedrijven alleen (verplichte) elektronische aangifte kunnen doen via computers die gebruik maken van de besturingssystemen Windows en Mackintosh, wat in strijd is met de toezeggingen om de aangifte 'platformonafhankelijk' te maken. De Belastingdienst zou ook geweigerd hebben een papieren aangifteformulier te verstrekken.</item>
+         <item attribuut="Rubriek">Bedrijfsleven en industrie (Ondernemingen) Belastingen (Belastingdiensten) Belastingen (Inkomstenbelasting) Belastingen (Omzetbelasting) Belastingen (Vennootschapsbelasting) Communicatie, media en informatievoorziening (Hard- en software) Communicatie, media en informatievoorziening (Netwerken)</item>
+         <item attribuut="Trefwoorden">Belastingen Internet Ondernemers Software</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2004-2005, nr. 1179, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2040509610</item>
+         <item attribuut="Afkomstig_van">Financiën (FIN)</item>
+         <item attribuut="Indiener">
+            <persoon partij="GroenLinks">Vendrik</persoon>
+            <persoon partij="PvdA">Van Dam</persoon>
+            <persoon partij="ChristenUnie">Rouvoet</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2005-03-15</item>
+         <item attribuut="Datum_indiening">2005-03-02</item>
+         <item attribuut="Document-id">KVR22506</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2004–2005" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="2501" allpagenumbers="2501 2502" vetnummer="2040509610" code="0405tkkvr1179" lopendefooter="Tweede Kamer, vergaderjaar 2004–2005, Aanhangsel" filenaam="KVR22506" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2005"/>
+      <vraagdata vraagnummer="1179" onderwerp="" indiendatum="2005-03-2">
+         <vrager partij="GroenLinks" oorsprong="parlement">Vendrik</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Van Dam</vrager>
+         <vrager partij="ChristenUnie" oorsprong="parlement">Rouvoet</vrager>
+         <vraagt-aan>de staatssecretaris van Financiën</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1" voetnoot="1">Bent u er van op de hoogte dat bedrijven alleen (verplichte) elektronische belastingaangifte kunnen doen via computers die gebruik maken van de besturingssystemen Windows en Macintosh en dat dit «closed source» software is? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2" voetnoot="2">Deelt u de mening dat dit strijdig is met het «open source»beleid waartoe de motie-Vendrik oproept? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="3">Wat vindt u ervan dat de bewindslieden die in de debatten rond het Belastingplan 2003 toezeggingen hebben gedaan om de belastingaangifte «platformonafhankelijk»te maken, dit tot op heden niet hebben waargemaakt? </vraag>
+      <vraag nummer="4">Is het u bekend dat de Belastingdienst, die eerder klanten verzekerde de aangifte «platformonafhankelijk»te maken, nu ondernemers die niet over een computer met het juiste besturingssysteem beschikken, weigert een papieren aangifteformulier te verstrekken? Zo ja, wat vindt u van deze werkwijze? </vraag>
+      <vraag nummer="5">Deelt u de mening dat deze werkwijze van de Belastingdienst niet overeenkomt met de toegezegde soepele omgang met bedrijven die niet in staat zijn de aangifte elektronisch te doen en dat deze bedrijven in staat gesteld moeten worden hun aangifte schriftelijk te doen? Zo neen, waarom niet? </vraag>
+      <vraag nummer="6">Wat vindt u ervan dat de Belastingdienst bedrijven die niet over computers met het juiste besturingssysteem beschikken suggereert «u kunt toch naar de buurman of naar een internetcafé gaan»? </vraag>
+      <vraag nummer="7">Gaat u er alsnog voor zorgen dat bedrijven en particulieren al dit jaar op een platformonafhankelijke wijze elektronisch aangifte kunnen doen, zoals u vorig jaar hebt toegezegd? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1">elektronische aangifte vereist Adobe Reader vanaf versie 6.02 (zie http://www.belastingdienst.nl) en voor het gebruik hiervan is Windows of Macintosh vereist (http://www.adobe.com)</noot>
+         <noot nummer="2" documenttype="Kamerstuk" kamerstuk-id="28 600 XIII" documentnummer="30">Kamerstuk 28 600 XIII, nr. 30</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1, 3 en 7">Bedrijven die verplicht elektronisch moeten aangeven, kunnen kiezen uit verschillende mogelijkheden. Zij kunnen kiezen voor commerciële software; die software is beschikbaar voor verschillende besturingssystemen. Zij kunnen er ook voor kiezen gebruik te maken van de zogeheten basisvoorziening die de Belastingdienst biedt. Via die basisvoorziening stelt de Belastingdienst elektronische formulieren beschikbaar. Afhankelijk van het belastingmiddel gelden verschillende methoden: – het formulier voor de omzetbelasting en het formulier voor de opgaaf ICL zijn online te benaderen en platformonafhankelijk; – de formulieren voor de aangifte Inkomstenbelasting en voor de aangifte Vennootschapsbelasting zijn gebaseerd op de industriestandaard PDF. Invullen kan met behulp van de gratis verkrijgbare PDF reader van Adobe corporation. Deze reader is, of komt, beschikbaar voor verschillende besturingssystemen, waaronder Linux. De geschikte Linux readers zijn, anders dan de bedoeling was, niet per 1 januari 2005 ter beschikking gekomen, maar zij komen wel op 15 maart 2005 ter beschikking. Aan de Kamer heb ik toegezegd dat particulieren vanaf 1 januari 2006 elektronisch hun aangifte Inkomstenbelasting kunnen doen op Apple Mac OS en Linux. Voor Apple-gebruikers is deze toezegging inmiddels al gestand gedaan: vanaf 1 maart 2005 is de mogelijkheid elektronisch aangifte te doen beschikbaar. </antwoord>
+      <antwoord nummer="2">Neen. </antwoord>
+      <antwoord nummer="4 en 5">Gegeven het feit dat er geen belemmeringen zijn om vanuit de verschillende besturingssystemen elektronisch aangifte te doen, is er geen reden om het met uw Kamer in het kader van het Belastingplan 2004 besproken ontheffingenbeleid te verruimen. </antwoord>
+      <antwoord nummer="6">Het is geen onderdeel van het beleid van de Belastingdienst om deze suggestie te doen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

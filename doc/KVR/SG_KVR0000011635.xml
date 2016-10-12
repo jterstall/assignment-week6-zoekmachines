@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001331</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001331&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001331</item>
+         <item attribuut="Document-id">0000011635</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 401</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Sipkes (GroenLinks) over afgewezen Chinese asielzoekers.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 401</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">401</item>
+         <item attribuut="Indiener">
+            <persoon partij="GroenLinks">Sipkes</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-02-11</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Kosto</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-03-11</item>
+         <item attribuut="Beginpagina">823</item>
+         <item attribuut="Eindpagina">824</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="823" allpagenumbers="823" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="'s Gravenhage 1993"/>
+      <vraagdata vraagnummer="401" onderwerp="afgewezen Chinese asielzoekers." indiendatum="1993-02-11">
+         <vrager partij="GroenLinks" oorsprong="parlement">Sipkes</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-03-11">
+         <antwoorder functie="staatssecretaris" ministerie="Justitie">Kosto</antwoorder>
+         <mede-antwoorder>de minister van Welzijn, Volksgezondheid en Cultuur</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Adviseert de Haagse Vreemdelingendienst afgewezen Chinese asielzoekers onder te duiken? <voetnoot nummer="1"/>Zo ja, hoe verhoudt dit zich tot de verklaring van de minister van Welzijn, Volksgezondheid en Cultuur - na rechterlijke uitspraken - dat deze praktijk tot het verleden behoort? Wordt een aantal van deze afgewezen asielzoekers nu vanwege «illegaliteit» met uitzetting bedreigd? </vraag>
+      <vraag nummer="4">Realiseert u zich, dat zij in China op grond van een door hen elders ingediend asielverzoek vervolgd kunnen worden? </vraag>
+      <vraag nummer="5">Deelt u de mening, dat op grond daarvan van uitzetting moet worden afgezien, zolang er geen duidelijkheid bestaat of Nederland zich daarmee schuldig maakt aan het verbod van refoulement op grond van artikel 33 van het VN-vluchtelingenverdrag? ' Trouw 9 januari 1993 en 4 februari 1993 </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1">Neen. De vreemdelingendienst zegt vreemdelingen wier asielverzoek is afgewezen aan ons land te verlaten. Dat is ook met deze groep gebeurd. </antwoord>
+      <antwoord nummer="2">Indien een afgewezen asielzoeker– die zijn kort geding heeft verloren dan wel niet heeft aangespannen - niet daadwerkelijk kan worden uitgezet vanwege het ontbreken van een geldig reisdocument, dan blijft de ROA nog enige tijd van toepassing om betrokkene en de justitiële autoriteiten in de gelegenheid te stellen de benodigde documenten te verkrijgen. Dit zal in veel gevallen niet langer dan twee maanden duren. Indien deze termijn te kort blijkt, maar er wel uitzicht bestaat op daadwerkelijke verwijdering, dan kan deze termijn nog enige tijd worden verlengd. Indien er geen uitzicht is op de daadwerkelijke verwijdering omdat betrokkene geen medewerking verleent, bijvoorbeeld door onjuiste informatie over zijn identiteit te verstrekken, dan worden de ROA-verstrekkingen stopgezet. In een zeer specifiek geval heeft een rechter in kort geding bepaald dat de ROA van toepassing blijft tot het moment waarop Justitie daadwerkelijk tot verwijdering over gaat. Het betrof hier afgewezen asielzoekers die wel medewerking verleenden aan het verkrijgen van de benodigde reisdocumenten. Deze uitspraak is dus in overeenstemming met het WVC-beleid op dit punt. </antwoord>
+      <antwoord nummer="3">De in de vraag bedoelde afgewezen asielzoekers hangt uitzetting boven het hoofd, indien zij niet op korte termijn zelf ons land verlaten. De vreemdelingendienst van Den Haag heeft hen nog enige tijd gegeven om zelf een reisdocument aan te vragen. </antwoord>
+      <antwoord nummer="4">Bij het aanvragen van een reisdocument wordt van de zijde van Vreemdelingendienst of Justitie aan de betreffende buitenlandse vertegenwoordiging niet medegedeeld dat de aanvrager een afgewezen asielzoeker is. </antwoord>
+      <antwoord nummer="5">Neen. Er is volgens artikel 33 van het Geneefs Vluchtelingenverdrag sprake van refoulement indien vluchtelingen worden gedwongen naar het land terug te keren ten aanzien waarvan zij gegronde redenen hebben te vrezen voor vervolging vanwege hun politieke, of godsdienstige overtuiging, nationaliteit, ras of het behoren tot een sociale groep. Ten aanzien van de in de vraag bedoelde groep asielzoekers is vastgesteld dat zij geen vluchteling zijn. Derhalve is het Geneefs Vluchtelingenverdrag niet op hen van toepassing. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

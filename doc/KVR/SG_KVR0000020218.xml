@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="1">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001832</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001832&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001832</item>
+         <item attribuut="Document-id">0000020218</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 813</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Beinema (CDA) en Niessen (PvdA) over de Stichting Open Theologisch Onderwijs.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 813</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">813</item>
+         <item attribuut="Indiener">
+            <persoon>Beinema</persoon>
+            <persoon>Niessen</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-07-08</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Ritzen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-08-19</item>
+         <item attribuut="Beginpagina">1693</item>
+         <item attribuut="Eindpagina">1694</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1693" allpagenumbers="1693" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="'s Gravenhage 1992"/>
+      <vraagdata vraagnummer="813" onderwerp="de Stichting Open Theologisch Onderwijs." indiendatum="1992-07-8">
+         <vrager partij="" oorsprong="parlement">Beinema</vrager>
+         <vrager partij="" oorsprong="parlement">Niessen</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-08-19">
+         <antwoorder functie="minister" ministerie="Onderwijs en Wetenschappen">Ritzen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="1">
+      <vraag nummer="1">Herïnnert u zich de positieve uitspraken, die u in de op 27 januari 1992 gehouden UCV over het HOOP', hebt gedaan over de werkzaamheden van de Stichting Open Theologisch Onderwijs? Discipline overlegorgaan Godgeleerdheid van de VSNU om de mogelijkheden tot onderlinge samenwerking tussen de Stichting Open Theologisch Onderwijs en de theologische faculteiten te onderzoeken. Dit overleg heeft tot de conclusie geleid dat het OThO en het Discipline overlegorgaan Godgeleerdheid van de VSNU vanuit een positieve grondhouding de mogelijkheden tot samenwerking in september 1992 nader zullen verkennen. Over de uitkomsten van dit overleg zal ik u informeren. Bent u bereid die woorden kracht bij te zetten, door te bevorderen dat de activiteiten van deze Stichting gefinancierd zullen gaan worden uit de bedragen die thans door de overheid ter beschikking van het theologie-onderwijs worden gesteld? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1">Ja. Ik heb overleg gevoerd met de Stichting Open Theologisch Onderwijs (OThO) en vertegenwoordigers van het </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

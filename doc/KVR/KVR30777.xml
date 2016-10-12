@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="4">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Koopmans (CDA) aan de minister van Verkeer en Waterstaat over de start van het reizigersvervoer op de HSL. (Ingezonden 22 januari 2008); Antwoord</item>
+         <item attribuut="Bestand">16Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR30777
+</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van het artikel 'Reizigersvervoer op de HSL pas in 2009' (AD, 18 januari 2008). Wat is de meest actuele streefdata voor de start van het tijdelijke vervoer en het vervoer met 300 kilometer per uur?</item>
+         <item attribuut="Rubriek">Verkeer, vervoer en waterstaat (Spoorwegen)</item>
+         <item attribuut="Trefwoorden">Spoorwegen</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2007-2008, nr. 1238, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070809100</item>
+         <item attribuut="Afkomstig_van">Verkeer en Waterstaat (VW)</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Koopmans</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2008-02-05</item>
+         <item attribuut="Datum_indiening">2008-01-22</item>
+         <item attribuut="Document-id">KVR30777</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="2647" allpagenumbers="2647" vetnummer="2070809100" code="0708tkkvr1238" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Aanhangsel" filenaam="KVR30777" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="1238" onderwerp="" indiendatum="2008-01-22">
+         <vrager partij="CDA" oorsprong="parlement">Koopmans</vrager>
+         <vraagt-aan>de minister van Verkeer en Waterstaat</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2008-02-5">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">Eurlings</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Hebt u kennisgenomen van het artikel «Reizigersvervoer op de HSL pas in 2009»? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Is het waar dat niet bekend is of de on board units voor de tijdelijke treinen alsnog beschikbaar komen? </vraag>
+      <vraag nummer="3">Heeft de hoge werkdruk bij de toeleveranciers gevolgen voor de streefdatum voor de start van het tijdelijke vervoer met 160 kilometer per uur? Zo ja, hebt u daar inzicht in? </vraag>
+      <vraag nummer="4">Kunt u de Kamer informeren over de meest actuele streefdata voor de start van het tijdelijke vervoer en het vervoer met 300 kilometer per uur? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="2008-01-18" bron="AD">AD, 18 januari 2008</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Vanaf september 2007 test Bombardier de On Board Unit van het tijdelijke TRAXX-materieel op de HSL-Zuid. Volgens opgave van de fabrikant zullen deze testen met een zekerheid van 90% nog tot eind februari doorgaan. Vervolgens zullen de TRAXX-locomotieven in het voorjaar 2008 beschikbaar komen voor de start van het proefbedrijf. </antwoord>
+      <antwoord nummer="3">Ik heb uw Kamer al eerder geïnformeerd over de problemen rond de introductie van het tijdelijke materieel op de HSL-Zuid en de ontwikkeling van ETCS-systemen in zijn algemeenheid. Ook bij de grote bedrijven is de expertise voor de ontwikkeling van ETCS-software schaars. In de huidige planningen is hiermee rekening gehouden. Momenteel is de Staat nauw betrokken bij de voortgang die de betrokken partijen boeken. Met Bombardier wordt op grond van wederzijdse informatie een zo realistisch mogelijke planning opgesteld. </antwoord>
+      <antwoord nummer="4">Zoals ik herhaaldelijk in uw Kamer aangaf wil ik mij niet binden aan harde data als daar nog veel onzekerheden aan verbonden zijn. Ik verwacht een indicatie te kunnen geven van de streefdata bij de aanbieding van de eerstvolgende voortgangsrapportage van de HSL-Zuid. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

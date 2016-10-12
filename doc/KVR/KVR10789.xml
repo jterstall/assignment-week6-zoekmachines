@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Wagenaar (PvdA) aan de minister voor Grote Steden- en Integratiebeleid en de staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties over meldkamers van brandweerkorpsen en het millenniumprobleem. (Ingezonden 25 november 1999); Antwoord</item>
+         <item attribuut="Bestand">14Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR10789
+</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van een artikel in Het Parool van 22 november 1999 over het feit dat de alarmcentrale van de Amsterdamse brandweer niet millenniumbestendig is.</item>
+         <item attribuut="Rubriek">Communicatie, media en informatievoorziening (Hard- en software) Criminaliteit en openbare orde (Brandpreventie en brandbestrijding)</item>
+         <item attribuut="Trefwoorden">Automatisering Brandweer</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 1999-2000, nr. 475, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2990003360</item>
+         <item attribuut="Afkomstig_van">Grote Steden- en Integratiebeleid (GSI) Binnenlandse Zaken en Koninkrijksrelaties (BZK)</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Wagenaar</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1999-12-16</item>
+         <item attribuut="Datum_indiening">1999-11-25</item>
+         <item attribuut="Document-id">KVR10789</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1999–2000" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1075" allpagenumbers="1075" vetnummer="2990003360" code="" lopendefooter="Tweede Kamer, vergaderjaar 1999–2000, Aanhangsel" filenaam="KVR10789" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 1999"/>
+      <vraagdata vraagnummer="475" onderwerp="" indiendatum="1999-11-25">
+         <vrager partij="PvdA" oorsprong="parlement">Wagenaar</vrager>
+         <vraagt-aan>de minister voor Grote Steden- en Integratiebeleid en de staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1999-12-16">
+         <antwoorder functie="staatssecretaris" ministerie="Binnenlandse Zaken en Koninkrijksrelaties">De Vries</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1" voetnoot="1">Heeft u kennis genomen van het feit dat de alarmcentrale van de Amsterdamse brandweer niet millenniumbestendig is? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Klopt het dat de Amsterdamse brandweer afhankelijk is van door het ministerie van Binnenlandse Zaken aan te leveren software? </vraag>
+      <vraag nummer="3">Zo ja, wanneer wordt deze software aangeleverd? </vraag>
+      <vraag nummer="4">Welke meldkamers van brandweerkorpsen in andere regio’s hebben ook met deze problematiek te kampen? </vraag>
+      <vraag nummer="5">Zijn de meldkamers van alle brandweerkorpsen in Nederland op 31 december 1999 millenniumbestendig? </vraag>
+      <vraag nummer="6">Hebben de meldkamers van alle brandweerregio’s noodscenario’s klaar liggen en oefeningen gehouden? </vraag>
+      <vraag nummer="7">Zijn de andere vitale functies van de brandweerkorpsen rond de eeuwwisseling millenniumbestending? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1999-11-22" bron="Het Parool">Het Parool, 22 november 1999</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="6">
+      <antwoord nummer="1">Ja. Het niet volledig millenniumbestendig zijn van de alarmcentrale van de regionale brandweer Amsterdam en Omstreken betreft één onderdeel binnen deze alarmcentrale. Dit onderdeel is het meldkamersysteem (ARBAC). </antwoord>
+      <antwoord nummer="2 en 3">De software van het meldkamersysteem is medio 1999 getest en millenniumbestendig bevonden. Eind september 1999 bleek dat, in geval van een z.g. systeem-crash, er na de jaarwisseling een probleem kan optreden. Dit probleem is recentelijk verholpen. De aangepaste software is grondig getest en is door de leverancier die in opdracht van Binnenlandse Zaken en Koninkrijksrelaties het onderhoud aan de ARBAC-software verricht ondertussen verspreid naar alle regio’s die ARBAC gebruiken. Na installatie van deze software (gepland in week 49) zal het probleem verholpen zijn. </antwoord>
+      <antwoord nummer="4">Het ARBAC-systeem is in gebruik bij 17 van de 39 brandweerregio’s. Daar het een generiek probleem betrof hebben al deze regio’s hetzelfde probleem met ARBAC. De overige brandweerregio’s gebruiken ARBAC niet en kennen dit probleem daarom niet. </antwoord>
+      <antwoord nummer="5">Ja, alle vitale (landelijke) systemen in de meldkamers zijn getest en millenniumbestendig bevonden. </antwoord>
+      <antwoord nummer="6">Aan de hand van de vanuit de regio’s verkregen informatie kan deze vraag bevestigend beantwoord worden. </antwoord>
+      <antwoord nummer="7">Aan de hand van de uit het land verkregen informatie zijn de vitale functies van de brandweerkorpsen gewaarborgd tijdens en na de millenniumwisseling. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

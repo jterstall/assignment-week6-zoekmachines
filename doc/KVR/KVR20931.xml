@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="5">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid De Wit (SP) aan de minister van Binnenlandse Zaken en Koninkrijksrelaties over het C2000-systeem. (Ingezonden 12 juli 2004); Antwoord</item>
+         <item attribuut="Bestand">17Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR20931
+</item>
+         <item attribuut="Inhoud">Vragen over de toegang voor de media tot het C2000-systeem.</item>
+         <item attribuut="Rubriek">Communicatie, media en informatievoorziening (Algemeen) Communicatie, media en informatievoorziening (Telecommunicatie) Criminaliteit en openbare orde (Algemeen)</item>
+         <item attribuut="Trefwoorden">Massamedia Openbare orde en veiligheid Telecommunicatie</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2003-2004, nr. 2116, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2030417790</item>
+         <item attribuut="Afkomstig_van">Binnenlandse Zaken en Koninkrijksrelaties (BZK)</item>
+         <item attribuut="Indiener">
+            <persoon partij="SP">De Wit</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2004-08-20</item>
+         <item attribuut="Datum_indiening">2004-07-12</item>
+         <item attribuut="Document-id">KVR20931</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2003–2004" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="4469" allpagenumbers="4469 4470" vetnummer="2030417790" code="0304tkkvr2116" lopendefooter="Tweede Kamer, vergaderjaar 2003–2004, Aanhangsel" filenaam="KVR20931" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2004"/>
+      <vraagdata vraagnummer="2116" onderwerp="" indiendatum="2004-07-12">
+         <vrager partij="SP" oorsprong="parlement">De Wit</vrager>
+         <vraagt-aan>de minister van Binnenlandse Zaken en Koninkrijksrelaties</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2004-08-20">
+         <antwoorder functie="minister" ministerie="Binnenlandse Zaken en Koninkrijksrelaties">Remkes</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1">Kent u de brief die de Nederlandse Vereniging van Journalisten (NVJ) en het Genootschap van Hoofdredacteuren u in mei van dit jaar hebben geschreven over een onbelemmerde toegang voor de media tot het C2000-systeem? </vraag>
+      <vraag nummer="2">Onderschrijft u dat voor de media een dergelijke toegang van cruciaal belang is om het publiek tijdig en goed te kunnen informeren over grote en kleine calamiteiten? </vraag>
+      <vraag nummer="3">Is dit niet mogelijk in het C2000-systeem? </vraag>
+      <vraag nummer="4">Bent u bereid de media deze toegang alsnog te verlenen? </vraag>
+      <vraag nummer="5">Zo ja, wat vindt u van de door de NVJ en het Genootschap van Hoofdredacteuren in bedoelde brief voorgestelde oplossing respectievelijk uitvoeringsregels? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1">Ja. Deze brief is in juni ontvangen en op 7 juli beantwoord. </antwoord>
+      <antwoord nummer="2">Ik heb begrip voor het standpunt van de NVJ dat de media zo snel mogelijk geïnformeerd willen worden over nieuwswaardige feiten en gebeurtenissen. Echter dat hiervoor toegang tot C2000 nodig zou zijn onderschrijf ik niet. De media hebben meerdere mogelijkheden om aan nieuws te komen, het afluisteren van het huidige analoge radioverkeer van hulpverleningsdiensten is slechts één nieuwsbron. Nu deze bron met C2000 opdroogt, zullen de media naar andere informatiebronnen moeten zoeken. Het ministerie van BZK heeft hierover overleg gevoerd met de NVJ en vertegenwoordigers van diverse media. Een werkgroep, bestaande uit communicatieadviseurs van BZK en van de hulpverleningsdiensten, onderzoekt of er mogelijkheden zijn te komen tot een eenduidig mediabeleid en persalarmeringssysteem. Ik verwacht aan het eind van de zomer een advies van de werkgroep aan de bestuurders van de hulpverleningsdiensten. </antwoord>
+      <antwoord nummer="3">Technisch gezien kan een journalistieke organisatie toegelaten worden tot het C2000-systeem. Hiervoor is het gelieerdenbeleid C2000 opgesteld. De media voldoen echter niet aan de toelatingscriteria van dit beleid. Het feit dat de media niet meer in staat zijn de digitale communicatie tussen hulpverleners af te luisteren en geen toegang zullen krijgen tot het C2000-netwerk, wil niet zeggen dat ze geen informatie ontvangen vanuit de hulpverleningsdiensten. Persvoorlichters zullen bij invoering van C2000 net als nu een belangrijke rol spelen bij het informeren van de media. Er wordt door de werkgroep bezien welke mogelijkheid er is om de media te alarmeren bij nieuwswaardige gebeurtenissen. </antwoord>
+      <antwoord nummer="4">Nee. Bij het opstellen van de functionele eisen ten aanzien van het C2000-systeem, hebben de gebruikers van het netwerk aangegeven dat de communicatie tussen hulpverleners onderling en tussen hulpverleners en centralisten niet afluisterbaar mag zijn door derden. Het verleden heeft meerdere malen uitgewezen dat hulpverleners in hun werkzaamheden kunnen worden gehinderd door scannerluisteraars. De eerste ervaringen met C2000 wijzen uit dat de hulpverlening effectiever is wanneer de hulpverleners niet worden afgeluisterd. Zorg voor de veiligheid van hulpverlener en burger en de effectiviteit van de hulpverlening, heeft mijn prioriteit. Overigens deel ik de mening van de NVJ dat de media een belangrijke rol spelen bij het accuraat informeren over calamiteiten, vandaar ook het initiatief voor de werkgroep om een advies uit te brengen over een eenduidig mediabeleid en persalarmeringssysteem. Overigens waardeer ik de inzet van de NVJ om te komen met voorstellen. </antwoord>
+      <antwoord nummer="5">Het voorstel doelt op het toegang krijgen tot C2000. Hierop wil ik niet ingaan vanwege al eerder aangegeven redenen. Ik verwacht van de werkgroep een werkbaar advies aan de besturen van de hulpverleningsdiensten. De NVJ zal hierover geïnformeerd worden. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

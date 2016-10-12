@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19851986:0001470</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001470&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001470</item>
+         <item attribuut="Document-id">0000115030</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1985-1986 nummer 549</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Knol (P.v.d.A.) over de houding ten opzichte van een Surinaamse student.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1985-1986 nummer 549</item>
+         <item attribuut="Jaargang">1985_1986</item>
+         <item attribuut="Vraagnummer">549</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Knol</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-02-25</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-03-19</item>
+         <item attribuut="Beginpagina">1091</item>
+         <item attribuut="Eindpagina">1092</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1985-1986 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 5 - 1 9 8 6 , Aanhangsel 1091 " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="549" onderwerp="de houding ten opzichte van een Surinaamse student." indiendatum="25 februari 1986)">
+         <vrager partij="PvdA" oorsprong="parlement">Knol</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1 ">Bent u bereid deze Kamer in te  lichten over hetgeen met betrekking  tot de Surinaamse student Redgan  Van Sauers sinds 30 juli 1985 tot op  heden is gebeurd?  </vraag>
+      <vraag nummer="2 ">Welke houding heeft de Nederlandse  vertegenwoordiging in Suriname ter  zake ingenomen?  Zie de weekkrant «Suriname», 6e  jaargang nr. 8/278.  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

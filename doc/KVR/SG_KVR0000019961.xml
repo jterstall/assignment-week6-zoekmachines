@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001575</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001575&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001575</item>
+         <item attribuut="Document-id">0000019961</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 557</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Leerling (RPF) over verzonden aanmaningen naar Vpb-belastingplichtigen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 557</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">557</item>
+         <item attribuut="Indiener">
+            <persoon partij="RPF">Leerling</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-03-26</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van Amelsvoort</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-04-27</item>
+         <item attribuut="Beginpagina">1173</item>
+         <item attribuut="Eindpagina">1174</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1173" allpagenumbers="1173 1174" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraal 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="557" onderwerp="verzonden aanmaningen naar Vpb-belastingplichtigen." indiendatum="26maart 1992">
+         <vrager partij="RPF" oorsprong="parlement">Leerling</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-04-27">
+         <antwoorder functie="staatssecretaris" ministerie="Financiën">Van Amelsvoort</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1">Bent u op de hoogte van het feit, dat recentelijk een grote hoeveelheid aanmaningen naar Vpb-belastingplichtigen is verzonden door de belastingdienst, hoewel tijdig (bijzonder) uitstel is aangevraagd?' </vraag>
+      <vraag nummer="2">Zo ja, kan worden aangegeven op welke schaal dit probleem zich voordoet? Zo neen, bent u bereid om u daarvan op de hoogte te stellen en daarvan verslag te doen aan deze Kamer? Hoeveel aanmaningen zijn in maart 1992 verzonden in verband met aangiften kalenderjaar VpB 1990? Hoeveel zijn daarvan ten onrechte verzonden? </vraag>
+      <vraag nummer="4">Welke beleidslijnen worden gehanteerd als het gaat om tijdige verwerking van de uitstelaanvragen door de kantoorinspecteur en door de diverse eenheden? Strekken de beleidslijnen tot beantwoording binnen een bepaalde termijn? </vraag>
+      <vraag nummer="5">Doen zich dezelfde problemen voor bij het verlenen van uitstel voor de aangiften inkomstenbelasting? Zo ja, kunt u aangeven hoeveel aanmaningen voor de aangifte inkomstenbelasting voor het jaar 1990 zijn verzonden in maart 1992? Hoeveel zijn daarvan ten onrechte verzonden? Verdient het aanbeveling om - indien de eenheden niet in staat zijn de uitstelaanvragen tijdig te verwerken - de aanmaningen op een later tijdstip aan te maken en te verzenden (bijvoorbeeld de laatste werkdag van maart)? Zo neen, waarom niet? </vraag>
+      <vraag nummer="7">Hebt u regelmatig overleg met de belastingconsulenten? Is dit probleem al eens ter tafel gekomen? Wat waren toen de afspraken/conclusies? </vraag>
+      <vraag nummer="8">Bent u bereid er voor zorg te dragen dat in de toekomst de beschreven «ergernissen» niet wederom zullen optreden? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" titel="Uitstelregeling Belastmgconsulenten"> Er zouden problemen zijn rond de uitvoering van de «Uitstelregeling Belastmgconsulenten» Op grond van deze regeling (uitgave december 1989) dient de consulent voor de aangiften vennootschapsbelasting (VpB) 1990 (kalenderjaar) vóór 15 februari 1992 bijzonder uitstel aan te vragen voor die aangiftebiljetten VpB die naar verwachting niet vóór 1 maart 1992 kunnen worden ingeleverd Ondanks het feit dat (in bepaalde gevallen) vóór de 15e februari 1992 bijzonder uitstel is aangevraagd, zijn recent door de belastingdienst - voor zover kon worden nagegaan -op grote schaal aanmaningen verzonden naar de diverse belastingplichtigen. Deze aanmaningen vermelden dat indien niet binnen tien dagen het aangiftebiljet wordt ingeleverd, er een boete wordt opgelegd</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1 t/m3">De procedure binnen de zgn. belastingconsulenten-regeling houdt in dat uitstel voor inlevering van de aangifte moet worden aangevraagd bij de «kantoorinspecteur». Dat is het hoofd van de eenheid waaronder de belastingconsulent ressorteert. De kantoorinspecteur stelt vervolgens de «middelinspecteur» van een verleend uitstel op de hoogte. De «middelinspecteur» is het hoofd van de eenheid waaronder de belastingplichtige ressorteert. De «middelinspecteur» meldt een belastingplichtige die voor een aanmaning in aanmerking komt langs electronische weg aan bij de Centrale verwerkingseenheid in Apeldoorn. De Centrale verwerkingseenheid maakt de aanmaningen aan en verzendt die ook. Op 1 maart 1992 verstreek de periode waarvoor een verlengd uitstel is verleend voor de aangiften vennootschapsbelasting 1990. Bijzonder uitstel moest worden aangevraagd vóór 15 februari 1992. Op 10 maart 1992 zijn geselecteerd de belastmgplichtigen die hun aangifte nog niet hadden ingediend en evenmin verder uitstel hadden aangevraagd. Op basis van deze geschiedt, dat daardoor onnodige aanmaningen worden voorkomen. Ik merk hier overigens bij op dat de ervaring leert dat op of omstreeks de uiterste inleverdatum een concentratie van inzendingen plaatsvindt. Hoewel dit op zich geen reden mag zijn voor het ten onrechte verzenden van aanmaningen, kan het voorkomen dat dit door een piek in werkzaamheden toch gebeurt. Dit geeft mij overigens geen aanleidmg te overwegen de termijn voor het verzenden van aanmaningen te wijzigen. Het streven van de Belastingdienst blijft gericht op een tijdige verwerking. De eenheden is er op gewezen hier de nodige aandacht aan te blijven schenken. Tenslotte merk ik op, dat de Belastingdienst in het meerjarig beleidsplan voor de jaren 1993 tot en met 1997 wel een doelstelling heeft geformuleerd voor een stringenter uitstelbeleid bij de inlevering van aangiftebiljetten vennootschapsbelasting. Dit zal moeten leiden tot een inlevering van de aangiften die dichter aansluit bij het einde van het belastmgjaar Hoewel niet kan worden uitgesloten dat ook voor de aangiften inkomstenbelasting ten onrechte aanmaningen worden verzonden, hebben mij geen berichten bereikt dat hierbij van problemen sprake zou zijn. </antwoord>
+      <antwoord nummer="6"/>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

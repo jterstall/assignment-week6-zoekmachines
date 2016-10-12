@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19871988:0001216</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001216&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001216</item>
+         <item attribuut="Document-id">0000098930</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1987-1988 nummer 277</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Swildens-Rozendaal (P.v.d.A.) over het natuurreservaat de Groote Peel.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1987-1988 nummer 277</item>
+         <item attribuut="Jaargang">1987_1988</item>
+         <item attribuut="Vraagnummer">277</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Swildens-Rozendaal</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-11-26</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Braks</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1988-01-20</item>
+         <item attribuut="Beginpagina">553</item>
+         <item attribuut="Eindpagina">554</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="" typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 7 - 1 9 8 8 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="277" onderwerp="het natuurreser- vaat de Groote Peel." indiendatum="2 6 november 1987)">
+         <vrager partij="PvdA" oorsprong="parlement">Swildens-Rozendaal</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 ">Hebt u kennis genomen van de  verontruste conclusies uit het  eindrapport «Geohydrologische  modelstudie van de Groote Peel en  omgeving»?  </vraag>
+      <vraag nummer="2 ">Deelt u de conclusie, dat drainage in  de omgeving van de Groote Peel  effecten heeft op de hydrologie van  de Groote Peel zelf?  </vraag>
+      <vraag nummer="3 ">Deelt u de conclusies, dat uitbreiding  van drainage-voorzieningen op  landbouwgronden in de omgeving  van de Groote Peel verstrekkende  gevolgen heeft op de waterhuishou- ding binnen de Groote Peel zelf,  waardoor verdroging van dit natuur- reservaat zal optreden en regeneratie  van dit hoogveengebied illusoir  wordt?  </vraag>
+      <vraag nummer="4 ">Deelt u de mening van de particuliere  natuurbescherming, dat gezien de  internationale verantwoordelijkheid  van ons land voor het behoud van de  Groote Peel, op zeer korte termijn  maatregelen dienen te worden  genomen, die verdere drainage een  halt toeroepen en dat het wachten op  de resultaten van nieuw overleg  vertragend werkt?  Bent u bereid op korte termijn  maatregelen te nemen, die een  duurzaam behoud van de Groote  Peel garanderen, en indien u hiertoe  niet  g e m a c h t i g d bent of indien deze  maatregelen niet afdoende zijn, te  bevorderen, dat de minister van  Volkshuisvesting, Ruimtelijke  Ordening en Milieubeheer een  aanwijzing geeft aan de betreffende  gemeentebesturen?  Zie ook het antwoord op eerdere  schriftelijke vragen ter zake, aan- hangsel Handelingen, vergaderjaar  1 9 8 6 - 1 9 8 7 , nr.  9 6 8 .  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="woord, omdat ik nog niet beschik" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001684</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001684&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001684</item>
+         <item attribuut="Document-id">0000036091</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 760</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Willems en Van Es (beiden Groen Links) over vernielingen op het kazerneterrein Lunetten.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 760</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">760</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Willems</persoon>
+            <persoon partij="Groen Links">Van Es</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-06-12</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Hirsch Ballin</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-07-04</item>
+         <item attribuut="Beginpagina">1535</item>
+         <item attribuut="Eindpagina">1536</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990 Aanhangsel van de Handelingen" typehandeling="Vergaderjaar 1989-1990 Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="SDU uitgeverij s Gravenhage 1990 Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel 1535" filenaam="" issn-nummer="" uitgever="SDU uitgeverij s Gravenhage 1990 Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel 1535"/>
+      <vraagdata vraagnummer="over" onderwerp="alle benodigde inlichtingen. Ik 760 streef ernaar u voor 20 juli mijn antwoord te doen toekomen. Vragen van de leden Willems en Van Es (beiden Groen Links) over vernielingen op het kazerneterrein Lunetten." indiendatum="12juni 1990">
+         <vrager partij="Groen Links" oorsprong="parlement">Willems</vrager>
+         <vrager partij="Groen Links" oorsprong="parlement">Van Es</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Is er inmiddels al een beslissing genomen door het Openbaar Minis– terie over het al dan niet overgaan tot strafvervolging inzake de in maart op het kazerneterrein Lunetten te Vught aangebrachte vernielingen? </vraag>
+      <vraag nummer="2">Welke rol speelt daarbij het feit, dat één van beide verdachten een BVD-infiltrant was? </vraag>
+      <vraag nummer="3">Is inmiddels de identiteit van de verdachten vastgesteld? </vraag>
+      <vraag nummer="4">Heeft de minister van Defensie respectievelijk de commandant van de betreffende kazerne een verzoek tot strafvervolging ingediend? Zo neen, waarom niet? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+   <mededeling mededeler="Hirsch Ballin" functie="minister" afdeling="Justitie" mededelingdatum="1990-07-4">Mededeling van minister Hirsch Ballin (Justitie). (Ontvangen 4 juli 1990) Met verwijzing naar uw brief van 13 juni 1990 deel ik u mee dat de vragen van de leden van uw Kamer Willems en Van Es over vernieti– gingen op het kazerneterrein Lunetten niet binnen de gebruikelijke termijnen kunnen worden beant– </mededeling>
+</kvr>

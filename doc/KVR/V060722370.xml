@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="realistische tijdsplanning geven?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Roemer en Jansen (beiden SP) aan de minister van Verkeer en Waterstaat over het weinige gebruik van de Betuwelijn. (Ingezonden 2 augustus 2007)</item>
+         <item attribuut="Bestand">12Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V060722370
+</item>
+         <item attribuut="Inhoud">Vragen over het nog lage gebruik van de Betuwelijn en over de duur van de werkzaamheden in Duitsland waarvan de Betuweroute hinder ondervindt (Volkskrant, 1 augustus 2007).</item>
+         <item attribuut="Rubriek">Verkeer, vervoer en waterstaat (Goederenvervoer) Verkeer, vervoer en waterstaat (Spoorwegen)</item>
+         <item attribuut="Trefwoorden">Goederenvervoer Spoorwegen</item>
+         <item attribuut="Vindplaats">Kamervragen 2006-2007, vraagnr. 2060722370, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2060722370</item>
+         <item attribuut="Indiener">
+            <persoon partij="SP">Roemer</persoon>
+            <persoon partij="SP">Jansen</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2007-08-02</item>
+         <item attribuut="Document-id">V060722370</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2006–2007" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0607tkkvl2060722370" lopendefooter="Tweede Kamer, vergaderjaar 2006–2007, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2007"/>
+      <vraagdata vraagnummer="2060722370" onderwerp="" indiendatum="2007-08-2">
+         <vrager partij="SP" oorsprong="parlement">Roemer</vrager>
+         <vrager partij="SP" oorsprong="parlement">Jansen</vrager>
+         <vraagt-aan>de minister van Verkeer en Waterstaat</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1" voetnoot="1">Wat is uw mening over het weinige gebruik van de Betuweroute sinds de opening? <voetnoot nummer="1"/>Hoe vaak is gebruik van deze spoorlijn gemaakt? </vraag>
+      <vraag nummer="2">Hoeveel inkomsten waren er begroot voor het gebruik van deze lijn en hoeveel inkomsten zijn er feitelijk gerealiseerd sinds 15 juni 2007? Hoe ontwikkelt zich dit de rest van het jaar? </vraag>
+      <vraag nummer="3">Is het waar dat de Betuweroute ernstig hinder ondervindt van werkzaamheden in Duitsland? Zo ja, waarom is met de openstelling van de Betuweroute hier geen rekening mee gehouden? </vraag>
+      <vraag nummer="4" voetnoot="2">Is bij de besprekingen van de intentieovereenkomst tussen Duitsland en Nederland over de infrastructurele uitbreiding tot Oberhausen op 22 januari 2007 ook gesproken over deze Duitse werkzaamheden? <voetnoot nummer="2"/>Zo neen, wat is uw mening hierover? Zo ja, hoe heeft u dit aan de Kamer medegedeeld? Kunt u uw antwoord toelichten? </vraag>
+      <vraag nummer="5">Is het waar dat er nog veel werkzaamheden moeten worden verricht aan de Duitse kant van de lijn die er toe zullen leiden dat er minder gebruik van de Betuweroute gemaakt zal worden? Wanneer zullen werkzaamheden worden verricht en welke overlast zal dit voor de Betuweroute opleveren? </vraag>
+      <vraag nummer="6">Wanneer hebben de vervoerders voldoende materieel om de Betuweroute optimaal te gebruiken en wanneer zou het vervoer met gevaarlijke stoffen over de Betuweroute kunnen plaatsvinden? </vraag>
+      <vraag nummer="7">Welke maatregelen gaat u nemen om ervoor te zorgen dat de Betuweroute zo snel mogelijk optimaal gebruikt gaat worden? Kunt u hierbij ook een </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" datum="2007-08-1" bron="de Volkskrant">de Volkskrant, 1 augustus 2007</noot>
+         <noot nummer="2">Brief van de minister van Verkeer en Waterstaat op 13 februari 2007, 22 589, nr. 284</noot>
+      </noten>
+   </antwoorden>
+</kvr>

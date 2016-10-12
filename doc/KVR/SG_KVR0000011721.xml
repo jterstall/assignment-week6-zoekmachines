@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001417</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001417&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001417</item>
+         <item attribuut="Document-id">0000011721</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 487</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Te Veldhuis en Wiebenga (beiden VVD) over verantwoordelijkheden bij de bouw van afvalverwerkingsinrichtingen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 487</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">487</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Te Veldhuis</persoon>
+            <persoon partij="VVD">Wiebenga</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-03-05</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Alders</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-04-13</item>
+         <item attribuut="Beginpagina">995</item>
+         <item attribuut="Eindpagina">996</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="995" allpagenumbers="995 996" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="487" onderwerp="verantwoordelijkheden bij de bouw van afvalverwerkingsinrichtingen." indiendatum="1993-03-5">
+         <vrager partij="VVD" oorsprong="parlement">Te Veldhuis</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Wiebenga</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="13april 1993">
+         <antwoorder functie="minister" ministerie="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer">Alders</antwoorder>
+         <mede-antwoorder>de staatssecretaris van Binnenlandse Zaken</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1">Kent u het bericht, dat de provincie Zuid-Holland niet wil meebetalen aan de kosten ad f 120 miljoen die resteren nu de afvaloven bij Ypenburg niet wordt gebouwd ten gevolge van gewijzigde prognoses inzake het aanbod van afval in 35 gemeenten van het samenwerkingsverband Afvalverwijdering Zuid-Holland West?' </vraag>
+      <vraag nummer="2">Is er, los van de formele aspekten, niet een gezamenlijke morele verantwoordelijkheid van verschillende overheden omdat de planning van afvalverwerking zowel op rijksniveau (in het AOO-afvaloverlegorgaan) als op provinciaal niveau (in de afvalstoffenplannen) plaatsvindt, terwijl de uitvoering vooral geschiedt door gemeenten of samenwerkingsvormen daarvan? </vraag>
+      <vraag nummer="3">Indien u het eens bent met de in vraag 2 genoemde benadering, hoe beoordeelt u dan de (eventuele verdeling van) financiële verantwoordelijkheden terzake, met name in morele zin, als er zich wijzigingen voordoen in prognoses en planningen? </vraag>
+      <vraag nummer="4">Indien u de uitvoerende en fmanciele verantwoordelijkheid uitsluitend wilt leggen bij de uitvoerende instantie(s) - zoals in casu bij de SAVA –, hoe beoordeelt u dan de toekomstige bereidheid van uitvoerende instanties om loyaal, initiërend en slagvaardig mee te werken aan de realisatie van afvalverwerkingsinrichtingen die door hogere overheden worden gepland. Hoe schat u de kans in, dat dergehjke uitvoerende instanties pas zullen gaan meewerken vanaf het moment dat zeker is dat zij geen financiële risico's meer zullen lopen? </vraag>
+      <vraag nummer="5">Hoe beoordeelt u de kans op vertraging bij de totstandkoming van de noodzakelijke afvalverwerkingsinrichtingen die bovendien moeten beschikken over alle terzake benodlgde vergunningen, indien u de in vraag 4 bedoelde opvatting huldigt? </vraag>
+      <vraag nummer="6">Hoe beoordeelt u de bereidheid van het particuliere bedrijfsleven om deel te nemen aan de realisatie van afvalverwerkingsinrichtingen, indien deze laatste de financiële risico's van wijzigingen in de (overheids-)planning moeten dragen? </vraag>
+      <vraag nummer="7">Wat vindt u van de gedachte om samen met het Afval Overleg Orgaan, met het Interprovinciaal Overleg, en met de Vereniging van Nederlandse Gemeenten te komen tot afspraken over de verdeling van eerder genoemde verantwoordelijkheden over alle betrokken overheidsorganen onder gelijktijdige waarborging van een snelle en efficiënte, totstandkoming van de noodzakelijke afvalverwerkingsinrichtingen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1993-02-26" bron=" Binnenlands Bestuur"> Binnenlands Bestuur, 26 februari 1993</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja. De in de vraag gegeven voorstelling van zaken is niet juist. Zowel op grond van de Afvalstoffenwet als in de desbetreffende artikelen van de daarvoor in de plaats gekomen Wet milieubeheer zijn de provmcies verantwoordelijk voor de planning van de afvalverwerking. In het Afval Overleg Orgaan plegen vertegenwoordigers van de drie overheidslagen overleg en afstemming over ondermeer de totaal in Nederland op te richten verbrandingscapaciteit. Het in augustus 1992 uitgebrachte Tienjarenprogramma Afval 1992-2002 (TJP.A) geeft de programmering daarvoor aan. Het is aan de desbetreffende provincies en zich wijzigingen voordoen in prognoses en planningen. Daarbij merk ik op dat het TJP.A een programmering kent die met betrekking tot de op te richten verbrandingscapaciteit uitgaat van het behalen van de doelstellingen van het NMP(plus) en een ten opzichte van het Actieprogramma Groente–, fruit– en tuinafval aangescherpte taakstelling voor gescheiden in te zamelen gft-afval. De geplande verbrandingscapaciteit is derhalve scherp geprogrammeerd en elke drie jaar zal het TJP.A opnieuw worden vastgesteld. Op deze wijze wordt de planning periodiek geactualiseerd en kan te zijner tijd het wel of niet uitbreiden c.q. vervangen van installaties en daarmede gepaard gaande financiële consequenties goed worden voorzien. </antwoord>
+      <antwoord nummer="4">Planning van de verwerkingscapaciteit door middel van het vaststellen van het TJP.A vindt plaats via gestructureerd overleg en afstemming door de betrokken overheden in het Afval Overleg Orgaan. Waar de vraag betrekking heeft op een door hogere overheden opgelegde planning, is dat derhalve onjuist. Gelet op de huidige gang van zaken heb ik geen reden om aan te nemen dat uitvoerende instanties hun verplichting tot het voorzien in voldoende verwerkingscapaciteit niet zullen nakomen. Daarbij merk ik nog op dat de huidige wijze van plannen deze instanties juist meer zekerheid verschaft omtrent op te richten capaciteit. Immers vanuit een eenduidig kader als het NMP(plus) verwerkingscapaciteit dermate voorzienbaar, dat een wijziging in de planning niet zulke financiële risico's zal inhouden dat het particuliere bedrijfsleven om die reden zou afhaken. Overigens merk ik op dat verbrandingsinstallaties vrijwel in alle gevallen worden opgericht door (samenwerkende) gemeenten. Op deze wijze houdt de overheid ook greep op dit als cruciaal aan te merken onderdeel van de verwijderingskosten. </antwoord>
+      <antwoord nummer="7">Om misverstanden te voorkomen merk ik allereerst op dat het Afval Overleg Orgaan bestaat uit vertegenwoordigers van rijk, provincies en gemeenten. Derhalve staat het AOO niet naast het rijk, IPO en VNG. Wat het maken van afspraken betreft over een verdeling van financiële verantwoordelijkheden over alle betrokken overheden onder gelijktijdige waarborging van een snelle en efficiënte totstandkoming van de onderhavige inrichtingen, wijs ik op een aantal elementen uit vorenstaand gegeven antwoorden. Daarin is reeds aangegeven dat op grond van een goed doordachte en periodiek te actualiseren planning door de met de uitvoerïng belaste overheden zorg wordt gedragen voor continu beschikbare verwerkingscapaciteit. Zij betrekken daarbij tevens het te verkrijgen aanbod aan te verwerken afvalstoffen. Ik zie dan ook geen aanleiding om een verschuiving tot stand te brengen in de in desbetreffende wetten neergelegde taken en bevoegdheden. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

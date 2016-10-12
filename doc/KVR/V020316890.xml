@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="bemiddeling?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Bussemaker (PvdA) aan de minister van Sociale Zaken en Werkgelegenheid over het mogelijke ontslag van de directeur van de Amsterdamse NV Werk. (Ingezonden 8 september 2003)</item>
+         <item attribuut="Bestand">12Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V020316890
+</item>
+         <item attribuut="Rubriek">Arbeid (Arbeidsbemiddeling) Arbeid (Werkloosheidsbestrijding)</item>
+         <item attribuut="Trefwoorden">Arbeidsbemiddeling Werkloosheidsbestrijding</item>
+         <item attribuut="Vindplaats">Kamervragen 2002-2003, vraagnr. 2020316890, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2020316890</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Bussemaker</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2003-09-08</item>
+         <item attribuut="Document-id">V020316890</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2002–2003" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0203tkkvl2020316890" lopendefooter="Tweede Kamer, vergaderjaar 2002–2003, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2003"/>
+      <vraagdata vraagnummer="2020316890" onderwerp="" indiendatum="2003-09-8">
+         <vrager partij="PvdA" oorsprong="parlement">Bussemaker</vrager>
+         <vraagt-aan>de minister van Sociale Zaken en Werkgelegenheid</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1" voetnoot="1">Heeft u kennisgenomen van het artikel <voetnoot nummer="1"/>over het vrijwel zekere ontslag van directeur Paul Verheij van de Amsterdamse NV Werk? </vraag>
+      <vraag nummer="2">Wat zijn de gevolgen van de problemen bij de NV Werk voor werklozen die afhankelijk zijn van hun </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" datum="2003-09-1" bron="Het Parool">Het Parool, 1 september 2003</noot>
+      </noten>
+   </antwoorden>
+</kvr>

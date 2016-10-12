@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19871988:0001547</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001547&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001547</item>
+         <item attribuut="Document-id">0000099261</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1987-1988 nummer 604</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Beckers-de Bruijn en Lankhorst (beiden P.P.R.) over aard en omvang van door Nederlandse militairen begane excessen in Indonesië.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1987-1988 nummer 604</item>
+         <item attribuut="Jaargang">1987_1988</item>
+         <item attribuut="Vraagnummer">604</item>
+         <item attribuut="Indiener">
+            <persoon partij="PPR">Beckers-de Bruijn</persoon>
+            <persoon partij="PPR">Lankhorst</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1988-05-17</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Lubbers</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1988-06-07</item>
+         <item attribuut="Beginpagina">1213</item>
+         <item attribuut="Eindpagina">1214</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 7 - 1 9 8 8 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer,  m e t de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e  K a m e r , vergaderjaar  1 9 8 7 - 1 9 8 8 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="604" onderwerp="aard en omvang van door Nederlandse militairen begane excessen in Indonesië." indiendatum="17 mei 1988)">
+         <vrager partij="PPR" oorsprong="parlement">Beckers-de Bruijn</vrager>
+         <vrager partij="PPR" oorsprong="parlement">Lankhorst</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1 ">Onderschrijft u de kritiek van dr. L. de  Jong in «Het Koninkrijk der Nederlan- den in de Tweede Wereldoorlog»  (deel 12, epiloog), op de regerings- nota van 2 juni 1969 betreffende het  archievenonderzoek naar gegevens  omtrent excessen in Indonesië  begaan door Nederlandse militairen  in de periode  1 9 4 5 - 1 9 5 0 ?  </vraag>
+      <vraag nummer="2 ">Deelt u zijn conclusie, dat het  oordeel van J. A. A. van Doorn en W.  J. Hendrix in hun studie «Het Neder- lands-lndonesisch conflict. Onts, o- ring van geweld» als beter gekwalifi- ceerd moet worden dan het oordeel  van minister-president De Jong in de  genoemde regeringsnota?  </vraag>
+      <vraag nummer="3 ">W i l t u in het bijzonder ingaan op de  door De Jong onderschreven con- clusie van Van Doorn en Hendrix, dat  de excessen tevens gezien moeten  worden als uitvloeisel van het beleid,  dat op het hoogste politieke niveau  werd bepaald en vervolgens via de  hogere militaire niveaus tot opdrach- ten leidde?  </vraag>
+      <vraag nummer="4 ">Deelt u de opvatting van dr. de  J o n g ,  dat de omvang van de excessen in  Indonesië groter is geweest dan in de  regeringsnota van 1969  w e r d  toegegeven?  </vraag>
+      <vraag nummer="5 ">W a t is uw oordeel over de aard en  omvang van de excessen in Indonesië,  begaan door Nederlandse militairen  in de periode  1 9 4 5 - 1 9 5 0 ? Wilt u aan  de hand van het huidige bronnenma- teriaal de slotbeschouwing van deze  regeringsnota dienovereenkomstig  aanpassen?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="5 ">Gelet op het antwoord op de vragen  1 tot en met 4 onthoud ik mij van het  geven van een oordeel. Aanpassing  van de regeringsnota van juni 1969  ligt daarom evenmin in de rede.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

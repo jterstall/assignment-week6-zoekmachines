@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001361</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001361&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001361</item>
+         <item attribuut="Document-id">0000011665</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 431 Herdruk</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Beinema (CDA) en Van Nieuwenhoven (PvdA) over een onderzoek naar de economische effecten van de Nederlandse omroepregelgeving.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 431 Herdruk</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">431 Herdruk</item>
+         <item attribuut="Indiener">
+            <persoon>Beinema</persoon>
+            <persoon>Van Nieuwenhoven</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-02-18</item>
+         <item attribuut="Beantwoorder">
+            <persoon>d'Ancona</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-03-23</item>
+         <item attribuut="Beginpagina">883</item>
+         <item attribuut="Eindpagina">884</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="883" allpagenumbers="883" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnslraal 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="431" onderwerp="" indiendatum="">
+         <vrager partij="" oorsprong="parlement">Beinema</vrager>
+         <vrager partij="" oorsprong="parlement">Van Nieuwenhoven</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-03-23">
+         <antwoorder functie="minister" ministerie="Welzijn, Volksgezondheid en Cultuur">d'Ancona</antwoorder>
+         <mede-antwoorder>de minister van Economische Zaken</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1">Vragen van de leden Beinema (CDA) en Van Nieuwenhoven (PvdA) over een onderzoek naar de economische effecten van de Nederlandse omroepregelgeving. (Ingezonden 18februari 1993) </vraag>
+      <vraag nummer="1">Heeft de minister van Welzijn, Volksgezondheid en Cultuur overleg gevoerd met de minister van Economische Zaken over een door dat ministerie aan enkele instellingen te vragen - dan wel reeds gevraagde - offerte voor een onderzoek naar de economische effecten van de Nederlandse omroepregelgeving en alternatieven daarvoor? Vallen alle vier de hoofdvarianten die ter onderzoek worden voorgelegd buiten het kader van het kabinetsbeleid?' onderzoeksopdracht niet te geven c.q. in te trekken? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Vastgelegd m de Nota publieke omroep in Nederland van 6 juni 1991, Kamerstuk 22 147, nr 2 en de daarop volgende brieven van 15 april, 17 juni en 25 november 1 992, Kamerstuk 22 147, nrs. 22, 24 en 27</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Neen. Enige maanden geleden heeft het ministerïe van Economische Zaken op ambtelijk niveau een voorstel voor zo'n onderzoek met het verzoek om commentaar aan het ministerie van WVC voorgelegd. Tijdens WVC is het gevraagde commentaar verstrekt. </antwoord>
+      <antwoord nummer="2">Ja. Het streven is erop gericht voor de zomervakantie dit wetsvoorstel bij het parlement in te dienen. </antwoord>
+      <antwoord nummer="4" voetnoot="1">Ja. Het in opdracht van WVC en EZ door McKinsey &amp; Co uitgevoerde onderzoek naar de stimuleringsmogelijkheden van de audiovisuele sector is vorige maand uitgebracht. Over dit rapport vindt momenteel ambtelijk overleg plaats. Het ligt in het voornemen omstreeks half april een kabinetsstandpunt in te nemen. <voetnoot nummer="1"/> Herdruk i.v.tn. foutieve antwoorden. Is sinds 25 november 1992 het kabinetsbeleid wezenlijk gewijzigd? Zo ja, op welke wijze is de Kamer daarover geïnformeerd? Geeft de beantwoording van de voorgaande vragen aanleiding de in vraag 1 genoemde Neen Het kabinetsbeleid is onlangs weergegeven in de brief van de minister van Welzijn, Volksgezondheid en Cultuur aan het NOS-bestuur van 4 januari 1993, waarvan op dezelfde datum een afschrift aan de Voorzitter van de Tweede Kamer is toegezonden. Inmiddels is ter uitvoering van dit beleid de in de brief beschreven wetgeving gericht op de herstructurering van de publieke omroep in voorbereiding genomen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

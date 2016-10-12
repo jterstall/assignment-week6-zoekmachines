@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19881989:0001349</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001349&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001349</item>
+         <item attribuut="Document-id">0000090948</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1988-1989 nummer 345</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van Dis (S.G.P.) over het niet eerbiedigen van de zondagsrust door de Koninklijke Marine.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1988-1989 nummer 345</item>
+         <item attribuut="Jaargang">1988_1989</item>
+         <item attribuut="Vraagnummer">345</item>
+         <item attribuut="Indiener">
+            <persoon partij="SGP">Van Dis</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-02-07</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Bolkestein</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-03-03</item>
+         <item attribuut="Beginpagina">695</item>
+         <item attribuut="Eindpagina">696</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1988-1989 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 8 - 1 9 8 9 ,  A a n h a n g s e l " filenaam="" issn-nummer="ISSN 0921 7398 " uitgever="SDU uitgeverij 's Gravenhage 1989 "/>
+      <vraagdata vraagnummer="345" onderwerp="het niet eerbiedigen van de zondagsrust door de Koninklijke Marine." indiendatum="7 februari 1989)">
+         <vrager partij="SGP" oorsprong="parlement">Van Dis</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 ">Brengt van vrijdag 9 augustus tot en  met zondag 11 augustus a.s. de  Koninklijke Marine een vlootbezoek  aan Middelburg?  </vraag>
+      <vraag nummer="2 ">Gaat het initiatief tot het brengen van  dergelijke bezoeken uit van de  Koninklijke Marine?  </vraag>
+      <vraag nummer="3 ">Ziet de Koninklijke Marine vooral de  zondag als dag waarop het meeste  publiek kan worden getrokken?  </vraag>
+      <vraag nummer="4 ">W o r d t het ten behoeve van een  vlootbezoek verrichten van dienst op  zondag door het marinepersoneel  aangemerkt als een zaak, die het  dienstbelang eist in de zin van artikel  56 van het AMAR?  Wordt bij het vaststellen van een  bezoekdatum door de Koninklijke  Marine op enigerlei wijze rekening  gehouden met het specifieke  karakter van de zondag als Dag des  Heeren? Zo neen, bent u bereid in  overeenstemming met datgene wat  van de overheid als Dienaresse Gods  verwacht mag worden, alsnog te  bevorderen, dat de zondagsrust  wordt geëerbiedigd en de heiliging  van de zondag niet dan om dringende  redenen wordt verstoord?  AMAR = Algemeen militair ambte- naren reglement.  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="3 ">Neen.  4 en 5  Het is noodzakelijk dat aan boord van  schepen ook in de weekeinden door  een deel van de bemanning dienst  wordt verricht zoals bedoeld in  artikel 56 A.M.A.R. De zondagsrust  voor de bemanning wordt geëerbie- digd doordat voor het overige geen  werkzaamheden worden opgedragen,  ook niet wanneer in het kader van  een vlootbezoek schepen 's middags  voor bezoekers zijn opengesteld.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

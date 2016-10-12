@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001216</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001216&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001216</item>
+         <item attribuut="Document-id">0000011520</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 285</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Schutte (GPV) over in Nederland gestolen auto's.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 285</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">285</item>
+         <item attribuut="Indiener">
+            <persoon partij="GPV">Schutte</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-11-26</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Hirsch Ballin</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-01-11</item>
+         <item attribuut="Beginpagina">583</item>
+         <item attribuut="Eindpagina">584</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="583" allpagenumbers="583 584" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="'s Gravenhage 1993"/>
+      <vraagdata vraagnummer="285" onderwerp="in Nederland gestolen auto's." indiendatum="1992-11-26">
+         <vrager partij="GPV" oorsprong="parlement">Schutte</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-01-11">
+         <antwoorder functie="minister" ministerie="Justitie">Hirsch Ballin</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1">Is het aannemelijk, dat in Oost-Europa alleen al zo'n 10.000 in Nederland gestolen auto's rondrijden? </vraag>
+      <vraag nummer="2">Zijn er aanwijzingen, dat criminele organisaties hierin de hand hebben? </vraag>
+      <vraag nummer="3">Is het waar, dat de formatie van een rechercheteam, dat zich richt op georganiseerde autodiefstal, in de praktijk afstuit op personeelsgebrek? </vraag>
+      <vraag nummer="4">Werd een gezamenlijke actie van politie en douane door het ministerie van financiën beëindigd omdat anders de overheid duizenden guldens aan BTW en bijzondere verbruiksbelasting zou mislopen? </vraag>
+      <vraag nummer="5">Is een grenscontrole, gericht op de opsporing van gestolen auto's, beëindigd omdat ze niet verantwoord zou zijn in het kader van de Europese eenwording? </vraag>
+      <vraag nummer="6">Welke maatregelen zijn getroffen en welke initiatieven mogen worden verwacht teneinde te voorkomen dat Nederlandse auto's met inschakeling van criminele organisaties en personen in een Europa zonder grenzen worden gestolen en na te zijn voorzien van een vals kenteken of te zijn omgebouwd met woekerwinst in het buitenland worden verkocht? Zie Algemeen Politieblad van 26 september jl. en de Amersfoortse Courant van 21 november jl. </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">In de loop van 1991 werden bij de Centrale Recherche Informatiedienst 26.189 auto's als gestolen of vermist geregistreerd. Aan het eind van dat jaar waren er nog steeds 12 207 vermist. Over het jaar 1990 waren deze aantallen respectievelijk 21 360 en 7 293. Uit deze cijfers blijkt dat het aantal tengevolge van diefstal of verduistering vermiste auto's in Nederland onrustbarend stijgt. De politieke omwenteling in de voormalige Oostbloklanden en de Duitse hereniging zijn waarschijnlijk in hoge mate van invloed op de sinds 1990 geconstateerde stijging. De contacten met Interpol-bureaus in de voormalige Oostbloklanden - waaruit blijkt dat het aantal onderzoeken naar uit Nederland afkomstige voertuigen de laatste tijd is gestegen - steunen deze veronderstelling. De bij de Centrale Recherche Informatiedienst beschikbare gegevens geven echter geen inzicht in het aantal voertuigen dat naar het voormalig Oostblok verdwijnt. </antwoord>
+      <antwoord nummer="2">Ja. Volgens gegevens van de Centrale Recherche Informatiedienst zijn er verscheidene Nederlandse en Oosteuropese criminele organisaties in Nederland die zich bezig houden met het ontvreemden van auto's. </antwoord>
+      <antwoord nummer="3">Schaarste aan personeel in relatie met het stellen van prioriteiten maakt het formeren van een uit verscheidene korpsen bestaand opsporingsteam vaak gecompliceerd. In het geval waarvan in het Algemeen Politieblad van 26 september wordt gesproken, heeft - in tegenstelling tot hetgeen in verband met prioriteitenstelling gebruikelijk is - geen vooroverleg met het openbaar ministerie plaatsgevonden. Hierdoor werd het openbaar ministerie geconfronteerd met de situatie dat de politie reeds met moeite een team had geformeerd, waarvoor op dat moment echter alleen een toch al zwaar belaste officier van justitie marginaal ter beschikking was. Overigens is het zo dat er op dit moment in ongeveer tien regio's een Permanent Auto Team bestaat. Deze teams, die zich tot op heden uitsluitend bezighielden met het opsporen van voertuigen met een valse identiteit, zogenaamd omgekatte voertuigen, zullen in de toekomst vanuit hun expertise ook ondersteuning leveren aan gebruikte auto's wordt evenmin teruggaaf van bijzondere verbruikersbelasting verleend. Overigens zou het feit dat bij de invoer van goederen, waaronder auto's, belastingen in het geding zijn nimmer aanleiding zijn om geen (gezarnenlijke) acties te ondernemen gericht op de opsporing van strafbare feiten. in een of meer Oosteuropese landen een liaisonambtenaar te plaatsen. Nee. De grenscontrole door de Koninklijke marechaussee is ingevolge de Vreemdelingenwetgeving gericht op persoonscontrole en niet op de opsporing van gestolen auto's. De commandant van het district Overijssel van de Koninklijke marechaussee heeft indertijd aangegeven dat in verband met de personeelssterkte en de op handen zijnde opheffing van de brigade Oldenzaal, de Koninklijke marechaussee niet met regelmaat kon meewerken aan grootscheepse controleacties. Wel heeft de Koninklijke marechaussee de bereidheid uitgesproken te assisteren bij incidentele controles. In het verleden is ook regelmatig samengewerkt tussen de brigade Oldenzaal van de Koninklijke marechaussee en het Permanente Auto Team van de rijkspolitie te Overijssel. </antwoord>
+      <antwoord nummer="6">Het Akkoord van Schengen zal leiden tot het afschaffen van de personencontroles aan de binnengrenzen en de interne markt zal leiden tot afschaffing van de goederencontroles aan die grenzen. De controles aan de buitengrenzen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

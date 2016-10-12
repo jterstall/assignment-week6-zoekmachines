@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19881989:0001217</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001217&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001217</item>
+         <item attribuut="Document-id">0000090816</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1988-1989 nummer 214</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Laning-Boersema en Soutendijk-van Appeldoorn (beiden C.D.A.) over commerciële bemiddeling inzake draagmoederschap.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1988-1989 nummer 214</item>
+         <item attribuut="Jaargang">1988_1989</item>
+         <item attribuut="Vraagnummer">214</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Laning-Boersema</persoon>
+            <persoon partij="CDA">Soutendijk-van Appeldoorn</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1988-12-14</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Korthals Altes</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1988-12-28</item>
+         <item attribuut="Beginpagina">429</item>
+         <item attribuut="Eindpagina">430</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 8 - 1 9 8 9 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 8 - 1 9 8 9 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="214" onderwerp="commer- ciële bemiddeling inzake draagmoe- derschap." indiendatum="14 december 1988)">
+         <vrager partij="CDA" oorsprong="parlement">Laning-Boersema</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Soutendijk-van Appeldoorn</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="minister" ministerie="Justitie">Korthals A l t e s</antwoorder>
+         <mede-antwoorder>de staatssecretaris van Justitie</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1 ">Herinnert u zich de opvatting van  vragenstellers «dat het geboden is  ten spoedigste (wettelijke) maatrege- len te treffen» om vestiging van  commerciële bemiddelingsbureaus  inzake draagmoederschap in Neder- land tegen te gaan? </vraag>
+      <vraag nummer="1 "/>
+      <vraag nummer="2 ">Kunt u aangeven, wanneer het  aangekondigde wetsvoorstel naar de  Raad van State zal worden gezonden  c.q. bij deze Kamer zal worden  ingediend?  </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Zie vraag 3, Aanhangsel Handelingen nr.  179, vergaderjaar 1 988-1989. </noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1 ">Ja.  </antwoord>
+      <antwoord nummer="2 ">Op 13 maart 1989 zal in een uitge- breide commissievergadering van de  vaste commissie voor justitie en voor  de volksgezondheid de aan de  Tweede Kamer gezonden notitie  inzake kunstmatige bevruchting en  draagmoederschap, kamerstuk  20 706, zitting  1 9 8 7 - 1 988, worden  behandeld. In deze notitie heeft de  regering ten behoeve van de gedach- tenvorming een aantal voorlopige  conclusies met betrekking tot  draagmoederschap geformuleerd.  Een van deze conclusies houdt in dat  bemiddeling tot (commercieel)  draagmoederschap dient te worden  tegengegaan en dat dit slechts  mogelijk is door middel van een  strafrechtelijk te handhaven verbod  tot beroeps- of bedrijfsmatige  bemiddeling. Vooruitlopend op het  vorengenoemde overleg over de  notitie zal een wetsvoorstel dat een  specifieke tot dit verbod strekkende  strafbepaling bevat, worden voorbe- reid.  Thans kan nog niet met nauwkeurig- heid worden bepaald wanneer dit  wetsvoorstel aan de ministerraad kan  worden aangeboden. Er wordt echter  de nodige voortvarendheid betracht.  Een gedachtenwisseling over de  strafbaarheid als zodanig in de  uitgebreide commissievergadering  van 13 maart  a s . zou de behandeling  van het wetsvoorstel in de Tweede  Kamer kunnen bespoedigen.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

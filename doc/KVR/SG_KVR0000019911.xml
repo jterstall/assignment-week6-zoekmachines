@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001525</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001525&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001525</item>
+         <item attribuut="Document-id">0000019911</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 508</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Korthals en Dijkstal (beiden VVD) over de aansprakelijkheidsverdeling tussen automobilist en fietser of voetganger.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 508</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">508</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Korthals</persoon>
+            <persoon partij="VVD">Dijkstal</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-03-11</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Hirsch Ballin</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-04-02</item>
+         <item attribuut="Beginpagina">1067</item>
+         <item attribuut="Eindpagina">1068</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1067" allpagenumbers="1067 068" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="508" onderwerp="de aansprakelijkheidsverdeling tussen automobilist en fietser of voetganger." indiendatum="1992-03-11">
+         <vrager partij="VVD" oorsprong="parlement">Korthals</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Dijkstal</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-04-2">
+         <antwoorder functie="minister" ministerie="Justitie">Hirsch Ballin</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Hebt u kennis genomen van de uitspraak van de Hoge Raad, dat tenminste vijftig procent van de schade door aanrijding van een fietser door een automobilist ten laste moet komen van de automobilist wegens het aan gemotoriseerd verkeer verbonden gevaar? </vraag>
+      <vraag nummer="2">Acht u die aansprakelijkheidsverdeling in haar algemeenheid billijk? </vraag>
+      <vraag nummer="3">Zo neen, bent u voornemens wetgeving voor te bereiden teneinde een andere aansprakelijkheidsverdeling tussen automobilist en fietser of voetganger bij ongeval mogelijk te maken? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2 en 3">Bij een botsing tussen een motorrijtuig en een fietser of een voetganger is de eigenaar van het motorrijtuig in beginsel krachtens artikel 31 Wegenverkeerswet aansprakelijk. Die aansprakehjkheid geldt slechts dan niet, wanneer hij overmacht aannemelijk maakt. Het arrest van de Hoge Raad van 28 februari 1992 geeft alleen een regel voor het geval dat zich geen overmacht voordoet. De Hoge Raad oordeelt dat wanneer in zo'n geval er wel een fout van de fietser of voetganger is, zonder dat evenwel sprake is van opzet of aan opzet grenzende roekeloosheid, de billijkheid bij de verdeling van deze schade over de betrokkenen eist dat tenminste 50 percent van de schade ten laste van het motorrijtuig wordt gebracht wegens de verwezenlijking van het daaraan verbonden gevaar. Dit brengt mede, dat deze eigenaar in ieder geval aansprakelijk is voor de helft van de schade van de fietser of de voetganger. Ten aanzien van de andere helft is in beginsel beslissend in hoeverre de - foutieve - gedragingen van de eigenaar en de fietser of voetganger tot de schade hebben bijgedragen. Ik acht deze aansprakelijkheidsverdeling met betrekking tot personenschade in haar algemeenheid juist, doch moet daaraan toevoegen, dat deze uitspraak uiteraard moet worden gezien in het licht van de mogelijkheden die het huidige wettelijk kader biedt. Op dit moment ligt bij de Tweede Kamer de Notitie Verkeersaansprakelijkheid (Kamerstukken II 1989-1990, 21 528, nrs. 1-3). Daarin neig ik voorshands tot het standpunt dat een risicoaansprakelijkheid in het verkeer van de gemotoriseerde verkeersdeelnemers jegens alle verkeersdeelnemers aanbeveling verdient. De schade komt dan geheel voor rekening voor de gemotoriseerde verkeersdeelnemer tenzij er sprake is van opzet van het slachtoffer. Voorts wil ik erop wijzen dat de Hoge Raad de aansprakelijkheidsverdeling niet wil toepassen in geval de schade van het slachtoffer ten laste van een verzekeraar is gekomen. Dit is in overeenstemming met de gedachte die aan art. 6:197 BW ten grondslag ligt. Tot dezelfde conclusie kom ik in de Notitie Verkeersaansprakelijkheid (zie Kamerstuk 21 528, nr. 1 blz. 34). Op dit moment bereidt mijn ministerie de beantwoording voor van de lijst van vragen. Naar aanleiding van de reactie van de Tweede Kamer op de beantwoording zal ik bezien in hoeverre er een wettelijke regeling moet worden voorbereid, die verkeersslachtoffers een verdergaande bescherming biedt dan nu uit de jurisprudentie inzake artikel 31 WVW voortvloeit. Daarbij zal zwaar wegen de beheersbaarheid van de kosten van een nieuw stelsel van verkeersaansprakelijkheid. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

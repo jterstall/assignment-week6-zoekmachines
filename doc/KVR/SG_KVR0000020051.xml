@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001665</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001665&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001665</item>
+         <item attribuut="Document-id">0000020051</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 647</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Weisglas (VVD) over de persoonlijke mening van de minister van Verkeer en Waterstaat over de procedure van vaststelling van de nieuwe Zuid-Afrikaanse grondwet.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 647</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">647</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Weisglas</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-06-05</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-06-16</item>
+         <item attribuut="Beginpagina">1357</item>
+         <item attribuut="Eindpagina">1358</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1357" allpagenumbers="1357" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="647" onderwerp="de persoonlijke mening van de minister van Verkeer en Waterstaat over de procedure van vaststelling van de nieuwe Zuid-Afrikaanse grondwet." indiendatum="1992-06-5">
+         <vrager partij="VVD" oorsprong="parlement">Weisglas</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="16juni 1992) 1, 3 en 4 De minister van Verkeer en Waterstaat heeft mij laten weten dat zij, desgevraagd, tegenover journalisten te kennen heeft gegeven, de door het ANC als compromis voorgestelde procedure voor de vaststelling van een nieuwe Zuid-Afrikaanse grondwet niet onredelijk te achten, en bij die gelegenheid ook duidelijk te hebben gemaakt dat het in dezen haar persoonlijke mening betrof. Door het onderstrepen door mijn ambtgenote van het persoonlijke karakter van haar desbetreffende uitspraak heeft zij naar mijn mening voldoende duidelijk gemaakt niet te pretenderen een standpunt van de Regering te vertolken. 2 De Regering heeft van meet af aan het standpunt gehuldigd dat het onderhandelingsproces over de vorming van een nieuw staatsbestel in de eerste plaats een zaak is van de Zuid Afnkaanse bevolking in haar geheel. 5 en 6 Ten aanzien van de data voor het officiële bezoek aan Zuidafrika heeft zich sedert de brief van de minister van Buitenlandse Zaken a.i. aan de Voorzitter van de Tweede Kamer van 17 maartjl.' geen wijzigmg voorgedaan. De minister van Verkeer en Waterstaat heeft in antwoord op vragen van journalisten zeer globaal gesproken van het bezoek en zich niet over de precieze datum uitgelaten.">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">Van den Broek</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1" voetnoot="1">Hebt u kennis genomen van «de persoonlijke opvatting» van uw ambtgenote van Verkeer en Waterstaat, dat zij in het meningsverschil tussen het ANC en de regering van Zuid-Afrika inzake de procedure van vaststelling van de nieuwe Zuid-Afrikaanse grondwet, aan de zijde van het ANC staat? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Is dit ook de opvatting van de Nederlandse regering? </vraag>
+      <vraag nummer="3">Zo ja, zou het niet beter zijn dat de Nederlandse regermg zich niet mengt in deze interne Zuid-Afrikaanse onderhandelingen? </vraag>
+      <vraag nummer="4">Zo neen, acht u het dan niet ongewenst dat uw ambtgenote een dergelijke persoonlijke mening vertolkt? </vraag>
+      <vraag nummer="5" voetnoot="2">Hebt u tevens kennis genomen van de opvatting van uw ambtgenote van Verkeer en Waterstaat, dat de datum van het bezoek van de minister-president, de vice-premier en uzelf aan Zuid-Afrika nog niet vast staat? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="6">Staat uw mededelmg aan deze Kamer van 6 maart, dat dit bezoek zal plaatsvinden op 10 en 11 augustus a.s. - hetgeen is bevestigd in een daarop volgend Kamerdebat - weer op losse schroeven, of heeft ook hier de minister van Verkeer en Waterstaat een persoonlijke mening verkondigd? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1992-06-3" bron=" KRO-radio"> KRO-radio, 3 juni 1992</noot>
+         <noot nummer="2" datum="1992-05-29" bron=" Fmanciële Dagblad"> Fmanciële Dagblad, 29 mei 1992</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="2">De Regering heeft van meet af aan het standpunt gehuldigd dat het onderhandelingsproces over de vorming van een nieuw staatsbestel in de eerste plaats een zaak is van de Zuid Afnkaanse bevolking in haar geheel. 5 en 6 Ten aanzien van de data voor het officiële bezoek aan Zuidafrika heeft zich sedert de brief van de minister van Buitenlandse Zaken a.i. aan de Voorzitter van de Tweede Kamer van 17 maartjl.' geen wijzigmg voorgedaan. De minister van Verkeer en Waterstaat heeft in antwoord op vragen van journalisten zeer globaal gesproken van het bezoek en zich niet over de precieze datum uitgelaten. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Kamerstuk 22 492, nr. 7</noot>
+      </noten>
+   </antwoorden>
+</kvr>

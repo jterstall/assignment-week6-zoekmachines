@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19941995:0000499</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000499&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000499</item>
+         <item attribuut="Document-id">0000000499</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1994-1995 nummer 165</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Poppe (SP) over het project bestuurlijke vernieuwing Rotterdam.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1994-1995 nummer 165</item>
+         <item attribuut="Jaargang">1994_1995</item>
+         <item attribuut="Vraagnummer">165</item>
+         <item attribuut="Indiener">
+            <persoon partij="SP">Poppe</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-11-01</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Vondervoort</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-11-11</item>
+         <item attribuut="Beginpagina">331</item>
+         <item attribuut="Eindpagina">332</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1994-1995" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="331" allpagenumbers="331 331" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1994-1995, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's-Gravenhage 1994"/>
+      <vraagdata vraagnummer="165" onderwerp="het project bestuurlijke vernieuwing Rotterdam." indiendatum="1994-11-1">
+         <vrager partij="SP" oorsprong="parlement">Poppe</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-11-11">
+         <antwoorder functie="staatssecretaris" ministerie="Binnenlandse Zaken">Vondervoort</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1" voetnoot="1">Zijn voor het project bestuurlijke vernieuwing Rotterdam de heer R. de Boer, tevens voorzitter van het CBA en drs. P.J.M. Felix, zelfstandig organisatieadviseur, als adviseurs van het ambtelijk voorbereidingsoverleg en de Bestuurlijke Commissie ingehuurd? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Hebben beide heren een contract voor twee dagen per week? Betreft het daarom, gezien hun andere activiteiten, een nevenfunctie? </vraag>
+      <vraag nummer="3">Voor welke periode is met beide heren een contract aangegaan? </vraag>
+      <vraag nummer="4">Zijn de kosten voor de diensten van beide heren samen f 600 000 op jaarbasis? </vraag>
+      <vraag nummer="5">Dragen in de bekostiging hiervan het rijk f 400 000, de provincie f 100 000 en de gemeente f 100 000 bij? </vraag>
+      <vraag nummer="6">Zijn deze laatste twee dit verplicht vanwege eerdere afspraken? </vraag>
+      <vraag nummer="7">Vindt u dergelijke bedragen voor diensten van personen, waarbij het in feite nevenfuncties betreft, maatschappelijk aanvaardbaar? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> 3-maandelijkse rapportage project bestuurlijke vernieuwing Rotterdam, d.d. 21-09-1994 (BiZa-94-0260)</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1" voetnoot="1">Ja, de heren R. de Boer en P. J. M. Felix zijn ingehuurd als adviseurs ten behoeve van de reorganisatie om te komen tot een stadsprovincie Rotterdam. Dit is aan de Tweede Kamer gemeld in de 3-maandelijkse rapportage van 21 september 1994. <voetnoot nummer="1"/>
+      </antwoord>
+      <antwoord nummer="2"/>
+      <antwoord nummer=" en 3">Nee, de adviseurs verrichten hun werkzaamheden op declaratiebasis met een maximuminzet van 2 dagen per week. Het contract is afgesloten voor een jaar met een halfjaarlijkse evaluatie. De heer Felix is zelfstandig organisatie-adviseur (Felix en co) die uiteraard meerdere adviesopdrachten vervult. De heer De Boer is voorzitter van de CBA (3 dagen per week). Daarnaast is hij zelfstandig organisatie-adviseur (Rients de Boer B.V.). In die hoedanigheid is hij ingehuurd als adviseur. In beide gevallen spreekt men derhalve niet van nevenfuncties. </antwoord>
+      <antwoord nummer="4, 5 en 6">Het maximum bedrag dat met het inhuren van de 2 externen gemoeid kan zijn bedraagt f 600 000. Volgens artikei 44 van de door de Staten-Generaal vastgestelde Kaderwet bestuur in verandering worden de kosten van de Bestuurlijke Commissie reorganisatie regio Rotterdam verdeeld volgens de volgendeformule: Stadsregio 2/6, Binnenlandse Zaken 2/6, Rotterdam 1/6 en Zuid-Holland 1/6 deel. </antwoord>
+      <antwoord nummer="7">Het betreft gebruikelijke tarieven voor organisatie-adviseurs. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Ter iruage bij de vaste Commissie voor Binnenlandse Zaken, nr. BiZa/94-0260</noot>
+      </noten>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="krijgen?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Zijlstra en Griffith (beiden VVD) en Kuiken en Spekman (beiden PvdA) aan de ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Justitie over de verminderde bereidheid om 112 te bellen. (Ingezonden 11 maart 2008)</item>
+         <item attribuut="Bestand">13Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V070814300
+</item>
+         <item attribuut="Inhoud">Vragen over de verminderde bereidheid om 112 te bellen naar aanleiding van een bericht op RTV Utrecht van 5 maart 2008 (http://www.rtvutrecht.nl/nieuws/182073) en een artikel in De Telegraaf van 7 maart 2008, waarin staat dat 'recent onderzoek aantoont dat slechts 1 op de 9 mensen die op heterdaad getuige zijn van een misdrijf binnen enkele minuten het alarmnummer bellen'. De indieners vragen aan de ministers welke maatregelen zij voornemens zijn te nemen om het genoemde percentage omhoog te krijgen</item>
+         <item attribuut="Rubriek">Communicatie, media en informatievoorziening (Telecommunicatie) Criminaliteit en openbare orde (Ongevallenpreventie en -hulpverlening) Criminaliteit en openbare orde (Politie)</item>
+         <item attribuut="Trefwoorden">Hulpverlening Politie Telefonie</item>
+         <item attribuut="Vindplaats">Kamervragen 2007-2008, vraagnr. 2070814300, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070814300</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Zijlstra Griffith</persoon>
+            <persoon partij="PvdA">Kuiken Spekman</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2008-03-11</item>
+         <item attribuut="Document-id">V070814300</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0708tkkvl2070814300" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="2070814300" onderwerp="" indiendatum="2008-03-11">
+         <vrager partij="VVD" oorsprong="parlement">Zijlstra Griffith</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Kuiken Spekman</vrager>
+         <vraagt-aan>de ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Justitie</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1 2">Bent u bekend met het nieuwsbericht «112 wordt te weinig gebeld» en het bijbehorende item van RTV Utrecht van 5 maart? <voetnoot nummer="1"/>Bent u tevens bekend met het artikel «Hangjeugd in de buurt: 112 bellen»? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="2" voetnoot="1">Klopt de uitspraak van de woordvoerder van de politie dat «mensen erg terughoudend zijn met het bellen van het alarmnummer» en dat «recent onderzoek aantoont dat slechts 1 op de 9 mensen die op heterdaad getuige zijn van een misdrijf binnen enkele minuten het alarmnummer bellen»? <voetnoot nummer="1"/>Kunt u aangeven om welk onderzoek dit gaat? </vraag>
+      <vraag nummer="3" voetnoot="2 1">Deelt u de mening dat dit aantal veel te laag is? Ziet u een relatie met reactie van de Raad van Hoofdcommissarissen, die stelt dat de slogan «1-1-2 daar red je levens mee» ertoe geleid heeft dat veel mensen denken dat 112 enkel voor levensbedreigende situaties is? <voetnoot nummer="2"/>Ziet u een relatie met de door de woordvoerder van de politie Utrecht aangehaalde landelijke campagne, welke ten doel had misbruik van het alarmnummer te voorkomen? <voetnoot nummer="1"/>Zo neen, wat is volgens u de oorzaak? </vraag>
+      <vraag nummer="4">Welke maatregelen bent u voornemens te nemen om het genoemde percentage omhoog te </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" datum="2008-03-5" bron="RTV Utrecht">RTV Utrecht, 5 maart 2008, http://www.rtvutrecht.nl/nieuws/182073</noot>
+         <noot nummer="2" datum="2008-03-7" bron="De Telegraaf">De Telegraaf, 7 maart 2008</noot>
+      </noten>
+   </antwoorden>
+</kvr>

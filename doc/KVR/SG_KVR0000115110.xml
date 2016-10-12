@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19851986:0001550</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001550&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001550</item>
+         <item attribuut="Document-id">0000115110</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1985-1986 nummer 629</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Cornelissen en Weijers (beiden C.D.A.) over een cliëntenstop maatschappelijke dienstverlening.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1985-1986 nummer 629</item>
+         <item attribuut="Jaargang">1985_1986</item>
+         <item attribuut="Vraagnummer">629</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Cornelissen</persoon>
+            <persoon partij="CDA">Weijers</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-02-12</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van der Reijden</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-04-17</item>
+         <item attribuut="Beginpagina">1249</item>
+         <item attribuut="Eindpagina">1250</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1985-1986 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 5 - 1 9 8 6 , Aanhangsel 1249 " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="628" onderwerp="de Amerikaanse kernproef r in de woestijn van Nevada." indiendatum="26 maart 1986)">
+         <vrager partij="CDA" oorsprong="parlement">Cornelissen</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Weijers</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="17 april 1986)">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">Van den Broek</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1 ">Wat is het oordeel van de regering  over de Amerikaanse kernproef in de  woestijn van Nevada?  </vraag>
+      <vraag nummer="2 ">Heeft Nederland alleen of in bondge- nootschappelijk verband getracht de  regering van de Verenigde Staten te  overreden, geen kernproef te  houden?  </vraag>
+      <vraag nummer="3 ">Acht u het van belang dat de  Verenigde Staten afzien van verdere  kernproeven? Zo ja, hoe probeert u  de regering van de Verenigde Staten  van dit standpunt te overtuigen?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1 ">De Nederlandse regering is voorstan- der van de zo spoedig mogelijke  totstandkoming van een algeheel  verbod op kernproeven.  2 en 3  De Amerikaanse regering is op de  hoogte van dit Nederlandse stand- punt. Tijdens mijn bezoek aan  Washington op 8 april heb ik dit  629  Vragen van de leden Cornelissen en  Weijers (beiden C.D.A.) over een  cliëntenstop maatschappelijke  dienstverlening. (Ingezonden 12  februari 1986)  </antwoord>
+      <antwoord nummer="1 ">Heeft de staatssecretaris kennisgeno- men van de instelling van een  cliëntenstop door de Stichting  Maatschappelijke Dienstverlening  Twente-Oost?  Hoe beoordeelt de staatssecretaris  deze maatregel in het kader van het  regeringsstandpunt dat de eerste- lijnszorg bevorderd moet worden?  </antwoord>
+      <antwoord nummer="3 ">Is de staatssecretaris bereid, met de  stichting en de gemeentebesturen  overleg te plegen teneinde deze  cliëntenstop zo spoedig mogelijk te  doen opheffen?  Toelichting  Zie Twentsche Courant van 4 februari  Antwoord Antwoord van staatssecretaris Van  der Reijden (Welzijn, Volksgezond- heid en Cultuur). (Ontvangen 17 april  1986)  </antwoord>
+      <antwoord nummer="1 ">Ja, door uw vragen.  </antwoord>
+      <antwoord nummer="2 ">Een cliëntenstop bij het Algemeen  De beleidsverantwoordelijkheid met  betrekking tot het Algemeen Maat- schappelijk Werk is in de Rijksbijdra- geregeling maatschappelijke dienst- verlening gelegd bij de gemeente.  Ik heb het hoofd van het Bureau  L.C. in de provincie Overijssel  opdracht gegeven mij nader te  informeren.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

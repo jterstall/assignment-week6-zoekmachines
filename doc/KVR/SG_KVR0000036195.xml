@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Doorberekening Politiekosten?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001788</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001788&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001788</item>
+         <item attribuut="Document-id">0000036195</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 864</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Koffeman (C.D.A.) over doorberekening van politiekosten.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 864</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">864</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Koffeman</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-07-04</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Dales</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-08-24</item>
+         <item attribuut="Beginpagina">1745</item>
+         <item attribuut="Eindpagina">1746</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1745" allpagenumbers="1745" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="864" onderwerp="doorberekening van politiekosten." indiendatum="1990-07-4">
+         <vrager partij="CDA" oorsprong="parlement">Koffeman</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Hebt u kennis genomen van berichten in de media' over het voornemen van de gemeente Amsterdam eigenaars van gestolen auto's een vergoeding te laten betalen voor de kosten van vervoer en opslag van hun voertuig? </vraag>
+      <vraag nummer="2">Wat is de mening van de regering over de wenselijkheid en de juridische haalbaarheid van bedoeld voornemen? </vraag>
+      <vraag nummer="4"/>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Algemeen Dagblad van 23 juni ji</noot>
+      </noten>
+   </antwoorden>
+   <mededeling mededeler="" functie="" afdeling="Binnenlandse Zaken" mededelingdatum="24augustus 1990">Mededelmg van minister Dales (Binnenlandse Zaken). (Ontvangen 24augustus 1990) Hierbij deel ik u mee dat de vragen van het lid der Kamer Koffeman, mij toegezonden bij brief van 5 juli 1990, tot mijn spijt niet binnen de daarvoor geldende termijn kunnen worden beantwoord. De reden hiervoor is dat de benodigde inlich– tingen nog niet zijn ontvangen. Na ontvangst van de gevraagde inlich– tingen en na het voor de beant– woording noodzakelijke overleg met mijn ambtgenoot van Justitie zal ik u zo spoedig mogelijk de antwoorden doen toekomen. Behoort het veilig stellen van gestolen en door de politie opgespoorde goederen niet onlos– makelijk tot de politietaak ex artikel 28 Politiewet, waarvoor doorbere– kening van kosten niet wenselijk is? 4 Wanneer ontvangt de Kamer een regeringsstandpunt over het rapport– </mededeling>
+</kvr>

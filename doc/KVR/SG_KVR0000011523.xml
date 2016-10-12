@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001219</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001219&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001219</item>
+         <item attribuut="Document-id">0000011523</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 288</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Van Traa en Jurgens (beiden PvdA) over de handel in nucleair materiaal.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 288</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">288</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Van Traa</persoon>
+            <persoon partij="PvdA">Jurgens</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-12-11</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Kooijmans</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-01-12</item>
+         <item attribuut="Beginpagina">589</item>
+         <item attribuut="Eindpagina">590</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="589" allpagenumbers="589" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="288" onderwerp="de handel in nucleair materiaal." indiendatum="1992-12-11">
+         <vrager partij="PvdA" oorsprong="parlement">Van Traa</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Jurgens</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-01-12">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">Kooijmans</antwoorder>
+         <mede-antwoorder>de staatssecretaris van Economische Zaken</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Welke internationale maatregelen worden op dit moment genomen om de handel in nucleair materiaal door en de smokkel van onrechtmatig verkregen materiaal uit de voormalige Sovjet Unie te voorkomen? <voetnoot nummer="1"/>Heeft de regering specifieke maatregelen genomen tot voorkoming van deze handel of smokkel voorzover deze binnen het Nederlandse rechtsgebied vallen? </vraag>
+      <vraag nummer="3">Zijn deze maatregelen naar de opvatting van de regerïng voldoende? </vraag>
+      <vraag nummer="4">Is het bericht waar dat in het kader van de COCOM (Coördinatie Commissie Multilaterale Exportcontrole) een fonds wordt opgericht tegen verspreiding van kernwapentechnologie? </vraag>
+      <vraag nummer="5">Zo ja, is de regering bereid hieraan een bijdrage te leveren? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Zoals bekend houden twee internationale fora, respectievelijk de Zangger Commissie en de Nuclear Suppliers Group, zich bezig met het reguleren van de handel in nucleaire goederen. Op grond van richtlijnen die in het kader van deze twee fora zijn aanvaard, mogen nucleaire en bepaalde meervoudig toepasbare goederen slechts onder stringente voorwaarden worden geëxporteerd. De Russische Federatie heeft deze richtlijnen onderschreven. De andere republieken van de voormalige Sovjetunie, waarbij het met name gaat om Witrusland, Kazachstan en de Oekraïne, hebben deze richtlijnen nog niet kunnen aanvaarden, ondermeer omdat in deze landen het benodigde wettelijke kader en een adequaat uitvoercontrolesysteem ontbreken. Deze republieken worden echter vanuit hogergenoemde fora en via bilaterale kanalen aangespoord en waar mogelijk geassisteerd om hierin verandering te brengen. Ook zijn de VS behulpzaam bij het bouwen van opslagfaciliteiten en bij de produktie in Rusland van opslagvaten voor nucleair materiaal en heeft het Verenigd Koninkrijk containers en voertuigen voor wapentransport aangeboden en adviezen voor doelmatige nucleaire beveiligingsprocedures. Frankrijk levert technische assistentie bij de opslag van splijtstoffen en bij de omzetting van splijtstoffen in brandstof voor energie-opwekking. De Internationale Organisatie voor Atoomenergie (IAEA) levert advies en assistentie bij het opzetten van een registratie– en controlesysteem voor de in de verschillende republieken aanwezige nucleaire splijtstof, zodat een goed inzicht kan worden verkregen in de exacte hoeveelheden splijtstof, alsmede waar deze zich bevinden. </antwoord>
+      <antwoord nummer="2 en 3">Algemene controle, zeker ook voor wat betreft de uitvoer van nucleaire goederen, vindt plaats krachtens de In– en Uitvoerwet. Voorts besteden de daartoe bevoegde instanties, zoals de douane, de Economische Controledienst en de Binnenlandse Veiligheidsdienst, speciale aandacht aan de problematiek van handel in en smokkel van dergelijke goederen, ondermeer door verbetering van onderlinge informatie-uitwisseling. Bovendien wordt momenteel een wetswijziging voorbereid ter verhoging van de strafmaat bij illegale uitvoer van strategische goederen. Voor aanvullende maatregelen speciaal bedoeld voor de in deze vragen genoemde illegale uitvoer uit de voormalige Sovjetunie, zien wij dan ook geen aanleiding. </antwoord>
+      <antwoord nummer="4 en 5">Teneinde de voormalige Warschaupaktlanden tot adequate uitvoercontrolewetgeving en </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

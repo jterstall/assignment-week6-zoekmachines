@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19851986:0001611</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001611&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001611</item>
+         <item attribuut="Document-id">0000115171</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1985-1986 nummer 690</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid De Pree (P.v.d.A.) over het verschil tussen de definitieve en de voorlopige huurprijs.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1985-1986 nummer 690</item>
+         <item attribuut="Jaargang">1985_1986</item>
+         <item attribuut="Vraagnummer">690</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">De Pree</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-03-20</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Brokx</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-05-14</item>
+         <item attribuut="Beginpagina">1371</item>
+         <item attribuut="Eindpagina">1372</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1985-1986 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 5 - 1 9 8 6 , Aanhangsel 1371 " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="690" onderwerp="" indiendatum="">
+         <vrager partij="PvdA" oorsprong="parlement">De Pree</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 ">Voor hoeveel huurwoning-complexen  is de afgelopen vijf jaar de definitieve  huurprijs lager vastgesteld dan de  voorlopige?  </vraag>
+      <vraag nummer="2 ">Hoeveel huurders zijn daarbij  betrokken?  </vraag>
+      <vraag nummer="3 ">Wat is gemiddeld het verschil tussen  de definitieve en de voorlopige  huurprijs?  onderzoek bij alle verhuurders  noodzakelijk.  </vraag>
+      <vraag nummer="4 ">Dit is niet aan ondergetekende ter  beoordeling, doch een kwestie  tussen huurder en verhuurder.  Acht u het redelijk, indien over de  teveel betaalde huur een rentevergoe- ding wordt gegeven?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

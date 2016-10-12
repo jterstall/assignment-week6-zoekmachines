@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19881989:0001130</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001130&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001130</item>
+         <item attribuut="Document-id">0000090729</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1988-1989 nummer 131</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Hermans (V.V.D.) over een brief van de Europese Commissie.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1988-1989 nummer 131</item>
+         <item attribuut="Jaargang">1988_1989</item>
+         <item attribuut="Vraagnummer">131</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Hermans</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1988-11-04</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Brinkman</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1988-11-22</item>
+         <item attribuut="Beginpagina">263</item>
+         <item attribuut="Eindpagina">264</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 8 - 1 9 8 9 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 8 - 1 9 8 9 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="131" onderwerp="een briefVan de Europese Commissie." indiendatum="4 november 1988)">
+         <vrager partij="VVD" oorsprong="parlement">Hermans</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="22 november 1988)">
+         <antwoorder functie="minister" ministerie="Welzijn, Volksgezondheid en Cultuur">B r i n k m a n</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1 ">Heeft de Europese Commissie in  februari jl. een brief aan de Neder- landse regering gestuurd waar- in, uitvoerig gedocumenteerd en  gemotiveerd, artikel 66 van de  mediawet in strijd wordt geacht met  artikel 59 van het verdrag tot  oprichting van de EEG?  </vraag>
+      <vraag nummer="2 ">Heeft de regering deze brief beant- woord?  </vraag>
+      <vraag nummer="3 ">W i l t u de in de vragen 1 en 2  bedoelde brieven aan deze Kamer  overleggen?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1 ">Ja.  </antwoord>
+      <antwoord nummer="2 ">Ja. Het antwoord van de Nederlandse  regering is op 22 april 1988 verzon- den. De regering mocht tot op heden  nog geen reactie van de Europese  Commissie ontvangen.  </antwoord>
+      <antwoord nummer="3 ">Ja, onder de kanttekening dat deze  brieven een vertrouwelijk karakter  hebben. Het is namelijk gebruikelijk  dat de briefwisseling met de Europese  Commissie met betrekking tot de  uitwisseling van standpunten in het  kader van een procedure op grond  van artikel 169 EEG-Verdrag vertrou- welijk is. Dit  w o r d t eerst anders  indien de zaak aanhangig zou worden  gemaakt voor het Europese Hof van  Justitie. Op dit moment verkeert de  procedure echter in een fase van  uitwisseling van beargumenteerde  standpunten.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="vereiste overleg nog niet is afgerond." aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001146</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001146&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001146</item>
+         <item attribuut="Document-id">0000011450</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 215</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Te Veldhuis en Blauw (beiden VVD) over de richtlijn «ammoniak en veehouderij».</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 215</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">215</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Te Veldhuis</persoon>
+            <persoon partij="VVD">Blauw</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-11-16</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Alders</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-12-10</item>
+         <item attribuut="Beginpagina">443</item>
+         <item attribuut="Eindpagina">444</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="443" allpagenumbers="443" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="'s Gravenhage 1992"/>
+      <vraagdata vraagnummer="215" onderwerp="de richtlijn «ammoniak en veehouderij»." indiendatum="1992-11-16">
+         <vrager partij="VVD" oorsprong="parlement">Te Veldhuis</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Blauw</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Hebt u kennis genomen van de brief van de Vereniging van Nederlandse Gemeenten aan haar leden omtrent de toepassing van de richtlijn «ammoniak en veehouderij» bij bedrijven zonder (toereikende) vergunning? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Bent u accoord gegaan met de inhoud daarvan? Wat is uw beleidslijn over het eventueel eenzijdig ontwikkelen van een ammoniakbeleid door de gemeenten wat verder gaat dan dat neergelegd in de (betreffende) nationale richtlijn? </vraag>
+      <vraag nummer="4">Deelt u de mening, dat een dergelijk eenzijdig en mogelijk verschillend gemeentelijk beleid kan leiden tot rechtsongelijkheid voor veehouders in verschillende gemeenten en dat dat ongewenst is? </vraag>
+      <vraag nummer="5" voetnoot="2">Deelt u de mening, dat het mestprobleem in elk geval een gemeentegrens-overschrijdend probleem is, waar door middel van nationaal beleid gezocht moet worden naar een oplossing? Deelt u de mening, dat - in tegenstelling tot de circulaire de leeftijd van een ondernemer, de staat waarin een bedrijf verkeert, de levensvatbaarheid van een bedrijf, een eventuele beperking van het aantal dieren <voetnoot nummer="2"/> en neveninkomsten van een veehouder (of zijn echtgenoot) geen rol mogen spelen bij de beoordelmg van een hinderwetvergunning? </vraag>
+      <vraag nummer="7">Bent u voornemens, indien de vragen 4, 5 en 6 bevestigend worden beantwoord, de Vereniging van Nederlandse Gemeenten te verzoeken de circulaire aan te passen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> De dato 23 juli 1991; kenmerk rvm/107212 circ. 91/120</noot>
+         <noot nummer="2"> Zie eveneens Agrarisch Dagblad van 11 november 1992 pag. 1</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+   <mededeling mededeler="Alders" functie="minister" afdeling="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer" mededelingdatum="1992-12-10">Mededeling van minister Alders (Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer). (Ontvangen 10 december 1992) Naar aanleiding van de mij met brief, 17 november 1992, kenmerk 2929301440, toegezonden vragen van de leden der Kamer Te Veldhuis en Blauw over de richtlijn ammoniak en veehouderij, deel ik U mede dat de beantwoording hiervan niet binnen de gestelde termijn kan plaatsvinden, aangezien het hiervoor </mededeling>
+</kvr>

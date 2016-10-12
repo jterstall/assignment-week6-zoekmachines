@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001180</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001180&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001180</item>
+         <item attribuut="Document-id">0000027517</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 247</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Biesheuvel (C.D.A.), Middel (P.v.d.A.) en Schimmel (D66), over onderzoek naar het Sick-Building-Syndrom.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 247</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">247</item>
+         <item attribuut="Indiener">
+            <persoon>Biesheuvel</persoon>
+            <persoon>Middel</persoon>
+            <persoon>Schimmel</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-11-15</item>
+         <item attribuut="Beantwoorder">
+            <persoon>De Vries</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-12-14</item>
+         <item attribuut="Beginpagina">499</item>
+         <item attribuut="Eindpagina">500</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="499" allpagenumbers="499 500" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="247" onderwerp="onderzoek naar het Sick-Building-Syndrom." indiendatum="1990-11-15">
+         <vrager partij="" oorsprong="parlement">Biesheuvel</vrager>
+         <vrager partij="" oorsprong="parlement">Middel</vrager>
+         <vrager partij="" oorsprong="parlement">Schimmel</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="minister" ministerie="Sociale Zaken en Werkgele– genheid">De Vries</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Heeft de Directeur-Generaal van de Arbeid van het ministerie van Sociale Zaken en Werkgelegenheid pas na bijna 1 jaar negatief beschikt over een subsidie-aanvraag van één van de dochterondernemingen van de Randstad-Groep? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Past zo'n lange termijn van behan– deling van een subsidie-aanvraag in het door de regering nagestreefde concept van een slagvaardige overheid? Hoe verhoudt de afwijzende beslissing zich tot de grote zorg die alom bestaat over de toenemende gezondheidsklachten als gevolg van het binnenmilieu in kantoorge– bouwen? Bent u het eens met de stelling, dat een sterke vermindering van gezond– heidsklachten (vermoeidheid, hoofdpijn, neus– en keelklachten en oogklachten) kan leiden tot een vermindering van ziekteverzuim en arbeidsongeschiktheid, een van de belangrijke doelstellingen van het regeringsbeleid? Deelt u de opvatting, dat de jongste berichten over de dreigende tekorten in de arbeidsongeschiktheidsfondsen de noodzaak tot een intensivering van de inspanningen tegen het Sick-Building-Syndrom alleen maar versterken? </vraag>
+      <vraag nummer="6">Deelt u de opvatting, dat tegen deze achtergrond alles moet worden gedaan dat tot een verbetering van het binnenmilieu in kantoren en andere gebouwen waar grotere aantallen mensen verblijven kan leiden en dat ook een onderzoek naar de schadelijke kiemen (micro– organismen) en naar een instrument om de aanwezigheid daarvan vast te stellen en te beheersen daarin past? </vraag>
+      <vraag nummer="7" voetnoot="2">Op welk onderzoek doelde u, toen u naar aanleiding van de op 12 januari jl. door de leden Schimmel en Versnel-Schmitz gestelde vragen <voetnoot nummer="2"/>meedeelde, dat onderzoek gaande is, gericht op een aantal afzonderlijke aspecten van arbeidsomstandig– heden in kantoren, waaronder een onderzoek naar micro-organismen? </vraag>
+      <vraag nummer="8">Bent u bereid de resultaten van dit onderzoek op korte termijn aan de Kamer mee te delen? Bent u bereid, zonodig in overleg met uw ambtsgenoten van Welzijn, Volksgezondheid en Cultuur (in verband met de gezondheids– aspecten) en Volksgezondheid, Ruimtelijke Ordening en Milieu– beheer (in verband met de bouw-aspecten en het beheer van rijksgebouwen), alsnog te besluiten tot subsidiëring van het onderzoek naar ziektekiemen in luchtbehande– lingskanalen en naar de ontwikkeling van een instrument teneinde die vast te stellen en te beheersen? Zo nee, aan welke aanvullende voorwaarden zou het onderzoek dan moeten voldoen om alsnog voor subsidiëring in aanmerking te komen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" titel="U-gene Research B.V."> Deze aanvraag wordt ondersteund door de Organisatie van Schoonmaakbedrijven (OSB), voor een wetenschappelijk onderzoek door het instituut «U-gene Research B.V.» en de Rijksuniversiteit Utrecht naar de micro-biologische aspecten van het Sick-Building-Syndrom, waarin centraal staan de vaststelling van het maximaal aanvaardbaar aantal ziektekiemen in gebouwen en de ontwikkeling van zogenaamde bio-sensoren, waarmee het aantal aanwezige kiemen kan worden gemeten</noot>
+         <noot nummer="2"> Zie Aanhangsel Handelingen nr. 372, vergaderjaar 1989-1990</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="8">
+      <antwoord nummer="1">Sinds 13 oktober 1989 bestaan er mondelinge contacten met advies– bureau P. N. 0. over bedoeld onderzoek. Op 29 januari jl. werd een brief ontvangen van de Organi– adviesbureau P. N. 0. de indruk gewekt dat bedoeld overleg zou plaatsvinden. Op 6 april volgde een bespreking met de directeur van Lavold B.V., tevens bestuurslid van de OSB. Hierbij werd herhaald wat eerder bij genoemde telefonische contacten werd meegedeeld. Verder werd gewezen op een aantal vragen dat nog moest worden beantwoord om vast te kunnen stellen of de aanvraag paste binnen de door het Directoraat-Generaal van de Arbeid gehanteerde criteria voor subsidie– verlening. Op 7 mei werd een tweede brief van de OSB ontvangen waarin op genoemde vragen werd ingegaan. Geen mededeling werd gedaan over het laten aansluiten van het onderzoek bij de huidige stand van de wetenschap. Op 30 mei volgde een brief van de directeur van Lavold B.V. waarin werd meegedeeld dat een overleg met LUW en MBL slechts plaats kon vinden nadat verzekering zou zijn gegeven dat dit overleg tot een bereidverklarlng zou leiden tot financiële ondersteuning. Op 20 september werd de directeur van Lavold B.V. per brief, met nadere motivatie, meegedeeld dat zijn voorwaarde niet kon worden ingewilligd. Op 5 oktober jl. werd de OSB schriftelijk op de hoogte gesteld van de afwijzing en de afwij– zingsgronden. </antwoord>
+      <antwoord nummer="2">De afgelopen jaren werd een reeks van subsidieaanvragen van branche– organisaties ontvangen, welke binnen redelijke termijn is afgehandeld. M.b.t. de in vraag 1 bedoelde aanvraag bestond er een bijdragen tot het verbeteren van arbeidsomstandigheden. In een enkel geval wordt minder stringent vastge– houden aan het criterium betref– fende kennisvermeerdering, mits aannemelijk wordt gemaakt dat het onderzoek op een andere manier relevant is voor de arbeidsomstan– digheden in een bepaalde branche, bijvoorbeeld omdat de uitvoering op zich een stimulans vormt voor het verbeteren van de arbeidsomstandig– heden in die branche. Bij de onder– havige aanvraag werd noch de kennisvermeerdering noch de relevantie voor de arbeidsomstandig– heden in de schoonmaakbranche aannemelijk gemaakt. </antwoord>
+      <antwoord nummer="4">Ja. </antwoord>
+      <antwoord nummer="5">Ja. </antwoord>
+      <antwoord nummer="6">Ja, voor zover daar voldoende middelen tegenover staan. </antwoord>
+      <antwoord nummer="7">Het betreft hier onderzoek naar meet– en beoordelingsmethoden, opgedragen aan de Landbouwuniver– siteit te Wageningen. Dit onderzoek heeft naast kantoren ook betekenis voor andere arbeidsomstandigheden waarin een blootstellingsrisico aan micro-organismen aanwezig is. </antwoord>
+      <antwoord nummer="8">Ja. </antwoord>
+      <antwoord nummer="9">Als u hiermee concreet het onderzoek bedoelt waarvoor een subsidieaanvraag door de Directeur-Generaal van de Arbeid </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001407</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001407&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001407</item>
+         <item attribuut="Document-id">0000027744</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 473</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Franssen (V.V.D.) over het zogenaamde bindende studie-advies.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 473</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">473</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Franssen</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-03-15</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Ritzen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-03-28</item>
+         <item attribuut="Beginpagina">959</item>
+         <item attribuut="Eindpagina">960</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="959" allpagenumbers="959" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgevenj 's-Gravenhage 1991"/>
+      <vraagdata vraagnummer="473" onderwerp="hetzogenaamde bindende studie-advies." indiendatum="1991-03-15">
+         <vrager partij="VVD" oorsprong="parlement">Franssen</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1991-03-28">
+         <antwoorder functie="minister" ministerie="Onderwijs en Wetenschappen">Ritzen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Hebt u vorige week een brief ontvangen van de Vereniging van Samenwerkende Nederlandse Universiteiten, waarin zij heeft aangegeven bezwaren te hebben tegen het nog in te dienen wetsvoorstel, waarin het zogenaamde bindende studie-advies wordt geregeld? </vraag>
+      <vraag nummer="2">Maakt de introductie van het zogenaamde bindende studie-advies naar uw oordeel onverkort deel uit van de afspraken in het zogenaamde hoofdlijnenakkoord, dat u vorig jaar met de gezamenlijke universiteiten sloot? </vraag>
+      <vraag nummer="3">Welke gevolgen verbindt u aan de uitvoering van dit hoofdlijnenakkoord van uw kant, nu een zo belangrijke steen uit dit bouwwerk van de kant van de universiteiten is of dreigt te worden losgewrikt? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Ja. Het hoofdlijnenakkoord staat nog geheel overeind, zowel in mijn ogen als in die van de VSNU zoals zij van haar kant in een brief van 15 maart j.l. heeft laat weten. Alle universi– teiten zijn op een groot aantal deelterreinen bezig met de uitvoering. In dezelfde brief wordt ook het standpunt van de universi– teiten over de ontwerp-nota van wijziging op het wetsvoorstel w.h.w. inzake het zogenaamde bindend studie-advies verduidelijkt. Met nadruk stelt de VSNU dat niet het principe van het geven van een bindend advies wordt afgewezen. In de brief van 5 maart, waaraan het lid Franssen refereert, wezen de univer– siteiten op een aantal problemen met betrekking tot de uitvoerbaarheid van het concrete voorstel in de ontwerp-nota van wijziging. Op verzoek van de VSNÜ zal hierover op korte termijn een gesprek worden belegd. De indruk dat de umversi teiten bezig zouden zijn de bouwstenen van het hoofdlijnenak– koord los te wrikken deel ik dan ook niet. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="vragen." aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19891990:0000960</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0000960&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0000960</item>
+         <item attribuut="Document-id">0000035367</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 41</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Braams (V.V.D.) over de uitstoot van Co2.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 41</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">41</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Braams</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-09-13</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Nijpels</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-10-06</item>
+         <item attribuut="Beginpagina">83</item>
+         <item attribuut="Eindpagina">84</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="83" allpagenumbers="83" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 921 - 7398" uitgever="SDU uitgeverij 's-Gravenhage 1989"/>
+      <vraagdata vraagnummer="41" onderwerp="de uitstoot van €02." indiendatum="1989-09-13">
+         <vrager partij="VVD" oorsprong="parlement">Braams</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="9">
+      <vraag nummer="1" voetnoot="1">Ziet u tegenstrijdigheden tussen uw schriftelijke antwoorden van 18 juli j.l. op vragen van vragensteller <voetnoot nummer="1"/> en die, welke in 1987 werden gegeven door de minister van Economische Zaken op de vragen 19 t/m 22, die werden gesteld bij de behandeling van de begroting van Economische Zaken voor 1988?' </vraag>
+      <vraag nummer="2">Kan op basis van de door u gehan– teerde OECD gegevens worden geconcludeerd, dat de uitstoot van CÜ2 in Zweden per hoofd van de bevolking in 1976 ongeveer 50% hoger lag dan thans en werd toen de Nederlandse waarde van ruim 12 ton per hoofd (in 1986 en in 1976) benaderd? </vraag>
+      <vraag nummer="3">Mag uit de eerder genoemde OECD gegevens worden geconcludeerd, dat de door u in antwoord 6 genoemde bijdrage van waterkracht van 25% nauwelijks heeft bijge– dragen aan de vermindering met ruim 30% van de uitstoot van CO^ per hoofd in Zweden sinds 1976? </vraag>
+      <vraag nummer="4">Was de uitstoot per hoofd in Frankrijk op basis van OECD gegevens in 1976 ruim 10 ton en daarmee 40% hoger dan in 1986? </vraag>
+      <vraag nummer="5">Meent u, dat in de in vraag 2 genoemde waarden voor Zweden de verbranding van hout is inbegrepen, gezien uw opmerking in antwoord 6? </vraag>
+      <vraag nummer="6">Kunt u meedelen of u bij nadere overweging meent, dat in uw antwoord op vraag 6 wijzigingen dienen te worden aangebracht? </vraag>
+      <vraag nummer="7">Welke betekenis kent u toe aan een studie, die uitspraken doet over het eind van de volgende eeuw, maar: - uitgaat van erts met een gehalte van 0,1%, terwijl thans in Canada al erts wordt benut, dat 10-100% rijker is; - uitgaat van schattingen over reserves in een periode met overschotten en een lage exploratie activiteit; - nauwelijks rekening houdt met nieuwe technische ontwikkelingen? </vraag>
+      <vraag nummer="8" voetnoot="3">In hoeverre is naar uw mening de uitspraak van de AER <voetnoot nummer="3"/> van toepassing, dat verkenning van de zeer verre toekomst hoogstens in kwalitatieve zin mogelijk is, dat kwantificering slechts een beperkte waarde kan hebben en dat schetsen over ontwikkelingen tot 2050 hoogstens kunnen dienen als 'framework for speculation'? </vraag>
+      <vraag nummer="9">Meent u, dat de veronderstelde vermindering van de werelduitstoot van COa met 3-6% een reden kan zijn voor de Nederlandse regering af te zien van het streven naar een vermlndering van minimaal 20% of zoveel meer als technisch haalbaar </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Zie Aanhangsel Handelingen nr. 747, vergaderjaar 1988-1989</noot>
+         <noot nummer="2"> Zie Kamerstuk 20 200 XIII nr. 37</noot>
+         <noot nummer="3"> Advies AER aan de minister van Econo– mische Zaken van 7 juli 1988 inzake de studie 'Duurzame energie, een toekomstver– kenning'. AER = Algemene energieraad Mededeling</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+   <mededeling mededeler="IMijpels" functie="minister" afdeling="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer" mededelingdatum="1989-10-6">Mededeling van minister IMijpels (Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer). (Ontvangen 6 oktober 1989). Met verwijzing naar uw hierboven aangehaalde brief moet ik u tot mijn spijt mededelen dat ik de schriftelijke vragen van het lid der Tweede Kamer Braams, over de uitstoot van COa niet binnen de gebruikelijke termijn kan beantwoorden. Reden hiervoor is dat er nog enige tijd nodig is voor de interdeparte– mentale afstemming van enkele </mededeling>
+</kvr>

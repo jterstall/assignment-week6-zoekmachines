@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001324</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001324&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001324</item>
+         <item attribuut="Document-id">0000027661</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 390</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden A. de Jong en Feenstra (beiden P.v.d.A.) over vergiftiging door methylbromide.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 390</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">390</item>
+         <item attribuut="Indiener">
+            <persoon>de Jong A.</persoon>
+            <persoon partij="PvdA">Feenstra</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-01-31</item>
+         <item attribuut="Beantwoorder">
+            <persoon>De Vries</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-02-14</item>
+         <item attribuut="Beginpagina">793</item>
+         <item attribuut="Eindpagina">794</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="793" allpagenumbers="793" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1991"/>
+      <vraagdata vraagnummer="390" onderwerp="vergiftiging door methylbromide." indiendatum="1991-01-31">
+         <vrager partij="" oorsprong="parlement">de Jong A.</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Feenstra</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="14februari 1991).">
+         <antwoorder functie="minister" ministerie="Sociale Zaken en Werkgelegenheid">De Vries</antwoorder>
+         <mede-antwoorder>de staatssecretaris van Landbouw, Natuurbeheer en Visserij</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Hebt u kennis genomen van de vergiftiging van negen mensen te Zevenhuizen door methylbromide op 24 januari jl.? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Is inmiddels de toedracht van de vergiftiging volledig duidelijk? Kunt u deze weergeven? </vraag>
+      <vraag nummer="3">Bent u op de hoogte van de ongevallen sinds het moment waarop diverse toepassingsmogelijk– heden van methylbromide beperkt en verboden werden? Bent u bereid stappen te onder– nemen teneinde het volledig verbod op gebruik van methylbromide met één jaar te vervroegen, zodat het verbod al in 1991 kan ingaan? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" titel="Pesticide maakt negen slachtoffers"> Zie ook De Volkskrant van 26 januari jl : «Pesticide maakt negen slachtoffers»</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja, het bedoelde ongeval, als gevolg waarvan negen personen op 24 januari 1991 opgenomen zijn in het Academisch Ziekenhuis te Utrecht, is mij bekend. </antwoord>
+      <antwoord nummer="2">De toedracht van de opgetreden ongewenste blootstelling van negen personen aan methylbromide is door de Arbeidsinpectie en de Algemene Inspectiedienst onderzocht met het volgende resultaat. Bedoelde negen personen zijn werkzaam geweest in het achterge– deelte van een door middel van een scheidingswand in twee gedeelten gesplitste kas. Deze werkzaamheden vonden plaats op de dag dat het voorste gedeelte van de kas werd behandeld met methylbromide (23 januari 1991) alsmede de dag erna. Bij behandeling van het voorste gedeelte van de kas met methyl– bromide is ca. vijf maal méér methyl– bromide toegepast dan wettelijk is toegestaan. Door onvoldoende afsluiting van de scheidingswand tusen beide kasge– deelten, en door een oud, nog goed functionerend, drainagesysteem over de gehele lengte-richting van de kas, is methylbromide in het achterge– deelte van de kas kunnen komen. Ofschoon in het achtergedeelte van de kas op 23 januari een aanzienlijke overschrijding van de Maximaal Aanvaarde Concentratie (MAC) voor methylbromide is vastgesteld zijn de werkzaamheden aldaar geconti– nueerd. Op 24 januari 1991 heeft geen bewakmg van de concentratie van methylbromide plaatsgevonden. </antwoord>
+      <antwoord nummer="3">Neen, in Nederland bestaat namelijk geen systeem ter registratie van alle arbeidsongevallen. Verscheidene bronnen worden echter benut om inzicht in het optreden van arbeidsin– toxicaties te verkrijgen. </antwoord>
+      <antwoord nummer="4">Gelet op de toedracht van het ongeval zijn geen termen aanwezig voor een wijziging van het beleid inzake gebruik van methylbromide, aangezien bij zorgvuldig naleven van de wettelijke bepalingen veilig gebruik uit het oogpunt van arbeids– bescherming mogelijk is. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

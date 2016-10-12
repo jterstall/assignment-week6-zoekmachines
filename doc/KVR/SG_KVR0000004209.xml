@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0001698</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001698&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001698</item>
+         <item attribuut="Document-id">0000004209</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 484</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Blaauw (VVD) en Boers-Wijnberg (CDA) over het zg. tweede Algemene Milieu Actie Plan (A-MAP II).</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 484</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">484</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Blaauw</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-04-11</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Andriessen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-05-11</item>
+         <item attribuut="Beginpagina">981</item>
+         <item attribuut="Eindpagina">984</item>
+         <item attribuut="Omvang">4 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="981" allpagenumbers="981 982 983" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 • 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's-Gravenhage 1994"/>
+      <vraagdata vraagnummer="484" onderwerp="het zg. tweede Algemene Milieu Actie Plan (A-MAPII)." indiendatum="1994-04-11">
+         <vrager partij="VVD" oorsprong="parlement">Blaauw</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-05-11">
+         <antwoorder functie="minister" ministerie="Economische Zaken">Andriessen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1">Hebt u zich in 1993 bij het tot stand komen van IMES, mede gezien het grootaandeelhouderschap van de Staat in de Gasunie, ingezet om de marktsector, te weten VNI en UNETO, daarbij te betrekken? </vraag>
+      <vraag nummer="2" voetnoot="2 1">Zo ja, waarom is dat niet gelukt? Zo neen, waarom niet? Waarom wordt voor het A-MAP II uitgegaan van 2,0%, waardoor de autonome groei CO <voetnoot nummer="2"/> zo'n 1,7 miljoen ton hoger uitvalt? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="4" voetnoot="2">Is het mogelijk om het B-MAP van NUON, GAZO/REMU, EBA, PEN, GEBRotterdam, Nutsbedrijf Westland, DeltaNutsbedrijf, PNEM en MEGAter inzage van de Kamer te geven? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="5">In hoeverre kunnen energiediensten, zoals advisering bij leveringen, financiering, onderhoud en bediening van installaties en apparatuur, en ook het aannemen van installatiewerkzaamheden in de bebouwde omgeving, openbare verlichting en de industrie niet door de bestaande marktsector concurrerend worden gedaan? Waarom zou dit moeten worden uitgevoerd door energiedistributiebedrijven? </vraag>
+      <vraag nummer="6">Dient de subsidieverlener - EnergieNed, die alle ingediende plannen ontvangt - zich voor de zuiverheid buiten de markt te blijven, direct en indirect via dochterbedrijven of constructies, om zodoende concurrentievervalsing te voorkomen, waarbij de subsidiegever en ontvanger de indruk kunnen wekken dat men elkaar de hand boven het hoofd houdt? In hoeverre is de bijdrage van 20 miljoen gulden door het Landbouwschap in het kader van uitstootreductie m de glastuinbouw in de plannen verwerkt? </vraag>
+      <vraag nummer="8">In hoeverre kan het werk efficiënter en goedkoper worden uitbesteed aan de marktsector, aangezien het overgrote deel bestaat uit personeelskosten?  Hoeveel is de post vorming en scholing van personeel om dit werk te verrichten? Kan de post van 169 miljoen nader worden gedetailleerd, net zoals de post landelijke ondersteuning? Hoeveel personeelskosten, ook die tengevolge van interne rationalisering worden nu via het A-MAP II verschreven? Hoeveel van de personeelskosten worden doorbelast vanuit het centrale distributiebedrijf naar de energiediensten? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="3"/>
+         <noot nummer="1"> In de Vervolgnota Energiebesparing wordt uitgegaan van een groei van het BNP voor de periode 1990-2000 van 1,9%</noot>
+         <noot nummer="2"> Het A-MAP II is gebaseerd op de B-MAP van 43 energiedistributiebedrijven</noot>
+         <noot nummer="3"> De financiering van het A-MAP II vindt voor 310 miljoen gulden plaats uit de MAP toeslag en 60 miljoen eigen middelen, dus ook opgebracht door de verbruikers. Van dit totaal van 370 miljoen wordt 169 miljoen gulden aangewend voor operationele en centrale kosten, zijnde in feite 45% overhead. IMES = Intergraal Milieu Plan van de Energiesector VNI = Vereniging van Nederiandse Installateurs UNETO = Unie van elektrotechnische ondernemingen</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1">Nee. Het IMES is een samenwerkingsverband inzake milieu-initiatieven van de energiesector, bedoeld om afstemmingsproblemen te bespreken, zoals bijvoorbeeld de planning van warmte-kracht. De kwestie die er liggen tussen de energiedistributiesector en de twee genoemde branche-organisaties, zoals mededinging en veiligheid, zijn - economische inzichten, dan de uitgangspunten van het U-MAP II en het A-MAP II. In de tweede plaats is de berekeningsbasis van de twee groeiprognoses niet geheel congruent. Hierover vindt nog technisch overleg plaats met EnergieNed, ter bevordering van een goede vergelijkbaarheid in de toekomst. </antwoord>
+      <antwoord nummer="4">Ja. De B-MAP's voor de nieuwe periode 1994 tot en met 1996, het MAP-II, zijn op dit moment bij de meeste energiebedrijven nog niet definitief vastgesteld. Wel zijn de B-MAP's ter beschikking van de voorgaande MAP-periode 1991 tot en met 1993, het MAP-I. Zodra de gevraagde nieuwe B-MAP's beschikbaar zijn, zal ik ervoor zorgdragen dat deze aan de Kamer worden toegestuurd. </antwoord>
+      <antwoord nummer="5">In de vraag wordt onder energiediensten een groot aantal reguliere economische activiteiten als voorbeeld genoemd; er is geen sprake van dat deze uitgevoerd zouden moeten worden door de energiedistributiesector. Grotendeels worden deze activiteiten nu ook door de markt uitgevoerd. Daarbij gaat het deels om activiteiten, die juist dank zij het MAP tot stand komen; de markt heeft hier dus baat bij. In de Vervolgnota Energiebesparing en in de Set van Afspraken heeft het begrip «energiediensten» echter een geheel andere betekenis. Gedoeld wordt op een vernieuwende impuls terwille van een groter investeringsvolume. Veel investeringen in teneinde de financieringsproblematiek bij de eindgebruiker weg te nemen. Hiertoe is een veelheid van constructies denkbaar, welke ook in het buitenland worden toegepast. Er zijn hiervoor verschillende benamingen in omloop, waaronder de term «energiediensten». Beoogd wordt, door nieuwe vormen van dienstverlening een vergroting van de markt voor energiebesparende investeringen te genereren. In deze vergroting van de marktomvang liggen de kansen, voor zowel energiebedrijven als het particuliere bedrijfsleven. De plannen om een en ander tot ontwikkeling te brengen bevinden zich nog in het oriënterende stadium. Alle belanghebbende partijen zullen door mij worden betrokken bij de ontwikkeling van plannen in deze richting, waarbij als randvoorwaarde geldt dat sprake moet zijn van een gezonde marktwerking. </antwoord>
+      <antwoord nummer="6">In antwoord op vragen van de vaste Commissie voor Economische Zaken (brief van 16 maart jl.) is aangegeven, dat toetreding tot de markt voor ieder zo vrij mogelijk moet zijn, dus ook voor energiedistributiebedrijven. Voor het ondernemen van marktgerichte activiteiten zou gedacht kunnen worden aan het onderbrengen in een aparte rechtspersoon. Dit is een geëigende methode om beter te kunnen toezien op een goede marktwerking. Ook is het gewenst dat subsidieverlening door energiedistributiebedrijven plaatsvindt op basis van objectieve, niet-concurrentievervalsende criteria. voor de inning, besteding en verantwoording van deze middelen, in het kader van de meerjarenafspraak tussen het ministerie van Economische Zaken en het Landbouwschap. Ten aanzien van sommige specifieke besparingsopties kan er wel een samenhang bestaan, bijvoorbeeld indien deze zowel door het Landbouwschap als door de nutsbedrijven worden gestimuleerd. </antwoord>
+      <antwoord nummer="8">In volgorde van de vraagstelling luidt mijn beantwoording als volgt. a. Het behoort tot de kernpunten van het sinds enige jaren bestaande energiebesparingsbeleid dat nutsbedrijven geëigende organen zijn om de energiebesparing te bevorderen, met name bij de vele kleinere verbruikers. Op intensivering van deze rol van de energiedistributiebedrijven is in het recente verleden aangedrongen door de vaste Kamercommissie. Ik heb geen reden om aan te nemen dat de marktsector daarbij efficiënter zou kunnen opereren dan de energiedistributiebedrijven. Overigens vallen beslissingen over uitbesteding van de MAP-activiteiten onder de verantwoordelijkheid van de afzonderlijke energiedistributiebedrijven. b. Ten aanzien van de vraag over scholing en vorming merk ik op, dat het in alle geledingen van de maatschappij en het bedrijfsleven een zeer normale zaak is, dat mensen worden opgeleid of omgeschoold. Zeker kan dat het geval zijn waar, zoals hier, sprake is van ontwikkeling van nieuwe activiteiten. Ik acht het - Verhuren gasgestookte wasdroger - Intensiveren «Actie zuinig stoken/zuinig aan» ionder andere ook schoolklassen). - Onderzoek telemetrie ten behoeve van energiebesparing - Initiëren aanscherping/uitbreiding regelgeving Utiliteitsbouw: - Informatie en voorlichting energiebesparing met onder andere energievoorlichtingsteams - Onderzoek mogelijkheden voorfinanciering/huurkoop - Uitvoering stimulerings– en promotieregelingen industrie: - Informatie en voorlichting energiebesparing met onder andere energievoorlichtingsteams - Onderzoek mogelijkheden voorfinanciering/huurkoop Energiedistributiesector - Zonne-energie (thermisch en fotovoltaïsch) - Onderzoek en ontwikkeling nieuwe technologieën - gasexpansie - organic rankine cycle - warmtepomptoepassingen - Stortgas - Innovatiebeleid Het gaat derhalve bij de uitvoeringskosten om een groot aantal categorieën, waaronder de kosten voor voorlichting en korte adviezen zoals energie-scans voor bedrijven en instellingen. Dit zijn activiteiten waarvoor in de praktijk weinig of geen markt is in de zin van een zakelijk te exploiteren activiteit. De invulling hiervan zal overigens per nutsbedrijf sterk kunnen verschillen en kan ook in de tijd evolueren; dit is vermeden. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

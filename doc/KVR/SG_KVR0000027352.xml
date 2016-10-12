@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001015</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001015&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001015</item>
+         <item attribuut="Document-id">0000027352</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 83</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Koffeman en V.A.M. van der Burg (beide C.D.A.) over mogelijke postorderverzending van verdovende middelen</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 83</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">83</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Koffeman</persoon>
+            <persoon>van der Burg V.A.M.</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-09-06</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Hirsch Ballin</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-10-22</item>
+         <item attribuut="Beginpagina">169</item>
+         <item attribuut="Eindpagina">170</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="169" allpagenumbers="169 170" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgevenj 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="" onderwerp="" indiendatum="">
+         <vrager partij="CDA" oorsprong="parlement">Koffeman</vrager>
+         <vrager partij="" oorsprong="parlement">van der Burg V.A.M.</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="22 oktober 1990). Zie ook Aanhangsel Handelingen nr. 19, vergaderjaar 1990-1991.">
+         <antwoorder functie="minister" ministerie="Justitie">Hirsch Ballin</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="83">Vragen van de leden Koffeman en V.A.M. van der Burg (beide C.D.A.) over mogelijke postorderver– zending van verdovende middelen (Ingezonden 6 september 1990) </vraag>
+      <vraag nummer="1">Hebt u kennis genomen van de waarneming van de heer August de Loor, getuige deskundige in een strafzaak inzake heroïnehandel bij het Gerechtshof te Amsterdam, dat het in Amsterdam mogelijk is 'alle drugs die op de opiumlijst van verdo– vende middeln staan' via een postor– dersysteem te verkrijgen? </vraag>
+      <vraag nummer="2">Is een zodanig systeem van postor– derverzending inderdaad opera– tioneel in Amsterdam? Zo ja, is het u bekend of ook elders in Nederland via een vergelijkbaar systeem wordt gehandeld in verboden verdovende middelen? </vraag>
+      <vraag nummer="4">Levert het hanteren van een zodanig systeem toerekening op van een strafbaar feit aan de eigenaar van het systeem en/of de medewerkers er van? </vraag>
+      <vraag nummer="5">Zo ja, bent u voornemens ter handhaving van de wettelijke bepalingen terzake geëigende maatregelen te treffen? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Blijkens ambtsberichten die zijn ingewonnen bij het Openbaar Minis– terie te Amsterdam is bij de afdeimg verdovende middelen van de gemeentepolitie Amsterdam noch bij de officieren van justitie in het arron– dissement Amsterdam, belast met de behandeling van zaken die de Opiumwet betreffen, een systeem van postorderverzending van verdo– vende middelen bekend. </antwoord>
+      <antwoord nummer="3">Neen. </antwoord>
+      <antwoord nummer="4">Het al dan niet opzettelijk verkopen, afleveren, verstrekken of vervoeren van middelen vermeld op de bij de Opiumwet behorende lijsten I of II alsmede het medeplegen of uitlokken van - dan wel medeplich– tigheid aan - genoemde handelingen is in de Opiumwet strafbaar gesteld. Voor de strafbaarstelling is niet relevant of de verkoop, aflevering, verstrekking of het vervoer op directe dan wel indirecte wijze, zoals via een postordersysteem, plaats– vindt. De bestrijdmg van de handel in verdovende middelen, in het bijzonder de handel in verdovende middelen met een onaanvaardbaar risico, heeft bij het openbaar minis– terie en de politie onverminderd hoge prioriteit. Er is geen aanleiding om in het terzake vigerende opspo– rings– en vervolgingsbeleid wijzi– gingen aan te brengen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

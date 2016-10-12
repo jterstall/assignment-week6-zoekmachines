@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001435</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001435&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001435</item>
+         <item attribuut="Document-id">0000035842</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 513</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Leerling (R.P.F.) over respect voor essentiële rechtsnormen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 513</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">513</item>
+         <item attribuut="Indiener">
+            <persoon partij="RPF">Leerling</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-02-21</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Hirsch Ballin</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-04-05</item>
+         <item attribuut="Beginpagina">1031</item>
+         <item attribuut="Eindpagina">1032</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen door de leden der Kamer, met de daarop door de regering gegeven antwoorden."/>
+      <footer firstpaginanummer="1031" allpagenumbers="1031" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij s Gravenhage 1990"/>
+      <vraagdata vraagnummer="513" onderwerp="respect voor essentiële rechts– normen." indiendatum="1990-02-21">
+         <vrager partij="RPF" oorsprong="parlement">Leerling</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-04-5">
+         <antwoorder functie="minister" ministerie="Justitie">Hirsch Ballin</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Hebt u tijdens een toespraak in Zwolle ervoor gepleit, dat de overheid een krachtig beroep doet op ouders om hun kinderen meer respect bij te brengen voor essen– tiële rechtsnormen?' Zo ja, wat was de aanleiding om dit pleidooi te houden? Hoe denkt u dit streven te realiseren? </vraag>
+      <vraag nummer="3">Gaf u in Zwolle uw eigen opvatting weer of gaat het om voorgenomen kabinetsbeleid? </vraag>
+      <vraag nummer="4">Bent u bereid deze Kamer periodiek te rapporteren over de initiatieven, die in deze zijn genomen en de vorderingen, die zijn bereikt? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1990-02-19" bron=" Algemeen Dagblad"> Algemeen Dagblad, 19 februari 1990</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja, ik heb ouders en voogden opgeroepen, om de aan hun zorg toevertrouwde kinderen respect bij te brengen voor essentiële rechts– normen. </antwoord>
+      <antwoord nummer="2">De achtergrond van dit pleidooi wordt onder meer gevormd door wetenschappelijke publikaties over het belang van de opvoeding voor de socio-morele ontwikkeling van kinderen en daarmee voor de preventie van delinquent gedrag op iatere leeftijd (bij voorbeeld T. Hirschi, Crime and the Family, in: Crime and Public Policy, 1983; themanummer «Gezin, Opvoeding en Criminaliteit» van het tijdschrift Justitiële Verkenningen, november 1988). Inmiddels is een rapport verschenen van de Raad voor het Jeugdbeleid over «Jeugddelin– quentie, preventie en straf op maat» waarin eveneens voor meer aandacht van opvoeders voor normoverdracht wordt gepleit. In dit rapport worden tevens enkele voorstellen gedaan voor de realisering van dit streven waarnaar ik kortheidshalve verwijs. 3/4 Mijn oproep aan ouders en voogden was niet louter een persoonlijke opvatting, maar steunde op weten– schappelijk gefundeerde inzichten dienaangaande. In het standpunt van de regering inzake het rapport van de Raad voor het Jeugdbeleid zal mede op de voorstellen voor initi– atieven op dit gebied worden ingegaan. Daarnaast heb ik het Wetenschappelijk Onderzoek en Documentatie Centrum van mijn ministerie gevraagd de ontwikke– lingen in Nederland op het genoemde punt sociaal-wetenschap– pelijk in kaart te brengen. Over de resultaten hiervan zal ik de Kamer gaarne rapporteren. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

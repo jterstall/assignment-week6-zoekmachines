@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="toekomen." aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001279</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001279&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001279</item>
+         <item attribuut="Document-id">0000027616</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 345</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Apostolou (P.v.d.A.) over het beschikbaar stellen van woningen aan asielzoekers.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 345</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">345</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Apostolou</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-12-27</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Hirsch Ballin</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-01-29</item>
+         <item attribuut="Beginpagina">699</item>
+         <item attribuut="Eindpagina">700</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="699" allpagenumbers="699" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1991"/>
+      <vraagdata vraagnummer="345" onderwerp="het beschikbaar stellen van woningen aan asiel– zoekers." indiendatum="1990-12-27">
+         <vrager partij="PvdA" oorsprong="parlement">Apostolou</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Om welke redenen heeft het antwoord van de regering van 17 december 1990 op de vragen van 17 mei 1990 zeven maanden op zich laten wachten? Waarop is het oordeel van de regering gebaseerd, dat er geen sprake zou zijn van indirecte discri– minatie?' Welke «objectieve recht– vaardigingsgronden» liggen ten grondslag aan het door het ABP gestelde criterium inzake het niet verhuren aan instellingen of rechts– personen? </vraag>
+      <vraag nummer="3" voetnoot="2">Is het u bekend, dat het overleg tussen het ABP en de gemeente Oegstgeest inmiddels op niets is uitgelopen? <voetnoot nummer="2"/> Betekent dit, dat thans wel «nadere stappen» door u worden ondernomen? Zo ja, wat houden deze in? Zo neen, waarom niet? </vraag>
+      <vraag nummer="4">Waarom heeft de staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer in het licht van de acute noodsituatie rond de huisvesting van asielzoekers niet reeds in de afgelopen maanden kontakt opgenomen met de Raad van Onroerende Zaken? Is overigens het stadium van «speciale aandacht vragen» niet reeds een gepasseerd station? </vraag>
+      <vraag nummer="5">Deelt u de mening, dat bij de opvang van asielzoekers beleggers geen andere positie behoren in te nemen dan toegelaten instellingen? Toelichting Deze vragen worden gesteld ter aanvulling op eerdere vragen van het lid Apostolou terzake, Aanhangsel Handelingen, vergaderjaar 1990-1991, nr. 255. </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Immers, asielzoekers kunnen vanwege hun afhankelijkheid van de ROA - deze bepaalt dat de gemeente in natura de huisvesting verstrekt aan de asielzoekers -per definitie niet voldoen aan het door het ABP gestelde criterium inzake het niet verhuren aan instel– lingen of rechtspersonen</noot>
+         <noot nummer="2"> De gemeente Oegstgeest heeft inmiddels medegedeeld woonruimte van het ABP te zullen vorderen. (Volkskrant van 5-12-'90)</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+   <mededeling mededeler="Hirsch Ballin" functie="minister" afdeling="Justitie" mededelingdatum="1991-01-29">Mededeling van minister Hirsch Ballin (Justitie), mede namens de ministers van Binnenlandse Zaken en van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer. (Ontvangen 29 januari 1991) Met verwijzing naar uw brief van 28 december 1990 deel ik u mee dat de vragen van het lid van uw Kamer Apostolou over het beschikbaar stellen van woningen aan asiel– zoekers niet binnen de gebruikelijke termijn kunnen worden beantwoord, omdat de minister van Binneniandse Zaken aanleiding heeft gevonden inlichtingen in te winnen en deze nog niet beschikbaar zijn. Ik streef ernaar u voor 15 februari 1991 het antwoord te doen </mededeling>
+</kvr>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="toegebracht?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19931994:0001444</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001444&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001444</item>
+         <item attribuut="Document-id">0000003955</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 230</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Eisma (D66) over nieuwe dammen in de Acheloos-rivier.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 230</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">230</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Eisma</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-11-30</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Bukman</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-01-03</item>
+         <item attribuut="Beginpagina">465</item>
+         <item attribuut="Eindpagina">466</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="465" allpagenumbers="465" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeveri) Plantijnstraat 's-Gravenhage 1994"/>
+      <vraagdata vraagnummer="230" onderwerp="nieuwe dammen in de Acheloos-rivier." indiendatum="1993-11-30">
+         <vrager partij="D66" oorsprong="parlement">Eisma</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1">Kent u de plannen van Griekenlarid om in de Acheloos-rivier een aantal nieuwe dammen te bouwen? Is hiervoor bij de Europese Commissie om financiële ondersteuning gevraagd?$N1 </vraag>
+      <vraag nummer="2">Zijn het dal en de directe omgeving van de Acheloos van groot belang voor in Europa bedreigde diersoorten, zoals de bruine beer en de wolf? Is een verandering in de waterhuishouding van de Acheloos van grote invloed op het Messolonghi wetland, een gebied dat door Griekenland officieel is aangemeld als beschermd gebied onder de Ramsar Conventie? Bent u bereid uw bezorgdheid onder de aandacht te brengen van de Griekse regering? Welke activiteiten zult u ontwikkelen om te voorkomen dat de Europese Unie het verzoek om financiële ondersteuning honoreert? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"/>
+         <noot nummer="1" datum="1993-11-6" bron=" NRC"> NRC, 6 november 1993</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+   <mededeling mededeler="Bukman" functie="minister" afdeling="Landbouw, Natuurbeheer en Visserij" mededelingdatum="1994-01-3">Mededeling van minister Bukman (Landbouw, Natuurbeheer en Visserij) (Ontvangen 3 januari 1994) De aan mij toegezonden vragen van het lid Eisma (D66) inzake nieuwe dammen in de Acheloos-rivier, Griekenland, kunnen tot mijn spijt niet binnen de gebruikelijke termijn worden beantwoord. De reden van uitstel is dat thans nog niet alle voor een juiste beantwoording van de vragen benodigde informatie voorhanden is. De beantwoording zal naar verwachting plaatshebben omstreeks medio januari 1994 (of eerder zodra de ontbrekende informatie is ontvangen). Herinnert u zich in dit verband, dat de partijen van de Ramsar Conventie in juni van dit jaar, tijdens de vergadering in Kushiro, hun bezorgdheid hebben uitgesproken over de schade die als gevolg van de bouw van dammen aan het Messolonghi wetland zal worden </mededeling>
+</kvr>

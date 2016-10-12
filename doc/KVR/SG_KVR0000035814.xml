@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001407</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001407&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001407</item>
+         <item attribuut="Document-id">0000035814</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 485</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Verspaget (P.v.d.A.), De Hoop Scheffer (C.D.A.), Weisglas (V.V.D.), Tommel (D66) en Van Es (Groen Links) over de situatie in Ethiopië.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 485</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">485</item>
+         <item attribuut="Indiener">
+            <persoon>Verspaget</persoon>
+            <persoon>De Hoop Scheffer</persoon>
+            <persoon>Weisglas</persoon>
+            <persoon>Tommel</persoon>
+            <persoon>Van Es</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-02-22</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Pronk</persoon>
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-03-22</item>
+         <item attribuut="Beginpagina">977</item>
+         <item attribuut="Eindpagina">978</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="977" allpagenumbers="977" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="485" onderwerp="de situatie in Ethiopië." indiendatum="1990-02-22">
+         <vrager partij="" oorsprong="parlement">Verspaget</vrager>
+         <vrager partij="" oorsprong="parlement">De Hoop Scheffer</vrager>
+         <vrager partij="" oorsprong="parlement">Weisglas</vrager>
+         <vrager partij="" oorsprong="parlement">Tommel</vrager>
+         <vrager partij="" oorsprong="parlement">Van Es</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-03-22">
+         <antwoorder functie="minister" ministerie="Ontwikkelingssamenwerking">Pronk</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1">Hebt u kennis genomen van de jongste ontwikkelingen in Ethiopië waardoor de voedselhulp aan met name Eritrea en Tigray ernstig in gevaar komt?' Bent u bereid de strijdende partijen te verzoeken mee te werken aan een combinatie van de uitvoering van «cross border»-operaties en voedsel– transporten via de Noord– Zuid-verbinding teneinde een «free passage» in samenspraak met alle betrokken partijen te bewerkstel– ligen? </vraag>
+      <vraag nummer="3">Bent u bereid, eventueel in EG-verband, transportmiddelen beschikbaar te stellen, zodat de logistieke problemen bij de voedsel– distributie kunnen worden opgelost? </vraag>
+      <vraag nummer="4">Wilt u via uw ambassade in de regio en uw vertegenwoordiging bij de FAO gegevens verzamelen, waardoor het mogelijk is de voedselbehoefte van de getroffen bevolking in de regio tijdig en precies te bepalen? </vraag>
+      <vraag nummer="5">Wilt u op zo kort mogelijke termijn stappen ondernemen teneinde de Verenigde Naties te bewegen als waarnemer aanwezig te zijn bij de onderhandeling tussen het Eritrea Peoples Liberation Front (EPLF) en de Ethiopische regering? </vraag>
+      <vraag nummer="6">Wat is uw standpunt ten aanzien van het verzoek van de Ethiopische regering aan de EG om druk uit te oefenen op het EPLF teneinde de gevechten in Eritrea te staken? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="2"/>
+         <noot nummer="1" datum="1990-01-20" bron=" NRC Mandelsblad"> NRC Mandelsblad, 20 januari 1990</noot>
+         <noot nummer="2"> Volkskrant van 1 5 februari il</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2" voetnoot="1">In hun verklaringen van 23 januari en 20 februari jl. hebben de Twaalf de strijdende partijen opgeroepen hun vijandelijkheden te staken en aange– drongen hun medewerking te verlenen aan een vrije en veilige doorgang voor voedseltransporten. Tevens hebben zij hun ernstige bezorgdheid uitgesproken over de aanvallen op schepen met voedselhulp en over de hervatting van de gevechtshandelingen in Massawa, als belangrijkste doorvoer– haven voor voedselhulp naar Eritrea en Tigray, waardoor de hulpverlening aan de bedreigde gebieden in ernstig gevaar wordt gebracht. In dit verband moge worden verwezen naar de brieven van 26 januari en 22 februari jl. waarbij de teksten van de verklaringen de Kamer zijn toegegaan. <voetnoot nummer="1"/>Tijdens recent overleg met Neder– landse particuliere hulporganisaties, is de grote zorg van de Nederlandse regering uitgesproken over de ernstige gevolgen die het voortduren van de gewapende strijd heeft voor de aanvoer en distributie van voedsel voor de door de hongersnood bedreigde bevolking. Voorts is de hulporganisaties verzocht deze zorg kenbaar te maken aan de Etiopische organisaties waarmee wordt samen– gewerkt. </antwoord>
+      <antwoord nummer="3">Reeds in december 1989 is een bedrag van f 20 miljoen beschikbaar gesteld voor een aantal particuliere en VN-initiatieven. Het bedrag wordt besteed aan aankoop van voedsel en transport daarvan naar de meest bedreigde bevolkingsgroepen. Hiervan wordt via NOVIB ruim f 5 miljoen besteed aan aanschaf en ondersteuning van transportmid– delen ten behoeve van de in Eritrea en Tigray werkzame hulporganisaties ERA en REST. Tevens is in het kader van logistieke ondersteuning een bedrag van  f 3 miljoen beschikbaar gesteld aan WFP ten behoeve van rehabilitatie van de transportvloot van World Transport Organisation Ethiopia (aankoop van reserveonder– delen) en ter versterking van graan– overslagcapaciteit in de haven Assab (vier graanopzakinstallaties). </antwoord>
+      <antwoord nummer="6">In het kader van de Twaalf worden thans de mogelijkheden tot verdere stappen onderzocht die beogen druk uit te oefenen op beide partijen in het conflict om hun strijd te staken. Tevens wordt nagegaan op welke wijze via daarvoor in aanmerking komende kanalen druk kan worden uitgeoefend op het EPLF. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

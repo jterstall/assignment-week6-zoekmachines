@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="1990 plaatsvinden." aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19891990:0001160</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001160&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001160</item>
+         <item attribuut="Document-id">0000035567</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 238</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Schaefer en K. Zijlstra (beiden P.v.d.A.) over betalingsregelingen bij woningbouwcorporaties.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 238</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">238</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Schaefer</persoon>
+            <persoon partij="PvdA">K. Zijlstra</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-12-01</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Andriessen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-01-02</item>
+         <item attribuut="Beginpagina">481</item>
+         <item attribuut="Eindpagina">482</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, tnet de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="481" allpagenumbers="481" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="238" onderwerp="betalingsregelingen bij woningbouw– corporaties." indiendatum="1989-12-1">
+         <vrager partij="PvdA" oorsprong="parlement">Schaefer</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">K. Zijlstra</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Hebt u kennis genomen van een artikel', waaruit blijkt dat woning– bouwcorporaties en energiebedrijven structureel weigerachtige credi– teuren zijn als het gaat om het treffen van betalingsregelingen? </vraag>
+      <vraag nummer="2">Bent u van mening, dat betalingsre– gelingen vaak een goede oplossing kunnen zijn voor een te grote schul– denlast van bewoners? Bent u van mening, dat het afsluiten van de electriciteit en gas en het opzeggen van de huur slechts als uiterste dwangmiddelen gewenst zijn en dat betalingsregelingen over het algemeen de voorkeur verdienen? </vraag>
+      <vraag nummer="4">Bent u bereid bij energiebedrijven en woningbouwcorporaties aan te dringen op een houding, die zoveel mogelijk naar oplossingen via betalingsregelingen streeft zonder daarmee «morgen het hele bestand op de stoep» te krijgen, zoals een woordvoerster van de Nationale Woningraad blijkens het artikel gezegd heeft? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" titel="Woningcorporaties weigeren schulden– regeling bewoners"> De Volkskrant van 30 november 1989 «Woningcorporaties weigeren schulden– regeling bewoners». Mededeling Andrïessen (Economische Zaken),</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+   <mededeling mededeler="Andrïessen" functie="minister" afdeling="Economische Zaken" mededelingdatum="1990-01-2">Mededeling van minister Andrïessen (Economische Zaken), mede namens de staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer. (Ontvangen 2 januari 1990) Hierbij deel ik u ook namens de staatssecretaris van Volkshuis– vesting, Ruimtelijke Ordening en Milieubeheer mede dat het vanwege nog lopend interdepartementaal overleg niet mogelijk is u binnen de gestelde termijn de antwoorden te doen toekomen op de vragen van de leden van uw Kamer Schaefer en K. Zijlstra, welke mij werden toege– zonden bij brief van 4 december jl.. De beantwoording zal begin januari </mededeling>
+</kvr>

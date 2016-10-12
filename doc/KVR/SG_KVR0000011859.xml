@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001555</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001555&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001555</item>
+         <item attribuut="Document-id">0000011859</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 625</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Netelenbos (PvdA) over een etiketteerfout bij de groothandel Centrafarm.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 625</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">625</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Netelenbos</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-05-11</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Simons</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-06-08</item>
+         <item attribuut="Beginpagina">1277</item>
+         <item attribuut="Eindpagina">1278</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1277" allpagenumbers="1277" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="625" onderwerp="een etiketteerfout bij de groothandel Centrafarm." indiendatum="1993-05-11">
+         <vrager partij="PvdA" oorsprong="parlement">Netelenbos</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-06-8">
+         <antwoorder functie="staatssecretaris" ministerie="Welzijn, Volksgezondheid en Cultuur">Simons</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Kent u de circulaire <voetnoot nummer="1"/> van de Hoofdinspectie van de volksgezondheid voor de geneesmiddelen aan alle apotheekhoudenden, met de mededeling dat er bij de etikettering van een hoeveelheid ampullen bij de groothandel Centrafarm fouten zijn gemaakt, zodat in noradrenaline-ampullen atropini sulfas kan zitten (en omgekeerd)? </vraag>
+      <vraag nummer="2">Hoe is een dergelijke fout mogelijk? Is van de zending ampullen een sluitende boekhouding bijgehouden, zodat gecontroleerd kan worden dat alle ampullen worden teruggezonden? </vraag>
+      <vraag nummer="3">Overweegt u maatregelen die een dergelijke verwisseling in de toekomst onmogelijk maken dan wel onmiddellijk onderkenning van dergelijke fouten waarborgen? </vraag>
+      <vraag nummer="4">Waarom spreekt uit de brief van de hoofdinspectie niet méér bezorgdheid, temeer daar de verkeerd geëtiketteerde ampullen kunnen zitten in crash-koffers, in voorraden van operatiekamers, angiokamers, afdelingen voor spoedeisende hulp en ambulances, waarbij het gebruik van het verkeerde middel levensbedreigend is voor de betrokken patiënt? </vraag>
+      <vraag nummer="5">In hoeverre is Centrafarm aansprakelijk wanneer er als gevolg van de etiketteerfout ongevallen plaatvinden? Welke maatregelen worden voorgesteld om dit controleerbaar te maken? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Circulaire nr HIG-U-93821 van 23 april 1993 aan alle gevestigde apothekers en apotheekhoudende geneeskundigen</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja. De fout is vermoedelijk ontstaan door verwisseling van twee opslagboxen van de onderscheiden produkten op een moment dat de individuele ampullen nog niet waren geëtiketteerd. De fabrikant kent de chargegroottes van de beide geneesmiddelen. De terugontvangen ampullen uit de recall worden gereglstreerd. Niet alle afgeleverde ampullen zullen worden teruggestuurd. Het verschil betreft de ampullen die, naar redelijkerwijs aangenomen kan worden, zijn toegediend. </antwoord>
+      <antwoord nummer="3">Het Staatstoezicht op de Volksgezondheid heeft een onderzoek ingesteld. De fabrikant gaat maatregelen treffen die door het Staatstoezicht zullen worden getoetst. Daarmee dient de kans op een dergelijke fout in de toekomst naar 't mogelijke te worden uitgesloten. </antwoord>
+      <antwoord nummer="4">De recall was bedoeld om het veld op zeer korte termijn te informeren over de etiketteerfout. Daarmee is beoogd om alle nog in omloop aanwezige ampullen van de betreffende charges terug te halen. Vanuit deze overwegingen is de circulaire geschreven. De bewoordingen waarin de brief was gesteld, waren passend om het beoogde effect te bewerkstelligen. </antwoord>
+      <antwoord nummer="5">Ook voor dit bedrijf gelden de regels van produktaansprakelijkheid zoals neergelegd in het Nieuw Burgerlijk Wetboek, Boek 6, titel 3. Voor het signaleren van ongevallen is het Staatstoezicht afhankelijk van meldingen uit het veld. Het spreekt vanzelf dat hierop alert zal worden gereageerd. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

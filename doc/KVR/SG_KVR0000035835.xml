@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="4">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001428</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001428&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001428</item>
+         <item attribuut="Document-id">0000035835</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 506</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Beckers-de Bruijn (Groen Links) over het lesprogramma van de KMA.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 506</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">506</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Beckers-de Bruijn</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-03-15</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Ter Beek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-04-03</item>
+         <item attribuut="Beginpagina">1017</item>
+         <item attribuut="Eindpagina">1018</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen door de leden der Kamer, met de daarop door de regering gegeven antwoorden."/>
+      <footer firstpaginanummer="1017" allpagenumbers="1017 10 8" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="506" onderwerp="het lespro– gramma van de KMA." indiendatum="1990-03-15">
+         <vrager partij="Groen Links" oorsprong="parlement">Beckers-de Bruijn</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-04-3">
+         <antwoorder functie="minister" ministerie="Defensie">Ter Beek</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Is op de KMA enkele jaren geleden een nieuw lesprogramma ingevoerd, waarbij de bednjfsmatige kant van het militaire beroep zo sterke nadruk kreeg dat voor geschiedenis, staat– kunde en recht slechts 2,7% van het totale vakkenpakket overbleef?' Wordt op de Academie over de ontwikkelingen in Oost-Europa nauwelijks gesproken? </vraag>
+      <vraag nummer="3">Deelt u de mening, dat toekomstige officieren moeten hebben nagedacht over de achtergronden en perspec– tieven van politieke ontwikkelingen, die grote gevolgen kunnen hebben voor vrede en veiligheid in Europa? </vraag>
+      <vraag nummer="4">In hoeverre vindt de te verwachten verandering van taken zijn weerslag in het lesprogramma van de militaire opleidingen? </vraag>
+      <vraag nummer="5">Hoe zult u ervoor zorgdragen, dat de militaire opleidingen worden toege– sneden op de eisen van deze tijd? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1990-03-3" bron=" NRC-Handelsblad"> NRC-Handelsblad, 3 maart 1990</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">De doelstelling van de KMA-opleiding is het aankweken van een wetenschappelijke attitude en het vormen en opleiden tot officier. In 1985 is de opleiding gewijzigd. Zij werd meer gericht op militaire bedrijfskunde: het besturen, beheersen en leiden van processen in militaire organisaties. Deze processen worden ook geplaatst in een ruim kader door aandacht voor maatschappelijke, culturele, militaire en politieke omgevingsfactoren. Het vak internationale staatkunde past in dit grote kader. Ruim 5% van de beschikbare tijd voor de wetenschap– pelijke studie wordt aan dit vak besteed. </antwoord>
+      <antwoord nummer="2">De docenten internationale staat– kunde nemen dit soort ontwikke– lingen in hun colleges op. Ook buiten het onderwijsprogramma wordt penodiek aandacht geschonken aan actualiteiten zoals de plotselmge veranderingen in Oost-Europa en in de nabije toekomst de resultaten van het overleg in Wenen. Deze actuele zaken zijn onderwerp van voorlichting aan alle cadetten. </antwoord>
+      <antwoord nummer="3">Ja. </antwoord>
+      <antwoord nummer="4 en 5">De lesprogramma's van alle oplei– dingen binnen Defensie, dus ook die van de KMA, worden voortdurend geëvalueerd en getoetst op doelma– tigheid en doeltreffendheid. De toetsing op doeltreffendheid gebeurt aan de hand van de taken en operationele eisen die aan en door de krijgsmachtdelen zijn gesteld De beleidsvoornemens m.b.t. de toekomst van Defensie worden eind 1990 in de Defensienota gepresen– teerd. Daarin zullen ook de aard en omvang van aanpassingen van taken die voortvloeien uit de ontwikke– lingen in Oost-Europa worden aangegeven. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

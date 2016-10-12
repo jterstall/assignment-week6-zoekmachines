@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001681</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001681&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001681</item>
+         <item attribuut="Document-id">0000036088</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 757</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Blauw (V.V.D.) over de mestwetgeving.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 757</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">757</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Blauw</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-06-25</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Braks</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-07-02</item>
+         <item attribuut="Beginpagina">1529</item>
+         <item attribuut="Eindpagina">1530</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1529" allpagenumbers="1529" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="757" onderwerp="de mestwetgeving." indiendatum="25 juni 1990).">
+         <vrager partij="VVD" oorsprong="parlement">Blauw</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-07-2">
+         <antwoorder functie="minister" ministerie="Landbouw, Natuurbeheer en Visserij">Braks</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Hebt u kennis genomen van de uitspraken van het hoofd milieusta– tistieken van het C.B.S. aangaande mestproblematiek? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Wilt u een reactie geven op de stelling dat van de zijde van uw ministerie stelselmatig pogingen ondernomen zijn publicaties met betrekking tot de mestproduktie in Nederland te verhinderen? </vraag>
+      <vraag nummer="3">Is er in het verleden informatie aan deze Kamer onthouden? Zo ja, van welke aard was deze informatie? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> NRC-Handelsblad en NOS Journaal van 20 juni j.l</noot>
+      </noten>
+   </vragen>
+   <toelichting>Deze vragen dienen ter aanvulling op de eerdere vragen terzake van het lid Blauw, ingezonden 20 juni j.l. </toelichting>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja. De gang van zaken in de Centrale Commissie voor de Statistiek en haar adviserende organen in de zeventiger jaren heeft geleid tot vertraging bij de totstandkoming van de meststa– tistiek. De door de toenmalige verte– genwoordiging van het ministerie van Landbouw en Visserij opgeworpen problemen droegen daartoe bij. Voor zover ik kan nagaan zijn door die vertegenwoordiging valabele argumenten gebruikt in de betreffende organen. Ik verwijs in dit kader ook naar de antwoorden die de minister van Economische Zaken, mede namens de minister van Landbouw en Visserij, op 29 januari 1985 heeft gegeven op vragen van het toenmalige lid van Uw Kamer R. Tazelaar (II, '84-'85, Aanh. Hand. 439). Desalniettemin heb ik er - met de wijsheid van de terugblik - begrip voor dat het optreden van de Landbouw en Visserij - vertegen– woordiging in bedoelde zin werd ervaren. De CBS-mest overschotbe– rekenmg kwam uiteindelijk in de loop van 1982 beschikbaar. Voorts moet worden vastgesteld dat in de betreffende periode al veel onderzoek was verricht, de resul– taten daarvan waren openbaar. </antwoord>
+      <antwoord nummer="3">Sinds het begin van de tachtiger jaren is het overleg tussen regering en parlement over de mestproble– matiek en mestwetgeving sterk geïntensiveerd. Daarbij heb ik de Kamer altijd naar beste weten geïnformeerd. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

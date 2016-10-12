@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19941995:0000569</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000569&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000569</item>
+         <item attribuut="Document-id">0000000569</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1994-1995 nummer 234</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Beinema en De Hoop Scheffer (beiden CDA) over het verdrag van de Nederlandse Taalunie.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1994-1995 nummer 234</item>
+         <item attribuut="Jaargang">1994_1995</item>
+         <item attribuut="Vraagnummer">234</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Beinema</persoon>
+            <persoon partij="CDA">De Hoop Scheffer</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-11-10</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Patijn</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-12-05</item>
+         <item attribuut="Beginpagina">469</item>
+         <item attribuut="Eindpagina">470</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1994-1995" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="469" allpagenumbers="469 10" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1994-1995, Aanhangsel" filenaam="" issn-nummer="ISSN0921 -7398" uitgever="Sdu Uitgeverij Plantijnstraat 's-Gravenhage 1994"/>
+      <vraagdata vraagnummer="234" onderwerp="het verdrag van de Nederlandse Taalunie." indiendatum="1994-11-10">
+         <vrager partij="CDA" oorsprong="parlement">Beinema</vrager>
+         <vrager partij="CDA" oorsprong="parlement">De Hoop Scheffer</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-12-5">
+         <antwoorder functie="staatssecretaris" ministerie="Buitenlandse Zaken">Patijn</antwoorder>
+         <mede-antwoorder>de staatssecretaris van Onderwijs, Cultuur en Wetenschappen, de heer Nuis</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="1">
+      <vraag nummer="1">Bent u bereid de in uw antwoord van 2 november 1994 omzeilde vraag nr. 3 over het buitenlands cultureel beleid alsnog te beantwoorden? Op welke termijn is uitbreiding van het takenpakket aan de orde? Welke uitbreiding? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"/>
+         <noot nummer="1"> Aanhangsel handelingen nr. 147, vergaderjaar 1994-1995</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Bij de beantwoording van vraag 3 van 2 november 1994 –Tweede Kamer, vergaderjaar 1994-1995, aanhangsel nr. 147 - is naar voren gebracht, dat in een later stadium een geleidelijke uitbreiding van het takenpakket (in casu van de Nederlandse Taalunie - NTU) aan de orde is, waarbij de rol van de Interparlementaire Commissie (IPC) een positieve factor is. Uiteraard is hiermee bedoeld een uitbreiding van het takenpakket in het licht van een verbrede invulling van het Taalunie-verdrag. </antwoord>
+      <antwoord nummer="2">Het Actieplan 1995 van de NederlandseTaalunie is kortgeleden door de Interparlementaire Commissie vastgesteld. In het Actieplan 1996, dat aan de Interparlementaire Commissie wordt voorgelegd, kunnen nieuwe taken van de NTU aan de orde komen. In het Comité van Ministers zal afstemming dienen plaats te vinden over inhoud en omvang van mogelijke nieuwetaken. Daarover vindt dan uiteraard zoals gebruikelijk overleg met de IPC plaats. Daarbij blijft vooralsnog een rol spelen het feit dat de Taalunie kort geleden ingrijpend is gereorganiseerd en dat zij vooralsnog in de gelegenheid moet worden gesteld zich binnen het kader van haar huidige takenpakket geheel te ontplooien. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

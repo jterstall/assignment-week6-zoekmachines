@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0000047</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0000047&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0000047</item>
+         <item attribuut="Document-id">0000034454</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Eerste Kamer 1989-1990 nummer 10</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Eerste Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de heer Borgman, mevrouw Van Kuilenburg-Lodder en de heer Redemeijer (allen P.v.d.A.) inzake de vitaliteitstoestand van het Nederlandse bos.</item>
+         <item attribuut="titel">Aanhangsel Eerste Kamer 1989-1990 nummer 10</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">10</item>
+         <item attribuut="Indiener">
+            <persoon>Borgman</persoon>
+            <persoon>Van Kuilenburg-Lodder</persoon>
+            <persoon>Redemeijer</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-01-16</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Braks</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-02-21</item>
+         <item attribuut="Beginpagina">19</item>
+         <item attribuut="Eindpagina">20</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Eerste Kamer der Staten-Generaal" kamer="1" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen door de leden der Kamer gesteld overeenkomstig artikel schriftelijk gegeven antwoorden."/>
+      <footer firstpaginanummer="19" allpagenumbers="19" vetnummer="" code="" lopendefooter="Eerste Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1989"/>
+      <vraagdata vraagnummer="" onderwerp="" indiendatum="">
+         <vrager partij="" oorsprong="parlement">Borgman</vrager>
+         <vrager partij="" oorsprong="parlement">Van Kuilenburg-Lodder</vrager>
+         <vrager partij="" oorsprong="parlement">Redemeijer</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="21 februari 1990}">
+         <antwoorder functie="de" ministerie="">heer Braks, Minister van Landbouw, Natuur– beheer en Visserij.</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="1">
+      <vraag nummer="10">Vragen van de heer Borgman, mevrouw Van Kuilenburg– Lodder en de heer Redemeijer (allen P.v.d.A.) inzake de vitaliteitstoestand van het Nederlandse bos. (Ingezonden 16januari 1990) </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Het is juist dat de zorgelijke toestand van het Nederlandse bos veroorzaakt wordt door een complex van factoren. In de landelijke rapportages wordt daarbij melding gemaakt van traditionele factoren als vorst, droogte en insecten en niet-tradi– tionele factoren als luchtverontrei– niging. Deze factoren kunnen elkaar ook onderling beïnvloeden. </antwoord>
+      <antwoord nummer="2 en 3">Het verzamelen van systematische gegevens vereist inzicht in de complexe werking van traditionele en niet-traditionele factoren. Dat inzicht is slechts ten dele aanwezig. Om meer inzicht te krijgen in het functio– neren van en de ontwikkeling van bosecosystemen als geheel, worden jaarlijks 5 bosreservaten aangewezen in relevante bostypen. Dit zal op langere termijn gezien gegevens opleveren die van groot belang zijn. Om na te gaan met welke onder– delen de landelijke vitaliteitsinventa– risatie zinvol uitgebreid kan worden, worden dit jaar op een honderdtal lokaties van de landelijke vitaliteitsin– ventarisatie metingen verricht in het bodemvocht en grondwater. Tevens wordt het waarnemingssysteem ziekten en plagen verder uitgewerkt. Aan de hand van de resultaten van de diverse proefmetingen in relatie tot de benodigde inspanning, zal nagegaan worden wat de mogelijk– heden tot uitbreiding van de inventa– risatie zijn. Daarnaast wordt in het kader van de bosstatistiek aandacht besteed aan de ecologische kwali– teiten van het Nederlandse bos. </antwoord>
+      <antwoord nummer="4">Tijdens het symposium «vitaliteit '89 en wat kan de beheerder» in november 1989 te Rhenen, zijn de eerste resultaten van de Praktijkproef Peel bekendgemaakt. Ten aanzien van de mogelijkheden van toedienen van mineralen aan bomen zijn de eerste resultaten bemoedigend. Eind 1991 wordt de evaluatie van de Praktijkproef Peel verwacht. Op projectbasis wordt op dit moment in het kader van de effect– gerichte maatregelen reeds een bijdrage gegeven in de kosten van onderzoek en uitvoering van bemesting. Een door de Directie Bos– en Landschapsbouw ingestelde commissie rapporteert nog dit voorjaar ten aanzien van de (technische) mogelijkheden van bosbemesting op basis van de huidige kennis. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

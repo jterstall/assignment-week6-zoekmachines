@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van Rooy (CDA) over de instelling van een Tijdelijke Adviescommissie Telecommunicatie en Post. (Ingezonden 9 november 1995); Antwoord</item>
+         <item attribuut="Bestand">13Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR2178
+</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van een artikel in de Volkskrant (8 november 1995).</item>
+         <item attribuut="Rubriek">Communicatie, media en informatievoorziening (Post) Communicatie, media en informatievoorziening (Telecommunicatie) Staats- en bestuursrecht (Adviesorganen)</item>
+         <item attribuut="Trefwoorden">Adviesorganen Posterijen Telecommunicatie</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 1995-1996, nr. 253, Tweede Kamer</item>
+         <item attribuut="Afkomstig_van">Verkeer en Waterstaat</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Van Rooy</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1995-11-20</item>
+         <item attribuut="Datum_indiening">1995-11-09</item>
+         <item attribuut="Document-id">KVR2178</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1995–1996" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="515" allpagenumbers="515" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1995–1996, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgeverij Plantijnstraat ’s-Gravenhage 1995"/>
+      <vraagdata vraagnummer="253" onderwerp="" indiendatum="1995-11-9">
+         <vrager partij="CDA" oorsprong="parlement">Van Rooy</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1995-11-20">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">Jorritsma-Lebbink</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1 1">Is het bericht <voetnoot nummer="1"/>waar als zou u een Tijdelijke Adviescommissie Telecommunicatie en Post hebben ingesteld? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Waarom mag de Kamer deze informatie via de pers en niet rechtstreeks vernemen? </vraag>
+      <vraag nummer="3">Wie hebben zitting in deze commissie? Welke taken en bevoegdheden zijn haar toebedeeld? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1995-11-8" bron="de Volkskrant">de Volkskrant, 8 november 1995</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2" voetnoot="1 2">De instelling van de commissie is voortijdig op 8 november 1995 in de pers gekomen, hetgeen ik betreur. Mijn brief <voetnoot nummer="1"/>bedoeld om de Tweede Kamer over de instelling van de commissie te informeren, was toen reeds in voorbereiding. Deze brief is op 9 november 1995 aan u verzonden. Met de instelling van de commissie geef ik gevolg aan een toezegging die ik bij brief van 6 maart 1995 <voetnoot nummer="2"/>aan de Kamer heb gedaan. </antwoord>
+      <antwoord nummer="3">Ik moge verwijzen naar mijn brief aan de Kamer van 9 november 1995. Bij dit schrijven is als bijlage de instellingsbeschikking van de commissie gevoegd. Ik neem aan u hiermee voldoende te hebben geı¨nformeerd. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1" documenttype="Kamerstuk" kamerstuk-id="21 693" documentnummer="32">Kamerstuk 21 693, nr. 32</noot>
+         <noot nummer="2" documenttype="Kamerstuk" kamerstuk-id="21 693" documentnummer="26">Kamerstuk 21 693, nr. 26</noot>
+      </noten>
+   </antwoorden>
+</kvr>

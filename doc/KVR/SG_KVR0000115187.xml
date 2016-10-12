@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="terug te gaan. " aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19851986:0001627</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001627&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001627</item>
+         <item attribuut="Document-id">0000115187</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1985-1986 nummer 706</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Wallage en Kombrink (beiden P.v.d.A.) over de Nederlandse investeringspositie in Afrika.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1985-1986 nummer 706</item>
+         <item attribuut="Jaargang">1985_1986</item>
+         <item attribuut="Vraagnummer">706</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Wallage</persoon>
+            <persoon partij="PvdA">Kombrink</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-04-11</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Ruding</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-05-20</item>
+         <item attribuut="Beginpagina">1403</item>
+         <item attribuut="Eindpagina">1404</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1985-1986 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 5 - 1 9 8 6 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="706" onderwerp="de Nederlandse investeringspositie in Afrika." indiendatum="11 april 1986)">
+         <vrager partij="PvdA" oorsprong="parlement">Wallage</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Kombrink</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1 " voetnoot="1">Is de minister bereid te bevorderen,  dat de cijfers, ontleend door de  Nederlandsche Bank aan jaarlijkse  enquêtes bij het Nederlands bedrijfs- leven <voetnoot nummer="1"/>, worden uitgesplitst naar de  Nederlandse investeringspositie in  Zuid-Afrika, Namibië, Zuidelijk Afrika  en Afrika als geheel?  </vraag>
+      <vraag nummer="2 ">Zou deze Kamer die cijfers in de  toekomst kunnen ontvangen?  </vraag>
+      <vraag nummer="3 " voetnoot="1">Zouden de cijfers over de afgelopen  vijf jaren, op grond van reeds  verzamelde gegevens, alsnog  toegespitst overeenkomstig vraag 1  in het bezit van deze Kamer kunnen  komen?  <voetnoot nummer="1"/> Zie dr. M. van Nieuwkerk en drs. R. P.  Sparling: «De internationale investeringspo- sitie van Nederland», december 1985.  Antwoord  Antwoord van minister Ruding  (Financiën). (Ontvangen 20 mei  1986)  </vraag>
+      <vraag nummer="1 ">De enquête naar de investeringsposi- tie van het Nederlandse bedrijfsleven  in het buitenland wordt door de  Nederlandsche Bank vanaf 1973  jaarlijks gehouden.  In eerste aanleg werden de  belangrijkste industriële landen  afzonderlijk gevraagd, terwijl de  overige landen groepsgewijs werden  gemeld. Naar aanleiding van vele  verzoeken om deze landengroepen  verder uit te splitsen, heeft de  Nederlandsche Bank nader overleg  met het bedrijfsleven gevoerd  teneinde tot een dergelijke rapportage  te geraken. Dit overleg is in het begin  van dit jaar afgerond, met als  resultaat dat vanaf het rapportagejaar  1984 in beginsel de gevraagde  posities per land gerapporteerd  zullen worden. Dit betekent dat naar  verwachting aan het einde van dit  jaar de posities per land aan de  Nederlandsche Bank bekend kunnen  zijn.  </vraag>
+      <vraag nummer="2 ">Waar het in sommige landen om  slechts enkele bedrijven zou kunnen  gaan, moet zorgvuldig worden bezien  of door de gevraagde uitsplitsing niet  de in de wet verankerde plicht tot  geheimhouding van individuele  gegevens geweld wordt aangedaan.  Voor zover deze geheimhoudings- plicht niet in het geding is - hetgeen  met betrekking tot de in de vraag  genoemde landen pas kan blijken na  ontvangst van de gegevens - kunnen  deze gegevens uiteraard per land  verstrekt worden.  </vraag>
+      <vraag nummer="3 ">Zoals onder punt 1 is vermeld, zijn de  posities voor de gevraagde uitsplitsing  per land eerst vanaf 1984 aan de  rapporteurs gevraagd. Het is niet  mogelijk om in de rapportage verder  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001513</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001513&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001513</item>
+         <item attribuut="Document-id">0000019899</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 496</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Leerling (RPF) over het verplaatsen van vervuilende industrieën naar de Derde Wereld.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 496</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">496</item>
+         <item attribuut="Indiener">
+            <persoon partij="RPF">Leerling</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-02-12</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Kok</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-03-31</item>
+         <item attribuut="Beginpagina">1043</item>
+         <item attribuut="Eindpagina">1044</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1043" allpagenumbers="1043" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="496" onderwerp="het verplaatsen van vervuilende industrieën naar de Derde Wereld." indiendatum="12februari 1992">
+         <vrager partij="RPF" oorsprong="parlement">Leerling</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-03-31">
+         <antwoorder functie="minister" ministerie="Financiën">Kok</antwoorder>
+         <mede-antwoorder>de ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en voor Ontwikkelingssamenwerking</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Hebben de bewindslieden kennis genomen van het bericht inzake de verplaatsing van vervuilende industrieën naar de Derde Wereld? <voetnoot nummer="1"/>Kunnen de ministers van Financiën en voor Ontwikkelingssamenwerking bevestigen, dat het om een vertrouwelijke, interne notitie van de Wereldbank handelt? </vraag>
+      <vraag nummer="3">In hoeverre komt een grensverleggende opvatting in deze notitie overeen met de steun die de Wereldbank, in samenwerking met andere VN-instellingen, geeft aan de Global Environment Facility (GEF), waarmee wordt getracht de milieuproblemen in de ontwikkelingslanden aan te pakken? </vraag>
+      <vraag nummer="4">In hoeverre delen de ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en voor Ontwikkelingssamenwerking de mening, dat Afrika «ondervervuild» zou zijn? </vraag>
+      <vraag nummer="5">In hoeverre zal de opvatting in deze notitie, nl. dat de Wereldbank een stimulerende rol zou moeten spelen om vervuilende industrieën naar de Derde Wereld te verplaatsen publiekelijk, door de Nederlandse regering met klem worden afgekeurd, bij voorbeeld tijdens de UNCTAD VIII te Cartagena? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Volkskrant van 7 februan jl</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Het betreft een interne - en daarmee vertrouwelijke - notitie van de «Chief Economist» van de Wereldbank. </antwoord>
+      <antwoord nummer="3">De in het memorandum verwoorde opvattingen komen niet overeen met het milieubeleid van de Wereldbank in het algemeen en sluiten evenmin aan bij de Wereldbanksteun aan de Global Environment Facility (GEF). Bescherming van het milieu is een van de hoofddoelstellingen van de Wereldbank en de Bank acht het verplaatsen van vervuilende industrieën of giftige afvalstoffen naar andere landen ontoelaatbaar. </antwoord>
+      <antwoord nummer="4">De ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en voor Ontwikkelingssamenwerking delen de mening, dat Afrika «ondervervuild» zou zijn, zeker net. Overigens heeft de auteur van de notitie zelf in een toelichting gesteld de opmerkingen te hebben gemaakt om een discussie terzake uit te lokken en ze niet te hebben bedoeld als serieuze beleidsvoorstellen. Afgezien van het oordeel over de strekking van de gemaakte opmerkingen zijn wij van mening dat het stafleden van de Wereldbank geheel vrijstaat in interne discussies te participeren. </antwoord>
+      <antwoord nummer="5">De Wereldbank heeft in een persbericht publiekelijk afstand genomen van de opvattingen neergelegd in het interne memorandum. Zij heeft ook namens de auteur verontschuldigingen aangeboden voor in dit verband opgetreden misverstanden over het beleid van de Bank. Voorts is de kwestie toegelicht door de ministers van Financiën en voor Ontwikkelingssamenwerking tijdens het Mondeling Overleg met de Vaste Kamercommissies voor Financiën en Ontwikkelingssamenwerking op 13 februari jl. Wij achten de zaak daarmee afgedaan. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

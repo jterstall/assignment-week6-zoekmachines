@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="worden gedaan. " aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19841985:0001528</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19841985:0001528&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19841985:0001528</item>
+         <item attribuut="Document-id">0000123500</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1984-1985 nummer 408</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden De Korte en Nijhuis (beiden V.V.D.) over het in eigen beheer fabriceren van sleutels op het Ministerie van Buitenlandse Zaken.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1984-1985 nummer 408</item>
+         <item attribuut="Jaargang">1984_1985</item>
+         <item attribuut="Vraagnummer">408</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">De Korte</persoon>
+            <persoon partij="VVD">Nijhuis</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1984-12-21</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+            <persoon>Van Zeil</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1985-01-18</item>
+         <item attribuut="Beginpagina">809</item>
+         <item attribuut="Eindpagina">810</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1984-1985 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1984-1985, Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="408" onderwerp="" indiendatum="">
+         <vrager partij="VVD" oorsprong="parlement">De Korte</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Nijhuis</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 ">Zijn de bewindslieden ervan op de  hoogte, dat in het nieuwe gebouw van  het Ministerie van Buitenlandse Zaken  een sleutelmachine is aangeschaft.  waarmee zelfstandig sleutels worden  gefabriceerd?  </vraag>
+      <vraag nummer="2 ">Zijn de bewindslieden zich ervan  bewust, dat daarmee de particuliere  slotenmakers in de Haagse regio het  brood uit de mond wordt gestoten?  3.  Is de volgende ontwikeling op deze  weg, dat het Ministerie van Buitenland- se Zaken een eigen koe op stal gaan  zetten om zo goedkoop melk te  kunnen serveren aan medewerkers en  bezoekers?  </vraag>
+      <vraag nummer="4 ">Zijn de bewindslieden bereid dergelijke  ontwikkelingen, die haaks staan op  het kabinetsstreven naar privatisering  van overheidsactiviteiten, in de eigen  sfeer een halt toe te roepen?  5.  Zijn de bewindslieden het eens met  destelling: «wie de kleine privatisering  niet eert, is de grote niet weerd»?  Antwoord  Antwoord van Minister Van den  Broek (Buitenlandse Zaken), mede  namens de Staatssecretaris van  Economische Zaken, de heer Van Zeil.  (Ontvangen 18 januari 1985)  </vraag>
+      <vraag nummer="1 ">Ja.  2, 3, 4 en 5  Ookop het Ministerie van Buitenlandse  Zaken worden/zijn, ten dele samenhan- gend met het nieuwe gebouw, taken  geprivatiseerd. Zo is bij voorbeeld de  exploitatie van het bedrijfsrestaurant,  de koffievoorziening e.d. aan een  particulier bedrijf uitbesteed. Alleen  reeds door die omstandigheid kan het  antwoord op vraag 3 ontkennend zijn.  Alles afwegende is evenwel, met  name op (beveiligings)technische en  doelmatigheidsgronden besloten een  eigen sleutelmachine voor het  ministerie aan te schaffen voor een  deel van de sleutels van het nieuwe  gebouw. Voor een ander deel der  sleutels zal blijvend een beroep op de  sleutelmakers in de Haagse regio  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

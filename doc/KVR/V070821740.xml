@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="neveneffect?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">
+Vragen van het lid Van der Vlies (SGP) aan de staatssecretaris van
+Economische Zaken over e-facturen. (Ingezonden 2 juni 2008)</item>
+         <item attribuut="Bestand">13Kb</item>
+         <item attribuut="Permalink">http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V070821740</item>
+         <item attribuut="Inhoud">Vragen over e-facturen. De indiener vraagt aan de staatssecretaris
+waarom hij besloten heeft om UBL 2.0 als standaard te gaan hanteren voor alle
+e-facturen die aan de overheid zijn gericht.</item>
+         <item attribuut="Rubriek">Communicatie, media en informatievoorziening (Hard- en
+software)
+Geld- en kapitaalmarkt (Betalingsverkeer)</item>
+         <item attribuut="Trefwoorden">Elektronisch betalingsverkeer
+Software</item>
+         <item attribuut="Vindplaats">Kamervragen 2007-2008, vraagnr. 2070821740, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070821740</item>
+         <item attribuut="Indiener">
+            <persoon partij="SGP">Van der Vlies</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2008-06-02</item>
+         <item attribuut="Document-id">V070821740</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0708tkkvl2070821740" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="2070821740" onderwerp="" indiendatum="2008-06-2">
+         <vrager partij="SGP" oorsprong="parlement">Van der Vlies</vrager>
+         <vraagt-aan>de staatssecretaris van Economische Zaken</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1" voetnoot="1">Waarom heeft u besloten om UBL 2.0 als standaard te gaan hanteren voor alle e-facturen die aan de overheid zijn gericht? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Waarom heeft u niet gekozen voor de inmiddels wereldwijd gebruikte open standaard XBRL (eXtensible Business Reporting Language), de uitwisselingstaal voor bedrijfsinformatie die gezamenlijk door de overheid en het bedrijfsleven wordt ontwikkeld in het Nederlands Taxonomie Project? </vraag>
+      <vraag nummer="3">Hoe verhoudt dit besluit zich tot het afgesloten convenant in het kader van het Nederlands Taxonomie Project, waarbij overheid en bedrijfsleven hebben getekend voor het elektronisch uitwisselen van financiële gegevens tussen het Nederlandse bedrijfsleven en overheidsorganisaties, waarbij met het oog op administratieve lastenverlichting werd afgesproken om vanaf 2007 gebruik te gaan maken van de open standaard XBRL? </vraag>
+      <vraag nummer="4">Kunt u aangeven wat de aanleiding was een onderzoek te laten uitvoeren naar het draagvlak voor de open standaard UBL 2.0 voor elektronisch factureren? Wie heeft dit onderzoek uitgevoerd en wat zijn de bevindingen van dit onderzoek? Is tijdens dit onderzoek ook onderzocht wat de software-industrie van UBL2.0 vindt? En zo ja, wat waren daarvan de bevindingen? </vraag>
+      <vraag nummer="5">Heeft u zich alvorens dit besluit te nemen laten adviseren door XBRL Nederland, ECP.NL en/of het Nederlands Taxonomie Project? Zo ja, wat was daarvan de uitkomst? En zo neen, waarom niet? </vraag>
+      <vraag nummer="6">Realiseert u zich dat het gebruik van een extra standaard voor facturen veel extra investeringen vergt van de kant van het bedrijfsleven (bijv. de extra kosten die bedrijven moeten maken om hun gegevens te converteren van de nu al gebruikelijke XBRL naar de nieuwe standaard UBL 2.0 en de kosten voor opslag en archivering voor e-Facturen)? Vindt u dit een gewenst </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" weblink="http://www.ez.nl/Onderwerpen/Elektronische_communicatie/E_factureren">http://www.ez.nl/Onderwerpen/Elektronische_communicatie/E_factureren</noot>
+      </noten>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001478</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001478&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001478</item>
+         <item attribuut="Document-id">0000107253</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 446</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Swildens en Tazelaar (beiden PvdA) over vertraging bij het opstellen van de AMvB voor mestopslag in bassins.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 446</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">446</item>
+         <item attribuut="Indiener">
+            <persoon>Swildens en Tazelaar</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-02-13</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Nijpels</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-03-02</item>
+         <item attribuut="Beginpagina">887</item>
+         <item attribuut="Eindpagina">888</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 6 - 1 9 8 7 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="446" onderwerp="vertraging bij het opstellen van de AMvB voor mestopslag in bassins." indiendatum="13 februari 1987)">
+         <vrager partij="" oorsprong="parlement">Swildens en Tazelaar</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 ">Is aanzienlijke vertraging opgetreden  bij het opstellen van de AMvB voor  mestopslag in bassins' ingevolge  artikel 2a Hinderwet?  </vraag>
+      <vraag nummer="2 ">Zo ja, aan welke oorzaken is deze  vertraging te wijten?  </vraag>
+      <vraag nummer="3 ">Delen de bewindslieden de mening,  dat bij verdere vertraging het gevaar  dreigt dat dubbel werk zal worden  gedaan (de gemeenten voor HW-ver- gunningvoorwaarden en het rijk voor  algemene regels) en bovendien  boeren financieel gedupeerd kunnen  worden (vervangende en aanvullende  regels voor inmiddels geplaatste  bassins)?  </vraag>
+      <vraag nummer="4 ">Zijn de bewindslieden bereid te  bevorderen dat ten spoedigste  (voor)publikatie van de betreffende  AMvB zal plaatsvinden?  Wanneer zal dit naar verwachting  gebeuren?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

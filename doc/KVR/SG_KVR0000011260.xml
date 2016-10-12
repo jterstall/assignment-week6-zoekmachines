@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0000956</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0000956&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0000956</item>
+         <item attribuut="Document-id">0000011260</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 24</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Leerling (RPF) over de weigering van de Russische regering inzicht te verschaffen in de ontwikkeling van biologische wapens.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 24</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">24</item>
+         <item attribuut="Indiener">
+            <persoon partij="RPF">Leerling</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-09-04</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-09-25</item>
+         <item attribuut="Beginpagina">53</item>
+         <item attribuut="Eindpagina">54</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="53" allpagenumbers="53" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="'s Gravenhage 1992"/>
+      <vraagdata vraagnummer="" onderwerp="" indiendatum="">
+         <vrager partij="RPF" oorsprong="parlement">Leerling</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-09-25">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">Van den Broek</antwoorder>
+         <mede-antwoorder>de minister van Defensie</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="24">Vragen van het lid Leerling (RPF) over de weigering van de Russische regering inzicht te verschaffen in de ontwikkeling van biologische wapens. (Ingezonden 4 september 1992) </vraag>
+      <vraag nummer="1">Hebt u kennisgenomen van de bezorgdheid van de Amerikaanse regering over de weigering van de Russische regering inzicht te verschaffen in de ontwikkeling van biologische wapens?' </vraag>
+      <vraag nummer="2">Zo ja, in hoeverre deelt u deze bezorgdheid? </vraag>
+      <vraag nummer="3">Welke conclusies moeten aan de weigering van de Russische regering worden verbonden? Is hier sprake van een verharding van het beleid? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Het Parool van 31 augustus jl</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">De Regering heeft kennisgenomen van de Amerikaanse bezorgdheid over het beperkte inzicht dat de Russische regering verschaft in het beëindigen van de programma's op het gebied van de ontwikkeling en de produktie van biologische wapens (BW), die door de vroegere Sovjetunie in gang waren gezet. </antwoord>
+      <antwoord nummer="2 en 3">De Regering deelt de bezorgdheid zoals deze is omschreven in het antwoord op de eerste vraag. De Russische regering heeft bevestigd dat onder het Sovjet-bewind een uitgebreid biologisch wapenprogramma bestond. Daarmee schond de Sovjetunie derhalve het Biologisch Wapenverdrag van 1972, waarvan zij zelf mede-depositaris was. Tijdens zijn bezoek aan de Amerikaanse president Bush in februari 1992 heeft de Russische president Jeltsin verklaard dat de BW-activiteiten op Russisch grondgebied zouden worden stopgezet, hetgeen impliceert dat bedoelde activiteiten ook na het uiteenvallen van de Sovjetunie waren voortgezet. In april 1992 vaardigde president Jeltsin een decreet uit ter uitvoering van de aan president Bush gedane toezegging. Als mede-depositarissen zijn de Verenigde Staten en het Verenigd Koninkrijk sinds dit voorjaar in overleg met Rusland over de toegezegde stopzetting van de BW-programma's. Hoewel de Russische autoriteiten bereid zijn gebleken enige informatie te verschaffen over het BW-programma van de vroegere Sovjetunie, bleven de resultaten van dit overleg tot voor kort onbevredigend. Zeer onlangs, te weten op 10 en 11 september jl., is te Moskou overleg gevoerd door hoge overheidsfunctionarissen van de drie betrokken landen. Dit mondde uit in een aantal concrete afspraken, gericht op het wegnemen van de westelijke twijfels over de Russische BW-activiteiten en op het verhogen van het vertrouwen in de naleving van het BW-verdrag in het algemeen. De Verenigde Staten en het Verenigd Koninkrijk hebben zich tevreden betoond met het resultaat van het jongste overleg. Naar het oordeel van de Regering kan derhalve onder de omstandigheden niet worden gesproken van een verharding van het beleid van de Russische regering in deze. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

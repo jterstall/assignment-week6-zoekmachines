@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19851986:0001252</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001252&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001252</item>
+         <item attribuut="Document-id">0000114812</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1985-1986 nummer 332</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Engwirda (D'66) over proefvluchten met kruisvluchtwapens.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1985-1986 nummer 332</item>
+         <item attribuut="Jaargang">1985_1986</item>
+         <item attribuut="Vraagnummer">332</item>
+         <item attribuut="Indiener">
+            <persoon partij="D'66">Engwirda</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1985-12-12</item>
+         <item attribuut="Beantwoorder">
+            <persoon>De Ruiter</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-01-10</item>
+         <item attribuut="Beginpagina">653</item>
+         <item attribuut="Eindpagina">654</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1985-1986 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 5 - 1 9 8 6 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="332" onderwerp="proefvluchten met kruisvlucht- wapens." indiendatum="12 december 1985)">
+         <vrager partij="D'66" oorsprong="parlement">Engwirda</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="10 januari 1986)">
+         <antwoorder functie="Minister" ministerie="Defensie">De Ruiter</antwoorder>
+         <mede-antwoorder>de Minister van Buitenlandse Zaken</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 " voetnoot="1">Hebben de bewindslieden kennis  genomen van het mislukken van een  proefvlucht met een Tomahawk-kruis- vluchtwapen <voetnoot nummer="1"/>?  </vraag>
+      <vraag nummer="2 ">Is de regering op de hoogte van de  oorzaak van de mislukking van deze  proef en, zo ja, wil zij deze Kamer  daarover inlichten?  </vraag>
+      <vraag nummer="3 " voetnoot="1">Kan de regering tevens een overzicht  geven van het verloop tot nu toe van  het testprogramma van de Toma- hawk-kruisraket, het aantal geslaagde  en mislukte proefvluchten en de  oorzaken van de mislukkingen?  <voetnoot nummer="1"/> Zie o.a. «De Gelderlander» van dinsdag 10  december jl.  van de proef aan de modificatie te  wijten is. Gegevens over de proef zijn  nog niet beschikbaar. Andere  proefnemingen met deze versie  hebben tot dusverre bevredigende  resultaten opgeleverd.  </vraag>
+      <vraag nummer="3 ">De land-land-versie van de Tomahawk  AGM-109 wordt sinds 1980 beproefd.  Over het verloop en de resultaten van  de proeven verschaffen de Verenigde  Staten geen informatie, omdat de  gegevens daarvan geclassificeerd  zijn. Wel is bekend gemaakt dat met  deze versie 23 testvluchten zijn  gemaakt. Op grond daarvan bestaat  geen reden tot twijfel aan de betrouw- baarheid van het systeem.  In dit verband wil ik erop wijzen,  dat de uitvoeringen van de Tomahawk  AGM-109 (land-land, schip-schip,  schip-land en lucht-land) aanzienlijk  van elkaar verschillen.  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1 ">Ja.  </antwoord>
+      <antwoord nummer="2 ">Bij de proefneming ging het om een  - voor lancering vanaf onderzeeboten  gemodificeerd -Tomahawk AGM-109  •»  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

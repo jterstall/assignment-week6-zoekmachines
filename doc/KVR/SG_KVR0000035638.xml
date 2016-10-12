@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19891990:0001231</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001231&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001231</item>
+         <item attribuut="Document-id">0000035638</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 309</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden De Cloe (P.v.d.A.) en Franssen (V.V.D.) over een besluit tot wijziging van examenroosters.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 309</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">309</item>
+         <item attribuut="Indiener">
+            <persoon>De Cloe</persoon>
+            <persoon>Franssen</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-11-24</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Wallage</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-01-30</item>
+         <item attribuut="Beginpagina">623</item>
+         <item attribuut="Eindpagina">624</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen door de leden der Kamer, met de daarop door de regering gegeven antwoorden."/>
+      <footer firstpaginanummer="623" allpagenumbers="623" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="309" onderwerp="een besluit tot wijziging van examen– roosters." indiendatum="1989-11-24">
+         <vrager partij="" oorsprong="parlement">De Cloe</vrager>
+         <vrager partij="" oorsprong="parlement">Franssen</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="30 januari 1990), zie ook Aanhangsel Hande– lingen nr. 211, vergaderjaar 1989-1990.">
+         <antwoorder functie="staatssecretaris" ministerie="Onderwijs en Weten– schappen">Wallage</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1">Is omtrent het besluit tot wijziging van het examenrooster v.w.o., h.a.v.o., m.a.v.o. en l.b.o. 1990 overleg gevoerd met vertegenwoor– digers van betrokken scholen? Zo ja, met welk resultaat?' Is het u bekend, dat bijvoorbeeld aan leerlingen met dyslexieproblemen wordt toegestaan een half uur langer aan het examen door te werken en dat de wijziging van het examen– rooster juist voor deze leerlingen een redelijke pauze bemoeilijkt? Wat is uw oordeel hierover? </vraag>
+      <vraag nummer="3">Bent u bereid te onderzoeken of het ontwikkelen van extra gelijkwaardige examenopgaven voor de Neder– landse Antillen en Aruba een aanvaardbaar alternatief is voor het besluit tot wijziging van het examen– rooster? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Deze wijziging heeft ten doel te voorkomen, dat scholieren in de Neder landse Antillen en op Aruba examens afleggen met voorkennis van de opgaven die in Nederland zijn voorgelegd Zie uitleg 0 en W-regolingen nr 23, 4 oktober '89</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Het voorgenomen besluit is voorgelegd aan het agenda-overleg van het overlegorgaan voortgezet onderwijs. </antwoord>
+      <antwoord nummer="2">Ja. Gelet op de organisatorische problemen die uit de wijzigingen van het examenrooster blijken voort te vloeien heb ik, na consultatie van enige organisaties, besloten opnieuw een geringe aanpassing in het examenrooster aan te brengen. Daarbij zijn de ochtendzittingen voor het m.a.v.o. en l.b.o. vastgesteld van 10.00 tot 12.00 uur. Zodoende duurt de middagpauze twee uur. Dat is ook voldoende voor kandidaten met een verlengde examentijd die op een dag aan een ochtend– en aan een middagzitting deelnemen. In de toelichting bij mijn hernieuwde aanpassing heb ik opgemerkt, dat voor soortgelijke v.w.o. of h.a.v.o. kandidaten het aanvangstijdstip van het middagexamen in overleg met de inspectie op een later tijdstip kan worden vastgesteld. </antwoord>
+      <antwoord nummer="3">Ja. Ik ben bereid contact op te nemen met de regeringen van de Nederlandse Antillen en van Aruba om na te gaan of het mogelijk is eigen, gelijkwaardige examenop– gaven voor de Nederlandse Antillen en Aruba te ontwikkelen, zodanig dat het civiel effect van de diploma's die op basis van de examens aldaar worden afgegeven behouden blijft. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

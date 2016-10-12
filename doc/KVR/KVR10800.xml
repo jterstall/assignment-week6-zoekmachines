@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="4">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Barth (PvdA) aan de minister van Onderwijs, Cultuur en Wetenschappen over computers op scholen. (Ingezonden 17 november 1999); Antwoord</item>
+         <item attribuut="Bestand">14Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR10800
+</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van het bericht 'KPN wil scholen computers geven' in het tijdschrift Computable van 12 november 1999.</item>
+         <item attribuut="Rubriek">Bedrijfsleven en industrie (Relatie onderwijs - bedrijfsleven) Communicatie, media en informatievoorziening (Hard- en software) Communicatie, media en informatievoorziening (Reclame) Voortgezet onderwijs (Overig)</item>
+         <item attribuut="Trefwoorden">Computers in het onderwijs Relatie onderwijs - bedrijfsleven Sponsoring Telecommunicatie Voortgezet onderwijs</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 1999-2000, nr. 481, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2990002880</item>
+         <item attribuut="Afkomstig_van">Onderwijs, Cultuur en Wetenschappen (OCW)</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Barth</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1999-12-16</item>
+         <item attribuut="Datum_indiening">1999-11-17</item>
+         <item attribuut="Document-id">KVR10800</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1999–2000" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1087" allpagenumbers="1087" vetnummer="2990002880" code="" lopendefooter="Tweede Kamer, vergaderjaar 1999–2000, Aanhangsel" filenaam="KVR10800" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 1999"/>
+      <vraagdata vraagnummer="481" onderwerp="" indiendatum="1999-11-17">
+         <vrager partij="PvdA" oorsprong="parlement">Barth</vrager>
+         <vraagt-aan>de minister van Onderwijs, Cultuur en Wetenschappen</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1999-12-16">
+         <antwoorder functie="minister" ministerie="Onderwijs, Cultuur en Wetenschappen">Hermans</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Kent u het bericht «KPN wil scholen computers geven»? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Bent u bereid om het voortouw te nemen in het ontplooien van de initiatieven waar de heer P. Smits naar verwezen heeft? Hoe zouden ook andere bedrijven bij de activiteiten kunnen worden betrokken? </vraag>
+      <vraag nummer="3">Zou een dergelijk initiatief kunnen verlopen via reeds bestaande kanalen waarlangs tweedehands computers naar de scholen gaan? Zo neen, waarom niet? Zou het strijden met het convenant over sponsoring? Zo neen, waarom niet? </vraag>
+      <vraag nummer="4">Bent u bereid om, mocht een dergelijk initiatief concreet gestalte krijgen, te streven naar landelijke dekking, zodat er geen grote verschillen ontstaan in beschikbaarheid van computers in het voortgezet onderwijs? Zo neen, waarom niet? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1999-11-12" bron="Computable">Computable, 12 november 1999</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Op dit moment ben ik in gesprek met het Nederlandse bedrijfsleven over de mogelijkheden op dit terrein. Ik zal u in het voorjaar op de hoogte brengen van de resultaten. </antwoord>
+      <antwoord nummer="3">Het convenant over sponsoring is een geaccepteerd kader voor de samenwerking tussen bedrijfsleven en onderwijs dat bij de verdere uitwerking van initiatieven op ICT terrein houvast kan bieden. De organisatievorm is mede afhankelijk van de wensen en mogelijkheden van het bedrijfsleven. Waar mogelijk en efficiënt zal aangesloten worden bij reeds bestaande kanalen. </antwoord>
+      <antwoord nummer="4">Het gaat hierbij om samenwerking tussen bedrijfsleven en het onderwijsveld. In de gesprekken die ik met het bedrijfsleven voer, is mijn insteek dat bij eventuele landelijke initiatieven alle scholen in beginsel in gelijke mate hiervan kunnen profiteren. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

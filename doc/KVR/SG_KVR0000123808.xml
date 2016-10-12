@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="inlichten. " aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19841985:0001836</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19841985:0001836&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19841985:0001836</item>
+         <item attribuut="Document-id">0000123808</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1984-1985 nummer 716</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van der Spek (P.S.P.) over de afwijzing van het gratieverzoek van een ter dood veroordeelde in Indonesië.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1984-1985 nummer 716</item>
+         <item attribuut="Jaargang">1984_1985</item>
+         <item attribuut="Vraagnummer">716</item>
+         <item attribuut="Indiener">
+            <persoon partij="PSP">Van der Spek</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1985-04-09</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van Aardenne</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1985-04-16</item>
+         <item attribuut="Beginpagina">1413</item>
+         <item attribuut="Eindpagina">1414</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1984-1985 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1984-1985, Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="716" onderwerp="" indiendatum="">
+         <vrager partij="PSP" oorsprong="parlement">Van der Spek</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1 ">Heeft de minister kennis genomen  van het bericht in het Indonesische  blad Kompas van 19 maart j.l. dat de  familie van de ter dood veroordeelde  Indonesiër, Rustomo bericht heeft  ontvangen van de afwijzing op 31  december 1984 van het gratieverzoek  van betrokkene en dat het vonnis nu  op korte termijn dreigt te worden  voltrokken?  </vraag>
+      <vraag nummer="2 ">Weet de minister, dat het in dit geval  een politieke gevangene betreft, die al  sinds 1968 in hechtenis verkeert en  wiens proces al in 1975 eindigde met  terdoodveroordeling?  </vraag>
+      <vraag nummer="3 ">Is de minister bereid, bij de lndonesi- sche autoriteiten aan te dringen op  het niet ten uitvoer leggen van dit  doodvonnis, te meer gezien de in  vraag 2 vermelde buitengewoon  lange tijd van onzekerheid?  Antwoord  Antwoord van Minister Van Aardenne  (Buitenlandse Zaken a.i.). (Ontvangen  16 april 1985)  </vraag>
+      <vraag nummer="1 ">Ja.  </vraag>
+      <vraag nummer="2 ">De regering heeft naar aanleiding van  het in vraag 1 bedoelde artikel al in  een vroeg stadium navraag laten  doen via Harer Majesteits Ambassade  te Jakarta. Zodra meer gegevens  bekend zijn, zal zij de Kamer hierover  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

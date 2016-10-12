@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001447</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001447&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001447</item>
+         <item attribuut="Document-id">0000107222</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 415</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van Es (P.S.P.) over betrokkenheid van Saoedi-Arabië bij de levering van militair materieel aan Irak.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 415</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">415</item>
+         <item attribuut="Indiener">
+            <persoon partij="PSP">Van Es</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-01-22</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-02-19</item>
+         <item attribuut="Beginpagina">827</item>
+         <item attribuut="Eindpagina">828</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 6 - 1 9 8 7 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="415" onderwerp="betrokkenheidVan Saoedi-Arabië bij de levering van militair materieel aan Irak." indiendatum="22 januari 1987)">
+         <vrager partij="PSP" oorsprong="parlement">Van Es</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="19 februari 1987)">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">V a n d e n Broek</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1 ">Hebt u kennis genomen van het Sipri  Yearbook 1986? </vraag>
+      <vraag nummer="1 ">Wat is uw commentaar op de in dit  gerenommeerde jaarboek genoemde  betrokkenheid van Saoedi-Arabië bij  de levering van militair materieel aan  Irak, dit in aansluiting op de reeds in  het Sipri Yearbook 1984 (blz. 196)  vermelde grote financiële steun van  Saoedi-Arabië aan de Irakese  oorlogsinspanningen? Wilt u deze  berichten ontkennen dan wel  bevestigen?  </vraag>
+      <vraag nummer="3 ">Indien de gegevens van het Sipri  Yearbook kloppen, wat zijn dan de  gevolgen voor de voorgenomen  levering van Nederlandse onderzee- boten aan Saoedi-Arabië?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1 ">Ja.  </antwoord>
+      <antwoord nummer="2 ">Mij zijn geen nadere gegevens  bekend die bevestigen dat door  Saoedi-Arabië zonder toestemming  van de oorspronkelijke leverancier  wapens aan Irak zijn geleverd.  </antwoord>
+      <antwoord nummer="3 ">Geen, aangezien het hier gaat om  eventuele levering van onderzeeboten  voor de eigen Saoedische defensie  en de regering geen reden heeft te  twijfelen aan de door de regering van  Saoedi-Arabië opgegeven bestem- ming.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Ross-van Dorp (CDA) aan de minister van Volksgezondheid, Welzijn en Sport over het opslaan van stamcellen door Cryo-cell. (Ingezonden 21 maart 2002); Antwoord</item>
+         <item attribuut="Bestand">13Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR15480
+</item>
+         <item attribuut="Inhoud">Vragen over de huidige stand van zaken met betrekking tot het opslaan van stamcellen door Cryo-cell.</item>
+         <item attribuut="Rubriek">Gezondheidszorg (Ziekten en ziektepreventie)</item>
+         <item attribuut="Trefwoorden">Preventieve gezondheidszorg</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2001-2002, nr. 987, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2010208200</item>
+         <item attribuut="Afkomstig_van">Volksgezondheid, Welzijn en Sport (VWS)</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Ross-van Dorp</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2002-04-10</item>
+         <item attribuut="Datum_indiening">2002-03-21</item>
+         <item attribuut="Document-id">KVR15480</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2001–2002" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="2083" allpagenumbers="2083" vetnummer="2010208200" code="" lopendefooter="Tweede Kamer, vergaderjaar 2001–2002, Aanhangsel" filenaam="KVR15480" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2002"/>
+      <vraagdata vraagnummer="987" onderwerp="" indiendatum="2002-03-21">
+         <vrager partij="CDA" oorsprong="parlement">Ross-van Dorp</vrager>
+         <vraagt-aan>de minister van Volksgezondheid, Welzijn en Sport</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2002-04-10">
+         <antwoorder functie="minister" ministerie="Volksgezondheid, Welzijn en Sport">Borst-Eilers</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1 2">Herinnert u zich uw antwoorden op vragen van het lid Kant <voetnoot nummer="1"/>en van mijzelf <voetnoot nummer="2"/>over het opslaan van stamcellen door Cryo-cell? </vraag>
+      <vraag nummer="2">Heeft het overleg met Cryo-cell inmiddels plaatsgevonden? Zo ja, wat zijn daarvan de uitkomsten? Zo nee, waarom niet? </vraag>
+      <vraag nummer="3">Heeft u inmiddels contact gehad met de koepelorganisaties van gynaecologen en verloskundigen? Kunt u aangeven wat de uitkomsten hiervan zijn? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" documenttype="Kamervragen">Aanhangsel Handelingen, 865, vergaderjaar 2000–2001.</noot>
+         <noot nummer="2" documenttype="Kamervragen">Aanhangsel Handelingen, 1093, vergaderjaar 2000–2001.</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2" voetnoot="1">Ja, tijdens de voortzetting van de behandeling van het wetsvoorstel Embryowet <voetnoot nummer="1"/>heb ik verslag gedaan van het overleg met Cryo-Cell. Volledigheidshalve treft u hierbij een afschrift aan. Op 24 april 2002 zal er een vervolgoverleg plaatsvinden. </antwoord>
+      <antwoord nummer="3">Ja, de Nederlandse Vereniging voor Obstetrie en gynaecologie (NVOG) heeft een voorlopig standpunt ingenomen ten aanzien van het preserveren van commercieel navelstrengbloed via Cryo-Cell. Vooralsnog wenst zij geen medeverantwoordelijkheid te dragen voor de kwaliteit van het onderzoek/project, door een schakel te zijn in het project. Het staat een individuele hulpverlener echter vrij dit wel te doen. De NVOG wacht verdere berichtgeving af. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1" documenttype="Handelingen" documentnummer="8">Handelingen II, nr. 8, pagina 332–358, vergaderjaar 2001–2002.</noot>
+      </noten>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001954</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001954&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001954</item>
+         <item attribuut="Document-id">0000107729</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 920</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Roosen-van Pelt (C.D.A.) en Jorritsma-Lebbink (V.V.D.) over een betere beveiliging van de spoorwegovergangen in Boxtel.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 920</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">920</item>
+         <item attribuut="Indiener">
+            <persoon>Roosen-van Pelt</persoon>
+            <persoon>Jorritsma-Lebbink</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-07-06</item>
+         <item attribuut="Beantwoorder">
+            <persoon>De Korte</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-07-23</item>
+         <item attribuut="Beginpagina">1837</item>
+         <item attribuut="Eindpagina">1838</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1986-1987 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="920" onderwerp="een betere beveiliging van de spoorwegovergangen in Boxtel." indiendatum="6 juli 1987)">
+         <vrager partij="" oorsprong="parlement">Roosen-van Pelt</vrager>
+         <vrager partij="" oorsprong="parlement">Jorritsma-Lebbink</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat a.i.">D e K o r t e</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1 ">Is het de minister bekend, dat op  maandag  2 9 juni  j l .  w e d e r o m twee  personen de dood hebben gevonden  bij een ongeval op een van de  spoorwegovergangen in Boxtel?  </vraag>
+      <vraag nummer="2 ">Is het de minister bekend dat in de  gemeente Boxtel sinds 1982 13  personen zijn omgekomen door  spoorwegongevallen, en 9 personen  zwaar gewond zijn geraakt?  </vraag>
+      <vraag nummer="3 ">Is de minister bereid, na te gaan bij  de Nederlandse Spoorwegen en  andere daartoe geëigende instanties,  of er plannen zijn, c.q. ontwikkeld  worden, die een betere beveiliging  bieden?  De spoorwegovergangen kruisen  Nederlands drukste spoorwegen nl.  Den Bosch-Eindhoven en  T i l b u r g - Eindhoven.  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1 ">Ja. Op 29 juni 1987 heeft een  botsing plaatsgevonden tussen een  trein en een auto op de met automa- tische knipperlichten (aki) beveiligde  overweg km 36.738 in de spoorlijn  Breda-Boxtel. Hierbij zijn 2 personen  gedood en 1 gewond.  </antwoord>
+      <antwoord nummer="2 ">Volgens mijn informatie hebben op  de in totaal 18 overwegen in de  Gemeente Boxtel vanaf 1982, 23  botsingen plaatsgevonden tussen  een trein en een weggebruiker  (exclusief zelfmoordpogingen).  Hierbij zijn 11 personen gedood en  14 personen gewond.  </antwoord>
+      <antwoord nummer="3 ">Het is niet de eerste keer dat  botsingen op overwegen in de  Gemeente Boxtel aanleiding geven  tot nader onderzoek.  In 1984 is een overweg met relatief  veel botsingen tussen  w e g - en  treinverkeer, voorzien van een  beveiliging met automatische  halve-overwegbomen (ahob).  In 1986 is naar aanleiding van  ongevallen op onbewaakte overwegen  in de spoorlijn Boxtel-Uden-Gennep  (goederenverkeer) op zes overwegen  een veiligheidsmaatregel getroffen  inhoudend dat door personeel van de  N.V. Nederlandse Spoorwegen voor  en tijdens passage van een goede- rentrein aan het wegverkeer een  rode vlag of rood knipperlicht dan wel  een snel op en neer bewogen rood  licht getoond wordt.  Thans constateer ik dat wederom een  overweg aanwezig is met relatief veel  botsingen (vijf in tien jaar). Bekeken  zal worden of en hoe de plaatselijke  situatie kan  w o r d e n verbeterd.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

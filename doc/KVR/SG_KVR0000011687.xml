@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="4">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001383</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001383&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001383</item>
+         <item attribuut="Document-id">0000011687</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 453</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Feenstra en Valk (beiden PvdA) over verlenging van het verdrag tegen verspreiding van kernwapens.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 453</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">453</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Feenstra</persoon>
+            <persoon partij="PvdA">Valk</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-03-18</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Kooijmans</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-03-26</item>
+         <item attribuut="Beginpagina">927</item>
+         <item attribuut="Eindpagina">928</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="927" allpagenumbers="927" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="453" onderwerp="verlenging van het verdrag tegen verspreiding van kernwapens." indiendatum="1993-03-18">
+         <vrager partij="PvdA" oorsprong="parlement">Feenstra</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Valk</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="26 maart 1993}">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">Kooijmans</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Hoe wilt u de Kamer betrekken bij de voorbereidende besprekingen over verlenging van het verdrag tegen verspreiding van kernwapens? </vraag>
+      <vraag nummer="2">Hebt u uw standpunt voor de vergadering van de voorbereidende commissie, die van 10 mei tot 14 mei a.s. in New York zal plaatsvinden, al bepaald? Zo ja, kan dit aan de Kamer worden meegedeeld? </vraag>
+      <vraag nummer="3">Hoe staat u tegenover toelating van niet-lidstaten en van niet-gouvermentele organisaties als waarnemers bij de verschillende voorbereidende vergaderingen? </vraag>
+      <vraag nummer="4">Welke stappen zal het IAEA ondernemen naar aanleiding van het uittreden van Noord-Korea uit het non-proliferatie verdrag? Welke positie neemt de regering in ten aanzien van de stap van Noord-Korea? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">De Regering stelt zich voor, de Kamer, zoals ook in het verleden is geschied, nauw te betrekken bij de Toetsingsconferentie van het NPV. Deze conferentie, die in het voorjaar van 1995 zal worden gehouden, heeft ditmaal een bijzondere betekenis omdat zij er tevens toe zal dienen, het Verdrag te verlengen. De drie voorbereidende conferenties houden zich voornamelijk met organisatorische, budgettaire en procedurele aangelegenheden bezig. Een formeel vooroverleg met de Kamer lijkt in dat licht thans niet opportuun. Wel zal ik de Kamer steeds op de hoogte houden van het verloop van deze voorbereidende conferenties. Er zal zonder twijfel gelegenheid bestaan voor overleg tussen nu en voorjaar 1995 over de gang der werkzaamheden. </antwoord>
+      <antwoord nummer="2">Aangezien de medio mei te New York te beleggen bijeenkomst, zoals hierboven gesteld, uitsluitend een organisatorisch, budgettair en procedureel karakter zal dragen, is een standpuntbepaling voor wat betreft de door Nederland te volgen beleidslijn nog niet aan de orde. </antwoord>
+      <antwoord nummer="3">Evenals de overgrote meerderheid van andere Westelijke landen wijst de Regering dit af, aangezien het voorbereidingsproces een interne aangelegenheid is. Er kan evenwel van worden uitgegaan dat aanwezigheid van NGO's en vertegenwoordigers van niet-lidstaten bij de eigenlijke conferentie mogelijk zal zijn. </antwoord>
+      <antwoord nummer="4">Het IAEA houdt zich intensief bezig met de aangekondigde uittreding van Noord-Korea uit het NPV, getuige de aanvaarding van een resolutie tijdens een speciale zitting van de Beheersraad waarin Noord-Korea wordt gevraagd deze stap te heroverwegen en waarin wordt herinnerd aan de in verband met de gevraagde speciale inspecties gestelde uiterste datum van 31 maart. De Directeur-Generaal IAEA, die is gemandateerd ter bereiking van een oplossing de dialoog met Noord-Korea gaande te houden, zal alsdan aan de Raad rapport uitbrengen. Voor wat betreft de in het onverhoopte geval van niet-meewerken van Noord-Korea door het IAEA te nemen stappen, moet het mijns inziens niet ondenkbaar worden geacht dat de Veiligheidsraad zal worden gevraagd, passende maatregelen te treffen. Nederland heeft m.n. in het verband van de Twaalf, grote zorg uitgesproken over de stap van Noord-Korea, heroverweging bepleit en opgeroepen de verplichtingen onder het Verdrag en het waarborgenakkoord na te komen. Deze zijn op grond van artikel X van het Verdrag in ieder geval nog drie maanden van toepassing op Noord-Korea. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

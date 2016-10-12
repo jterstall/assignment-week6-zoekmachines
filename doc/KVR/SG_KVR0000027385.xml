@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001048</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001048&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001048</item>
+         <item attribuut="Document-id">0000027385</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 116</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Koning (V.V.D.) over de lijfrenteaftrek.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 116</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">116</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Koning</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-10-29</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van Amelsvoort</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-11-01</item>
+         <item attribuut="Beginpagina">235</item>
+         <item attribuut="Eindpagina">236</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="235" allpagenumbers="235" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="116" onderwerp="de lijfrenteaftrek." indiendatum="29oktober 1990">
+         <vrager partij="VVD" oorsprong="parlement">Koning</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-11-1">
+         <antwoorder functie="staatssecretaris" ministerie="Financiën">Van Amelsvoort</antwoorder>
+         <mede-antwoorder>de minister van Financiën</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="1">
+      <vraag nummer="1">Hebt u kennis genomen van het vraaggesprek met de minister van Economische Zaken in NRC-Handelsblad van 25 oktober il.? aannemelijk kunnen maken dat zij over een tekort beschikken in de sfeer van de opgebouwde oudedags– voorzieningen zal een wat ingewik– kelder regeling gelden die zeker niet als «niet uitvoerbaar» mag worden gekenschetst. Wat is uw opvatting over de uitspraak van de minister, dat de regeling van de beperking van de lijfrente-aftrek van f 17 000 tot f 10000 'niet uitvoerbaar' is? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Op 26 oktober 1990 is het kabinet accoord gegaan met een nota van wijziging die een beperking van de lijfrentepremie-aftrek bevat. Bij de besluitvorming is aan het aspect van de uitvoerbaarheid ruime aandacht besteed. Ten aanzien van de voorge– stelde wijzigingen is van groot belang gebleken dat voor de overgrote meerderheid van de belas– tingplichtigen een vrij eenvoudig tot zeer eenvoudig hanteerbare regeling zal gelden. Voor een beperkte categorie van belastingplichtigen die </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

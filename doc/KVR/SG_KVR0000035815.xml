@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="4">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001408</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001408&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001408</item>
+         <item attribuut="Document-id">0000035815</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 486</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Lankhorst (Groen Links) en Nuis (D66) over de taakverdeling tussen instellingen voor hoger onderwijs in Groningen en Friesland.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 486</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">486</item>
+         <item attribuut="Indiener">
+            <persoon>Lankhorst</persoon>
+            <persoon>Nuis</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-03-12</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Ritzen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-03-26</item>
+         <item attribuut="Beginpagina">979</item>
+         <item attribuut="Eindpagina">980</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="979" allpagenumbers="979 980" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="486" onderwerp="de taakverdeling tussen instellingen voor hoger onderwijs in Groningen en Friesland." indiendatum="1990-03-12">
+         <vrager partij="" oorsprong="parlement">Lankhorst</vrager>
+         <vrager partij="" oorsprong="parlement">Nuis</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-03-26">
+         <antwoorder functie="minister" ministerie="Onderwijs en Wetenschappen">Ritzen</antwoorder>
+         <mede-antwoorder>de minister van Landbouw, Natuurbeheer en Visserij</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Bent u in hoofdlijnen akkoord gegaan met de taakverdeling tussen instellingen voor hoger onderwijs in Groningen en Friesland en is hiervoor 55 miljoen gereserveerd?' </vraag>
+      <vraag nummer="2" voetnoot="2">Herinnert u zich de toezegging van de staatssecretaris <voetnoot nummer="2"/> van OenW deze Kamer te informeren wanneer bij de uitwerking van het akkoord blijkt, dat de kosten veel hoger zijn dan geraamd? </vraag>
+      <vraag nummer="3" voetnoot="3">Is volgens de begeleidingscommissie voor de uitvoering van het akkoord ruim 128 miljoen nodig teneinde de plannen te realiseren? <voetnoot nummer="3"/>
+      </vraag>
+      <vraag nummer="4">Wilt u deze Kamer op korte termijn informeren over de financiële gevolgen van de uitvoering van het akkoord voordat er definitieve besluiten worden genomen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1990-02-28" bron=" Persbericht ministerie van Onderwijs en Wetenschappen"> Persbericht ministerie van Onderwijs en Wetenschappen, 28 februari 1990</noot>
+         <noot nummer="2" datum="1990-01-22" bron=" Gedaan tijdens de UCV over het HOOP"> Gedaan tijdens de UCV over het HOOP, 22 januari 1990</noot>
+         <noot nummer="3"> De Telegraaf van 1 maart jl</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja, echter onder voorbehoud. Zie het antwoord op vraag 2. Het bedrag van f 55 mln. is vermeld in het akkoord over een samenhangend pakket van voorstellen dd. 17-02-1989, dat is overeengekomen tussen de ministers van Landbouw, Natuurbeheer en Visserij, van Onderwijs en Weten– schappen, van Welzijn, Volksge– zondheid en Cultuur, de staatssecre– taris van Economische Zaken en de Commissarissen van de Koningin van Groningen en Friesland (Tweede Kamerstuk, vergaderjaar 1988-1989, 20800 hfdst. XVI, nr. 126). Voornoemd bedrag betreft investe– ringskosten die ten laste komen van de 0 &amp; W-begroting. </antwoord>
+      <antwoord nummer="2">Ja. Tijdens het gesprek met de begeleidingscommissie dd. 27-02-1 990 zijn dan ook geen defini– tieve besluiten genomen, juist met het oog op deze toezegging en omdat op dat moment voidoende inzicht in de totale kosten ontbrak. </antwoord>
+      <antwoord nummer="3">Het is inderdaad juist, dat de voorstellen van de begeleidingscom– missie een bedrag vergen in de orde van grootte van f 128 mln. De voorstellen van de begeleidingscom– missie gaan echter verder dan de voorstellen van het akkoord. Het betreft hier in hoofdzaak kosten voor investeringen. </antwoord>
+      <antwoord nummer="4">De minister van LNV heeft zich op voorwaarde dat de financiering wordt veiliggesteld, bereid verklaard tot een verdergaande concentratie van het agrarische onderwijs in Groningen en Friesland dan is opgenomen in het akkoord. Dit betekent dat de toekomstige Agrarische Hogeschool Noord– Nederland zal omvatten het prof. H. C. van Hall Instituut en de Agrarische Hogeschool Friesland, inclusief de vestiging van deze laatste instelling in Bolsward (de opleiding voor levensmiddelentechnologie). Dit totaal zal op één locatie gehuisvest worden. De begeleidingscommissie stelt hiervoor nieuwbouw voor en schat de daarmee gemoeide investering op f 50 a 60 mln. Van dit bedrag is f 19,5 mln. in het akkoord beschikbaar (aankoopbedrag van het pand van het prof. H. C. van Hall Instituut door het ministerie van 0 &amp; W). Voorts wordt gerekend op subsidies van derden tot een bedrag van ruim f 10 mln. Het resterende bedrag van ruim f 20 mln. zal door mlddel van prioriteitsstelling binnen de LNV-begroting gevonden worden in de jaren vanaf 1993. Het akkoord van 1989 omvat slechts een partiële oplossing voor de totale huisvestingsproblematiek van de Rijkshogeschool Groningen. De huisvesting van deze hogeschool is voor het overgrote deel kwalitatief slecht tot zeer slecht en bovendien omdat daardoor een groter dan gewenst aantal lokaties zou ontstaan. De minister van 0 &amp; W ondersteunt daarom het voornemen van de provincie Groningen om een andere bestemming voor dit pand te vinden. Geschat wordt dat de herhuisvesting van de Rijkshogeschool Groningen een bedrag van f 80 mln. zal kosten. Conform het akkoord en voorzien in het investeringsschema 1990-1994, is voor de huisvesting van de Rijkshogeschool Groningen een bedrag beschikbaar van f 49,5 mln. De meerkosten van f30,5 mln. zullen na 1994 opgenomen worden in het investeringschema HBO. Voorwaarde daarvoor is dat het pand van het prof. H. C. van Hall Instituut voor een acceptabel bedrag kan worden herbestemd. Dit bedrag komt in mindering op de benodigde financiële dekking van het hierboven genoemd bedrag ad f30,5 mln. Om de overkomst van Groningen naar Leeuwarden van studenten aan de lerarenopleidingen voortgezet onderwijs mogelijk te maken, moet een aantal aanpassingen en eventueel een uitbreiding plaats– vinden van de huisvesting van de Noordelijke Hogeschool Leeuwarden. Hiermee is een bedrag gemoeid van ca. f 2 mln. Dit bedrag is niet eerder voorzien. Het akkoord van 1989 stelt samen– werking voor tussen de Noordelijke Hogeschool Leeuwarden en de nieuwe, nog te stichten agrarische hogeschool. Daarvoor was geen financiële voorziening getroffen. De samenwerking is door de begelei– dingscommissie nader uitgewerkt, onderdeel ervan is de oprichting van huisvesting Noordelijke Hoge– school Leeuwarden f 2,0 mln. sociale maatregelen f 9,0 mln. totaal f11,0mln. De overige meerkosten zijn investe– ringskosten, die niet inhoudelijk maar wel procedureel samenhangen met het akkoord. Deze kosten zullen worden gedekt uit de investerings– middelen van beide ministeries en door derden in de loop van de jaren negentig. Ik ga er van uit met bovenstaande antwoorden de Tweede Kamer voldoende te hebben geïnformeerd. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

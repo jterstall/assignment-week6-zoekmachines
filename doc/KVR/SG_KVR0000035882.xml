@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001475</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001475&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001475</item>
+         <item attribuut="Document-id">0000035882</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 553</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Tommel en E. G. Terpstra (beiden V.V.D.) over de subsidiëring van een proefdierenfokbedrijf.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 553</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">553</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Tommel</persoon>
+            <persoon partij="VVD">E. G. Terpstra</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-02-26</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Ritzen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-04-20</item>
+         <item attribuut="Beginpagina">1113</item>
+         <item attribuut="Eindpagina">1114</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1113" allpagenumbers="1113" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="553" onderwerp="de subsidiëring van een proefdierenfok– bedrijf." indiendatum="1990-02-26">
+         <vrager partij="VVD" oorsprong="parlement">Tommel</vrager>
+         <vrager partij="VVD" oorsprong="parlement">E. G. Terpstra</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-04-20">
+         <antwoorder functie="minister" ministerie="Onderwijs en Wetenschappen">Ritzen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Onderschrijft u het oordeel van Maaldrink Notarissen en Advocaten <voetnoot nummer="1"/>, dat er voldoende aanknopingspunten voor de Staat zijn om de onderhan– delingen met HSD over de subsi– diëring van een proefdierenfokbedrijf af te breken en daarmee van een definitieve overeenkomst met HSD af te zien zonder schadeplichtig tegenover HSD te worden? Wat is uw oordeel over elk van de argumenten waarop bovengenoemde opvatting is gebaseerd? </vraag>
+      <vraag nummer="2">Onderschrijft u het oordeel, zelfs al zou de Staat inmiddels bepaalde toezeggingen hebben gedaan, dat er bij het afbreken van de onderhande– lingen een goede kans is, dat hooguit de kosten en de schade die HSD heeft geleden als gevolg van het ontstaan van de precontractuele verhouding (het negatieve contracts– belang) voor vergoeding in aanmerking komen? </vraag>
+      <vraag nummer="3">Bent u bereid het tekenen van een definitieve overeenkomst met HSD op te schorten totdat deze vragen zijn beantwoord en de Kamer zich over het antwoord een oordeel heeft kunnen vormen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Brief van 21 februari jl aan de Neder– landse Bond tot Bestrijding van Vivisectie (deze brief is als bijlage aan de minister doorgezonden). HSD = Harlan Spraque Dawley Incorpo– rated</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ik onderschrijf het oordeel van Maaldrink Notarissen en Advocaten, vervat in de brief van 21 februari 1990 aan de Nederlandse Bond tot Bestnjdmg van Vivisectie, niet, omdat zij hun oordeel baseren op de hen bekende feiten en omstandig– heden. Ik ben net als u bezorgd over de bedreiging van het welzijn der dieren. In het contract zijn echter voorwaarden opgenomen die beogen het welzijn van de dieren te bevor– deren. Ik ben dan ook van mening, dat met dit contract een bijdrage wordt geleverd aan verbetering van het welzijn, hetgeen niet wegneemt dat ook verdergaande maatregelen nodig zijn. Het fokken van proef– dieren en het uitvoeren van experi– menten zal ik daarom binnenkort aan de orde stellen in de hoger Onderwijs Kamer, teneinde met vertegenwoordigers van de universi– teiten hierover van gedachten te wisselen. </antwoord>
+      <antwoord nummer="2">Ik onderschrijft dit oordeel niet. De Staat heeft op 27 februari 1990 ingestemd met de overeenkomst, waarmee volledige wilsovereen– stemming is bereikt. Opschorting is derhalve niet aan de orde. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

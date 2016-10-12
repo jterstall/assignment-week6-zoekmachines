@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19881989:0001082</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001082&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001082</item>
+         <item attribuut="Document-id">0000090681</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1988-1989 nummer 83</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Müller-van Ast en Worrell (beiden P.v.d.A.) over het berekenen van particuliere tarieven aan ziekenfondsverzekerden.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1988-1989 nummer 83</item>
+         <item attribuut="Jaargang">1988_1989</item>
+         <item attribuut="Vraagnummer">83</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Müller-van Ast</persoon>
+            <persoon>Worrel</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1988-09-30</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Dees</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1988-11-01</item>
+         <item attribuut="Beginpagina">165</item>
+         <item attribuut="Eindpagina">166</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 8 - 1 9 8 9 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 8 - 1 9 8 9 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="83" onderwerp="het berekenen van particuliere tarieven aan ziekenfondsverzekerden." indiendatum="3 0 september 1988)">
+         <vrager partij="PvdA" oorsprong="parlement">Müller-van Ast</vrager>
+         <vrager partij="" oorsprong="parlement">Worrel</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1 november 1988)">
+         <antwoorder functie="staatssecretaris" ministerie="Welzijn, Volksgezondheid en Cultuur">D e e s</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1 ">Herinnert u zich uw antwoorden op  de vragen van vragenstellers van 1  mei 1985,  2 0 november 1985 en  3 februari 1987 over de toepassing  van particuliere tarieven bij zieken- fondsverzekerden? </vraag>
+      <vraag nummer="1 "/>
+      <vraag nummer="2 ">Waarom hebt u de Kamer nooit meer  bericht over uw eventuele acties naar  aanleiding van «uw verzoek aan  partijen om een oplossing aan te  dragen»?  </vraag>
+      <vraag nummer="3 ">Welke acties hebt u ondernomen  teneinde te bevorderen, dat deze  oplossingen werden aangedragen?  </vraag>
+      <vraag nummer="4 ">W a t is nu de stand van zaken, ruim  drie jaar na de eerste vragen te  dezen?  </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Aanhangsel Handelingen Vergaderjaar  1 984-1985, nr 778, Vergaderjaar 1985-1986, nr 207 en Vergaderjaar 1986-1987,  n r 3 6 5 . </noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1 ">Ja.  2, 3 en 4  In het antwoord op de vragen van  vragenstellers van 3 februari 1 987  heb ik aangegeven dat het een zaak  is van contractpartijen - de verzeke- raars en de Landelijke Specialisten  Vereniging - die via de procedures  van de Wet tarieven gezondheidszorg  tot een oplossing dient te komen.  De in de bovenbedoelde antwoorden  kort weergegeven rapportage van het  Centraal orgaan tarieven gezond- heidszorg bevatte suggesties om  bestaande regels te verduidelijken ter  voorkoming van interpretatieproble- men. De rapportage en suggesties  kenden partijen en partijen waren,  voorzover het COTG bekend, over dit  onderwerp in bespreking. Hoewel ik  deze zaak een verantwoordelijkheid  van partijen blijf vinden ben ik bereid  partijen te herinneren aan de rappor- tage en de suggesties van het COTG  en hen te verzoeken oplossingen aan  te dragen.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

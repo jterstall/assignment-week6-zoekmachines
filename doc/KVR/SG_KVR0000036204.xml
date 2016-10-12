@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="1">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001797</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001797&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001797</item>
+         <item attribuut="Document-id">0000036204</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 873</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Koning (V.V.D.) over een eventuele fiscale stimuleringsregeling voor personenauto's met milieuvriendelijke dieselmotoren.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 873</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">873</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Koning</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-08-13</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van Amelsvoort</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-08-28</item>
+         <item attribuut="Beginpagina">1765</item>
+         <item attribuut="Eindpagina">1766</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1765" allpagenumbers="1765" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgevenj 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="873" onderwerp="een eventuele fiscale stimule– ringsregeling voor personenauto's met milieuvriendelijke dieselmotoren." indiendatum="1990-08-13">
+         <vrager partij="VVD" oorsprong="parlement">Koning</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="28 augustus 1990).">
+         <antwoorder functie="staatssecretaris" ministerie="Financiën">Van Amelsvoort</antwoorder>
+         <mede-antwoorder>de minister van Volkshuis– vesting, Ruimtelijke Ordening en Milieubeheer</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="1">
+      <vraag nummer="1">Is het de regering bekend, dat de regering van de Bondsrepubliek Duitsland besloten heeft de aanschaf van motorvoertuigen met milieu– vriendelijke dieselmotoren te stimu– leren? Is de regering eveneens bereid de aanschaf van personenauto's met milieuvriendelijke dieselmotoren te stimuleren bijvoorbeeld door daarvoor de reeds bestaande fiscale stimuleringsregeling voor perso– nenauto's met milieuvriendelijke benzinemotoren uit te breiden tot dergelijke dieselauto's en een daartoe strekkend wetsvoorstel bij de Staten-Generaal aanhangig te maken? Zo neen, waarom niet? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"/>
+         <noot nummer="1"> TV Duitsland 1: Tagesthemen van 9 augustus 1 990, 22 30 uur</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1" voetnoot="1">Ja. Het betreft een principe-besluit dat nog nader uitgewerkt moet worden. Ja, zoals is vermeld in het antwoord op vraag 25 van de lijst van vragen met betrekking tot de notitie van de minister van VROM, houdende maatregelen uit het Nationaal Milieu– beleidsplan die op korte termijn in uitvoering kunnen worden genomen <voetnoot nummer="1"/>, is de regering bereid stimulering van «schone» dieselpersonenauto's te overwegen. In dat antwoord is tevens aangegeven dat, alvorens de regering een definitief besluit neemt over voorstellen tot fiscale stimu– lering, moet worden onderzocht of aan dergelijke auto's en met name aan die met een katalysator nog milieu-technische bezwaren kleven. Daarbij zijn in het bijzonder de emissie van zwavelzuur en de kwaliteit van de dieselbrandstof van belang. Voorts is het gewenst dat de regering inzicht heeft in de meerkosten van de «schone» diesel– personenauto ten opzichte van de gewone dieselpersonenauto. Voorkomen moet namelijk worden dat het stimuleringsbedrag zo hoog wordt vastgesteld dat de meerkosten volledig worden vergoed. De EEG-richtlijn ter zake (nr. 89/458/EEG, Pb. L 226/89) verbiedt dit. Het onderzoek naar al deze aspecten is in een vergevorderd stadium. Zo spoedig mogelijk na afronding van het onderzoek zal de regering haar standpunt met betrekking tot stimu– lering van «schone» dieselperso– nenauto's aan de Voorzitter van de Tweede Kamer der Staten-Generaal mededelen. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Kamerstuk 21 137, nr. 14, Vergaderjaar 1989-1990</noot>
+      </noten>
+   </antwoorden>
+</kvr>

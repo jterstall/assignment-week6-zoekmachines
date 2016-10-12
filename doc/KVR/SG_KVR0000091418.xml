@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19881989:0001819</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001819&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001819</item>
+         <item attribuut="Document-id">0000091418</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1988-1989 nummer 810</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Nuis (D66) over de brochure «Tegemoetkoming studiekosten 1989-1990.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1988-1989 nummer 810</item>
+         <item attribuut="Jaargang">1988_1989</item>
+         <item attribuut="Vraagnummer">810</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Nuis</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-06-28</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Deetman</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-08-21</item>
+         <item attribuut="Beginpagina">1625</item>
+         <item attribuut="Eindpagina">1626</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 8 - 1 9 8 9 " typehandeling="" typedoc=""/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 8 - 1 9 8 9 ,  A a n h a n g s e l " filenaam="" issn-nummer="ISSN 921 • 7398 " uitgever="SOU uitgeverij 's-Gravenhage 1989 "/>
+      <vraagdata vraagnummer="810" onderwerp="" indiendatum="">
+         <vrager partij="D66" oorsprong="parlement">Nuis</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="21 augustus 1989)">
+         <antwoorder functie="minister" ministerie="Onderwijs en Wetenschappen">D e e t m a n</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 ">Bent u op de hoogte van het feit, dat  in de brochure «Tegemoetkoming  studiekosten  1 9 8 9 - 1 9 9 0 » van  januari 1989 vermeld staat, dat de  tegemoetkoming in de overige  studiekosten voor het studiejaar  1 9 8 9 - 1 9 9 0 komt te vervallen?  </vraag>
+      <vraag nummer="2 ">W o r d t in de brochure «Tegemoetko- ming studiekosten  1 9 8 9 - 1 9 9 0 ,  definitieve normen» van mei 1989  geen melding gemaakt van een  tegemoetkoming in de overige  studiekosten?  </vraag>
+      <vraag nummer="3 ">W o r d t daardoor niet tenminste de  indruk gewekt, dat de tegemoetko- ming in de overige studiekosten  reeds thans is komen te vervallen?  </vraag>
+      <vraag nummer="4 ">Zo ja, hoe rijmt u dit met de omstan- digheid, dat de WSF-I nog niet in het  Staatsblad is gepubliceerd?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1 ">Ja.  </antwoord>
+      <antwoord nummer="2 ">Neen.  Het onderdeel tegemoetkoming in de  overige studiekosten (TOS) van de  regeling Tegemoetkoming Studie- kosten is inderdaad m.i.v. het  studiejaar  1 9 8 9 - 1 9 9 0 afgeschaft.  </antwoord>
+      <antwoord nummer="4 ">Het niet publiceren van VWSF-I in  het Staatsblad staat los van het  afschaffen van het onderdeel  tegemoetkoming in de overige  studiekosten van de regeling  Tegemoetkoming Studiekosten. Al in  de begroting 1988 is de afschaffing  van de TOS bekend gemaakt. De  oorsprong van de TOS is de  verlenging in het verleden van de  dubbeltelling van de kinderbijslag  van 16 naar 18 jaar. Toen is besloten  via de TS-regeling voor deze leef- tijdscategorie een gedeeltelijke  compensatie van het verlies te  geven. Aangezien de leeftijdsdiffe- rentiatie in de kinderbijslag op 1  januari 1988 voltooid is, is op dat  moment besloten het onderdeel TOS  te laten vervallen. Voor het studiejaar  1 9 8 8 - 1 9 9 0 is dit onderdeel volledig  afgeschaft.  Aangezien het onderdeel TOS van de  regeling Tegemoetkoming Studie- kosten is afgeschaft, is de voorge- stelde wijziging van - overigens nog  niet ingevoerde - hoofdstuk III van  de  W e t op de studiefinanciering op  dit punt niet meer dan logisch  gevolg.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

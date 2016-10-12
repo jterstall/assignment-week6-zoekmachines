@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Untung. " aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19841985:0001410</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19841985:0001410&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19841985:0001410</item>
+         <item attribuut="Document-id">0000123382</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1984-1985 nummer 290</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Van der Spek (P.S.P.), Knol (Pv.d.A.), Brouwer (C.P.N.), Terpstra (V.V.D.) en Gualthérie van Weezel (C.D.A.) over een dreigende terechtstelling in Indonesië.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1984-1985 nummer 290</item>
+         <item attribuut="Jaargang">1984_1985</item>
+         <item attribuut="Vraagnummer">290</item>
+         <item attribuut="Indiener">
+            <persoon>Van der Spek</persoon>
+            <persoon>Knol</persoon>
+            <persoon>Brouwer</persoon>
+            <persoon>Terpstra</persoon>
+            <persoon>Gualthérie van Weezel</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1984-11-09</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1984-12-06</item>
+         <item attribuut="Beginpagina">573</item>
+         <item attribuut="Eindpagina">574</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1984-1985 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1984-1985, Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="290" onderwerp="een dreigende terechtstelling in Indonesië." indiendatum="9 november 1984)">
+         <vrager partij="" oorsprong="parlement">Van der Spek</vrager>
+         <vrager partij="" oorsprong="parlement">Knol</vrager>
+         <vrager partij="" oorsprong="parlement">Brouwer</vrager>
+         <vrager partij="" oorsprong="parlement">Terpstra</vrager>
+         <vrager partij="" oorsprong="parlement">Gualthérie van Weezel</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 " voetnoot="1">Is het de minister bekend, dat volgens  het Indonesische blad Kompas van 31  oktober  j l . ook Munir <voetnoot nummer="1"/> spoedig  terechtgesteld dreigt te worden, nu  zijn gratieverzoek door de lndonesi- sche president is afgewezen?  </vraag>
+      <vraag nummer="2 " voetnoot="1 1">Is de minister bereid, op grond van de  in eerdere vragen <voetnoot nummer="1"/> bedoelde toezeg- ging van ex-minister Van der Klaauw,  al dan niet in samenwerking met  andere regeringen bij de Indonesische  regering aan te dringen op het niet  ten uitvoer brengen van de doodstraf  en alsnog op gratie aan te dringen?  <voetnoot nummer="1"/> Zie de op 19 oktober door het lid van Es  (P.S.P.) gestelde vragen over het niet doen  uitvoeren van doodvonnissen in Indonesië.  Antwoord  Antwoord van Minister Van den  Broek (Buitenlandse Zaken). (Ontvan- gen 6 december 1984)  </vraag>
+      <vraag nummer="1 ">Ja.  </vraag>
+      <vraag nummer="2 ">Verwezen moge worden naar mijn  antwoord dd. 20 november  j l . op de  vragen die mevrouw Van Es op 22  oktober jl. stelde inzake de doodvon- nissen van Gatot Sutarjo en Djoko  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

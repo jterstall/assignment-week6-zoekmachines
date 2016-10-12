@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Nader antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001394</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001394&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001394</item>
+         <item attribuut="Document-id">0000027731</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 460</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Tommel, Wolffensperger en Ybema (allen D66) over illegale handel in bedreigde diersoorten.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 460</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">460</item>
+         <item attribuut="Indiener">
+            <persoon>Tommel</persoon>
+            <persoon>Wolffensperger</persoon>
+            <persoon>Ybema</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-10-18</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Bukman</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-03-22</item>
+         <item attribuut="Beginpagina">933</item>
+         <item attribuut="Eindpagina">934</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="933" allpagenumbers="933" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN0921 - 7398" uitgever="SDU uitgeverij 's Gravenhage 1991"/>
+      <vraagdata vraagnummer="460" onderwerp="illegale handel in bedreigde diersoorten." indiendatum="1990-10-18">
+         <vrager partij="" oorsprong="parlement">Tommel</vrager>
+         <vrager partij="" oorsprong="parlement">Wolffensperger</vrager>
+         <vrager partij="" oorsprong="parlement">Ybema</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1" voetnoot="1">Heeft de Algemene Inspectie Dienst een interne richtlijn uitgevaardigd, waarin wordt aanbevolen om geen ladingen meer te controleren op de aanwezigheid van gifslangen? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Voor welke periode is de rïchtlijn bedoeld? Welke motieven liggen er aan ten grondslag? </vraag>
+      <vraag nummer="3">Meent u dat deze richtlijn een positieve bijdrage levert aan het tegengaan van de hand over hand toenemende import van gifslangen en andere reptielen? </vraag>
+      <vraag nummer="4">Bestaan er nog andere richtlijnen op het gebied van controle van de handel in bedreigde diersoorten? Zo ja, welke? </vraag>
+      <vraag nummer="5">Zijn bij de afdeling natuurbeheer van de AID onvoldoende middelen voorhanden om effectief en zonder gevaar voor het personeel te kunnen controleren? Met welke middelen is de afdeling uitgerust? Is het u opgevallen dat in de zuide– lijke provincies in advertenties frequent dieren te koop worden aangeboden waarvan het bezit krachtens de Wet bedreigde uitheemse diersoorten niet is toege– staan? Op welke wijze wordt tegen deze illegale handel opgetreden? </vraag>
+      <vraag nummer="7">Kan - gezien de geringe aantal inspecteurs bij de afdeling natuur– heheer van de AID (die bovendien soms worden ingezet voor andere taken) - wel worden gesproken van een doeltreffende uitvoering van de Wet bedreigde uitheemse diersoorten? Op welke criteria baseert u uw oordeel? </vraag>
+      <vraag nummer="8">Zijn de op grond van de Wet bedreigde uitheemse diersoorten opgelegde straffen voldoende afschrikwekkend in het licht van de grote economische belangen die zijn gemoeid met de illegale handel in bedreigde diersoorten? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" titel="De gifslang is big busmess geworden"> Zie de Volkskracht van 19 september jl «De gifslang is big busmess geworden»</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

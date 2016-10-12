@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001450</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001450&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001450</item>
+         <item attribuut="Document-id">0000011754</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 520</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen het lid Verspaget (PvdA) over het Vredesakkoord in Mozambique.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 520</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">520</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Verspaget</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-04-02</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Kooijmans</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-04-26</item>
+         <item attribuut="Beginpagina">1065</item>
+         <item attribuut="Eindpagina">1066</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1065" allpagenumbers="1065" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="'s-Gravenhage 1993"/>
+      <vraagdata vraagnummer="520" onderwerp="het Vredesakkoord in Mozambique." indiendatum="1993-04-2">
+         <vrager partij="PvdA" oorsprong="parlement">Verspaget</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Op welke punten is thans sprake van een vertraging in de uitvoering van het Vredesakkoord in Mozambique? Verlopen met name de demobilisatie en de vorming van een leger traag? </vraag>
+      <vraag nummer="3">Ziet u, gezien de rol van Nederland in het vredesproces, mogelijkheden om het democratiseringsproces te versnellen? Zo ja, welke? </vraag>
+      <vraag nummer="4">Vormt de aanwezigheid van zoveel wapens een groot risico voor de stabiliteit in de regio? Bent u bereid initiatieven te nemen om in mternationaal verband wapens op te kopen, zodat verkoop van deze wapens naar bijvoorbeeld Zuid-Afrika wordt tegengegaan? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="3">Naast de inspanningen van de kant van de Europese Gemeenschap en haar lidstaten tracht Nederland in bilaterale contacten bij te dragen tot versnelling van het vredesproces. Melding kan in dit verband worden gemaakt van een recent onderhoud van de Ambassadeur te Maputo met President Chissano. Voorts zijn gesprekken voorzien met Minister van Buitenlandse Zaken Mocumbi en met Renamo-leider Dhlakama, die beiden het voornemen hebben kenbaar gemaakt Nederland te bezoeken. De Regering pleegt elke gelegenheid aan te grijpen om partijen, zo mogelijk op het hoogste niveau, te trachten te bewegen tot een cooperatieve opstelling. Uiteraard vormt de aanwezigheid van grote aantallen wapens een ernstige belemmering, zowel voor het vredesproces in Mozambique zelf, alsook voor het bereiken van stabiliteit in de regio. Het zou daarom naar het oordeel van de Regering van belang zijn na te gaan in hoeverre het inleveren van wapens zou kunnen worden bevorderd, bijvoorbeeld door het in uitzicht stellen van een premie in welke vorm dan ook. Een dergelijk initiatief ligt overigens bij uitstek op de weg van de VN. De Regering is bereid de mogelijkheden hiertoe te verkennen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

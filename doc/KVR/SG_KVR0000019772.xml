@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="4">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001386</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001386&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001386</item>
+         <item attribuut="Document-id">0000019772</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 372</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Van Gelder, Witteveen-Hevinga en Melkert (allen PvdA) over het programma Telematica-gidsprojecten.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 372</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">372</item>
+         <item attribuut="Indiener">
+            <persoon>Van Gelder</persoon>
+            <persoon>Witteveen-Hevinga</persoon>
+            <persoon>Melkert</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-01-16</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Andriessen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-02-11</item>
+         <item attribuut="Beginpagina">791</item>
+         <item attribuut="Eindpagina">792</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="791" allpagenumbers="791" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="372" onderwerp="het programma Telematica-gidsprojecten." indiendatum="16januari 1992">
+         <vrager partij="" oorsprong="parlement">Van Gelder</vrager>
+         <vrager partij="" oorsprong="parlement">Witteveen-Hevinga</vrager>
+         <vrager partij="" oorsprong="parlement">Melkert</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-02-11">
+         <antwoorder functie="minister" ministerie="Economische Zaken">Andriessen</antwoorder>
+         <mede-antwoorder>de ministervan Financiën</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Waarom is het bedrag voor de regeling Telematica-gidsprojecten opgevoerd van drie naar ruim vier miljoen gulden? </vraag>
+      <vraag nummer="2">Op welke wijze kan de overheid eisen stellen aan de projecten en kan gegarandeerd worden dat andere bedrijven profiteren van de kennis die in de projecten wordt opgedaan? </vraag>
+      <vraag nummer="3">Is er aanleiding het voor deze projecten voor 1992, gevoteerde bedrag niet te verhogen maar te verminderen nu blijkt dat het bedrijfsleven weinig aansporing behoeft projecten te ondernemen? </vraag>
+      <vraag nummer="4">Is er sprake van een zorgvuldige besluitvorming als een woordvoerder van het ministerie van EZ stelt, dat «het niet de bedoeling is om aan het eind van het jaar het ongebruikte geld terug te storten in de kas van het ministerie van Financiën»?' Bent u bereid u opnieuw te beraden over de oplossing van de zogenaamde eindejaarsproblematiek? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="2" datum="1992-01-10" bron="' De Volkskrant">' De Volkskrant, 10 januari 1992</noot>
+         <noot nummer="2" datum="1991-12-19" bron=" Hierbij wordt verwezen naar de bijdrage van de PvdA fractie in het debat over de Najaarsnota"> Hierbij wordt verwezen naar de bijdrage van de PvdA fractie in het debat over de Najaarsnota, 19 december 1991</noot>
+      </noten>
+   </vragen>
+   <toelichting>Deze vragen dienen ter aanvulling op de eerdere vragen ter zake van het lid Rosenmöller. (Ingezonden 15 januari 1992) </toelichting>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Het budget voor het programma 1991 is verhoogd van drie naar ruim vier miljoen gulden om het mogelijk te maken vier onderling samenhangende chipcardprojecten in de gezondheidszorg te subsidiëren. In de subsidievoorwaarden heb ik opgenomen, dat onderlinge afstemming tussen deze projecten noodzakelijk is. </antwoord>
+      <antwoord nummer="2">Volgens de subsidievoorwaarden zijn de bedrijven verplicht mee te werken aan het onderzoeksprogramma dat door het Telematica Research Centrum wordt uitgevoerd. De projecten worden zo object van onderzoek. De onderzoeksresultaten komen voor een bredere groep van bedrijven en organisaties beschikbaar Op deze manier kunnen deze bedrijven van de opgedane kennis en ervaring in de projecten profiteren. </antwoord>
+      <antwoord nummer="3">Mij is niet gebleken dat bedrijven weinig aansporing nodig hebben om dit soort projecten uit te voeren. Integendeel in vrijwel alle gevallen blijkt de subsidieverstrekking een belangrijke bijdrage te hebben gegeven voor de totstandkoming van de projecten. Voor de onderbouwing hiervan verwijs ik naar de antwoorden op de vragen 1 t/m 4 van het Kamerlid Rosenmöller (Aanhangsel Handelingen, nr. 374). Bovendien komt door de subsidieverlening kennis en ervaring voor de gehele Nederlandse samenleving beschikbaar die anders aan een beperkt aantal organisaties voorbehouden zou zijn. Ik zie dan ook geen reden op dit moment het budget voor het programma 1992 te heroverwegen. </antwoord>
+      <antwoord nummer="4">Zoals al is uiteengezet in de antwoorden op de vragen van het lid Rosenmöller heeft de overheid niet de middelen voor omvangrijke pubheke investeringen. Met een relatief beperkt budget worden een aantal projecten gesteund met de bedoeling deze later te doen opgaan in een brede infrastructuur. Om een dergelijke aanpak te kunnen laten slagen, dient het programma een van gedachten te willen wisselen over de door de heroverwegingswerkgroep gedane voorstellen. Over dit onderwerp is reeds een UCV vastgesteld </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

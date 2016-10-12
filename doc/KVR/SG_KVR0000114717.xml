@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="beroepsbeoefenaren. " aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19851986:0001157</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001157&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001157</item>
+         <item attribuut="Document-id">0000114717</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1985-1986 nummer 237</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Dees en Franssen (beiden V.V.D.) over de vrijheid van artsenkeuze voor ziekenfondsverzekerden.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1985-1986 nummer 237</item>
+         <item attribuut="Jaargang">1985_1986</item>
+         <item attribuut="Vraagnummer">237</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Dees</persoon>
+            <persoon partij="VVD">Franssen</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1985-09-25</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van der Reijden</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1985-12-02</item>
+         <item attribuut="Beginpagina">467</item>
+         <item attribuut="Eindpagina">468</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1985-1986 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 5 - 1 9 8 6 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="237" onderwerp="de vrijheid van artsenkeuze voor ziekenfondsverzeker- den." indiendatum="25 september 1985)">
+         <vrager partij="VVD" oorsprong="parlement">Dees</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Franssen</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1 ">Is het u bekend, dat ziekenfondsen  zich steeds vaker op het standpunt  stellen dat patiënten zich slechts  mogen wenden tot hulpverleners  gevestigd binnen hun werkgebied,  terwijl anderzijds een hulpverlener  slechts die verzekerden mag  behandelen welke bij dat fonds zijn  aangesloten?  </vraag>
+      <vraag nummer="2 ">In hoeverre acht u deze beperkingen  in strijd met:  a. het fundamentele recht van vrije  keuze van hulpverlener voor de  patiënt;  b. de ruime interpretatie die in 1966  bij de behandeling van de Ziekenfonds- wet aan de betreffende wettelijke  bepalingen werd gegeven;  c. het vermijden van verschil in  behandeling tussen ziekenfondsverze- kerden en particulier verzekerden, met  name als de keuzevrijheid geen  verhoging van de collectieve uitgaven  tot gevolg heeft en  d. de wens, de continuïteit in de  arts-patiënt-relatie niet nodeloos te  doorbreken door wijzigingen in het  werkgebied van een ziekenfonds of  relatief beperkte verhuizingen van een  hulpverlener of een verzekerde?  Deelt u in het algemeen de opvatting,  dat keuzevrijheden voor verzekerden  dienen te worden vergroot in plaats  van beperkt?  </vraag>
+      <vraag nummer="4 ">Deelt u de opvatting, dat deze vrije  keuze steeds belangrijker wordt  naarmate ziekenfondsen concentreren,  vestigingsreguleringen toenemen, er  meer pluriformiteit in de beroepsuitoe- fening komt, de mobiliteit van de  bevolking toeneemt en verzekerden  meer zeggenschap verlangen?  </vraag>
+      <vraag nummer="5 ">Is u bekend, dat deze problematiek  met name speelt bij tandartsen en  fysiotherapeuten en dat inmiddels  ongeveer 400 tandartsen door een  beleidswijziging bij de ziekenfondsen  met een wisseling in het patiëntenbe- stand worden geconfronteerd?  </vraag>
+      <vraag nummer="6 ">Bent u bereid, met het Landelijk  Patiënten-Consumenten Platform, de  beroepsorganisaties en de ziekenfond- sen te overleggen over de wijze  waarop optimaal kan worden tege- moet gekomen aan de vrije keuze  door de patiënt van hulpverlener?  </vraag>
+      <vraag nummer="7 ">Bent u bereid zodanige wijzigingen in  de Ziekenfondswet te bevorderen, dat  meer recht wordt gedaan aan de vrije  artsenkeuze?  Antwoord  Antwoord van Staatssecretaris Van  der Reijden (Welzijn, Volksgezondheid  en Cultuur). (Ontvangen 2 december  1985)  </vraag>
+      <vraag nummer="1 ">Zoals bekend is de ziekenfondsverze- kering een zogenaamde natura-verze- kering, hetgeen inhoudt dat de  verzekerden aanspraak kunnen maken  op de bij of krachtens de Ziekenfonds- wet geregelde vormen van hulp.  Teneinde de aanspraken van verzeker- den te kunnen garanderen, dienen de  ziekenfondsen medewerkersovereen- komsten te sluiten met personen en  instellingen die de hulp kunnen  verlenen. In deze overeenkomsten  worden tevens de wederzijdse  rechten en verplichtingen tussen  personen en instellingen die hulp  verlenen en ziekenfondsen vastgelegd,  ondermeer voor wat betreft de te  verlenen vormen van hulp en de  controle op de verleende hulp. Op  basis van de overeenkomst kan het  ziekenfonds dus toezicht uitoefenen  op de (wijze van) hulpverlening door  beroepsbeoefenaren en instellingen  waarmede het fonds een overeen- komst heeft gesloten. Zodoende heeft  het ziekenfonds invloed op de kwaliteit  van de verleende hulp alsmede de  kosten daarvan. De medewerkersover- eenkomst is derhalve essentieel voor  het functioneren van de ziekenfonds- verzekering als natura-verzekering en  voor de taken die de ziekenfondsen in  dat verband dienen uit te voeren.  hulpverleners die in hun werkgebied  hun beroep uitoefenen. Dit heeft als  consequentie dat ziekenfondsverzeker- den zijn aangewezen op de hulpverle- ners binnen het werkgebied van hun  ziekenfonds en met wie het zieken- fonds een overeenkomst heeft  gesloten. Daarnaast kan het zieken- fonds een verzekerde ingevolge  artikel 9, vierde lid, van de Ziekenfonds- wet toestemming verlenen zich voor  het geldend maken van zijn recht op  hulp te wenden tot een hulpverlener  die niet in zijn woonplaats of in de  naaste omgeving daarvan is gevestigd,  indien dit voor de geneeskundige  verzorging van de verzekerde noodza- kelijk is. In dergelijke situaties beoor- delen de ziekenfondsen of het voor de  noodzakelijke geneeskundige verzor- ging van de verzekerde vereist is dat  een hulpverlener buiten de woonplaats  of de naaste omgeving of zelfs buiten  het werkgebied van het ziekenfonds  wordt ingeschakeld. Indien de  noodzakelijke behandeling ter plaatse  niet kan worden verleend, wordt  toestemming op grond van artikel 9,  vierde lid gegeven.  Het is mij bekend dat ziekenfondsen  zich terughoudend opstellen wat  betreft het verlenen van toestemming  aan hun verzekerden om zich door  andere hulpverleners te laten behan- delen dan degenen met wie zij een  medewerkersovereenkomst hebben  gesloten. In de Ziekenfondswet is  immers een sluitend systeem van  overeenkomsten opgenomen dat een  goede en doelmatige hulpverlening  aan verzekerden waarborgt met  daaraan gekoppeld de noodzakelijke  toetsing en controle door de zieken- fondsen.  hierbedoelde verschil in behandeling  tussen ziekenfondsverzekerden en  particulier verzekerden het gevolg is  van het verschil in karakter tussen de  beide verzekeringen, te weten:  enerzijds de ziekenfondsverzekering  als natura-verzekering met het daarbij  behorende systeem van overeenkom- sten tussen ziekenfondsen en hulpver- leners en anderzijds de particuliere  verzekering als restitutie-verzekering.  Wat betreft het gestelde onder d wil ik  erop wijzen dat ziekenfondsen in  dergelijke situaties, bij voorbeeld bij  verhuizing van verzekerden, rekening  houden met bestaande relaties tussen  patiënten en hulpverleners, met name  in situaties waarbij het verbreken van  deze relatie het verloop van de  behandeling schaadt.  3, 4, 6 en 7  Zoals uit mijn antwoorden op de  vragen 1 en 2 blijkt, ben ik van  mening dat de Ziekenfondswet en de  huidige uitvoering daarvan door de  ziekenfondsen voldoende mogelijkhe- den bieden om de vrije keuze van  hulpverlener door de verzekerde te  waarborgen.  Een overleg als bedoeld in vraag 6  acht ik derhalve niet noodzakelijk  evenmin als wijziging van de Zieken- fondswet, zoals bedoeld in vraag 7.  Overigens wil ik naar aanleiding van  het gestelde in vraag 4 opmerken dat  concentratie van de ziekenfondsen  ertoe leidt dat de werkgebieden van  de ziekenfondsen in het algemeen  groter worden. Dit heeft als conse- quentie dat het aantal medewerkers  met wie het ziekenfonds een overeen- komst heeft gesloten toeneemt,  waardoor de keuzemogelijkheden  voor de verzekerden groter worden.  categorieën hulpverleners, waarbij  het ziekenfonds overigens veelal een  zekere overgangstermijn toestaat.  Hierbij houden de ziekenfondsen ook  rekening met eventueel bestaande  arts-patiënt-relaties. Het is mij niet  bekend dat de in de vraag bedoelde  problematiek zich, anders dan in  incidentele gevallen, ook voordoet bij  fysiotherapeuten. Een vergelijkbare  situatie als bij de tandartsen kan ik mij  niet voorstellen aangezien er bij  fysiotherapeuten in het verleden geen  sprake is geweest van een tekort aan  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

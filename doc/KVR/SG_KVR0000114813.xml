@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19851986:0001253</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001253&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001253</item>
+         <item attribuut="Document-id">0000114813</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1985-1986 nummer 333</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van der Burg (C.D.A.) over de behandeling van gedetineerde:</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1985-1986 nummer 333</item>
+         <item attribuut="Jaargang">1985_1986</item>
+         <item attribuut="Vraagnummer">333</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Van der Burg</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1985-12-02</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Korthals Altes</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-01-13</item>
+         <item attribuut="Beginpagina">655</item>
+         <item attribuut="Eindpagina">656</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1985-1986 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 5 - 1 9 8 6 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="333" onderwerp="de behandeling van gedetineerden:" indiendatum="2 december 1985)">
+         <vrager partij="CDA" oorsprong="parlement">Van der Burg</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="13 januari 1986)">
+         <antwoorder functie="minister" ministerie="Justitie">Korthals Altes</antwoorder>
+         <mede-antwoorder>de Staatssecretaris van Justitie en de Minister van Binnenlandse Zaken</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="11">
+      <vraag nummer="1 ">Delen de bewindslieden de mening  dat de «Internationale Minimumregels  voor de behandeling van gedetineer- den», afgedrukt in het handboek van  Jonkers «Het Penitentiair Recht»,  weliswaar niet bindend zijn voor de  Nederlandse wetgever en het bestuur  van een penitentiaire inrichting, maar  toch als een belangrijk richtsnoer  moeten worden beschouwd voor de  behandeling van gedetineerden in  Nederland?  </vraag>
+      <vraag nummer="2 ">Delen de bewindslieden de mening  van de Commissie Binnenspiegel,  een interne adviescommissie van de  gemeentepolitie te Amsterdam dat  het wenselijk is te komen tot een  vorm van toezicht van buitenaf op de  gang van zaken in en om de arrestan- tencellen?  </vraag>
+      <vraag nummer="3 ">Biedt artikel 52 Politiewet daartoe  een aanknopingspunt?  </vraag>
+      <vraag nummer="4 ">Ligt een dergelijke benadering ook in  het verlengde van de Nota Herover- weging'; de doelstelling van de  detentie is aan de gedetineerde zo  min mogelijk schade toe te brengen?  </vraag>
+      <vraag nummer="5 ">Zijn de bewindslieden bereid, bij  regels worden opgesteld, die in acht  genomen moeten worden bij de  behandeling en verzorging van  gedetineerden in politiecellen?  </vraag>
+      <vraag nummer="6 ">Onderschrijven de bewindslieden de  mening, dat hierbij ook gekeken  moet worden naar gedetineerden die  door cellentekort langer dan vier  dagen in een politiecel opgesloten  zijn?  </vraag>
+      <vraag nummer="7 ">Bestaan er uniforme landelijke regels  voor de verzorging en behandeling  van gevangenen in Huizen van  Bewaring?  </vraag>
+      <vraag nummer="8 ">Zo neen, is de mening dan gerecht- vaardigd dat dit per Huis van  Bewaring verschillend is?  </vraag>
+      <vraag nummer="9 ">Zijn de bewindslieden bij bevestigen  de beantwoording van vraag 9 bereid  een minimale uniforme landelijke  regeling te bevorderen?  10  Hebben de bewindslieden kennis  genomen van het artikel: «Kommer  en kwel in de politiecel» in «Proces»  van oktober 1985 nr. 10, blz. 293?  </vraag>
+      <vraag nummer="11 ">Delen de bewindslieden de opvatting  van de auteur van het in vraag 10  genoemde artikel, dat de behandeling  en verzorging van gedetineerden in  een politiecel veel te wensen  overlaat?  </vraag>
+      <vraag nummer="12 ">Zijn de bewindslieden bereid, te  politiecellen en daaraan gekoppeld  Huizen van Bewaring aan minimale  uniforme landelijke regels gebonden  kunnen worden op basis van de  Internationale Minimumregels voor  de behandeling van gedetineerden?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1 ">Ja.  </antwoord>
+      <antwoord nummer="2 ">De Commissie Binnenspiegel van de  Amsterdamse gemeentepolitie heeft  zich verdiept in de mogelijkheid een  beroepscode voor de politie op te  stellen. Uit de door de Commissie  opgestelde concept-beroepscode  van 1 mei j.l. en de daarbij behorende  toelichting blijkt niet dat de Commis- sie Binnenspiegel het wenselijk acht  te komen tot een vorm van toezicht  van buitenaf op de gang van zaken in  en om arrestantencellen. Naar mijn  mening bestaat er geen bijzondere  noodzaak een dergelijk toezicht naast  de thans bestaande, in het antwoord  op vraag 3 omschreven controle in te  stellen.  </antwoord>
+      <antwoord nummer="3 ">Artikel 52 van de Politiewet draagt  de procureur-generaal fungerend  directeur van politie, op toezicht te  houden op de justitiële taakuitoefe- ning van de politie en op de uitvoering  van wettelijke voorschriften met de  worden ingesloten, per korps regels  worden gesteld door de Korpsbeheer- der die voor de uitvoering daarvan  verantwoordelijk is. In 1979 zijn  voorts in verband hiermee door de  toenmalige ministers van Justitie en  Binnenlandse Zaken richtlijnen  gegeven voor de behandeling van  geïntoxiceerden tengevolge van  drankmisbruik in arrestantencellen.  </antwoord>
+      <antwoord nummer="4 ">Het bepaalde in artikel 62 van het  Wetboek van Strafvordering en  artikel 26 bis Beginselenwet gevan- geniswezen houden in dat in verzeke- ring gestelden onderscheidenlijk  voorlopig gehechten aan geen  andere beperkingen worden onder- worpen dan die voor het doel hunner  opsluiting of in het belang der orde  volstrekt noodzakelijk zijn. Het  bestaande toezicht, genoemd in  antwoord 3, zal de richtige naleving  van deze artikelen voldoende  bevorderen.  5 en 6  Deze vragen behoeven, gelet op het  antwoord op vraag 3, geen beant- woording.  7 en 8  De behandeling en verzorging van de  gedetineerden die in een Huis van  Bewaring verblijven, is geregeld in de  Beginselenwet gevangeniswezen en  de Gevangenismaatregel. Bovendien  geldt voor elk huis van bewaring een  huishoudelijk reglement, waarin de  behandeling en verzorging van de  gedetineerden nader is uitgewerkt.  De inhoud van die huishoudelijke  reglementen is voor het merendeel  van de huizen gelijkluidend. Slechts  voor een klein aantal Huizen van  Ja.  11 en 12  De huidige capaciteitsnood in het  gevangeniswezen brengt met zich  mede dat een aantal voorlopig  gehechten op een politiebureau moet  worden ondergebracht. Het verlenen  van faciliteiten zoals het toestaan van  bezoek, luchten e.d. kan hierbij,  gezien de personele bezetting van  een politiekorps en de inrichting van  een politiebureau, problemen geven.  Voorzover dit het geval is, betreur ik  dat. Het opstellen van uniforme  landelijke regels voor de verzorging  en behandeling van in politiebureaus  ingesloten gehechten op basis van  de Internationale Minimumregels  voor de behandeling van gedetineer- den, acht ik echter niet aangewezen,  nu het bij het onderbrengen van deze  categorie personen, zoals opgemerkt,  gaat om een noodmaatregel. Een  dergelijke regeling zou met zich mee  brengen dat - onder meer - de  bouwkundige en personele voorzie- ningen in de politiebureaus op  hetzelfde niveau zouden moeten  worden gebracht als in de huizen van  bewaring. Dit zou gepaard gaan met  hoge kosten. Naar mijn oordeel  dienen alle beschikbare gelden in  eerste instantie te worden aangewend  voor de opheffing van het cellentekort  bij het gevangeniswezen. Op die  manier kan het gebruik van politiecel- len voor het insluiten van voorlopig  gehechten zo spoedig mogelijk  worden teruggedrongen.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

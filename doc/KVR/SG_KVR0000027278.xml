@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0000941</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0000941&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0000941</item>
+         <item attribuut="Document-id">0000027278</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 10</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Verspaget (P.v.d.A.) over voedselhulp aan Liberia.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 10</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">10</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Verspaget</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-08-31</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Pronk</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-09-21</item>
+         <item attribuut="Beginpagina">21</item>
+         <item attribuut="Eindpagina">22</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="21" allpagenumbers="21" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="" onderwerp="" indiendatum="">
+         <vrager partij="PvdA" oorsprong="parlement">Verspaget</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-09-21">
+         <antwoorder functie="minister" ministerie="Ontwikkelingssamenwerking">Pronk</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="10">Vragen van het lid Verspaget (P.v.d.A.) over voedselhulp aan Liberia. (Ingezonden 31 augustus 1990) </vraag>
+      <vraag nummer="1" voetnoot="1">Hebt u kennis genomen van de oproep van de Westafrikaanse inter– ventiemacht in Liberia aan de VN, het Rode Kruis en de EG om voedselhulp te verschaffen? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Bent u bereid vanuit Nederland voedselhulp te verstrekken, zo mogelijk samen met de andere EG-partners? </vraag>
+      <vraag nummer="3">Bent u van plan, indien daartoe door de geëigende hulporganisaties, zoals artsen zonder grenzen wordt verzocht, ook andere vormen van noodhulp, zo mogelijk eveneens samen met de EG-partners, aan de bevolking van Liberia te verschaffen? fenen in Liberia, Guinea, Sierra Leone en Ivoorkust, waarvan de eerste zendingen ter plaatse zijn aangekomen. Tot dusver is er zijdens WFP of andere kanalen geen voedselhulp aanvrage ontvangen. Mocht evenwel een aanvraag voor additionele voedselhulp worden ingediend dan zal daarop positief worden beslist. Binnen E.G.-kader wordt overleg gepleegd over noodhulp ten behoeve van vluchtelingen in Liberia en omringende landen ten bedrage van ECU 5 miljoen. </vraag>
+      <vraag nummer="3">Medio mei werd fl. 750 000 beschikbaar gesteld aan UNHCR ten behoeve van de opvang van de vluchtelingen die in Ivoorkust en Guinea zijn gearriveerd sinds het begin van de burgeroorlog in Liberia. Op een te verwachten nieuwe aanvrage van UNHCR evenals op de in het vooruitzicht gestelde aanvrage van Artsen zonder Grenzen zal positief worden beslist. </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1990-08-30" bron=" Volkskrant"> Volkskrant, 30 augustus 1990</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1">Ja. Het WFP heeft tot dusverre 19.000 ton voedselhulp beschikbaar gesteld ten behoeve van de direct getrof– </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

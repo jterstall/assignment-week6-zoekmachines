@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="5">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001138</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001138&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001138</item>
+         <item attribuut="Document-id">0000011442</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 207</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Te Veldhuis, Franssen en Kamp (allen VVD) over de stammenstrijd in de milieuwereld.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 207</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">207</item>
+         <item attribuut="Indiener">
+            <persoon>Te Veldhuis</persoon>
+            <persoon>Franssen</persoon>
+            <persoon>Kamp</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-11-16</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Alders</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-12-08</item>
+         <item attribuut="Beginpagina">427</item>
+         <item attribuut="Eindpagina">428</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="427" allpagenumbers="427" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeveri] Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="207" onderwerp="de stammenstrijd in de milieuwereld." indiendatum="1992-11-16">
+         <vrager partij="" oorsprong="parlement">Te Veldhuis</vrager>
+         <vrager partij="" oorsprong="parlement">Franssen</vrager>
+         <vrager partij="" oorsprong="parlement">Kamp</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-12-8">
+         <antwoorder functie="minister" ministerie="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer">Alders</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Hebt u kennis genomen van het artikel over de stammenstrijd in de milieuwereld? <voetnoot nummer="1"/>Deelt u de daarin neergelegde mening, dat er een grote overlap bestaat in het werk van de verschillende milieu-organisaties? </vraag>
+      <vraag nummer="3">Hebt u inzicht in de mate van overlap van activiteiten van de verschillende organisaties? </vraag>
+      <vraag nummer="4">Deelt u de mening, dat - in tegenstelling tot wat in het artikel tot uitdrukking komt - de belangen van het milieu dienen te prevaleren boven het verdedigen van de eigen identiteit van de verschillende organisaties? </vraag>
+      <vraag nummer="5">Zou een grotere samenwerking tussen de verschillende organisaties niet leiden tot de versterking van hun positie en het verhogen van de doelmatigheid en doeltreffendheid van alle betrokkenen? </vraag>
+      <vraag nummer="6">Wordt bij het toekennen van subsidies aan de verschillende milieugroepen rekening gehouden met een overlap in werkzaamheden? zo nee, waarom niet? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1992-11-7" bron=" De Telegraaf"> De Telegraaf, 7 november 1992</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Het veld van natuur– en milieu-organisaties is te karakteriseren als een breed en gevarieerd scala aan organisaties Bij de uitvoering van het werk van deze organisaties zal onmiskenbaar sprake zijn van overeenkomstige activiteiten die al dan niet binnen samenwerkingsverbanden worden uitgevoerd. Bezien vanuit deze activiteiten zelf kan dit de indruk van overlap geven, bezien vanuit de organisaties zelf is eerder sprake van passende activiteiten binnen de taken die zij uitvoeren. </antwoord>
+      <antwoord nummer="3">Bij de schriftelijke voorbereiding van de begrotingsbehandeling van 1993 is aangegeven dat dit inzicht op rijksniveau niet aanwezig is. Daaraan is toegevoegd dat dit inzicht in zijn algemeenheid ook niet nagestreefd wordt, voor zover het niet om subsidiëring in het kader van de subsidieregeling milieuorganisaties gaat. Ja, ik deel die mening en ben ervan overtuigd dat dat in zijn algemeenheid ook het geval is. </antwoord>
+      <antwoord nummer="5">Ja, dat is het geval. Overigens valt te constateren dat in toenemende mate tussen de organisaties samenwerkingsverbanden ontstaan. </antwoord>
+      <antwoord nummer="6">Ja, bij de uitvoering van de regeling subsidiëring milieuorganisaties wordt bij de beoordelmg van subsidieaanvragen nagesteefd overlap in activiteiten te voorkomen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

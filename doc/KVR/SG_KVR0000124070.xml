@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="nummer. " aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19841985:0002098</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19841985:0002098&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19841985:0002098</item>
+         <item attribuut="Document-id">0000124070</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1984-1985 nummer 975</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Konings (P.v.d.A.) over informatie inzake de rechtspositie voor docenten.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1984-1985 nummer 975</item>
+         <item attribuut="Jaargang">1984_1985</item>
+         <item attribuut="Vraagnummer">975</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Konings</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1985-06-25</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Ginjaar-Maas</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1985-06-28</item>
+         <item attribuut="Beginpagina">1929</item>
+         <item attribuut="Eindpagina">1930</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1984-1985 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1984-1985, Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="975" onderwerp="informatie inzake de rechtspositie voor docenten." indiendatum="25 juni 1985)">
+         <vrager partij="PvdA" oorsprong="parlement">Konings</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1 " voetnoot="1">Is het waar, dat u een circulaire hebt  doen uitgaan waarin het docenten  verboden wordt zich telefonisch of  schriftelijk tot het departement te  wenden met de bedoeling inlichtingen  te krijgen over hun rechtspositie <voetnoot nummer="1"/>?  </vraag>
+      <vraag nummer="2 ">Zo ja, is dit verbod dan beperkt tot  bepaalde categorieën van leraren, van  scholen of van problemen en, zo ja,  welke?  </vraag>
+      <vraag nummer="3 " voetnoot="2 3">Beseft u dat mede door de zeer late  toezending aan scholen van vaak zeer  ingewikkelde circulaires als HOS- <voetnoot nummer="2"/> en  ADV-circulaire, alsmede persberichten  over HEF-VO <voetnoot nummer="3"/>, Sociaal Plan HEF-VO,  toekomstig Lyceum en de invoering  van de nieuwe basisschool, zeer grote  onduidelijkheid en dus onzekerheid  onder vrijwel alle docenten bestaat  omtrent hun huidige en toekomstige  rechtspositie?  </vraag>
+      <vraag nummer="4 ">Is het wellicht nuttig een speciaal  informatienummer te openen op het  ministerie, waar men met alle vragen  betreffende rechtspositie terecht kan  in plaats van de informatievraag te  verbieden en bent u daartoe bereid?  Antwoord  Antwoord van Staatssecretaris  Ginjaar-Maas (Onderwijs en Weten- schappen). (Ontvangen 28 juni 1985)  1 en 2  De verzending van de bedoelde  circulaire berustte op een misverstand.  Dit heb ik de scholen maandag jl.  meegedeeld. Een afschrift van deze  mededeling voeg ik hierbij.'  </vraag>
+      <vraag nummer="3 ">(Zeer) late toezending van circulaires  is soms onvermijdelijk. Over de in  deze vraag genoemde circulaires over  het arbeidsvoorwaardenbeleid wordt  terecht vaak langdurig intensief en  ingewikkeld overleg gepleegd met de  Bijzondere Commissie omdat deze  zaken van groot belang zijn voor de  betrokken werknemers in het onder- wijs. Wij blijven echter ernaar streven  de circulaires zo vroeg mogelijk aan  de scholen te zenden.  </vraag>
+      <vraag nummer="4 ">Op de circulaires staat in vrijwel alle  gevallen het kenmerk van de directie  die de desbetreffende circulaire heeft  ontworpen. Men kan dan voor  informatie terecht bij de directie waar  de circulaire is ontworpen.  Dit lijkt me doelmatiger dan het  openen van een centraal informatie- </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Nedergelegd op de bibliotheek.  ' Zie Volkskrant van 22 juni 1985 </noot>
+         <noot nummer="2"> HOS = Herziening onderwijs salarisstructuur. </noot>
+         <noot nummer="3"> HEF-VO = Herschikking van fusie voortgezet  onderwijs. </noot>
+      </noten>
+   </antwoorden>
+</kvr>

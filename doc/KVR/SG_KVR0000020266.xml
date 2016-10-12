@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001880</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001880&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001880</item>
+         <item attribuut="Document-id">0000020266</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 861</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Jurgens (PvdA) over het verstrekken van geregistreerde gegevens over telefoongesprekken aan het Openbaar Ministerie.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 861</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">861</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Jurgens</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-08-11</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Hirsch Ballin</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-09-14</item>
+         <item attribuut="Beginpagina">1789</item>
+         <item attribuut="Eindpagina">1790</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1789" allpagenumbers="1789" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="861" onderwerp="het verstrekken van geregistreerde gegevens over telefoongesprekken aan het Openbaar Ministerie." indiendatum="1992-08-11">
+         <vrager partij="PvdA" oorsprong="parlement">Jurgens</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-09-14">
+         <antwoorder functie="minister" ministerie="Justitie">Hirsch Ballin</antwoorder>
+         <mede-antwoorder>de minister van Verkeer en Waterstaat</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Hebt u kennis genomen van de berichten - verstrekt vanwege de Nederlandse Vereniging van Journalisten in De Journalist van deze week - over de nieuwe dienstverlening van PTTTelecom inzake registratie van gegevens over gevoerde telefoongesprekken en specificatie daarvan op telefoonrekeningen? </vraag>
+      <vraag nummer="2">Wilt u aan de Kamer de tekst overleggen van de «strenge afspraken» die, volgens een bericht van PTTTelecom in genoemd nummer van De Journalist, zijn gemaakt over het desgevraagd verstrekken van geregistreerde gegevens aan het Openbaar Ministerie, zelfs in het geval het afgeschermde nummers betreft of nummers van abonné's, die te kennen hebben gegeven niet op telefoonrekeningen van derden vermeld te willen worden? </vraag>
+      <vraag nummer="3">Wilt u meedelen waarop de bevoegdheid van PTTTelecom berust om aan het Openbaar Ministerie - anders dan wanneer dit berust op een rechterlijk bevel - zonder toestemming van betrokkenen gegevens uit te leveren, die kennelijk behoren tot de persoonlijke levenssfeer? </vraag>
+      <vraag nummer="4">Welke mogelijkheden ziet u om te bevorderen, dat, bij een overigens rechtmatige vordering door het Openbaar Ministerie van geregistreerde gegevens over telefoongesprekken, gegevens niet aan het Openbaar Ministerie zullen worden uitgeleverd, voor zover het gaat om (gesprekken met) nummers toebehorende aan journalisten of persmedia, die - in het belang van de bescherming van journalistieke bronnen - aan PTT Telecom te kennen hebben gegeven niet vermeld te willen worden op telefoonrekeningen van derden? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2 en 3">Artikel 125f van het Wetboek van Strafvordering verplicht PTT Telecom gegevens betreffende het telefoonverkeer, ten aanzien waarvan het vermoeden bestaat dat de verdachte hieraan heeft deelgenomen, te verstrekken. Verstrekking op grond van dit artikel vindt slechts plaats na vordering van de officier van justitie of de rechter-commissaris in geval van ontdekking op heterdaad of van een misdrijf waarvoor voorlopige hechtenis is toegelaten, waarbij voorafgaande aan bovengenoemde vordering de belangen van het opsporingsonderzoek en de waarborgen omtrent de persoonlijke levenssfeer van de verdachte door de officier van justitie of de rechter-commissaris tegen elkaar worden afgewogen. Voor zover het gegevens betreft waarop artikel 125f van het Wetboek van Strafvordering niet van toepassing is, zoals naam– en adresgegevens, heeft PTT Telecom, indien de persoonlijke levenssfeer van de verdachte niet onevenredig wordt geschaad, de bevoegheid aan het Openbaar Ministerie of de politie gegevens te verstrekken op grond van de in artikel 11, tweede lid, van de Wet persoonsregistraties genoemde dringende en gewichtige reden. Met betrekking tot het verstrekken van gegevens over gevoerde telefoongesprekken, ten dienste van specificatie op telefoonrekeningen, mogelijk geworden door de laatste ontwikkelingen bij PTT Telecom, zijn tussen Justitie en PTT Telecom geen afspraken gemaakt. Er zijn wel afspraken tussen Justitie en PTT Telecom gemaakt over verstrekking van gegevens die bij PTT Telecom reeds eerder voorhanden waren, bijvoorbeeld gegevens over geheime telefoonnummers. Over de uitvoering van deze afspraken wordt thans zie ik thans geen reden tot het schepen van andere waarborgen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

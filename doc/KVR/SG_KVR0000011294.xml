@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0000990</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0000990&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0000990</item>
+         <item attribuut="Document-id">0000011294</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 58</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Van der Linden en Roosen-van Pelt (beiden CDA) over het gereedkomen van de A-73 Zuid.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 58</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">58</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Van der Linden</persoon>
+            <persoon partij="CDA">Roosen-van Pelt</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-09-04</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Maij-Weggen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-10-08</item>
+         <item attribuut="Beginpagina">125</item>
+         <item attribuut="Eindpagina">126</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="125" allpagenumbers="125" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="" onderwerp="" indiendatum="">
+         <vrager partij="CDA" oorsprong="parlement">Van der Linden</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Roosen-van Pelt</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-10-8">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">Maij-Weggen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="58">Vragen van de leden Van der Linden en Roosen-van Pelt (beiden CDA) over het gereedkomen van de A-73 Zuid. (Ingezonden 4september 1992) </vraag>
+      <vraag nummer="1">Kunt u bevestigen, dat er geen technische en procedurele belemmeringen zijn om de A-73 Zuid in 2002 in z'n geheel voor het verkeer open te stellen? </vraag>
+      <vraag nummer="2">Deelt u de conclusie, dat vanuit oogpunt van verkeersveiligheid en milieu de situatie op de bestaande noord-zuid-verbindingen onhoudbaar is geworden? </vraag>
+      <vraag nummer="3">Bent u bereid te zoeken naar mogelijkheden voor een versnelde aanpak in de voorbereiding en in de uitvoering, mede gelet op de wens van de kamer om belangrijke infrastructurele projecten van een groot economisch belang versneld tot stand te brengen (Tracéwet, Nimby-wet)? </vraag>
+      <vraag nummer="4">Hebt u kennis genomen van recente berichten, dat in Limburg grote onrust is ontstaan over het tijdstip van gereedkomen van de A-73 Zuid? </vraag>
+      <vraag nummer="5">Is het u bekend, dat de regio, de provincie Limburg en de EG het zeer grote belang van de A-73 erkennen en substantiële bijdragen beschikbaar hebben gesteld, te weten voor de A-73 Noord (27 miljoen) en het Zuiderbrugtracé (32 miljoenj? </vraag>
+      <vraag nummer="6">Bent u bereid, nu regio en provincie Limburg bereid zijn extra financiële bijdragen ter beschikking te stellen, ook voor de A-73 Zuid, om op korte termijn een duidelijke bestuursovereenkomst af te sluiten, zodat het gereedkomen van de A-73 Zuid in 2002 of zo mogelijk eerder is gewaarborgd? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Neen. Dit is thans niet met absolute zekerheid vast te stellen. Ik acht de situatie op de huidige verbinding inderdaad problematisch. In de tracé/m.e.r.-procedure die op grond van de Europese richtlijn inzake de milieu-effectrapportage nog moet worden doorlopen, zullen de problemen en de mogelijke oplossingen worden geïnventariseerd. Ik heb de provincie toegezegd de procedure snel en zorgvuldig te doorlopen opdat er zo spoedig mogelijk een besluit genomen kan worden. </antwoord>
+      <antwoord nummer="3">Ik ben met de provincie in overleg over de mogelijkheden om de aanleg van rijksweg 73 Zuid, uiteraard na besluitvorming in het kader van de tracé/m.e.r.-procedure, te versnellen. </antwoord>
+      <antwoord nummer="4">Ja. </antwoord>
+      <antwoord nummer="5">Ja. De totale kosten van het tracé op de oostoever bedragen 750 miljoen, de kosten van het uiteindelijke tracé hangen af van het nog te nemen tracébesluit op basis van de thans uitgevoerde tracé/m.e.r.-procedure. De kosten zouden nog kunnen wijzigen. De regio heeft een bijdrage van 40 miljoen gulden toegezegd. Omdat de verbinding volgens het door de Kamer goedgekeurde S.V.V. geen achterlandverbinding of hoofdtransportas is, valt zij in de prioriteitscategorie 6. Binnen het Rijkswegenfonds zijn op dit moment geen mogelijkheden aanwezig de aanleg te versnellen tenzij majeure verschuivingen worden aangebracht ten laste van andere projecten. Om de ook door mij gewenste versnelling toch te kunnen verwezenlijken heb ik de regio toegezegd te trachten voor het resterende bedrag, uitgaande van het huidige tracébesluit derhalve ruim 700 miljoen gulden, additionele middelen te vinden. Op dit moment zijn deze additionele middelen nog niet gevonden. Een bestuursovereenkomst kan dan ook op dit moment niet meer inhouden dan een positieve intentieverklaring tot het zoeken naar additionele </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

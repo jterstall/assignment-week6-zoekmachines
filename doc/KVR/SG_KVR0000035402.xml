@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="4">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19891990:0000995</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0000995&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0000995</item>
+         <item attribuut="Document-id">0000035402</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 75</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Willems (Groen Links) over een notitie inzake een toetsingscriterium voor de onder-grondse opberging van radio-actief afval.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 75</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">75</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Willems</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-10-11</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Nijpels</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-10-23</item>
+         <item attribuut="Beginpagina">151</item>
+         <item attribuut="Eindpagina">152</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer. met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="151" allpagenumbers="151" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 921 - 7398" uitgever="SDU uitgeverij 's Gravenhage 1989"/>
+      <vraagdata vraagnummer="75" onderwerp="een notitie inzake een toetsingscriterium voor de onder– grondse opberging van radio-actief afval." indiendatum="1989-10-11">
+         <vrager partij="Groen Links" oorsprong="parlement">Willems</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1989-10-23">
+         <antwoorder functie="minister" ministerie="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer">Nijpels</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Op welke termijn bent u voornemens de aangekondigde notitie inzake het toetsingscriterium voor de onder– grondse opberging van radio-actief afval (TOR) uit te brengen voor inspraak en advisering? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2" voetnoot="2">Is deze notitie mede bedoeld ter uitvoering van de motie Willems van 1 oktober 1984, waarin gevraagd werd om criteria alvorens te komen tot een nader onderzoeksprogramma voor opberging van radio-actief afval? <voetnoot nummer="2"/>Bent u bereid naast de radiologische criteria ook de geologische toetsingscriteria in de notitie te verwerken, gelet op de tekst en de bedoeling van genoemde motie? </vraag>
+      <vraag nummer="4" voetnoot="3">Bent u bereid de nu in voorbereiding zijnde notitie op dezelfde wijze voor inspraak en advisering, waaronder hoorzittingen, beschikbaar te stellen als u hebt gedaan in september 1987 met de vorige versie van deze notitie? <voetnoot nummer="3"/>Deelt u de mening, dat de politieke verantwoordelijkheid voor de uit te brengen notitie behoort te liggen bij het nieuwe kabinet, ook a! omdat de lange duur van de nu gevolgde procedure geen aanleiding voor haastwerk biedt? </vraag>
+      <vraag nummer="6">Op welk moment wordt deze Kamer in de gelegenheid gesteld de bedoelde notitie te bespreken? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" titel="....in het najaar van 1989 (zal) een notitie voor inspraak ter visie worden gelegd en adviezen worden ingewonnen."> Zie Milieuprogramma 1990-1993, kamerstuk 21 304, nr. 2, pag. 45: «....in het najaar van 1989 (zal) een notitie voor inspraak ter visie worden gelegd en adviezen worden ingewonnen.» I  Kamerstuk 18 343, nr. 9</noot>
+         <noot nummer="3" titel="inspraak over toetsingscri– terium voor opberging van radioactief afval van start"> Verwezen wordt naar het persbericht van I1 september 1987 van het ministerie van VROM inzake «inspraak over toetsingscri– terium voor opberging van radioactief afval van start»</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1 en 5">Aangezien ik de mening deel dat de politieke verantwoordelijkheid voor de uit te brengen notitie behoort te liggen bij het nieuwe kabinet, zal dit kabinet ook dienen vast te stellen wanneer deze zal worden uitge– bracht. </antwoord>
+      <antwoord nummer="2">Ja. Ja, het is de bedoeling dat het toetsingscriterium alle relevante criteria aangeeft voor de toetsing van een verwijderingsfaciliteit en dus niet beperkt wordt tot radiologische criteria. Hierbij dient wel te worden opgemerkt dat hieruit niet per definitie volgt dat het toetsingscri– terium ook geologische criteria zal bevatten. </antwoord>
+      <antwoord nummer="4">Zoals de Tweede Kamer is medege– deeld, is voor wat de totstandkoming van het toetsingscriterium betreft voorzien in een procedure met inspraak en advies. Dit houdt in dat de notitie een ruime verspreiding zal krijgen en dat iedereen schrifelijk kan inspreken op de notitie. Daarnaast zal er advies worden gevraagd aan een aantal instellingen en organi– saties en zal or gelegenheid worden geboden voor het mondeling inspreken op de notitie. Dit houdt overigens niet in dat de publikatie, de tervisieligging en de inspraak identiek zullen verlopen aan hetgeen is gesteld in het persbericht van 11 september 1987. </antwoord>
+      <antwoord nummer="6">Evenals dat in september 1987 is gebeurd, zal de notitie tegelijkertijd met de publikatie ter kennisname aan de Kamer worden toegezonden. Na deze publikatie volgt een periode van inspraak en advies, op basis waarvan het concept-toetsingscri– terium zal worden opgesteld. Over dit concept-toetsingscriterium zal vervolgens advies worden gevraagd aan de CRMH en de Gezond– heidsraad, waarna de regering het toetsingscriterium zal vaststellen en aan de Tweede Kamer zal toezenden. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001060</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001060&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001060</item>
+         <item attribuut="Document-id">0000019446</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 48</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden De Korte en Koning (beiden VVD) over het huurwaardeforfait.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 48</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">48</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">De Korte</persoon>
+            <persoon partij="VVD">Koning</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-08-19</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Kok</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-10-07</item>
+         <item attribuut="Beginpagina">99</item>
+         <item attribuut="Eindpagina">100</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="99" allpagenumbers="99 100" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Planlijnstraat 's Gravenhage 1991"/>
+      <vraagdata vraagnummer="" onderwerp="" indiendatum="">
+         <vrager partij="VVD" oorsprong="parlement">De Korte</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Koning</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1991-10-7">
+         <antwoorder functie="minister" ministerie="Financiën">Kok</antwoorder>
+         <mede-antwoorder>de staats– secretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieu– beheer</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="48">Vragen van de leden De Korte en Koning (beiden VVD) over het huurwaardeforfait. (Ingezonden 19 augustus 1991) </vraag>
+      <vraag nummer="1" voetnoot="1">Hebt u kennis genomen van de bijdrage «De strijd om het huurwaar– deforfait»? <voetnoot nummer="1"/> Zo neen, ben u dan bereid dit alsnog te doen? </vraag>
+      <vraag nummer="2">Wilt u uw standpunt kenbaar maken over de volgende stellingen van de auteur van dit artikel, nl. dat: a. naar economische maatstaven gerekend de huurverhoging van 5,5% 's jaars in de komende jaren nog veel te weinig Is en dat deze ter bereiking van een meer kostendekkend peil in de orde van grootte van 10 a 12% 's jaars zou moeten bedragen; b. het karakter van de vastgestelde extra verhoging van 2,5% «boter– zacht» is nu het inflatiepeil boven de 2,5% dreigt uit te komen; c. de feitelijke huren gemiddeld ten minste 30% lager zijn dan de «maximaal redelijke huren» waarop de staatssecretaris van Financiën in afwijking van de meer dan veertig jaren algemeen aangehangen opvatting in zijn Notitie aan de Tweede Kamer (Kamerstuk nr. 21 387) het brutohuurwaardeforfait van ruim 9% heeft gebaseerd; d. ten behoeve van de zogenaamde Commissie-Stevens «de reken– meesters van VROM bewust naar een bepaald gewenst resultaat hebben toegerekend, in de hoop dat hun manipulaties niet zouden opvallen» en dat «In die opzet zij ook gedeeltelijk (zijn) geslaagd, e. «het zelf voor leken op het terrein van de volkshuisvesting duidelijk (is) dat er van meet af aan sprake was van een zuiver inkomenspolitieke maatregel, geboren in de coalitie van de regerende partijen, of zo men wil - naar het oordeel van de Raad van State - van een extra inkomstenbe– lasting voor de bezitters van eigen woningen»? </vraag>
+      <vraag nummer="3">Wilt u verder ook aandacht besteden aan de op blz. 1123 opgenomen tabel waaruit naar het oordeel van de auteur bij een leegwaarde van een woning van f 120 000 het saldo van de reële lasten in het eerste jaar f 11 426 zou bedragen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Van mr. C. P. A. Bakker R. A in het weekblad voor Fiscaal Recht nr. 5972 dd 15 augustus 1991, blz 1119 t/m 1127</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">a. Het tempo van het bereiken van een meer kostendekkend peil varieert enerzijds met de rente-ontwikkeling en de ontwikkeling van de variabele lasten. Deze variabelen kan de overheid niet beïnvloeden. Ander– zijds varieert het tempo met de hoogte van de trendmatige huurver– hoging. Deze variabele kan de overheid wel beïnvloeden. Een grondige analyse van deze problematiek is neergelegd in de brief aan de Tweede Kamer van 18 september 1991, kenmerk DHE/23891056, met als onderwerp «Meerjarig perspectief van de exploi– tatiesubsidies voor huurwoningen». b. De hoogte van de jaarlijkse objectsubsidie wordt enerzijds beïnvloed door het percentage van de huurverhoging en anderzijds door de ontwikkeling van de exploitatie– lasten. De inflatie heeft weliswaar voor zowel de lasten– als de batenkant effect, doch het effect van elk procent huurverhoging op de ontwikkeling van de geldelijke steun is vele malen groter dan het effect van elk procent lastenverhoging. Ook al zou bij een gestegen inflatie– percentage de extra reële huurstijging lager zijn dan 2,5%, toch blijft het effect van de huurverhoging van 5,5% op het tempo, waarin de objectsubsidies worden terugge– drongen in overwegende mate gehandhaafd. c. Als uitgangspunt voor het bruto huurwaardeforfait geldt het bedrag dat een woning in onbewoonde staat aan huur zou opbrengen indien deze voor niet-zakelijke doeleinden voor verhuur zou worden aangeboden. De basis voor dit uitgangspunt is neergelegd in artikel 34 van de Wet op de inkomstenbelasting 1964. Op De berekening van het huurwaarde– forfait is in beide nota's voor een belangrijk deel gebaseerd op door het Centraal Bureau voor de Statistiek verrichte Budgetonder– zoeken. In de loop van 1992 zullen de resultaten van het Budgeton– derzoek 1990 beschikbaar komen, met behulp waarvan het niveau van het bruto huurwaardeforfait opnieuw zal worden bezien. Daarbij zal tevens aandacht worden geschonken aan het in de vraag bedoelde verschil tussen huren en huurwaarden van vergelijkbare woningen. d. De woonlastenberekeningen van het ministerie van VROM ten behoeve van de commissie-Stevens zijn in overleg met die commissie uitgevoerd. De rekenmethodiek is gedetailleerd uit de doeken gedaan en de gebruikte parameters sluiten volledig aan bij de Notitie inzake het huurwaardeforfait (Kamerstukken 1990-1991, 21 387). Op deze wijze is tot een zo objectief en consistent mogelijke vergelijking van de woonlasten gekomen. e. De stapsgewijze verhoging van het forfait strookt met het algemene uitgangspunt van de regeling inzake het huurwaardeforfait, te weten het forfaitair belasten van de eigenaar-bewoner voor het woongenot dat hij uit zijn eigen woning trekt. De in het kader van de Tussenbalans voorgestelde huurver– hogingen zijn conform de bereke– ningssystematiek van het huurwaar– deforfait bij de bepaling van het niveau van het forfait in aanmerking genomen. Met uitzondering van de rentepara– </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

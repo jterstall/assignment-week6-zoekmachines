@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0000970</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0000970&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0000970</item>
+         <item attribuut="Document-id">0000027307</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 39</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Brouwer (Groen Links) over toepassing van basisaftrek .</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 39</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">39</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Brouwer</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-08-20</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van Amelsvoort</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-10-03</item>
+         <item attribuut="Beginpagina">81</item>
+         <item attribuut="Eindpagina">82</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="81" allpagenumbers="81" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgeveri) 's Gravenhage 1989"/>
+      <vraagdata vraagnummer="" onderwerp="" indiendatum="">
+         <vrager partij="Groen Links" oorsprong="parlement">Brouwer</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-10-3">
+         <antwoorder functie="staatssecretaris" ministerie="Financiën">Van Amelsvoort</antwoorder>
+         <mede-antwoorder>de staatssecretaris van Sociale Zaken en Werkgelegenheid</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="39">Vragen van het lid Brouwer (Groen Links) over toepassing van basis– aftrek . (Ingezonden 20 augustus 1990) </vraag>
+      <vraag nummer="1">Bent u op de hoogte van het feit, dat mensen met een inkomen (in de vorm van bijvoorbeeld een klein invaliditeitspensioen) dat aangevuld wordt via een bijstandsuitkering, problemen kunnen hebben, omdat het inkomen per 1 januari 1990 soms wordt belast zonder toepassing van basisaftrek en eventuele toeslagen daarop, terwijl de sociale diensten ervan uitgaan, dat de cliënt een zo hoog mogelijk netto-inkomen verwerft door toepassing van basis– aftrek en eventuele toeslagen, zodat uiteindelijk het totale maandinkomen onder het bijstandsniveau zakt omdat de aanvullende bijstand niet wordt verhoogd? </vraag>
+      <vraag nummer="2">Kunt u aangeven of pensioenfondsen de kleine pensioenen per 1 januari 1990 automatisch belasten via tariefgroep 1 ? Doet ook het ABP dit automatisch? Zo ja, kunt u ervoor zorg dragen, dat ontvangers van een klein Inkomen uit dienstbetrekking of een klein pensioen (dat aangevuld moet worden door een bijstandsuitkering) zelf expliciet moeten aangeven of de basisaftrek en eventuele toeslagen wel of niet moeten worden meege– nomen in het berekenen van het netto-inkomen(pensioen), zodat zij niet (tijdelijk) onder het bijstands– niveau terecht komen? Kunt u ervoor zorg dragen, dat verhoging van het netto-inkomen (pensioen) met terugwerkende kracht via herberekening door middel van toepassing van basisaftrek en eventuele toeslagen, in de vorm van een eenmalig bedrag niet tegen het bijzondere tarief wordt belast? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Bij de beoordeling van de behoefte aan bijstand wordt uit gegaan van het feitelijk ontvangen inkomen. lemand met een inkomen waarop een aanvullende bijstandsuitkering wordt verstrekt, beschikt derhalve in totaal over een inkomen ter hoogte van het bijstandsniveau. Bij de behandeling van een aanvraag om bijstand zal de gemeente de mogelijkheden onderzoeken om voor de betrokkene de behoefte aan bijstand te verminderen. Dat kan onder meer inhouden dat wordt nagegaan of de betrokkene gebruik heeft gemaakt van de tariefgroepin– deling waarop hij of zijn aanspraak kan maken. Indien blijkt dat dergelijke mogelijkheden onbenut zijn gebleven, verbindt de gemeente als regel aan de bijstandsverlening de voorwaarde dat de betrokkene daarvan alsnog gebruik maakt, bijvoorbeeld door bij de werkgever een nieuwe loonbelastingverklaring in te dienen op grond waarvan een gunstiger tariefgroepindeling zal plaatsvinden. Alleen in de uitzon– derlijke situatie dat de betrokkene deze voorwaarde verwijtbaar niet heeft vervuld, gaat de gemeente van het fictieve te realiseren netto inkomen uit in plaats van het feitelijk ontvangen netto inkomen. </antwoord>
+      <antwoord nummer="2">De pensioenfondsen, waaronder het Algemeen Burgerlijk Pensioenfonds, hebben voor zover ons bekend pensioengerechtigden, die jonger zijn dan 65 jaar, met ingang van 1 januari 1990 niet automatisch ingedeeld in tariefgroep 1. Ter zake hebben onze departementen in die zin geen voorschriften gegeven. </antwoord>
+      <antwoord nummer="3">Indien een werknemer van meer dan één inhoudingsplichtige loon geniet staat het hem in beginsel vrij bij één van die inhoudingsplichtigen de basisaftrek en de eventuele toeslagen daarop geldend te maken. De keuzevrijheid van de belasting– plichtige, die naast een inkomen aanvullende bijstand geniet, wordt echter beperkt door de door de gemeente gestelde voorwaarde ter verkrijging van aanvullende bijstand, zoals onder 1 is uiteengezet. </antwoord>
+      <antwoord nummer="4">De bevoegde inspecteur der directe </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

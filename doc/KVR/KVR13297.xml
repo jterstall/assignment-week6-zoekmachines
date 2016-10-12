@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Balkenende en De Haan (beiden CDA) aan de minister-president over de inflatie in Nederland. (Ingezonden 15 februari 2001); Antwoord</item>
+         <item attribuut="Bestand">18Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR13297
+</item>
+         <item attribuut="Inhoud">Vragen over de oorzaken en gevolgen van de inflatieontwikkeling in Nederland, die afgelopen maand is opgelopen tot een percentage van 4,2%.</item>
+         <item attribuut="Rubriek">Geld (Inflatie)</item>
+         <item attribuut="Trefwoorden">Inflatie</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2000-2001, nr. 851, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2000106490</item>
+         <item attribuut="Afkomstig_van">Financiën (FIN)</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Balkenende</persoon>
+            <persoon partij="CDA">De Haan</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2001-03-12</item>
+         <item attribuut="Datum_indiening">2001-02-15</item>
+         <item attribuut="Document-id">KVR13297</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2000–2001" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1765" allpagenumbers="1765 1766" vetnummer="2000106490" code="" lopendefooter="Tweede Kamer, vergaderjaar 2000–2001, Aanhangsel" filenaam="KVR13297" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2001"/>
+      <vraagdata vraagnummer="851" onderwerp="" indiendatum="2001-02-15">
+         <vrager partij="CDA" oorsprong="parlement">Balkenende</vrager>
+         <vrager partij="CDA" oorsprong="parlement">De Haan</vrager>
+         <vraagt-aan>(beiden CDA) aan de minister-president</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2001-03-12">
+         <antwoorder functie="minister" ministerie="Financiën">Zalm</antwoorder>
+         <mede-antwoorder>de minister-president en de minister van Sociale Zaken en Werkgelegenheid</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="10">
+      <vraag nummer="1">Kloppen de berichten in de pers dat de inflatie vorige maand is opgelopen tot een percentage van 4,2%? </vraag>
+      <vraag nummer="2" voetnoot="1">Wat bedoelde u met de opmerking dat hiernaar «met de nodige zorg en een scherp oog» moet worden gekeken? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="3">Bent u werkelijk verrast door de inflatieontwikkeling? Zo ja, hoe verklaart u dat in het licht van het feit dat het kabinet reeds vorig jaar door meerdere instanties – met name door de Nederlandsche Bank – is gewaarschuwd voor het risico van een snel oplopende inflatie, die bovendien mede het gevolg is van overheidsbeleid? </vraag>
+      <vraag nummer="4">Kunt u een precisering geven van de mededeling dat er «met een scherp oog» naar de hoge inflatie wordt gekeken? </vraag>
+      <vraag nummer="5">Acht u een percentage van 4,2 in het licht van de inflatiepercentages in andere Europese landen en de afspraken in het kader van het Stabiliteitspact aanvaardbaar of niet? Wanneer wordt de grens van een aanvaardbaar inflatiepercentage overschreden? </vraag>
+      <vraag nummer="6">Is het kabinet wel of niet voornemens beleidsmaatregelen te treffen wanneer het percentage dit jaar onverminderd hoog blijft? Met welke macro-economische en budgettaire gevolgen van een inflatie van meer dan 4% houdt het kabinet thans rekening? </vraag>
+      <vraag nummer="7" voetnoot="2">Klopt het bericht dat u «overleg bepleit tussen de sociale partners om te voorkomen dat de jongste inflatiecijfers het sein vormen voor een golf van loonsverhogingen» en dat slechts «een stevig gesprek» een «haasje-over-effect» van lonen en prijzen kan voorkomen «waar niemand baat bij heeft»? <voetnoot nummer="2"/>Heeft u nu reeds indicaties dat de sociale partners zich zullen bezondigen aan dit «haasje-over-effect»? </vraag>
+      <vraag nummer="8">Legt het kabinet de verantwoordelijkheid voor de gevolgen van de hoge inflatie niet te zeer bij de sociale partners, terwijl – zo is meermalen geconstateerd – het vooral ook de overheid is die medeverantwoordelijkheid draagt voor een betrekkelijk hoog inflatieniveau? </vraag>
+      <vraag nummer="9">Bestaat er nu reeds inzicht of de BTW-verhoging per 1 januari jl. door ondernemers is benut om de prijzen extra te verhogen? </vraag>
+      <vraag nummer="10">Waarom heeft u een koppeling gelegd tussen de inflatieontwikkeling en de invoering van de euro? Zijn er reeds nu aanwijzingen dat de omwisseling van de euro gepaard zal gaan met prijsverhogingen voor de consument? Welke stappen is het kabinet voornemens te zetten om een dergelijke situatie te voorkomen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="2001-02-10" bron="«Kok tegen euro-prijsverhoging», in: Algemeen Dagblad 10 februari 2001; , in: De Volkskrant" titel="Premier Kok is bezorgd over inflatie">«Kok tegen euro-prijsverhoging», in: Algemeen Dagblad 10 februari 2001; «Premier Kok is bezorgd over inflatie», in: De Volkskrant, 10 februari 2001</noot>
+         <noot nummer="2" datum="2001-02-10" bron=", in; NRC Handelsblad" titel="Kok: hoge inflatie mag niet leiden tot hogere looneisen">«Kok: hoge inflatie mag niet leiden tot hogere looneisen», in; NRC Handelsblad, 10 februari 2001</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="8">
+      <antwoord nummer="1" voetnoot="1 2">De inflatie, afgemeten aan de verandering van de Consumentenprijsindex (CPI) ten opzichte van dezelfde periode vorig jaar, bedroeg in januari 4,2%. In februari is de inflatie uitgekomen op 4,5%. In december lag de inflatie op 2,9%. Zowel de hoogte van de inflatie in januari en februari, als de oploop van de inflatie in januari ten opzichte van december, verdient enige toelichting. De relatief hoge inflatie in januari en februari kent twee belangrijke oorzaken. De forse stijging van de olieprijzen en de stevige appreciatie van de dollar in de loop van 2000 heeft in een oploop van de energieprijzen in guldens geresulteerd. In januari en februari was 1%-punt van de inflatie te verklaren uit hogere energieprijzen. De verhoging van de indirecte belastingen in het kader van de Belastingherziening 2001 levert ook een bijdrage van 1%-punt aan de hogere inflatie in januari en februari. Deze bijdrage valt uiteen in een bijdrage van 0,5%-punt door een verhoging van het hoogste BTW-tarief van 17 <voetnoot nummer="1"/>⁄ <voetnoot nummer="2"/>% naar 19%, en een bijdrage van 0,5%-punt door de invoering van de derde tranche van de ecotax. De rest van de inflatie (de verandering van de CPI exclusief de verhoging van de indirecte belastingen en hogere energieprijzen) bedraagt ruim 2% in beide maanden. De oploop van de inflatie in januari ten opzichte van december is voor 1%-punt te verklaren uit de verhoging van de indirecte belastingen per 1 januari. Daarnaast is het wegvallen van het tijdelijk drukkende effect op de inflatie van de afschaffing van de omroepbijdrage van belang. Deze afschaffing drukte in alle maanden van 2000 het inflatiecijfer met 0,4%-punt. Daartegenover stond in 2000 een opwaarts effect als gevolg van een verhoging van de indirecte belastingen uit hoofde van de invoering van de tweede tranche van de ecotax. Dit bedroeg 0,3%-punt. Beide effecten zijn per 1 januari uit de verandering van de CPI gevallen. </antwoord>
+      <antwoord nummer="2, 4 en 7">Tijdens de persconferentie van de minister-president na afloop van de ministerraad van 13 januari jl. is de minister-president gevraagd naar een reactie op het relatief hoge inflatiecijfer. De Minister-President heeft een uiteenzetting gegeven over de oorzaken en het incidentele karakter van het huidige inflatiecijfer. Daarbij heeft hij duidelijk te kennen gegeven dat het effect dat de hogere indirecte belastingen op de koopkracht heeft – zoals bekend – meer dan gecompenseerd wordt door de verlaging van de loon- en inkomstenbelasting en de premieheffing per 1 januari van dit jaar. Dit geheel overziende heeft de minister-president aangegeven dat bij het huidige inderdaad relatief hoge inflatiecijfer alle aanleiding bestaat om er goed het hoofd bij te houden, structurele en incidentele ontwikkelingen scherp in het oog te houden en geen verkeerde beleidsreacties te geven. Desgevraagd is gewezen op het belang van een goed overleg met werkgevers en werknemers. Een goed begrip van de oorzaken van de oploop in de inflatie kan een loon-prijsspiraal voorkomen. </antwoord>
+      <antwoord nummer="3" voetnoot="1 4">Het CPB heeft in het CPB-report uit december aangegeven voor het gehele jaar 2001 te rekenen op een inflatie van 4 <voetnoot nummer="1"/>⁄ <voetnoot nummer="4"/>%; o.a. doordat de verhoging van de indirecte belastingen in het verschiet lag. Het inflatiecijfer van januari lag derhalve in de lijn der verwachting. </antwoord>
+      <antwoord nummer="5">In het Stabiliteits- en Groeipact zijn geen afspraken over de inflatie opgenomen. </antwoord>
+      <antwoord nummer="6">De inflatie zal in 2001 eenmalig hoog liggen. Het CPB verwacht een daling van de olieprijs en dollarkoers. Daarnaast valt het effect van de verhoging van de indirecte belastingen in het kader van de Belastingherziening in 2002 uit de inflatie. Beide hebben positieve effecten op de inflatie. In 2002 daalt de inflatie, naar verwachting, weer tot het relatief lage niveau uit de jaren negentig. Daarbij dient te worden aangetekend dat tegenover een incidenteel hoge inflatie in 2001 een structurele verbetering van het belastingstelsel staat. Dit heeft onder meer tot gevolg dat werken meer gaat lonen met positieve gevolgen voor de economie en de arbeidsparticipatie. lnflatie, afgemeten aan de verandering van de CPI, heeft op zich beschouwd een negatief effect op de koopkracht van de consument. De koopkracht ontwikkelt zich dit jaar echter gunstig, omdat het effect van de hogere indirecte belastingen op de koopkracht meer dan gecompenseerd wordt door een verlaging van de directe belastingen. </antwoord>
+      <antwoord nummer="8">Het kabinet bepaalt niet de inflatie-ontwikkeling in Nederland. Wel levert de verhoging van de indirecte belastingen in 2001 een bijdrage aan de inflatie. Zoals hierboven reeds is aangegeven leidt de Belastingherziening evenwel tot een structurele verbetering van de werking van de economie. Daarnaast bevordert het kabinet een gematigde inflatie-ontwikkeling op verschillende manieren. Ten eerste ondersteunt het een verantwoorde en gematigde loonontwikkeling via de doorgevoerde lastenverlichting. Ten tweede doet het kabinet dat via het streven om het functioneren van markten te verbeteren. Een actief marktwerkingsbeleid kan leiden tot lagere prijzen doordat marktpartijen geprikkeld worden om zich van elkaar te onderscheiden. </antwoord>
+      <antwoord nummer="9">De analyse van de prijsontwikkeling van het CBS duidt daar niet op. </antwoord>
+      <antwoord nummer="10">Door de minister-president is, anders dan de vraagstelling suggereert, geen koppeling gelegd tussen de huidige inflatieontwikkeling en de invoering van de euro volgend jaar. Voor de vragen over de invoering van de euro verwijs ik naar de antwoorden op de kamervragen van het lid Crone uit december 2000 (kenmerk FM 2000/0419-M). </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

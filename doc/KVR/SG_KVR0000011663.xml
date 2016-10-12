@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001359</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001359&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001359</item>
+         <item attribuut="Document-id">0000011663</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 429</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Willems (GroenLinks) over het terugdringen van de dioxine-emissie in de provincie Utrecht.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 429</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">429</item>
+         <item attribuut="Indiener">
+            <persoon partij="GroenLinks">Willems</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-02-05</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Alders</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-03-22</item>
+         <item attribuut="Beginpagina">879</item>
+         <item attribuut="Eindpagina">880</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de ieden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="879" allpagenumbers="879" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="429" onderwerp="het terugdringen van de dioxine-emissie in de provincie Utrecht." indiendatum="1993-02-5">
+         <vrager partij="GroenLinks" oorsprong="parlement">Willems</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-03-22">
+         <antwoorder functie="minister" ministerie="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer">Alders</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Herinnert u zich uw conclusie in antwoord op schriftelijke vragen van april vorig jaar <voetnoot nummer="1"/> dat de provincie Utrecht «aanvullende voorwaarden in de ontwerp-beschikking dient op te nemen om met name de dioxine-emissie terug te dringen»? </vraag>
+      <vraag nummer="2">Welke stappen hebt u ondernomen om de provincie Utrecht hiervan te overtuigen? </vraag>
+      <vraag nummer="3" voetnoot="2">Kent u de brief van de provincie Utrecht aan de Stichting Natuur en Milieu waarin zij stelt aan de voorwaarden van de minister «geen invulling te kunnen en willen geven»? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="4">Deelt u deze opvatting? Zo ja, hoe verhoudt zich dat met uw in vraag 1 genoemde conclusie? </vraag>
+      <vraag nummer="5">Betekent de inwerkingtreding van de AmvB Luchtemissies Afvalverbranding, dat de installatie moet voldoen aan minder strenge normen vergeleken met de situatie dat de Richtlijn Verbranden van toepassing is? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Aanhangsel Handelingen 1991-1992, nr. 615</noot>
+         <noot nummer="2"> Brief GS Utrecht aan Stichting Natuur en Milieu, dd. 20 januari 1993 over afvalstoffenwetvergunning gebr De Rooij te Wijk bij Duurstede is ondershands aan de regering doorgezonden</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja. De provincie Utrecht is door de regionaal inspecteur van de Volksgezondheid voor de milieuhygiëne op de hoogte gesteld van deze conclusie. </antwoord>
+      <antwoord nummer="3">Ja. </antwoord>
+      <antwoord nummer="4">In de beschikking van Gedeputeerde Staten van de provincie Utrecht is de mogelijkheid opgenomen om op het moment dat een techniek beschikbaar komt om de emissie verder te reduceren, deze binnen een door de provincie te bepalen termijn door het bedrijf moet worden gerealiseerd. De techniek heeft zich intussen verder ontwikkeld, zodat het toepassen van nageschakelde technieken thans als haalbaar moet worden beschouwd. Ik zal Gedeputeerde Staten van de provincie Utrecht over deze ontwikkeling informeren en ga er vanuit dat van die zijde nadere eisen zullen worden gesteld </antwoord>
+      <antwoord nummer="5" voetnoot="3">De AmvB «Luchtemissies van afvalverbrandingsinstallaties» Is alleen van toepassing op afvalverbrandingsinstallaties met roosterovens en ziet derhalve niet toe op de verbranding van elektromotoren. Dit neemt niet weg dat bij een proces als het thermisch verwerken van elektromotoren men verplicht is te streven naar een dioxineconcentratie van 0,1 ng TEQ/m <voetnoot nummer="3"/> in rookgasemissies naar de lucht. De adviseur Beroepen Milieubeheer komt tot een gehjkluidende conclusie in zijn advies aan de Voorzitter van de Afdeling voor de geschillen van bestuur van de Raad van State, naar aanleiding van een schorsingsverzoek van belanghebbenden uit de provincie Utrecht, in verband met het verlenen van een oprichtingsvergunning ingevolge de Afvalstoffenwet voor een inrichting bestemd voor het bewaren en bewerken van elektromotoren. De emissie-eisen voor de verbranding van elektromotoren zullen in een bijzondere regeling van de Nederlandse Emissie Richtlijnen (NER) worden opgenomen. Met het in werking treden van het hoofdstuk «Vergunningen en Algemene Regels» (VAR) van de Wet milieubeheer met het bijbehorende Inrichtingen– en vergunningenbesluit </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001466</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001466&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001466</item>
+         <item attribuut="Document-id">0000035873</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 544</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Wiebenga (V.V.D.) over mogelijke handel in valse Nederlandse visa in Libanon</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 544</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">544</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Wiebenga</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-03-08</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-04-18</item>
+         <item attribuut="Beginpagina">1095</item>
+         <item attribuut="Eindpagina">1096</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1095" allpagenumbers="1095 1096" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgeverij 's-Gravenhage 1990"/>
+      <vraagdata vraagnummer="544" onderwerp="mogelijke handel in valse Nederlandse visa in Libanon" indiendatum="1990-03-8">
+         <vrager partij="VVD" oorsprong="parlement">Wiebenga</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="18april 1990">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">Van den Broek</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1">Kan de regering bevestigen, dat er in Libanon een grootscheepse handel in valse Nederlandse visa plaatsvindt, ten gevolge waarvan honderden inwoners van Libanon via Rome respectievelijk Brussel in georgani– seerd verband naar Nederland reizen in de hoop zich hier te kunnen vestigen? </vraag>
+      <vraag nummer="2">Is mmiddels bekend wie de vervalsers zijn? Is tevens bekend welke reisagenten deze 'asielreizen' organiseren? Welke stappen heeft de regering gedaan teneinde de oorzaak van deze criminele activiteiten te bestrijden? </vraag>
+      <vraag nummer="3">Heeft de Nederlandse handelssecre– taris in Beiroet vastgesteld, dat niet alleen Libanezen, maar ook Syriërs met een tegen forse betaling verkregen vals Libanees paspoort annex vals Nederlands visum zich onder de reisgroepen bevinden? Is de regering bereid ook de Syrische regering terzake te benaderen? </vraag>
+      <vraag nummer="4">Hoeveel Libanese c.q. Syrische asiel– zoekers hebben zich sedert 1 januari 1990 in ons land aangemeld? Bevinden zich momenteel ca. 360 Libanezen met valse Nederlandse visa op de luchthavens van Rome resp. Brussel? </vraag>
+      <vraag nummer="5">Heeft met name Italië de afgelopen weken honderden Libanezen met een Nederlands visum, dat aantoonbaar vervalst is, desalniettemin doorge– stuurd naar Nederland?' Is zulks in strijd met de internationale regels? Zo ja, is de regermg dan bereid zich daarover ten spoedigste tot de Itali– aanse autoriteiten te wenden? </vraag>
+      <vraag nummer="6" voetnoot="2">Blijkt uit de gang van zaken, dat het beoogde nieuwe en veel moeilijker te vervalsen stickervisum nog steeds niet is ingevoerd? Indien dat zo is, wat is dan de waarde geweest van de mededeling van de regering in september 1987, dat een nieuw soort visum naar verwachting begin-1988 zou worden ingevoerd? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="7">Acht de regering het in het licht van de hoogst ongewenste ontwikke– lingen rond het vervalsen van Neder– landse visa niet nalatig, dat met de invoering van een beter fraudebe– stendig visum zo lang getalmd wordt? Waaraan is dit te wijten? Wanneer is de invoering nu wel te verwachten? nr. </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1990-03-6" bron=" Zie Telegraaf en de Volkskrant"> Zie Telegraaf en de Volkskrant, 6 maart 1990</noot>
+         <noot nummer="2"> Aanhangsel Handelingen 1987-1988,  14</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja. Het is in Libanon mogelijk een reis te boeken, waarbij tevens het paspoort dient te worden ingeleverd. Na enige tijd komt het paspoort terug met een vervalst Benelux– visum. Betrokkenen reizen via verschillende routes waaronder Beiroet-Rome-Amsterdam en Beiroet-Brussel-Amsterdam. Er is een tweetal reisagenten getra– ceerd in Beiroet en voorts zijn er sterke aanwijzingen dat ook reisbu– reaus die opereren vanuit de Bekaa– vallei bij de organisatie van deze reizen betrokken zijn. Naar aanleiding van de afgifte van vervalste visa in Libanon is door de Nederiandse Ambassade te Damascus in overleg met de Belgische Ambassade te Beiroet op 3 oktober 1989 een nota overhandigd, gericht aan de Libanese autoriteiten, waarin wordt verzocht de afgifte van vervalste Nederlandse visa tegen te gaan. Bij de overhandiging van de nota werd direct door de Libanese autoriteiten toegezegd dat maatregelen ter voorkoming van de afgifte zouden worden getroffen. Inmiddels zijn de Libanese autonteiten van de laatste ontwikkelingen op de hoogte gesteld. Bovendien zijn de volgende maatre– gelen genomen om te voorkomen gericht aan Alitalia; - personeel van de Nederlandse Ambassade te Rome heeft de KLM bijgestaan in haar contacten met de Luchthavenpolitie om bovenge– noemd doel te bereiken; - tenslotte is aan de betrokken luchtvaartmaatschappijen een overzicht aangeboden met daarin de meest saillante gegevens die van belang zijn voor de controle op de echtheid van een afgegeven Beneluxvisum. Betrokkene heeft geen taak op het terrein van visumafgifte in Libanon. Deze berust bij de Belgische Ambassade te Beiroet. Voor een stap bij Syrische autoriteiten bestaat naar ons oordeel geen aanleiding. </antwoord>
+      <antwoord nummer="4">Sedert 1 januari 1990 hebben zich 749 Libanezen en 11 Syriërs op Schiphol aangemeld als asielzoeker. Er bevinden zich thans geen Libanezen met vervalste Nederlandse visa op de luchthavens van Rome respectievehjk Brussel </antwoord>
+      <antwoord nummer="5">Blijkens de ons ter beschikking staande gegevens betreft het ongeveer 120 personen. Sedert het in het antwoord op vraag 2 genoemde verzoek aan de Italiaanse autoritieten zijn geen Libanezen met een vervalst Beneluxvisum via Rome in Nederland aangekomen 6 e n  7 De mededeling van de Regering in september 1987 was gebaseerd op het feit dat België in de Benelux het voortouw had met betrekking tot de ontwikkeling van een visumsticker en </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

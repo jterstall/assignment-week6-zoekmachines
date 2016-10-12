@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19841985:0002220</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19841985:0002220&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19841985:0002220</item>
+         <item attribuut="Document-id">0000124192</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1984-1985 nummer 1097</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Nypels (D'66) over een geschil inzake de afrekening van servicekosten tussen het ABP en huurders van flats te Leiden.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1984-1985 nummer 1097</item>
+         <item attribuut="Jaargang">1984_1985</item>
+         <item attribuut="Vraagnummer">1097</item>
+         <item attribuut="Indiener">
+            <persoon partij="D'66">Nypels</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1985-07-01</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Smit-Kroes</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1985-08-01</item>
+         <item attribuut="Beginpagina">2171</item>
+         <item attribuut="Eindpagina">2172</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1984-1985 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1984-1985, Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="1097" onderwerp="" indiendatum="">
+         <vrager partij="D'66" oorsprong="parlement">Nypels</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1 augustus 1985)">
+         <antwoorder functie="Minister" ministerie="Binnenlandse Zaken a.i.">Smit-Kroes</antwoorder>
+         <mede-antwoorder>de staatssecretaris van Volkshuisvesting, Ruimtelijke Orde- ning en Milieubeheer</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 " voetnoot="1">Hebben de bewindslieden kennis  genomen van het advies van de  huurcommissie te Leiden <voetnoot nummer="1"/> met  betrekking tot een geschil over de  servicekostenafrekening tussen het  ABP als eigenaar en de bewoners van  de flats Stadzicht, Parkzicht en  Molenzicht te Leiden?  </vraag>
+      <vraag nummer="2 " voetnoot="2">Achten zij het aanvaardbaar, dat een  uitspraak van de huurcommissie,  ressorterend onder verantwoordelijk- heid van de minister van VROM,  wordt aangevochten door het ABP,  ressorterend onder de Minister van  Binnenlandse Zaken, middels een te  voeren procedure bij de kantonrechter  om de uitspraak van de huurcommissie  ongedaan te maken <voetnoot nummer="2"/>?  </vraag>
+      <vraag nummer="3 ">Zijn zij van mening dat, indien het  ABP het advies van de huurcommissie  naast zich neerlegt, dit tot gevolg kan  hebben dat ook andere huiseigenaren  dit zullen doen?  </vraag>
+      <vraag nummer="4 ">Zijn de bewindslieden bereid, te  bevorderen dat het ABP en in voorko- mende gevallen andere huiseigenaren,  die onder de verantwoordelijkheid  van de rijksoverheid vallen, zich  houden aan de adviezen van de  huurcommissie?  </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="2"> Leidsch Dagblad, 1 juni 1985. </noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1 ">Ja.  Als rechtspersoonlijkheid bezittend  lichaam kan het Abp een gerechtelijke  procedure bij de kantonrechter  aanspannen om de uitspraak van een  huurcommissie te toetsen. Het  hanteren van een in de wet geregeld  rechtsmiddel is aanvaardbaar te  achten.  </antwoord>
+      <antwoord nummer="3 ">Niet te voorzien is of het aanspannen  van een kantongerechtprocedure door  het Abp ten gevolge zal hebben dat  ook andere huiseigenaren servicekos- tengeschillen ter beoordeling aan de  kantonrechter zullen voorleggen.  </antwoord>
+      <antwoord nummer="4 ">Een van de uitgangspunten van de  Huurprijzenwet woonruimte is dat een  uniforme regeling dient te gelden  voor het beslechten van huurgeschil- len voor alle categorieën woonruimte,  ongeacht de aard van de verhuurder.  Onderdeel van die regeling vormt de  aan de huurder en verhuurder  geboden mogelijkheid zich tot de  kantonrechter te wenden, onder meer  in het geval bezwaar bestaat tegen  een uitspraak van de huurcommissie.  Het creëren van een uitzonderingspo- sitie voor het Abp of enig andere  onder de verantwoordelijkheid van de  rijksoverheid vallende verhuurder  past niet in het wettelijk stelsel.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

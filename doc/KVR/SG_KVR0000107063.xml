@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001288</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001288&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001288</item>
+         <item attribuut="Document-id">0000107063</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 256</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Müller-van Ast (P.v.d.A.) over geneesmiddelenverkoop.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 256</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">256</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Müller-van Ast</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-11-13</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Dees</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-12-18</item>
+         <item attribuut="Beginpagina">515</item>
+         <item attribuut="Eindpagina">516</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1986-1987 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="256" onderwerp="geneesmiddelenver- koop." indiendatum="13 november 1986)">
+         <vrager partij="PvdA" oorsprong="parlement">Müller-van Ast</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="18 december 1986)">
+         <antwoorder functie="staatssecretaris" ministerie="Welzijn, Volksgezondheid en Cultuur">D e e s</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 ">Herinnert u zich het antwoord van uw  ambtsvoorganger op de eerder  gestelde schriftelijke vragen over  geneesmiddelenverkoop? </vraag>
+      <vraag nummer="1 "/>
+      <vraag nummer="2 ">Heeft uw overleg met onder meer  Nefarma over het verscherpen van de  gedragscode resultaat gehad?  </vraag>
+      <vraag nummer="3 ">Zo ja, wilt u deze Kamer daarvan per  omgaande in kennis stellen; zo neen,  waarom niet?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1 ">Ja.  2 en 3  Het bestuur van Nefarma heeft zich  bereid verklaard om de Codecommis- sie voor de Farmaceutische Bedrijfs- tak te verzoeken jaarlijks een overzicht  op te stellen van de behandelde  klachten en wel op een wijze, zoals  thans door de Raad voor de Genees- middelenaanprijzing geschiedt. Dit  verslag zal dan ook onder de aandacht  van de ministeries van Welzijn,  Volksgezondheid en Cultuur en van  Economische Zaken worden gebracht.  Tevens heeft de Koninklijke Neder- landse Maatschappij ter bevordering  der Pharmacie reeds aan mijn  ambtsvoorganger laten weten  voornemens te zijn om in de Richtlij- nen voor de beroepsethiek van  apothekers bepalingen op te nemen  met betrekking tot het aanvaarden  van geschenken e.d.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001442</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001442&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001442</item>
+         <item attribuut="Document-id">0000027779</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 507</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Rosenmöller (Groen Links) over deelname aan een banenpool.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 507</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">507</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Rosenmöller</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-03-25</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Ter Veld</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-04-12</item>
+         <item attribuut="Beginpagina">1029</item>
+         <item attribuut="Eindpagina">1032</item>
+         <item attribuut="Omvang">4 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1029" allpagenumbers="1029 1030 1032" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1991"/>
+      <vraagdata vraagnummer="507" onderwerp="deelname aan een banenpool." indiendatum="1991-03-25">
+         <vrager partij="Groen Links" oorsprong="parlement">Rosenmöller</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1991-04-12">
+         <antwoorder functie="staatssecretaris" ministerie="Sociale Zaken en Werkgele– genheid">Ter Veld</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1" voetnoot="1">Hebt u kennis genomen van het antwoord op eerdere vragen terzake van de minister van Sociale Zaken en Werkgelegenheid <voetnoot nummer="1"/>, waarin hij stelt dat werklozen verplicht kunnen worden tot uitzendarbeid, omdat in mdividuele gevallen een reguliere arbeidsplaats op deze wijze dichterbij komt? </vraag>
+      <vraag nummer="2">Bent u van mening, dat activiteiten die aan werklozen aangeboden worden via JWG, KRS of KRA, verplicht gesteld kunnen worden, omdat hiermee uitzicht wordt geboden op een reguliere arbeids– plaats? </vraag>
+      <vraag nummer="3" voetnoot="2">Deelt u de mening, dat de banen– pools, hoewel doorstroming niet wordt uitgesloten, vrijwel altijd als eindstation (zullen) functioneren en dus geen uitzicht geven op een reguliere arbeidsplaats <voetnoot nummer="2"/>? </vraag>
+      <vraag nummer="4">Zo ja, waarom hebt u dan gemeend bij de gemeente Leeuwarden af te moeten dwingen, dat er een verplichting tot deelname aan de banenpool bestaat met daaraan verbonden een plicht tot sancties? Indien u meent, dat banenpool– plaatsen als passende arbeid moeten worden aangemerkt, op grond van welke criteria komt u dan tot deze mening, gegeven de minimale beloning, afwezigheid van pensioen– voorziening en carriéreperspectieven, doorstroming naar regulier werk e.d.? Wanneer wordt arbeid dan nog als niet-passend beschouwd? </vraag>
+      <vraag nummer="6">Deelt u de mening, dat het zinloos is om deelname aan de banenpool te verplichten, gegeven het feit, dat er 21.400 plaatsen zullen komen, waar ca. 250.000 langdurig werklozen voor in aanmerking komen? Zo neen, waarom niet? </vraag>
+      <vraag nummer="7">Deelt u de mening, dat aanscherping van het sanctiebeleid op deze wijze nergens toe leidt? Zo neen, wat is volgens u de meerwaarde van uw besluit richting Leeuwarden? </vraag>
+      <vraag nummer="8">Kunt u zich voorstellen, dat oudere langdurig werklozen, die door de crisis van begin jaren tachtig werkloos zijn geworden en vervolgens ontwikkelingen op de arbeidsmarkt niet hebben kunnen bijbenen en daarmee onaantrekkelijk zijn geworden voor werkgevers, zich beetgenomen zullen voelen, wanneer zij door u verplicht worden om tegen minimumloon werkzaamheden in een banenpool te verrichten? Is het niet sympathieker deze mensen met rust te laten en de banenpool open te stellen voor die langdurig werklozen, die wel behoefte hebben aan een banenpoolplaats? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Vragen van het lid Rosenmöller, Aanhangsel Handelingen nr. 25, vergadering 1990-1991</noot>
+         <noot nummer="2"> Zie evaluaties van Experiment Additionele Arbeid JWG = Jeugdwerkgarantieplan KRS = Kaderregeling Scholing KRA = Kaderregeling Arbeidsinspanning</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="6">
+      <antwoord nummer="1">Ja. In het kader van het activerend arbeidsmarktbeleid zullen, daar waar dit noodzakelijk wordt geacht, arbeidsvoorzieningsmaatregelen worden ingezet die de herinscha– keling in betaalde arbeid bevorderen. Hierbij is niet zozeer aan de orde de vraag of het inzetten van een instrument als KRA, KRS of JWG direct uitzicht biedt op een reguliere arbeidsplaats en vanuit dien hoofde verplicht gesteld kan worden, maar de constatering dat het ontbreken van voldoende kwalificatie of werker– varing belemmerend werkt bij het door de betreffende werkloze verwerven van een betaalde baan. Met andere woorden, de hier genoemde instrumenten worden niet ingezet omdat ze concreet uitzicht bieden op betaald werk, maar dienen ertoe de betrokken werkloze zodanig heden tot herinschakeling in reguliere arbeid bestaan. Banenpools vervullen daarbij een tweeledige functie, zoals ook is aangegeven in de notitie van het CBA van 10 mei 1990. Voor een aantal geplaatsten kan deelname aan banenpools op termijn leiden tot verbetering van het perspectief op doorstroming naar functies op de reguliere arbeids– markt. Waar mogelijk zal doorstroming worden bevorderd. Voor andere geplaatsten zal de banenpool in de woorden van de heer Rosenmöller «als eindstation functioneren». In hoeverre en in welke mate banenpools door deelnemers een doorstroomfunctie dan wel een eindfunctie vervullen is echter bij voorbaat niet te zeggen. Op het moment van plaatsing in een banenpool is doorstroming naar een reguliere arbeidsplaats niet het eerste doel. Het deelnemen aan een banenpool, eventueel in combinatie met het volgen van scholing kan een positieve invloed hebben op de kans op doorstroming. In dit verband merk ik nog op, dat andere factoren, zoals de ontwikkeling van de werkge– legenheid, mede daarop van invloed zijn. </antwoord>
+      <antwoord nummer="4">Een indicatie voor plaatsing in een banenpool vindt plaats op basis van een heroriënteringsgesprek. Zoals reeds in de circulaire van mijn ambtsvoorganger, 29 september 1988 (kenmerk S2/BV/UKB/88/U/1674/FS/HR) is aangegeven, is deelname aan de heroriënteringsgesprekken en de daaruit voortvloeiende activiteiten besef van verantwoordelijkheid voor de voorziening in het bestaan. Op grond van artikel 14 Rww dienen Burgemeester en wethouders in dergelijke situaties in het algemeen over te gaan tot een tijdelijke verlaging van de verleende bijstand. Daarnaast speelt in dit verband een rol dat uitdrukkelijk de bedoeling is ook via een banenpool werklozen zo mogelijk (opnieuw) bij het reguliere arbeidsbestel te betrekken. Hiertoe voorziet de regeling bijvoorbeeld in een periodiek herbeoordelingsge– sprek, omdat op termijn perspectief kan ontstaan op doorstroming naar een functie op de reguliere arbeids– markt, al dan niet met toepassing van een arbeidsvoorzieningsmaat– regel. Alhoewel plaatsing in een banenpool wordt geïndiceerd wanneer blijkt dat er binnen afzienbare termijn geen andere mogelijkheden tot arbeidsinpassing op de reguliere arbeidsmarkt aanwezig zijn, kan op indivueel niveau vrijwel nooit de uitspraak worden gedaan dat een bepaald persoon nu of in de toekomst nooit kans meer heeft in het arbeidsproces in te treden. Voor zolang het perspectief op instroom op de arbeidsmarkt nog niet aanwezig is, al dan niet met behulp van arbeidsvoorzieningsmaatregelen op het gebied van scholing of werker– varing, ligt voortzetting van de dienstbetrekking bij de banenpool voor de hand. </antwoord>
+      <antwoord nummer="5">In algemeene zin ben ik van mening dat, gelet op de doelgroep, banen– is arbeid evenwel niet passend, als bezwaren van geestehjke, licha– melijke of sociale aard zich tegen aanvaarding hiervan verzetten. </antwoord>
+      <antwoord nummer="6">Op basis van een heroriënteringsge– sprek wordt bekeken of en zo ja welk actieplan voor een individuele werkloze dient te worden opgesteld in het kader van geleiding naar de arbeidsmarkt. Indien de uitkomst daarvan leidt tot de indicatiestelling van deelname aan een banenpool, kan het niet deelnemen daaraan, zoals reeds gesteld in mijn antwoord op de vorige vraag, niet zonder consequenties blijven. In het enkele feit, dat tegenover 21 400 banen– poolplaatsen structureel een veelvoud aan langdurig werklozen staat (maar overigens aanmerkelijk minder dan 250 000 personen) is op zich geen grond gelegen om af te zien van het verplichtende karakter van de banenpoolplaatsen voor een individuele werkzoekende voor wie een dergelijke baan als passend wordt aangemerkt. </antwoord>
+      <antwoord nummer="7">Van een aanscherping van het sanctiebeleid is geen sprake. De aanwijzing aan de gemeente Leeuwarden vloeit voort uit mijn constatering dat bedoelde gemeente de rijksopvattingen met betrekking tot de sanctietoepassing in relatie tot de heroriënteringsgesprekken niet onderschrijft noch conform die opvattingen handelt. </antwoord>
+      <antwoord nummer="8">Neen. Naar mijn opvatting zouden deel in die periode werkloos geworden. Bijna 2/3 deel is werkloos geworden in de tweede helft van de jaren '80. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

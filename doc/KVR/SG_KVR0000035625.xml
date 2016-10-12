@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001218</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001218&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001218</item>
+         <item attribuut="Document-id">0000035625</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 296</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Blauw (V.V.D.) over het aantal arbeidsplaatsen op het ministerie van Landbouw, Natuurbeheer en Visserij.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 296</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">296</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Blauw</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-01-10</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Braks</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-01-25</item>
+         <item attribuut="Beginpagina">597</item>
+         <item attribuut="Eindpagina">598</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="597" allpagenumbers="597" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgevenj 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="296" onderwerp="het aantal arbeidsplaatsen op het ministerie van Landbouw, Natuurbeheer en Visserij." indiendatum="10januari 1990">
+         <vrager partij="VVD" oorsprong="parlement">Blauw</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-01-25">
+         <antwoorder functie="minister" ministerie="Landbouw, Natuurbeheer en Visserij">Braks</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Wordt (zeer) binnenkort het aantal arbeidsplaatsen op uw ministerie aanzienlijk uitgebreid? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Maken de aanstaande landbouw– structuurnota en het natuurbe– leidsplan deze uitbreiding noodza– kelijk? </vraag>
+      <vraag nummer="3">Is het niet ongewoon en zeer merkwaardig om, vooruitlopend op parlementaire behandeling van deze nota's nu reeds beleidsgevolgen daaraan te hechten? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Zie NRC-Handelsblad van 3 januari j.l</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1" voetnoot="2">In de Nota van Wijziging op de Begroting van Landbouw, Natuur– beheer en Visserij voor het jaar 1990', die de Kamer 1 december 1989 heeft ontvangen, heb ik melding gemaakt van de beoogde uitbreiding van de formatie met 100 plaatsen. In de beleidsvoornemens Struc– tuurnota Landbouw en Natuurbe– leidsplan, zoals die op 18 mei 1989 ter kennisneming aan de Kamer zijn gezonden <voetnoot nummer="2"/> heb ik aangegeven dat met omstreeks f 7 mln./jaar aan extra apparaatskosten moet worden gerekend, hetgeen overeenkomt met 100 arbeidsplaatsen. Ik wil er geen twijfel over laten bestaan dat ik het niet verantwoord acht deze plaatsen, die benodigd zijn in verband met uitbreiding van taken, vrij te maken binnen de bestaande formatie van mijn departement. Daarvoor staat deze, zeker na de inkrimping van de laatste jaren, reeds te veel onder druk. </antwoord>
+      <antwoord nummer="3">De beoogde formatie-uitbreiding is, zoals hiervoor opgemerkt, aange– kondigd in de Nota van Wijziging op de begroting voor 1990. De forma– tieve gevolgen worden daarmee op precies dezelfde wijze gepresenteerd als de (andere) budgettaire conse– quenties van de Structuurnota Landbouw en het Natuurbeleidsplan. Ook deze maken deel uit van de Ontwerp-begroting voor 1990 en de Nota van Wijziging daarop. Ik acht dit niet ongewoon of merkwaardig. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Kamerstuk 21 300 XIV nr. 14, verga– derjaar 1989-1990</noot>
+         <noot nummer="2"> Kamerstuk 21 149 nr 1, vergaderjaar 1988-1989</noot>
+      </noten>
+   </antwoorden>
+</kvr>

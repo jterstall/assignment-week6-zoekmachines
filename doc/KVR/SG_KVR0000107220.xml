@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001445</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001445&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001445</item>
+         <item attribuut="Document-id">0000107220</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 413</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Weisglas, Rempt-Halmmans de Jongh en Linschoten (allen V.V.D.) over de rechtspositieregeling voor in het buitenland verblijvende ambtenaren van Buitenlandse Zaken.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 413</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">413</item>
+         <item attribuut="Indiener">
+            <persoon>Weisglas</persoon>
+            <persoon>Rempt-Halmmans de Jongh</persoon>
+            <persoon>Linschoten</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-01-23</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-02-18</item>
+         <item attribuut="Beginpagina">823</item>
+         <item attribuut="Eindpagina">824</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 6 - 1 9 8 7 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="413" onderwerp="de rechtspositieregeling voor in het buitenland verblijvende ambtenaren van Buitenlandse Zaken." indiendatum="23 januari 1987)">
+         <vrager partij="" oorsprong="parlement">Weisglas</vrager>
+         <vrager partij="" oorsprong="parlement">Rempt-Halmmans de Jongh</vrager>
+         <vrager partij="" oorsprong="parlement">Linschoten</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="18 februari 1987)">
+         <antwoorder functie="" ministerie="Buitenlandse Zaken"/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1 ">Herinnert de minister zich, dat hij op  13 november 1985 in antwoord op  schriftelijke vragen mededeelde, dat  gelijke behandeling van gehuwd en  niet-gehuwd duurzaam samenwonen- de ambtenaren ten principale ook  van toepassing zal zijn op de in het  buitenland verblijvende personeelsle- den van de Buitenlandse Dienst en te  zijner tijd van de Dienst Buitenlandse  Zaken? </vraag>
+      <vraag nummer="1 ">Hoe staat het thans met de uitvoering  van deze beslissing?  </vraag>
+      <vraag nummer="3 ">Worden de vijf ambtelijke rechtsposi- tie-regelingen voor gehuwde  ambtenaren, die per 10 december  1986 eveneens worden toegepast op  ambtenaren die samenwonen met  een levenspartner en niet gehuwd  zijn, sinds die datum ook toegepast  op in het buitenland verblijvende  ambtenaren van Buitenlandse Zaken?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1 ">Ja.  </antwoord>
+      <antwoord nummer="2 ">Zie het antwoord op vraag 3.  </antwoord>
+      <antwoord nummer="3 ">Ja. Onlangs is een uitwerking van de  vijf rechtspositionele regelingen,  zoals vervat in de Circulaire van de  Minister van Binnenlandse Zaken d.d.  10 december 1986, voor de naar het  buitenland uitgezonden personeelsle- den van het Ministerie van Buitenland- se Zaken besproken in het georgani- seerd overleg met de Vereniging van  de Buitenlandse Dienst. De uitwerking  beoogt ten principale een rechtsposi- tionele gelijkstelling van gehuwde  uitgezonden personeelsleden en  degenen die een niet-huwelijkse  duurzame samenlevingsrelatie  onderhouden. De personeelsleden  worden van deze uitwerking in kennis  gesteld.  </antwoord>
+      <antwoord nummer="4 ">Niet van toepassing.  Zo neen, waarom is dat niet het  geval?  </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Vergaderjaar 1985-1986, Aanhangsel nr,  189 </noot>
+      </noten>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001351</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001351&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001351</item>
+         <item attribuut="Document-id">0000011655</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 421</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van Middelkoop (GPV) over het verzamelen van gegevens in Nederland door het Marokkaanse ministerie van Migratiezaken.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 421</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">421</item>
+         <item attribuut="Indiener">
+            <persoon partij="GPV">Van Middelkoop</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-02-26</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Dales</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-03-19</item>
+         <item attribuut="Beginpagina">863</item>
+         <item attribuut="Eindpagina">864</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="863" allpagenumbers="863" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="421" onderwerp="het verzamelen van gegevens in Nederland door het Marokkaanse ministerie van Migratiezaken." indiendatum="1993-02-26">
+         <vrager partij="GPV" oorsprong="parlement">Van Middelkoop</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-03-19">
+         <antwoorder functie="minister" ministerie="Binnenlandse Zaken">Dales</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1">Kent u de inhoud van een brief van het Marokkaanse ministerie van Migratiezaken aan Marokkaanse organisaties in ons land, met als kennelijk doel gegevens te verzamelen van in Nederland verblijvende Marokkanen en hun organisaties? </vraag>
+      <vraag nummer="2">Bent u hierover geïnformeerd door de Marokkaanse regering? </vraag>
+      <vraag nummer="3">Zo neen, is over dit onderwerp overleg gevoerd met de Marokkaanse minister van Migratiezaken tijdens zijn laatste bezoek aan ons land? Zo ja, welke afspraken zijn gemaakt over de betrokkenheid van de Marokkaanse overheid bij de positie van Marokkanen in Nederland? Wat is uw oordeel over inhoud en bedoeling van genoemde brief? </vraag>
+      <vraag nummer="5">Hoe oordeelt u over de poging van genoemd ministerie namen, adressen en telefoonnummers te verzamelen van bestuursleden van in Nederland werkzame Marokkaanse organisaties? </vraag>
+      <vraag nummer="6">Meent u, dat deze actie van de Marokkaanse regering verwarring kan zaaien onder Marokkaanse burgers en orgamsaties in ons land en een belemmering kan zijn voor het door u gevoerde beleid van integratie van culturele minderheden in onze samenleving? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Trouw van 25 februari 1 993</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="6">
+      <antwoord nummer="1">Neen. </antwoord>
+      <antwoord nummer="2">Neen. </antwoord>
+      <antwoord nummer="3">Neen. </antwoord>
+      <antwoord nummer="4">Over een mij niet bekende brief heb ik geen oordeel. </antwoord>
+      <antwoord nummer="5">Het staat buitenlandse overheden vrij, gegevens van in het buitenland verblijvende onderdanen, incl. hun organisaties te verzamelen en bij te houden. Op het verstrekken van gegevens uit persoonsregistraties in Nederland is de Wet persoonsregistraties (WPR, Stb. 665) van toepassing. De wet heeft betrekking op persoonsregistraties die langs geautomatiseerde weg worden gevoerd of met het oog op een doeltreffende raadpleging systematisch zijn vastgelegd. Voorzover het gaat om verstrekking van persoonsgegevens door Marokkaanse organisaties uit hun persoonsregistraties, mogen op grond van de WPR slechts gegevens aan derden worden verstrekt, voorzover zulks voortvloeit uit het doel van de registratie, wordt vereist ingevolge een wettelijk voorschrift, of geschiedt met instemming van de geregistreerde. </antwoord>
+      <antwoord nummer="6">In het algemeen ben ik van oordeel dat vertegenwoordigers van vreemde mogendheden in Nederland zich dienen te onthouden van activiteiten die er op gericht zijn, organisaties en personen te beïnvloeden omtrent de wijze waarop zij zich in ons land hebben te gedragen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

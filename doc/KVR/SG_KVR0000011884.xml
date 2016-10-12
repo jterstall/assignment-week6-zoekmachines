@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001580</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001580&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001580</item>
+         <item attribuut="Document-id">0000011884</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 650</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Brouwer (GroenLinks) over de verdeling van instituten die voortvloeien uit het Verdrag van Maastricht.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 650</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">650</item>
+         <item attribuut="Indiener">
+            <persoon partij="GroenLinks">Brouwer</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-05-26</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Dankert</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-06-16</item>
+         <item attribuut="Beginpagina">1327</item>
+         <item attribuut="Eindpagina">1328</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1327" allpagenumbers="1327" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="650" onderwerp="de verdeling van instituten die voortvloeien uit het Verdrag van Maastricht." indiendatum="26mei 1993">
+         <vrager partij="GroenLinks" oorsprong="parlement">Brouwer</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="16juni 1993">
+         <antwoorder functie="staatssecretaris" ministerie="Buitenlandse Zaken">Dankert</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Geeft Nederland ten aanzien van de verdeling van instituten, die voortvloeien uit het Verdrag van Maastricht prioriteit aan achtereenvolgens de vestiging van de Europese Centrale Bank (ECB) in Amsterdam en van Europol en het Merkenbureau in Den Haag?' </vraag>
+      <vraag nummer="2">Zo ja, ziet de regermg de vestiging van het Milieubureau in Nederland niet als één van de belangrijkste prioriteiten? </vraag>
+      <vraag nummer="3">Op grond van welke overweging is de regering tot deze rangorde gekomen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Het Parool van 24 mei 1 993</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">De Nederlandse regering heeft t.a.v. het pakket van zetels, dat in discussie is tussen de lid-staten van de EG, ingezet op respectievelijk de Europese Centrale Bank, het Merkenbureau en Europol en dat bewust in deze volgorde. </antwoord>
+      <antwoord nummer="2">Het belang dat Nederland hecht aan milieu komt tot uiting in de inspanningen van de regering voor het verwerven van het Thematisch Centrum Lucht, dat onderdeel zal uitmaken van het EG Milieu Agentschap en dat bij het RIVM in Bilthoven kan worden ondergebracht. </antwoord>
+      <antwoord nummer="3">De overwegingen die ten grondslag liggen aan de Nederlandse opstelling t.a.v. het zetelpakket omvatten het element werkgelegenheid, aansluiting bij bestaande kennis en infrastructuur en haalbaarheid. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

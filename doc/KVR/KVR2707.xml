@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Oedayraj Singh Varma (GroenLinks) over vergoeding van een behandeling van het slaapapnoe syndroom. (Ingezonden 15 februari 1996); Antwoord</item>
+         <item attribuut="Bestand">14Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR2707
+</item>
+         <item attribuut="Inhoud">Betreft vergoeding van de behandeling met CPAP-apparatuur op grond van de Ziekenfondswet of AWBZ.</item>
+         <item attribuut="Rubriek">Gezondheidszorg (Medische hulpmiddelen) Gezondheidszorg (Zorgverzekeringen)</item>
+         <item attribuut="Trefwoorden">AWBZ Medische hulpmiddelen Ziekenfondsverzekering</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 1995-1996, nr. 758, Tweede Kamer</item>
+         <item attribuut="Afkomstig_van">Volksgezondheid, Welzijn en Sport (VWS)</item>
+         <item attribuut="Indiener">
+            <persoon partij="GroenLinks">Oedayraj Singh Varma</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1996-03-12</item>
+         <item attribuut="Datum_indiening">1996-02-15</item>
+         <item attribuut="Document-id">KVR2707</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1995–1996" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1535" allpagenumbers="1535" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1995–1996, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 1996"/>
+      <vraagdata vraagnummer="758" onderwerp="" indiendatum="1996-02-15">
+         <vrager partij="GroenLinks" oorsprong="parlement">Oedayraj Singh Varma</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1996-03-12">
+         <antwoorder functie="minister" ministerie="Volksgezondheid, Welzijn en Sport">Borst-Eilers</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Wordt een behandeling van het slaapapnoe syndroom met behulp van CPAP-apparatuur niet vergoed op grond van de Ziekenfondswet of de AWBZ? </vraag>
+      <vraag nummer="2" voetnoot="1">Is voor patie¨nten met een ernstig obstructief slaapapnoe syndroom behandeling met CPAP de enige effectieve methode? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="3">Bent u bereid de Ziekenfondsraad advies te vragen over de wenselijkheid behandeling met CPAP-apparatuur voor vergoeding via het Ziekenfonds of AWBZ in aanmerking te laten komen? Zo neen, waarom niet? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1">Brief van prof. dr. F. G. A. van der Meche´, neuroloog in het Academisch Ziekenhuis Rotterdam, aan de medisch adviseur OZ zorgverzekeringen Breda, d.d. 18-08-95</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1 en 3" voetnoot="1 2">Met ingang van 1 januari 1996 is de verstrekking in bruikleen van CPAP-apparatuur in het kader van de Ziekenfondswet geregeld in de Regeling hulpmiddelen 1996. Ziekenfondsverzekering kunnen hun aanspraak geldend maken als een indicatie voor CPAP-apparatuur aanwezig is. Er dient in dat geval sprake te zijn van een ernstig nachtelijk obstructief slaapapnoe syndroom. De criteria die daarvoor gelden zijn in bijlage 10 bij de Regeling hulpmiddelen 1996 <voetnoot nummer="1"/>vermeld. De Ziekenfondsraad heeft met zijn advies van 26 oktober 1995, hiertoe geadviseerd <voetnoot nummer="2"/>. </antwoord>
+      <antwoord nummer="2">Patie¨nten met het obstructief slaapapnoe syndroom (OSAS) kunnen worden behandeld met de operatieve methode, de Uvulo-Palato-Pharyngo-Plastiek (UPPP) of door middel van continue positieve drukbehandeling met CPAP-apparatuur. Eind 1995 was een ontwikkelingsgeneeskundig project nagenoeg afgerond, waarbinnen de verschillende behandelingsmethoden met elkaar zijn vergeleken. Op basis van de eind 1995 beschikbare resultaten van het project kon in feite reeds worden geconcludeerd dat de waarde van CPAP als voorkeursbehandeling bij een groot deel van de OSAS-patie¨nten werd bevestigd. Deze resultaten komen overeen met internationale onderzoeksresultaten. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1">Stcrt. 1995, 229</noot>
+         <noot nummer="2">Brief van prof. dr. F. G. A. van der Meche´, neuroloog in het Academisch Ziekenhuis Rotterdam, aan de medisch adviseur OZ zorgverzekeringen Breda, d.d. 18-08-95</noot>
+      </noten>
+   </antwoorden>
+</kvr>

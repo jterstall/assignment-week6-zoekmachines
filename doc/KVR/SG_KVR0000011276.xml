@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0000972</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0000972&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0000972</item>
+         <item attribuut="Document-id">0000011276</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 40</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Jorritsma-Lebbink (VVD) over de regiotreintaxi.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 40</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">40</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Jorritsma-Lebbink</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-09-18</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Maij-Weggen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-10-02</item>
+         <item attribuut="Beginpagina">87</item>
+         <item attribuut="Eindpagina">88</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="87" allpagenumbers="87" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="" onderwerp="" indiendatum="">
+         <vrager partij="VVD" oorsprong="parlement">Jorritsma-Lebbink</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-10-2">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">Maij-Weggen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="40">Vragen van het lid Jorritsma-Lebbink (VVD) over de regiotreintaxi. (Ingezonden 18 september 1992) </vraag>
+      <vraag nummer="1">Hebt u kennis genomen van het bericht inzake de regiotreintaxi?' </vraag>
+      <vraag nummer="2">Zo ja, wat is dan uw standpunt over dit project? </vraag>
+      <vraag nummer="3">Kunt u aangeven of de regio Treintaxi het regiotaxiproject doorkruist? Zo ja, in hoeverre? </vraag>
+      <vraag nummer="4">Kunt u aangeven of dit project gevolgen zal hebben voor de regiotaxi? </vraag>
+      <vraag nummer="5">In hoeverre bestaat de mogelijkheid, dat twee regiotaxisystemen in concurrentie met elkaar kunnen gaan werken of bent u van mening, dat een monopoliepositie van een der systemen acceptabel is? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja. Ik sta in principe positief tegenover voorstellen die beogen de kwaliteit van het collectieve vervoer te versterken en aldus kunnen bijdragen aan het afremmen van het autogebruik. De verdere ontwikkelingen rond de regiotreintaxi zal ik dan ook met belangstelling volgen. </antwoord>
+      <antwoord nummer="3, 4 en 5">Ik stel mij voor dat begin volgend jaar een aantal experimenten met de regiotaxi van start kan gaan, zoals aanbevolen door de Taxicommissie-Van Leeuwen. Het initiatief van de regiotreintaxi zal feitelijk wat later worden opgestart. Er zal op worden gelet dat de experimenten met de regiotaxi en het initiatief van de regiotreintaxi elkaar niet doorkruisen, maar elkaar aanvullen en ondersteunen. Met Treintaxi VOF zijn hierover goede contacten geweest en nadere afspraken gemaakt. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

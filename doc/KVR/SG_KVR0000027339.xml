@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001002</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001002&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001002</item>
+         <item attribuut="Document-id">0000027339</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 70</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden E. G. Terpstra en Weisglas beiden (V.V.D.) over de staatsherbegrafenis van president Allende.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 70</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">70</item>
+         <item attribuut="Indiener">
+            <persoon>Terpstra E.G.</persoon>
+            <persoon>Weisglas</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-09-05</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Lubbers</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-10-15</item>
+         <item attribuut="Beginpagina">143</item>
+         <item attribuut="Eindpagina">144</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="143" allpagenumbers="143" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="" onderwerp="" indiendatum="">
+         <vrager partij="" oorsprong="parlement">Terpstra E.G.</vrager>
+         <vrager partij="" oorsprong="parlement">Weisglas</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-10-15">
+         <antwoorder functie="minister-president" ministerie="">Lubbers, minister van Algemene Zaken.</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="70">Vragen van de leden E. G. Terpstra en Weisglas beiden (V.V.D.) over de staatsherbegrafenis van president Allende. (Ingezonden 5 september 1990) </vraag>
+      <vraag nummer="1">Zal de minister voor Ontwikkelings– samenwerking op persoonlijke uitno– diging en niet namens de Neder– landse regering de staatsherbegra– fenis van de zeventien jaar geleden vermoorde president Allende bijwonen in Chili?' Zo ja, wat is de reden van het kabinetsbesluit hem niet namens de Nederlandse regering de herbegra– fenis bij te laten wonen? </vraag>
+      <vraag nummer="3">Wilt u uiteenzetten op welke gronden het volgens u kennelijk mogelijk is, dat een minister een dergelijke staatsbegrafenis op persoonlijke titel bijwoont? </vraag>
+      <vraag nummer="4">Heeft de Nederlandse regering een uitnodiging gehad om op ministers– niveau vertegenwoordigd te zijn? Zo ja, wat waren de overwegingen om die af te slaan? Zo neen, wat zou de reden kunnen zijn dat anderen (onder andere de Franse premier Rocard) wel zijn uitgenodigd? landse regering aanwezig is, maar als privé-persoon? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Zie o.a. Algemeen Dagblad en Trouw van 28 augustus jl,</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1"> t/m  5 De herbegrafenis van Allende droeg niet het karakter van een staatsbe– grafenis. Zij werd georganiseerd door de particuliere Stichting Salvador Allende. Tijdens de ceremonie werd onder meer gesproken door de huidige president van Chili, Aylwin. De uitnodiging aan de Nederlandse regering is toegestuurd aan zowel de minister van Buitenlandse Zaken, de minister van Financiën als aan de minister voor Ontwikkelingssamen– werking. De beide eerstgenoemden hebben hieraan geen gevolg kunnen geven in verband met andere verplichtingen. De minister voor Ontwikkelingssamenwerking heeft de regering vertegenwoordigd, en dit gecombineerd met besprekingen met leden van de Chileense regering in het kader van de ontwikkelingssa– menwerking. Op welke wijze zal duidelijk zijn, dat de minister voor Ontwikkelingssa– menwerking niet namens de Neder– </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

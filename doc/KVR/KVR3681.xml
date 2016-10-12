@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Gabor (CDA) over het mogelijk decoderen van mobilofoongesprekken. (Ingezonden 9 mei 1996); Antwoord</item>
+         <item attribuut="Bestand">14Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR3681
+</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van het artikel 'Mobilofoons van politie worden toch gedecodeerd' in de Volkskrant van 3 mei 1996.</item>
+         <item attribuut="Rubriek">Communicatie, media en informatievoorziening (Telecommunicatie) Criminaliteit en openbare orde (Politie) Strafrecht en strafprocesrecht (Overig)</item>
+         <item attribuut="Trefwoorden">Delicten Mobiele radio Politie</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 1996-1997, nr. 21, Tweede Kamer</item>
+         <item attribuut="Afkomstig_van">Binnenlandse Zaken</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Gabor</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1996-09-18</item>
+         <item attribuut="Datum_indiening">1996-05-09</item>
+         <item attribuut="Document-id">KVR3681</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1996–1997" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="41" allpagenumbers="41" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1996–1997, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 1996"/>
+      <vraagdata vraagnummer="21" onderwerp="" indiendatum="1996-05-9">
+         <vrager partij="CDA" oorsprong="parlement">Gabor</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="18 september 1996) Zie ook aanhangsel handelingen nr. 1231, vergaderjaar 1995–1996.">
+         <antwoorder functie="minister" ministerie="Binnenlandse Zaken">Dijkstal</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1" voetnoot="1">Kent u het artikel «mobilofoons van politie worden toch gedecodeerd»? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Heeft de Amsterdamse politie tijdens een huiszoeking, cassettebandjes aangetroffen met de «vertaling» van gedecodeerde mobilofoongesprekken van politieberichten? </vraag>
+      <vraag nummer="3">Zo ja, is hier sprake van een incident, dan wel van het systematisch decoderen door onbevoegden van politie-informatie? </vraag>
+      <vraag nummer="4">Wat zijn de gevolgen van dergelijke afluisterpraktijken voor het politiewerk? </vraag>
+      <vraag nummer="5">Welke maatregelen bent u van plan te nemen? </vraag>
+      <vraag nummer="6">Is er geen reden tot het versneld aansluiting zoeken bij het defensie informatie-netwerk (NAFIN), waardoor in ieder geval een deel van de politie communicatie niet meer kwetsbaar is? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1996-05-3" bron="Volkskrant">Volkskrant, 3 mei 1996</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1">Het artikel is bekend. </antwoord>
+      <antwoord nummer="2/3">De Amsterdamse politie heeft in 1995 inderdaad opnamebanden aangetroffen en in beslag genomen met daarop gedecodeerde mobilofoongesprekken van recherche-onderdelen. Ten aanzien van de kwaliteit van de huidige beveiligingsapparatuur mag er niet vanuit worden gegaan dat sprake is van een «incident». De apparatuur zal dan ook worden vervangen. </antwoord>
+      <antwoord nummer="4">Vooralsnog is niet bekend op welke schaal de beveiligde mobilofoongesprekken zijn afgeluisterd en wat met de aldus verkregen informatie is gebeurd. </antwoord>
+      <antwoord nummer="5">Voor de goede orde wordt opgemerkt dat de afgeluisterde gecodeerde berichten werden verzonden via het zogenaamde «crypto»-systeem en dat dit systeem de komende maanden wordt vervangen door modernere techniek. Met de aanschaf van de nieuwe apparatuur is de communicatie van mobilofoongesprekken van recherche-onderdelen veiliggesteld. Volgens de mij bekende informatie zal het vervangingstraject nog voor het einde van het jaar zijn afgerond. Ik heb de Korpsbeheerders van de Nederlandse politie gewezen op de risico’s van het gebruik van de bestaande apparatuur en verzocht het lopende vervangingstraject zo spoedig mogelijk af te ronden. Lopende het vervangingstraject zal het gebruik van de bestaande apparatuur zoveel als mogelijk worden beperkt. </antwoord>
+      <antwoord nummer="6">De relatie met het NAFIN-netwerk is niet aanwezig. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

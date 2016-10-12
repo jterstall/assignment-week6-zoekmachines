@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="zullen worden beantwoord." aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19931994:0001359</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001359&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001359</item>
+         <item attribuut="Document-id">0000003870</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 145</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid M.M. van der Burg (PvdA) over een reële rentevergoeding voor leningen van woningbedrijven.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 145</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">145</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">M.M. van der Burg</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-10-21</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Heerma</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-11-19</item>
+         <item attribuut="Beginpagina">293</item>
+         <item attribuut="Eindpagina">294</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="293" allpagenumbers="293" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="145" onderwerp="een reële rentevergoeding voor leningen van wnningbedrijven." indiendatum="1993-10-21">
+         <vrager partij="PvdA" oorsprong="parlement">M.M. van der Burg</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1">Moeten gemeenten vanaf 1 januari 1991 een reële rentevergoeding betalen voor een geldlenmg van hun eigen woningbedrijf met het oog op verzelfstandiging of privatisering van deze woningbedrijven? </vraag>
+      <vraag nummer="2">Wordt per gemeente een verschillend beleid in dezen gevoerd? Vertoont het toezichthoudend beleid van de Provinciale Directies van de Volkshuisvesting grote verschillen per provincie en gemeente? </vraag>
+      <vraag nummer="3">Acht u het juist, dat de situatie van vóór 1 januari 1991, waar veelal geen sprake was van een reële rentevergoeding voor leningen, glijdend overgaat naar een situatie waarin dit wel het geval moet zijn? </vraag>
+      <vraag nummer="4">Zou het niet juist zijn om deze overgangsperiode voor de verschillende gemeenten ongeveer op dezelfde wijze te laten verlopen, door bijvoorbeeld de jaarlijkse rente overal met eenzelfde percentage te laten stijgen totdat een reële (markt)rente is bereikt? Waarom zijn voor deze overgangssituatie op uw ministerie geen richtlijnen vastgesteld teneinde enige rechtsgelijkheid te scheppen tussen de verschillende gemeenten? </vraag>
+      <vraag nummer="6">Wat is de gang van zaken als gemeenten en de betreffende Provinciale Directie voor de Volkshuisvesting van mening blijven verschillen over de wijze waarop het overgangsbeleid wordt uitgevoerd, zoals bij de gemeente Eemnes het geval is? Zijn er op dit punt verschillen als het woningbedrijf verzelfstandigd of geprivatiseerd wordt of opgaat in een reeds bestaande woningbouwvereniging? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+   <mededeling mededeler="Heerma" functie="staatssecretaris" afdeling="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer" mededelingdatum="1993-11-19">Mededeling van staatssecretaris Heerma (Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer). (Ontvangen 19 november 1993) Naar aanleiding van Uw brief van 22 oktober jl., deel ik U mede dat het mij niet mogelijk is gebleken de schriftelijke vragen van het lid M. M. van der Burg binnen de gestelde termijn te beantwoorden. De reden van de vertraging is gelegen in het feit dat voor beantwoording nog ambtelijk overleg gaande is. Ik zal er overigens voor zorgdragen, dat de vragen zo spoedig mogelijk </mededeling>
+</kvr>

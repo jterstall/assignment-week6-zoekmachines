@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001175</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001175&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001175</item>
+         <item attribuut="Document-id">0000011479</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 244</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Mulder-van Dam en Beinema (beiden CDA) over een verzoek van alle vijftien noordelijke galerieën tot toelating tot de renteaankoopsubsidieregeling.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 244</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">244</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Mulder-van Dam</persoon>
+            <persoon partij="CDA">Beinema</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-11-26</item>
+         <item attribuut="Beantwoorder">
+            <persoon>D'Ancona</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-12-21</item>
+         <item attribuut="Beginpagina">501</item>
+         <item attribuut="Eindpagina">502</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="501" allpagenumbers="501" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstra.it 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="244" onderwerp="een verzoek van alle vijftien noordelijke galerieën tot toelating tot de renteaankoopsubsidieregeling." indiendatum="1992-11-26">
+         <vrager partij="CDA" oorsprong="parlement">Mulder-van Dam</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Beinema</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-12-21">
+         <antwoorder functie="minister" ministerie="Welzijn, Volksgezondheid en Cultuur">D'Ancona</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Zijn alle vijftien noordelijke galerieën, die voor de periode 1993-1994 toelating verzocht hebben tot de renteaankoopsubsidieregeling, in eerste instantie afgewezen? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Welke criteria zijn toegepast om de kwaliteit van de aanvragende galerieën vast te stellen? </vraag>
+      <vraag nummer="3">Is ook rekening gehouden met het spreidingscriterium? Zo ja, hoe? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1992-11-23" bron=" Nieuwsblad van het Noorden"> Nieuwsblad van het Noorden, 23 november 1992</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">- Neen. De 15 toelatingsverzoeken zijn door de Raad voor de Kunst getoetst aan de criteria zoals vastgelegd in de Toelatingsregeling Galeries van 9 juli 1990, kenmerk K/BKU 446/1. - De artistieke kwaliteit van deze jaarprogramma's is aanleiding geweest tot een selectie van 6 galenes die in kwalitatieve zin als tweede prioriteit zijn gewaardeerd. - In heb alle galeries waarover positief advies is uitgebracht tot de Kunstaankoopregeling 1993-1994 kunnen toelaten binnen het budget dat mij daarvoor ter beschikking staat. Dit geldt ook voor de 6 galeries uit de vier noordelijke provincies. </antwoord>
+      <antwoord nummer="2">De Toelatingsregeling Galeries van 9 juli 1990, kenmerk K/BK U 446/1 geeft in artikel 3 de procedure aan voor de Raad voor de Kunst aan welke zeven punten een toelatingsverzoek dient te worden getoetst. De Raad voor de Kunst heeft tot taak te beoordelen of de artistieke kwaliteit van het jaarprogramma van de aanvrager van voldoende belang is voor de hedendaagse beeldende kunsten. Zij doet dit op basis van het documentatiemateriaal en de door de aanvrager verstrekte gegevens. De betreffende werkgroep van de Raad voor de Kunst komt tot een gezamenlijk oordeel, nadat de meningen van de afzonderlijke leden gehoord zijn en aan elkaar getoetst. </antwoord>
+      <antwoord nummer="3">Ja. Bij mijn streven voorzieningen binnen het kunstenbeleid zo gespreid mogelijk voor de Nederlandse samenleving toegankelijk te maken is de Kunstaankoopregeling uiteraard inbegrepen. Daar waar de kwaliteit van jaarprogramma's van galeries volgens de Raad voor de Kunst een financiële ondersteuning vanuit de Rijksoverheid rechvaardigt zal ik binnen de budgettaire mogelijkheden toelatingsverzoeken voor enig kalenderjaar met een rentesubsidie honoreren. De Raad voor de Kunst heeft bij de keuze rekening gehouden met mijn bedoeld spreidingsbeleid. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19891990:0000935</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0000935&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0000935</item>
+         <item attribuut="Document-id">0000035342</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 16</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Dijkstal (V.D.D.) over een financiële bijdrage aan het project Stadswacht Amsterdam.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 16</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">16</item>
+         <item attribuut="Indiener">
+            <persoon partij="VDD">Dijkstal</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-09-15</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Smit-Kroes</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-09-25</item>
+         <item attribuut="Beginpagina">31</item>
+         <item attribuut="Eindpagina">32</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door da regering gegeven antwoorden"/>
+      <footer firstpaginanummer="31" allpagenumbers="31" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="16" onderwerp="een financiële bijdrage aan het project Stadswacht Amsterdam." indiendatum="1989-09-15">
+         <vrager partij="VDD" oorsprong="parlement">Dijkstal</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1989-09-25">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">Smit-Kroes</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Hebt u een toezegging gedaan aan de Gemeente Amsterdam financieel bij te dragen in het projekt Stads– wacht Amsterdam? Wat was de inhoud van deze toezegging? </vraag>
+      <vraag nummer="3">Bent u bereid op korte termijn deze toezegging gestand te doen? </vraag>
+      <vraag nummer="4">Kan deze bijdrage van de rijksoverheid beschouwd worden als een gedeeltelijke uitvoering van de motie Voorhoeve/De Vries , waarin gepleit wordt voor meer functioneel toezicht ter voorkoming van de veel voorkomende criminaliteit? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"/>
+         <noot nummer="1"> Kamerstuk 20 800 XII, nr. 28</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1 t/m4">Ik heb geen toezegging gedaan een financiële bijdrage te leveren aan het stadswachtersproject van de gemeente Amsterdam. Wel heb ik in september 1988 het idee van een stadswachtersproject ondersteund door dit project onder de aandacht te brengen van mijn collega's van Sociale Zaken en Werkgelegenheid, Justitie en Binnenlandse Zaken. In mijn brief van 29 augustus jl. aan de Wethouder voor het Verkeer en Vervoer van de gemeente Amsterdam heb ik laten weten dat de doelstellingen van het project enerzijds de bestnjdmg van de werkloosheid en anderzijds de preventie van kleine criminaliteit en aandacht voor beheersbaarheid van de openbare ruimte dermate weinig raakvlakken met het beleid van mijn departement hebben dat ik het besteden van V&amp;W-gelden daaraan niet kan verantwoorden. Daarbij heb ik tevens bericht dat ik de kwestie van het financieringsprobleem - gezien de inhoudelijke raakvlakken - onder de aandacht heb gebracht bij mijn eerdergenoemde collega's. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

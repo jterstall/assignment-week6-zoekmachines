@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0000955</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0000955&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0000955</item>
+         <item attribuut="Document-id">0000011259</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 23</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Leerling (RPF) over de sluiting van de legerplaats Ossendrecht.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 23</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">23</item>
+         <item attribuut="Indiener">
+            <persoon partij="RPF">Leerling</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-09-04</item>
+         <item attribuut="Beantwoorder">
+            <persoon>baron van Voorst tot Voorst</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-09-25</item>
+         <item attribuut="Beginpagina">51</item>
+         <item attribuut="Eindpagina">52</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="51" allpagenumbers="51" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="" onderwerp="" indiendatum="">
+         <vrager partij="RPF" oorsprong="parlement">Leerling</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-09-25">
+         <antwoorder functie="staatssecretaris" ministerie="Defensie">baron van Voorst tot Voorst</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="23">Vragen van het lid Leerling (RPF) over de sluiting van de legerplaats Ossendrecht. (Ingezonden 4 september 1992) </vraag>
+      <vraag nummer="1" voetnoot="1">Kunt u bevestigen, dat de legerplaats Ossendrecht,zal worden gesloten? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Zo ja, erkent u dat de sluiting van deze legerplaats in combinatie met de sluiting van kazernes in Den Bosch, Tilburg en andere militaire complexen negatieve effecten zal hebben op het sociaal-economisch klimaat in Noord-Brabant? Bent u ter compensatie van deze negatieve effecten bereid een nader onderzoek te verrichten naar de verplaatsing van de luchtmobiele brigade van Ede naar het Brabantse en hierover aan de Kamer te rapporteren?  Nederlands Dagblad van 3 september jl. </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"/>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Neen. Als gevolg van de herstructurering en verkleining van de krijgsmacht zal de Koningin Wilhelminakazerne wel een belangrijk deel van haar functies kwijtraken. Er is een studie gaande waarbij de mogelijkheden en kosten van een eventuele herbelegging worden onderzocht. Sluiting van de kazerne wordt daarbij niet uitgesloten. </antwoord>
+      <antwoord nummer="2">Sluiting van legerplaatsen heeft uiteraard enige sociaal-economische gevolgen voor de directe omgeving. In het geval van Ossendrecht is er echter in dezelfde regio, op de vliegbasis Woensdrecht, sprake van uitbreiding van activiteiten. Op dit moment kan nog geen juist beeld worden gegeven van het netto sociaal-economisch effect voor de regio. </antwoord>
+      <antwoord nummer="3">Aan de locatie van de huisvesting voor de luchtmobiele brigade worden op ruimtelijk gebied twee belangrijke eisen gesteld: een geschikt oefenterrein van minstens 1.000 hectare in de directe omgeving en de nabijheid van een militair luchtvaartterrein voor oefeningen en inzet van de brigade. De locatie Ossendrecht voldoet niet aan deze eisen. Er is onvoldoende oefenterrein in de buurt (630 ha). Bovendien is al toegezegd dat een deel van het terrein (140 ha) aan het militair gebruik zal worden onttrokken. Ook zouden er ingrijpende inrichtingsmaatregelen (boskap e.d.) moeten worden uitgevoerd om het terrein geschikt te maken voor oefeningen met de luchtmobiele brigade. De drill-oefeningen en de vliegveiligheidstrainingen met de helikopters van de brigade zijn niet in te passen in het gebruik van de vliegbasis Woensdrecht, waardoor ook niet aan de tweede eis kan worden voldaan. Daarnaast voldoet de accommodatie van de Koningin Wilhelminakazerne niet aan de normen voor legering van de eenheden van de luchtmobiele brigade. Om deze redenen zal geen nader onderzoek naar de verplaatsing van de brigade naar Ossendrecht worden uitgevoerd. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

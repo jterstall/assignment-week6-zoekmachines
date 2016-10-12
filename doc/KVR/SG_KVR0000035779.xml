@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="5">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001372</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001372&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001372</item>
+         <item attribuut="Document-id">0000035779</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 450 Herdruk</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Quint-Maagdenberg (P.v.d.A) over Europaklassen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 450 Herdruk</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">450 Herdruk</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Quint-Maagdenberg</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-02-21</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Ritzen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-03-15</item>
+         <item attribuut="Beginpagina">905</item>
+         <item attribuut="Eindpagina">906</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegaven antwoorden"/>
+      <footer firstpaginanummer="905" allpagenumbers="905" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="450" onderwerp="Europaklassen." indiendatum="1990-02-21">
+         <vrager partij="PvdA" oorsprong="parlement">Quint-Maagdenberg</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-03-15">
+         <antwoorder functie="minister" ministerie="Onderwijs en Wetenschappen">Ritzen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1">Is u bekend, dat jaarlijks in Alden– Biezen (België) Europaklassen worden georganiseerd, die bedoeld zijn om leerlingen uit het voortgezet onderwijs van 4 EG-landen kennis te laten maken met het fenomeen EG? </vraag>
+      <vraag nummer="2">Zo ja, wat vindt u van dit initiatief om jongeren dichter bij het toekomstig Europa te brengen? </vraag>
+      <vraag nummer="3">Bestaat er een soortgelijk initiatief in Nederland? Zo ja, waar? </vraag>
+      <vraag nummer="5">Zo neen, bent u dan van mening, dat dit soort aktiviteiten belangrijk zijn? </vraag>
+      <vraag nummer="6">Bent u voornemens, indien u het belang van een dergelijk initiatief onderkent, actie te ondernemen teneinde in ons land soortgelijke Europaklassen te doen organiseren, opdat meer Nederlandse leerlingen uit het voortgezet onderwijs een soortgelijke Europese bewust– wording kunnen ondergaan? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1">Ja. Het is een interessant initiatief dat serieuze aandacht verdient. </antwoord>
+      <antwoord nummer="3">Een dergelijk initiatief is mij in Nederland niet bekend. Wel is er een initiatief van Euregio (Luik, Aken, Maastricht) om in 1990 soortgelijke klassen te organiseren, die echter alleen open staan voor scholen uit deze regio. </antwoord>
+      <antwoord nummer="4">Zie3. </antwoord>
+      <antwoord nummer="5">Ja. </antwoord>
+      <antwoord nummer="6">Ik ben voornemens het idee van Europaklassen zoals georganiseerd in Alden-Biezen (België) voor te leggen aan het op te richten Europees platform van het Neder– lands onderwijs. Het zou één van de uitwerkingen kunnen zijn van ideëen omtrent «1991: een Europees jaar van het onderwijs», waarmee ik wil bevorderen dat scholen in 1991 extra aandacht besteden aan het thema Europa. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

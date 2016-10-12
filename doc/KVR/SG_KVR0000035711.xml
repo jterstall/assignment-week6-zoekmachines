@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001304</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001304&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001304</item>
+         <item attribuut="Document-id">0000035711</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 382</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Tommel en Eisma (beiden D66) over voor bacteriologische oorlogvoering geschikte organismen en toxinen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 382</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">382</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Tommel</persoon>
+            <persoon partij="D66">Eisma</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-01-31</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-03-07</item>
+         <item attribuut="Beginpagina">769</item>
+         <item attribuut="Eindpagina">770</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="769" allpagenumbers="769 770" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="382" onderwerp="voor bacteriologische oorlogvoering geschikte organismen en toxinen." indiendatum="31 januarï 1990">
+         <vrager partij="D66" oorsprong="parlement">Tommel</vrager>
+         <vrager partij="D66" oorsprong="parlement">Eisma</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-03-7">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">Van den Broek</antwoorder>
+         <mede-antwoorder>de ministers van Volkshuis– vesting, Ruimtelijke Ordening en Milieubeheer en van Economische Zaken</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Beschikt het ministerie van Buiten– landse Zaken over lijsten waarop voor bacteriologische oorlogvoering geschikte organismen en toxinen zijn vermeld alsmede de landen die geïnteresseerd zouden zijn in het verwerven van deze organismen en toxinen? Zo ja, waartoe dienen deze lijsten? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2" voetnoot="2">Heeft de rijksoverheid geen, dan wel onvoldoende inzicht in de aanwe– zigheid van deze en andere <voetnoot nummer="2"/>organismen in Nederlandse bedrijven en laboratoria, noch in de beveiliging van deze laboratoria tegen spionage en diefstal, noch in eventuele trans– porten van de betreffende organismen? </vraag>
+      <vraag nummer="3">Is het niet gewenst, dat het werken met deze organismen en toxinen aan een vergunningstelsel wordt gebonden, waardoor het misbruik ervan ten behoeve van de produktie van biologische wapens kan worden tegengegaan? Kan hiervoor de Wet milieugevaarlijke stoffen worden benut? </vraag>
+      <vraag nummer="4">Is eind 1989 door een Nederlands bedrijf een fermentator aan Iran geleverd, die kan worden gebruikt voor de produktie van biologische wapens?  Over welke middelen beschikt de overheid om de export van organismen en toxinen, welke kunnen worden gebruikt bij biolo– gische oorlogvoering, alsmede apparatuur om deze organismen en toxinen te produceren, te verhin– deren? Moet deze situatie bevre– digend worden geacht? Zo neen, welke actie zal worden ondernomen? Hoe moet met betrekking tot deze problematiek de situatie in andere geïndustrialiseerde landen worden ingeschat? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="3"/>
+         <noot nummer="1"> Brandpunt van 26 januari jl</noot>
+         <noot nummer="2"> Te denken valt hierbij aan oorspronkelijk onschadelijke organismen die via genetische manipulatie tot de risicogroep zijn gaan behoren</noot>
+         <noot nummer="3" datum="1990-01-30" bron=" Veronica Nieuwsradio"> Veronica Nieuwsradio, 30 januari 1990</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Het ministerie beschikt over een voor intern gebruik opgestelde lijst van een aantal potentiële biologische strijdmiddelen en toxinewapens. Deze lijst is opgesteld op basis van gegevens uit de open literatuur. Er bestaat op het ministerie geen lijst met de in de vraag bedoelde landen. </antwoord>
+      <antwoord nummer="2">Het werken met organismen en toxinen die mede geschikt kunnen zijn voor biologische oorlogsvoering valt onder de Hinderwet, vanwege het feit dat deze werkzaamheden gevaar, schade of hinder buiten de inrichting kunnen veroorzaken. Een ieder die werkt met deze organismen en toxinen in een labora– torium of een bedrijf heeft voor die inrichting een Hinderwetvergunning nodig. Het verlenen van deze vergunning is de bevoegdheid van de gemeente of de provincie. De rijksoverheid speelt hierin wel een rol, maar heeft deson– danks geen systematisch inzicht in de aanwezigheid van deze organismen en stoffen in die inrich– tingen, noch in de beveiliging van deze laboratoria. </antwoord>
+      <antwoord nummer="3">Het is op grond van de Uitvoe– ringswet Verdrag Biologische Wapens (Stb. 1981, 187) verboden om biologische agentia, te ontwik– kelen, te produceren of in voorraad te hebben indien men weet of redelijkerwijs moet vermoeden dat deze zijn of zullen worden bestemd voor het gebruik als strijdmiddel. Zoals onder vraag 2 is geantwoord, is het werken met dergelijke organismen en toxinen en stoffen gebonden aan het vergunningstelsel van de Hinderwet. De Hinderwet is echter niet bedoeld ter voorkoming van misbruik er van ten behoeve van de produktie van biologische wapens. Overwogen wordt een meldingssysteem in het leven te roepen op basis van de Wet milieu– gevaarlijke stoffen, waarbij het werken met deze organismen en toxinen zal moeten worden gemeld aan een aan te wijzen bevoegde instantie of instanties. Dit meldings– door het Uitvoerbesluit Strategische Goederen van 1963. Dit besluit verbiedt in post 0007 en 0018 de uitvoer van stoffen en apparatuur, speciaal ontworpen en bestemd voor de produktie van biologische wapens alsmede de verspreidingsapparatuur voor die wapens, zonder vooraf– gaande toestemming van de minister van Economische Zaken. Overigens verbiedt de Uitvoeringswet Verdrag Biologische wapens in artikel 2 de ontwikkeling produktie, aankoop en bezit van biologische agentia indien men weet of redelijkerwijs moet vermoeden dat deze zijn of zullen worden bestemd om als strijdmiddel te worden gebruikt In die gevallen, waarin het Uitvoerbesluit Strate– gische Goederen niet van toepassing is, doch waarbij niettemin twijfels zijn gerezen over de bedoelingen van de eindgebruiker ten aanzien van de geleverde goederen, wordt in nauw overleg tussen het ministerie van Buitenlandse Zaken en het ministerie van Economische Zaken een geval– tot-geval-benadering gevolgd wanneer het erom gaat bepaalde transacties te ontmoedigen of te ontraden. Momenteel Is een brief in voorbe– reiding, die aan relevante bedrijven en instituten in Nederland zal worden verzonden en waarin wordt gewezen op de risico's van mogelijk misbruik van een groot aantal voor vreedzame doeleinden bestemde produkten. Tegelijkertijd is met het ministerie van Economische Zaken overleg gaande over de opstelling van een zgn. waarschuwingslijst van de meest relevante stoffen en apparatuur. Bovendien wordt in overleg met genoemd ministerie bezien in </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

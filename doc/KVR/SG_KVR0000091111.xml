@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19881989:0001512</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001512&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001512</item>
+         <item attribuut="Document-id">0000091111</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1988-1989 nummer 508</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Korthals (V.V.D.) over vernielingen van schilderijen in Dordrecht.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1988-1989 nummer 508</item>
+         <item attribuut="Jaargang">1988_1989</item>
+         <item attribuut="Vraagnummer">508</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Korthals</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-04-05</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Korthals Altes</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-05-02</item>
+         <item attribuut="Beginpagina">1019</item>
+         <item attribuut="Eindpagina">1020</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 8 - 1 9 8 9 " typehandeling="" typedoc=""/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 8 - 1 9 8 9 ,  A a n h a n g s e l " filenaam="" issn-nummer="ISSN 0921 • 7398 " uitgever="SDU uitgeverij 's-Gravenhage 1989 "/>
+      <vraagdata vraagnummer="508" onderwerp="vernielingen van schilderijen in Dordrecht." indiendatum="5 april 1989)">
+         <vrager partij="VVD" oorsprong="parlement">Korthals</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 ">Hebt u kennis genomen van de feiten  en omstandigheden rond de ernstige  vernielingen van schilderijen in  Dordrecht op  2 9 maart jl.7  </vraag>
+      <vraag nummer="2 ">Was in dit geval voorlopige hechtenis  mogelijk geweest?  </vraag>
+      <vraag nummer="3 ">Zo neen, bent u van mening, dat voor  dergelijke ernstige delicten wel  voorlopige hechtenis opgelegd moet  kunnen worden?  </vraag>
+      <vraag nummer="4 ">Zo ja, bent u bereid te bevorderen,  dat het Wetboek van Strafrecht dan  wel het Wetboek van Strafvordering  in dier voege wordt gewijzigd, dat  voorlopige hechtenis kan worden  opgelegd bij misdrijven, waarbij  goederen en of zaken van waarde  opzettelijk worden vernield?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

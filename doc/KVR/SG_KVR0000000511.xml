@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19941995:0000511</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000511&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000511</item>
+         <item attribuut="Document-id">0000000511</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1994-1995 nummer 177</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Poppe (SP) over het aanbestedingsbesluit openbaar vervoer.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1994-1995 nummer 177</item>
+         <item attribuut="Jaargang">1994_1995</item>
+         <item attribuut="Vraagnummer">177</item>
+         <item attribuut="Indiener">
+            <persoon partij="SP">Poppe</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-11-09</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Jorritsma-Lebbink</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-11-16</item>
+         <item attribuut="Beginpagina">355</item>
+         <item attribuut="Eindpagina">356</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1994-1995" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="355" allpagenumbers="355" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1994-1995, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="'s Gravenhage 1994"/>
+      <vraagdata vraagnummer="177" onderwerp="het aanbestedingsbesluit openbaar vervoer." indiendatum="1994-11-9">
+         <vrager partij="SP" oorsprong="parlement">Poppe</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-11-16">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">Jorritsma-Lebbink</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Kent u het artikel «Kanttekeningen bij aanbestedingsbesluit openbaar vervoer» over de aanbesteding in een tweetal gebieden in Zeeland en Zuid-Limburg? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Bent u het met het KNV Openbaar Vervoer eens, dat de verplichting om gebruikelijke arbeidsvoorwaarden toe te passen voor meerdere uitleg vatbaar is en tot concurrentie op arbeidsvoorwaarden kan leiden? Zo ja, acht u dit acceptabel? </vraag>
+      <vraag nummer="3">Welke middelen hebt u om de nadelige gevolgen voor passagiers, zoals vaker overstappen en het vervallen van aansluiting, te voorkomen? </vraag>
+      <vraag nummer="4">Worden aan inschrijvende bedrijven eisen gesteld met betrekking tot de toegankelijkheid voor gehandicapten? </vraag>
+      <vraag nummer="5">Bent u bereid aan ondernemingen die in Zeeland en Zuid-Limburg het vervoer gaan verzorgen eisen te stellen om bepaalde arbeidsvoorwaarden en kwaliteitseisen te garanderen? Zo ja, welke? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Nederlands Vervoer, nr. 15/1994</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Nee. Welke de gebruikelijke arbeidsvoorwaarden zijn, is aan partijen bij de CAO. De bepaling in het informatiepakket bij de aanbesteding van het openbaar vervoer, dat de vervoerder de in Nederland gebruikelijke arbeidsvoorwaarden dient toe te passen, is met name ingegeven vanuit het besef, dat mogelijkerwijs een in het buitenland gevestigde vervoeronderneming opde Nederlandse markt wil gaan opereren. In dat geval zou wellicht op de vervoersmarkt een ongewenste verstoring van de concurrentieverhoudingen kunnen optreden, als wordt afgeweken van de landelijk gemaakte CAO-afspraken. Door het opnemen van de vermelde bepaling in het informatiepakket wordt deze situatie vermeden. Ik ga er nog steeds vanuit dat het aanbod dat als beste uit de procedure naar voren komt zowel kwantitatief als kwalitatief een verbetering van het openbaar vervoer voor de reizigers is. Het is in het belang van zowel de vervoerders als de reizigers om eventuele overstappen/aansluitingen zo goed mogelijk te maken. Vandaar dat als één van de beoordelingscriteria bij de aanbesteding is opgenomen «het aantal en de belangrijkheid van de aangeboden dienstregelingenaansluitingen». Door de openstelling van de centrale vervoeras in Maastricht voor een deel van het interlokale openbaar vervoer is overigens aan de vervoerders de gelegenheid geboden om na het NS-station door te rijden naar het centrum. Hierdoor vervalt een overstap voor interlokale reizigers met bestemming centrum. </antwoord>
+      <antwoord nummer="4">Nee. De van toepassing zijnde ministeriële regeling netnormering betekent dat een vervoerbedrijf recht heeft op een kostentoeslag voor het bieden van voorzieningen ten behoeve van verbetering van de toegankelijkheid van het openbaar vervoer. Deze gelden zijn uitsluitend bestemd om </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

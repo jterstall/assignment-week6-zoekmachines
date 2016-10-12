@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Nader antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19891990:0001022</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001022&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001022</item>
+         <item attribuut="Document-id">0000035429</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 102</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Weisglas en E.G. Terpstra (beiden V.V.D.) over een financiële bijdrage aan De Rode Halve Maan van Palestina ten behoeve van de bijscholing van Palestijnse verpleegkrachten.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 102</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">102</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Weisglas</persoon>
+            <persoon>E.G.Terpstra</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-09-26</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Bukman</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-11-02</item>
+         <item attribuut="Beginpagina">211</item>
+         <item attribuut="Eindpagina">211</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="211" allpagenumbers="211" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 921 7398" uitgever="SDU uitgeverij 's Gravenhage 1989"/>
+      <vraagdata vraagnummer="102" onderwerp="een financiële bijdrage aan De Rode Halve Maan van Palestina ten behoeve van de bijscholing van Palestijnse verpleegkrachten." indiendatum="1989-09-26">
+         <vrager partij="VVD" oorsprong="parlement">Weisglas</vrager>
+         <vrager partij="" oorsprong="parlement">E.G.Terpstra</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2 november 1989) In aanvulling op de antwoorden op de vragen van de leden Weisglas en E. G. Terpstra en het lid Leerling', met betrekking tot de voorgenomen steunverlening aan het Verpleeg– kunde Instituut van de Palestijnse Rode Halve Maan, heb ik de eer u te berichten, dat de aanvraag inmiddels is goedgekeurd. in afwijking van het in genoemde antwoorden gestelde, is - na zorgvuldige beoordeling van de begroting - gebleken, dat het benodigde bedrag niet f 1,6 miljoen doch f 1,9 miljoen voor vier jaar bedraagt.">
+         <antwoorder functie="" ministerie="Ontwikkelingssamen– werking"/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1" voetnoot="1">Hebt u 1,2 miljoen gulden ter beschikking gesteld van «De Rode Halve Maan van Palestina» ten behoeve van de bijscholing van Palestijnse verpleegkrachten? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Kan en zal deze hulp op een zodanige wijze ter beschikking worden gesteld, dat u kunt garan– deren, dat deze hulp volledig ten goede komt aan het humanitaire doel waar ze voor bestemd is? Is hier adequate controle op mogelijk? </vraag>
+      <vraag nummer="3">Op welke wijze en waar zal dit geschieden? </vraag>
+      <vraag nummer="4" voetnoot="1">Waarom hebt u thans besloten om humanitaire hulp ten behoeve van Palestijnen ook via de Palestijnse Rode Halve Maan ter beschikking te stellen en niet langer uitsluitend via de Verenigde Naties en/of het Rode Kruis? Hebt u de ontvangers van deze hulp duidelijk gemaakt, dat het hier om humanitaire ontwikkelingshulp gaat en dat het ter beschikking stellen daarvan aan de Palestijnse Rode Halve Maan op generlei wijze Neder– landse erkenning van een «Pales– tijnse staat» inhoudt en dat de Pales– tijnse Rode Halve Maan door Nederland uitsluitend als humanitaire organisatie en equivalent van het Rode Kruis wordt beschouwd en niet als «ministerie van volksgezondheid van een Palestijnse staat»? <voetnoot nummer="1"/> Zie het NRC Handelsblad van 23 september jl. Vragen van het lid Leerling (R.P.F.) over een financièle bijdrage aan De Rode Halve Maan van Palestina ten behoeve van de bijscholing van Palestijnse verpleegkrachten. (Ingezonden 26 september 1989) </vraag>
+      <vraag nummer="1" voetnoot="1">Kan worden aangegeven of het project «bijscholing van Palestijnse verpleegkrachten» betrekking heeft op verpleegkrachten, die werken in de Gazastrook of op de westelijke Jordaanoever? <voetnoot nummer="1"/>Is het u bekend, dat ook het Israëlische Rode Kruis Magen Adom David trainingen heeft verzorgd om de hulp aan slachtoffers in die gebieden te verbeteren? </vraag>
+      <vraag nummer="3">Overweegt de Nederlandse regering nu ook het Israëlische Rode Kruis Magen Adom David financieel te steunen en de (internationale) erkenning van deze organisatie te bevorderen? Deze vragen dienen als aanvulling op eerdere vragen terzake van de leden Weisglas en E. G. Terpstra, ingezonden 26 september 1989. </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Zie het NRC-Handelsblad van 23 september jl</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Zie Aanhangsel Handelingen nr. 53 en 54, Vergaderjaar 1989-1990</noot>
+      </noten>
+   </antwoorden>
+</kvr>

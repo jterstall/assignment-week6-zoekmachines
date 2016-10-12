@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19851986:0001747</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001747&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001747</item>
+         <item attribuut="Document-id">0000115307</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1985-1986 nummer 827</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Evenhuis en Voorhoeve (beiden V.V.D.) en De Boer (C.D.A.) over een Afghaanse luchtaanval op Pakistaans grondgebied.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1985-1986 nummer 827</item>
+         <item attribuut="Jaargang">1985_1986</item>
+         <item attribuut="Vraagnummer">827</item>
+         <item attribuut="Indiener">
+            <persoon>Evenhuis</persoon>
+            <persoon>Voorhoeve</persoon>
+            <persoon>De Boer</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-05-21</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-06-16</item>
+         <item attribuut="Beginpagina">1643</item>
+         <item attribuut="Eindpagina">1644</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1985-1986 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 5 - 1 9 8 6 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="827" onderwerp="een Afghaanse luchtaanval op Pakistaans grondge- bied." indiendatum="21 mei 1986)">
+         <vrager partij="" oorsprong="parlement">Evenhuis</vrager>
+         <vrager partij="" oorsprong="parlement">Voorhoeve</vrager>
+         <vrager partij="" oorsprong="parlement">De Boer</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="16 juni 1986)">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">Van den Broek</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1 ">Kan de minister bevestigen, dat op of  omstreeks 18 mei jl. vanuit Afghanis- tan een luchtaanval op doelen,  waaronder Afghaanse vluchtelingen- kampen, op Pakistaans grondgebied  is uitgevoerd door vliegtuigen van de  Sovjetrussisch-Afghaanse lucht- macht?  Wil de minister meedelen, hoeveel  van zulke aanvallen sinds 1980  hebben plaatsgevonden en wat de  ernst en omvang daarvan was?  </vraag>
+      <vraag nummer="3 ">Is de minister bereid deze schending  van het grondgebied, het luchtruim  en de soevereiniteit van Pakistan op  korte termijn in de EPS aan de orde  te stellen en de regering van de  USSR en het bewind in Kaboel mee  te delen dat Nederland resp. de  EPS-partners deze aanval scherp  veroordelen?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1 ">Ook mij hebben berichten bereikt  over een aanval vanuit de lucht, 17  mei jl., in de nabijheid van de  grensplaats Teri Mengal. Of deze  was gericht tegen een vluchtelingen- kamp danwei tegen Afghaanse  verzetsgroepen, heb ik evenwel niet  kunnen vaststellen.  </antwoord>
+      <antwoord nummer="2 ">Sedert begin 1980 tot eind mei 1986  werden 1204 schendingen van het  Pakistaanse luchtruim geteld. Daarbij  vielen, voor zover bekend, 175 doden  (vluchtelingen en Pakistani) alsmede  267 gewonden.  Daarnaast vinden in toenemende  mate schendingen plaats van het  Pakistaanse grondgebied.  </antwoord>
+      <antwoord nummer="3 ">Schendingen als de onderhavige  hebben in EPS-kader de voortdurende  aandacht en plegen tegenover de  betrokken partijen door de Nederland- se Regering en de overige lidstaten  van de Europese Gemeenschap in  alle duidelijkheid te worden veroor- deeld.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

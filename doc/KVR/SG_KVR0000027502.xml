@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Nader antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001165</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001165&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001165</item>
+         <item attribuut="Document-id">0000027502</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 232</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van Rijn-Vellekoop (P.v.d.A.) over de gestegen rente-inkomsten van de banken door het betalingsverkeer.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 232</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">232</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Van Rijn-Vellekoop</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-10-02</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Kok</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-12-17</item>
+         <item attribuut="Beginpagina">467</item>
+         <item attribuut="Eindpagina">468</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="467" allpagenumbers="467" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU mtgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="232" onderwerp="de gestegen rente-inkomsten van de banken door het betalingsverkeer." indiendatum="1990-10-2">
+         <vrager partij="PvdA" oorsprong="parlement">Van Rijn-Vellekoop</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="17 december 1990). In de zesde vraag van het Kamerlid Van Rijn-Vellekoop, mij toegezonden met uw brief van 3 oktober 1990 werd gevraagd wanneer de Tweede Kamer de vervolgrapportage over de problematiek van het betalings– verkeer tegemoet kan zien. In de mede namens de Staatssecre– taris van Economische Zaken bij brief van 11 oktober 1990 gegeven antwoord">
+         <antwoorder functie="" ministerie="Financiën"/>
+         <mede-antwoorder>de staats– secretaris van Economische Zaken</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Hebt u kennis genomen van de berichten over de gestegen rente– inkomsten van de banken door het betalingsverkeer?' Is door de niet-uitbetaalde rente de positie van het betalingsverkeer dermate verbeterd, dat de alom verkondigde verliesgevendheid daarvan niet of nauwelijks meer aanwezig is? </vraag>
+      <vraag nummer="3">Ziet u reden bij uw gesprekken met banken, gebruikersplatform en consumentenorganisaties de voorge– nomen tarifering ter discussie te stellen op grond van deze nieuwe feiten? Acht u de mogelijkheid aanwezig via de nu ontstane ruimte tariefstelling te beperken of te voorkomen? </vraag>
+      <vraag nummer="5">Kunt u aangeven welke invloed het akkoord over de onderlinge verre– kening tussen banken heeft op de afzonderlijke situaties van die banken en op hun rekeninghouders? Wanneer kan deze Kamer de vervolgrapportage over deze proble– matiek tegemoet zien? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1990-09-29" bron=" De Volkskrant"> De Volkskrant, 29 september 1990</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Zie Aanhangsel Handelingen nr 66, verga– derjaar 1990-1991</noot>
+      </noten>
+   </antwoorden>
+</kvr>

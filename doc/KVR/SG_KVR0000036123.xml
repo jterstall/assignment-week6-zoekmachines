@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001716</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001716&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001716</item>
+         <item attribuut="Document-id">0000036123</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 792</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Lansink en Smits (beiden C.D.A.) en De Pree (P.v.d.A.) over het conceptgeneesmiddelenvergoedingensysteem.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 792</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">792</item>
+         <item attribuut="Indiener">
+            <persoon>Lansink</persoon>
+            <persoon>Smits</persoon>
+            <persoon>De Pree</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-06-15</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Simons</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-07-16</item>
+         <item attribuut="Beginpagina">1599</item>
+         <item attribuut="Eindpagina">1600</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1599" allpagenumbers="1599 1600" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN0921 - 7398" uitgever="SDU uitgeverij 's-Gravenhage 1989"/>
+      <vraagdata vraagnummer="792" onderwerp="het conceptgenees– middelen vergoedingensysteem." indiendatum="15juni 1990">
+         <vrager partij="" oorsprong="parlement">Lansink</vrager>
+         <vrager partij="" oorsprong="parlement">Smits</vrager>
+         <vrager partij="" oorsprong="parlement">De Pree</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="16juli 1990">
+         <antwoorder functie="staatssecretaris" ministerie="Weizijn, Volksgezondheid en Cultuur">Simons</antwoorder>
+         <mede-antwoorder>de staats– secretaris van Economische Zaken</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1" voetnoot="1 2">Is namens u op 1 juni j I aan de vergunninghouders <voetnoot nummer="1"/> een brief gestuurd met daarin een nadere toelichting <voetnoot nummer="2"/> op het concept-genees– middelenvergoedingensysteem (GVS), zoals dat eerder was toege– zonden aan artsen en apothekers? </vraag>
+      <vraag nummer="2">Wordt in het concept-GVS-formu– larium, zoals dit aan de artsen en apothekers is gestuurd, vooralsnog de gemiddelde prijs binnen een groep als limietvergoeding gehan– teerd, terwijl in de nadere toelichting is bepaald, dat de pnjs van het dichtstbijzijnde produkt onder het gemiddelde als limietvergoeding zal gelden? </vraag>
+      <vraag nummer="3" voetnoot="3">Kunnen daardoor produkten die in het ontwerp-formularium niet van een sterretje zijn voorzien bij een juiste toepassing alsnog zo'n kenmerk krijgen met als gevolg een onjuiste indruk bij patiënten en artsen? Waarom is deze brief pas na de UCV over de geneesmiddelen van 28 mei jl. verstuurd? Aan wie en in welk aantal is deze brief verzonden? Betekent de in vraag 1 bedoelde nadere toelichting, dat de uitgangs– punten van uw brief van 30 maart 1990 <voetnoot nummer="3"/> en uw stellingname in het debat op 28 mei j.l. anders worden, aangezien in de brief en tijdens het debat gesuggereerd is, dat artsen voldoende keuzemogelijkheden behouden bij de prescriptie van geneesmiddelen zonder dat bijbe– taling nodig is? </vraag>
+      <vraag nummer="6">Waarom is het concept-GVS met toelichting wel toegezonden aan artsen en apothekers (ca. 25 000 a 30000 personen), terwijl de nadere toelichting slechts is gestuurd aan (enkele honderden) vergunning– houders? Kunnen daardoor de eventuele reacties vanuit de professie (artsen en apothekers) een vertekend beeld opleveren? </vraag>
+      <vraag nummer="8">Hebben de vergunninghouders het concept-GVS (nog) niet ontvangen? Indien dat wel het geval is ontvingen zij dit zonder de daarbij behorende toelichting? </vraag>
+      <vraag nummer="9">Is het concept-GVS pas op vrijdag voorafgaande aan het debat op 28 mei 1990 verstuurd, terwijl het eerder beschikbaar was? </vraag>
+      <vraag nummer="10">Heeft inmiddels al overleg plaats gevonden met de bij de geneesmid– delenvoorziening betrokken partijen? Zo ja, met welk resultaat? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Vergunninghouders krachtens de Wet op de geneesmiddelenvoorziening</noot>
+         <noot nummer="2"> De nadere toelichting houdt in. dat het aantal produkten waarvoor moet worden bijbetaald groter wordt dan werd aange– geven Indien moet worden bijbetaald, gaat het om een hoger bedrag dan aanvankelijk door de presentatie van het concept-formu– larium werd gesuggereerd</noot>
+         <noot nummer="3"> Kamerstuk21 500, nr. 1</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1"> t/m  5 Uit telefonische reacties, die ons na 27 mei jl. bereikten, bleek dat een aantal vergunning-houders, de Ontwerp-Regeling farmaceutische hulp ziekenfondsverzekering onvol– doende had bestudeerd en zich concentreerde op de ontwerp-bijlage 5 daarvan, zijnde de lijst van genees– middelen, vallende onder het geneesmiddelenvergoedingssysteem (GVS). Op 1 juni jl. is aan de 382 vergunninghouders een brief gezonden, waarin op een viertal technische aandachtspunten betref– fende de Ontwerp-Regeling farma– ceutische hulp ziekenfondsverze– kering werd gewezen. Deze brief brengt geen verandering in de zakelijke inhoud van de Ontwerp– Regeling. In de Toelichting bij die Ontwerp-Regeling is immers onder het hoofd «Uitgangspunten» bij punt 15 bepaald: «de vergoedingslimiet door de gegeven presentatie niet alsnog zo'n kenmerk krijgen. Van een onjuiste indruk bij patiënten en artsen kan derhalve geen sprake zijn. Daaraan zij toegevoegd, dat uit inmiddels ontvangen commentaren van medische specialisten, huisartsen, apothekers en van het bedrijfsleven blijkt dat op sommige punten in de (sub)groepsindelingen verdere verfijningen wenselijk zijn. Dergehjke verfijningen kunnen leiden tot verdere vermindering van het aantal produkten dat in deze concept-fase van een sterretje is voorzien. In de uitgangspunten van mijn brief dd. 30 maart 1990 en mijn stellingname in het debat van 28 mei jl. komt derhalve geen verandering. De nadere toelichting bevat slechts enkele bijzonderheden die specifiek voor de vergunninghouders van belang zijn. </antwoord>
+      <antwoord nummer="7">Neen. </antwoord>
+      <antwoord nummer="8">De Ontwerp-Regeling farmaceu– tische hulp ziekenfonds-verzekering is gepubliceerd in de Staatscourant en is bij brief van 1 jum jl. aan de vergunninghouders toegezonden. </antwoord>
+      <antwoord nummer="9">Neen. Het is bij de eerst mogelijke gelegenheid verstuurd. Het groot aantal geadresseerden maakte overigens spreiding van de verzending over enkele dagen onver– mijdelijk. </antwoord>
+      <antwoord nummer="10">Met enige van de meest betrokken partijen (artsen; apothekers; </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

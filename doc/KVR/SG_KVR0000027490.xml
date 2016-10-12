@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001153</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001153&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001153</item>
+         <item attribuut="Document-id">0000027490</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 220</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Willems (Groen Links) over het besluit Taakverlichting Alleenstaande Werkenden.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 220</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">220</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Willems</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-11-12</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Ter Veld</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-12-05</item>
+         <item attribuut="Beginpagina">443</item>
+         <item attribuut="Eindpagina">444</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="443" allpagenumbers="443" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 738x" uitgever="SOU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="220" onderwerp="het besluit Taakver– lichting Alleenstaande Werkenden." indiendatum="12 november 1990).">
+         <vrager partij="Groen Links" oorsprong="parlement">Willems</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1">Is het u bekend, dat het besluit Taakverlichting Alleenstaande Werkenden (TAW) niet van toepassmg is voor WSW-werknemers? Bent u het eens met het GAK, dat WSW-werknemers uitgesloten zijn van werkvoorzieningen, dus ook van de vergoeding voor huishoudelijke hulp in het kader van de AAW? </vraag>
+      <vraag nummer="3">Acht u het aanvaardbaar, dat de TAW-vergoeding niet kan worden verstrekt aan WSW-werknemers? Zo ja, waarom? In welke mate verschillen oudere alleenstaande WSW-ers van andere alleenstaande werknemers? </vraag>
+      <vraag nummer="1">Inmiddels is mij dit gebleken uit enkele brieven van WSW-werknemers en mede door deze vragen. </vraag>
+      <vraag nummer="2">Ja, althans voor zover het betreft werkvoorzieningen alsmede de vergoeding krachtens het Besluit taakverlichting alleenstaande werken /TAW. WSW-werknemers kunnen wel een beroep doen op het Besluit gezinsverzorging en hulphoudelijke hulp/Algemene Arbeidsongeschikt– heidswet. </vraag>
+      <vraag nummer="3">Neen. </vraag>
+      <vraag nummer="4">Ja. Hiertoe zal ik een gerichte adviesaanvrage aan de SVr zenden. Bent u bereid zo nodig de regel– geving zodanig te wijzigen, dat ook WSW-werknemers toegang krijgen tot de TAW-vergoeding? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

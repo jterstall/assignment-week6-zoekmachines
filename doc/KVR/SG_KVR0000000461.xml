@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19941995:0000461</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000461&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000461</item>
+         <item attribuut="Document-id">0000000461</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1994-1995 nummer 127</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Poppe (SP) over de elektriciteitsproduktie.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1994-1995 nummer 127</item>
+         <item attribuut="Jaargang">1994_1995</item>
+         <item attribuut="Vraagnummer">127</item>
+         <item attribuut="Indiener">
+            <persoon partij="SP">Poppe</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-09-14</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Wijers</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-10-27</item>
+         <item attribuut="Beginpagina">255</item>
+         <item attribuut="Eindpagina">256</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1994-1995" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="255" allpagenumbers="255 256" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1994-1995, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1994"/>
+      <vraagdata vraagnummer="127" onderwerp="de elektriciteitsproduktie." indiendatum="1994-09-14">
+         <vrager partij="SP" oorsprong="parlement">Poppe</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-10-27">
+         <antwoorder functie="minister" ministerie="Economische Zaken">Wijers</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Kent u de inhoud van het artikel «Stroom veel te duur»? <voetnoot nummer="1"/>Kunt u een overzicht geven van de toename van elektriciteitsproduktie door toepassing van warmte– krachtkoppeling bij de industrie? </vraag>
+      <vraag nummer="3">Hoeveel overcapaciteit aan elektrisch vermogen is in Nederland in totaal opgesteld? </vraag>
+      <vraag nummer="4">Zal deze overcapaciteit de elektriciteitstarieven voor kleinverbruikers verhogen? </vraag>
+      <vraag nummer="5">Hoeveel subsidie is er tot nu toe verstrekt aan bedrijven voor de bouw van warmtekrachtinstallaties? Bent u van plan een einde te maken aan deze subsidiestroom en een betere afstemming te bewerkstelligen tussen restwarmteverwerking en elektriciteitsproduktie via conventionele elektriciteits– opwekking? </vraag>
+      <vraag nummer="1"/>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja. Het startjaar van de subsidieregeling voor de bouw van warmtekrachtinstallaties in 1988. De onderstaande tabel geeft allereerst een overzicht van de elektriciteitsproduktie door warmtekrachteenheden (WK) bij de industrie vanaf dat jaar. De produktie van de industriële warmtekrachteenheden betreft zowel elektriciteit geproduceerd ten behoeve van het eigen verbruik van de industrie als aan het openbare net teruggeleverde elektriciteit. Daarnaast wordt een overzicht gegeven van het opgestelde warmtekrachtvermogen in de industrie en van alle sectoren tezamen. Uit het overzicht blijkt dat het industriële warmtekrachtvermogen de laatste jaren ücht is toegenomen. Daarbij dient een aantal opmerkingen te worden gemaakt. Ten eerste is een deel van de industriële warmtekrachteenheden van de laatste jaren aan te merkten als vervangingsinvesteringen. Het totale warmtekrachtvermogen is bovendien sneller toegenomen dan het vermogen in de industrie. Er zijn immers ook in andere sectoren projecten tot stand gekomen, zoals in de elektriciteitssector en in de tuinbouw. Tot slot dient nog te worden vermeld dat in alle sectoren veel projecten in aanbouw zijn, danwel dat er concrete plannen bestaan. Voor het centrale en decentrale vermogen tezamen gaat het daarbij om circa 4000 WM. Daarmee zou hettotale warmtekrachtvermogen op bijna 8000 MW komen. 1988 1989 1990 1991 1992 1993 WK-produktie industrie (GWh) 10000 9700 9840 9850 10810 11320 opgesteld WK-vermogen industrie (MWe) 1805 </antwoord>
+      <antwoord nummer="1" voetnoot="1 2"> 804 1857 1941 2008 2050 totaal opgesteld WK-vermogen (MWe) 2833 3211 3300 3447 3600 3854* voorlopige cijfers betere kostensignalen worden gegeven aan de markt. De tariefstructuur en de daarvan afgeleide terugleververgoeding zal worden aangepast. Het is de bedoeling van de elektriciteitssector dat de terugleververgoeding niet langer zal zijn gebaseerd op kostencategorieën die slechts van betekenis zijn voor de produktiesector zelf zoals bijvoorbeeld kosten voor onderzoeken ontwikkeling. Daarover moet natuurlijk nog overleg plaatsvinden met belanghebbenden. Tevens zal het door distributiebedrijven af te nemen vermogen van het centrale produktiepark in contracten worden vastgesteld. Dit betekent dat het betreffende distributiebedrijf zelf de verantwoordelijkheid draagt voor eventueel aanbod bovenop de gecontracteerde hoeveelheid vermogen. Dit draagt bij aan het voorkomen van een ongewenst overschot. Tot slot hebben de partijen alle toekomstige projecten van zowel de centrale produktiesector als van de decentrale sector laten inventariseren door onafhankelijke derden. Recent hebben deze daarover advies uitgebracht aan de elektriciteitssector (zie bijlage) <voetnoot nummer="1"/>. In een eerste fase van hun werkzaamheden is aan de hand van accountantsverklaringen onderzocht of ten aanzien van voorgenomen projecten al bindende verplichtingen waren aangegaan. In die fase is een projectenbestand beoordeeld met een totaal vermogen van bijna 5000 MW. Mede op grond van deze inventarisatie is rond 900 MW aan oorspronkelijk voorgenomen capaciteit komen te vervallen, vermogensoverschot te beperken door te proberen sommige projecten aan te passen en/of twee a drie jaar naar de toekomst te verschuiven. Na de eeuwwisseling bestaat immers weer behoefte aan nieuw vermogen. Bij dit alles merk ik op dat het overgrote deel van de maatregelen neerslaat in de centrale produktiesector. In de decentrale sfeer gaat het naar huidig zicht om het wegvallen van niet meer dan circa 44 WM. Overigens is de discussie hierover nog gaande. Wat betreft het aanpassen/verschuiven in detijd ligt ook het zwaarste accent op de centrale produktiesector. Het gaat in totaal om een zestal projecten met een totaal vermogen van ruim 1500 MWe. Ik acht het van groot belang dat de betrokken partijen constructief medewerking verlenen aan deze aanpassing/verschuiving. Overigens zal door al dit soort maatregelen - waarover partijen trouwens nog moeten overleggen met belanghebbenden, waardoor niet zeker is of ze volledig worden gerealiseerd - het vermogensoverschot niet helemaal verdwijnen. Uitgaande van de veronderstelling dat de totale stroomvraag jaarlijks met 2% stijgt, zal dit wel rond de eeuwwisseling het geval kunnen zijn. De door warmtekracht te bereiken energiebesparing in het jaar 2000 blijft door bovengenoemde maatregelen dus in stand. Dit is van groot belang voor de meerjarenafspraken en voor de realisatie van de doelstellingen in de Vervolgnota Energiebesparing, ondermeer inhoudende het bereiken van 8000 MW elektriciteitsproduktie via conventionele installaties, kan met name worden verwezen naar het Tweede Structuurschema Elektriciteitsvoorziening <voetnoot nummer="2"/>. Hierin staat vermeld dat Sep bij de bouw van nieuwe aardgaseenheden primair dient te kijken naar de mogelijkheden om de restwarmte te benutten. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Ter inzage gelegd bij de afdeling Parlementaire Documentatie</noot>
+         <noot nummer="2"> Kamerstuk 22 606</noot>
+      </noten>
+   </antwoorden>
+</kvr>

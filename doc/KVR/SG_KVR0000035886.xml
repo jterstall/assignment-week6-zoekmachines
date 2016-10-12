@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="door Justitie?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001479</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001479&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001479</item>
+         <item attribuut="Document-id">0000035886</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 557</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Linschoten (V.V.D.) over normen voor aangifte van uitkeringsfraudes.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 557</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">557</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Linschoten</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-03-28</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Hirsch Ballin</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-04-24</item>
+         <item attribuut="Beginpagina">1121</item>
+         <item attribuut="Eindpagina">1122</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1121" allpagenumbers="1121" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgeverij VGravenhage 1990"/>
+      <vraagdata vraagnummer="557" onderwerp="normen voor aangifte van uitkeringsfraudes." indiendatum="1990-03-28">
+         <vrager partij="VVD" oorsprong="parlement">Linschoten</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Hebt u kennis genomen van het bericht over het voorstel van wethouder Martini van de gemeente Den Haag om de normen voor aangifte van uitkeringsfraudes bij Justitie te verhogen? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Bent u op de hoogte van het feit dat de gemeenten Den Haag, Amsterdam en Rotterdam niet kunnen voldoen aan de normen zoals deze ten aanzien van de aangifte van uitkeringsfraude zijn gesteld? </vraag>
+      <vraag nummer="5"/>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" datum="1990-03-26" bron=" ANP-bericht"> ANP-bericht, 26 maart 1990</noot>
+      </noten>
+   </antwoorden>
+   <mededeling mededeler="Hirsch Ballin" functie="minister" afdeling="Justitie" mededelingdatum="1990-04-24">Mededeling van minister Hirsch Ballin (Justitie), mede namens de staatssecretaris van Sociale Zaken en Werkgelegenheid. (Ontvangen 24 april 1990) Met verwijzing naar uw brief van 29 maart 1990 deel ik u mede namens de staatssecretaris van Sociale Zaken en Werkgelegenheid mee dat de vragen van het lid van uw Kamer over normen voor aangifte van uitke– ringsfraude niet binnen de gebrui– kelijke termijn kunnnen worden beantwoord, omdat ik nog niet beschik over alle benodigde inlich– tingen. Ik streef ernaar u voor begin mei mijn antwoord te doen toekomen. Kunt u aangeven of het hier om een incident gaat of dat nog meer gemeenten deze norm niet kunnen halen? Zijn er bij u soortgelijke verzoeken binnengekomen om de normen voor aangifte van uitkeringsfraude te verhogen? 5 Kunt u een indicatie geven van de tijd die verloopt tussen aangifte van de uitkeringsfraude en vervolging </mededeling>
+</kvr>

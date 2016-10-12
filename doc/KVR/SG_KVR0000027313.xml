@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0000976</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0000976&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0000976</item>
+         <item attribuut="Document-id">0000027313</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 45 Herdruk</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Lankhorst (Groen Links) over tariefsverhoging door de Nederlandse Spoorwegen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 45 Herdruk</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">45 Herdruk</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Lankhorst</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-09-26</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Maij-Weggen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-10-04</item>
+         <item attribuut="Beginpagina">93</item>
+         <item attribuut="Eindpagina">94</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="93" allpagenumbers="93" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 'i Gravenhage 1989"/>
+      <vraagdata vraagnummer="45" onderwerp="tariefsverhoging door de Nederlandse Spoorwegen." indiendatum="1990-09-26">
+         <vrager partij="Groen Links" oorsprong="parlement">Lankhorst</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="4 oktober 1990) 1 , 2 e n 4 Voor de beantwoording van deze vragen verwijs ik u kortheidshalve naar mijn brief van 2 oktober 1990.' 3 De uitslagen boven de 3,5% zijn het gevolg van een beleidsmatige en bedrijfsmatige differentiatie in de verhoging. Bedrijfsmatig is belangrijk dat de differentiatie leidt tot een min of meer sluitend financieel plaatje, dus niet tot meer tekorten in de exploitatie. Beleidsmatig Is belangrijk dat de prijsaanpassing niet leidt tot onnodige vraaguitval c.q. tot een terugkeer van de treinreiziger naar de auto. Aangezien de dalreiziger veel gevoeliger reageert op prijsver– hoging dan de spitsreiziger, wordt door de voorgestelde differentiatie de uitval tot het minimum beperkt. De berekende uitval bedraagt ca. 0,4% op de autonome groei van 6 a 7%. De voorstellen passen derhalve in de beoogde beperking van de automobiliteit en de C0 2 doelstelling. 5 NS is een naamloze vennootschap, waarvan de aandelen in handen van de Staat zijn. NS biedt een maatschappelijke belangrijke dienst, die zonder Rijksbijdrage zeker niet in de huidige omvang mogelijk zou zijn. De bijzondere relatie tussen de Rijks– overheid en NS die hieruit voortvloeit komt tot uitdrukking in wet– en regel– geving, waaronder de zogenaamde VRONS (Verhouding RO-NS). In deze verhouding is vastgelegd dat de overheid het tariefniveau vaststelt, en dat NS voorstellen doet en invulling daarvan, met differen– tiaties per kaartsoort. Hierbij spelen bedrijfseconomische overwegingen een rol, zoals verwoord in antwoord op vraag 3. Dat NS een monopoliepositie heeft is eensdeels waar; dat geldt overigens in zeer vele Europese landen voor het railvervoer. Ander– zijds is op de totale mobiliteitsmarkt echter sprake van concurrentie. Het regeerakkoord onderkent dat bij de passage over kosten van het gebruik van openbaar vervoer en de auto. Indien de NS een uitsluitend commerciële organisatie zou zijn zou de prijsstelling en bedrijfsvoering zeker anders zijn dan nu.">
+         <antwoorder functie="minister" ministerie="Verkeer en Water– staat">Maij-Weggen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Wat is uw oordeel over de wijze waarop de Nederlandse Spoorwegen de tariefsverhoging van 3,5% heeft ingevuld? </vraag>
+      <vraag nummer="2">Acht u het aanvaardbaar, dat de weekabonnementen gemiddeld 6,5% duurder worden en de NS-jaarkaart zelfs meer dan 10% in prijs omhoog gaat? </vraag>
+      <vraag nummer="3">Sporen zulke tariefsverhogingen met de beoogde beperking van de automobiliteit en met de CCh-doelstelling van het kabinet? </vraag>
+      <vraag nummer="4">Wat vindt u van het argument van de NS, dat de spits een schaarste is en dat voor schaarste moet worden betaald? Deelt u de mening, dat de publieke functie en de monopoliepositie van de NS andere eisen stellen aan de bedrijfsvoering en de prijsstelling dan die van een louter private onder– neming? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="3" voetnoot="2">De uitslagen boven de 3,5% zijn het gevolg van een beleidsmatige en bedrijfsmatige differentiatie in de verhoging. Bedrijfsmatig is belangrijk dat de differentiatie leidt tot een min of meer sluitend financieel plaatje, dus niet tot meer tekorten in de exploitatie. Beleidsmatig Is belangrijk dat de prijsaanpassing niet leidt tot onnodige vraaguitval c.q. tot een terugkeer van de treinreiziger naar de auto. Aangezien de dalreiziger veel gevoeliger reageert op prijsver– hoging dan de spitsreiziger, wordt door de voorgestelde differentiatie de uitval tot het minimum beperkt. De berekende uitval bedraagt ca. 0,4% op de autonome groei van 6 a 7%. De voorstellen passen derhalve in de beoogde beperking van de automobiliteit en de C0 <voetnoot nummer="2"/> doelstelling. </antwoord>
+      <antwoord nummer="5" voetnoot="1">NS is een naamloze vennootschap, waarvan de aandelen in handen van de Staat zijn. NS biedt een maatschappelijke belangrijke dienst, die zonder Rijksbijdrage zeker niet in de huidige omvang mogelijk zou zijn. De bijzondere relatie tussen de Rijks– overheid en NS die hieruit voortvloeit komt tot uitdrukking in wet– en regel– geving, waaronder de zogenaamde VRONS (Verhouding RO-NS). In deze verhouding is vastgelegd dat de overheid het tariefniveau vaststelt, en dat NS voorstellen doet en invulling daarvan, met differen– tiaties per kaartsoort. Hierbij spelen bedrijfseconomische overwegingen een rol, zoals verwoord in antwoord op vraag 3. Dat NS een monopoliepositie heeft is eensdeels waar; dat geldt overigens in zeer vele Europese landen voor het railvervoer. Ander– zijds is op de totale mobiliteitsmarkt echter sprake van concurrentie. Het regeerakkoord onderkent dat bij de passage over kosten van het gebruik van openbaar vervoer en de auto. Indien de NS een uitsluitend commerciële organisatie zou zijn zou de prijsstelling en bedrijfsvoering zeker anders zijn dan nu. <voetnoot nummer="1"/> Ter inzage gelegd op de bibliotheek </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

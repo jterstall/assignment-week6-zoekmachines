@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="4">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19941995:0000636</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000636&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000636</item>
+         <item attribuut="Document-id">0000000636</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1994-1995 nummer 302</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Sipkes (GroenLinks) over aanmeldcentra voor asielzoekers.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1994-1995 nummer 302</item>
+         <item attribuut="Jaargang">1994_1995</item>
+         <item attribuut="Vraagnummer">302</item>
+         <item attribuut="Indiener">
+            <persoon partij="GroenLinks">Sipkes</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-12-21</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Schmitz</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-12-22</item>
+         <item attribuut="Beginpagina">609</item>
+         <item attribuut="Eindpagina">610</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1994-1995" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="609" allpagenumbers="609" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1994-1995, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's-Gravenhage 1994"/>
+      <vraagdata vraagnummer="302" onderwerp="aanmeldcentra voor asielzoekers." indiendatum="1994-12-21">
+         <vrager partij="GroenLinks" oorsprong="parlement">Sipkes</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-12-22">
+         <antwoorder functie="staatssecretaris" ministerie="Justitie">Schmitz</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Voldoet de 24-uurs opvang in de aanmeldcentra niet aan de eisen van humanitaire opvang? Verblijven de meeste asielzoekers drie of vier dagen in de centra, terwijl er noch maaltijdvoorzieningen, nog adequate verblijfsruimten zijn en mensen onder bewaking moeten worden gelucht? </vraag>
+      <vraag nummer="3">Deelt u de zorg, dat de situatie zowel voor asielzoekers als voor hulpverleners tot onhoudbare spanningen zal leiden? </vraag>
+      <vraag nummer="4">Bent u bereid alles in het werk te stellen om zo spoedig mogelijk te zorgen voor adequate opvang voor deze asielzoekers? </vraag>
+      <vraag nummer="5">Bent u tevens bereid het resultaat van deze inspanning nog deze week aan de Kamer te laten weten? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">De 24-uurs opvang in de aanmeldcentra behoren uiteraard aan de eisen van humaniteit te voldoen. We! wordt erkend dat e.e.a. in de afgelopen dagen rond het weekend onder spanning heeft gestaan. </antwoord>
+      <antwoord nummer="2">Ten gevoige van capaciteitsproblemen in de opvang heeft een aantal asielzoekers de afgelopen week noodgedwongen langer dan 24 uur in de aanmeldcentra moeten verblijven. De bestaande maaltijdvoorzieningen zijn aan deze tijdelijke situatie aangepast en er is voor zorggedragen dat iedere asielzoeker over slaapgelegenheid kon beschikken. Mogelijkheid tot luchten is geboden onder toezicht. </antwoord>
+      <antwoord nummer="3">Uitgangspunt is dat de asielzoekers niet langer dan 24 uur in een AC verblijven. Mochtzich onverhoopt een situatie voordoen dat het verblijf langer moet duren dan zal alles in het werk worden gesteld om spanningen te voorkomen en de doorstroming naar de opvang op het vereiste niveau te brengen om de 24-uurs termijn weer te halen. </antwoord>
+      <antwoord nummer="4 en 5">Ja, zeer zeker. Door extra inspanningen is heden het probleem weer onder controle. Voor de nabije toekomst wordt in de opvang van extra noodvoorzieningen gebruik gemaakt, terwijl in samenspraak met het Centraal Orgaan Opvang Asielzoekers de planning van de opvang ook voor de langere termijn opnieuw zal worden besproken. Zie ook vraag 3. Ik betreur de problemen die zich in het afgelopen weekend hebben voorgedaan en heb mij daarom heden persoonlijk in Rijsbergen van de gang van zaken op de hoogte gesteld. Ik ben ook van plan persoonlijk te blijven toezien op de gang van zaken in de aanmeldcentra en ook overigens in de centrale opvang. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

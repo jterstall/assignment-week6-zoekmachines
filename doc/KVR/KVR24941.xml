@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Hermans (LPF) aan minister van Verkeer en Waterstaat over de toename van files rond de 80-kilometervakken. (Ingezonden 27 januari 2006); Antwoord</item>
+         <item attribuut="Bestand">16Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR24941
+</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van een bericht in De Telegraaf van 25 janauri 2006. Is de minister bereid deze snelheidsbeperkingen terug te draaien als blijkt dat de files inderdaad toenemen?</item>
+         <item attribuut="Rubriek">Verkeer, vervoer en waterstaat (Verkeersveiligheid)</item>
+         <item attribuut="Trefwoorden">Verkeersveiligheid Woon-werkverkeer</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2005-2006, nr. 904, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2050607110</item>
+         <item attribuut="Afkomstig_van">Verkeer en Waterstaat (VW)</item>
+         <item attribuut="Indiener">
+            <persoon partij="LPF">Hermans</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2006-02-14</item>
+         <item attribuut="Datum_indiening">2006-01-27</item>
+         <item attribuut="Document-id">KVR24941</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2005–2006" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1915" allpagenumbers="1915" vetnummer="2050607110" code="0506tkkvr904" lopendefooter="Tweede Kamer, vergaderjaar 2005–2006, Aanhangsel" filenaam="KVR24941" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2006"/>
+      <vraagdata vraagnummer="904" onderwerp="" indiendatum="2006-01-27">
+         <vrager partij="LPF" oorsprong="parlement">Hermans</vrager>
+         <vraagt-aan>minister van Verkeer en Waterstaat</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2006-02-14">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">Peijs</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Bent u bekend met het bericht <voetnoot nummer="1"/>dat uit onderzoek van De VerkeersInformatieDienst (VID) blijkt dat de files rond de 80-kilometervakken zijn toegenomen? Zo ja, wat is uw reactie hierop? </vraag>
+      <vraag nummer="2">Stroken de waarnemingen in het artikel met de waarnemingen van Rijkswaterstaat? Zo neen, wat zijn de verschillen en hoe vallen deze te verklaren? </vraag>
+      <vraag nummer="3">Bent u bereid de invoering van de vakken terug te draaien als files verder toenemen? Zo ja, bij welke toename? Zo neen, waarom niet? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="2006-01-25" bron="De Telegraaf">De Telegraaf, 25 januari 2006</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja, ik ben bekend met het persbericht dat de VID 25 januari 2006 heeft uitgedaan over de effecten van de 80-kilometervakken op de doorstroming. Op 1 november heb ik op vier trajecten een snelheidsverlaging ingevoerd vanwege de luchtkwaliteitsproblematiek ter plekke. De door de VID gemeten periode (6 weken na invoering) acht ik te kort om conclusies te trekken over de effecten van de maatregel op doorstroming en luchtkwaliteit. Het weer, de gewenning van de weggebruiker, alsook het nog niet volledig in werking zijn van de trajectcontrolesystemen zijn factoren die van invloed zijn geweest op de doorstroming in die periode. </antwoord>
+      <antwoord nummer="2">Rijkswaterstaat (Adviesdienst Verkeer en Vervoer) houdt een monitor bij waarin maandelijks de filegegevens op de vier 80km-zones worden afgezet tegen het landelijke beeld. Deze registraties geven over de door de VID gemeten periode hetzelfde beeld als de cijfers van de VID. De groei van de filezwaarte op de vier 80km-zones samen is in november 2005, vergeleken met oktober 2005, 67%. Op het gehele Nederlandse wegennet is toename van de files in dezelfde periode 61%. Deze buitengewoon sterke toename heeft vooral te maken met een omslag van het weer (met name de weersomstandigheden op vrijdag 25 november 2005). Dit verklaart mede waarom in de perceptie van de weggebruikers de 80km-zones files genereren </antwoord>
+      <antwoord nummer="3">Als op den duur blijkt dat de files door de genomen maatregel blijvend zijn toegenomen, zal ik de maatregel heroverwegen. Heroverweging is primair afhankelijk van de effecten van de maatregel op de luchtkwaliteit en daarnaast van de effecten op doorstroming, verkeersveiligheid en geluid. Medio 2006 zullen de eerste resultaten van de evaluatie bekend zijn. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

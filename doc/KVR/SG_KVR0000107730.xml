@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001955</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001955&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001955</item>
+         <item attribuut="Document-id">0000107730</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 921</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Lilipaly (P.v.d.A), Te Veldhuis (V.V.D.) en Eversdijk (C.D.A.) over de besluitvorming inzake een vaste oeververbinding Westerschelde.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 921</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">921</item>
+         <item attribuut="Indiener">
+            <persoon>Lilipaly</persoon>
+            <persoon>Te Veldhuis</persoon>
+            <persoon>Eversdijk</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-06-25</item>
+         <item attribuut="Beantwoorder">
+            <persoon>De Korte</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-07-23</item>
+         <item attribuut="Beginpagina">1839</item>
+         <item attribuut="Eindpagina">1840</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 6 - 1 9 8 7 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer,  m e t de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="921" onderwerp="de besluitvor- ming inzake een vaste oeververbin- ding Westerschelde." indiendatum="25 juni 1987)">
+         <vrager partij="" oorsprong="parlement">Lilipaly</vrager>
+         <vrager partij="" oorsprong="parlement">Te Veldhuis</vrager>
+         <vrager partij="" oorsprong="parlement">Eversdijk</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie="Verkeer en Waterstaat a.i."/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 ">Hebt u het (vóór de zomer 1987 uit  te brengen) rapport van de stuur- groep-Barbé al ontvangen? </vraag>
+      <vraag nummer="1 "/>
+      <vraag nummer="2 ">Bent u bereid deze Kamer onmiddellijk  na het verschijnen van dit rapport  kennis te laten nemen van de inhoud  daarvan, teneinde de Kamer tijdig in  de besluitvorming terzake te betrek- ken?  </vraag>
+      <vraag nummer="3 ">Zo ja: bent u bereid om in een  begeleidend schrijven bij het rapport  de Kamer mede te delen, hoe u zich  de verdere besluitvorming voorstelt?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1 ">De stuurgroep-Barbé zal haar  eindrapport naar verwachting eind  september 1987 kunnen voltooien.  Omtrent de haalbaarheid van de  vaste oeververbinding over de  Westerschelde staan thans nog  enige vragen open.  Een aanvullend verkeersonderzoek  dat door de provincie wordt uitge- voerd, speelt daarbij een belangrijke  rol.  Naast het te verwachten verkeersaan- bod zal ook het toltarief bepalend zijn  voor de inkomsten uit de tolheffing  en daarmee voor de haalbaarheid van  een vaste oeververbinding op basis  van private financiering. Eveneens  staan er nog enige vragen open ten  aanzien van het afdekken van  bijkomende financiële gevolgen en  risico's voor het Rijk. Met name  betreft dit de financiële consequenties  van het opheffen van de bestaande  veerdiensten Kruiningen-Perkpolder  en Vlissingen-Breskens.  2 en 3  Zodra het eindrapport beschikbaar is,  zal ik dit de Kamer doen toekomen.  Vervolgens zal ik de Kamer op de  hoogte stellen van mijn voornemens  omtrent de inhoud van het rapport,  waarna het overleg met de Kamer  kan plaatsvinden.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

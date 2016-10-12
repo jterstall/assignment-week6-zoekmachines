@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001593</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001593&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001593</item>
+         <item attribuut="Document-id">0000019979</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 575</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Van Zijl en Huys (beiden PvdA) over het gemeenschappelijk landbouwbeleid.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 575</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">575</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Van Zijl</persoon>
+            <persoon partij="PvdA">Huys</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-04-01</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Bukman</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-05-11</item>
+         <item attribuut="Beginpagina">1209</item>
+         <item attribuut="Eindpagina">1210</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1209" allpagenumbers="1209" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeveri) Plantijnstraat 's-Gravenhage 1992"/>
+      <vraagdata vraagnummer="575" onderwerp="het gemeenschappelijk landbouwbeleid." indiendatum="1992-04-1">
+         <vrager partij="PvdA" oorsprong="parlement">Van Zijl</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Huys</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-05-11">
+         <antwoorder functie="minister" ministerie="Landbouw, Natuurbeheer en Visserij">Bukman</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1">Heeft de staatssecretaris van Landbouw, Natuurbeheer en Visserij tijdens het OESO-overleg van ministers van Landbouw van 27 maart jl. in Parijs gepleit tegen produktiebeperkende maatregelen en voor marktgerichte landbouw?' </vraag>
+      <vraag nummer="2" voetnoot="2">Hebt u kennis genomen van uitspraken van twee top-ambtenaren van uw ministerie over hervormingen van het Europees landbouwbeleid? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="3" voetnoot="3">Hoe verhouden deze pleidooien zich tot de conclusie van de Landbouwraad na de eerste discussieronde over de MacSharry-voorstellen, namelijk dat bij de hervorming van het landbouwbeleid sprake moet zijn van een combinatie van prijsverlaging en produktiebeperking? <voetnoot nummer="3"/>
+      </vraag>
+      <vraag nummer="4" voetnoot="4">Hoe verhouden de pleidooien zich tot de uitspraken van de minister-president, gedaan tijdens het debat in deze Kamer naar aanleiding van de akkerbouwacties in 1990, namelijk «Produktiebeheersing en herstructurering hebben niets te maken met flankerend beleid, ze vormen een kernelement in het beleid. Als je dat niet zo ziet, kom je er niet». <voetnoot nummer="4"/>Duiden beide pleidooien op een wijziging van de Nederlandse beleidsinzet in de discussies in de Landbouwraad over hervorming van het Gemeenschappelijk Landbouwbeleid? </vraag>
+      <vraag nummer="6">Kunt u duidehjkheid verschaffen over uw toekomstige inzet in de Landbouwraad, met name waar het gaat om de verhouding tussen prijsverlaging en produktiebeheersing in de granen, alsmede de hoogte en duur van de inkomenscompensaties? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> ANP-bericht 271716 mrt 92: Landbouw: Parijs-Oeso</noot>
+         <noot nummer="2" datum="1992-03-27" bron=" Oogst"> Oogst, 27 maart 1992, blz. 16-17</noot>
+         <noot nummer="3"> Stenografisch verslag van mondeling overleg met de minister van Landbouw, Natuurbeheer en Visserij, op 6 november 1991 (Tweede Kamer, 21 501-16, nr. 40)</noot>
+         <noot nummer="4" datum="1990-03-8" bron=" Handelingen van de Tweede Kamer der Staten-Generaal, Nr. 47"> Handelingen van de Tweede Kamer der Staten-Generaal, Nr. 47, 8 maart 1990, blz. 2819</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">De Staatssecretaris heeft in Parijs niet gepleit tegen produktiebeperkende maatregelen. Integendeel. In het slotcommuniqué van de vergadering van het OESO-Landbouwcomité op ministerieel niveau is op zijn initiatief over produktiebeheersing de volgende met een onderstreping aangegeven tekstwijziging opgenomen: «Measures to control production have, in some cases, reduced market imbalances, but they have to be applied in an appropriate mix with other policy instruments in order to be able to address the fundamental need for adjustment in agriculture and an improved allocation of resources». In deze tekstwijziging konden alle 24 OESO-landen zich geheel vinden. Een eerdere tekst die negatiever was over produktiebeheersing als instrument voor marktoriëntatie en structurele aanpassing van de landbouw werd daarmee vervangen. </antwoord>
+      <antwoord nummer="2">Uiteraard. </antwoord>
+      <antwoord nummer="3">Deze pleidooien zijn geheel met elkaar in overeenstemming, zoals ook uit de beantwoording van vraag 1 blijkt. </antwoord>
+      <antwoord nummer="4">Ook met de uitspraken van de minister-president in 1990 zijn de pleidooien geheel in overeenstemming. Het gaat om een optimale mix van produktiebeheersing en prijsaanpassing. Daarbij is produktiebeheersing al jarenlang kernelement van het markt– en pnjsbeleid: men denke aan de suiker– en zuivelquota en de bestaande braakleggingsregelingen. overal in de EG maatschappelijk gedragen wordt, en derhalve ook de grootst mogelijke kans op daadwerkelijke toepassing heeft. Zoals bekend levert de toepassing van bijvoorbeeld de melkquotering in diverse lidstaten nogal wat problemen op. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

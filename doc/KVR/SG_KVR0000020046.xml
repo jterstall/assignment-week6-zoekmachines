@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="4">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001660</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001660&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001660</item>
+         <item attribuut="Document-id">0000020046</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 642</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Aanvullende vragen het lid Blauw (VVD) over de aanbestedingsprocedure voor de strandsuppletie aan de noordzeestranden.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 642</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">642</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Blauw</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-05-12</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Maij-Weggen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-06-15</item>
+         <item attribuut="Beginpagina">1347</item>
+         <item attribuut="Eindpagina">1348</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1347" allpagenumbers="1347" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="642" onderwerp="de aanbestedingsprocedure voor de strandsuppletie aan de noordzeestranden." indiendatum="1992-05-12">
+         <vrager partij="VVD" oorsprong="parlement">Blauw</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-06-15">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">Maij-Weggen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Zijn er in het kader van de noodzakelijke strandsuppletie aan de noordzeestranden voor dit jaar werken aan het Duitse bedrijf BBB-Dredging GmbH gegund? </vraag>
+      <vraag nummer="2">Heeft de aanbesteding plaatsgevonden middels in de EG geldende erkende richtlijnen? </vraag>
+      <vraag nummer="3">Kunt u een overzicht geven of er werkvergunningen voor deze werken verleend zijn voor medewerkers buiten de EG en voor welke nationaliteiten? Zo ja, hoeveel? </vraag>
+      <vraag nummer="4">Deelt u de mening, dat indien de in de UAR/EG '91 opgenomen sociale clausule onderbelicht is gebleven, c.q. niet in de besteksvoorwaarden is vermeld er sprake is van concurrentievervalsing ten nadele van het Nederlandse bedrijfsleven? Zo ja, welke maatregelen bent u voornemens te treffen? Toelichting Deze vragen dienen ter aanvulling op de eerdere vragen terzake van de leden Qumt Maagdenberg en Van Gijzel, ingezonden 8 mei 1992. </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Ja. </antwoord>
+      <antwoord nummer="3" voetnoot="1">Zie antwoord op vraag 5 van de leden Quint-Maagdenberg en Van Gijzen. <voetnoot nummer="1"/>
+      </antwoord>
+      <antwoord nummer="4">Mij is de mening, dat van concurrentievervalsing sprake is indien de sociale paragraaf in de bestekken ontbreekt, niet bekend. Ik deel deze mening overigens niet. De in de Europese Coördinatierichtlijn voorgeschreven sociale paragraaf vraagt de inschrijver op het bestek aan te geven, of hij al dan niet rekening heeft gehouden met de ter plaatse geldende voorschriften inzake arbeidsbescherming en arbeidsvoorwaarden. Voorts schrijft de sociale paragraaf volgens het UAR-EG voor in het bestek te vermelden bij welke dienst de inschrijver informatie kan verkrijgen over deze voorschriften. De Rijkswaterstaat verwijst in vanaf 1 januari 1992 opgestelde bestekken naar de Arbeidsinspectie. Voorafgaande aan de gunning van de zandsuppletiewerken aan de Duitse inschrijver is het bedrijf zijdens de Rijkswaterstaat gewezen op de mogelijkheid informatie te verkrijgen van de Arbeidsinspectie en heeft het bedrijf verklaard rekening te hebben gehouden, en te zullen houden, met de in Nederland geldende sociale wetgeving. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Aanhangsel Handelingen nr. 641 (1991-1992)</noot>
+      </noten>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19851986:0001905</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001905&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001905</item>
+         <item attribuut="Document-id">0000115465</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1985-1986 nummer 984</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Eisma en Engwirda (beiden D66) over de aanwezigheid van Iraanse militairen en Iraanse civiele regeringsfunctionarissen in Nederland.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1985-1986 nummer 984</item>
+         <item attribuut="Jaargang">1985_1986</item>
+         <item attribuut="Vraagnummer">984</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Eisma</persoon>
+            <persoon partij="D66">Engwirda</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-08-05</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-09-02</item>
+         <item attribuut="Beginpagina">1959</item>
+         <item attribuut="Eindpagina">1960</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1985-1986 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 5 - 1 9 8 6 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="984" onderwerp="de aanwezigheid van Iraanse militairen en Iraanse civiele regeringsfunctiona- rissen in Nederland." indiendatum="5 augustus 1986)">
+         <vrager partij="D66" oorsprong="parlement">Eisma</vrager>
+         <vrager partij="D66" oorsprong="parlement">Engwirda</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2 september 1986) 1 en 2 Ja. Het betreft een F-27 Fokker burgertoestel van de National Iranian Oil Company (NIOC), dat op 16 april jl. bij de vliegtuigfabriek Fokker op de vliegbasis Woensdrecht gearriveerd is voor een grote onderhoudsbeurt. Dit vliegtuig zal binnenkort weer vertrekken. 3 en 4 Neen, er zijn tijdens het onderhouds- werk alleen een Iraans burgertechnicus en burgerpiloten bij Fokker geweest. Het betreft hier uitsluitend employés van de National Iranian Oil Company (NIOC). Het doel van deze bezoeken was zuiver technisch van aard. Op grond waarvan is aan deze militairen een visum verstrekt? Zijn op dit moment elders in Nederland Iraanse militairen aanwezig, dan wel Iraanse civiele regeringsfunctionaris- sen, daarbij inbegrepen functionaris- sen van de nationale Iraanse lucht- vaartmaatschappij en de nationale Iraanse oliemaatschappij? Zo ja, wat is het doe! van hun aanwezigheid in Nederland? Er zijn geen Iraanse militairen in Nederland aanwezig. Civiele rege- ringsfunctionarissen kunnen binnen geldende toelatingsregelingen Nederland bezoeken. Er zij aan herinnerd dat Nederland als gastland fungeert voor het Iran-US Claims Tribunal.">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">V a n den Broek</antwoorder>
+         <mede-antwoorder>de Minister van Defensie</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 ">Is bij de vliegtuigfabriek Fokker op de  vliegbasis Woensdrecht een Iraanse  Fokker F-27 in onderhoud?'  </vraag>
+      <vraag nummer="2 ">Betreft dit een militair toestel c.q.  een toestel dat gebruikt wordt door  de Iraanse strijdkrachten?  </vraag>
+      <vraag nummer="3 ">Is een aantal Iraanse militairen bij  Fokker op bezoek geweest? Zo ja,  wat was het doel van dit bezoek? </vraag>
+      <vraag nummer="2 "/>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Zie Trouw van 22 juli 1986  ;  Zie Trouw van 1 6 juli jl </noot>
+      </noten>
+   </antwoorden>
+</kvr>

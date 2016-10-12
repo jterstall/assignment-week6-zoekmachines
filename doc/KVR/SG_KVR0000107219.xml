@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001444</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001444&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001444</item>
+         <item attribuut="Document-id">0000107219</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 412</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van Es (P.S.P.) over een mogelijke ruime interpretatie van het ABM-verdrag door de Verenigde Staten.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 412</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">412</item>
+         <item attribuut="Indiener">
+            <persoon partij="PSP">Van Es</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-02-11</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-02-18</item>
+         <item attribuut="Beginpagina">821</item>
+         <item attribuut="Eindpagina">822</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 6 - 1 9 8 7 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="412" onderwerp="een mogelijke ruime interpretatie van het ABM-verdrag door de Verenigde Staten." indiendatum="1 1 februari 1987)">
+         <vrager partij="PSP" oorsprong="parlement">Van Es</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="9">
+      <vraag nummer="1 ">Wat is de reactie van de regering op  de uitspraak van de Amerikaanse  minister van Buitenlandse Zaken  Schultz over de noodzaak van een  ruime interpretatie van het ABM-ver- drag waardoor het ruimte-afweersys- teem SDI al in het begin van de jaren  negentig gedeeltelijk getest en  ingevoerd zou kunnen worden? </vraag>
+      <vraag nummer="1 "/>
+      <vraag nummer="2 ">Herinnert de minister van Defensie  zich zijn uitspraak bij de behandeling  van het deel NAVO van de begroting  van Buitenlandse Zaken voor 1987,  nl. dat «speculaties over een mogelijke  invoering (van SDI) in deze fase van  het onderzoek geen zin hebben»? </vraag>
+      <vraag nummer="2 "/>
+      <vraag nummer="3 ">Zo ja, acht hij de ontwikkeling in de  Verenigde Staten, waar nu sprake  lijkt van een versnelde invoering van  SDI, een dwingende aanleiding om  een duidelijk standpunt van de  Nederlandse regering over de  wenselijkheid van een afweersysteem  in de ruimte te formuleren?  </vraag>
+      <vraag nummer="4 ">Delen de ministers de mening, dat  versnelde invoering van SDI strijdig  is met de ook door de Nederlandse  regering gekozen opstelling, dat het  ABM-verdrag gedurende tien jaar  zou worden nageleefd? </vraag>
+      <vraag nummer="3 ">Kunnen de bewindslieden de  ongerustheid onderschrijven, die ook  bij de Britse regering leeft, dat door  een ruime interpretatie van het  ABM-verdrag en versnelde invoering  van SDI alle hoop voor een wapenbe- heersingsakkoord de bodem zal  worden ingeslagen?  </vraag>
+      <vraag nummer="6 ">Ontstaat door de buitengewoon  afwachtende houding van de  Nederlandse regering niet het reële  gevaar, dat SDI straks (gedeeltelijk)  zal zijn ingevoerd, vóórdat zij haar  standpunt over een afweersysteem in  de ruimte heeft ontwikkeld?  </vraag>
+      <vraag nummer="7 ">Is de regering bereid, zich op zo kort  mogelijk termijn te wenden tot de  Amerikaanse regering om haar  ongerustheid over de voorgenomen  versnelde invoering van SDI over te  brengen?  </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" titel="NRC Handelsblad"> Zie «NRC Handelsblad» van 10 februari j.l. </noot>
+         <noot nummer="2"> Handelingen nr. 12, blz. 1954. </noot>
+         <noot nummer="3"> Verslag mondeling overleg, Kamerstuk  19 700, hoofdstuk V, nr 25. </noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

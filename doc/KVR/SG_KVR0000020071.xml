@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001685</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001685&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001685</item>
+         <item attribuut="Document-id">0000020071</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 667</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Rosenmöller (Groen Links) over illegale arbeid in de Nederlandse metaal-en elektro-industrie.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 667</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">667</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Rosenmöller</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-05-22</item>
+         <item attribuut="Beantwoorder">
+            <persoon>De Vries</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-06-24</item>
+         <item attribuut="Beginpagina">1397</item>
+         <item attribuut="Eindpagina">1398</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1397" allpagenumbers="1397" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverii Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="667" onderwerp="illegale arbeid in de Nederlandse metaal– en elektro-industrie." indiendatum="1992-05-22">
+         <vrager partij="Groen Links" oorsprong="parlement">Rosenmöller</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-06-24">
+         <antwoorder functie="minister" ministerie="Sociale Zaken en Werkgelegenheid">De Vries</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Werken steeds meer Polen en Tsjechen op tijdelijke basis in de Nederlandse metaal– en elektro-industrie? <voetnoot nummer="1"/>Deelt u de mening, dat deze situatie ongewenst is? </vraag>
+      <vraag nummer="3">Bent u van de mening, dat afspraken gemaakt moeten worden omtrent de scholing van werkzoekenden in Nederland, zoals deze vorig jaar ook gemaakt zijn naar aanleiding van de inzet van Joegoslavische werknemers? Zo neen, waarom niet? </vraag>
+      <vraag nummer="4">Verricht een aantal Poolse en Tjechische werknemers illegale arbeid? </vraag>
+      <vraag nummer="5">Zo ja, geeft de DIA aparte aandacht aan het voorkómen van illegale arbeid in genoemde sector? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> De Stem van 7 mei jl</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="8">
+      <antwoord nummer="1">Het aantal Tsjechen en Polen dat in de metaal– en elektrotechnische industrie werkt is als zodanig niet bekend. Voor zover deze personen over een Verklaring ingevolge de WABW beschikken is immers een tewerkstellingsvergunning niet vereist. Wel is het aantal in de afgelopen jaren verstrekte tewerkstellingsvergunningen in deze branche bekend. Dit geeft volgens informatie verstrekt door het CBA het volgende beeld: 1989 1990 1991 1992 jaar jaar jaar eerste kwar– taal niveau lager middelbaar hoger totaal </antwoord>
+      <antwoord nummer="7">57 21 85 </antwoord>
+      <antwoord nummer="5">164 72 241 41 455 14 510 </antwoord>
+      <antwoord nummer="2">43 </antwoord>
+      <antwoord nummer="3">48 Uit deze gegevens voor alle nationaliteiten tesamen (dus inclusief de eerder met de Tweede Kamer besproken aantallen Joegoslaven) blijkt een gestage toename in de afgelopen twee jaar voor in hoofdzaak tijdelijke projecten die echter in het eerste kwartaal van 1992 niet lijkt door te zetten. Wel zijn er signalen dat sprake zou kunnen zijn van een toename van het aantal illegaal tewerkgestelde Tsjechen en Polen. </antwoord>
+      <antwoord nummer="2">Voor zover deze situatie zich voordoet, is dat ongewenst. </antwoord>
+      <antwoord nummer="3">Ja. </antwoord>
+      <antwoord nummer="4 en 5">Of personen illegale arbeid verrichten is pas door een onderzoek ter plaatse met zekerheid vast te stellen. Voor zover de Dienst Inspectie Arbeidsverhoudingen in het kader van haar algemene toezichthoudende en opsporingstaak signalen bereiken over gevallen van illegale tewerkstelling, worden deze met de nodige aandacht behandeld. In de metaal– en electrotechnische industrie wordt momenteel met enige regelmaat door de DIA gericht onderzoek verricht. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001257</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001257&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001257</item>
+         <item attribuut="Document-id">0000107032</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 225</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van Es (P.S.P.) over vier Timorese studenten, die hun toevlucht zochten tot de Nederlandse ambassade te Jakarta.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 225</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">225</item>
+         <item attribuut="Indiener">
+            <persoon partij="PSP">Van Es</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-11-14</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-08-09</item>
+         <item attribuut="Beginpagina">449</item>
+         <item attribuut="Eindpagina">450</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 6 - 1 9 8 7 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="225" onderwerp="vier Timorese studenten, die hun toevlucht zochten tot de Neder- landse ambassade te Jakarta." indiendatum="14 november 1986)">
+         <vrager partij="PSP" oorsprong="parlement">Van Es</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="9 augustus 1986) 1 t / m 3 De Nederlandse regering onthoudt zich, zoals bekend, van mededelingen tegenover derden omtrent inhoud en uitvoering van de behartiging van de belangen van Portugal in Indonesië, tenzij op verzoek of met toestemming van de Portugese regering. De Portugese autoriteiten hebben mij inmiddels doen weten dat zij positief hebben gereageerd op de paspoort- aanvragen die de vier Oost-Timorese studenten hebben ingediend en dat de Nederlandse Ambassade in Jakarta gemachtigd is Portugese paspoorten aan hen te verstrekken. Daar voor vertrek uit Indonesië evenwel ook toestemming van de Indonesische regering vereist is, heeft de Nederlandse ambassadeur te Jakarta inmiddels een verzoek daartoe bij de Indonesische autoritei ten ingediend, die dit verzoek thans in behandeling hebben. ' Zie antwoorden op de vragen 3 en 4 van Aanhangsel 144.">
+         <antwoorder functie="" ministerie="Buitenlandse Zaken"/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1 ">W a t was de reactie van de lndonesi- sche autoriteiten op de wens van de  vier Timorese studenten om met  behulp van een Portugees paspoort  het land te verlaten? </vraag>
+      <vraag nummer="1 "/>
+      <vraag nummer="2 ">Heeft de Portugese regering zich  bereid verklaard de vier studenten op  te nemen, terwijl zij nog in het  g e b o u w v a n de Nederlandse ambas- sade verbleven? </vraag>
+      <vraag nummer="2 "/>
+      <vraag nummer="3 ">Zo ja, waarom hebben de Timorese  studenten geen toestemming  gekregen de komst van de Portugese  papieren in het ambassadegebouw af  te wachten?  Deze vragen worden gesteld naar  aanleiding van de antwoorden op  eerdere schriftelijke vragen, Aan- hangsel 144.  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" titel="De Gelderlander"> Zie «De Gelderlander» van 25 oktober 1986 </noot>
+      </noten>
+   </antwoorden>
+</kvr>

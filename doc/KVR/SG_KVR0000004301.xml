@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0001790</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001790&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001790</item>
+         <item attribuut="Document-id">0000004301</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 576</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid M. M. H. Kamp (VVD) over vergoeding van alarmeringssystemen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 576</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">576</item>
+         <item attribuut="Indiener">
+            <persoon>Kamp M.M.H.</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-05-20</item>
+         <item attribuut="Beantwoorder">
+            <persoon>d'Ancona</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-06-21</item>
+         <item attribuut="Beginpagina">1169</item>
+         <item attribuut="Eindpagina">1170</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de loden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1169" allpagenumbers="1169" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat s Gravenhage 1994"/>
+      <vraagdata vraagnummer="576" onderwerp="vergoeding van alarmeringssystemen." indiendatum="1994-05-20">
+         <vrager partij="" oorsprong="parlement">Kamp M.M.H.</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-06-21">
+         <antwoorder functie="minister" ministerie="Welzijn, Volksgezondheid en Cultuur">d'Ancona</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Klopt het bericht dat, hoewel alarmeringsapparatuur zoals de sensormat of de bed-check bijdraagt aan de kwaliteit van het leven van ouderen en gehandicapten, er geen vergoeding voor gegeven wordt? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2" voetnoot="2">Herinnert u zich zowel de vraag van het lid Kamp tijdens de behandelmg van de begroting WVC 1994 over de onduidelijkheid in regelgeving en financiële verantwoordelijkheid ten aanzien van alarmeringssystemen, als het antwoord van de regering, dat naar aanleiding van het positief advies van de Ziekenfondsraad in opname van alarmeringsapparatuur in de nieuwe regeling hulpmiddelen AWBZ per 1 januari 1994 is voorzien? <voetnoot nummer="2"/>Waarom is in de nieuwe regeling hulpmiddelen AWBZ per 1 januari 1994 gekozen voor zo'n gedetailleerde en limitatieve opsomming van kunst– en hulpmiddelen met name in de sfeer van wek–, waarschuwings– en alarmeringssystemen? Worden positieve ontwikkelingen op het terrein van hulpmiddelen daardoor niet tegengehouden, mogelijk zelfs in gevallen die op andere terreinen tot besparing kunnen leiden? </vraag>
+      <vraag nummer="4">Betekent het woord gehandicapten in artikel 27 sub j. van de regeling, dat 65-plussers van deze regeling worden uitgesloten? Zo ja, waarom? </vraag>
+      <vraag nummer="5">Wordt apparatuur vallend onder art. 27 sub j. alleen vergoed in die thuissituatie, waarbij de AWBZ-verzekerde als zelfstandig wordt aangemerkt? Zo ja, betekent dit dat, indien in instellingen als ziekenhuizen, bejaardenoorden en verpleeghuizen deze apparatuur wordt gebruikt, financiering moet plaatsvinden uit het reguliere instellingenbudget? Zo ja hoe kunnen aanvragen van AWBZ-verzekerden woonachtig in b.v. begeleid wonen projecten, resp. socio-woningen resp. WOZOCO-projecten worden beoordeeld? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Volkskrant van 17 mei 1994 pagina 11</noot>
+         <noot nummer="2"> TK 12 handelingen II 1993-1994 pag 2814</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja. De alarmeringsapparatuur in de uitvoering zoals in de vraag is bedoeld, behoort niet tot de hulpmiddelen waarop verzekerden op grond van de Regeling hulpmiddelen AWBZ 1994 aanspraak kunnen maken. Ja. Zoals in het tijdens de begrotingsbehandeling gegeven antwoord al werd aangekondigd, is de alarmeringsapparatuur per 1 januari 1994 in de Regeling hulpmiddelen AWBZ 1994 opgenomen op de wijze en in de omvang die de Ziekenfondsraad heeft geadviseerd. </antwoord>
+      <antwoord nummer="3">Bij het vaststeilen van de Regeling hulpmiddelen AWBZ 1994 is besloten tot een gedetailleerde omschrijving teneinde ongewenste kosteneffecten uit te sluiten. Dit geldt te meer daar de niet-gedetailleerde omschrijving die voorheen gold in het kader van de AAW voor de overgehevelde gehandicaptenvoorzieningen in de loop dertijd, mede door uitspraken van de beroepsrechter, geleid heeft tot uitbreiding van het voorzieningenpakket. Gelet hierop en mede in het licht van de technische ontwikkelingen die zich op het terrein van de hulpmiddelen voordoen, heeft een globale omschrijving het risico dat sluipenderwijs een uitbreiding van het pakket van hulpmiddelen optreedt, met daaraan verbonden financiele gevolgen. De toegepaste gedetailleerde en limitatieve omschrijving van de hulpmiddelen heeft als consequentie dat elke aanpassing van het pakket op genoemde ziekenhuizen en verpleeghuizen, geregeld dat de aanspraak tevens omvat hulpmiddelen, noodzakelijk in verband met de in de instelling gegeven behandeling en verpleging. In dat geval bestaat uiteraard geen aanspraak op hulpmiddelen met toepassing van de Regeling huipmiddelen AWBZ 1994. De vraag of verzekerden, woonachtig in bejaardenoorden, begeleid wonen projecten, socio-woningen, niet zijnde onderdelen van zwakzinnigeninrichtingen en de in de vraag genoemde WOZOCO-projecten, aanspraak kunnen maken op de in de vraag bedoelde alarmeringsapparatuur zal echter moeten worden beoordeeld op basis van de Regeling hulpmiddelen AWBZ 1994. Gelet op het doel van deze apparatuur, namelijk het zelfstandig wonen mogelijk maken van personen die sociaal en ADL-redzaam zijn, maar als gevolg van ziekte of gebrek een verhoogd risico lopen in een noodsituatie terechtte komen, zullen de in de vraag genoemde AWBZ-verzekerden in het algemeen geen indicatie hebben op verstrekking daarvan. Deze verzekerden kunnen immers in het algemeen een beroep doen op daar aanwezige hulpverleners of andere aanwezige personen, dan wel zijn zodanige voorzieningen aanwezig dat alarmeringsapparatuur als de onderhavige niet nodig is. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

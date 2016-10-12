@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19851986:0001807</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001807&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001807</item>
+         <item attribuut="Document-id">0000115367</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1985-1986 nummer 886</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Schartman en Weijers (C.D.A.) over het recreatieproject «Luttermolenveld».</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1985-1986 nummer 886</item>
+         <item attribuut="Jaargang">1985_1986</item>
+         <item attribuut="Vraagnummer">886</item>
+         <item attribuut="Indiener">
+            <persoon>Schartman</persoon>
+            <persoon>Weijers</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-05-26</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Winsemius</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-07-10</item>
+         <item attribuut="Beginpagina">1761</item>
+         <item attribuut="Eindpagina">1762</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1985-1986 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 5 - 1 9 8 6 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="886" onderwerp="" indiendatum="">
+         <vrager partij="" oorsprong="parlement">Schartman</vrager>
+         <vrager partij="" oorsprong="parlement">Weijers</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="10 juli 1986)">
+         <antwoorder functie="minister" ministerie="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer">Winsemius</antwoorder>
+         <mede-antwoorder>de Minister van Economische Zaken</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1 ">Is het de bewindslieden bekend, dat  zowel het gemeentebestuur van  Losser als het Provinciaal bestuur van  Overijssel met voortvarendheid  werken aan het verwezenlijken van  het recreatieproject «Luttermolen- veld»?  Is het de bewindslieden bekend, dat  op basis van het besluit van  Provinciale Staten een groep  ondernemers, verenigd in de «Recre- atiegroep de Lutte», is gestart om dit  project tot stand te brengen?  </vraag>
+      <vraag nummer="3 ">Hebben de bewindslieden kennis  genomen van het besluit van Gede- puteerde Staten van Overijssel, niet  in te gaan op de vraag van de  Rijksplanologische Commissie het  project in heroverweging te nemen?  </vraag>
+      <vraag nummer="4 ">Delen de bewindslieden de mening,  dat wanneer zowel de provincie als  de gemeente een duidelijke visie  hebben ten aanzien van de planologi- sche aanvaardbaarheid van dit  recreatieproject en deze past binnen  de marges, die het rijksbeleid terzake  biedt, de rijksoverheid zich terughou- dend zou moeten opstellen, sterker  zelfs: geen belemmeringen zou mogen  opleggen aan het verwezenlijken daar- </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1 ">Ja.  </antwoord>
+      <antwoord nummer="2 ">Ja.  </antwoord>
+      <antwoord nummer="3 ">Gedeputeerde Staten van Overijssel  hebben bij brief van 10 juni jl. een  reactie gegeven op het verzoek van  de eerste ondergetekende om de  lokatie opnieuw te overwegen. Uit  deze reactie blijkt dat men de lokatie  nogmaals heeft overwogen en dat  men tot geen andere conclusie komt  dan reeds in het streekplan Twente is  vastgelegd.  </antwoord>
+      <antwoord nummer="4 ">In het algemeen delen de bewindslie- den deze mening. Het recreatieproject  Luttermolenveld ligt echter in een  nationaal landschap. Het project leek  op gespannen voet te staan met het  in de groene Structuurschema's  geformuleerde rijksbeleid, terwijl er  onduidelijkheid bestond over de wijze  waarop dit project paste binnen het  in het streekplan geformuleerde  beleid ter bescherming van natuur en  landschap.  Uit bovengenoemde reactie van  Gedeputeerde Staten van Overijssel  blijkt dat niet gevreesd hoeft te  worden voor een ernstige aantasting  van natuur en landschap. Dit in  verband met de aard en ligging van  De Lutte. Gedeputeerde Staten van  Overijssel vinden derhalve dat het  project nauwelijks afbreuk doet aan  het geformuleerde consoliderende  beleid.  Nu van provinciale zijde duidelijk- heid is verschaft over de inpasbaar- heid van dit project achten wij het,  mede met het oog op de provinciale  verantwoordelijkheid in deze, niet  noodzakelijk nadere stappen tegen  dit project te ondernemen.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

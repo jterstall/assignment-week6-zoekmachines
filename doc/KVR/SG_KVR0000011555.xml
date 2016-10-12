@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19921993:0001251</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19921993:0001251&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19921993:0001251</item>
+         <item attribuut="Document-id">0000011555</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 320</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Melkert en Valk (beiden PvdA) over een protocol bij het rechtshulpverdrag tussen Nederland en Suriname.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 320</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">320</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Melkert</persoon>
+            <persoon partij="PvdA">Valk</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-01-20</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Hirsch Ballin</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-02-01</item>
+         <item attribuut="Beginpagina">655</item>
+         <item attribuut="Eindpagina">656</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="655" allpagenumbers="655" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's-Gravenhage 1993"/>
+      <vraagdata vraagnummer="320" onderwerp="een protocol bij het rechtshulpverdrag tussen Nederland en Suriname." indiendatum="1993-01-20">
+         <vrager partij="PvdA" oorsprong="parlement">Melkert</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Valk</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-02-1">
+         <antwoorder functie="minister" ministerie="Justitie">Hirsch Ballin</antwoorder>
+         <mede-antwoorder>de Minister van Buitenlandse Zaken</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Is het overleg over een protocol bij het rechtshulpverdrag tussen Nederland en Suriname reeds afgerond?' </vraag>
+      <vraag nummer="2">Zo neen, welke kwesties staan afronding nog in de weg? worden afgerond. Na ondertekening wordt het protocol ter stilzwijgende goedkeuring aan de Staten Generaal aangeboden. </vraag>
+      <vraag nummer="2">De belangrijkste resterende kwesties voor het komende overleg betreffen de in december van Surinaamse zijde kenbaar gemaakte wensen het protocol vanaf de dag na de datum van ondertekening voorlopig toe te passen en in het Protocol de mogelijkheid van eenzijdige opzegging op te nemen. Wanneer mag ondertekening van het protocol worden verwacht? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Kamerstuk20361, nr. 55. ' Deze kwesties komen aan de orde in het Mondehng Overleg met de ministers van Buitenlandse Zaken, Ontwikkelingssamenwerking over Suriname d.d. 9december 1992</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1 en 3">Zoals reeds werd medegedeeld in de brief van de Minister van Justitie aan de Voorzitter van de Tweede Kamer der Staten-Generaal, d.d. 11 januari jl.,') werd met ambtelijk overleg december beëindigd. De verwachting bestaat dat in februari of maart 1993 het overleg op ministerieel niveau zal kunnen </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

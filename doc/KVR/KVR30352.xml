@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="4">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Vos (PvdA) aan de ministers van Justitie en van Economische zaken over RFID chips. (Ingezonden 5 oktober 2007); Antwoord</item>
+         <item attribuut="Bestand">16Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR30352
+</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van een artikel in de Consumentengids over een onderzoek dat aantoont dat een meerderheid van de consumenten wil weten of producten een RFID-chip bevatten (RFID = Radio frequency identification). Met zo'n chip is de weg van het product te volgen. Ook vindt 60% van de ondervraagden dat de chip na aankoop van het product moet worden verwijderd of uitgezet. Indiener vraagt of de minister bereid is om aan deze wensen tegemoet te komen.</item>
+         <item attribuut="Rubriek">Communicatie, media en informatievoorziening (Hard- en software) Consument (Productinformatie)</item>
+         <item attribuut="Trefwoorden">Consumenten Opslagmedia Productinformatie</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2007-2008, nr. 851, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070801650</item>
+         <item attribuut="Afkomstig_van">Economische Zaken (EZ)</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Vos</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2007-12-11</item>
+         <item attribuut="Datum_indiening">2007-10-05</item>
+         <item attribuut="Document-id">KVR30352</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1819" allpagenumbers="1819 1820" vetnummer="2070801650" code="0708tkkvr851" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Aanhangsel" filenaam="KVR30352" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2007"/>
+      <vraagdata vraagnummer="851" onderwerp="" indiendatum="2007-10-5">
+         <vrager partij="PvdA" oorsprong="parlement">Vos</vrager>
+         <vraagt-aan>de ministers van Justitie en van Economische zaken</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="11 december 2007), zie ook Aanhangsel Handelingen nr. 574, vergaderjaar 2007–2008">
+         <antwoorder functie="staatssecretaris" ministerie="Economische Zaken">Heemskerk</antwoorder>
+         <mede-antwoorder>de minister van Justitie</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Hebt u kennisgenomen van het artikel «Identificatiechips stilletjes in opmars»? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Weet u dat uit onderzoek door de Consumentenbond, het Rathenauinstituut en ECP.nl blijkt dat 68% van de consumenten wil weten of een product een RFID chip bevat? Bent u bereid om uniforme etikettering over de aanwezigheid van RFID chips op producten verplicht te stellen? Zo neen, waarom niet? </vraag>
+      <vraag nummer="3">Hebt u gegevens over surveillance of «profiling» door marktpartijen of criminele organisaties door de aanwezigheid van de chips na het verlaten van winkels? </vraag>
+      <vraag nummer="4">Is het u bekend uit het onderzoek blijkt dat 60% van de consumenten wil dat de RFID chip na aankoop wordt verwijderd of uitgezet? Bent u bereid om aan de wens van consumenten tegemoet te komen? Zo ja, hoe? Zo neen, waarom niet? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1">De Consumentengids, oktober 2007</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Genoemd onderzoek van de Consumentenbond, ECP.nl en het Rathenau-instituut is mede dankzij financiering van het Ministerie van Economische Zaken tot [1] stand gekomen. Het gegeven dat 68% van de consumenten wil weten of in een winkel RFID-chips in of op producten zitten en of deze worden gelezen is één van de interessante uitkomsten van het onderzoek. Uit het onderzoek blijkt ook dat 87% van de consumenten wil dat RFID-readers altijd als zodanig herkenbaar zijn. Eén manier om de aanwezigheid van RFID-technologie in de omgeving (en het gebruik ervan) inzichtelijk te maken is het creëren van een etiketteringssysteem. Door gebruik te maken van eenvoudige beeldmerken kan een consument in één oogopslag zien of een product al dan niet een RFID-chip bevat. De met het onderzoek verworven kennis over het «RFID-bewustzijn» onder consumenten is voor het Ministerie van Economische Zaken aanleiding om te laten onderzoeken op welke wijze, met medewerking van de RFID-industrie en de gebruikers van de RFID-technologie een etiketteringssysteem kan worden gelanceerd en om zo spoedig mogelijk een aanvang te maken met de implementatie van een dergelijk systeem. Een systeem van zelfregulering heeft nadrukkelijk de voorkeur. Het Ministerie van Economische Zaken zal met de RFID-industrie en de gebruikers van de RFID-technologie in overleg treden over een dergelijk systeem. </antwoord>
+      <antwoord nummer="3">Het volgen van producten met een RFID-chip kan alleen binnen een hecht netwerk van «RFID-readers», zoals met name binnen een gesloten omgeving mogelijk is. Voorbeelden van het ongeoorloofd uitlezen van RFID-tags door derden na het verlaten van de winkel («skimming») zijn niet bekend. </antwoord>
+      <antwoord nummer="4">Uit het onderzoek blijkt dat 60% van de respondenten wil dat de RFID-chip bij de koop automatisch wordt uitgeschakeld. Uit het onderzoek blijkt ook dat 62% van de respondenten zelf wil beslissen of een chip weer wordt ingeschakeld als de producent of toepasser op overtuigende wijze de voordelen van een ingeschakelde chip aangeeft. Wetgeving die een verplichting aan leveranciers of verkopers oplegt om de RFID-chip onklaar te maken na de verkooptransactie wordt op dit moment niet overwogen. De functionaliteit van de RFID-chip kan immers ook na de aanschaf van een product voor consumenten reden zijn de chip niet onklaar te maken, bijvoorbeeld als de chip informatie bevat die de moeite waard is thuis uit te lezen. Consumenten geven dat ook aan. Het bevorderen van transparantie over de aanwezigheid van RFID in producten en winkelomgevingen en keuzevrijheid voor de consument om RFID-chips uit te schakelen na aanschaf, indien de toepasser de chip niet automatisch bij de koop onklaar maakt, heeft op dit moment de voorkeur. Winkels en RFID-chips zullen die mogelijkheid moeten bieden. Technisch is zulks mogelijk: RFID-chips die voldoen aan de EPC-standaard beschikken over de technische mogelijkheid om de chip bij de kassa onklaar te maken. Er zijn ook chips op de markt met een afbreekbare antenne; indien de consument er zelf voor kiest de antenne af te breken wordt de uitleesafstand van de chip verkleind tot enkele centimeters, hetgeen uitlezen door derden in de praktijk onmogelijk maakt maar de functionaliteit voor de consument behoudt. RFID op consumentenproducten worden in de Nederlandse detailhandel momenteel slechts in een enkel geval toegepast. Een goed voorbeeld van toepassing van RFID in de detailhandel vormt de keten van boekhandels «Selexyz», die alle boeken in de vestigingen in Almere en Maastricht van RFID-chips voorziet. Selexyz kiest ervoor de RFID-chips automatisch uit te schakelen bij het afrekenen. Bezoekers van de boekhandel worden overigens voorgelicht over het gebruik van RFID in de winkel. Indien dat in de toekomst noodzakelijk blijkt te zijn, zal het Ministerie van Economische Zaken in overleg treden met eventuele toepassers die hun klanten niet de mogelijkheid bieden RFID-chips onklaar te maken na aankoop van een product. Dit kan door middel van zelfregulering of te ontwikkelen beeldmerken </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

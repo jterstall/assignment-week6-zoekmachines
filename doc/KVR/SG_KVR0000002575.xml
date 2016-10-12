@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0000064</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0000064&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0000064</item>
+         <item attribuut="Document-id">0000002575</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Eerste Kamer 1993-1994 nummer 20</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Eerste Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Coenemans (CDA) inzake controle op naleving jachtwet.</item>
+         <item attribuut="titel">Aanhangsel Eerste Kamer 1993-1994 nummer 20</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">20</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Coenemans</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-07-22</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Gabor J.D.</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-08-24</item>
+         <item attribuut="Beginpagina">39</item>
+         <item attribuut="Eindpagina">40</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Eerste Kamer der Staten-Generaal" kamer="1" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen door de leden der Kamer gesteld overeenkomstig artikel schriftelijk gegeven antwoorden"/>
+      <footer firstpaginanummer="39" allpagenumbers="39" vetnummer="" code="" lopendefooter="Eerste Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN0921 -738x" uitgever="'s Gravenhage 1994"/>
+      <vraagdata vraagnummer="" onderwerp="" indiendatum="">
+         <vrager partij="CDA" oorsprong="parlement">Coenemans</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-08-24">
+         <antwoorder functie="J." ministerie="Ontvangen 24 augustus 1994">D. Gabor Staatssecretaris van Landbouw, Natuurbeheer en Visserij.</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="20">van het lid Coenemans (CDA) inzake controle op naleving jachtwet. (Ingezonden 22 juli 1994) </vraag>
+      <vraag nummer="1">Hebt u kennis genomen van het artikel «Vrij spel voor stropers-maffia» in de Limburger d.d. 18juni 1994? </vraag>
+      <vraag nummer="2">Deelt u de mening dat de gesignaleerde stropersbendes grote schade aanrichten aan de wildstand? Is deze schade aanzienlijk toegenomen sedert het opheffen van de veldpolitie? </vraag>
+      <vraag nummer="4">Is het waar dat voor de politie nieuwe stijl, waarin de veldpolitie is opgenomen, het toezicht op de jachtwet slechts een geringe prioriteit heeft? </vraag>
+      <vraag nummer="5">Acht u het zinvol om geëigende maatregelen te treffen teneinde paal en perk te stellen aan de in het onder 1 genoemde artikel vermelde stroperspraktijken en zo ja, welke maatregelen overweegt u dan? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja. 2 e n 3 Om de effecten van stroperij te kunnen bepalen is inzicht nodig in de hoogte van de wildstand en in de omvang van de stroperij. Alleen ten aanzien van reeën en wilde zwijnen beschik ik over populatiegegevens. De omvang van de stroperij is mij niet bekend. Ik kan daarom niet beoordelen in hoeverre de stroperij schade aan de wildstand toebrengt. </antwoord>
+      <antwoord nummer="4">De prioriteiten voor de inzet van het politie-apparaat worden bepaald door het Regionaal College, waarin zijn vertegenwoordigd de burgemeesters van de betrokken gemeenten, de Hoofdofficier van Justitie en de Korpsbeheerder. Naar aanleiding van een rapportageverzoek van de (inmiddels opgeheven) vaste Commissie voor Politie van de Tweede Kamer, heeft de Minister van Binnenlandse Zaken onlangs een circulaire doen uitgaan aan de Korpsbeheerders, waarin om informatie wordt gevraagd over de uitvoering van de vroegere Veldpolitietaken. </antwoord>
+      <antwoord nummer="5">In het kader van de Landelijke Commissie voor de Coördinatie van Milieuvraagstukken worden afspraken gemaakt over handhaving van milieuwetgeving. In dit overleg zal ik voorstellen doen voor verbetering van de handhaving van «groene wetten», waaronder de Jachtwet. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

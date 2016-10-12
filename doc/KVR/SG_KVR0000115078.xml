@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19851986:0001518</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001518&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001518</item>
+         <item attribuut="Document-id">0000115078</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1985-1986 nummer 597</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van Es (P.S.P.) over deelname aan het SDI-onderzoek.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1985-1986 nummer 597</item>
+         <item attribuut="Jaargang">1985_1986</item>
+         <item attribuut="Vraagnummer">597</item>
+         <item attribuut="Indiener">
+            <persoon partij="PSP">Van Es</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-03-07</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van Aardenne</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-04-09</item>
+         <item attribuut="Beginpagina">1185</item>
+         <item attribuut="Eindpagina">1186</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1985-1986 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 5 - 1 9 8 6 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="597" onderwerp="deelname aan het SDI-onder- zoek." indiendatum="7 maart 1986)">
+         <vrager partij="PSP" oorsprong="parlement">Van Es</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="9 april 1986)">
+         <antwoorder functie="minister" ministerie="Economische Zaken">Van Aarden- ne</antwoorder>
+         <mede-antwoorder>de minister van Defensie</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1 ">Kan de regering aangeven, welke  Nederlandse bedrijven en onder- zoeksinstellingen aan het SDI-onder- zoek willen deelnemen?  </vraag>
+      <vraag nummer="2 ">Wordt er voor deelneming aan dit  onderzoek aparte subsidie door de  overheid ter beschikking gesteld? Zo  ja, om welk bedrag gaat het en wat  zijn de voorwaarden?  </vraag>
+      <vraag nummer="3 ">Is de regering van plan binnen  afzienbare tijd met de regering van  de VS een overeenkomst te sluiten,  waarin nadere afspraken worden  gemaakt over de voorwaarden van  deelneming van Nederlandse  bedrijven en onderzoekinstellingen  aan het SDI-onderzoek?'  Deze vragen worden gesteld naar  aanleiding van een redevoering van  minister De Ruiter in Den Haag en  van een V.V.D. rapport over SDI,  waarin op meer tegemoetkomingen  van de overheid voor het bedrijfsleven  bij SDI-onderzoek wordt aangedron- gen. Zie De Volkskrant van 14 januari  jl. en de NRC en Trouw van 30  januari jl.  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1 ">Neen.  </antwoord>
+      <antwoord nummer="2 ">Neen.  </antwoord>
+      <antwoord nummer="3 ">Vooralsnog niet. Zie hiervoor de brief  van de ministers van Defensie en van  Buitenlandse Zaken aan de Tweede  kamer van 4 oktober 1985 (Kamer- stukken 18 979 nr. 8).  Daarin werd aangegeven dat de  regering zo nodig zal moeten  overwegen nadere afspraken te  maken over de voorwaarden voor  deelneming van Nederlandse  bedrijven en onderzoekinstellingen  aan het SDI-onderzoek. Op dit  moment is niet te overzien of voor  deelneming het in 1978 met de  Verenigde Staten gesloten memoran- dum of understanding inzake  defensiematerieelsamen werking  aanvulling behoeft.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

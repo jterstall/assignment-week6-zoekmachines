@@ -1,0 +1,98 @@
+/* CSS voor tonen van de uiteindelijke documenten: Handelingen / Moties / Kamervragen */
+.titel{
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 30px;
+font-weight: bold;
+}
+.ondertitel{
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 18px;
+position: relative;
+top: -15px;
+}
+.rechtsboven{
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 18px;
+position: absolute;
+right: 15px;
+top: 25px;
+}
+caption{
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-weight: bold;
+font-size: 12px;
+caption-side: top;
+text-align: left;
+background-color: #FFFFAA;
+border: 2px solid #881122;
+border-bottom: none;
+}
+
+.metadatatabel{
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 12px;
+background-color: #FFFFEE; 
+border: 2px solid #881122;
+width: 800px;
+}
+
+.metadatabold{
+font-weight: bold;
+vertical-align: top;
+}
+
+.maintable{
+width: 800px;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 12px;
+background-color: #FFFFEE;
+border: 2px solid #881122;
+text-align: justify;
+}
+
+.onderwerpaanhef{
+background-color: #FFFFAA;
+border: 1px solid #881122;
+}
+
+
+
+/* Speciaal voor Handelingen */
+.ff{
+font-size: 10px;
+}
+hr{
+height: 0px;
+border: 0px;
+border-top: 2px solid #881122;
+width: 800px;
+}
+.titeltabel{
+width: 800px;
+}
+.datum{
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 40px;
+align: right;
+position: relative;
+left: 750px;
+top: -24px;
+}
+
+.opencloselink{
+position: relative;
+left: 110px;
+
+}
+
+.ankerlink{
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 8px;
+}
+
+/* Speciaal voor Moties */
+
+
+
+
+/* Speciaal voor Kamervragen */ 

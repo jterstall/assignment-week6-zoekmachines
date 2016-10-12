@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19871988:0000965</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0000965&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0000965</item>
+         <item attribuut="Document-id">0000098679</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1987-1988 nummer 29</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Lilipaly (P.v.d.A.) over gebreken aan de stormvloedkering in de Oosterschelde.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1987-1988 nummer 29</item>
+         <item attribuut="Jaargang">1987_1988</item>
+         <item attribuut="Vraagnummer">29</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Lilipaly</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-09-08</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Smit-Kroes</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-10-05</item>
+         <item attribuut="Beginpagina">57</item>
+         <item attribuut="Eindpagina">58</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="" typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 7 - 1 9 8 8 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="29" onderwerp="" indiendatum="">
+         <vrager partij="PvdA" oorsprong="parlement">Lilipaly</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1 ">Zijn ook onlangs weer verborgen  gebreken ontdekt aan de stormvloed- kering in de Oosterschelde?'  </vraag>
+      <vraag nummer="2 " voetnoot="2">Bent u bereid deze Kamer gedetail- leerde informatie te verstrekken over  de precieze aard en omvang van de  gebreken, die tot op heden geconsta- teerd zijn? <voetnoot nummer="2"/>  W e r d e n voornoemde  gebreken op enig moment tijdens de  aanleg van de stormvloedkering  voorzien?  Kunnen de geconstateerde gebreken  nu of op termijn gevolgen hebben  voor de goede en veilige werking van  de stormvloedkering?  </vraag>
+      <vraag nummer="4 ">Welke financiële gevolgen (bijv.  i.v.m. reparatie, vervanging en/of  vervroegde afschrijving) hebben of  hadden de geconstateerde gebreken?  Kunt u aangeven wie voor deze  kosten aansprakelijk is, en op welke  manier eventuele claims afgewikkeld  (zullen) worden?  </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Zie het Algemeen Dagblad en het NRC/Han-delsblad van 7 september 1987 en de Provinciale  Zeeuwse Courant van 8 september 1987 </noot>
+         <noot nummer="2"> In de persberichten wordt o a gesproken  van corrosie, haarscheurtjes en algengroei. </noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

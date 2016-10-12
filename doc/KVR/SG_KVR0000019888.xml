@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001502</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001502&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001502</item>
+         <item attribuut="Document-id">0000019888</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 485</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Kohnstamm (D66) en Kamp (VVD) over longtransplantaties.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 485</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">485</item>
+         <item attribuut="Indiener">
+            <persoon>Kohnstamm</persoon>
+            <persoon>Kamp</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-03-02</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Simons</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-03-25</item>
+         <item attribuut="Beginpagina">1021</item>
+         <item attribuut="Eindpagina">1022</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1021" allpagenumbers="1021" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="485" onderwerp="longtransplantaties." indiendatum="2 maart 1992}">
+         <vrager partij="" oorsprong="parlement">Kohnstamm</vrager>
+         <vrager partij="" oorsprong="parlement">Kamp</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-03-25">
+         <antwoorder functie="staatssecretaris" ministerie="Welzijn, Volksgezondheid en Cultuur">Simons</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Worden in de ons omringende landen circa 20% van de voor transplantatie aangeboden longen ook daadwerkelijk voor transplantatiedoeleinden gebruikt?' Heeft het Academisch Ziekenhuis Groningen ook formeel laten weten dat zij het niet haalbaar acht om - ook op termijn - 20 a 30 longtransplantaties per jaar in het kader van het ontwikkelingsgeneeskundige projekt uit te voeren? Zo ja, wat is daarvan de reden? </vraag>
+      <vraag nummer="3">Bent u bereid om - indien het Academisch Ziekenhuis Groningen er niet in korte tijd in slaagt om het aantal uit te voeren longtransplantaties substantieel te verhogen - ook het St. Antonius Ziekenhuis toestemming te verlenen in het kader van het ontwikkelingsgeneeskundige projekt een aantal longtransplantaties per jaar uit te laten voeren? </vraag>
+      <vraag nummer="4">Wat is de reden van het feit dat het Academisch Ziekenhuis Groningen nog geen patienten, die lijden aan de taaislijmziekte (Cystic Fibrosis), heeft kunnen behandelen middels een longtransplantatie? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Uitzending Hier en Nu op 24 februari j.l</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja. Volgens de gegevens van Eurotransplant wordt in de landen van het Eurotransplantgebied (Benelux, Duitsland en Oostenrijk), circa 20% van de voor longtransplantatie aangeboden longen daadwerkelijk gebruikt voor longtransplantaties. Uitgaande van het aantal multi-orgaandonoren zou dit percentage veel lager liggen. Wel dient te worden bedacht dat dit percentage de uitkomst is van vele factoren die deels niet beïnvloedbaar zijn, zoals aantal en soort patiënten op de wachtlijst, medische cnteria, logistiek en kwaliteit van het aanbod. </antwoord>
+      <antwoord nummer="2">Neen. Daar is geen reden voor. Ik wijs u op de Regeling longtransplantatie, die uitgaat van een aantal longtransplantaties dat naar schatting op kan lopen tot 20 a 30 in 1994. </antwoord>
+      <antwoord nummer="3">Neen. Het longtransplantatieprogramma in het AZG maakt deel uit van een ontwikkelingsgeneeskundig onderzoek. Om tot goede afwegingen te komen wil ik de resultaten van dit onderzoek afwachten. Indien tussentijds belangrijke problemen aan de orde zijn zal ik door de Ziekenfondsraad op de hoogte worden gesteld en zal ik vanzelf de Kamer aanstonds informeren; besluitvorming over eventuele beleidswijzigingen dient pas op dat moment aan de orde te zijn. </antwoord>
+      <antwoord nummer="4">In eerste instantie stonden er geen cystic-fibrose-patiënten op de wachtlijst in Groningen. In tweede instantie zijn (in 1992) geen geschikte donor-longen aangeboden. Dit laatste geldt overigens ook voor het St. Antoniusziekenhuis in Nieuwegein. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

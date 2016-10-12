@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001370</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001370&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001370</item>
+         <item attribuut="Document-id">0000035777</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 448</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden V. A. M. van der Burg en Tegelaar-Boonacker (beiden C.D.A.) over het Huis van Bewaring te Arnhem.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 448</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">448</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">V. A. M. van der Burg</persoon>
+            <persoon partij="CDA">Tegelaar-Boonacker</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-02-13</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Kosto</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-03-14</item>
+         <item attribuut="Beginpagina">901</item>
+         <item attribuut="Eindpagina">902</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="901" allpagenumbers="901" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="448" onderwerp="het Huis van Bewaring te Arnhem." indiendatum="13februari 1990">
+         <vrager partij="CDA" oorsprong="parlement">V. A. M. van der Burg</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Tegelaar-Boonacker</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-03-14">
+         <antwoorder functie="staatssecretaris" ministerie="Justitie">Kosto</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Staan in het nieuwe Huis van Bewaring te Arnhem 48 cellen struc– tureel leeg vanwege onvoldoende capaciteit in de personele sfeer? </vraag>
+      <vraag nummer="2">Kunt u bevestigen, dat deze leegstand veroorzaakt wordt door «tekentafelfouten» en «te lange looplijnen»? </vraag>
+      <vraag nummer="3">Kunt u bevestigen, dat als gevolg van deze «ongewilde» leegstand in de 4e week van 1990 10 personen zijn weggezonden? Deelt u de mening, dat dit een ongewenste toestand is? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">De nieuwe penitentiaire inrichting te Arnhem is begin oktober 1989 in gebruik genomen. Zoals te doen gebruikelijk was voorzien in een gefaseerde instroming van gedeti– neerden. Wat betreft de ingebruik– neming van de laatste eenheid van 48 cellen is inderdaad enige vertreging in de instroom opgetreden. Van structurele leegstand is evenwel geen sprake. </antwoord>
+      <antwoord nummer="2">Neen. De problemen worden thans nader geanalyseerd, maar kunnen zeker niet los worden gezien van de gebruikelijke aanloop en gewenning, die een ingebruikstelling van een zodanige complexe organisatie met zich brengt. </antwoord>
+      <antwoord nummer="4">Inmiddels is besloten door een detachetïng de feitelijke personeels– bezetting van de inrichting uit te breiden met vijf executieve medewerkers. Naar verwachting zal dan ook in de negende week de verdere instroming van nieuwe gedetineerden worden hervat. Welke maatregelen bent u voornemens te nemen teneinde zo spoedig mogelijk aan deze «ongewilde» toestand een einde te maken? In de vierde week van 1990 zijn 8 personen heengezonden vanuit het huis van bewaring om plaats te maken voor een persoon, wiens insluiting dringender gewenst was. Deze personen zijn heengezonden, omdat de binnen het arrondissement Arnhem geldende 16-dagen termijn op het politiebureau was verstreken en er op dat moment geen plaats– ruimte elders beschikbaar was. In deze week waren er overigens slechts 6 plaatsen beschikbaar en bezet voor het hofressort Arnhem, waarvan 4 plaatsen ter beschikking zijn gesteld aan het arrondissements– parket Arnhem. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0000990</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0000990&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0000990</item>
+         <item attribuut="Document-id">0000027327</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 58</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Beckers-de Bruijn en Van Es (beiden Groen Links) over het afbeelden van Oost-Timor als gebiedsdeel van Indonesië.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 58</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">58</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Beckers-de Bruijn</persoon>
+            <persoon partij="Groen Links">Van Es</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-10-04</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Pronk</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-10-10</item>
+         <item attribuut="Beginpagina">119</item>
+         <item attribuut="Eindpagina">120</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="119" allpagenumbers="119" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="" onderwerp="" indiendatum="">
+         <vrager partij="Groen Links" oorsprong="parlement">Beckers-de Bruijn</vrager>
+         <vrager partij="Groen Links" oorsprong="parlement">Van Es</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-10-10">
+         <antwoorder functie="minister" ministerie="Ontwikkelingssamenwerking">Pronk</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="58">Vragen van de leden Beckers-de Bruijn en Van Es (beiden Groen Links) over het afbeelden van Oost– Timor als gebiedsdeel van Indonesië. (Ingezonden 4 oktober 1990) </vraag>
+      <vraag nummer="1" voetnoot="2">Is het u bekend, dat het blad «Inter– nationale Samenwerking», dat onder uw verantwoordelijkheid verschijnt, opnieuw een geografische kaart afdrukt, waarop Oost-Timor wordt afgebeeld als gebiedsdeel van Indonesië?' Bent u, gelet op de Nederlandse veroordeling van de Indonesische bezetting van Oost-Timor en gelet op haar oordeel, dat de bevolking van Oost-Timor recht heeft op zelfbe– schikking, bereid er op toe te zien, dat zulke kaarten niet meer in «Inter– nationale Samenwerking» en eventuele andere publicaties van het ministerie afgedrukt worden, zoals uw voorganger heeft toegezegd? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="3">Bent u bereid op openbare voorlich– tingsbijeenkomsten van uw minis– terie over de nota «Een wereld van verschil» bij het gebruik van deze kaart, uitdrukkelijk te (laten) zeggen dat Oost-Timor buiten het landen– programma Indonesië valt, en dus ook buiten alle financiële regelingen, die in het kader van Indonesië als programmaland worden gemaakt? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Internationale samenwerking, jrg 1990, nr 10 (oktober)</noot>
+         <noot nummer="2"> Aanhangsel Handelingen. vergaderjaar 1988-1989, nr. 819</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1" voetnoot="1"> en2 Speciaal voor de nota «Een Wereld van Verschil» <voetnoot nummer="1"/> is een wereldkaart vervaardigd, waarop de landen regio's waarmee Nederland een ontwikkelingsrelatie heeft zijn gemarkeerd. De witte markering, waarmee de speciale situatie op Timor op de «moeder»kaart is aangeduid, was op de bijgevoegde zwart/wit uitvoering van de kaart, die bij de presentatie van de nota is verstrekt alvorens deze werd gedrukt, door de geringe omvang van het eiland al nauwelijks met het blote oog te zien. Bij de verwerking van deze zelfde kaart in kleur in Internationale Samenwerking nr. 10 (en ook in de nota zelf), waarbij verschillende «tekenlagen» zijn gebruikt, is de kleurscheiding op het zeer kleine afgebeelde eiland wegge– vallen. </antwoord>
+      <antwoord nummer="3">Ja. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Kamerstuk 21 813, nr. 2). De kaart is tevens ter inzage gelegd op de bibliotheek</noot>
+      </noten>
+   </antwoorden>
+</kvr>

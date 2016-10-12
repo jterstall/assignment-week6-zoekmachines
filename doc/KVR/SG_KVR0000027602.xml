@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001265</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001265&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001265</item>
+         <item attribuut="Document-id">0000027602</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 332</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden De Pree en Ruigrok-Verreijt (beiden P.v.d.A.) over woning-toewijzing.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 332</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">332</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">De Pree</persoon>
+            <persoon partij="PvdA">Ruigrok-Verreijt</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-12-06</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Heerma</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-01-24</item>
+         <item attribuut="Beginpagina">671</item>
+         <item attribuut="Eindpagina">672</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="671" allpagenumbers="671" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1991"/>
+      <vraagdata vraagnummer="332" onderwerp="woning-toewijzing." indiendatum="1990-12-6">
+         <vrager partij="PvdA" oorsprong="parlement">De Pree</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Ruigrok-Verreijt</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="24januari 1991">
+         <antwoorder functie="staatssecretaris" ministerie="Volkshuisvesting, Ruimte– lijke Ordening en Milieubeheer">Heerma</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Waarom beperkt u in een circulaire aan de gemeenten de mogelijkheid van fiattering van woning-toewijzing, die meer dan f 250 individuele huursubsidie tot gevolg heeft, expliciet tot een beroep op «persoonlijke omstandigheden» van de aanvragen?' </vraag>
+      <vraag nummer="2">Waarom rekent u de inschrij– vingsduur en/of de vastgestelde behoefte aan extra (dure!) voorzie– ningen niet tot de «persoonlijke omstandigheden»? Wat zijn die persoonlijke omstandigheden dan wel? Waarom vindt u, dat de slechte verhuurbaarheid van een complex en/of de voorrang voor stadsver– nieuwing in een gemeente geen redenen mogen zijn om de fiatte– ringsgrens soepel te hanteren? </vraag>
+      <vraag nummer="4" voetnoot="3">Hoe valt dit te rijmen met de opvatting in uw brief van 2 mei jl., dat «niet het Rijk maar de betref– fende verhuurder of gemeente kan overzien of het toepassen van de geboden instrumenten onaan– vaardbare negatieve effecten sorteert (bijv. sociale spanningen of leegstand)», en de discussie hierover tijdens de UCV op 25 mei jl.? <voetnoot nummer="3"/>
+      </vraag>
+      <vraag nummer="5">Waarom vermeldt u gezien het gestelde onder de vragen 3 en 4 de mogelijkheid ook uit beleidsoverwe– gingen (zoals het voorkomen van inkomensbuurten) soepel te fiatteren niet in de boven aangehaalde circu– laire? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1990-11-14" bron=" Zie circulaire aan de gemeenten MG 90 40"> Zie circulaire aan de gemeenten MG 90 40, 14 november 1990</noot>
+         <noot nummer="1"> Zie Kamerstuk 20 961, nr. 9</noot>
+         <noot nummer="3" titel="Ik ben er een groot voorstander van om andere dan finan– ciële mstrumenten in te zetten, zoals het doorbreken van de f 250 grens, om de eenzijdigheid (van wijken) op te heffen"> Met name uw uitspraak «Ik ben er een groot voorstander van om andere dan finan– ciële mstrumenten in te zetten, zoals het doorbreken van de f 250 grens, om de eenzijdigheid (van wijken) op te heffen»</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Het fiatteringsbeleid vindt zijn juridische grondslag in artikel 2, derde lid van de Wet individuele huursubsidie op grond waarvan geen recht bestaat op individuele huursub– sidie indien voor de aanvrager, gelet op zijn economische en persoonlijke omstandigheden, beter passende woonruimte voorhanden is. Indien een aanvraag om individuele huursubsidie op grond van de passendheidstoets wordt afgewezen moet dit zijn oorzaak hebben in de omstandigheid dat beter passende woonruimte voorhanden is. Overwe– gingen die volledig los staan van deze persoonsgebonden toetsing zijn in beginsel niet op zijn plaats. </antwoord>
+      <antwoord nummer="2">De vraag in hoeverre de inschrij– vingsduur en de behoefte aan extra dure voorzieningen persoonlijke omstandigheden vormen, acht ik in dit verband niet relevant. Waar het om gaat is of aan de persoonlijke omstandigheden zodanig gewicht moet worden toegekend dat niet langer kan worden gewacht op, ondermeer gelet op de verhouding inkomen-huurprijs, beter passende woonruimte. </antwoord>
+      <antwoord nummer="3">De individuele huursubsidie is een instrument om de woonlasten van huurders tot een aanvaardbaar niveau terug te brengen. Ik acht het onjuist als daarvoor ter beschikking gestelde gelden worden aangewend om (tijdelijk) exploitatieproblemen van verhuurders op te lossen. Over stadsvernieuwing heb ik in de circu– laire opgemerkt dat het in bepaalde gevallen noodzakelijk kan zijn om onder druk van stadsvernieuwingsac– tiviteiten eerder tot fiattering over te gaan. 4/5 Tijdens de Uitgebreide Commissie– vergadering, 25 juni 1990' ben ik uitvoerig ingegaan op de hier gestelde vragen en heb ik betoogd dat het instrument van de individuele huursubsidie uitdrukkelijk niet bedoeld is ter bestrijding van een eenzijdige wijkopbouw danwel leegstand. Voor wat de geciteerde uitspraak </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19881989:0001252</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001252&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001252</item>
+         <item attribuut="Document-id">0000090851</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1988-1989 nummer 249</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Hageman en Stoffelen (beiden P.v.d.A.) over de samenstelling van een bestuursraad van politie.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1988-1989 nummer 249</item>
+         <item attribuut="Jaargang">1988_1989</item>
+         <item attribuut="Vraagnummer">249</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Hageman</persoon>
+            <persoon partij="PvdA">Stoffelen</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1988-12-16</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van Dijk</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-01-17</item>
+         <item attribuut="Beginpagina">501</item>
+         <item attribuut="Eindpagina">502</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1988-1989 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 8 - 1 9 8 9 ,  A a n h a n g s e l " filenaam="" issn-nummer="ISSN 0921 . 7398 " uitgever="SDU uitgeverij 's Gravenhage 1989 "/>
+      <vraagdata vraagnummer="249" onderwerp="de samenstelling van een bestuursraad van politie." indiendatum="16 december 1988)">
+         <vrager partij="PvdA" oorsprong="parlement">Hageman</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Stoffelen</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="17 januari 1989)">
+         <antwoorder functie="minister" ministerie="Binnenlandse Zaken">V a n Dijk</antwoorder>
+         <mede-antwoorder>de minister van Justitie</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1 ">Herinnert u zich de aanwijzingen  inzake externe adviesorganen en  interdepartementale commissies? </vraag>
+      <vraag nummer="1 "/>
+      <vraag nummer="2 ">Houden deze aanwijzingen in, dat  actief zal worden gestreefd naar een  verhouding mannen/vrouwen van  één staat tot één?  </vraag>
+      <vraag nummer="3 ">Is de samenstelling van een bestuurs- raad, die tot taak heeft de organisa- torische en inhoudelijke integratie en  verzelfstandiging van de selectie, de  basis- en vervolgopleidingen van de  politie tot stand te brengen zo  eenzijdig, dat geheel niet tegemoet  w o r d t gekomen aan deze aanwijzin- gen? </vraag>
+      <vraag nummer="2 "/>
+      <vraag nummer="4 ">Bent u bereid, indien zich een  vacature voordoet in bovengenoemde  bestuursraad, te streven naar een  meer evenwichtige samenstelling van  deze bestuursraad, wat betreft het  aantal vrouwen/mannen?  </vraag>
+      <vraag nummer="5 ">Bent u bereid in andere voorkomende  gevallen overeenkomstig genoemde  aanwijzingen te handelen?  </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="2"> Staatscourant  2 5 / 1 1 /8 8 </noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1 ">Ja.  2 en 5  Zo veel mogelijk  w o r d t gestreefd  naar een - ook voor wat het geslacht  van de deelnemers betreft - evenwichtige samenstelling van  externe adviesorganen en interdepar- tementale commissies. Bij de  benoemingen en de verzoeken om  voordracht van kandidaten zal  hieraan in de toekomst bijzondere  aandacht worden besteed. Wij zullen  de betrokken adviserende autoriteiten  vragen in verband met voornoemd  evenwicht te zoeken naar geschikte  vrouwelijke kandidaten.  </antwoord>
+      <antwoord nummer="3 ">De samenstelling van de Bestuursraad  in oprichting is  c o n f o r m de voordracht  van de diverse betrokken instanties:  aan de politievakorganisaties, De  Vereniging van Nederlandse Gemeen- ten, het Coördinerend Politie Beraad  en het Openbaar Ministerie is de  vraag voorgelegd door wie zij in de  Bestuursraad in oprichting vertegen- woordigd wensten te worden. De  genoemde adviesinstanties hebben  helaas geen vrouwelijke kandidaten  voorgedragen. De voorgedragen  kandidaten zijn op één kandidaat na,  inmiddels benoemd. De laatste  benoeming zal binnenkort plaatsvin- den.  </antwoord>
+      <antwoord nummer="4 ">Ja.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001588</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001588&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001588</item>
+         <item attribuut="Document-id">0000019974</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 570</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Lankhorst (Groen Links) over de sluiting van een nachtopvangcentrum voor daklozen in Maastricht.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 570</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">570</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Lankhorst</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-03-20</item>
+         <item attribuut="Beantwoorder">
+            <persoon>d'Ancona</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-05-08</item>
+         <item attribuut="Beginpagina">1199</item>
+         <item attribuut="Eindpagina">1200</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1199" allpagenumbers="1199" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 - 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's-Gravenhage 1992"/>
+      <vraagdata vraagnummer="570" onderwerp="de sluiting van een nachtopvangcentrum voor daklozen in Maastricht." indiendatum="1992-03-20">
+         <vrager partij="Groen Links" oorsprong="parlement">Lankhorst</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="8 mei 1992) zie ook Aanhangsel Handelingen, nr. 538, Vergaderjaar 1991-1992">
+         <antwoorder functie="minister" ministerie="Welzijn, Volksgezondheid en Cultuur">d'Ancona</antwoorder>
+         <mede-antwoorder>de minister van Binnenlandse Zaken</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Is het u bekend, dat de gemeente Maastricht een tijdelijk nachtopvangcentrum voor daklozen negen dagen na de opening heeft gesloten vanwege pure terreur van een vijftigtal buurtbewoners? </vraag>
+      <vraag nummer="2">Is het juist, dat de terreur zodanig was dat gevreesd moest worden voor lijf en leden van de daklozen als de in gebruik zijnde sporthal nog langer als slaapplaats zou worden gebruikt? </vraag>
+      <vraag nummer="3">Is het u bekend, dat de daklozen als gevolg van de sluiting van de sporthal de nacht op straat moeten doorbrengen? </vraag>
+      <vraag nummer="4">Is het juist dat de Maastrichtse politie zich niet in staat acht de groep daklozen en de betrokken medewerkers van het Leger des Heils te beschermen tegen de terreur van de buurtbewoners? Bent u bereid hierover in overleg te treden met de gemeentepolitie van Maastricht? Bent u bereid, voor zover dat vanuit uw verantwoordelijkheid mogelijk is, u in te zetten voor de snelle realisering door de gemeente Maastricht van een blijvend onderkomen voor dak– en thuislozen? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Het is mij bekend, dat in de gemeente Maastricht een tijdelijke voorziening voor nachtopvang in een sporthal kort na de opening is gesloten tengevolge van provocerende en gewelddadige akties door buurtbewoners. Uit door de minister van Binnenlandse Zaken bij de burgemeester van Maastricht ingewonnen ambtsberichten blijkt dat naar het oordeel van de burgemeester door de akties van buurtbewoners en anderen de veiligheid van de bezoekers van de tijdelijke nachtopvangvoorziening en de hulpverleners van CAD en Leger der Heils ernstig werd bedreigd. </antwoord>
+      <antwoord nummer="3">Door de sluiting van de tijdelijke nachtopvang ontstond in Maastricht opnieuw een tekort aan tijdelijke slaapplaatsen voor dak– en thuisloze mensen. Voor een belangrijk deel kon dat tekort worden opgevangen door aanvullende faciliteiten te scheppen in de door het ministerie van WVC gesubsidieerde opvangvoorziening van het Leger des Heils. Een aantal dak– en thuislozen verblijft in sociale pensions, heeft inmiddeis (elders) een andere oplossing gevonden of verblijft wederom in portieken of verlaten gebouwen. </antwoord>
+      <antwoord nummer="4">Uit de in het antwoord op vraag 2 bedoelde ambtsberichten is gebleken dat, toen bleek dat van de zijde van de buurtbewoners verzet ontstond tegen de tijdelijke opvang in de sporthal, door de burgemeester van Maastricht in overleg met de hulpverlenende instantie, is gekozen voor een de-escalerend beleid. Dit hield in: kalmerend optreden tegen provocaties, begeleiding van het bustransport van daklozen en permanente aanwezigheid van politiefunktionarissen bij de sporthal. Dit legde een zwaar beslag op de capaciteit van de surveillancegroepen. Uit een oogpunt van bewaking ligt de sporthal niet ideaal. Inzet van meer politie zou echter ten koste zijn gegaan van de overige surveillancetaken van de politie en paste bovendien niet in het de-escalerende beleid. Optreden van de politie tegen iedere overtreding zou, naar het oordeel van de burgemeester, hebben geleid tot een geweldspiraal met als des Heils zal overleg worden gevoerd over de wijze, waarop de bijdrage vanuit deze voorziening aan de oplossing van deze problematiek kan worden voortgezet. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001330</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001330&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001330</item>
+         <item attribuut="Document-id">0000027667</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 396</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden V. A. M. van der Burg en Krajenbrink (beiden C.D.A.) over uitspraken van de Amsterdamse hoofdcommissaris.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 396</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">396</item>
+         <item attribuut="Indiener">
+            <persoon>van der Burg V.A.M.</persoon>
+            <persoon partij="CDA">Krajenbrink</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-12-20</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Dales</persoon>
+            <persoon>Kosto</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-02-15</item>
+         <item attribuut="Beginpagina">805</item>
+         <item attribuut="Eindpagina">806</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="805" allpagenumbers="805" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's-Gravenhage 1991"/>
+      <vraagdata vraagnummer="396" onderwerp="uitspraken van de Amsterdamse hoofdcommissaris." indiendatum="1990-12-20">
+         <vrager partij="" oorsprong="parlement">van der Burg V.A.M.</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Krajenbrink</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="15 februari 1991), zie ook Aanhangsel Handelingen nr. 350, vergaderjaar 1990-1991.">
+         <antwoorder functie="minister" ministerie="Binnenlandse Zaken">Dales</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Hebt u kennis genomen van de opmerkingen van de Amsterdamse hoofdcommissaris Nordholt'? </vraag>
+      <vraag nummer="2">Deelt u zijn opvatting, dat «niet zozeer gekeken moet worden naar wie hier wel of niet illegaal verblijft maar naar de vraag van het waarom»? </vraag>
+      <vraag nummer="3">Deelt u de mening, dat de hoofd– commissaris de aan de orde gestelde problemen simpeler voorstelt dan ze in werkelijkheid zijn? </vraag>
+      <vraag nummer="4">Bent u niet van oordeel, dat juist het niet uitzetten van illegalen voorbijgaat aan de maatschappelijke realiteit en wenselijkheid dat er sprake moet zijn van een effectief en helder uitzettingsbeleid in samenhang met een aanpassing van de asielprocedure? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1990-12-17" bron=" Trouw"> Trouw, 17 december 1990</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1">Wij hebben kennis genomen van de opmerkingen van de Amsterdamse hoofdcommissaris Nordholt zoals weergegeven in kranteberichten alsook van de tekst van het radiopro– gramma, waarop de kranteberichten waren gebaseerd.' 2-4 Uit de tekst van het radioprogramma blijkt dat de heer Nordholt ter zake aanmerkelijk genuanceerdere uitspraken deed dan de krantebe– richten deden vermoeden. Zo blijkt bijvoorbeeld nergens dat de hoofd– commissaris van mening zou zijn dat het niet tot de politietaak zou behoren in voorkomende gevallen illegale vreemdelingen uit te zetten. In het radioprogramma heeft de heer Nordholt een schets gegeven van de dilemma's waarvoor de politie over tien jaar kan komen te staan, indien een aantal ontwikkelingen, zoals de aanzwellende, ongeregelde migratie– stromen waarvan momenteel voorte– kenen te zien zijn, ongeremd en ongestuurd over de westerse landen, waaronder Nederland, zou komen. Wij zijn van mening dat de toekomstverwachtingen van de heer Nordholt bewaarheid zouden kunnen worden, als niet een beleid wordt gevoerd om deze tendensen te keren. De mogelijke toename van problemen rond de eeuwwisseling is echter ook door ons onderkend. Het geïntegreerde preventieve vreemdelingenbeleid dat het kabinet voert en in het kader waarvan dit jaar weer nieuwe, op (inter-)nationale bestuurlijke samenwerking gerichte maatregelen zullen worden voorge– steld, heeft tot doel de gevolgen van ongeregelde migratiestromen zoveel mogelijk te beheersen en de oorzaken waar mogelijk weg te nemen. Van het geïntegreerde vreemdelingenbeleid maakt een mede door de politie uit te voeren effectief verwijderingsbeleid, nu en in de toekomst, deel uit. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Als bijlage hierbij gevoegd en aldus ter inzage gelegd op de bibliotheek</noot>
+      </noten>
+   </antwoorden>
+</kvr>

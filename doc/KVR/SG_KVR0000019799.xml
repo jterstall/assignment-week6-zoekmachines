@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001413</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001413&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001413</item>
+         <item attribuut="Document-id">0000019799</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 398</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Kohnstamm, Eisma (beiden D66), Netelenbos, van Traa (beiden PvdA) en E. G. Terpstra (VVD) en Sipkes (Groen Links) over een 14-jarige lers meisje dat ten gevolge van een verkrachting zwanger is geworden en geen abortus mag ondergaan.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 398</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">398</item>
+         <item attribuut="Indiener">
+            <persoon>Kohnstamm</persoon>
+            <persoon>Eisma</persoon>
+            <persoon>Netelenbos</persoon>
+            <persoon>van Traa</persoon>
+            <persoon>Terpstra E.G.</persoon>
+            <persoon>Sipkes</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-02-20</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Lubbers</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-02-25</item>
+         <item attribuut="Beginpagina">843</item>
+         <item attribuut="Eindpagina">844</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="843" allpagenumbers="843" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="'s-Gravenhage 1992"/>
+      <vraagdata vraagnummer="398" onderwerp="een 14-jarige lers meisje dat ten gevolge van een verkrachting zwanger is geworden en geen abortus mag ondergaarf." indiendatum="1992-02-20">
+         <vrager partij="" oorsprong="parlement">Kohnstamm</vrager>
+         <vrager partij="" oorsprong="parlement">Eisma</vrager>
+         <vrager partij="" oorsprong="parlement">Netelenbos</vrager>
+         <vrager partij="" oorsprong="parlement">van Traa</vrager>
+         <vrager partij="" oorsprong="parlement">Terpstra E.G.</vrager>
+         <vrager partij="" oorsprong="parlement">Sipkes</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-02-25">
+         <antwoorder functie="minister-president" ministerie="Buitenlandse Zaken a.i">Lubbers</antwoorder>
+         <mede-antwoorder>de minister van Justitie</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Hebt u kennisgenomen van berichten met betrekking tot een 14-jarig lers meisje dat tengevolge van een verkrachting zwanger is geworden, en op grond van een uitspraak van het High Court te Dublin van 17 februari jl. haar land niet mag verlaten zolang zij zwanger is, om te voorkomen dat zij elders een abortus ondergaat? </vraag>
+      <vraag nummer="2">Deelt u het oordeel van het Nederlands Juristen Comité voor de Mensenrechten, dat in casu sprake is van schending van verschillende rechten van de mens, zoals het recht om een land te verlaten geregeld in het Handvest van Parijs (CVSE)? </vraag>
+      <vraag nummer="3">Bent u bereid - al dan niet in samenwerking met andere landen - nog deze week opheldering over deze aangelegenheid te vragen aan de lerse regering in het kader van het bestaande toezichtmechanisme van de CVSE? Bent u bereid, gezien het spoedeisende belang van de zaak voor betrokkene, deze vragen voor 25 februari a.s. te beantwoorden? </vraag>
+      <vraag nummer="1"/>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1 t/m4">Van genoemde berichten hebben wij kennisgenomen. Tegen de uitspraak van het High Court te Dublin is inmiddels beroep aangetekend bij het lerse Supreme Court. Deze zaak wordt thans door dit hoogste Rechtscollege behandeld. Wij zijn derhalve van mening dat geen reden bestaat, vooruit te lopen op de uitkomst van dit beroep. Voor wat betreft het in vraag 3 bedoelde CVSE-mechanisme zij voorts opgemerkt, dat gebruik hiervan niet is aangewezen zolang nog nationale en andere rechtsmiddelen, zoals een beroep op het Europese Hof voor de Rechten van de Mens te Straatsburg, openstaan. Met name ook gelet op de gerechtelijke procedures welke thans nog gaande dan wel mogelijk zijn, zien wij geen aanleidmg ons uit te spreken over de vraag in hoeverre al dan niet zou kunnen worden gesproken van schendmg van verschillende rechten van de mens. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

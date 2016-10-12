@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001487</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001487&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001487</item>
+         <item attribuut="Document-id">0000035894</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 565</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Smits (C.D.A.) over de toepassing van bolbliksem.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 565</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">565</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Smits</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-03-30</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Andriessen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-04-24</item>
+         <item attribuut="Beginpagina">1137</item>
+         <item attribuut="Eindpagina">1138</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1137" allpagenumbers="1137" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN0921 -7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="565" onderwerp="de toepassing van bolbliksem." indiendatum="1990-03-30">
+         <vrager partij="CDA" oorsprong="parlement">Smits</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="24april 1990">
+         <antwoorder functie="minlster" ministerie="Economische Zaken">Andriessen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Bent u het eens met de opvatting van prof. Smirnov, dat binnen een termijn van vijf jaar praktische toepassingen van de bolbliksem als chemische katalysator mogelijk zijn, hetgeen door de geavanceerde keramiek technologie van ECN versneld kan worden <voetnoot nummer="1"/>Wat is uw oordeel over het feit, dat bij koude kernfusie electro– chemische reacties samengaan met kernfusiereacties, die per reactie 1 miljoen maal zoveel meer energie vrijmaakt dan een chemische reactie, zodat hierin een oplossmg voor de toekomstige energiebehoefte ligt besloten? </vraag>
+      <vraag nummer="3">Erkent u de vooraanstaande en baanbrekende rol van Nederland ten opzichte van andere landen op het gebied van het bolbliksemon– derzoek? </vraag>
+      <vraag nummer="4">Bent u bereid te erkennen, dat voort– gezet onderzoek naar de toepassing van bolbliksem, zoals dat wordt verricht door Convectron N.V., wenselijk is? </vraag>
+      <vraag nummer="5">Bent u in dit kader bereid financiële middelen ter beschikking te stellen voor de organisatie van het Third International Ball Lightning Symposium in 1992 te Eindhoven? ECN = Stichting energie-onderzoek– centrum Nederland </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1990-03-7" bron=" PTaktueel"> PTaktueel, 7 maart 1990</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">De heer professor Smirnov is op grond van uitgebreid onderzoek van mening, dat het verschijnsel bolbliksem verklaard kan worden uitgaande van een chemisch reactie– proces. Deze opvatting staat haaks op die van Convectron N.V., waar men uitgaat van de gedachte dat in bolbliksems kernfusie plaatsvindt. Een duidelijke en éénduidige weten– schappelijke verklaring voor het verschijnsel bolbliksem ontbreekt tot op heden. Ook bestaat er geen uitzicht op praktische toepassingen binnen een periode van vijf jaar van de bolbliksem, noch als chemische katalysator, noch als energie-optie. </antwoord>
+      <antwoord nummer="2">De mogelijke energie-opwekking met koude kernfusie is een onderwerp, dat het afgelopen jaar in het centrum van de wetenschappelijke belang– stelling heeft gestaan. De aanvan– kelijk hooggespannen verwachtingen werden door de uitkomsten van vele latere experimenten getemperd. Over deze teleurstellende uitkomsten werd onder meer gerapporteerd door het directoraat-generaal XII van de EG. Daarnaast werd hierover gerap– porteerd door het 'Cold Fusion Panel', dat door het US Department of Energy werd ingesteld. Beide rapportages vermelden, dat met de uitgevoerde experimenten niet het bewijs kan worden geleverd dat koude kernfusie een bruikbare energiebron zou kunnen zijn. </antwoord>
+      <antwoord nummer="3 en 4">Tot op heden ontbreekt een éénduidige en algemeen geaccep– teerde wetenschappelijke verklaring van het verschijnsel bolbliksem. De fundamentele mogelijkheid van energiewinning uit bolbliksem is door internationaal erkende deskundigen op het gebied van kernfusie en plasmafysica niet aangetoond. Het onderzoek van de bolbliksem, dat tot op heden in Nederland voornamelijk door Convectron is uitgevoerd, heeft niet aangetoond, dat sprake is van kernfusieverschijnselen. In die zin kan dan ook niet worden gesproken van een vooraanstaande en baanbre– kende rol van Nederland ten opzichte van andere landen op het gebied van bolbliksemonderzoek. De sedert enkele jaren gevoerde wetenschap– pelijke discussie over het verschijnsel bolbliksem biedt tot op heden onvoldoende aanknopings– punten om bolbliksem als een energie-optie te beschouwen. Tegen de achtergrond hiervan acht ik voort– gezet onderzoek naar de toepassing van bolbliksem, zoals dat wordt verricht door Convectron N.V., althans met steun van de rijks– overheid, niet wenselijk. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

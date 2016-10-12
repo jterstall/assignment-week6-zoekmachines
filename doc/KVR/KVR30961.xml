@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Tang (PvdA) aan de staatssecretaris van Financiën over softwarefouten bij de Belastingdienst. (Ingezonden 16 januari 2008); Antwoord</item>
+         <item attribuut="Bestand">14Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR30961
+</item>
+         <item attribuut="Inhoud">In de specificaties voor de elektronische aangifte voor 2007 zitten fouten. Hierdoor komen de commerciële partijen die aangifteprogramma's maken voor bedrijven en particulieren in de problemen.</item>
+         <item attribuut="Rubriek">Belastingen (Belastingdiensten) Communicatie, media en informatievoorziening (Hard- en software)</item>
+         <item attribuut="Trefwoorden">Belastingdienst Software</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2007-2008, nr. 1402, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070808500</item>
+         <item attribuut="Afkomstig_van">Financiën (FIN)</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Tang</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2008-02-21</item>
+         <item attribuut="Datum_indiening">2008-01-16</item>
+         <item attribuut="Document-id">KVR30961</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="3005" allpagenumbers="3005" vetnummer="2070808500" code="0708tkkvr1402" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Aanhangsel" filenaam="KVR30961" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="1402" onderwerp="" indiendatum="2008-01-16">
+         <vrager partij="PvdA" oorsprong="parlement">Tang</vrager>
+         <vraagt-aan>de staatssecretaris van Financiën</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2008-02-21">
+         <antwoorder functie="staatssecretaris" ministerie="Financiën">De Jager</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="8">
+      <vraag nummer="1" voetnoot="1">Kent u het bericht «Fiscus te laat met software»? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Is het waar dat er fouten zitten in de aangifte-software? </vraag>
+      <vraag nummer="3">Is het waar dat fouten in de specificaties voor de elektronische aangifte niet meer worden opgelost in de aangifte voor 2007? </vraag>
+      <vraag nummer="4">Wat is de omvang van de fouten? Wat is de oorzaak van de fouten? </vraag>
+      <vraag nummer="5">Is het waar dat er foute gegevens aan marktpartijen zijn verstrekt, en dat marktpartijen pas heel laat hun programma’s kunnen testen? </vraag>
+      <vraag nummer="6">Hoe is te verklaren dat het aangifteprogramma van de Belastingdienst zelf wél op tijd klaar is, maar dat er verkeerde gegevens aan bedrijven zijn geleverd? </vraag>
+      <vraag nummer="7">Is het waar dat commerciële aangifteprogramma’s voor bedrijven en particulieren door deze fouten vertraging oplopen? </vraag>
+      <vraag nummer="8">Is het waar dat er grote achterstanden zijn bij het verwerken van belastingaangiften voor particulieren en bedrijven over 2006? Zo ja, hoe groot zijn deze achterstanden en hebben ze invloed op de verwerking van de aangiftes over 2007? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="2008-01-12" bron="De Telegraaf">De Telegraaf, 12 januari 2008</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2, 3 en 4">Ik neem aan dat de vragensteller doelt op softwarepakketten die door marktpartijen worden ontwikkeld voor het doen van winstaangiften over het jaar 2007, want daar wordt over gesproken in het onder vraag 1 vermelde bericht. De Belastingdienst levert aan de marktpartijen de specificaties van deze software. In deze specificaties zitten geen fouten. Ik kan niet beoordelen of in de door marktpartijen ontwikkelde pakketten fouten zitten. </antwoord>
+      <antwoord nummer="5, 6 en 7">Zoals aangegeven in het antwoord op de vragen 2, 3 en 4 zijn geen foute gegevens aan marktpartijen verstrekt. Bij het beschikbaar stellen van testfaciliteiten voor twee nieuw te ontwikkelen onderdelen van de software voor winstaangiften – t.w. het centraal verzoek uitstelregeling en de schattingopgave ondernemers – is vertraging opgetreden. Beoogd was de testfaciliteiten voor deze onderdelen medio december 2007 vrij te geven. De testpoort van de Belastingdienst bleek hiervoor echter niet tijdig op het vereiste capaciteitsniveau te kunnen worden gebracht. Hierdoor kon de testfaciliteit voor het onderdeel «centraal verzoek uitstelregeling» eerst in januari 2008 worden opgeleverd. De testfaciliteit voor het onderdeel «schattingsopgave ondernemers» zal naar verwachting in april 2008 worden opgeleverd. Als gevolg van deze vertraging kan laatstgenoemd onderdeel niet worden opgenomen in de commerciële aangiftepakketten die begin 2008 op de markt worden gebracht. Marktpartijen kunnen besluiten dit onderdeel in een nieuwe release van de aangiftesoftware op te nemen. </antwoord>
+      <antwoord nummer="8">Vanwege de prioriteit die is gegeven aan het uitbetalen van de Toeslagen heeft de massale verwerking van de definitieve aanslagen inkomensheffing over 2006 een vertraging van twee maanden ondervonden. Het merendeel van de belastingplichtigen ontvangt ultimo februari 2008 de definitieve aanslagen. Dit heeft geen invloed op de verwerking van de aangiften inkomensheffing over 2007. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

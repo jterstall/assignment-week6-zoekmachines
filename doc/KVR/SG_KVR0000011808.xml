@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="voor 1 juni 1993 geschieden." aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001504</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001504&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001504</item>
+         <item attribuut="Document-id">0000011808</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 574</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Dijkstal en Van Hoof (beiden VVD) over het uitbrengen van theaterprodukties door werkloze podiumkunstenaars.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 574</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">574</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Dijkstal</persoon>
+            <persoon partij="VVD">Van Hoof</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-04-27</item>
+         <item attribuut="Beantwoorder">
+            <persoon>d'Ancona</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-05-17</item>
+         <item attribuut="Beginpagina">1175</item>
+         <item attribuut="Eindpagina">1176</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1175" allpagenumbers="1175" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="574" onderwerp="het uitbrengen van theaterprodukties door werkloze podiumkunstenaars." indiendatum="1993-04-27">
+         <vrager partij="VVD" oorsprong="parlement">Dijkstal</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Van Hoof</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1">Heeft het bureau Arbeidsvoorziening Gooi– en Vechtstreek 4.3 miljoen beschikbaar gesteld om drie theaterprodukties uit te brengen door werkloze podiumkunstenaars? </vraag>
+      <vraag nummer="2">Worden de betreffende kunstenaars geheel betaald uit de exploitatie van de betreffende theaterproduktie of behouden zij geheel of gedeeltelijk hun uitkering? </vraag>
+      <vraag nummer="3">Indien de kunstenaars werken met behoud van uitkering, ontstaat dan niet de situatie dat vanwege aanzienlijk lagere loonkosten deze theaterprodukties andere, duurdere produkties van bijvoorbeeld vrije producenten zullen verdringen? </vraag>
+      <vraag nummer="4">Indien men werkt met behoud van uitkering, hoe verhoudt zich dat dan tot bestaande bijverdienregels in de bijstand? </vraag>
+      <vraag nummer="5">Acht u het de taak van de regionale arbeidsbureaus om theaterprodukties mede te financieren? Zo ja, om welke reden? Zo neen, welke stappen zult u terzake ondernemen? Als het wel tot hun taak moet worden geacht, hoe verhoudt zich dat tot het kunstbeleid van WVC, waar in het Kunstenplan prïoriteiten worden afgewogen en subsidies worden toegekend? </vraag>
+      <vraag nummer="7">Betekent dit, dat het voor kan komen dat kunstenaars, die een subsidie-aanvraag voor een theaterproduktie hebben ingediend en op basis van het Kunstenplan een negatieve beslissing krijgen, vervolgens bij een arbeidsbureau financiële steun kunnen krijgen? Acht u zulks wenselijk? Zo ja, waarom? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+   <mededeling mededeler="d'Ancona" functie="minister" afdeling="Welzijn, Volksgezondheid en Cultuur" mededelingdatum="1993-05-17">Mededeling van minister d'Ancona (Welzijn, Volksgezondheid en Cultuur) (Ontvangen 17 mei 1993) De bij brief aan mij en mijn ambtgenoot van Sociale Zaken en Werkgelegenheid toegezonden vragen van de leden van uw Kamer Dijkstal en Van Hoof over het uitbrengen van theaterprodukties door werkloze podiumkunstenaars kunnen tot mijn spijt niet binnen de gebruikelijke termijn worden beantwoord. De reden van het uitstel is dat - zoals te doen gebruikelijk in gevallen waarin de Arbeidsvoorziening is betrokken - de minister van Sociale Zaken en Werkgelegenheid het Centraal Bestuur Arbeidsvoorziening schriftelijk om nadere informatie heeft verzocht. Zo spoedig mogelijk nadat deze informatie is verstrekt zal tot beantwoording worden overgegaan. Dit zal vermoedelijk nog </mededeling>
+</kvr>

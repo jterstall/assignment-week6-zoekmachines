@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19881989:0001221</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001221&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001221</item>
+         <item attribuut="Document-id">0000090820</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1988-1989 nummer 218</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Stoffelen en Hageman (beiden P.v.d.A) over de geneeskundige verzekering voor politieambtenaren, die ongehuwd samenwonen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1988-1989 nummer 218</item>
+         <item attribuut="Jaargang">1988_1989</item>
+         <item attribuut="Vraagnummer">218</item>
+         <item attribuut="Indiener">
+            <persoon>Stoffelen</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1988-06-29</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van Dijk</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-01-02</item>
+         <item attribuut="Beginpagina">437</item>
+         <item attribuut="Eindpagina">438</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1988-1989 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 8 - 1 9 8 9 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="218" onderwerp="de geneeskundige verzekering voor politieambtenaren, die ongehuwd samenwonen." indiendatum="29 juni 1988)">
+         <vrager partij="" oorsprong="parlement">Stoffelen</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1 ">Kunnen politieambtenaren, die  ongehuwd samenwonen, hun  partners niet meeverzekeren in de  geneeskundige verzekering voor  politieambtenaren?  Loopt de politie hermee achter op de  ziektenkostenregelingen voor andere  ambtenaren?  </vraag>
+      <vraag nummer="3 ">Heeft de politievakbeweging al in  april 1987 voorgesteld de gelijkstel- ling van samenwonenden ten  opzichte van gehuwden in de  ziektekostenregeling voor ambte- naren te regelen?  </vraag>
+      <vraag nummer="4 ">Bent u bereid te bevorderen, dat ten  spoedigste deze discriminatie van  ongehuwd samenwonenden ten  opzichte van gehuwde politieambte- naren wordt opgeheven?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

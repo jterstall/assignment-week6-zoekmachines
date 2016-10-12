@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="4">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19941995:0000596</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000596&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000596</item>
+         <item attribuut="Document-id">0000000596</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1994-1995 nummer 261</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Van 't Riet en Augusteijn-Esser (beiden D66) over kerosinelozingen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1994-1995 nummer 261</item>
+         <item attribuut="Jaargang">1994_1995</item>
+         <item attribuut="Vraagnummer">261</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Van 't Riet</persoon>
+            <persoon partij="D66">Augusteijn-Esser</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-11-03</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Jorritsma-Lebbink</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-12-12</item>
+         <item attribuut="Beginpagina">525</item>
+         <item attribuut="Eindpagina">526</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1994-1995" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="525" allpagenumbers="525" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1994-1995, Aanhangsel" filenaam="" issn-nummer="ISSN0921 -7398" uitgever="'s-Gravenhage 1994"/>
+      <vraagdata vraagnummer="261" onderwerp="kerosinelozingen." indiendatum="1994-11-3">
+         <vrager partij="D66" oorsprong="parlement">Van 't Riet</vrager>
+         <vrager partij="D66" oorsprong="parlement">Augusteijn-Esser</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="12 december 1994), zie ook aanhangsel Handelingen nr. 222, vergaderjaar 1994-1995">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">Jorritsma-Lebbink</antwoorder>
+         <mede-antwoorder>de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Bent u bekend met de recente lozing van kerosine door een NAVO-tank-vliegtuig boven het DSM-complex? <voetnoot nummer="1"/>Kent u de gevaren van kerosinelozingen boven chemisch-industriële complexen? </vraag>
+      <vraag nummer="3">Welke regels gelden ten aanzien van het vliegen over chemisch-industriële complexen en het lozen van kerosine boven dergelijke complexen zowel voor civiele als militaire toestellen? </vraag>
+      <vraag nummer="4">Bent u bereid een onderzoek in te stellen (zoals gevraagd door de AWACS-commissie) naar kerosinelozingen en de mogelijke nadelige gevolgen daarvan? </vraag>
+      <vraag nummer="5">Zijn er maatregelen te verwachten om het lozen van kerosine boven industriële complexen tegen te gaan? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1994-10-29" bron=" De Limburger 29 oktober 1994 en Limburgs dagblad"> De Limburger 29 oktober 1994 en Limburgs dagblad, 29 oktober 1994</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja, het is mij, geruime tijd na het incident, onder de aandacht gekomen. </antwoord>
+      <antwoord nummer="2">De uitstroomsnelheid van de brandstof in relatie tot de vliegsnelheid is zodanig dat de concentratie kerosine op de grond zeer laag is. Kerosinelozing kan leiden tot tijdelijke stankoverlast op de grond, maar door de lage concentratie en de snelle verdamping is het gevaar-risico in het algemeen zeer gering. Een definitieve uitspraak over de gevaarzetting in deze specifieke situatie is evenwel niet mogelijk zonder een nadere analyse, aangezien dit afhankelijk is van een aantal per geval specifieke factoren zoals de hoogte van een eventuele ontstekingsbron op het terrein en het mogelijk optreden van een domino-effect na het eventueel ontstaan van brand op hetterrein met verdere gevolgen. </antwoord>
+      <antwoord nummer="3">Er gelden geen aparte regels voor het vliegen boven chemisch-industriële complexen. Wel bestaan er algemene regels m.b.t. minimum vlieghoogtes, zowel voor civiel als voor militair verkeer. Hieraan werd voldaan. Het lozen van kerosine is alleen toegestaan als zich met het vliegtuig een bijzondere situatie voordoet. </antwoord>
+      <antwoord nummer="4">Een reeds lopend onderzoek waarin Duitse en Nederlandse gezondheidsdiensten samenwerken en waarbij naast een gezondheidsonderzoek bij schoolkinderen, de luchtkwaliteit wordt onderzocht zal uitsluitsel geven over het nut van een vervolgonderzoek naar de mogelijk nadelige gevolgen van kerosinelozingen. De Commissie AWACS heeft aan de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer per brief van 20 oktober gevraagd om de mogelijkheden van een dergelijk onderzoek op korte termijn te bezien. Dit verzoek staat los van het onderhavige incident op 14 september jongstleden. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

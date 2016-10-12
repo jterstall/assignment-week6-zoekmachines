@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001738</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001738&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001738</item>
+         <item attribuut="Document-id">0000036145</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 814</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Lilipaly (P.v.d.A.) over oefenvluchten boven Zeeland.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 814</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">814</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Lilipaly</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-07-10</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van Voorst tot Voorst</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-07-20</item>
+         <item attribuut="Beginpagina">1645</item>
+         <item attribuut="Eindpagina">1646</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1645" allpagenumbers="1645" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij s Gravenhage 1990"/>
+      <vraagdata vraagnummer="814" onderwerp="oefenvluchten boven Zeeland." indiendatum="1990-07-10">
+         <vrager partij="PvdA" oorsprong="parlement">Lilipaly</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-07-20">
+         <antwoorder functie="staatssecretaris" ministerie="Defensie">baron Van Voorst tot Voorst</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Welke aanpassing moet worden gedaan aan de vliegveiligheidsuit– rusting om meer oefenvluchten boven zee te kunnen doen plaats– vinden? Wanneer is die aanpassing gereed? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Wat betekent het dóórtrekken van het bestaande oefengebied tot dertig kilometer uit de kust aan vermin– dering van geluidsbelasting voor Zeeland? Is het mogelijk de dertig kilometer grens verder uit te breiden waardoor de geluidsbelastmg boven Zeeland nog meer wordt gereduceerd? </vraag>
+      <vraag nummer="4">Bent u bereid vooruitlopend op de aanpassing van de vliegveiligheids– uitrusting het aantal oefenvluchten boven Zeeland verder te reduceren? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Zie ook Aanhangsel Handelingen nr. 748, vergaderjaar 1989-1990</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">De aanpassingen welke moeten worden gedaan aan de vliegveilig– heidsuitrusting betreffen uitrustings– stukken die de vlieger in staat moeten stellen om te kunnen overleven indien hij te water geraakt. Het gaat met name om bescher– mende kleding tegen lage zeewater– temperaturen en een opblaasbaar bootje. In verband met de in het vliegtuig beschikbare ruimte kan bestaande uitrusting welke in andere vliegtuigen wordt gebruikt niet worden overgenomen. Bovendien zal ook een ander type parachute moeten worden ingevoerd. Tenslotte zullen de vhegers aanvullende oplei– dingen op het gebied van «sea-survival» dienen te volgen. Momenteel is onderzoek gaande naar geschikte vliegveiligheidsuit– rusting voor de PC-7. Van het tijdstip van gereedstelling van de nieuwe vliegveiligheidsuitrusting is momenteel nog geen reële schatting te maken. Verwerving en invoering is afhankelijk van de levertijden van de geselecteerde fabrikanten. De inspanningen zijn er echter op gericht e.e.a. met de grootste spoed te realiseren. </antwoord>
+      <antwoord nummer="2">In principe wordt uitgegaan van een drietal oefengebieden t.w. het westelijk deel van de provincie Brabant, het plaatselijk verkeerslei– dingsgebied van de Vliegbasis Woensdrecht inclusief het oostelijk deel van de provincie Zeeland en het gebied ten westen van Goes tot 30 km uit de kust. Afhankelijk van de fase van de opleidingen, de weerssi– tuatie en de capaciteit van de diverse gebieden - gezien het overige lucht– verkeer - wordt gestreefd naar een evenredige verdeling van drie PC-7's per oefengebied. Na invoering van de nieuwe vliegveiligheidsuitrusting kunnen twee PC-7's tegelijkertijd in het gebied boven zee oefenvluchten uitvoeren, hetgeen in het gebied ten westen van Goes een aanzienlijke vermindering van de geluidsbelasting betekent. Neen, verdere uitbreiding conflic– teert met civiel luchtverkeer, met name de naderings– en vertrekpro– cedure van het vliegveld Zestien– hoven. </antwoord>
+      <antwoord nummer="4">Het totale aantal trainingsvluchten kan niet worden teruggebracht. Vermindering van het aantal vluchten boven Zeeland zou derhalve een intensivering van het aantal vluchten boven met name Noord-Brabant inhouden. Ik acht een evenredige verdeling van de vluchten over de beide provincies wenselijk. Daarover vindt thans overleg plaats met de provinciebesturen van Noord– Brabant en Zeeland. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

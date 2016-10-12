@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001715</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001715&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001715</item>
+         <item attribuut="Document-id">0000107490</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 682</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid De Visser (P.v.d.A.) over de privatisering van het loodswezen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 682</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">682</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">De Visser</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-04-15</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Smit-Kroes</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-05-11</item>
+         <item attribuut="Beginpagina">1355</item>
+         <item attribuut="Eindpagina">1356</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1986-1987 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="682" onderwerp="de privatisering van het loodswezen." indiendatum="14 april 1987)">
+         <vrager partij="PvdA" oorsprong="parlement">De Visser</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="11 mei 1987)">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">S m i t - K r o e s</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1 ">W a t bedoelt de minister met de  opmerking in haar brief van 3 april jl.  (Kamerstuk 17  9 3 8 , nr. 30) inzake de  privatisering van het loodswezen,  «...dat reeds thans kan worden  overgegaan tot het operationeel  functioneren van de loodsdiensten  als ware de loodsenwet in werking  getreden»?  die echter uitdrukkelijk de formele  verantwoordelijkheid van de dienstlei- ding onverlet laten.  </vraag>
+      <vraag nummer="2 ">Ten aanzien van het thans operatio- neel functioneren van de loodsdien- sten, als ware er ook formeel  verzelfstandigd, heeft de staat geen  privaatrechtelijke verplichtingen als  bedoeld aangegaan. Dit functioneren  gebeurt immers binnen de bestaande  publiekrechtelijke verhoudingen en  zal na de formele verzelfstandiging  eveneens op publiekrechtelijke  grondslag (i.c. de Loodsenwet)  plaatsvinden.  In hoeverre heeft de Staat der  Nederlanden privaatrechtelijke  verplichtingen aangegaan, die nog  geen wettelijke grondslag hebben  verkregen?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1 ">Zoals ik reeds in mijn brief van 3 april  1987 (kamerstuk 17 938, nr. 30) heb  gesteld is gekozen voor het binnen- ambtelijk reeds zoveel mogelijk  verzelfstandigd laten functioneren  van de loodsdienst. Daarbij gaat het  vooral om de inzet (regelingen) van  loodsen, van vaartuigen en van  bemanningen van die vaartuigen.  Daartoe zijn enige (ambtelijke)  bevoegdheidsregelingen getroffen  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

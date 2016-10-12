@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="2">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0001541</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001541&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001541</item>
+         <item attribuut="Document-id">0000004052</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 327</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Linschoten (VVD) over aanvullende pensioenen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 327</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">327</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Linschoten</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-02-15</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Wallage</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-02-23</item>
+         <item attribuut="Beginpagina">665</item>
+         <item attribuut="Eindpagina">666</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="665" allpagenumbers="665" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 • 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's-Gravenhage 1994"/>
+      <vraagdata vraagnummer="327" onderwerp="aanvullende pensioenen." indiendatum="15februari 1994">
+         <vrager partij="VVD" oorsprong="parlement">Linschoten</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-02-23">
+         <antwoorder functie="staatssecretaris" ministerie="Sociale Zaken en Werkgelegenheid">Wallage</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1" voetnoot="1">Hebt u gezegd <voetnoot nummer="1"/>, dat aanvullende pensioenen de komende jaren niet moeten worden verbeterd en dat de financile ruimte van pensioenfondsen gebruikt moet worden om de premies te verlagen? </vraag>
+      <vraag nummer="2">Deelt u de mening, dat het niet aangaat dat de overheid het niet verbeteren van aanvullende pensioenen propageert? Zo ja, waarom hebt u dergelijke uitspraken dan gedaan? Zo neen, waarom niet? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Hier en Nu, NCRV Teletekst, pagina 151 van 14februari 1994</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ik heb het volgende gezegd: «als werkgevers nu in allerlei rapporten een enorm punt gaan maken van de kosten van de oudedagsvoorziening, dan kunnen zij als mede verantwoordelijken voor die aanvullende pensioenregelingen er zelf voor zorgen dat, als er nu de komende jaren bij de pensioenfondsen weer een beetje ruimte is, dat niet weer gebruikt wordt voor een verdere verbetering van het aanvullende pensioen, maar voor verlaging van de premie». </antwoord>
+      <antwoord nummer="2">Het lijkt mij niet ongepast dat de overheid organisaties die de kosten voor oudedagsvoorzieningen als een groot probleem ervaren ook wijst op hun eigen mogelijkheden om hier iets aan te doen. Ik heb dan ook niet meer gedaan dan een oproep aan werkgevers om, naast alles wat zij van de overheid vragen, in één opzicht ook de hand in eigen boezem te steken. Ik heb er daarbij uitdrukkelijk op gewezen dat het de eigen verantwoordelijkheid van werkgevers en werknemers is om de aanvullende pensioenen nu niet verder riant te maken, maar de ruimte die er bij de pensioenfondsen is te gebruiken voor premieverlaging. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

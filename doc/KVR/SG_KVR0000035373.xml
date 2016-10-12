@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="2">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19891990:0000966</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0000966&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0000966</item>
+         <item attribuut="Document-id">0000035373</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 47</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Wolters (C.D.A.) over opleidingsprojecten voor werklozen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 47</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">47</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Wolters</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-08-31</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Braks</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-10-06</item>
+         <item attribuut="Beginpagina">95</item>
+         <item attribuut="Eindpagina">96</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="95" allpagenumbers="95" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 921 7398" uitgever="SDU uitgevenj 's Gravenhage 1989"/>
+      <vraagdata vraagnummer="47" onderwerp="opleidingsprojecten voor werklozen." indiendatum="1989-08-31">
+         <vrager partij="CDA" oorsprong="parlement">Wolters</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1989-10-6">
+         <antwoorder functie="minister" ministerie="Sociale Zaken en Werkgelegenheid a.i.">Braks</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1">Is het u bekend, dat op verscheidene plaatsen in Nederland kansrijke opleidingsprojecten voor werklozen met baangarantie worden onder– nomen door samenwerkingsver– banden van Kamers van Koophandel, bedrijven, arbeidsbureaus en provin– ciale overheden? Zo ja, is het u bekend, dat deze projecten dreigen te mislukken, doordat werklozen geen toestemming krijgen van de bedrijfs– vereniging met behoud van uitkering een opleiding van dergelijke samen– werkingsverbanden te volgen, waarbij het scholingsadvies van het arbeidsbureau terzijde wordt geschoven, met telkens wisselende en tegenstrijdige argumenten? </vraag>
+      <vraag nummer="3">Bent u bereid terzake actie te onder– nemen teneinde aan dit probleem een einde te maken? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja, dat is mij bekend Ja, dat is mij bekend. De interpre– tatie van het begrip «bedrijfsop– leiding» (die niet met behoud van WW-uitkering mag worden gevolgd) door bedrijfsverenigingen is zodanig, dat veel door het arbeidsbureau aangewezen opleidingen daaronder worden begrepen. </antwoord>
+      <antwoord nummer="3" voetnoot="1">Het is u bekend, dat de bedrijfsver– enigingen met betrekking tot de uitvoering van o.a. de Werkloos– heidswet autonome bevoegdheden hebben, als gevolg waarvan ik geen dwingende aanwijzingen kan geven met betrekking tot het te voeren beleid terzake. In het verleden heb ik naar aanleiding van praktijkpro– blemen - zoals die ook door u worden aangehaald - verschillende keren de Sociale Verzekeringsraad schriftelijk verzocht te bevorderen dat bedrijfsverenigingen een uitke– ringsbeleid voeren dat zoveel mogelijk in overeenstemming is met het beleid dat de GAB's voeren ten aanzien van het aanbieden van scholing aan werklozen. Ik ben bereid mij nogmaals tot de SVr te richten en deze dringend te verzoeken de bedrijfsverenigingen te bewegen hun beleid terzake - met inachtneming van de bestaande bevoegdheden - zoveel mogelijk in overeenstemming met dat van de GAB's te voeren. Een kabinetsstandpunt over het voorzieningenbeleid in de toekomst kan pas worden ingenomen zodra alle adviezen over het te voeren voorzieningenbeleid zijn ontvangen. Zoals ik ook bij de beantwoording van eerdere vragen over WW-uitke– ringen van mw. Ter Veld <voetnoot nummer="1"/> heb aangegeven, acht ik het niet gewenst om vooruitlopend op het SVr-advies tot invulling van de gereserveerde artikelen in de WW over te gaan. Wel ben ik bereid om, vooruitlopend op het SVR-advies, op bestuurlijk niveau overleg te voeren met de Federatie van Bedrijfsverenigingen (F.B.V.) om op korte termijn een oplossing te zoeken voor de huidige knelpunten. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Aanhangsel Handelingen nr 482. Verga– derjaar 1988-1989</noot>
+      </noten>
+   </antwoorden>
+</kvr>

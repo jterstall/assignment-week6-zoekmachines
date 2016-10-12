@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001700</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001700&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001700</item>
+         <item attribuut="Document-id">0000036107</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 776</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Ter Veer (D66) over de runderziekte BSE.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 776</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">776</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Ter Veer</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-06-06</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Braks</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-07-10</item>
+         <item attribuut="Beginpagina">1567</item>
+         <item attribuut="Eindpagina">1568</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1567" allpagenumbers="1567" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="776" onderwerp="de runderziekte BSE." indiendatum="1990-06-6">
+         <vrager partij="D66" oorsprong="parlement">Ter Veer</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="10juli 1990">
+         <antwoorder functie="minister" ministerie="Landbouw, Natuurbeheer en Visserij">Braks</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="8">
+      <vraag nummer="1" voetnoot="1">Hebt u kennis genomen van de opschudding die in het Verenigd Koninkrijk is ontstaan als gevolg van de runderziekte BSE? <voetnoot nummer="1"/>Weet U, dat een zending van voor export naar de USSR bestemd fokvee is opgehouden als gevolg van de twijfel die bij de veterinairen in de Sovjet-Unie is gerezen over de mogelijk niet BSE-vrije status van de Nederlandse veestapel? </vraag>
+      <vraag nummer="3">Is deze twijfel ingegeven door het feit dat Nederland import van kalveren tot de leeftijd van zes maanden uit het Verenigd Koninkrijk toestaat? </vraag>
+      <vraag nummer="4">Deelt u de mening, dat het lange– termijnperspectief voor de Neder– landse landbouw is gelegen in een centrum-functie voor hoogwaardige landbouwtechnologie, daarbij inbegrepen een rol als leverancier van hoogwaardig fokvee (onder andere aan Sovjet-Unie en Oost-Europa)? </vraag>
+      <vraag nummer="5">Erkent u dat vaak subjectieve beoor– delingsnormen, o.a. met betrekking tot de veterinaire status, een rol spelen bij het wel of niet tot stand komen van transacties, zoals bedoeld in vraag 2 en 4? </vraag>
+      <vraag nummer="6">Moet deze lange-termijndoelstelling niet meewegen in het nemen van een beslissing over een eventueel import-verbod van rundvee uit het Verenigd Koninkrijk, ook voor kalveren tot de leeftijd van zes maanden? </vraag>
+      <vraag nummer="7">Welke inzichten zijn er in de veteri– naire wetenschap over aard, omvang, diagnose en therapie van de BSE-aandoening in het algemeen en op het Britse schiereiland in het bijzonder? </vraag>
+      <vraag nummer="8">Zijn verschillen van inzicht betref– fende deze ziekte een argument om tot import-verbod over te gaan? </vraag>
+      <vraag nummer="9">Bent u bereid ook voor kalveren jonger dan zes maanden afkomstig uit het Verenigd Koninkrijk een import-verbod af te kondigen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> BSE: zogenaamde mad-cow disease</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="6">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Ja. Nee. De reden dat de export van fokvee naar de USSR nog geen doorgang kan vinden is gelegen in het feit dat aanvullende garanties worden gevraagd ten aanzien van scrapie bij schapen in Nederland. </antwoord>
+      <antwoord nummer="4">Ja. </antwoord>
+      <antwoord nummer="5">Bij het tot stand komen van exporten van bijvoorbeeld fokvee spelen verschillende elementen een rol, o.a. de veterinaire gezondheidstatus van een land. Ontvangende landen zijn vrij hun eisen te stellen. Dat hierbij een zekere vorm van subjectiviteit een rol speelt is niet onmogelijk. </antwoord>
+      <antwoord nummer="6 en 9">Ingevolge de EG-beschikking 89/469/EEG is export van kalveren ouder dan zes maanden vanuit het Verenigd Koninkrijk niet toegestaan. Export van kalveren jonger dan zes maanden naar de EG-lidstaten is slechts toegestaan onder de in genoemde beschikking opgenomen voorwaarden. Het als zodanig éénzijdig instellen van een import– verbod voor kalveren jonger dan zes maanden is in strijd met het commu– nautaire recht. </antwoord>
+      <antwoord nummer="7">In de veterinaire wetenschap is men het erover eens dat de verwekker van BSE een agens is dat gerekend moet worden tot de groep van progressieve spongieuze encephalo– patieën. De omvang van de ziekte is mede door de lange incubatietijd van een aantal jaren nog niet vast te stellen. Engelse wetenschappers zijn van mening dat de omvang van de </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

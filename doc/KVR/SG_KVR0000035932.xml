@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001525</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001525&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001525</item>
+         <item attribuut="Document-id">0000035932</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 603</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Koetje en De Kok (beiden C.D.A.) over aanvragen voor geldelijke steun huisvesting gehandicapten.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 603</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">603</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Koetje</persoon>
+            <persoon partij="CDA">De Kok</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-03-12</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Heerma</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-05-04</item>
+         <item attribuut="Beginpagina">1213</item>
+         <item attribuut="Eindpagina">1214</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1213" allpagenumbers="1213" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="603" onderwerp="aanvragen voor geldelijke steun huisvesting gehandicapten." indiendatum="1990-03-12">
+         <vrager partij="CDA" oorsprong="parlement">Koetje</vrager>
+         <vrager partij="CDA" oorsprong="parlement">De Kok</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-05-4">
+         <antwoorder functie="staatssecretaris" ministerie="Volkshuisvesting, Ruimte– lijke Ordenmg en Milieubeheer">Heerma</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1">Bent u op de hoogte van de grote achterstand, die in de gemeente Arnhem is ontstaan bij de beslissing op aanvragen voor geldelijke steun in het kader van de Regeling Geldelijke Steun Huisvesting Gehandicapten, als gevolg van het niet tijdig beschikbaar komen van GMD-adviezen? Strookt het met de bedoeling van genoemde Regeling, dat anders dan in incidentele gevallen tussen het verzoek om geldelijke steun en de beslissing meer dan 3 maanden tot zelfs meer dan één jaar verstrijkt? </vraag>
+      <vraag nummer="3">Kan een dergelijke situatie leiden tot onnodig lang verblijf in revalidatie– centra of inadequate woonomstan– digheden voor de aanvragers, alsmede tot een onevenredig groot aantal afwijzingen voor bijdragen in verhuis– en herinrichtingskosten als gevolg van het feit, dat betrokkenen noodgedwongen zijn verhuisd, vóórdat op de aanvrage om gelde– lijke steun is beslist? </vraag>
+      <vraag nummer="4">Hoe verhoudt de situatie in Arnhem met betrekking tot de termijnen van GMD-advisering zich tot die in andere gemeenten? </vraag>
+      <vraag nummer="5">Bent u bereid maatregelen te treffen teneinde de achterstanden versneld in te lopen? </vraag>
+      <vraag nummer="6">Bent u bereid voor de langere termijn meer structurele maatregelen te treffen, bij voorbeeld het invoeren van een fatale termijn voor de GMD-advisering? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">De gemeente Arnhem heeft mij op 16 februari 1990 op de hoogte gesteld van het bestaan van achter– standen en de redenen hiervoor. Inzake de achterstandproblematiek was reeds in oktober 1989 overleg gepleegd met de GMD over de wenselijkheid van bekorting van de adviestermijnen. Dit heeft inmiddels geresulteerd in maatregelen die begin 1990 tot een aanmerkelijke verbetering hebben geleid. </antwoord>
+      <antwoord nummer="2">Neen. </antwoord>
+      <antwoord nummer="3">Deze consequenties behoren tot de mogelijkheden en hebben zich ook voorgedaan. Ook in andere gemeenten hebben zich problemen voorgedaan met de adviestermijnen. De GMD heeft landelijk maatregelen getroffen. Zie vraag 4. </antwoord>
+      <antwoord nummer="6">Bij een aanvaardbare adviestermijn is er geen aanleiding structurele maatregelen te treffen. Een fatale termijn voor de GMD advisering lijkt ook niet wenselijk. De vraag zou njzen in welke zin dan beschikt dient te worden; de regeling vereist thans een GMD-advies ten aanzien van de aard en omvang van de ondervonden ergonomische belemmering als basis voor de beschikking. Zowel bij een gemeentelijke beschikking als bij de toetsing aan de regelgeving zou een besluit zonder vorenbedoelde advies de belanghebbende burger nadelig kunnen treffen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

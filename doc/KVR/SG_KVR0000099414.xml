@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19871988:0001700</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001700&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001700</item>
+         <item attribuut="Document-id">0000099414</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1987-1988 nummer 757</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Meijer en Wöltgens (beiden P.v.d.A.) over het gevoerde begrotingsoverleg.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1987-1988 nummer 757</item>
+         <item attribuut="Jaargang">1987_1988</item>
+         <item attribuut="Vraagnummer">757</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Meijer</persoon>
+            <persoon partij="PvdA">Wöltgens</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1988-07-20</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Lubbers</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1988-07-21</item>
+         <item attribuut="Beginpagina">1523</item>
+         <item attribuut="Eindpagina">1524</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="" typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 7 - 1 9 8 8 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="757" onderwerp="" indiendatum="">
+         <vrager partij="PvdA" oorsprong="parlement">Meijer</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Wöltgens</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 ">Heeft het kabinet besloten dat de  compensatie voor prijsstijgingen per  begrotingshoofdstuk beperkt blijft tot  75%?'  Zo ja, welk bedrag is hiermee  gemoeid voor het begrotingshoofd- stuk van het ministerie van Defensie?  Konden alle deelnemers aan het  kabinetsberaad van vrijdag 15 en  zaterdag 16 juli  j l . de gevolgen van  die besluitvorming overzien? </vraag>
+      <vraag nummer="2 "/>
+      <vraag nummer="4 ">Is opnieuw sprake van een overschrij- ding van de uitgaven in het kader van  de WIR? Zo ja, hoe groot is die  overschrijding?  </vraag>
+      <vraag nummer="5 ">Heeft het kabinet al besluiten  genomen over de compensatie van  die overschrijding?  de besluitvorming in de ministerraad  over de begroting voor 1989 die  - blijkens tal van publikaties - ook bij  een aantal deelnemers aan het  kabinetsberaad bestaan.  </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="2"> Zie ook de berichtgeving hierover in de  Telegraaf van 20 juli 1988. </noot>
+         <noot nummer="3"> Zie het interview met de vice-minister  president in NRC/Handelsblad van 18 juli  1988. </noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="3 ">T o e l i c h t i n g  De vragenstellers beogen een einde  te maken aan de onduidelijkheid over  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

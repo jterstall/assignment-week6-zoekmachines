@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001161</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001161&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001161</item>
+         <item attribuut="Document-id">0000011465</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 230</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Van der Heijden, V. A. M. van der Burg en Reitsma (allen CDA) over het gebruik van handboeien door controleurs in het openbaar vervoer.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 230</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">230</item>
+         <item attribuut="Indiener">
+            <persoon>Van der Heijden</persoon>
+            <persoon>van der Burg V.A.M.</persoon>
+            <persoon>Reitsma</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-11-11</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Hirsch Ballin</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-12-15</item>
+         <item attribuut="Beginpagina">473</item>
+         <item attribuut="Eindpagina">474</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="473" allpagenumbers="473 474" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="230" onderwerp="het gebruik van handboeien door controleurs in het openbaar vervoer." indiendatum="1992-11-11">
+         <vrager partij="" oorsprong="parlement">Van der Heijden</vrager>
+         <vrager partij="" oorsprong="parlement">van der Burg V.A.M.</vrager>
+         <vrager partij="" oorsprong="parlement">Reitsma</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-12-15">
+         <antwoorder functie="minister" ministerie="Justitie">Hirsch Ballin</antwoorder>
+         <mede-antwoorder>de ministers van Binnenlandse Zaken en van Verkeer en Waterstaat</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1">Herinnert U zich de eerdere vragen van vragenstellers over het gebruik van handboeien door RET-controleurs? Zijn er inmiddels formele verzoeken (bijvoorbeeld in het kadervan het Plan van Aanpak voor het tegengaan van agressie in het openbaar vervoer) binnengekomen waarin gepleit wordt voor een al dan niet beperkte verstrekking van handboeien aan controleurs in het openbaar vervoer? </vraag>
+      <vraag nummer="3" voetnoot="1">Deelt u de mening, dat de huidige vorm en omvang van de agressie in het openbaar vervoer tot gevolg heeft dat controleurs zich niet of nauwelijks kunnen verdedigen waardoor én de motivatie èn het toezicht cq. de controle afneemt, hetgeen ongewenst moet worden geacht? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="4" voetnoot="2">Bent u bereid de Kamer ruim vóór de behandeling van het begrotings-onderdeel Politie mee te delen hoe u deze problematiek wilt aanpakken? Wilt u daarbij ook ulteenzetten wat de exacte stand van zaken is met betrekking tot de voornemens uit het Plan van Aanpak en de besteding van de daarvoor beschikbare middelen? Waarom bent u tegenstander van het verstrekken van vuurwapens aan de politiesurveillanten? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="6">Dient de korpschef/korpsbeheerder niet zelf te kunnen bepalen, al naar gelang de taken die hij/zij aan de politiesurveillant oplegt, of hij/zij daarbij de beschikking over een vuurwapen moet krijgen? </vraag>
+      <vraag nummer="7"/>
+      <noten afkomstig="vraag">
+         <noot nummer="2" datum="1992-11-7" bron=" Zie NRC Handelsblad"> Zie NRC Handelsblad, 7 november 1992</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja. Nee, noch bij de Hoofdofficier van Justitie te Rotterdam noch bij mijn ambtgenoten van Binnenlandse Zaken en van Verkeer en Waterstaat noch bij mij zijn formele verzoeken binnengekomen. Wel heeft de directeur van de RET in een gesprek met de Hoofdofficier van Justitie te Rotterdam de wens geuit dat een deel van de controleurs van de RET met handboeien wordt uitgerust. Mijn standpunt hierover - een beperkte, gecontroleerde verstrekking na toetsing in het driehoeksoverleg - heb ik in de antwoorden op de vragen van 1 juni 1992 uiteengezet.' </antwoord>
+      <antwoord nummer="3" voetnoot="2">Wij zijn van mening dat de huidige vorm en omvang van de agressie in het openbaar vervoer zorgwekkend is. In geval van agressie in het openbaar vervoer blijft het primair de taak van de politie om op passende wijze op te treden. Er dienen dus afspraken tussen vervoerbedrijf en politie te worden gemaakt die waarborgen dat in gevaar gebrachte controleurs kunnen rekenen op snelle en effectieve politiebescherming. Met name zal voor de binnen afzienbare tijd functionerende surveillant van politie hierin een rol zijn weggelegd. Ik verwijs in dit verband naar onze brief van 18 maart 1 992 aan de Voorzitter van de Tweede Kamer over onder andere de aanpak van agressie in het openbaar vervoer. <voetnoot nummer="2"/>Overigens verrichten de controleurs hun werkzaamheden meestal in politie reeds 5 miljoen beschikbaar gesteld voor de aanloopkosten en heeft de minister van Verkeer en Waterstaat voor het openbaar vervoer reeds f 8 miljoen beschikbaar gesteld teneinde reeds dit jaar een start te kunnen maken met de aanpak. De essentie van het Plan van Aanpak voor het openbaar vervoer is het tot stand brengen van een structureel, integraal veiligheidsbeleid. In het kader van dit beleid dient een aantal concrete voorzieningen te worden getroffen. De stand van zaken met betrekking tot de voornemens uit het Plan van Aanpak is als volgt. De vervoersbedrijven en gemeenten die deelnemen aan het Overlegplatform «Agressie in het openbaar vervoer», zijn in de gelegenheid gesteld om voor 1992 een aantal projecten in te dienen die voor een rijksbijdrage in aanmerking kunnen komen. Het gaat daarbij primair om projecten met een experimenteel of voorbeeldkarakter en in aanvulling daarop om projecten waarmee reeds dit jaar de basis voor de ontwikkeling van het beleid kan worden gelegd. Voor een groot aantal projecten is dit najaar een rijksbijdrage toegezegd. Te vermelden zijn o.a.: veiligheidsinvesteringen op een aantal NS-agglo-regiostations, uitbreiding van de spoorwegpolitie te Heerlen en Maastricht, het aanstellen van projectleiders, eerste investeringen in technische voorzieningen als camera's en monitoren in de Rotterdamse metro, experiment wagenbegeleiding op RET-tramlijn 2, ombouw RET-tramrijtuigen met alternatieve </antwoord>
+      <antwoord nummer="5 en 6" voetnoot="3">In de brief van de minister van Binnenlandse Zaken en van mij, 18 september 1991 aan de Voorzitter van uw Kamer <voetnoot nummer="3"/> is in het kader van de differentiatie van politiefuncties de nieuwe functie van surveillant van politie geïntroduceerd om de mogelijkheid te creëren preventieve en toezichthoudende taken intensiever uit te voeren. De surveillant van politie beschikt over opsporingsbevoegdheid, zodat deze adequaat kan reageren op situaties waar zich strafbare feiten voordoen. Het is niet de bedoeling dat de surveillant van politie zal worden ingezet in situaties die grote risico's met zich brengen. Wij gaan er daarom vooralsnog van uit dat deze zich niet zal begeven in situaties die het gebruik van een vuurwapen noodzakelijk kunnen maken. Onder die omstandigheden achten wij het voldoende dat de surveillant van politie wordt uitgerust met handboeien en een wapenstok. In de Bewapenings– en uitrustingsbeschikking gemeentepolitie 1968 zal dit nader worden bepaald. Mocht zich echter in de praktijk een duidelijke behoefte voordoen, de politiesurveillant ook in situaties in te zetten waarin hij wel over een vuurwapen dient te beschikken, dan zijn wij bereid daarover overleg te voeren met de korpsbeheerders. Daarbij zal dan ook onvermijdelijk moeten worden nagegaan, hoe in aanvullende opleiding inzake vuurwapengebruik kan worden voorzien. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

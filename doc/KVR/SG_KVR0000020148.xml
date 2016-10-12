@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001762</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001762&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001762</item>
+         <item attribuut="Document-id">0000020148</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 744</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Brouwer en Willems (beiden Groen Links) over de zelfdoding van een arrestant.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 744</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">744</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Brouwer</persoon>
+            <persoon partij="Groen Links">Willems</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-06-24</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Hirsch Ballin</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-07-27</item>
+         <item attribuut="Beginpagina">1553</item>
+         <item attribuut="Eindpagina">1554</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1553" allpagenumbers="1553" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgeverij Plantijnstraat s Gravenhage 1992"/>
+      <vraagdata vraagnummer="744" onderwerp="de zelfdoding van een arrestant." indiendatum="24juni 1992">
+         <vrager partij="Groen Links" oorsprong="parlement">Brouwer</vrager>
+         <vrager partij="Groen Links" oorsprong="parlement">Willems</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-07-27">
+         <antwoorder functie="minister" ministerie="Justitie">Hirsch Ballin</antwoorder>
+         <mede-antwoorder>de minister van Binnenlandse Zaken</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Heeft in het poütiebureau Waddenweg te Amsterdam-Noord een arrestant zich van het leven beroofd? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Onder welke omstandigheden is de arrestant alleen gelaten in de verhoorkamer? </vraag>
+      <vraag nummer="3">Worden verhoorkamers gecontroleerd op de aanwezigheid van voorwerpen waarmee arrestanten zichzelf en anderen kunnen verwonden? </vraag>
+      <vraag nummer="4">Bent u bereid de resultaten van het ingestelde Rijksrecherche-onderzoek en de daaraan te verbinden conclusies aan de Kamer te doen toekomen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1992-06-23" bron=" Volkskrant"> Volkskrant, 23 juni 1992</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja. 2 e n 3 Uit Ambtsberichten van de burgemeester van Amsterdam en de procureur-generaal van het ressort Amsterdam en uit het rapport van de njksrecherche is gebleken dat de arrestant zich ten tijde van zijn zelfdoding bevond in een verhoorkamer in het bureau Waddenweg. Hij was hier verhoord in verband met een aantal strafbare feiten. De sfeer tijdens dit verhoor was goed; de verdachte stelde zich coöperatief op. Na dit verhoor werd de arrestant alleen gelaten in de verhoorkamer. Bij een eerste controle na ongeveer 10 minuten bleek dat de arrestant zich aan een stalen rooster had verhangen rnet een koord. In de verhoorkamer stonden een aantal stoelen en een bureau met computer/printer en de daarbij behorende stroom– en verbindingssnoeren. Tevens stonden in deze kamer twee zakken, waarvan er een was voorzien van ringen waardoor een koord was geregen. In het plafond van de verhoorkamer bevindt zich een schacht waarop een van binnenuitte openen lichtkoepel is bevestigd. Om ontvluchting te voorkomen is de schacht voorzien van een stalen rooster. De eisen die zijn gesteld aan plaatsen voor inverzekeringstelling gelden niet voor verhoorkamers. De betreffende verhoorkamer wordt voor meer doeleinden gebruikt en wordt doorgaans niet gecontroleerd op voorwerpen waarmee de arrestant zichzelf of anderen kan schaden. Vanzelfsprekend wordt de aanwezigheid van voorwerpen die niet noodzakelijk zijn voor een verhoor tot een minimum beperkt. Uiteraard worden geen wapens en dergelijke achtergelaten. Aan de hand van het gedrag van arrestanten wordt beoordeeld of zij aldaar tijdens het onderzoek even alleen gelaten kunnen worden. Gelet op het ontspannen gedrag van de arrestant ten tijde van het verhoor verkeerden de betrokken politie-ambtenaren in de veronderstelling dat deze arrestant korte tijd alleen gelaten zou kunnen worden. </antwoord>
+      <antwoord nummer="4" voetnoot="1">Het terzake opgemaakte rapport van de rijksrecherche doen wij u hierbij in geanonimiseerde vorm toekomen.' Tevens doen wij u hierbij ter informatie het ambtsbericht van de procureur-generaal van het ressort Amsterdam toekomen. <voetnoot nummer="1"/>Wij zijn van mening dat niet is gebleken van feiten of omstandigheden die een nader (strafrechtelijk) onderzoek tegen de betrokken politie-ambtenaren rechtvaardigen. Evenmin is er sprake van zodanige omstandigheden in de bejegening van arrestanten op het bureau Waddenweg dat daarin aanleiding zou kunnen worden gevonden tot het invoeren van veranderingen in de behandeling van arrestanten of in de verhoorprocedure. Voor de volledigheid merken wij op dat in het kader van een door ons geëntameerd onderzoek naar arrestantenzorg o.a. aandacht zal </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19871988:0001182</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001182&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001182</item>
+         <item attribuut="Document-id">0000098896</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1987-1988 nummer 243</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid De Visser (P.v.d.A.) over de extra kosten voor de walradar in de Rotterdamse haven.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1987-1988 nummer 243</item>
+         <item attribuut="Jaargang">1987_1988</item>
+         <item attribuut="Vraagnummer">243</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">De Visser</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-11-25</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Smit-Kroes</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1988-01-04</item>
+         <item attribuut="Beginpagina">485</item>
+         <item attribuut="Eindpagina">486</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1987-1988 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1987-1988, Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="243" onderwerp="de extra kosten voor de walradar in de Rotterdamse haven." indiendatum="25 november 1987)">
+         <vrager partij="PvdA" oorsprong="parlement">De Visser</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="4 januari 1988) Rotterdamse Waterweg is mij op dit moment niets bekend. Zoals in het onderhavige artikel naar waarheid is gemeld hebben opdrachtgever (het Rijk en de gemeente Rotterdam) en opdrachtnemer (Hollandse Signaal Apparaten BV) gezamenlijk een onafhankelijk deskundige ingescha- keld teneinde advies uit te brengen over de wijze van afronding van het walradarproject. Dit advies, dat zeer binnenkort zal worden uitgebracht, zal naar alle waarschijnlijkheid tevens een inzicht bieden in de financiële consequenties van die wijze van afronding. Op dit moment houd ik vast aan de indertijd met de opdrachtnemer afgesproken (plafond)prijs. De berichten dat niet alle financiële procedures correct zouden zijn gevolgd en/of dat met extra kosten zou zijn geschoven tussen het Rotterdamse VBS-project en het Schelderadarproject, berusten volstrekt niet op waarheid. 3 Zoals uit het antwoord op vraag 2 moge blijken, is er op dit moment geen sprake van budget-overschrij- ding. 4 Gezien het antwoord op vraag 2 bestaat naar mijn mening geen aanleiding tot een onderzoek als bedoeld.">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">Smit-Kroes</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 ">Hebt u kennis genomen van het  artikel over toenemende extra kosten  voor de walradar in de Rotterdamse  haven?'  </vraag>
+      <vraag nummer="2 ">Berusten deze gegevens op waarheid?  </vraag>
+      <vraag nummer="3 ">Zo neen, kunt u aangeven of en in  hoeverre sprake is van budgetover- schrijding voor dit project?  </vraag>
+      <vraag nummer="4 ">Zo ja, bent u bereid te onderzoeken:  a. of en in hoeverre de berichten  waar zijn, dat niet alle financiële  procedures correct zijn gevolgd;  b. in hoeverre er met de extra kosten  is geschoven tussen de Rotterdamse  walradar en het Scheldeproject?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="3 ">Zoals uit het antwoord op vraag 2  moge blijken, is er op dit moment  geen sprake van budget-overschrij- ding.  </antwoord>
+      <antwoord nummer="4 ">Gezien het antwoord op vraag 2  bestaat naar mijn mening geen  aanleiding tot een onderzoek als  bedoeld.  </antwoord>
+      <antwoord nummer="1 ">Ja.  O  Van extra kosten voor het verkeers- begeleidend systeem (VBS) voor de  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

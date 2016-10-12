@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19941995:0000624</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000624&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000624</item>
+         <item attribuut="Document-id">0000000624</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1994-1995 nummer 290</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Aanvullende vragen van het lid Hillen (CDA) over een civiel wapentransport van de Koninklijke marine.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1994-1995 nummer 290</item>
+         <item attribuut="Jaargang">1994_1995</item>
+         <item attribuut="Vraagnummer">290</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Hillen</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-11-17</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Voorhoeve</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-12-20</item>
+         <item attribuut="Beginpagina">585</item>
+         <item attribuut="Eindpagina">586</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1994-1995" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="585" allpagenumbers="585" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1994-1995, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's-Gravenhage 1994"/>
+      <vraagdata vraagnummer="290" onderwerp="een civiel wapentransport van de Koninklijke marine." indiendatum="1994-11-17">
+         <vrager partij="CDA" oorsprong="parlement">Hillen</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-12-20">
+         <antwoorder functie="minister" ministerie="Defensie">Voorhoeve</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Kent u de berichten <voetnoot nummer="1"/> als zouden koeriers van een civiel transportbedrijf zijn aangehouden op verdenking van wapensmokkel, terwijl ze wapens voor de Koninklijke marine vervoerden? </vraag>
+      <vraag nummer="2">Is het gebruikelijk dat Defensie op deze wijze wapens vervoert die bestemd zijn voor oefeningen? Wat is de standaard procedure in deze? </vraag>
+      <vraag nummer="3">Waarom is geen contact opgenomen met de Belgische, Franse en Spaanse autoriteiten over dit vervoer? </vraag>
+      <vraag nummer="4">Deelt u de mening, dat vervoer van wapens en munitie op dergelijke wijze risico's in zich kan dragen voor de direct betrokkenen en gevaar kan opleveren in verband met terroristische groeperingen? </vraag>
+      <vraag nummer="5">Kunt u toezeggen, dat dergelijke transporten in het vervolg geregeld worden via militair vervoer en niet meer via civiele diensten? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1994-11-16" bron=" Utrechts Nieuwsblad"> Utrechts Nieuwsblad, 16 november 1994</noot>
+      </noten>
+   </vragen>
+   <toelichting>Deze vragen dienen ter aanvulling op eerdere vragen ter zake van het lid Van den Doel en van het lid Sipkes, ingezonden 17 november jl. </toelichting>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja. Neen, de standaardprocedure is dat de organieke wapens met de betrokken eenheid worden vervoerd. Soms wordt, afhankelijk van de soort en de hoeveelheid, de munitie apart van de eenheid vervoerd. </antwoord>
+      <antwoord nummer="3">Aanvankelijk zouden wapens en munitie per vliegtuig worden vervoerd. Daarvoorwas uitsluitend toestemming benodigd van de Spaanse autoriteiten. Deze waren door tussenkomst van de Nederlandse Ambassade te Madrid volledig op de hoogte gesteld van het transport. Tevens was toestemming voor hettransport verkregen. Door annulering van het luchttransport in een zeer laat stadium, was de tijd ontoereikend om overeenkomstig de geldende procedures toestemming te verkrijgen van de Franse en Belgische autoriteiten. Het besluit om het transport zonder de vereiste papieren toch te laten vertrekken, was in strijd met de geldende regels. Ja. Het is volgens de regelgeving voor wielvoertuigen onder niet-operationele omstandigheden niet toegestaan wapens en munitie in één voertuig te transporteren. Helaas is in dit geval niet de hand gehouden aan de van toepassing zijnde voorschriften. Het voorval moet beschouwd worden als een zeer ongelukkig incident. Door de Koninklijke marine zijn maatregelen genomen om herhaling te voorkomen. Transporten van wapens en/of munitie behoren uiteraard zorgvuldig te worden uitgevoerd, overeenkomstig de bestaande regelgeving en de standaard-procedures. Civiele vervoerders worden bij uitzondering hiervoor ingeschakeld. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

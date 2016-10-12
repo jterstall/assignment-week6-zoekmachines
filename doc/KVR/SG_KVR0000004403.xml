@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Nader antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0001892</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001892&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001892</item>
+         <item attribuut="Document-id">0000004403</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 678 Herdruk</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Roosen-van Pelt (CDA) over mogelijke fraude met kentekenbewijzen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 678 Herdruk</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">678 Herdruk</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Roosen-van Pelt</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-02-01</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Andriessen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-07-25</item>
+         <item attribuut="Beginpagina">1375</item>
+         <item attribuut="Eindpagina">1376</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1375" allpagenumbers="1375" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgeverij PlantJjnstraat 's Gravenhage 1994"/>
+      <vraagdata vraagnummer="678" onderwerp="mogelijke fraude met kentekenbewijzen." indiendatum="1994-02-1">
+         <vrager partij="CDA" oorsprong="parlement">Roosen-van Pelt</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="25 juli 1994) In het antwoord op de begin dit jaar door het toenmalige lid der Kamer mevr. Roosen-van Pelt gestelde vragen over mogelijke fraude met kentekenbewijzen">
+         <antwoorder functie="" ministerie="Verkeer en Waterstaat"/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Hebt u kennis genomen van mogelijke fraude met kentekenbewijzen doordat de houder zich laat registreren op een adres in bijvoorbeeld de Nigeriaanse stad Lagos? <voetnoot nummer="1"/>Op welke schaal komt dergelijke fraude vermoedelijk voor zowel door het opgeven van buitenlandse adressen als door onjuiste adressen in Nederland zelf? </vraag>
+      <vraag nummer="3">Op welke wijze controleert de Rijksdienst Wegverkeer de juistheid van opgegeven adressen voor de registratie van kentekens? </vraag>
+      <vraag nummer="4">Op welke wijze gaat de Rijksdienst na of de registratie van meerdere motorvoertuigen op naam van één houder aanleiding kan zijn tot vermoedens van frauduleuze handelingen? </vraag>
+      <vraag nummer="5">Op welke wijze kunnen genoemde controles zodanig worden verbeterd dat het frauderisico tot een minimum wordt teruggebracht? Bent u bereid deze verbeteringen zo snel mogelijk door te voeren? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1994-01-26" bron=" DeTelegraaf"> DeTelegraaf, 26 januari 1994</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel blz 607 en 608, nr. 300</noot>
+      </noten>
+   </antwoorden>
+</kvr>

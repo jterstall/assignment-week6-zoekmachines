@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001865</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001865&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001865</item>
+         <item attribuut="Document-id">0000020251</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 846</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden De Cloe en Netelenbos (beiden PvdA) over sponsoring door Mc Donalds van een openbare school.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 846</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">846</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">De Cloe</persoon>
+            <persoon partij="PvdA">Netelenbos</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-07-16</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Wallage</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-09-01</item>
+         <item attribuut="Beginpagina">1759</item>
+         <item attribuut="Eindpagina">1760</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1759" allpagenumbers="1759" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="846" onderwerp="sponsoring door Mc Donalds van een openbare school." indiendatum="1992-07-16">
+         <vrager partij="PvdA" oorsprong="parlement">De Cloe</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Netelenbos</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1 september 1992), zie ook aanhangsel Handelingen nr. 789, Vergaderjaar 1991-1992">
+         <antwoorder functie="staatssecretaris" ministerie="Onderwijs en Wetenschappen">Wallage</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Hebt u kennis genomen van de discussie in de gemeente Heemstede over het al dan niet sponsoren van lokalen van de Openbare Voorwegschool door de fast-food-keten Mc Donalds? Wat is uw oordeel hierover? Hebt u enig idee, hoe vaak en in welke vorm dit soort sponsor-activiteiten in primair en voortgezet onderwijs voorkomt? </vraag>
+      <vraag nummer="3">Zijn er wettelijke belemmeringen voor het al dan niet sponsoren van onderwijsvoorzieningen in het primair en voortgezet onderwijs? Zo ja, wordt hierbij onderscheid gemaakt tussen Openbaar en Bijzonder onderwijs? </vraag>
+      <vraag nummer="4">Heeft sponsoring van een Openbare school door een commercieel bedrijf ook gevolgen voor de werking van de overschrijdingsregeling? Zo ja, welke gevolgen zijn dat? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja. Uitgangspunt bij de bekostiging van het onderwijs is dat van rijkswege voldoende middelen worden verschaft om het onderwijs adequaat toe te rusten. Het is echter steeds mogelijk dat scholen boven de rijksvergoeding middelen van derden ontvangen om door hen gewenste activiteiten te financieren. Naar mijn mening ontmoet het geen bezwaar wanneer dit, zoals in casu, door middel van sponsoring van lokalen geschiedt. Het is aan het bevoegd gezag - in dit geval dat van de openbare scholen in Heemstede - om te bepalen of deze sponsoring wenselijk is. </antwoord>
+      <antwoord nummer="2">Nee. </antwoord>
+      <antwoord nummer="3">Nee. </antwoord>
+      <antwoord nummer="4">Nee. Arikel 105d, vierde lid, van de Wet op het basisonderwijs, artikel 102d, vierde lid, van de Interimwet op het speciaal onderwijs en het voortgezet speciaal onderwijs en artikel 96i, vierde lid, van de Wet op het voortgezet onderwijs bepalen dat bij de vaststelling van het totaal van de bedragen die in het voorafgaande kalenderjaar zijn uitgegeven ten behoeve van de materiële instandhouding buiten beschouwing worden gelaten de uitgaven die worden gedekt door ontvangsten van gelden die door derden beschikbaar zijn gesteld. Slechts indien niet alle extra kosten die samenhangen met het gebruik van de gesponsorde lokalen door de sponsor worden gedekt, zijn consequenties denkbaar op het gebied van de financiële gelijkstelling. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

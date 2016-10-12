@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="2">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001427</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001427&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001427</item>
+         <item attribuut="Document-id">0000019813</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 412</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Dijkstal en E. G. Terpstra (beiden VVD) over de particuliere ziektekostenverzekeraars.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 412</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">412</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Dijkstal</persoon>
+            <persoon>Terpstra E.G.</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-01-16</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Simons</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-02-27</item>
+         <item attribuut="Beginpagina">873</item>
+         <item attribuut="Eindpagina">874</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992 Aanhangsel van de Handelingen" typehandeling="Vergaderjaar 1991-1992 Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="•s Gravenhage 1992 Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel 873" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverii Plantiinstraat _ .,  * ^ ^ ^ * „^ •s Gravenhage 1992 Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel 873"/>
+      <vraagdata vraagnummer="&quot;^^^^^&quot;^^•&quot;^^•^&quot;^^^•^^&quot;" onderwerp="ik met de particuliere verzekeraars een zakelijk verschil van Vragen van de leden Dijkstal en mening heb, dat nu verder wordt E. G. Terpstra (beiden VVD) over uitgezocht. De term «zakkenvullers» de particuliere vind ik daarbij niet op z'n plaats. ziektekostenverzekeraars." indiendatum="16januari 1992">
+         <vrager partij="VVD" oorsprong="parlement">Dijkstal</vrager>
+         <vrager partij="" oorsprong="parlement">Terpstra E.G.</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-02-27">
+         <antwoorder functie="staatssecretaris" ministerie="Welzijn, Volksgezondheid en Cultuur">Simons</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1" voetnoot="1">Hebt u de particuliere ziektekostenverzekeraars «zakkenvullers» genoemd? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Zo ja, wilt u zich nader verklaren? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1992-01-12" bron=" Uitzending van Brandpunt"> Uitzending van Brandpunt, 12 januari 1992</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ik heb de term «zakkenvullers» slechts in ontkennende zin gebruikt, in antwoord op het eerdere gebruik van het woord door Jan Driessen, medewerker van KRO-Brandpunt. Het ontkennende deel van mijn reactie is echter door KRO-Brandpunt bij de montage van het vraaggesprek weggelaten. </antwoord>
+      <antwoord nummer="2">In het bedoelde Brandpunt-interview ging het om het niet verlagen door de particuliere verzekeraars van hun premies, ondanks het feit dat de kosten van geneesmiddelen sinds 1 januari door de AWBZ vergoed worden. Het is een van de punten </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

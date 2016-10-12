@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001524</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001524&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001524</item>
+         <item attribuut="Document-id">0000035931</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 602</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Melkert en Van Gelder (beiden P.v.d.A.) over de kosten van het betalingsverkeer.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 602</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">602</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Melkert</persoon>
+            <persoon partij="PvdA">Van Gelder</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-04-05</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Kok</persoon>
+            <persoon>Andriessen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-05-04</item>
+         <item attribuut="Beginpagina">1211</item>
+         <item attribuut="Eindpagina">1212</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1211" allpagenumbers="1211 1212" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="602" onderwerp="de kosten van het betalingsverkeer." indiendatum="1990-04-5">
+         <vrager partij="PvdA" oorsprong="parlement">Melkert</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Van Gelder</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-05-4">
+         <antwoorder functie="minister" ministerie="Financiën">Kok</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="9">
+      <vraag nummer="1">Bent u bekend met de afspraak tussen de banken, dat binnenkort een tarief van f 0,60 per automa– tische afschrijving en f 1,40 voor overschrijvingen per acceptgiro zal worden berekend?' Is het u bekend of de consument of de leverancier hiervoor zal worden aangeslagen? </vraag>
+      <vraag nummer="3">Heeft u inzicht in de kostenbere– kening die aan deze tarifering ten grondslag ligt? </vraag>
+      <vraag nummer="4">Wat is hierover uw oordeel? </vraag>
+      <vraag nummer="5">Bent u bekend met de door de Postbank aan nutsbedrijven voorge– legde machtiging die een ongeclau– suleerde doorberekening van tarieven van betalingsverkeer mogelijk maakt? </vraag>
+      <vraag nummer="6">Wat is hierover uw oordeel? </vraag>
+      <vraag nummer="7">Bent u het er mee eens, dat de consumentenvrijheid door deze afspraken tamelijk in het gedrang komt? </vraag>
+      <vraag nummer="8">Hoe staat u tegenover het feit, dat de banken hierin gezamenlijk in strikte beslotenheid optrekken? </vraag>
+      <vraag nummer="9">Wanneer en hoe zal de brief van de Consumentenbond inzake de kosten van betalingsverkeer, gericht aan de minister van Financiën, worden beantwoord? </vraag>
+      <vraag nummer="10">Bent u bereid deze Kamer nader te informeren over uw standpunt met betrekking tot de kostentoerekening in het betalingsverkeer en de toezichthoudende rol van de overheid resp. De Nederlandsche Bank ter actualisering van de notitie van de minister van Financiën van 11 november 1988 ? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="2"/>
+         <noot nummer="1" datum="1990-04-1" bron=" Gegevens ontleend aan het VARA-tv programma " titel="Kassa"> Gegevens ontleend aan het VARA-tv programma «Kassa», 1 april 1990</noot>
+         <noot nummer="2"> Kamerstuk 20 917. De vragen dienen mede ter aanvulling op de eerdere vragen van het lid Schartman, ingezonden 21 februari 1990 en van de leden Van Rijn Vellekoop en Van Gelder, ingezonden 22 februari jl</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="6">
+      <antwoord nummer="1">Voor zover ons bekend is er van een afspraak als bedoeld in de vraag geen sprake. Overigens wordt ook verwezen naar het antwoord op vraag 5 van de Leden Van Rijn-Vellekoop en Van Gelder'. Het is ons wel bekend dat twee banken tarieven voor de zakelijke gebruikers van het girale betalingsverkeer in het vooruitzicht hebben gesteld. De NMB Postbank Groep heeft onlangs laten weten zich te beraden - in de zin dat zij het voornemen heeft - om op enig moment zakelijke gebruikers tarieven in rekening te brengen voor betaaldiensten. Overwegingen daarbij zijn, zo is begrepen, onder meer het realiseren van een grotere kostendekkendheid van het verzorgde betalingsverkeer en het bevorderen van een efficiënter betaalgedrag. De Rabobank heeft, op grond van soortgelijke overwe– gingen, de introductie van een nieuw tariefstelsel voor het zakelijke betalingsverkeer aangekondigd. Dit nieuwe stelsel zal, naar verluidt, een nieuwe rentestructuur voor een rekening-courant, aanpassing van de valuteringsregels en invoering van transactiegebonden tarieven omvatten. </antwoord>
+      <antwoord nummer="2" voetnoot="1">Uit het antwoord op de voorgaande vraag moge blijken dat voor zover er nieuwe tarieven recent zijn aange– kondigd het aan zakelijke gebruikers in rekening te brengen tarieven betreft. Overigens wordt ook verwezen naar het antwoord op vraag 6 van de Leden Van Rijn-Vellekoop en Van Gelder. <voetnoot nummer="1"/>3 , 4 Dezerzijds bestaat geen inzicht in de kostenberekening die aan tarifering van bestaaldiensten ten grondslag ligt. Derhalve hebben wij daarover geen oordeel. Hierbij tekenen wij verkeer. </antwoord>
+      <antwoord nummer="5" voetnoot="1">Desgevraagd hebben wij uit infor– matie van de Postbank het volgende begrepen. De Postbank is - zoals overigens ook andere banken - sinds medio 1987 doende alle zogenaamde acceptgiro-contracten die met zakelijke cliënten zijn overeengekomen te vervangen door een nieuw model contract. Aanleiding hiervoor was met name de introductie van de actie-accept - met daaraan verbonden een bijdrage in de verwerkingskosten a f 1,40 - waardoor het toepassingsgebied van de acceptgiro werd gewijzigd. In het nieuwe model contract is een bepaling opgenomen waarin de incassant de Postbank machtigt tot het afschrijven van de kosten van de bij de Postbank bestelde of verwerkte acceptgiro's van zijn rekening. Ter toelichting stelt de Postbank dat de verwerking van (gewone) acceptgiro's vooralsnog gratis is en dat zij de incassant over de invoering van een tarief voor de verwerking tevoren zal informeren. Tenslotte is begrepen dat het acceptgiro-contract voor de incassant altijd onmiddellijk opzegbaar is. Uit het voorgaande menen wij te kunnen concluderen dat de in de vraag bedoelde machtiging slechts ziet op het doen afschrijven van aan de zakelijke rekeninghouder in rekening te brengen tarieven van diens bankre– kening. Vervolgens zal het aan de zakelijke rekeninghouder zijn om te bepalen of hij de aan hem in rekening gebrachte kosten doorbe– rekent aan zijn afnemers. consumentenvrijheid niet in het gedrang komt door de door indivi– duele aanbieders aangekondigde tarieven voor zakelijke gebruikers. Daarbij verwijzen wij hier ook in het bijzonder naar het antwoord op vraag 6 van de Kamerleden Van Rijn-Vellekoop en Van Gelder. <voetnoot nummer="1"/>
+      </antwoord>
+      <antwoord nummer="8" voetnoot="2 1">Zoals uit de antwoorden op vraag 5 van het Kamerlid Schartman <voetnoot nummer="2"/>, vraag 6 van de Kamerleden Van Rijn-Vellekoop en Van Gelder <voetnoot nummer="1"/> en de vragen 1, 3 en 4 van de Kamerleden Melkert en Van Gelder blijkt, wordt voor zover ons bekend door de banken niet gezamenlijk in strikte beslotenheid opgetrokken. </antwoord>
+      <antwoord nummer="9">Aan de Consumentenbond is door eerste ondergetekende schriftelijk bericht dat de beantwoording van de in de vraag bedoelde brief in afwachting van de beantwoording van onderhavige kamervragen zou worden aangehouden. Nu de kamer– vragen zijn beantwoord, zal eerste ondergetekende uiteraard zo spoedig mogelijk voor de beantwoording van de brief van de Consumentenbond zorgdragen. </antwoord>
+      <antwoord nummer="10">Uit de antwoorden op de voorgaande vragen is op te maken dat het standpunt van de overheid met betrekking tot het girale betalings– verkeer in het algemeen en de kostentoerekening van het girale betalingsverkeer in het bijzonder niet principieel anders is dan het standpunt zoals neergelegd in de eerdergenoemde notitie «Het electronisch betalingsverkeer in Nederland». Hoewel steeds bereid </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

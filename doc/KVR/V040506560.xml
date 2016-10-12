@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Europees recht?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van As (LPF) aan de staatssecretaris van FinanciÃ«n over eindheffingen bij emigratie. (Ingezonden 19 januari 2005)</item>
+         <item attribuut="Bestand">16Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V040506560
+</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van het arrest van het Hof van Justitie der Europese Gemeenschappen van 29 april 2004 in de zaak C-224/02 (Pusa), over eventuele strijdigheid met het Europees recht van de eindafrekeningsbepalingen in de inkomstenbelasting en de vennootschapsbelasting.</item>
+         <item attribuut="Rubriek">Belastingen (Inkomstenbelasting) Belastingen (Vennootschapsbelasting) Internationale betrekkingen (Europese Unie) Welzijn (Emigratie)</item>
+         <item attribuut="Trefwoorden">Emigratie Europees recht Inkomstenbelasting Vennootschapsbelasting</item>
+         <item attribuut="Vindplaats">Kamervragen 2004-2005, vraagnr. 2040506560, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2040506560</item>
+         <item attribuut="Indiener">
+            <persoon partij="LPF">Van As</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2005-01-19</item>
+         <item attribuut="Document-id">V040506560</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2004–2005" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0405tkkvl2040506560" lopendefooter="Tweede Kamer, vergaderjaar 2004–2005, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2005"/>
+      <vraagdata vraagnummer="2040506560" onderwerp="" indiendatum="2005-01-19">
+         <vrager partij="LPF" oorsprong="parlement">Van As</vrager>
+         <vraagt-aan>de staatssecretaris van Financiën</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Kent u het arrest van het Hof van Justitie der Europese Gemeenschappen van 29 april 2004 in de zaak C- 224/02? </vraag>
+      <vraag nummer="2">Bent u – gelet op uw brief van 13 april </vraag>
+      <vraag nummer="2004" voetnoot="2 3 4">
+         <voetnoot nummer="2"/>– van mening dat de eindafrekeningsbepalingen in de inkomstenbelasting <voetnoot nummer="3"/>en de vennootschapsbelasting <voetnoot nummer="4"/>niet in strijd zijn met Europees recht? Zo ja, waarom? </vraag>
+      <vraag nummer="3">Waarop baseert u uw oordeel dat de conserverende aanslag met uitstel van betaling voor aanmerkelijkbelanghouders gelet op het arrest Hughes de Lasteyrie du Saillant wel in strijd is met Europees recht , maar dat de belastingheffing bij emigratie over zogenaamde «eindafrekeningswinst» zonder uitstel van betaling niet in strijd is met </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="5"/>
+         <noot nummer="6"/>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" datum="2004-04-29" bron="Arrest van het Hof van Justitie der Europese Gemeenschappen,">Arrest van het Hof van Justitie der Europese Gemeenschappen,, 29 april 2004, zaak C-224/02 (pusa), FED 2004/550 met noot van Thomas</noot>
+         <noot nummer="2">Brief van de staatssecretaris van Financiën van 13 april 2004, nr. WDB 2004/188U, V-N 2004/21.8</noot>
+         <noot nummer="3">Zie de artikelen 3.60 en 3.61 van de Wet Inkomstenbelasting 2001</noot>
+         <noot nummer="4">Zie de artikelen 15c en 15d van de Wet op de Vennootschapsbelasting 1969</noot>
+         <noot nummer="5">HvJ EG 11 maart 2004, zaak C-9/02, na conclusie van A-G Mischo, BNB 2004/258 m.nt. Meussen, V-N 2004/15.9, NTFR 2004/397 m.nt. Albert (Hughes de Lasteyrie de Saillant versus Ministère de L’Économie, des Finances et de l’Industrie)</noot>
+         <noot nummer="6">Tweede Kamer, vergaderjaar 2003–2004, 29 758, nr. 3, p. 11</noot>
+      </noten>
+   </antwoorden>
+</kvr>

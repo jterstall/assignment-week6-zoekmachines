@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001695</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001695&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001695</item>
+         <item attribuut="Document-id">0000036102</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 771</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Versnel-Schmitz (D66) over het budget voor nascholingsprojecten voor het leerlingwezen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 771</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">771</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Versnel-Schmitz</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-06-18</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Wallage</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-07-06</item>
+         <item attribuut="Beginpagina">1557</item>
+         <item attribuut="Eindpagina">1558</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1557" allpagenumbers="1557" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgevenj 's-Gravenhage 1990"/>
+      <vraagdata vraagnummer="771" onderwerp="het budget voor nascholingsprojecten voor het leerlingwezen." indiendatum="1990-06-18">
+         <vrager partij="D66" oorsprong="parlement">Versnel-Schmitz</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-07-6">
+         <antwoorder functie="staatssecretaris" ministerie="Onderwijs en Weten– schappen">Wallage</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Heeft NaBont' het budget voor nascholingsprojecten voor het leerlingwezen drastisch ingeperkt voor 1990? Zo ja, om welke bedragen gaat het en wat is hiertoe de aanleiding geweest? </vraag>
+      <vraag nummer="2">Deelt u de opvatting dat hierdoor de nascholing nieuwe technologieën voor de sectoren LBO, KMBO en met name het leerlingwezen niet naar behoren kan worden uitgevoerd en dat er zelfs een breuk dreigt? Zo neen, waarom niet? Acht u de beperking van dit budget in overeenstemming met «het op korte termijn bezien op welke wijze binnen NaBont een extra impuls kan worden gegeven aan cursusmogelijk– heden op het terrein van het leerling– wezen», zoals u dat hebt aangegeven bij brief van 7 maart 1990 aan deze Kamer? </vraag>
+      <vraag nummer="4">Bent u bereid op zeer korte termijn met alle betrokkenen overleg te voeren teneinde tot een oplossing te komen, mede met het oog op de noodzaak nog deze maand uit roostertechnische redenen de nascholingsplannen vast te stellen! derwijs in nieuwe technologieën  Kamerstuk 20 623, nr. 6. </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> NaBont = Nascholing docenten beroepson</noot>
+         <noot nummer="2"/>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Neen. Voor de doelgroepen MBO (niet zijnde het MTO), KMBO, BBO/leerlingwezen en LBO was in het kader van de NaBoNT gedurende de projectperiode (1987-1992) 25 mln. beschikbaar. De enorme toeloop van deelnemers heeft ertoe geleid dat dit budget vrijwel geheel is uitgeput. Van een inperking van het budget is derhalve geen sprake. </antwoord>
+      <antwoord nummer="2">Neen. Door verschuivingen binnen het totale NaBoNT-budget is voor het cursusjaar 1990-1991 een bedrag van 4 mln. vrijgemaakt t.b.v. NaBoNT-cursussen voor docenten van het MEAO, KMTO, LTO en technisch BBO/LLW. Dit bedrag gaat dus boven het oorspronkelijk voor deze doelgroep gereserveerde budget. Hiermee kan in ieder geval voor het cursusjaar 1990-1991 in belangrijke mate in de nascholingsbehoefte worden voorzien. Zoals uit de beantwoording van vraag 3 blijkt, is er geen sprake van een beperking van het budget voor de onder 1 genoemde doelgroepen, maar gaat het juist om een uitbreiding. </antwoord>
+      <antwoord nummer="4">Er wordt regelmatig overleg gevoerd met vertegenwoordigers van het leerlingwezen over dit onderwerp. Bovendien worden zij op korte termijn schriftelijk geïnformeerd over het gestelde onder 2. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

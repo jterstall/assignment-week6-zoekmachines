@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001012</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001012&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001012</item>
+         <item attribuut="Document-id">0000027349</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 80</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Buurmeijer en Stoffelen (beiden P.v.d.A.) over het houden van een raadplegend referendum door de gemeente Olst.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 80</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">80</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Buurmeijer</persoon>
+            <persoon partij="PvdA">Stoffelen</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-09-26</item>
+         <item attribuut="Beantwoorder">
+            <persoon>De Graaff-Nauta</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-10-22</item>
+         <item attribuut="Beginpagina">163</item>
+         <item attribuut="Eindpagina">164</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="163" allpagenumbers="163" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="" onderwerp="" indiendatum="">
+         <vrager partij="PvdA" oorsprong="parlement">Buurmeijer</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Stoffelen</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-10-22">
+         <antwoorder functie="staatssecretaris" ministerie="Binnenlandse Zaken">De Graaff-Nauta</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="80">Vragen van de leden Buurmeijer en Stoffelen (beiden P.v.d.A.) over het houden van een raadplegend referendum door de gemeente Olst. (Ingezonden 26 september 1990) </vraag>
+      <vraag nummer="1">Bent u van mening, dat het territioir van de gemeente Olst dat ten westen van de Ussel is gelegen zou kunnen overgaan naar een Gelderse gemeente? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"/>
+      </noten>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1">Mijn opvatting daarover hangt af van het resultaat van de discussie die pas in het beginstadium is. </antwoord>
+      <antwoord nummer="2">Ja. 14, hadden te maken met gemeente– lijke herindeling. De commissie heeft niet onderzocht of en in hoeverre gemeenteraden zich door de uitkomst van deze referenda hebben laten leiden. Dit laatste lijkt mij ook moeilijk vast te stellen. Bent u op de hoogte van het voornemen van de gemeente Olst de opvatting van de in dat deel van de gemeente (i.c. Welsum) wonende bevolking te verkrijgen door het houden van een raadplegend referendum onder de stemgerech– tigde inwoners van Welsum? </antwoord>
+      <antwoord nummer="3">Deelt u de opvatting, dat de door de Raad gestelde voorwaarden voldoende waarborgen bieden om van een verantwoord referendum te spreken? Zo neen, welke nadere voorwaarden moeten naar uw oordeel worden gesteld? </antwoord>
+      <antwoord nummer="4" voetnoot="1">Heeft een gemeente eerder de besluitvorming gebaseerd op een raadplegend referendum? Zo ja, waar, wanneer en in welke gevallen? <voetnoot nummer="1"/> Zie brief van 19 juni 1990 aan Gedepu– teerde Staten van de provincies over het onderwerp inventarisatie knelpunten provin– ciegrenzen Van het voorstel van Burgemeester en Wethouders van Olst aan de gemeenteraad en de toelichting daarbij heb ik kennisgenomen. De wijze waarop het college blijkens deze stukken de bevolking van Welsum wil raadplegen en de voorbereiding van die raadpleging, maken een zorgvuldige indruk. Dat kan ertoe leiden dat een betrouwbaar beeld wordt verkregen van de opvattingen van de inwoners van Welsum over de vraag of dit gebied al dan niet moet overgaan naar de provincie Gelderland. Aan het stellen van nadere voorwaarden heb ik geen behoefte. </antwoord>
+      <antwoord nummer="4">De staatscommissie van advies inzake de relatie kiezers-beleids– vorming heeft in haar eerste rapport (Relatie Kiezers-beleidsvorming, Staatsuitgeverij 's-Gravenhage, 1984, blz. 145) de gehouden lokale referenda geïnventariseerd. De meeste daarvan, 11 van de in totaal </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001348</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001348&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001348</item>
+         <item attribuut="Document-id">0000019734</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 334</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Ybema (D66) over publicaties van de belastingdienst.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 334</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">334</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Ybema</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-01-10</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van Amelsvoort</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-01-28</item>
+         <item attribuut="Beginpagina">711</item>
+         <item attribuut="Eindpagina">712</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="711" allpagenumbers="711" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="334" onderwerp="publicaties van de belastingdienst." indiendatum="1992-01-10">
+         <vrager partij="D66" oorsprong="parlement">Ybema</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-01-28">
+         <antwoorder functie="staatssecretaris" ministerie="Financiën">Van Amelsvoort</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Zijn de publikaties van de diverse directies van de belastingdienst onder andere in Info-Bulletin, aan te merken a!s mededelingen bevattende vastgesteld uniform beleid van de belastingdienst? <voetnoot nummer="1"/>Verdienen zij om die reden een plaats in een opsomming zoals die van bijlage 11 van de begroting Financiën 1992? </vraag>
+      <vraag nummer="2">Draagt u verantwoordelijkheid voor deze publikaties? Zo ja, waarom worden deze publikaties dan niet door of namens u ondertekend? </vraag>
+      <vraag nummer="3">Wordt dergelijk beleid vóór publikatie ter toetsing aan u voorgelegd of heeft de belastingdienst in dezen een eigen verantwoordelijkheid? </vraag>
+      <vraag nummer="4" voetnoot="2">Worden bepaalde door of namens u ondertekende beleidsbeslissingen niet als aanschrijvingen aangemerkt? <voetnoot nummer="2"/>Zo ja, waarom niet? </vraag>
+      <vraag nummer="5">Wat is de status van de in vraag 4 bedoelde beleidsbeslissingen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Zie onder andere: Info-Bulletin nummers 91/449, 91/450, 91/451, 91/452, 91/640, 91/641 en 91/642</noot>
+         <noot nummer="2"> Zie onder andere: Info-Bulletin nummers 91/482en 91/483</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Bedoelde publikaties in het Info-Bulletin zijn aan te merken als vastgesteld uniform beleid inzake de uitvoering van de belastingwet. Voorzover dit beleid regelrecht bevat als is bedoeld in het arrest van de Hoge Raad van 28 maart 1990, BNB 1990/194, komt het in aanmerking voor opname in een opsomming zoals die van bijlage 11 bij hoofdstuk IXB. Ik draag als Staatssecretaris van Financiën de verantwoordelijkeid voor de uitvoering van de belastingwet. Het beleid dat in dergelijke publikaties wordt bekendgemaakt is voordien door of namens mij vastgesteld. </antwoord>
+      <antwoord nummer="3">Beleid inzake de uitvoering van de belastingwet wordt door mij getoetst of namens mij door de daartoe aangewezen ambtenaren van het ministerie van Financiën inclusief de Belastingdienst. De aangewezen ambtenaren van de Belastingdienst - de Directeur-Generaal der Belastingen of de directeuren van 's Rijksbelastingen - hebben in zoverre een eigen verantwoordelijkheid dat zij namens mij beleid kunnen vaststellen. </antwoord>
+      <antwoord nummer="4">Beleid inzake de uitvoering van de belastingwet dient te worden gepubliceerd. De vorm waarin dit gebeurt, is een aanschrijving of een mededeling in het Info-Bulletin. Beide hebben dezelfde werking ten opzichte van beianghebbenden. Voor een aanschrijving wordt in het algemeen gekozen in gevallen waarin de wet de minister/staatssecretaris aanwijst als bevoegd uitvoerend orgaan. </antwoord>
+      <antwoord nummer="5">In de bij vraag 4 bedoelde publikaties in het Info-Bulletin nrs. 91/482 en 91/483 is geen nieuw beleid neergelegd. Vaststaand beleid is dat - in gevallen als bedoeld in deze publikaties - geen schenkingsrecht wordt geheven. In casu is op verzoek van de betrokken organisaties dit beleid bevestigd. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

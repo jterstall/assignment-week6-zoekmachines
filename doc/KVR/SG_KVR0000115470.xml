@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19851986:0001910</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001910&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001910</item>
+         <item attribuut="Document-id">0000115470</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1985-1986 nummer 989</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Buurmeijer en Dales (beiden P.v.d.A.) over de acties van Tamils.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1985-1986 nummer 989</item>
+         <item attribuut="Jaargang">1985_1986</item>
+         <item attribuut="Vraagnummer">989</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Buurmeijer</persoon>
+            <persoon partij="PvdA">Dales</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-04-28</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Brinkman</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-09-08</item>
+         <item attribuut="Beginpagina">1969</item>
+         <item attribuut="Eindpagina">1970</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1985-1986 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 5 - 1 9 8 6 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="989" onderwerp="de acties van Tamils." indiendatum="28 april 1986)">
+         <vrager partij="PvdA" oorsprong="parlement">Buurmeijer</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Dales</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="8">
+      <vraag nummer="1 ">Wanneer heeft het ministerie van  WVC de pensionhouders, die Tamils  huisvesten, gewaarschuwd voor  mogelijke acties van de Tamils?  </vraag>
+      <vraag nummer="2 ">Over welke aanwijzingen beschikten  de WVC-medewerkers om over te  gaan tot deze waarschuwing?  </vraag>
+      <vraag nummer="3 ">Welke maatregelen zijn getroffen  om mogelijke acties te voorkomen?  </vraag>
+      <vraag nummer="4 ">Welke stappen zijn ondernomen om  het lokaal bestuur te betrekken bij  het treffen van preventieve maatrege- len?  </vraag>
+      <vraag nummer="5 ">Is het waar, dat de politie in de  vestigingsplaatsen van de Tamils-pen- sions niet van rijkswege is geïnfor- meerd over eventuele acties?  </vraag>
+      <vraag nummer="6 ">Is het waar, dat het ministerie van  Binnenlandse Zaken eveneens vooraf  op de hoogte is gebracht inzake  mogelijke acties van de Tamils?  </vraag>
+      <vraag nummer="7 ">Zo ja, wanneer is dat gebeurd en tot  welk interdepartementaal optreden  heeft dit geleid voordat de acties  plaatsvonden?  </vraag>
+      <vraag nummer="8 ">Bent u bereid een uitvoerig onderzoek  in te stellen naar de oorzaken van  deze afkeurenswaardige acties en  daarbij bijzondere aandacht te geven,  waarom de in alle opzichten nadelige  gevolgen niet zijn voorkomen en deze  Kamer hierover in te lichten?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="8 ">Het openbaar ministerie heeft  aanstonds, na deze zeer te betreuren  acties, een grondig onderzoek doen  instellen. Op verzoek van de minister  van Justitie staat dit onderzoek, dat  in verschillende arrondissementen is  procureur-generaal bij het Gerechts- hof te Arnhem. Bij deze onderzoeken  zal zoveel mogelijk aandacht aan de  oorzaken van de acties worden  geschonken. De minister van Justitie  en ik zijn bereid de Kamer hierover te  zijner tijd nader in te lichten.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

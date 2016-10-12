@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19891990:0001242</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001242&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001242</item>
+         <item attribuut="Document-id">0000035649</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 320</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Eisma (D66) over een pleisterplaats van Nederlandse lepelaars in Noord-Spanje.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 320</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">320</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Eisma</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-12-19</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Braks</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-02-05</item>
+         <item attribuut="Beginpagina">645</item>
+         <item attribuut="Eindpagina">646</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="645" allpagenumbers="645" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="320" onderwerp="een pleisterplaats van Nederlandse lepelaars in Noord-Spanje." indiendatum="19december 1989">
+         <vrager partij="D66" oorsprong="parlement">Eisma</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-02-5">
+         <antwoorder functie="minister" ministerie="Landbouw, Natuurbeheer en Visserij">Braks</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Bent u op de hoogte van het feit, dat de baai van Santona (Santander) de belangrijkste pleisterplaats van Nederlandse lepelaars in Noord– Spanje is en dat dit getijdegebied één van de belangrijkste pleister– plaatsen voor deze soort is tussen Nederland als broedgebied en Zuid-Spanje als overwinterings– gebied? </vraag>
+      <vraag nummer="2">Is het u bekend, dat de betekenis van dit gebied voor Nederlandse lepelaars ernstig wordt bedreigd door ontwikkelingen, zoals het volstorten van delen van de getij– dezone, het bedijken van delen ten behoeve van vis– en schelpdiercul– tures, de lozing van ongezuiverd afvalwater, ongecontroleerde vuilstort en wegenaanleg? </vraag>
+      <vraag nummer="3">Bent u bereid uw bezorgdheid over deze ontwikkelingen aan de Spaanse autoriteiten kenbaar te maken en hen te attenderen op hun verplichtingen in het kader van de Richtlijn inzake het behoud van de vogelstand (79/409 EEG), waarin onder meer is bepaald, dat voor de lepelaars en hun verblijfplaatsen speciale beschermingsmaatregelen moeten worden genomen, alsmede deze aangelegenheid onder de aandacht te brengen van de Europese Commissie en deze Kamer over de resultaten daarvan op de hoogte te stellen? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Ja. In augustus 1989 is mijnerzijds bij de Spaanse autoriteiten navraag gedaan naar voorgenomen ontwikke– lingen in de baai van Santona. Daarbij is de bezorgdheid uitge– sproken in verband met de aantasting van dit gebied als pleis– terplaats van lepelaars. Inmiddels heeft de Europese Commissie een procedure tegen de Spaanse regering ingesteld wegens het niet nakomen van de bepalingen van de EG Vogelrichtlijn, op grond waarvan naar de mening van de Commissie het gebied van Santona beschermd behoort te worden. Omdat de ontwikkelingen in het betrokken gebied op gespannen voet lijken te staan met de Conventie van Bern heeft het Standing Committee van deze overeenkomst in december jl. besloten Spanje om nadere infor– matie te vragen. Over de resultaten van een en ander zal ik de Kamer te zijner tijd nader berichten. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

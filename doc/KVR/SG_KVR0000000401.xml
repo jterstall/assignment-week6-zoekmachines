@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19941995:0000401</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000401&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000401</item>
+         <item attribuut="Document-id">0000000401</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1994-1995 nummer 67</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Blaauw (VVD) over belastingheffing op transporten in het kader van nationale en internationale hulpprogramma's bij rampen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1994-1995 nummer 67</item>
+         <item attribuut="Jaargang">1994_1995</item>
+         <item attribuut="Vraagnummer">67</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Blaauw</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-09-15</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van Mierlo</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-10-13</item>
+         <item attribuut="Beginpagina">133</item>
+         <item attribuut="Eindpagina">134</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1994-1995" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="133" allpagenumbers="133" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1994-1995, Aanhangsel" filenaam="" issn-nummer="ISSN0921 -7398" uitgever="'s-Gravenhage 1994"/>
+      <vraagdata vraagnummer="" onderwerp="" indiendatum="">
+         <vrager partij="VVD" oorsprong="parlement">Blaauw</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-10-13">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">Van Mierlo</antwoorder>
+         <mede-antwoorder>de minister van Verkeer en Waterstaat</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="67">Vragen van het lid Blaauw (WD) over belastingheffing op transporten in het kader van nationale en internationale hulpprogramma's bij rampen. (Ingezonden 15 september 1994) </vraag>
+      <vraag nummer="1" voetnoot="1">Zijn transporten in het kader van nationale en internationale hulpprogramma's bij rampen vrijgesteld van belastingen? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2" voetnoot="1">Betalen Nederlandse vervoerders die onder UNPROFOR-vlag transporten verzorgen naar het voormalige Joegoslavië steeds vaker Oostenrijkse vervoerbelasting? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="3">In hoeverre strookt deze belastingheffing met bestaande regelingen? </vraag>
+      <vraag nummer="4">Drukken er nog andere heffingen op transporten in het kader van UNPROFOR? Werken deze heffingen prijsverhogend? Komt deze verhoging ten laste van de Nederlandse financiële bijdrage voor wat betreft UNPROFOR? Bent u bereid om zodanige stappen te ondernemen dat dergelijke heffingen niet meer worden opgelegd en dat reeds gedane heffingen zo mogelijk worden teruggegeven? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1994-09-1" bron=" Transporten Logistiekvan"> Transporten Logistiekvan, 1 september 1994</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1"> en3 Op deze vraag kan in het algemeen geen eenduidig antwoord worden gegeven. Volgens Oostenrijkse regelgeving is echter het vervoer in het kader van nationale en internationale hulpprogramma's vrijgesteld van belasting. Er valt niet met zekerheid te zeggen of Nederlandse vervoerders onder UNPROFOR-vlag steeds vaker Oostenrijkse vervoerbelasting betalen. Hierover worden immers geen statistieken bijgehouden. Het staat evenwel vast, dat met name aan Nederlandse civiele vervoerders van hulpgoederen in een aantal gevallen door de Oostenrijkse douane vervoerbelasting is opgelegd. </antwoord>
+      <antwoord nummer="4">Voor zover bekend, is dit niet het geval. </antwoord>
+      <antwoord nummer="5">In de gevallen waarin vervoerbelasting is opgelegd aan een UNPROFOR-transport, werkt deze prijsverhogend en komt zij ten laste van de Nederlandse bijdrage aan UNPROFOR. Indien duidelijk is aangegeven dat de goederen bestemd zijn voor of afkomstig zijn van UNPROFOR wordt overigens vrijwel nooit een heffing opgelegd. </antwoord>
+      <antwoord nummer="6">Tijdens het bilaterale wegvervoeroverleg met Oostenrijk, dat van 12 tot en met 14 oktober a.s. in Den Haag zal plaatsvinden, zal de Oostenrijkse delegatie hierop worden aangesproken. De indruk bestaat dat er sprake is van een misverstand bij de Oostenrijkse douane-ambtenaren over de interpretatie van de Oostenrijkse regelgeving terzake. Dit misverstand zou zijn te wijten aan het ontbreken van een duidelijke instructie terzake van de Oostenrijkse regering aan haar douane. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

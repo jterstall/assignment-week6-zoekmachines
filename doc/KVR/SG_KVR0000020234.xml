@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001848</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001848&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001848</item>
+         <item attribuut="Document-id">0000020234</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 829</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Beckers-de Bruijn (Groen Links) over de oormerken voor koeien.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 829</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">829</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Beckers-de Bruijn</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-07-23</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Gabor</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-08-24</item>
+         <item attribuut="Beginpagina">1725</item>
+         <item attribuut="Eindpagina">1726</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1725" allpagenumbers="1725" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="829" onderwerp="de oormerken voor koeien." indiendatum="23juli 1992">
+         <vrager partij="Groen Links" oorsprong="parlement">Beckers-de Bruijn</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-08-24">
+         <antwoorder functie="staatssecretaris" ministerie="Landbouw, Natuurbeheer en Visserij">Gabor</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1" voetnoot="1">Zijn er kortgeleden in Twente twee koeien gestorven als gevolg van het aanbrengen van I en R-oormerken? <voetnoot nummer="1"/>' •&gt; Hoe is een en ander precies in zijn werk gegaan? </vraag>
+      <vraag nummer="3">Hoeveel geid is inmiddels in totaal aan schadevergoeding aan veehouders uitbetaald? Bent u nog altijd van oordeel, dat de huidige oormerken aan alle eisen voldoen, ook aan die van dierenwelzijn? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> I en R = Identificatie en Registratie</noot>
+         <noot nummer="2" datum="1992-07-18" bron=" Agrarisch Dagblad"> Agrarisch Dagblad, 18 juli 1992</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">  e n 2 In Twente zijn er een aantal rundveebedrijven begonnen met het merken van de gehele rundveestapel. Op één van deze bedrijven is dit op 4 juni gebeurd en 1 dag later waren twee runderen ernstig ziek. Een van deze dieren is op die dag gestorven en het andere rund is vanwege de ziekteverschijnselen in nood gedood De oorzaak van de ziekte moet worden toegeschreven aan een Clostridium septicum infectie van de wonden die door het aanbrengen van oormerken zijn ontstaan. Deze infectie komt vaker voor bij diepere wonden veroorzaakt door spijkers, splinters of vaccinaties. Bij kleinere wondjes is deze infectie echter een zeldzaamheid. </antwoord>
+      <antwoord nummer="3">Inmiddels is er een bedrag van f 24 953,20 aan schadevergoeding aan veehouders uitbetaald. Ongeveer f 21 000 betreft een tegemoetkoming voor het opdoen van ervaringen in de vrijwillige praktijkfase van het toepassen van de oormerken.' Aan de in vraag 1 en 2 bedoelde veehouder is een bedrag van f 3 953,20 vergoed voor de twee gestorven runderen. Dit is het enige geval dat schade is vergoed aan een veehouder sinds dat er op 1 oktober 1991 een verplichting is ingegaan tot het aanbrengen van de voorgeschreven oormerken bij kalveren. </antwoord>
+      <antwoord nummer="4">Er zijn geen nieuwe redenen bekend om van mijn oordeel dat de huidige oormerken aan alle eisen voldoen - inclusief aan die van dierenwelzijn - af te wijken. Wel is er sinds het begin van de invoering gelet op de kwaliteit van het oormerk. Uit de produktiestroom zijn monsters genomen voor controle. Daarnaast is, in samenwerking met de fabrikant en mede reagerend op aanbevelingen uit het veld, gekeken in hoeverre het oormerk verbeterd zou kunnen worden. Hierop zijn aanpassingen gedaan met daaropvolgend proefnemingen. Praktisch geen enkele aanpassing gaf een duidelijke verbetering. Er wordt nu een aanpassing van het merk uitgetest, waarbij de punt van het oormerk is veranderd in een vlak met een scherpe opstaande rand. Hiermede wordt een ponsactie uitgevoerd, die de randen van de wond in het oor gladder achterlaat en waardoor theoretisch de omstandigheden voor een snelle genezing verbeterd worden. Toch bhjtt natuurlijk het probleem van de hygiëne onder veldomstandigheden bestaan. De praktijk zal rnoeten uitwijzen of het werkelijk tot meetbare verschillen leidt. Eind september worden de resultaten verwacht. Zoals toegezegd zal ik de Kamer hierover op de hoogte houden. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19881989:0001505</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001505&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001505</item>
+         <item attribuut="Document-id">0000091104</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1988-1989 nummer 501</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">501 Vragen van het lid Wallage (P.v.d.A.) over een toespraak van ds. Beyers Naudé bij de Rijksuniversiteit Groningen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1988-1989 nummer 501</item>
+         <item attribuut="Jaargang">1988_1989</item>
+         <item attribuut="Vraagnummer">501</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Wallage</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-01-20</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Deetman</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-04-27</item>
+         <item attribuut="Beginpagina">1005</item>
+         <item attribuut="Eindpagina">1006</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 8 - 1 9 8 9 " typehandeling="" typedoc=""/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 8 - 1 9 8 9 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="501" onderwerp="een toespraak van ds. Beyers Naudé bij de Rijksuniversiteit Groningen." indiendatum="20 januari 1989)">
+         <vrager partij="PvdA" oorsprong="parlement">Wallage</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="27 april 1989)">
+         <antwoorder functie="minister" ministerie="Onderwijs en Wetenschappen">D e e t m a n</antwoorder>
+         <mede-antwoorder>de minister van Buitenlandse Zaken</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 ">Hebt u kennis genomen van de  inhoud van de toespraak van ds.  Beyers Naudé tijdens een ant:- apartheidsdag van de Rijksumversi- teit Groningen? </vraag>
+      <vraag nummer="1 "/>
+      <vraag nummer="2 ">Ziet u kans zijn suggestie op te  volgen om meer (zwarte en blanke)  tegenstanders van het Zuid-Afrikaan- se bewind in Nederland te laten  studeren?  </vraag>
+      <vraag nummer="3 ">Bent u bereid de suggestie van ds.  Beyers Naudé op te volgen en in  contact te treden met b.v. het ANC  ten einde inzicht te krijgen in de  aanwezige behoefte onder de  bestrijders van het apartheidsbewind,  mede tegen de achtergrond van de  mededeling, dat voor 1200 beurzen  zich onlangs 40  0 0 0 zwarte gegadig- den meldden?   Zie o.a. Nederlands Dagblad van 17 jan. jl.  </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"/>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1 ">Ja.  </antwoord>
+      <antwoord nummer="2 ">Sedert 1987 is op bescheiden schaal  voor Zuidafrikanen de mogelijkheid  geschapen tot het volgen van een  postdoctorale studie in Nederland. In  1987 werd hiervan gebruik gemaakt  door een zestal studenten, in 1988  door acht personen. Voor wat betreft  1 989 bestaat de verwachting dat dit  aantal zal toenemen tot tien of elf  studenten.  </antwoord>
+      <antwoord nummer="3 ">De Regering onderhoudt in het kader  van het zogenaamde Tweede  Spoor-beleid reeds enkele jaren  nauw contact met verscheidene  daarvoor in aanmerking komende  organisaties en instellingen op  onderwijskundig terrein in Zuid-Af rika.  Uit het overleg met deze instellingen  is gebleken dat zij aan het tertiair  onderwijs een lagere prioriteit  toekennen dan een andere vormen  van onderwijs, terwijl bovendien de  voorkeur wordt gegeven aan beurzen  voor studies in Zuid-Afrika zelf.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

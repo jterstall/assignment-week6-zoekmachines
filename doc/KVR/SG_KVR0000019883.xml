@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="2">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001497</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001497&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001497</item>
+         <item attribuut="Document-id">0000019883</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 480</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Quint-Maagdenberg (PvdA) en M. de Jong (CDA) over arrestaties in Maleisië.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 480</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">480</item>
+         <item attribuut="Indiener">
+            <persoon>Quint-Maagdenberg</persoon>
+            <persoon>de Jong M.</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-03-02</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-03-23</item>
+         <item attribuut="Beginpagina">1011</item>
+         <item attribuut="Eindpagina">1012</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1011" allpagenumbers="1011 01" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnsiraat 's-Gravenhage 1992"/>
+      <vraagdata vraagnummer="480" onderwerp="arrestaties in Maleisië." indiendatum="1992-03-2">
+         <vrager partij="" oorsprong="parlement">Quint-Maagdenberg</vrager>
+         <vrager partij="" oorsprong="parlement">de Jong M.</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="23 maart 1992).">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">Van den Broek</antwoorder>
+         <mede-antwoorder>de minister van Economische Zaken</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1">Is het juist dat onlangs in Maleisie mensen zijn gearresteerd omdat zij zich verzetten tegen houtkap in Serawak? Zo ja, bent u dan bereid met de Maleise autoriteiten contact op te nemen over de juiste achtergronden van deze arrestaties? </vraag>
+      <vraag nummer="3">Bent u eveneens bereid om, indien uit de verkregen informatie blijkt dat sprake is van schending van mensenrechten, te protesteren bij de Maleise regering en er alles aan te doen om deze mensen hun vrijheid te doen verkrijgen? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1 en 2">Een dezerzijds ingesteld onderzoek heeft tot nu toe onvoldoende gegevens opgeleverd die zekerheid zouden kunnen verschaffen omtrent arrestaties als in deze vragen bedoeld. Wel zou, naar verluidt, begin dit jaar een in Maleisië in brede kring bekende actievoerder tegen de houtkap korte tijd zijn aangehouden en in staat van beschuldiging zijn gesteld. Hij zou namelijk hebben verzuimd, een door hem ter bescherming van de belangen van de oorspronkelijke bosbewoners opgerichte stichting te laten registreren, hoewel zulks onder geldend Maleisisch recht wel verplicht wordt gesteld. Geruchten volgens welke deze persoon zich thans nog in hechtenis zou bevinden in verband met vermeende betrokkenheid bij illegale activiteiten, te weten het versperren van een openbare weg in een concessiegebied, konden tot op heden niet worden geverifieerd. Volgens publieke uitlatingen van de Maleisische autoriteiten zou hij op vrije voeten zijn, in afwachting van de rechtzaak die in september van dit jaar zou dienen. </antwoord>
+      <antwoord nummer="3">Bovenvermelde schaarse gegevens zijn naar ons oordeel ontoereikend om daaraan conclusies te verbinden in het vlak van de mensenrechten. Wij achten dan ook vooralsnog geen gronden aanwezig om terzake bij de Maleise regering stappen te overwegen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

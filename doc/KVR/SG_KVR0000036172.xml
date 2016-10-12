@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001765</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001765&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001765</item>
+         <item attribuut="Document-id">0000036172</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 841</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Vreugdenhil (C.D.A.) over verhogingen van de brandstofprijzen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 841</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">841</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Vreugdenhil</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-08-07</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Andriessen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-08-09</item>
+         <item attribuut="Beginpagina">1699</item>
+         <item attribuut="Eindpagina">1700</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1699" allpagenumbers="1699 1700" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="841" onderwerp="verhogingen van de brandstofprijzen." indiendatum="1990-08-7">
+         <vrager partij="CDA" oorsprong="parlement">Vreugdenhil</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-08-9">
+         <antwoorder functie="minister" ministerie="Economische Zaken">Andriessen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Hebt u kennis genomen van de jongste verhogingen van de brand– stofprijzen door de oliemaatschap– pijen als reactie op de spanningen in de Perzische Golf? Acht u deze maatregel van de oliemaatschappijen correct, mede gezien de omvang van de tegen lagere inkoopprijzen verkregen olievoorraden? </vraag>
+      <vraag nummer="3">Hebben de betreffende oliemaat– schappijen in andere landen van de Europese Gemeenschap soortgelijke prijsverhogingen doorgevoerd? </vraag>
+      <vraag nummer="4">Bent u voornemens contact op te nemen met de oliemaatschappijen of terzake andere maatregelen te treffen teneinde een op de omstan– digheden toegesneden prijsontwik– keling te bewerkstelligen? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja. De oliemaatschappijen baseren hun prijzen op de noteringen voor de produkten op de wereldmarkt. Daarbij geldt de Rotterdamse spotmarkt als graadmeter. Doorgaans wordt een verhoging of verlaging van de Platt's noteringen na twee of drie dagen doorberekend in de consumentenprijzen. In het algemeen stellen de maatschappijen zich in dit opzicht enigszins terug– houdend op om te snelle schomme– lingen in de prijzen te voorkomen. Dit geldt ook voor de thans doorge– voerde prijsverhogingen in de brand– stofprijzen. Uit de bijgevoegde grafiek blijkt dat de mutaties in de consumentenprijzen in de regel goed aansluiten bij de ontwikkelingen op de vrije markt en dat bij prijsverho– gingen dezelfde gedragslijn gevolgd wordt als bij prijsverlagingen. </antwoord>
+      <antwoord nummer="3">Ja. naar gestreefd via kwantitatieve maatregelen de spanningen op de oliemarkt te verminderen. Op 6 augustus is een gesprek gevoerd met de oliemaatschappijen. Daaruit is niets gebleken van een onverantwoord handelen van hun kant. Er is dan ook geen aanleiding om ten aanzien van de prijsontwik– keling maatregelen te nemen. Wel wordt er in internationaal verband </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

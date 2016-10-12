@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="4">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van der Hoeven (CDA) over het splitsen van de provincie Noord-Brabant. (Ingezonden 26 juni 1997); Antwoord</item>
+         <item attribuut="Bestand">14Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR5292
+</item>
+         <item attribuut="Inhoud">Vragen over de vorming van een stadsprovincie Zuidoost-Brabant.</item>
+         <item attribuut="Rubriek">Staats- en bestuursrecht (Bestuurlijke indeling)</item>
+         <item attribuut="Trefwoorden">Noord-Brabant Reorganisatie binnenlands bestuur</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 1996-1997, nr. 1532, Tweede Kamer</item>
+         <item attribuut="Afkomstig_van">Binnenlandse Zaken</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Van der Hoeven</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1997-07-07</item>
+         <item attribuut="Datum_indiening">1997-06-26</item>
+         <item attribuut="Document-id">KVR5292</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1996–1997" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="3135" allpagenumbers="3135" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1996–1997, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 1997"/>
+      <vraagdata vraagnummer="1532" onderwerp="" indiendatum="1997-06-26">
+         <vrager partij="CDA" oorsprong="parlement">Van der Hoeven</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1997-07-7">
+         <antwoorder functie="staatssecretaris" ministerie="Binnenlandse Zaken">Van de Vondervoort</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Heeft het Samenwerkingsverband regio Eindhoven met 30 tegen 25 stemmen een motie tegen een stadsprovincie Brabant-zuidoost aangenomen? </vraag>
+      <vraag nummer="2">Welke consequenties trekt u dit gebrek aan politiek en bestuurlijk draagvlak? </vraag>
+      <vraag nummer="3">Was gebrek aan draagvlak in andere Kaderwet-gebieden niet een reden om af te zien van de vorming van een stadsprovincie? </vraag>
+      <vraag nummer="4">Blijft u bij uw voornemen om de provincie Noord-Brabant te splitsen in twee delen? Zo ja, waarom? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">De Regioraad van het Samenwerkingsverband Regio Eindhoven (SRE) heeft op 19 juni jl. naar aanleiding van de behandeling van het werkprogramma SRE 1998 en de daaruit voortvloeiende begroting SRE 1998 een motie aangenomen bestaande uit vier onderdelen. Een van die onderdelen betreft een afwijzing van de toekomstige vorming van een stadsprovincie Zuidoost-Brabant. Een ander onderdeel betreft het verlenen van medewerking aan, onder verantwoordelijkheid en op uitnodiging van het kabinet, te verrichten werkzaamheden ten behoeve van de vorming van een stadsprovincie Zuidoost-Brabant. Daarbij is aangetekend dat deze medewerking niet berust op instemming van de meerderheid van de Regioraad met de vorming van een stadsprovincie. </antwoord>
+      <antwoord nummer="2">Geen. </antwoord>
+      <antwoord nummer="3" voetnoot="1">Nee. Zoals van de zijde van de regering aangegeven in het notaoverleg van 20 mei 1997 over het kabinetsstandpunt inzake het bestuurlijke eindperspectief kaderwetgebieden <voetnoot nummer="1"/>heeft per gebied een afweging plaatsgevonden op basis van de uitgangspunten zoals beschreven in de VBO-notitie van september 1995 in relatie tot de geconstateerde aard en omvang van de inhoudelijke problematiek in het betrokken gebied. </antwoord>
+      <antwoord nummer="4" voetnoot="2">Ja, omdat de Tweede Kamer op 27 mei jl. de motie De Cloe c.s. <voetnoot nummer="2"/>heeft aangenomen, waarin de regering wordt verzocht een aanvang te maken met het wetgevingstraject voor een stadsprovincie Zuidoost-Brabant. Met de uitvoering van de motie is inmiddels gestart. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1" documenttype="Kamerstuk" kamerstuk-id="25 287" documentnummer="13">Kamerstuk 25 287, nr. 13</noot>
+         <noot nummer="2" documenttype="Kamerstuk" kamerstuk-id="25 287" documentnummer="2">Kamerstuk 25 287, nr. 2</noot>
+      </noten>
+   </antwoorden>
+</kvr>

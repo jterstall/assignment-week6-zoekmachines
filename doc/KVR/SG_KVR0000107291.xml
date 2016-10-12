@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001516</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001516&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001516</item>
+         <item attribuut="Document-id">0000107291</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 484</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden De Hoop Scheffer en Krajenbrink (beiden C.D.A.) over een internationale «informele asielconferentie».</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 484</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">484</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">De Hoop Scheffer</persoon>
+            <persoon partij="CDA">Krajenbrink</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-02-19</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Korte-van Hemel</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-03-12</item>
+         <item attribuut="Beginpagina">961</item>
+         <item attribuut="Eindpagina">962</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 6 - 1 9 8 7 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="484" onderwerp="een internationale «in formele asielcon f eren tie»." indiendatum="19 februari 1987)">
+         <vrager partij="CDA" oorsprong="parlement">De Hoop Scheffer</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Krajenbrink</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="12 maart 1987)">
+         <antwoorder functie="staatssecretaris" ministerie="Justitie">K o r t e - v a n H e m e l</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1 ">Heeft onlangs in het Slot Gerzensee  te Zwitserland een internationale  «informele» asielconferentie plaats- gehad? </vraag>
+      <vraag nummer="1 "/>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="7">
+      <antwoord nummer="1 ">Ja.  </antwoord>
+      <antwoord nummer="2 ">Nederland was op deze consultatie  vertegenwoordigd door een ambtelij- ke delegatie, bestaande uit vertegen- woordigers van de Ministeries van  Buitenlandse Zaken en van Justitie.  Zo ja, heeft Nederland aan deze  bijeenkomst deelgenomen? Op welk  niveau was ons land vertegenwoor- digd?  </antwoord>
+      <antwoord nummer="3 ">Wat waren de belangrijkste resulta- ten?  </antwoord>
+      <antwoord nummer="4 ">Is sprake van aanbevelingen, die  gevolgen zouden kunnen hebben  voor het Nederlandse asielbeleid?  Voor het antwoord op deze vraag  moge ik verwijzen naar het persbericht  dat na de consultatie is uitgereikt en  dat als bijlage bij deze antwoorden is  gevoegd. </antwoord>
+      <antwoord nummer="1 "/>
+      <antwoord nummer="4 ">Nee.  </antwoord>
+      <antwoord nummer="5 " voetnoot="1">Ja.  <voetnoot nummer="1"/> Nedergelegd op de bibliotheek  Onderschrijft de staatssecretaris de  opvatting van de Zwitserse coördina- tor vluchtelingenbeleid Arbenz dat:  «asiellanden elkaar niet probeerden  te beïnvloeden noch te corrigeren»?  </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Zie NRC/Handelsblad van 14 februari 1987 </noot>
+      </noten>
+   </antwoorden>
+</kvr>

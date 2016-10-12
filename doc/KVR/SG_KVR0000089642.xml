@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19881989:0000043</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0000043&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0000043</item>
+         <item attribuut="Document-id">0000089642</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Eerste Kamer 1988-1989 nummer 4</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Eerste Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de heer Boersma (P.V.D.A.) inzake het convenant met Rotterdam inzake nautisch beheer.</item>
+         <item attribuut="titel">Aanhangsel Eerste Kamer 1988-1989 nummer 4</item>
+         <item attribuut="Jaargang">1988_1989</item>
+         <item attribuut="Vraagnummer">4</item>
+         <item attribuut="Indiener">
+            <persoon>Boersma</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1988-09-27</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Smit-Kroes</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1988-11-24</item>
+         <item attribuut="Beginpagina">7</item>
+         <item attribuut="Eindpagina">8</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 8 - 1 9 8 9 " typehandeling="" typedoc=""/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Eerste  K a m e r , vergaderjaar  1 9 8 8 - 1 9 8 9 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="Vragen" onderwerp="" indiendatum="27 september 1988)">
+         <vrager partij="" oorsprong="parlement">Boersma</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1 ">Kan de minister meedelen of het  convenant met Rotterdam inzake het  nautisch beheer incl. de overgang  van personeel reeds is ondertekend?  </vraag>
+      <vraag nummer="2 ">Indien dit niet het geval is kan de  minister dan meedelen of dit te  wijten is aan de vakantie van de  wethouder danwei aan de negatieve  houding van enkele raadscom- missies?  </vraag>
+      <vraag nummer="3 ">Indien het laatste het geval is hoe is  dat dan te rijmen met de uitspraak  dat twee commissies waren gepolst  en positief hadden gereageerd (zie  Handelingen Eerste Kamer pagina  1386 Ik en 1399 rk)?  </vraag>
+      <vraag nummer="4 ">Kan de minister meedelen, indien het  convenant nog niet is getekend,  wanneer dat dan wel het geval zal  zijn?  </vraag>
+      <vraag nummer="5 ">Indien het niet in de rede ligt te  verwachten, dat het convenant op  korte termijn zal worden getekend,  wil de minister dan meedelen, welke  consequenties dit heeft voor het  personeel, dat naar de gemeente  dient over te gaan en welke conse- quenties dit heeft voor het nautisch  beheer? Heeft een en ander ook  financiële consequenites? Zo ja,  welke?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

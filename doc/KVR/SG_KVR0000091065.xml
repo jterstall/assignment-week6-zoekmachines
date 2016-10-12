@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19881989:0001466</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001466&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001466</item>
+         <item attribuut="Document-id">0000091065</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1988-1989 nummer 462</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van Es (P.S.P.) over onderzoek naar het ontwerp van de nieuwe Europese kweekreactor.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1988-1989 nummer 462</item>
+         <item attribuut="Jaargang">1988_1989</item>
+         <item attribuut="Vraagnummer">462</item>
+         <item attribuut="Indiener">
+            <persoon partij="PSP">Van Es</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-03-22</item>
+         <item attribuut="Beantwoorder">
+            <persoon>De Korte</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-04-12</item>
+         <item attribuut="Beginpagina">927</item>
+         <item attribuut="Eindpagina">928</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 8 - 1 9 8 9 " typehandeling="" typedoc=""/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 8 - 1 9 8 9 , Aanhangsel " filenaam="" issn-nummer="ISSN 0921 • 7398 " uitgever="SDU uitgeverij 's Gravenhage 1989 "/>
+      <vraagdata vraagnummer="462" onderwerp="onderzoek naar het ontwerp van de nieuwe Europese kweekreactor." indiendatum="22 maart 1989)">
+         <vrager partij="PSP" oorsprong="parlement">Van Es</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="12 april 1989)">
+         <antwoorder functie="minister" ministerie="Economische Zaken">D e K o r t e</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 ">Heeft u kennis genomen van het  bericht «Europe's fast reactor plan  inches forward» in Nature, Vol. 337,  2 3 - 2 - 8 9 , pagina 680?  </vraag>
+      <vraag nummer="2 ">Levert Nederland een (financiële)  bijdrage aan het onderzoek, dat  gericht is op het ontwerp van de  nieuwe Europese kweekreactor? Wat  is de Nederlandse bijdrage, zowel  financieel als inhoudelijk?  </vraag>
+      <vraag nummer="3 ">Is de Nederlandse overheid zelf, dan  wel een Nederlands bedrijf of  onderzoeksinstituut betrokken bij de  financiering en uitvoering van het  onderzoek? Is één van de genoemde  instellingen partij bij de overeen- komst, genoemd in het artikel van  Nature?  </vraag>
+      <vraag nummer="4 ">Zo ja, acht de regering dat opportuun,  nu de wetenschappelijke en bedrijfs- economische betekenis van de  SNR-3000 zo sterk ter discussie  staat? Is de Nederlandse betrokken- heid in overeenstemming met de  positie van waarnemer, die de  Nederlandse overheid inneemt bij het  project van de nieuwe Europese  Snelle Kweekreactor?  Indien sprake is van een Nederlandse  betrokkenheid, bent u dan bereid  hierover deze Kamer verder in te  lichten?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1 ">Ja.  2 en 3  Nederland is geen lid van de samen- werkingsovereenkomst van een  aantal Europese landen, gericht op  de ontwikkeling van een Europese  snelle kweekreactor, maar vervult  daarbij wel de rol van waarnemer. Dit  heeft ertoe geleid dat het ECN in de  gelegenheid is de onderzoekinspan- ningen op het onderhavige terrein te  volgen waardoor men op de hoogte  blijft van de ontwikkelingen op het  gebied van de kweekreactor-techno- logie. De Nederlandse overheid noch  het ECN leveren concrete financiële  bijdragen aan het onderzoek. Wel is  het zo dat het ECN resultaten van het  beperkte eigen, algemeen kweekreac- toronderzoek ook ter beschikking  stelt van deze samenwerking. Van  een apart budget voor dit onderzoek  is echter geen sprake.  4 en 5  Gegeven het antwoord op vraag 2 en  3 behoeven deze vragen geen  verdere beantwoording.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="eindrapport heeft aangehouden?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001002</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001002&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001002</item>
+         <item attribuut="Document-id">0000011306</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 70</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Van der Vaart en Feenstra (beiden PvdA) over de aanpak van het klimaatprobleem.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 70</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">70</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Van der Vaart</persoon>
+            <persoon partij="PvdA">Feenstra</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-09-22</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Alders</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-10-15</item>
+         <item attribuut="Beginpagina">151</item>
+         <item attribuut="Eindpagina">152</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="151" allpagenumbers="151" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="" onderwerp="" indiendatum="">
+         <vrager partij="PvdA" oorsprong="parlement">Van der Vaart</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Feenstra</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="70">Vragen van de leden Van der Vaart en Feenstra (beiden PvdA) over de aanpak van het klimaatprobleem. (Ingezonden 22 september 1992) </vraag>
+      <vraag nummer="1" voetnoot="1">Hebt u kennis genomen van het bericht <voetnoot nummer="1"/> over het gereedkomen van een nieuw model «ESCAPE», waarmee de effectiviteit van beleidsopties voor de aanpak van het klimaatprobleem kan worden geëvalueerd? </vraag>
+      <vraag nummer="2">Deelt u de conclusies die het RIVM trekt uit de berekeningen met het model? Zo neen, welke correcties of nuanceringen zouden naar uw oordeel op hun plaats zijn? </vraag>
+      <vraag nummer="3">Welke veronderstellingen heeft het RIVM in zijn berekenirigen gehanteerd ten aanzien van de prijsontwikkeling van energie zonder specifieke overheidsmaatregelen? </vraag>
+      <vraag nummer="4">Welke prijselasticiteiten zijn aangehouden voor de te verwachten reactie op prijsstijgingen van energie, al dan niet beïnvloed door energiebelastingen? Deelt u in bijzonder de in het bericht weergegeven conclusie, dat indien de door de Europese Commissie voorgestelde ecotax op energie alleen in de EG wordt geïntroduceerd, dit geen significant effect zal hebben op het toekomstige klimaat? Welke effecten treden in die situatie volgens het model op ten aanzien van de emissies van onder andere kooldioxide? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1992-09-1" bron=" Rijksinstituut voor Volksgezondheid en Milieuhygiëne (RIVM)"> Rijksinstituut voor Volksgezondheid en Milieuhygiëne (RIVM), 1 september 1992</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+   <mededeling mededeler="Alders" functie="minister" afdeling="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer" mededelingdatum="1992-10-15">Mededeling van minister Alders (Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer). (Ontvangen 15 oktober 1992) Naar aanleiding van de mij met brief dd. 22 september 1992 toegezonden vragen van de leden der Kamer Van der Vaart en Feenstra over de uitkomsten van het ESCAPE-Model van het RIVM, deel ik u mede dat de beantwoording hiervan niet binnen de gestelde termijn kan plaatsvinden, aangezien het hiervoor vereiste overleg nog niet is afgerond. Hoe beoordeelt u die veronderstellingen? In hoeverre wijken zij af van de veronderstellingen die de Stuurgroep Regulerende Energieheffingen in zijn </mededeling>
+</kvr>

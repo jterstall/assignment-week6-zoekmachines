@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19881989:0001303</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001303&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001303</item>
+         <item attribuut="Document-id">0000090902</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1988-1989 nummer 299</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Melkert en Castricum (beiden P.v.d..A.) over een in de Waal gelegen gifschip.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1988-1989 nummer 299</item>
+         <item attribuut="Jaargang">1988_1989</item>
+         <item attribuut="Vraagnummer">299</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Melkert</persoon>
+            <persoon partij="PvdA">Castricum</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1988-12-09</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Nijpels</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-02-14</item>
+         <item attribuut="Beginpagina">601</item>
+         <item attribuut="Eindpagina">602</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1988-1989 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 8 - 1 9 8 9 ,  A a n h a n g s e l " filenaam="" issn-nummer="ISSN 0921 7398 " uitgever="SDU Uitgeverij 's Gravenhage 1989 "/>
+      <vraagdata vraagnummer="299" onderwerp="een in de Waal gelegen gifschip." indiendatum="9 december 1988)">
+         <vrager partij="PvdA" oorsprong="parlement">Melkert</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Castricum</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="14 februari 1989), zie ook Aanhangsel Handelin- gen nr. 263, vergaderjaar 1 9 8 8 - 1 989.">
+         <antwoorder functie="" ministerie="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer"/>
+         <mede-antwoorder>de Minister van Verkeer en Waterstaat</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 ">Zal met het opruimen van het in de  Waal bij Beuningen gelegen gifschip  Naviter worden gewacht totdat de  economische politierechter in  Arnhem uitspraak heeft gedaan over  de vraag inzake de aansprakelijkheid?  </vraag>
+      <vraag nummer="2 ">W o r d t hierdoor niet het onverant- woorde risico van een calamiteit met  ernstige ecologische gevolgen, mede  gelet op de toegenomen bekendheid  met de ligging van deze «drijvende  tijdbom», voortgezet?  </vraag>
+      <vraag nummer="3 ">Op welke manier zijn de aan boord  van het schip opgeslagen stoffen  beveiligd?  </vraag>
+      <vraag nummer="4 ">Waarom neemt de rijksoverheid niet  terstond het initiatief tot het opruimen  van het gifschip onder de voorwaarde  dat de hiermee gemoeide kosten  verhaald kunnen worden zodra  particuliere aansprakelijkheid zal zijn  vastgesteld? Waarom is dit initiatief  niet eerder genomen?  Deze vragen dienen ter aanvulling op  de eerdere schriftelijke vragen ter  zake van het lid Lankhorst ingezonden  6 december il.  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1 ">Ja. Met dien verstande dat de  economische politierechter geen  uitspraak heeft gedaan over de  aansprakelijkheid maar over de eis  tot verbeurdverklaring van het schip  de Naviter. Bij vonnis van 16 januari  1989 is deze eis van het Openbaar  Ministerie toegewezen.  2 en 3  Nee. Het schip is al de tijd onder  controle geweest van de verschillende  diensten van beide departementen.  Ook de Rijkspolitie te Water hield  toezicht op het schip.  </antwoord>
+      <antwoord nummer="4 ">Reeds begin 1986 is van Rijkszijde  het initiatief genomen om het schip  op te ruimen. Daarvoor was in de  gegeven omstandigheden vereist dat  de Staat de eigendom van schip en  opbouw verkreeg. Alfa Oil B.V. wist  van de Zwitserse eigenaar de  eigendom vóór de Staat te verkrijgen.  Daarna is een strafrechtelijke aanpak  gevolgd tegen Alfa Oil B.V. die  uiteindelijk heeft geresulteerd in de  verbeurdverklaring van het schip.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

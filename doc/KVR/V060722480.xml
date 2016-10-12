@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="bewoners?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Irrgang en Jansen (beiden SP) aan de minister van Financiën over de belastingheffing op onkostenvergoeding van bewoners aan het Bos en Lommerplein. (Ingezonden 3 augustus 2007)</item>
+         <item attribuut="Bestand">12Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V060722480
+</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van het bericht in Trouw van 2 augustus 2007 dat er inkomstenbelasting wordt geheven op de onkostenvergoeding die de bewoners van het Bos en Lommerplein hebben ontvangen nadat hun woningen ontruimd waren. Eerder was door de Dienst Werk en Inkomen gezegd dat deze vergoeding niet als inkomsten zou gelden.</item>
+         <item attribuut="Rubriek">Belastingen (Inkomstenbelasting)</item>
+         <item attribuut="Trefwoorden">Inkomstenbelasting</item>
+         <item attribuut="Vindplaats">Kamervragen 2006-2007, vraagnr. 2060722480, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2060722480</item>
+         <item attribuut="Indiener">
+            <persoon partij="SP">Irrgang</persoon>
+            <persoon partij="SP">Jansen</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2007-08-03</item>
+         <item attribuut="Document-id">V060722480</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2006–2007" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0607tkkvl2060722480" lopendefooter="Tweede Kamer, vergaderjaar 2006–2007, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2007"/>
+      <vraagdata vraagnummer="2060722480" onderwerp="" indiendatum="2007-08-3">
+         <vrager partij="SP" oorsprong="parlement">Irrgang</vrager>
+         <vrager partij="SP" oorsprong="parlement">Jansen</vrager>
+         <vraagt-aan>de minister van Financiën</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Is het waar dat de Belastingdienst belasting heft op de als onkostenvergoeding bedoelde dagvergoeding die 190 bewoners van het Bos en Lommerplein van de Dienst Werk en Inkomen van Amsterdam hebben ontvangen? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2" voetnoot="2">Is het waar dat eerder door de Dienst Werk en Inkomen is verklaard dat de onkostenvergoeding wat hun betreft fiscaal niet als inkomsten gold? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="3">Was de gemeente Amsterdam voor het verstrekken van de onkostenvergoeding en de informatie op de hoogte van het feit dat de Belastingdienst de onkostenvergoeding wel ziet als een vorm van inkomsten en als zodanig zal belasten? </vraag>
+      <vraag nummer="4">Is het feit dat de onkostenvergoeding een tegemoetkoming is in de extra kosten die bewoners wegens maandenlange onvrijwillig verblijf in hotels of bij familie hebben gemaakt, voor u niet voldoende reden af te zien van deze belastingheffing bij de </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" datum="2007-08-2" bron="Trouw">Trouw, 2 augustus 2007</noot>
+         <noot nummer="2" weblink="http://www.trouw.nl/laatstenieuws/ laatstenieuws/article764129.ece/Fiscus_eist_geld_van_bewoners_Bos_en_Lommerplein">http://www.trouw.nl/laatstenieuws/ laatstenieuws/article764129.ece/Fiscus_eist_geld_van_bewoners_Bos_en_Lommerplein</noot>
+      </noten>
+   </antwoorden>
+</kvr>

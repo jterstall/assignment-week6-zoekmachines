@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001391</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001391&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001391</item>
+         <item attribuut="Document-id">0000019777</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 376</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Zijlstra (PvdA) over een ontsnapping uit gevangenis «De Geerhorst».</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 376</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">376</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Zijlstra</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-01-21</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Kosto</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-02-12</item>
+         <item attribuut="Beginpagina">799</item>
+         <item attribuut="Eindpagina">800</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="799" allpagenumbers="799" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="s Gravenhage 1992"/>
+      <vraagdata vraagnummer="376" onderwerp="een ontsnapping uit gevangenis «De Geerhorst»." indiendatum="1992-01-21">
+         <vrager partij="PvdA" oorsprong="parlement">Zijlstra</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-02-12">
+         <antwoorder functie="staatssecretaris" ministerie="Justitie">Kosto</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1">Kent u de uitspraken van de commissaris van de gemeentepolitie te Sittard naar aanleiding van de ontsnapping uit de gevangenis «De Geerhorst»?' Wat is uw oordeel over de kwalificatie «duiventil»? </vraag>
+      <vraag nummer="3">Zijn er van de zijde van het ministerie van Justitie waarschuwmgen in de wind geslagen? Zo ja, welke? </vraag>
+      <vraag nummer="4">Konden de helpers in «alle rust en op hun dooie gemak» ladders eerst tegen de buitenmuren zetten, vervolgens tegen de binnenmuren en daarna onder het met betraliede raam van de fitnessruimte? </vraag>
+      <vraag nummer="5">Waarom was het raam van de fitnessruimte niet betralied? </vraag>
+      <vraag nummer="6">Is de beveiligmg van dien aard, dat redelijkerwijze alles is gedaan om de omwonenden van de gevangenis voldoende veiligheid te bieden? </vraag>
+      <vraag nummer="7">Is er tijdens de bouw van deze gervangenis f 23 mln. bezuinigd op de beveiliging? </vraag>
+      <vraag nummer="8">Welke maatregelen moeten er getroffen worden om een ontsnapping als deze te voorkomen? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="6">
+      <antwoord nummer="1">Ja. De Geerhorst heeft een capaciteit van 249 piaatsen Sedert de ingebruikname van de inrichting in april 1990 hebben zich tot nu toe 8 gedetineerden door middel van uitklimming al dan niet met behulp van buitenaf aan de detentie onttrokken. In 1990 1, in 1991 5 en 2 op 14 januari 1992. Gelet op de grote doorstroming van gedetineerden in «De Geerhorst» - in 1991 ging het om 838 gedetineerden - acht ik de kwalificatie «duiventil» niet terecht, nog daargelaten dat een duiventil ook gekenmerkt wordt door de regelmatige terugkeer van de uitgevlogen vogels. </antwoord>
+      <antwoord nummer="3">Ten aanzien van onderhavige ontvluchting hebben mij geen specifieke waarschuwingen bereikt. Dit neemt niet weg dat de 40-jarige Colombiaanse cocamehandelaar, tijdens zijn verblijf in andere inrichtingen dan De Geerhorst, bij verschillende pogingen tot ontvluchting - waarbij ook hulp van buitenaf werd verleend - betrokken is geweest. </antwoord>
+      <antwoord nummer="4">Signalering heeft plaatsgevonden op het moment dat een ladder tegen de binnenzijde van de buitenmuur werd geplaatst. Op dat moment is direct geiijktijdig intern en extern alarm gegeven en zijn de geldende vervolgprocedures gestart. Vanaf de eerste signalering heeft de ontvluchting 4 minuten en 20 seconden in beslag genomen. De politie was na 7 minuten ter plaatse. De interne opvolgingssituatie was mede afgestemd op de veiligheid van het personeel en de overige gedetineerden omdat al zeer snel duidelijk was dat er een vuurwapen in het geding was. </antwoord>
+      <antwoord nummer="5">Bedoeld raam ziet uit op een door gebouwen omsloten binnenterrein. De Geerhorst is gebouwd op basis van een programma van eisen waarbij de gebouwomsloten binnenterreinen een belangrijk onderdeel uitmaken van het totale beveiligingsconcept. </antwoord>
+      <antwoord nummer="6">Na eerdere ontvluchtingen en pogingen daartoe vanuit Oe Geerhorst is het beveiligingsniveau verbeterd. Er zijn in 1991 diverse noodvoorzieningen gerealiseerd. Voor de uitvoering van een aantal structurele voorzieningen is medio december 1991 opdracht gegeven, </antwoord>
+      <antwoord nummer="8">De praktijk leert dat ontvluchtingen op vele manieren en onder diverse en wisselende omstandigheden plaats hebben Naar aanleidmg van ontvluchtingen begin 1991 heb ik de projectgroep beveiliging ingesteld. Naar aanleiding van de aanbevelingen van deze projectgroep zijn in 1991 in een aantal inrichtingen nog voor ruim 7 miljoen gulden aan voorzieningen gerealiseerd en zijn voor 1992 en 1993 nog eens voor ruim 13 miljoen gulden aan bouwkundige en materiële aanpassingen voorzien, realisatie hiervan is mede afhankelijk van de beschikbare middelen. Daarnaast heb ik de Taakgroep «Herijking beveiligingsregiem ten aanzien van gedetineerden met een hoog vluchtrisico» ingesteld. Deze taakgroep heeft zeer recent haar rapport bij mij ingediend. In dat rapport worden verschillende beveiligingsverhogende voorstellen gedaan met betrekking tot het regiem waaraan gedetineerden met een verhoogd vluchtrisico worden onderworpen. Op de voorstellen van deze taakgroep bezin ik mij thans. Tenslotte zal ik een externe commissie instellen, welke mij over het te voeren beleid ten aanzien van gedetineerden als hier bedoeld nader dient te adviseren. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="4">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19881989:0001555</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001555&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001555</item>
+         <item attribuut="Document-id">0000091154</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1988-1989 nummer 550</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Vliegenthart en De Cloe (beiden P.v.d.A.) over de beëindiging van de subsidiëring van de experimenten Proef gemeenten specifiek welzijn.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1988-1989 nummer 550</item>
+         <item attribuut="Jaargang">1988_1989</item>
+         <item attribuut="Vraagnummer">550</item>
+         <item attribuut="Indiener">
+            <persoon>Vliegenthart en De Cloe</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-04-14</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Brinkman</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-05-16</item>
+         <item attribuut="Beginpagina">1103</item>
+         <item attribuut="Eindpagina">1104</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 8 - 1 9 8 9 " typehandeling="" typedoc=""/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 8 - 1 9 8 9 ,  A a n h a n g s e l " filenaam="" issn-nummer="ISSN 0921 7398 " uitgever="SDU uitgeverij 's Gravenhage 1989 "/>
+      <vraagdata vraagnummer="550" onderwerp="de beëindiging van de subsidiëring van de experimenten Proef gemeenten specifiek welzijn." indiendatum="14 april 1989)">
+         <vrager partij="" oorsprong="parlement">Vliegenthart en De Cloe</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="16 mei 1989)">
+         <antwoorder functie="minister" ministerie="Welzijn, Volksgezondheid en Cultuur">B r i n k m a n</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 ">Is de regering op de hoogte van de  inhoud van het vonnis van de Haagse  Arrondissementsrechtbank inzake de  beëindiging van de subsidiëring van  de experimenten Proefgemeenten  specifiek welzijn?'  </vraag>
+      <vraag nummer="2 ">Op welke wijze zal de regering  uitvoering geven aan de inhoud van  het vonnis?  </vraag>
+      <vraag nummer="3 ">Wat zijn de financiële gevolgen van  het niet kunnen doorgaan van de  bezuiniging in 1988 en 1989?  </vraag>
+      <vraag nummer="4 ">Hoeveel juridische procedures zijn  vanaf 1 januari 1987 aangespannen  tegen subsidie - en/of bijdrage - beschikkingen van het ministerie  Welzijn, Volksgezondheid en Cultuur?  In welke procedures is het ministerie  in het ongelijk gesteld en met welke  financiële en beleidsmatige gevolgen?  </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Zie  P r o v i n c i a l e  Z e e u w s e  C o u r a n t van 4  a p r i l  j l . </noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1 ">De inhoud van het vonnis van de  Haagse Arrondissementsrechtbank  inzake de beëindiging van de  subsidiëring van de experimenten  specifiek welzijn is bekend.  </antwoord>
+      <antwoord nummer="2 ">Aan dit vonnis zal uitvoering worden  gegeven door de voor 1988 voorziene  rijksbijdrage geheel en de voor 1989  voorziene rijksbijdrage voor 80%  betaalbaar te stellen.  </antwoord>
+      <antwoord nummer="3 ">Het onder punt 2 gestelde brengt  een bedrag met zich mee van  ongeveer  f 5 7 0  0 0 0 .  </antwoord>
+      <antwoord nummer="4 ">Naast de bovengenoemde zaak in het  kader van het specifiek welzijn zijn er  op grond van het Besluit proefge- meenten nog door een vijftiental  gemeenten op grond van artikel 11  van genoemd Besluit Kroonberoepen  ingediend tegen de beschikking  dezerzijds betreffende de definitieve  vaststelling van de uitkeringscompo- nent gezinsverzorging  1 9 8 3 - 1 9 8 7 .  De Raad van State heeft het schor- singsverzoek van de gemeente  Landgraaf terzake afgewezen in haar  uitspraak, 9 december 1988. De  zaak ten principale speelt echter nog.  De uitkomsten zijn derhalve nog  onbekend.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

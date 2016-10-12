@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="aangaven?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Irrgang (SP) aan de minister van Financiën over een snelle opmars van de riskante hypotheken. (Ingezonden 3 augustus 2007)</item>
+         <item attribuut="Bestand">12Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V060722530
+</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van bericht (De Volkskrant, 2 augustus 2007) dat er in Nederland sprake is van een snelle opmars van de riskante hypotheken. Indiener vraagt zich af of Nederlandse toezichthouders rekening houden met de recente problemen op de Amerikaanse 'subprime'-markt en mogelijke gevolgen daarvan voor het Nederlandse financiële stelsel.</item>
+         <item attribuut="Rubriek">Consument (Algemeen) Geld- en kapitaalmarkt (Algemeen)</item>
+         <item attribuut="Trefwoorden">Consumenten Hypotheken</item>
+         <item attribuut="Vindplaats">Kamervragen 2006-2007, vraagnr. 2060722530, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2060722530</item>
+         <item attribuut="Indiener">
+            <persoon partij="SP">Irrgang</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2007-08-03</item>
+         <item attribuut="Document-id">V060722530</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2006–2007" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0607tkkvl2060722530" lopendefooter="Tweede Kamer, vergaderjaar 2006–2007, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2007"/>
+      <vraagdata vraagnummer="2060722530" onderwerp="" indiendatum="2007-08-3">
+         <vrager partij="SP" oorsprong="parlement">Irrgang</vrager>
+         <vraagt-aan>de minister van Financiën</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Wat is uw reactie op de berichtgeving <voetnoot nummer="1"/>dat er in Nederland sprake is van een snelle opmars van de riskante hypotheken? </vraag>
+      <vraag nummer="2">Hebben de Nederlandse toezichthouders naar aanleiding van de problemen op de Amerikaanse «subprime»-markt gekeken of het toezicht in Nederland op de verstrekkers van non-conforming-hypotheken wel voldoende is? </vraag>
+      <vraag nummer="3">Zijn de risico’s in kaart gebracht voor het Nederlandse financiële stelsel van de mogelijke gevolgen van de problemen op de Amerikaanse «subprime»-markt? </vraag>
+      <vraag nummer="4">In hoeverre worden Nederlandse financiële instellingen getroffen als blijkt dat er op grote schaal afwaarderingen van leningen moeten plaatsvinden, omdat ze riskanter bleken te zijn dan de «ratinginstituten» aanvankelijk </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" datum="2007-08-2" bron="de Volkskrant">de Volkskrant, 2 augustus 2007</noot>
+      </noten>
+   </antwoorden>
+</kvr>

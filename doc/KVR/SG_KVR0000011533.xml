@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001229</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001229&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001229</item>
+         <item attribuut="Document-id">0000011533</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 298</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Rempt-Halmmans de Jongh (VVD) over DAF.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 298</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">298</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Rempt-Halmmans de Jongh</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-12-30</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Andriessen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-01-18</item>
+         <item attribuut="Beginpagina">609</item>
+         <item attribuut="Eindpagina">610</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="609" allpagenumbers="609" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="298" onderwerp="DAF." indiendatum="1992-12-30">
+         <vrager partij="VVD" oorsprong="parlement">Rempt-Halmmans de Jongh</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="18 januari 1993) 1, 2, 4, 5, 6, 7 e n 8 De informatie waar het in deze vragen om gaat, is van vertrouwelijke aard. De gevraagde informatie heb ik opgenomen in een separate - vertrouwelijke - brief aan de vaste Commissie voor economische zaken">
+         <antwoorder functie="minister" ministerie="Economische Zaken">Andriessen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="8">
+      <vraag nummer="1" voetnoot="1">Waarom maakt u via een interview <voetnoot nummer="1"/>bekend, dat u van plan bent in samenwerking met banken, verzekeringsmaatschappijen etc. de DAF financieel te redden? Is het onderzoek over de toekomst van de DAF reeds afgerond en heeft dit tot een positief resultaat geleid? </vraag>
+      <vraag nummer="3">Hebt u het zogenaamde Industriefonds vorm kunnen geven? </vraag>
+      <vraag nummer="4">Heeft de DAF zich reeds akkoord verklaard met uw wens de bestaande «kennis» als onderpand te verstrekken? </vraag>
+      <vraag nummer="5">Hoe kan de DAF deze kennis aanwenden cq. uitbreiden, indien deze bij u is opgeslagen? </vraag>
+      <vraag nummer="6">Hebben de eventuele andere geldschieters eveneens recht op dit onderpand? </vraag>
+      <vraag nummer="7">Wat verstaat u in dit kader onder marktconform? </vraag>
+      <vraag nummer="8">Kunt u deze vragen beantwoorden vóór het geplande mondeling overleg van 19 januari ter zake? </vraag>
+      <vraag nummer="9">Weet u zeker, dat ondanks alle bezuinigingen nooit is toegegeven op technologie-beleid? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"/>
+         <noot nummer="1" datum="1992-12-24" bron=" Volkskrant"> Volkskrant, 24 december 1992</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="3">Zoals bekend spreek ik liever van een financieringsfaciliteit. In beginsel staan betrokken partijen (banken, verzekeringsmaatschappijen en pensioenfondsen) positief tegenover de totstandkoming van een marktconforme faciliteit voor financiering van kapitaal met een meerjarig karakter en hoog risico. In werkgroepverband vindt momenteel een nadere uitwerking plaats. Tijdens de begrotingsbehandeling in november 1992 heb ik een en ander toegelicht. Ik heb toen gesteld dat de afschaffing van de INSTIR gezien moet worden als een bezuinigingsmaatregel in de sfeer van de technologie. Daaraan lag een aantal overwegingen ten grondslag die destijds uitvoering zijn besproken. Echter afgezien van dit INSTIR-effect is er sprake van een min of meer stabiel budget voor technologiebeleid. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

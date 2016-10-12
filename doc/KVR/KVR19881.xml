@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="6">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van Dam (PvdA) aan de ministers voor Bestuurlijke vernieuwing, van Binnenlandse Zaken en Koninkrijksrelaties en van Economische Zaken over de risico's van het gebruik van closed source software. (Ingezonden 1 maart 2004); Antwoord</item>
+         <item attribuut="Bestand">19Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR19881
+</item>
+         <item attribuut="Inhoud">Vragen over het verzwijgen door Microsoft van een grote softwarefout in het computerbesturingssysteem Windows van Microsoft. De Nederlandse overheid maakt veel gebruik van de closed source software van Microsoft.</item>
+         <item attribuut="Rubriek">Communicatie, media en informatievoorziening (Hard- en software)</item>
+         <item attribuut="Trefwoorden">Software</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2003-2004, nr. 1183, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2030409260</item>
+         <item attribuut="Afkomstig_van">Bestuurlijke Vernieuwing en Koninkrijksrelaties (BVK) Binnenlandse Zaken en Koninkrijksrelaties (BZK) Economische Zaken (EZ)</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Van Dam</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2004-03-31</item>
+         <item attribuut="Datum_indiening">2004-03-01</item>
+         <item attribuut="Document-id">KVR19881</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2003–2004" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="2509" allpagenumbers="2509" vetnummer="2030409260" code="0304tkkvr1183" lopendefooter="Tweede Kamer, vergaderjaar 2003–2004, Aanhangsel" filenaam="KVR19881" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2004"/>
+      <vraagdata vraagnummer="1183" onderwerp="" indiendatum="2004-03-1">
+         <vrager partij="PvdA" oorsprong="parlement">Van Dam</vrager>
+         <vraagt-aan>de ministers voor Bestuurlijke vernieuwing, van Binnenlandse Zaken en Koninkrijksrelaties en van Economische Zaken</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2004-03-31">
+         <antwoorder functie="minister" ministerie="Bestuurlijke Vernieuwing en Koninkrijksrelaties">De Graaf</antwoorder>
+         <mede-antwoorder>de ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Economische Zaken</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1" voetnoot="1">Bent u ervan op de hoogte dat in het computerbesturingssysteem Windows van Microsoft regelmatig fouten worden ontdekt, die de veiligheid van het computergebruik in gevaar brengen en dat Microsoft recent een grote fout maandenlang heeft verzwegen voor zijn klanten? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Hoeveel procent van de door de rijksoverheid gebruikte servers en computers is uitgerust met Microsoft Windows software? </vraag>
+      <vraag nummer="3">Wat vindt u ervan dat Microsoft een grote fout in zijn software maandenlang verborgen houdt voor zijn klanten, waaronder de Nederlandse overheid? </vraag>
+      <vraag nummer="4">Bent u het ermee eens dat gebruikers van closed source software grotere veiligheidsrisico’s lopen dan gebruikers van open source software, aangezien fouten minder snel ontdekt worden, gebruikers zelfgeen aanpassingen kunnen verrichten en leveranciers fouten verborgen kunnen houden voor klanten? </vraag>
+      <vraag nummer="5">Gaat u Microsoft aanspreken op het verzwijgen van de genoemde fout of gaat u stappen ondernemen tegen Microsoft? </vraag>
+      <vraag nummer="6">Vindt u het, gelet op het bovenstaande, extra noodzakelijk de rijksoverheid zoveel mogelijk gebruik te gaan laten maken van open source software? Zo ja, hoe gaat u hiermee een extra impuls geven? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="2004-02-12" bron="De Telegraafen Trouw">De Telegraafen Trouw, 12 februari 2004</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="6">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Exacte cijfers zijn mij niet bekend. Het programma OSOSS heeft in samenwerking met Advies Overheid.nl onderzocht welke webserversoftware gebruikt worden voor overheidssites. Ongeveer 49% van deze websites gebruikt Microsoft IIS en 36% gebruikt het open source product Apache. Voor mail-, print- en databaseservers zijn geen cijfers bekend, maar naar verwachting gebruikt meer dan 50% van dit type servers Microsoft software. Op desktops wordt bij vrijwel alle overheidsorganisaties Microsoft Windows gebruikt. </antwoord>
+      <antwoord nummer="3">Dat Microsoft niets heeft gemeld over de fout, terwijl er op dat moment geen oplossing voorhanden was, was verstandig, omdat op die manier werd voorkomen dat er aanvallen op computers plaatsvonden waar op dat moment weinig tegen te doen viel. </antwoord>
+      <antwoord nummer="4">In zijn algemeenheid kan niet gesteld worden dat gebruikers van closed source software grotere veiligheidsrisico’s lopen dan gebruikers van open source software. Evenmin vormt openheid van de broncode op zichzelfeen garantie voor veiligheid. Hierbij kan worden opgemerkt dat een goed systeembeheer belangrijker voor de veiligheid is dan de vraag ofde software open of gesloten is. </antwoord>
+      <antwoord nummer="5">Nee. </antwoord>
+      <antwoord nummer="6">De keuze voor open ofclosed source software hangt af van de eisen die in een specifieke situatie worden gesteld. De hier aangekaarte problematiek geeft mij geen aanleiding voor een extra impuls. De activiteiten van het overheidsprogramma OSOSS om het gebruik van open source software te bevorderen zijn voldoende toereikend om overheidsorganisaties de goede afweging te laten maken. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

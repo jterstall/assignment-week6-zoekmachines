@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001616</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001616&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001616</item>
+         <item attribuut="Document-id">0000027953</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 680</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Jorritsma-Lebbink en Van Erp (beiden VVD) over het doorgeven van de code van de verbindingen in de schakelkasten van de P. T. T.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 680</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">680</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Jorritsma-Lebbink</persoon>
+            <persoon partij="VVD">Van Erp</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-06-07</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Maij Weggen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-06-24</item>
+         <item attribuut="Beginpagina">1389</item>
+         <item attribuut="Eindpagina">1390</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1389" allpagenumbers="1389" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="'s Gravenhage 1991"/>
+      <vraagdata vraagnummer="680" onderwerp="het doorgeven van de code van de verbindingen in de schakelkasten van de P. T. T." indiendatum="1991-06-7">
+         <vrager partij="VVD" oorsprong="parlement">Jorritsma-Lebbink</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Van Erp</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="24juni 1991">
+         <antwoorder functie="minister" ministerie="Verkeer en Water– staat">Maij Weggen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1">Bent u op de hoogte van het feit, dat P.T.T. op aanvraag de code van de verbindingen in de schakelkasten van de P.T.T. doorgeeft ten behoeve van werkzaamheden van monteurs? Weet u dat deze informatie in een aantal gevallen gebruikt wordt ten behoeve van inbraak, waarbij het alarmsysteem langs deze weg werd uitgeschakeld? </vraag>
+      <vraag nummer="3">Bent u bereid bij de P.T.T. te bevor– deren, dat zo zorgvuldig mogelijk met deze gegevens wordt omgegaan? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja. Voor het uitvoeren van werkzaamheden aan het kabelnet verstrekt PTT aan door haar ingeschakelde monteurs slechts die gegevens die voor die bepaalde werkzaamheden benodigd zijn. Bij werkzaamheden waarbij kabel– kasten betrokken zijn, wordt in de werkopdracht aangegeven op welke plaats/positie gewerkt moet worden en welk telefoonnummer of lijnnummer het betreft. Informatie omtrent andere verbindingen wordt niet verstrekt.Constateert de monteur in de kabelkast een afwijking van hetgeen op zijn werkorder is aangegeven, dan zal hij over het algemeen telefonische navraag doen bij de technische administratie. Daarbij wordt, teneinde het werkproces voort te kunnen zetten, telefonisch informatie uitgewisseld over de bezetting van de aansluitpunten. </antwoord>
+      <antwoord nummer="2">Ja. Helaas is het ondanks de onder 1 genoemde maatregelen voor kwaad– willigen mogelijk gebleken een telecommunicatieverbinding uit te schakelen. </antwoord>
+      <antwoord nummer="3">Ja. Op mijn verzoek heeft de PTT meegedeeld in het vervolg nog attender te zijn op de zorgvuldigheid bij het hanteren van de betrokken gegevens. Bovendien is mij meege– deeld dat de PTT op dit moment een omvangrijk project voor geautori– seerde toegangsverlening in uitvoering heeft. Dit zal leiden tot systematische registratie van toegang, zodat eenvoudig te achter– halen valt wie toegang tot bepaalde verdeelkasten is verschaft. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

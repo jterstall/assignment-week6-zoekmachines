@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="8">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001407</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001407&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001407</item>
+         <item attribuut="Document-id">0000011711</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 477</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Tommel en Schimmel (beiden D66) over de sociaal-economische problematiek in Zuidoost-Brabant,</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 477</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">477</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Tommel</persoon>
+            <persoon partij="D66">Schimmel</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-03-11</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van Rooy</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-04-05</item>
+         <item attribuut="Beginpagina">975</item>
+         <item attribuut="Eindpagina">976</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="975" allpagenumbers="975 976" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="477" onderwerp="" indiendatum="">
+         <vrager partij="D66" oorsprong="parlement">Tommel</vrager>
+         <vrager partij="D66" oorsprong="parlement">Schimmel</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-04-5">
+         <antwoorder functie="staatssecretaris" ministerie="Economische Zaken">Van Rooy</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="8">
+      <vraag nummer="1">Hebt u op 10 maart jl. het «Aktieplan Regio Eindhoven» in ontvangst genomen? </vraag>
+      <vraag nummer="2">Bent u gezien het sterk regionale karakter van de sociaal-economische problematiek in genoemde regio bereid de inzet van de Rijksoverheid snel en doeltreffend te organiseren? </vraag>
+      <vraag nummer="3">Bent u bereid een maximale inspanning te leveren om de bij DAF en de toeleveranciers ontslagen werknemers weer aan een betaalde arbeidsplaats te helpen? Hoe oordeelt het Kabinet in dit verband over het «Plan DAF-Bemiddelingscentrum»? Bent u bereid de kosten hiervan die de begroting van het RBA Zuidoost-Brabant te boven gaan in ieder geval voor 1993 te garanderen in afwachting van het resultaat van het aanboren van diverse bronnen (zoals het CBA en de Europese Gemeenschap)? </vraag>
+      <vraag nummer="4">Welke inspanningen zijn door het Kabinet verricht en zullen nog worden verricht ten behoeve van het behoud van DAF Special Products? Wie zijn hiervoor eerstverantwoordelijk, de bewindslieden van Economische Zaken of van Defensie? </vraag>
+      <vraag nummer="5">Bent u bereid open overleg te bevorderen over de in het Aktieplan opgenomen infrastructurele werken? Is het Kabinet bereid infrastructurele werken met een belangrijke economische betekenis, zoals (evt. delen van) het Sleutelplan Eindhoven en het Kanaalzoneproject Helmond (inclusief het doortrekken van de S 210 en de aansluiting van de Rochadeweg op de N 266), bij voorrang te financieren, bv. uit het Aardgasbatenfonds? </vraag>
+      <vraag nummer="6">Zullen systematisch alle mogelijkheden worden onderzocht van financiering van projecten of activiteiten door de Europese Gemeenschap? Wie is hiervoor de eerstverantwoordelijke bewindspersoon? </vraag>
+      <vraag nummer="7">Heeft het Kabinet intussen een standpunt bepaald met betrekking tot een verruiming van de toepassing van de IPR in Zuidoost-Brabant? Is hierover informeel overleg gevoerd met de Europese Commissie? Zo neen, waarom niet? </vraag>
+      <vraag nummer="8">Bent u bereid bij de werving van buitenlandse bedrijven door het CBIN in het bijzonder te wijzen op de mogelijkheden van vestiging in Zuidoost-Brabant? Bent u bereid de Kamer regelmatig (bijv. iedere 3 maanden) op de hoogte te stellen van de door het Kabinet ondernomen activiteiten ter verbetering van de sociaal-economische situatie in Zuidoost-Brabant? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="8">
+      <antwoord nummer="1">Ja. Bij de inontvangstname van het «Actieplan Regio Eindhoven» op 10 maart jl. heb ik overleg gevoerd met delegaties van het provinciebestuur van Noord-Brabant, het Sociaal-Economisch Overleg Brabant (SEOB) en de regio Zuidoost-Brabant. Bij deze gelegenheid heb ik aangegeven het «Actieplan Regio Eindhoven» nader te bestuderen en heb ik aangeboden als aanspreekpunt binnen het Kabinet te willen fungeren. Zie voorts mijn antwoord op vraag 6. </antwoord>
+      <antwoord nummer="3">De verantwoordelijkheid voor het weer naar betaalde arbeid </antwoord>
+      <antwoord nummer="4">In de periode dat DAF N.V. in surséance verkeerde, stelden de bewindvoerders vast dat een eventuele «DAF-nieuw» slechts levensvatbaar zou zijn als men terug ging naar de «corebusiness», te weten: de middelzware en zware vrachtwagen-series. Voor specifieke onderdelen, zoals DAF SP, was geen plaats meer en dientengevolge zouden deze moeten worden verkocht. Op dit moment zijn gesprekken met potentiële kopers gaande over een eventuele overname van DAF SP. Dergelijke onderhandelingen worden gevoerd onder de verantwoordelijkheid van de bewindvoerders. De overheid kan in deze fase geen actieve rol spelen. Wel zijn de ministeries van Economische Zaken en van Defensie bereid om met de bewindvoerders, de directie van DAF SP en een mogelijke koper van DAF SP te spreken over de positie van dit bedrijf in relatie met de nieuwe materieelbehoeften van het ministerie van Defensie. </antwoord>
+      <antwoord nummer="5">Ik ben bereid open overleg te bevorderen over de in het Actieplan opgenomen infrastructurele werken voorzover deze van economisch belang zijn. De middelen uit het Aardgasbatenfonds zijn beschikbaar voor infrastructurele projecten van nationaal-economische betekenis. Nog los van de vraag of de hierboven bedoelde projecten onder deze voorwaarde in aanmerking zouden komen voor een bijdrage uit het Aardgasbatenfonds, zij erop Bedrijfsomgevingsbeleid, kan het stedelijk knooppunt zelf bepalen voor welke goedgekeurde projecten zij de haar toegekende middelen zal inzetten. Daarnaast is in het kader van de éénmalige Investeringsimpuls Aardgasbaten 1992 door het Kabinet f 4,45 mln. toegekend aan de gemeente Helmond voor de aansluiting van de Rochadeweg op de N 266 en het doortrekken van de S210. </antwoord>
+      <antwoord nummer="6">Met het provinciebestuur van Noord-Brabant en de regio Zuidoost-Brabant heb ik afgesproken dat alle mogelijkheden voor financiering van projecten en activiteiten in de regio Zuidoost-Brabant vanuit het regionaal toegespitste beleid van de Europese Gemeenschap zullen worden nagegaan. Ik zal hierbij optreden als coördinerend bewindspersoon. </antwoord>
+      <antwoord nummer="7">Noch vanuit de provincie Noord-Brabant, noch vanuit de regio Zuidoost-Brabant is de mogelijkheid voor verruiming van de IPR in Zuidoost-Brabant ter tafel gebracht. Afgezien daarvan zie ik overigens geen aanleiding om mijn besluit tot stopzetting van de IPR voor de regio Helmond, aan u gemeld in mijn brief van 14 december 1991 \ in heroverweging te nemen. Hierover heeft derhalve geen overleg plaatsgevonden met de Europese Commissie. </antwoord>
+      <antwoord nummer="8">Het CBIN verzorgt ondermeer de rondleiding door Nederland van 48 arbeidsplaatsen; 1991: 1 project, investeringsbedrag f 5 mln., 20 arbeidsplaatsen; 1992: 4 projecten, investeringsbedrag f 12,7 mln., 104 arbeidsplaatsen. Het, door de recente ontwikkelingen, verhoogde aanbod van goed gekwalificeerd personeel zal de slaagkans van buitenlandse investeringsprojecten in de betreffende regio naar mijn mening alleen maar doen toenemen. Omdat dit eveneens een factor van belang is, zal het CBIN bij de werving van buitenlandse bedrijven zeker ook de mogelijkheden van vestiging in Zuidoost-Brabant benadrukken. </antwoord>
+      <antwoord nummer="9">Indien daar aanleidmg toe is zal ik de Kamer informeren over de voortgang van de ondernomen activiteiten ter versterking van de sociaal-economische situatie in Zuidoost-Brabant. Ik zie echter geen reden voor een afzonderlijke periodieke rapportage aan de Kamer inzake de situatie in deze specifieke regio. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Kamerstukken II 1992/1993, 21 571, nr 8</noot>
+      </noten>
+   </antwoorden>
+</kvr>

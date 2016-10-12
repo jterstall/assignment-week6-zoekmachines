@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19851986:0001631</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001631&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001631</item>
+         <item attribuut="Document-id">0000115191</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1985-1986 nummer 710</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid De Waart (P.v.d.A.) over het Nederlands beleid t.a.v. de Westelijke Sahara.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1985-1986 nummer 710</item>
+         <item attribuut="Jaargang">1985_1986</item>
+         <item attribuut="Vraagnummer">710</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">De Waart</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-04-17</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-05-20</item>
+         <item attribuut="Beginpagina">1411</item>
+         <item attribuut="Eindpagina">1412</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1985-1986 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 5 - 1 9 8 6 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="710" onderwerp="" indiendatum="">
+         <vrager partij="PvdA" oorsprong="parlement">De Waart</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="20 mei 1986)">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">Van den Broek</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1 ">Ligt aan het Nederlands beleid ten  aanzien van de Westelijke Sahara  nog steeds het uitgangspunt ten  grondslag, dat de bevolking van dit  gebied in staat gesteld moet worden  haar recht op zelfbeschikking uit te  oefenen?  Deelt de regering de opvatting, dat in  de Westelijke Sahara een zelfbeschik- kingsreferendum moet worden  georganiseerd door de Organisatie  van Afrikaanse Eenheid in samenwer- king met de Verenigde Naties?  </vraag>
+      <vraag nummer="3 ">Deelt de regering de mening van de  OAE (resolutie AHG 104), dat dit  referendum «algemeen en vrij, buiten  elke militaire en bestuurlijke dwang»  moet plaats vinden, onder toezicht  van de VN en de OAE?  </vraag>
+      <vraag nummer="4 ">Deelt de regering de mening, dat  voor dat een referendum kan worden  gehouden een wapenstilstand nodig  is en onderlinge overeenstemming  tussen de beide oorlogvoerende  partijen Marokko en Polisario?  </vraag>
+      <vraag nummer="5 ">Deelt de regering de mening, dat  directe onderhandelingen tussen de  oorlogvoerende partijen nodig en  tot een wapenstilstand, referendum  en eventuele zelfbeschikking?  </vraag>
+      <vraag nummer="6 ">Waarom heeft Nederland niet  gestemd voor een resolutie van de  Mensenrechtencommissie over de  Westelijke Sahara op haar 42ste  zitting?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1 ">Ja.  2 en 3  Zoals bekend, heeft de regering zich  steeds op het standpunt gesteld dat  het zelfbeschikkingsrecht bij voorkeur  moet worden verwezenlijkt onder  auspiciën van de OAE en in samen- werking met de VN. De regering stelt  zich terzake van de modaliteiten  daarvan neutraal op.  4 en 5  Op basis van resolutie  4 0 / 5 0 van de  Algemene Vergadering van de  Verenigde Naties, waarin de Secreta- ris-Generaal van de VN en de  voorzitter van de OAE zijn uitgenodigd  zich in te zetten voor een oplossing  van het West-Sahara conflict, vindt  thans indirect beraad plaats tussen  Marokko en het Polisario onder  auspiciën van de SG. Over het  verloop daarvan zijn door de SGVN  geen mededelingen gedaan.  </antwoord>
+      <antwoord nummer="6 ">Nederland is geen lid meer van de  Mensenrechtencommissie en heeft  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

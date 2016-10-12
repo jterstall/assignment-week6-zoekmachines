@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="2">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Timmer en Wolfsen (beiden PvdA) aan de ministers van Justitie en van Volksgezondheid, Welzijn en Sport over het aanbieden van nieren op internet. (Ingezonden 24 januari 2005); Antwoord</item>
+         <item attribuut="Bestand">15Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR22268
+</item>
+         <item attribuut="Inhoud">Vragen over de stand van zaken van het onderzoek van het OM. Zie ook eerdere vragen van deze leden, Aanhangsel van de Handelingen II, 2004-2005, nr. 29.</item>
+         <item attribuut="Rubriek">Gezondheidszorg (Geneeskunde) Gezondheidszorg (Medische ethiek) Handel en economie (Economische delicten)</item>
+         <item attribuut="Trefwoorden">Economische delicten Medische ethiek Orgaandonatie</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2004-2005, nr. 960, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2040506780</item>
+         <item attribuut="Afkomstig_van">Justitie (JUS)</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Timmer</persoon>
+            <persoon partij="PvdA">Wolfsen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2005-02-16</item>
+         <item attribuut="Datum_indiening">2005-01-24</item>
+         <item attribuut="Document-id">KVR22268</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2004–2005" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="2039" allpagenumbers="2039" vetnummer="2040506780" code="0405tkkvr960" lopendefooter="Tweede Kamer, vergaderjaar 2004–2005, Aanhangsel" filenaam="KVR22268" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2005"/>
+      <vraagdata vraagnummer="960" onderwerp="" indiendatum="2005-01-24">
+         <vrager partij="PvdA" oorsprong="parlement">Timmer</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Wolfsen</vrager>
+         <vraagt-aan>de ministers van Justitie en van Volksgezondheid, Welzijn en Sport</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2005-02-16">
+         <antwoorder functie="minister" ministerie="Justitie">Donner</antwoorder>
+         <mede-antwoorder>de minister van Volksgezondheid, Welzijn en Sport</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1">Herinnert u zich de antwoorden op de vragen over het artikel «Nieren te koop via het web»? 1, 2 </vraag>
+      <vraag nummer="2">Is het onderzoek van het OM reeds afgerond? Zo ja, wat is de uitkomst? Zo neen, wat is de stand van het onderzoek op dit moment? Wanneer wordt de uitkomst verwacht en wanneer brengt u de Kamer daarvan op de hoogte? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" documenttype="Kamervragen" documentnummer="29" documentjaargang="2004-2005">Aanhangsel Handelingen, nr. 29, vergaderjaar 2004–2005.</noot>
+         <noot nummer="2" datum="2005-08-18" bron="Het Parool">Het Parool, 18 augustus 2005</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Het in de eerder over dit onderwerp gestelde vragen genoemde onderzoek van het openbaar ministerie is op dit moment nog niet afgerond. Naar verwachting zal het openbaar ministerie dit onderzoek eind april 2005 afronden. Ik zal u te gelegener tijd over de uitkomsten informeren. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

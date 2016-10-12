@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001446</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001446&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001446</item>
+         <item attribuut="Document-id">0000011750</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 516</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Van Zijl en Zijlstra (beiden PvdA) over het onderbrengen van een aanvullende arbeidsongeschiktheidsverzekering bij pensioenfondsen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 516</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">516</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Van Zijl</persoon>
+            <persoon partij="PvdA">Zijlstra</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-03-22</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Dales</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-04-23</item>
+         <item attribuut="Beginpagina">1055</item>
+         <item attribuut="Eindpagina">1056</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1055" allpagenumbers="1055 1056" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Ptantijnstraat 's-Gravenhage 1993"/>
+      <vraagdata vraagnummer="516" onderwerp="het onderbrengen van een aanvullende arbeidsongeschiktheidsverzekering bij pensioenfondsen." indiendatum="1993-03-22">
+         <vrager partij="PvdA" oorsprong="parlement">Van Zijl</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Zijlstra</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="23 april 1993), zie ook Aanhangsel Handelingen nr. 500, Vergaderjaar 1992-1993">
+         <antwoorder functie="minister" ministerie="Binnenlandse Zaken">Dales</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1">kent u de mededeling in de circulaire van de Verzekeringskamer van 10 mnaart jl.' dat een aanvullende arbeidsongeschiktheidsverzekering aüsen in een pensioenfonds mag worden ondergebracht, indien zij wordt geïntegreerd in de totale pensioenregeling van het fonds? </vraag>
+      <vraag nummer="2">Betekent dit dat onderbrengmg bij een pensioenfonds geblokkeerd dreigt te worden indien het een verzekering betreft die uitsluitend door werknemers gefinancierd wordt? Hoe interpreteert u de PSW en WTV in deze? </vraag>
+      <vraag nummer="4">Is het verzekeren van een aanvullend arbeidsongeschiktheidspensioen waarvan de premie ten laste van de werknemers komt een pensioenregeling in de zin van de Wet op de Loonbelasting? Zo neen, waarom niet? </vraag>
+      <vraag nummer="5" voetnoot="2">Betekent de voorwaarde die de minister van Binnenlandse Zaken stelt bij de WAO-reparatie voor ambtenaren, dat de reparatie de werkgever geen extra geld mag kosten en dat de hierbedoelde verzekering voor rekening van de werknemers komt? <voetnoot nummer="2"/>Kan de in vraag 5 bedoelde verzekering ondergebracht worden bij het ABP? Zo neen, waarom niet? </vraag>
+      <vraag nummer="7">Zo ja, wat betekent dit dan voor de situatie na verzelfstandiging van het ABP? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1993-03-17" bron=" Besproken door mr. A J. van de Griend in het Financieele Dagblad"> Besproken door mr. A J. van de Griend in het Financieele Dagblad, 17 maart 1993</noot>
+         <noot nummer="2"> Financieele Dagblad van 18 maart 1993 PSW = Pensioen– en spaarfondsenwet WTV = Wet toezicht verzekeringsbedrijf</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="6">
+      <antwoord nummer="1" voetnoot="1">Wij zijn op de hoogte van de circulaire van de Verzekeringskamer (VK) van 10 maart jl. <voetnoot nummer="1"/> In deze circulaire geeft de VK onder meer aan waaraan, volgens de PSW en de WTV, moet worden voldaan om een regeling die tot doel heeft het «WAO-gat» op te vullen, te kunnen beschouwen als een invaliditeitspensioen. De VK geeft in deze circulaire aan dat wanneer er sprake is van een regeling die alleen tot doel heeft het arbeidsongeschiktheidsrisico te dekken er pas gesproken kan worden van een invaliditeitspensioen wanneer de premielasten op de gebruikelijke wijze tussen de werkgever en de werknemer zijn verdeeld. Indien de arbeidsongeschiktheidsverzekering wordt geïntegreerd in een totale pensioenregeling (het pakket bevat dan dus ook ouderdoms– en eventueel nabestaandenregelmgen) is er automatisch sprake van een gebruikelijke verdeling van de premielast. </antwoord>
+      <antwoord nummer="2">Een pensioenfonds mag op basis van de PSW en de WTV slechts verzekeringen uitvoeren die als een pensioen in de zin van de PSW kunnen worden aangemerkt. Wanneer een arbeidsongeschiktheidsverzekering door de VK niet als een pensioenregeling in de zin van de PSW wordt aangemerkt, kan deze niet door een pensioenfonds worden uitgevoerd. Een arbeidsongeschiktheidsregeling die niet geïntegreerd is in een totale pensioenregeling én die uitsluitend (in de brief van de VK wordt gesproken over geheel of nagenoeg geheel) door de werknemers wordt gefinancierd kan dus niet bij een pensioenfonds worden ondergebracht. </antwoord>
+      <antwoord nummer="3" voetnoot="2">Voor de circulaire van de VK is verzekeraars en de pensioenfondsen te voorkomen <voetnoot nummer="2"/>. De financiële eisen waaraan levensverzekeraars ingevolge de WTV moeten voldoen zijn aanmerkelijk zwaarder dan welke gelden voor de pensioenfondsen op basis van de PSW. Daarom is in artikel 6 WTV vastgelegd op welke terreinen de pensioenfondsen werkzaam mogen zijn zonder dat zij het verzekeringsbedrijf uitoefenen. In artikel 6, vierde lid, van de WTV is onder meer vastgelegd dat pensioenfondsen werkzaam mogen zijn zonder dat zij het verzekeringsbedrijf uitoefenen. In artikel 6, vierde lid, van de WTV is onder meer vastgelegd dat pensioenfondsen als bedoeld in artikel 1 van de PSW niet als verzekeraar worden beschouwd voor zover zij handelen ter uitvoering van: 1. een toezegging omtrent pensioen, als bedoeld in artikel 2 van de PSW; 2. een vrijwillige pensioenvoorziening waartoe de mogelijkheid voortvloeit uit het deelnemerschap die hetzij past binnen het raam van de regeling die voor de categorie waartoe de deelnemer behoort, in het pensioenfonds geldt ter uitvoering van een verplichtstellingsbeschikking of van een pensioentoezegging, hetzij kan worden beschouwd als een fase in de ontwikkelingsgang naar een eventuele uitbreiding van de werkingssfeer van de ten behoeve van nabestaanden in de regeling opgenomen voorzieningen; 3. een regeling krachtens welke de voor een deelnemer bestaande pensioenvoorziening bij beëindiging van diens deelnemerschap vrijwillig wordt voortgezet. pensioenfondsen toe op de toepassing van deze bepalingen. De wetgever heeft voorts de VK de bevoegdheid gegeven ten aanzien van de toepassing van artikel 6 van de WTV binnen de kaders van de wet een eigen beleid te ontwikkelen, hetgeen onder meer blijkt uit artikel 6, zesde lid, van de WTK. Ingevolge artikel 6, lid 5, WTV kunnen de minister van Financiën en de minister van Sociale Zaken en Werkgelegenheid, gehoord de SER en de VK, nadere beperkingen en verdere regelen stellen met betrekking tot de afbakeningsregeling. Op dit moment is die behoefte ten aanzien van de voorliggende vraagstelling niet aanwezig. Het verzekeren van een aanvullend arbeidsongeschiktheidspensioen kan onderdeel uitmaken van een pensioenregeling of een zelfstandige pensioenregeling opleveren. Een zodanige pensioenregeling moet uiteraard voldoen aan de in artikel 11, derde lid, van de Wet op de loonbelasting 1964gestelde voorwaarden om als een pensioenregeling in de zin van de Wet op de loonbelasting te kunnen worden aangemerkt. Dit betekent dat de invaliditeitsuitkeringen niet mogen uitgaan boven hetgeen naar maatschappelijke opvattingen, mede in verband met diensttijd en genoten beloning, redelijk moet worden geacht. Wordt aan deze voorwaarden voldaan dan zijn de premies voor een aanvullende invaliditeitsuitkering in de vorm van een door de werkgever aan een werknemer toegekende aanspraak niet belast voor zover de onderdeel i, onder 3, van de Wet op de loonbelasting 1964). </antwoord>
+      <antwoord nummer="5">De voorwaarde, dat reparatie geen extra geld mag kosten, leidt niet automatisch tot de conclusie dat de verzekering voor rekening van de werknemers komt. Denkbaar is bijvoorbeeld dat financiering uit herbeschikking van bestaande arbeidsvoorwaardelijke aanspraken komt. </antwoord>
+      <antwoord nummer="6">De huidige Algemene burgerlijke pensioenwet laat toe dat een in vraag 5 bedoelde verzekering bij het ABP wordt ondergebracht. </antwoord>
+      <antwoord nummer="7" voetnoot="1 2">Na de verzelfstandiging van het ABP is het nog steeds mogelijk, maar dan binnen de voorwaarden, zoals die onder meer zijn aangegeven in de in vraag 1 gememoreerde brief van de verzekeringskamer van 10 maart 1993. <voetnoot nummer="1"/> Ter inzage gelegd bij de afdeling Parlementaire Documentatie. <voetnoot nummer="2"/> Kamerstukken II, 1985-1986, 19329, nr. 9. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="3"> (Kamerstukken ... 57-75)</noot>
+      </noten>
+   </antwoorden>
+</kvr>

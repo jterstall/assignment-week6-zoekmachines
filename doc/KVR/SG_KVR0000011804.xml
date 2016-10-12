@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="tegen deze misstanden? Zo ja, hoe?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001500</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001500&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001500</item>
+         <item attribuut="Document-id">0000011804</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 570</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Ter Veer en Tommel (beiden D66) over «punkvissen».</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 570</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">570</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Ter Veer</persoon>
+            <persoon partij="D66">Tommel</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-04-23</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Gabor</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-05-17</item>
+         <item attribuut="Beginpagina">1167</item>
+         <item attribuut="Eindpagina">1168</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1167" allpagenumbers="1167" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="570" onderwerp="«punkvissen»." indiendatum="1993-04-23">
+         <vrager partij="D66" oorsprong="parlement">Ter Veer</vrager>
+         <vrager partij="D66" oorsprong="parlement">Tommel</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Kent u het artikel «Dierenhandel vraagt direct einde aan import punkvissen»? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Worden er vissen verkocht die worden gekleurd door een kleurstof in de staartvin in te spuiten? </vraag>
+      <vraag nummer="3">Veroorzaakt deze ingreep pijn en/of stress bij de dieren en verkort deze de levensduur? </vraag>
+      <vraag nummer="5"/>
+      <vraag nummer="6"/>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" datum="1993-04-22" bron=" De Telegraaf"> De Telegraaf, 22 april 1993</noot>
+      </noten>
+   </antwoorden>
+   <mededeling mededeler="Gabor" functie="staatssecretaris" afdeling="Landbouw, Natuurbeheer en Visserij" mededelingdatum="1993-05-17">Mededeling van staatssecretaris Gabor (Landbouw, Natuurbeheer en Visserij) (Ontvangen 17 mei 1993) De bij brief van 23 april jl. ingezonden vragen van de leden Ter Veer en Tommel (D66) inzake «punkvissen» kunnen tot mijn spijt niet binnen de gebruikelijke termijn worden beantwoord. De reden van uitstel is dat het verkrijgen van een goed inzicht in de aard van de behandeling van punkvissen in de exporterende landen en in de aard en omvang van de genoemde misstanden in de goudvisteelt extra tijd vraagt. De beantwoording zal plaatshebben omstreeks 2 juni 1993. Bent u bereid te bevorderen, dat de verkoop van deze vissen onmogelijk wordt gemaakt? Zo ja, op welke wijze? 5 Wat leidt u af uit de in het artikel geciteerde opmerkingen van een dierenhandelaar, als zouden er in de siervishandel dingen gebeuren waarbij de punkvis helemaal in het niet valt en als zou er op grote schaal met goudvissen worden gerotzooid? Tot welke aktie geven deze uitspraken u aanleiding? 6 Bent u bereid de bonafide dierenhandel te steunen in akties </mededeling>
+</kvr>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001523</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001523&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001523</item>
+         <item attribuut="Document-id">0000027860</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 587</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Eisma (D66) over de bouw van een stal nabij het natuurgebied «De Bult».</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 587</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">587</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Eisma</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-02-25</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Gabor</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-05-24</item>
+         <item attribuut="Beginpagina">1199</item>
+         <item attribuut="Eindpagina">1200</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1199" allpagenumbers="1199 1200" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uilgeverij 's Gravenhage 1991"/>
+      <vraagdata vraagnummer="587" onderwerp="de bouw van een stal nabij het natuurgebied «De Bult»." indiendatum="25februari 1991">
+         <vrager partij="D66" oorsprong="parlement">Eisma</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="24 mei 1991), zie ook Aanhangsel Handelingen nr. 475, Vergaderjaar 1990-1991">
+         <antwoorder functie="staatssecretaris" ministerie="Landbouw, Natuurbeheer en Visserij">Gabor</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Sinds wanneer bent u op de hoogte van de bouw van een stal voor 1000 mestvarkens op een afstand van 200 m van het natuurgebied «De Bult»? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Waarom heeft het tot februari 1991 - toen immers de stal reeds was gebouwd - geduurd voordat betrokkene op de hoogte werd gesteld van uw oordeel, dat deze bouw valt onder de vergunnings– plicht van art. 12 van de Natuurbe– schermingswet (NBW)? </vraag>
+      <vraag nummer="3">Hoe verloopt de procedure tussen enerzijds de AID en/of de provinciale consulentschappen NMF, die vaststellen of er sprake is van een vergunningplicht ex art. 12 NBW, en anderzijds het ministerie? Hoe lang duurt deze procedure? </vraag>
+      <vraag nummer="4">Is inmiddels de vergunningaanvraag voor de betreffende stal door betrokkene ingediend en welke criteria - behalve die van aantasting van de landschappelijke openheid - gelden voor u bij de beoordeling van deze aanvraag? Geldt hierbij ook het criterium van extra ammoniakuitstoot die het nabij gelegen natuurgebied aantast? Door wie en op welke wijze is in het kader van het ruimtelijke beleid de aantasting van landschappelijke openheid door de bouw van de desbetreffende stal beoordeeld? Is daarbij door de gemeente ook gewezen op de eventuele vergutv ningplicht art. 12 NBW? Worden de betrokkenen, voorzover van toepassing, door de gemeenten op deze vergunningsplicht gewezen? Zo neen, op welke wijze wilt u dit stimu– leren? </vraag>
+      <vraag nummer="6">Worden de beschikkingen over de vergunningaanvrage ex art. 12 NBW openbaar gemaakt? Zo ja, hoe? Zo neen, hoe kunnen derden daarvan op de hoogte komen en daarin inzage krijgen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Zie antwoorden op schriftelijke vragen van het lid Eisma, Aanhangsel Handelingen 1990-1991. nr 371 AID = Algemene Inspectiedienst NMF = Natuur , Milieu en Faunabeheer</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Op 26 november 1990 berichtte de Consulent Natuur, Milieu en Fauna– beheer in de provincie Noord– Brabant omtrent de bouw van een stal voor 1000 mestvarkens op een afstand van 200 meter van het natuurgebied «De Bult». De bouw is tevens gemeld bij brief van 20 november 1990 door de Werkgroep Behoud de Peel. Hiervoor zijn twee oorzaken te noemen. In de eerste plaats is het noodza– kelijk om een direct verband tussen schade aan de natuurwetenschappe– lijke betekenis van een beschermd natuurmonument en vestiging van een intensieve veehouderij aanne– melijk te maken. Deze causaliteit is in het licht van artikel 12 van de Natuurbeschermingswet immers vereist. Alvorens een beslissing te nemen omtrent de vraag of de voorgenomen activiteit onder de vergunningplicht valt, was het noodzakelijk nader informatie in te winnen, zowel ten aanzien van de natuurwetenschappelijke als de juridische kant. Ik wijs erop dat tot voor kort er vanuit is gegaan dat (hoog)veengronden niet verzurings– gevoelig waren, zodat intensieve veehouderij geen schade zou toebrengen aan deze categorie natuurgebieden. Pas recentelijk zijn deze inzichten veranderd. Daarom ook vallen veengronden sinds 1 maart 1991 onder de werking van de (herziene) Richtlijn ammoniak en veehouderij. In de tweede plaats heeft de president van de arrondissements– rechtbank te 's-Hertogenbosch op 24 januari 1991 vonnis gewezen in een kort geding dat diverse milieu– organisaties op 18 december 1990 hadden aangespannen tegen de vergunningsplichtig zijn van een bepaalde handeling wordt door mij een besüssmg genomen. Er is thans nog geen vergunningaan– vraag door betrokkene ingediend. Bij de beoordeling van een eventuele aanvraag geldt als critenum de schade, bv., door uitstoot van ammoniak, aan de natuurweten– schappelijke betekenis van het beschermd natuurmonument. </antwoord>
+      <antwoord nummer="5" voetnoot="1">De aantasting van de landschappe– lijke openheid is, zoals reeds op eerdere schriftelijke vragen is geant– woord <voetnoot nummer="1"/>, in het onderhavige geval een criterium dat in het kader van het ruimtelijke beleid dient te worden beoordeeld. Door het betreffende College van Burgemeester en Wethouders zal deze beoordeling derhalve in het kader van de uitvoering van bestemmingsplannen worden verricht. In het algemeen worden betrok– kenen, die in het kader van gemeen– telijke wet– en regelgeving om infor– matie verzoeken, door de gemeenten gewezen op eventueel van toepassing zijn van de Natuurbe– schermingswet en de daaraan verbonden rechtsgevolgen. Aangezien pas onlangs door mij een besluit is genomen over de vergun– ningplicht ex artikel 12 van het in gebruik nemen van de stal nabij «De Bult» voor de mesterij van 1000 varkens, valt aan te nemen dat de gemeente in dit geval niet is ingegaan op genoemde vergunning– plicht. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

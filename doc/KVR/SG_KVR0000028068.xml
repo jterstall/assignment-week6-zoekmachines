@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001731</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001731&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001731</item>
+         <item attribuut="Document-id">0000028068</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 795</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Ter Veer (D66) over drijfnetvisserij.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 795</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">795</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Ter Veer</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-07-08</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Bukman</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-08-14</item>
+         <item attribuut="Beginpagina">1621</item>
+         <item attribuut="Eindpagina">1622</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1621" allpagenumbers="1621" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1991"/>
+      <vraagdata vraagnummer="795" onderwerp="drijfnetvisserij." indiendatum="8 juli 1991}">
+         <vrager partij="D66" oorsprong="parlement">Ter Veer</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="14augustus 1991">
+         <antwoorder functie="minister" ministerie="Landbouw, Natuurbeheer en Visserij">Bukman</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1" voetnoot="1">Is het u bekend, dat de groot– schalige, pelagische drijfnetvisserij hoge aantallen bijvangslachtoffers maakt onder mariene organismen zoals zeezoogdieren en vogels? <voetnoot nummer="1"/>Is het juist, dat de EG-landen VN-resolutie 44/225 van december 1991, die oproept tot een wereldwijd moratorium op drijfnetvisserij met ingang van 1 juli 1992, onder– steunen? </vraag>
+      <vraag nummer="6">Bent u van plan zich tijdens het voorzitterschap van de Visserijraad actief in te zetten om zo spoedig mogelijk een verbod op drijfnet– visserij te bewerkstelligen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1991-03-28" bron=" De Gelderlander"> De Gelderlander, 28 maart 1991</noot>
+         <noot nummer="2"> NRC Handelsblad van 31 mei1991</noot>
+         <noot nummer="3" datum="1991-06-1" bron=" De Telegraaf"> De Telegraaf, 1 juni 1991</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="6">
+      <antwoord nummer="1">Ja. Voor zover mijn informatie strekt, is sprake van uitbreiding van pelagische drijfnetvisserij bij de Franse vloot en zijn lerse vissers van plan hiermee te starten. </antwoord>
+      <antwoord nummer="6">Ja, als onderdeel van het pakket technische maatregelen zal ik trachten het voorstel van de Europese Commissie, dat een verbod op drijfnetten langer dan 2,5 km inhoudt, zo spoedig mogelijk door de Raad aanvaard te krijgen. Ondersteunt u het voorstel van de Europese Commissie om drijfnet– visserij in EG-wateren en door schepen, afkomstig uit EG-landen, te verbieden? </antwoord>
+      <antwoord nummer="4" voetnoot="2 3">Is het u bekend dat Britse vissers van plan zijn met drijfnetten te gaan vissen <voetnoot nummer="2"/> en dat de Britse regering, in tegenspraak met de door haar onderschreven VN-resolutie 44/225, het ontwikkelen van drïjfnetvisserij in haar land goedkeurt? <voetnoot nummer="3"/>
+      </antwoord>
+      <antwoord nummer="5">Zijn er meer EG-landen die hun drijfnetvloot uitbreiden, dan wel met pelagische drijfnetvisserij willen starten? Ja, zij het dat de resolutie tevens vermeldt dat het moratorium niet van kracht hoeft te worden dan wel opgeheven kan worden indien doeltreffende beheers– en conserve– ringsmaatregelen zijn getroffen. De evaluatie hiervan dient gebaseerd te zijn op een gezamenlijk uitgevoerde gedegen statistische analyse (VN resolutie 44/225, par. 4(a)). </antwoord>
+      <antwoord nummer="3">Het voorstel van de Europese Commissie omvat geen absoluut verbod op de drijfnetvisserij, maar beoogt deze vorm van visserij te reguleren. Ik kan het Commissie-voorstel ondersteunen. </antwoord>
+      <antwoord nummer="4">Ja. In hoeverre de Britse regering dit ondersteunt is mij niet bekend. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

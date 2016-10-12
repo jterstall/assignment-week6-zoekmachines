@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19931994:0001247</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001247&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001247</item>
+         <item attribuut="Document-id">0000003758</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 33</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Van Erp en Dijkstal (beiden VVD) over criminaliteit in de horeca.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 33</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">33</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Van Erp</persoon>
+            <persoon partij="VVD">Dijkstal</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-06-04</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Simons</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-10-04</item>
+         <item attribuut="Beginpagina">67</item>
+         <item attribuut="Eindpagina">68</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="67" allpagenumbers="67" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="" onderwerp="" indiendatum="">
+         <vrager partij="VVD" oorsprong="parlement">Van Erp</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Dijkstal</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-10-4">
+         <antwoorder functie="staatssecretaris" ministerie="Welzijn, Volksgezondheid en Cultuur">Simons</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="33">Vragen van de leden Van Erp en Dijkstal (beiden WD) over criminaliteit in de horeca. (Ingezonden 4 juni 1993) </vraag>
+      <vraag nummer="1" voetnoot="1">Hebt u kennisgenomen van de toenemende criminaliteit in de horeca? <voetnoot nummer="1"/>Vindt op WVC op 4 juni a.s. een gesprek plaats over de resultaten van een onderzoek, dat is uitgevoerd door het Amsterdamse recherchebureau Hoffman, die zo onthutsend waren dat is afgezien van een openbare presentatie? </vraag>
+      <vraag nummer="3">Wilt u de resultaten van het gesprek alsmede het bedoelde rapport vertrouwelijk ter kennis brengen van de Kamer? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1993-07-3" bron=" Het Parool"> Het Parool, 3 juli 1993</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja, ik heb van de berichten hieromtrent kennis genomen. Op 4 juni 1 993 vond er mderdaad een gesprek plaats tussen de voorzitter van Horeca Nederland en de secretaris van het Bedrijfschap Horeca met de Inspecteur voor de Drankwetgeving van het Staatstoezicht op de Volksgezondheid van het ministerie van Welzijn, Volksgezondheid en Cultuur. De resultaten van het onderzoek door het recherchebureau Hoffman waren voor Horeca Nederland en het Bedrijfschap Horeca aanleiding om het ministerie van Welzijn, Volksgezondheid en Cultuur van hun ongerustheid op de hoogte te stellen. Het onderzoeksrapport is evenwel niet aangeboden. Begin 1993 had ik overigens zèlf al met de voorzitter van Horeca Nederland gesproken over de toenemende criminaliteit in de horeca. Bovendien beschikt het Bedrijfschap Horeca sinds afgelopen zomer over een vertrouwelijke notitie inzake de penetratie van criminaliteit in de horeca. </antwoord>
+      <antwoord nummer="3">Aangezien ik niet de beschikkmg heb over het bedoelde rapport, kan ik het niet ter kennis brengen van de Kamer. Wèl ben ik voornemens om de preventie van criminaliteit in de horeca, voor zover mogelijk, te betrekken bij de voorbereiding van een nieuwe Alcoholwet ter vervanging van de Drank– en Horecawet. Daarbij gaan mijn gedachten vooral uit naar scherpere vergunningsvoorwaarden en méér weigerings– en intrekkingsgronden voor een vergunning. Binnenkort wil ik ter zake overleg voeren met de minister van Binnenlandse Zaken, de minister van Economische Zaken en de minister van Justitie. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

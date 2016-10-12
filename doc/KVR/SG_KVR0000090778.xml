@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19881989:0001179</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001179&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001179</item>
+         <item attribuut="Document-id">0000090778</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1988-1989 nummer 178</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van Es (F.S.P.) over een geheim verdrag inzake de bestrijding van nucleaire ongelukken, sabotage en terrorisme.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1988-1989 nummer 178</item>
+         <item attribuut="Jaargang">1988_1989</item>
+         <item attribuut="Vraagnummer">178</item>
+         <item attribuut="Indiener">
+            <persoon partij="FSP">Van Es</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1988-11-17</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Bolkestein</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1988-12-08</item>
+         <item attribuut="Beginpagina">357</item>
+         <item attribuut="Eindpagina">358</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 8 - 1 9 8 9 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 8 - 1 9 8 9 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="178" onderwerp="een geheim verdrag inzake de bestrijding van nucleaire ongelukken, sabotage en terrorisme." indiendatum="17 november 1988)">
+         <vrager partij="FSP" oorsprong="parlement">Van Es</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="8 december 1988)">
+         <antwoorder functie="minister" ministerie="Defensie">B o l k e s t e i n</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1 ">Hebt u kennis genomen van berichten  over een geheim verdrag tussen de  Bondsrepubliek Duitsland en de  Verenigde Staten op grond waarvan  eenheden van de Amerikaanse  strijdkrachten kunnen optreden in het  geval van nucleaire ongelukken,  sabotage en «terrorisme»? </vraag>
+      <vraag nummer="1 "/>
+      <vraag nummer="2 ">Bestaan er soortgelijke overeenkonv  sten van de Verenigde Staten met  Nederland en met de andere NAVO- landen?  </vraag>
+      <vraag nummer="3 ">Zo ja,  w o r d t door de leden van het  Nuclear Emergency Search Team in  Nederland ook geoefend in de  bestrijding van nucleaire noodsitua- ties?  </vraag>
+      <vraag nummer="4 ">Hoe zijn de bevoegdheden geregeld  in het geval van daadwerkelijke  nucleaire ongelukken, sabotage en  «terrorisme»?  </vraag>
+      <vraag nummer="5 ">Is in het verdrag overeengekomen,  dat onder bepaalde omstandigheden  de Amerikaanse strijdkrachten taken  van het civiele gezag overnemen?  </vraag>
+      <vraag nummer="6 ">Bent u bereid, nu door berichten in  de Duitse pers de tekst van het  verdrag tussen de VS en de Bondsre- publiek bekend is geworden, de  inhoud van de Nederlandse overeen- komst inzake het Nuclear Emergency  Search Team aan deze Kamer over te  leggen?  </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> zie het Vrije Volk van 1 november, Die  Welt van 8 november en Frankfurter Rund-schau van 1 5 november il. </noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1 ">Ja  </antwoord>
+      <antwoord nummer="2 ">Omdat zij verantwoordelijk is voor  nucleaire wapens, heeft de regering  van de Verenigde Staten plannen  opgesteld voor het optreden bij  eventualiteiten. Naast plannen die  voor Amerikaans nationaal gebruik  zijn bestemd, bestaan er plannen die  zijn gecoördineerd met de regeringen  van landen waar zich nucleaire  wapens kunnen bevinden. Het  USECUOM COMPLAN  4 3 6 7 - 8 7 ,  waarnaar in de in vraag 1 bedoelde  berichten  w o r d t verwezen, is een  confidentieel plan dat alléén bestemd  is voor de Amerikaanse strijdkrachten:  een zogenaamd «confidential US  only document». Het plan is de  Nederlandse regering niet toege- stuurd; de inhoud ervan is de  regering ook niet bekend.  3,  4 , 5 en 6  De Nederlandse regering heeft met  de regering van de Verenigde Staten  geen overeenkomst gesloten over  het bestrijden van tegen kernwapens  gericht terrorisme en evenmin over  de inzet van het genoemde «Nuclear  Emergency Search Team».  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

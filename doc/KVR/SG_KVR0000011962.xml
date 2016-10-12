@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="ondervindt. Het onderzoek naar de" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001658</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001658&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001658</item>
+         <item attribuut="Document-id">0000011962</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 728</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Achttienribbe-Buijs (PvdA) over een ernstig ongeval op het schietterrein van Bergen-Hohne (Duitsland).</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 728</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">728</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Achttienribbe-Buijs</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-06-16</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Ter Beek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-07-08</item>
+         <item attribuut="Beginpagina">1485</item>
+         <item attribuut="Eindpagina">1486</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993 Aanhangsel van de Handelingen" typehandeling="Vergaderjaar 1992-1993 Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="s Gravenhage 1993 Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel 1485" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverii Plantijnstraat ., s Gravenhage 1993 Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel 1485"/>
+      <vraagdata vraagnummer="toedracht" onderwerp="augustus a.s. tegemoet zien. een ernstig ongeval op het schietterrein van Bergen-Hohne (Duitsland)." indiendatum="1993-06-16">
+         <vrager partij="PvdA" oorsprong="parlement">Achttienribbe-Buijs</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Is op 7 juni 1993 een Nederlandse sergeant-majoor overleden en een dienstplichtige gewond geraakt nadat zij tijdens onderhoudswerkzaamheden werden getroffen door kogels uit een boordkanon van een pantservoertuig op het schietterrein van Bergen-Hohne (Duitsland)?' </vraag>
+      <vraag nummer="2">Wilt u de Kamer op korte termijn informeren hoe met de veiligheidsinstructies is omgegaan? </vraag>
+      <vraag nummer="3">Welke maatregelen denkt u te nemen om in de toekomst ernstige ongevallen als deze te voorkomen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Algemeen Dagblad van 8 jum j.l</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+   <mededeling mededeler="Ter Beek" functie="minister" afdeling="Defensie" mededelingdatum="1993-07-8">Mededeling van minister Ter Beek (Defensie). (Ontvangen 8 juli 1993) Hierbij bericht ik u dat de beantwoording van de vragen, gesteld door het lid van de Tweede Kamer der Staten-Generaal mevrouw Achttienribbe-Buijs, enige vertraging </mededeling>
+</kvr>

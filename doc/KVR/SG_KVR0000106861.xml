@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001086</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001086&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001086</item>
+         <item attribuut="Document-id">0000106861</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 53</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van Es (P.S.P.) over procedures inzake het toelaten van oorlogsschepen tot Nederlandse havens.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 53</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">53</item>
+         <item attribuut="Indiener">
+            <persoon partij="PSP">Van Es</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-09-10</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van Eekelen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-10-08</item>
+         <item attribuut="Beginpagina">103</item>
+         <item attribuut="Eindpagina">104</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1986-1987 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="53" onderwerp="procedures inzake het toelaten van oorlogsschepen tot Nederlandse havens." indiendatum="10 september 1986)">
+         <vrager partij="PSP" oorsprong="parlement">Van Es</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1 ">Heeft de burgemeester van Amster- dam de bevoegdheid om bezoeken  van oorlogsschepen aan de Amster- damse haven desgewenst te verbie- den?  Zo ja, op grond van welke verdragen,  overeenkomsten of afspraken heeft  de burgemeester deze bevoegdheid?  </vraag>
+      <vraag nummer="3 ">Zo neen, wie heeft dan wel de  bevoegdheid daartoe en waaraan  w o r d t die dan ontleend?  </vraag>
+      <vraag nummer="4 ">Heeft de minister van Defensie de  bevoegdheid om een eventuele  weigering van de burgemeester van  Amsterdam om oorlogsschepen toe  te laten in de haven naast zich neer  te leggen, wanneer hij van mening is  dat dit bezoek wel doorgang moet  vinden?  </vraag>
+      <vraag nummer="5 ">Zijn de commandanten van de  oorlogsschepen, die in de week van  2 0 tot 27 september  a s . een bezoek  brengen aan de Amsterdamse haven,  verplicht de minister van Defensie in  te lichten over het al dan niet  aanwezig zijn van kernwapens aan  boord?  Zo ja, op grond van welke afspraken,  overeenkomsten of verdragen?  </vraag>
+      <vraag nummer="7 ">Zo neen, waarom niet?  </vraag>
+      <vraag nummer="8 ">Kan de minister van Defensie de  Kamer inlichten over het aantal en de  soort kernwapens, die zich aan boord  bevinden van de in vraag 6 genoemde  schepen?  </vraag>
+      <vraag nummer="9 ">Zo neen, op grond waarvan heeft de  minister het recht dit niet te doen?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

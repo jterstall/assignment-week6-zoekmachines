@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001773</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001773&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001773</item>
+         <item attribuut="Document-id">0000020159</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 755</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid E. G. Terpstra (VVD) over de besluiten van de Rijksministerraad inzake St. Maarten.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 755</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">755</item>
+         <item attribuut="Indiener">
+            <persoon>Terpstra E.G.</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-07-16</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Alders</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-08-03</item>
+         <item attribuut="Beginpagina">1575</item>
+         <item attribuut="Eindpagina">1576</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1575" allpagenumbers="1575" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="755" onderwerp="de besluiten van de Rijksministerraad inzake St. Maarten." indiendatum="16juli 1992">
+         <vrager partij="" oorsprong="parlement">Terpstra E.G.</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1">Kunt u de Kamer zo spoedig mogelijk gedetailleerd informeren over de besluiten van de Rijksministerraad met betrekking tot de te nemen maatregelen waardoor het bestuur van St. Maarten feitelijk voor ten mlnste een jaar onder curatele is gesteld? </vraag>
+      <vraag nummer="2">Kunt u meedelen of ook de regering van de Nederlandse Antillen akkoord is gegaan met de te nemen maatregelen? </vraag>
+      <vraag nummer="3">Welke procedures zijn vastgesteld om voortvarende uitvoering van de genomen besluiten te waarborgen? </vraag>
+      <vraag nummer="4">Is er voorzien in een geschillenregeling indien lopende het proces onverhoopt zou blijken dat het bestuur van St. Maarten dan wel de regering van de Nederlandse Antillen op onderdelen niet loyaal en ruimhartig meewerkt? Zo ja, hoe luidt die regeling? Zo neen, waarom niet? </vraag>
+      <vraag nummer="6">Indien vraag 5 bevestigend wordt beantwoord, kunt u dan aangeven op welke wijze er voorzien is in het stellen van tijdslimieten, opdat het in werking stellen van de geschillenregeling niet leidt tot langdurig uitstel c.q. afstel van de te nemen maatregelen? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

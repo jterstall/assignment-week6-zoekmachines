@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19871988:0001174</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001174&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001174</item>
+         <item attribuut="Document-id">0000098888</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1987-1988 nummer 235</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid De Boois (P.v.d.A.), over een ongeval als gevolg van de toepassing van methylbromide.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1987-1988 nummer 235</item>
+         <item attribuut="Jaargang">1987_1988</item>
+         <item attribuut="Vraagnummer">235</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">De Boois</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-10-22</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Nijpels</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-12-30</item>
+         <item attribuut="Beginpagina">469</item>
+         <item attribuut="Eindpagina">470</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 7 - 1 9 8 8 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 7 - 1 9 8 8 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="235" onderwerp="een ongeval als gevolg van de toepassing van methylbromide." indiendatum="22 oktober 1987)">
+         <vrager partij="PvdA" oorsprong="parlement">De Boois</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 ">Heeft op 10 oktober  j l . een ongeval  plaatsgevonden bij de toepassing van  methylbromide in de haven van  Deventer?'  Zo ja, wat was de toedracht?  </vraag>
+      <vraag nummer="3 ">Zijn bij de onderhavige toepassing  van methylbromide de wettelijke  voorschriften in acht genomen?  </vraag>
+      <vraag nummer="4 ">Acht u het verantwoord, dat methyl- bromide-toepassingen in schepen  plaatsvinden nabij woonbebouwing?  </vraag>
+      <vraag nummer="5 ">Welke beleidsconclusies verbindt u  aan dit ongeval?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="3 ">Neen, de gassing is niet zoals  wettelijk voorgeschreven (Regeling  melding methylbromide van 30 juni  1986, Stcrt. 1986, 130) van te voren  gemeld, maar achteraf. De uitvoering  van de gassing is volgens opgave van  het betrokken districtshoofd van de  Arbeidsinspectie wél conform de  wettelijke voorschriften verricht.  </antwoord>
+      <antwoord nummer="4 ">Het is bij de toepassing van methyl- bromide niet zozeer het inbrengen  van het gas dat problemen veroor- zaakt aan de omgeving c.q. de  woonbebouwing, als wel het ontgas- sen van het gegaste object. In het  geval van toepassing van methylbro- mide dient de plaatselijke situatie  beoordeeld te worden met betrekking  tot de vraag of het inbrengen van het  gas en de ontgassing op een verant- woorde wijze kunnen plaatsvinden.  Hierbij speelt de afstand tot de  woonbebouwing mede een rol  </antwoord>
+      <antwoord nummer="5 ">Op 29 september 1987 is door de  Commissie Toelating Bestrijdingsmid- delen aan alle toelatinghouders van  bestrijdingsmiddelen op basis van  methylbromide schriftelijk ter kennis  gebracht dat het in het voornemen  van de overheid ligt het toepassings- gebied van methylbromide in de  voorraadbescherming met ingang  van 1 januari 1989 te beperken tot  het gassen in vaste gassingsinstalla- ties, voorzien van een filterinstallatie,  opdat er geen emissie plaatsvindt  van methylbromide. In bedoelde brief  is tevens vermeld dat de toelatings- beschikkingen zullen  w o r d e n  aangepast met het opnemen van een  afstandseis van 100 meter ten  opzichte van de  w o o n b e b o u w i n g .  Doorvoering van deze wijzigingen in  de wettelijke voorschriften zal eerst  plaatsvinden nadat,  c o n f o r m art. 5,  lid 5, van de Bestrijdingsmiddelenwet,  kennis is genomen van de visie  terzake bij het betrokken bedrijfsle- ven.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

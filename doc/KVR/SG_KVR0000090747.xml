@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19881989:0001148</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001148&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001148</item>
+         <item attribuut="Document-id">0000090747</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1988-1989 nummer 148</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Scherpenhuizen (V.V.D.) over zijverlichting voor vrachtwagencombinaties.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1988-1989 nummer 148</item>
+         <item attribuut="Jaargang">1988_1989</item>
+         <item attribuut="Vraagnummer">148</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Scherpenhuizen</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1988-10-14</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Smit-Kroes</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1988-11-30</item>
+         <item attribuut="Beginpagina">297</item>
+         <item attribuut="Eindpagina">298</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 7 - 1 9 8 8 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 8 - 1 9 8 9 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="148" onderwerp="" indiendatum="">
+         <vrager partij="VVD" oorsprong="parlement">Scherpenhuizen</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="3 0 november 1988)">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">S m i t - K r o e s</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 ">Is het u bekend, dat de officier van  Justitie bij de Leeuwarder rechtbank  de wenselijkheid bepleit, vrachtwa- gencombinaties te voorzien van  zijverlichting ten einde gevaarlijke  verkeerssituaties bij het inrijden van  inritten te voorkomen? </vraag>
+      <vraag nummer="1 "/>
+      <vraag nummer="2 ">Leidt het ontbreken van deze  zijverlichting jaarlijks tot doden en  gewonden?  </vraag>
+      <vraag nummer="3 ">Zo ja, bent u bereid de invoering van  zijverlichting voor trekkers, opleggers  en aanhangwagens te bevorderen?  </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Leeuwarder Courant van 12 oktober il. </noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1 ">Ja.  </antwoord>
+      <antwoord nummer="2 ">Op basis van de ongevallengegevens  van de VOR kan een schatting  worden gemaakt van de maximale  omvang van letselongevallen van  vrachtauto's in situaties waarbij de  zijdelingse waarneembaarheid een  rol kan spelen. Bij ongevallen op  kruisingen en uitritten bij duisternis  gebeuren ca. 150 letselongevallen  per jaar met vrachtauto's en  c o m b i - naties. Overigens  w o r d t zowel in  Nederland als in het buitenland  gewerkt aan een grondige analyse  van ongevallen met vrachtauto's. In  het MPV  1 9 8 9 - 1 9 9 3 , dat ik u  binnenkort zal aanbieden, is dit  onderwerp opgenomen als een  nieuwe aktiviteit. Ook op het werkplan  van SWOV krijgt het zware verkeer  nu prioriteit.  </antwoord>
+      <antwoord nummer="3 ">Ik ben bereid te streven naar een  optimale zijdelingse waarneembaar- heid van vrachtauto's. De zijdelingse  waarneembaarheid van vrachtauto's  is momenteel onderwerp van  discussie in het internationaal  overleg. Een wijziging van de  bestaande reglementen om zijverlich- ting mogelijk te maken is in een  vergevorderd stadium.  Nederland wil echter ook andere  mogelijkheden serieus bekijken. Met  name contourmarkering blijkt  volgens een recent Duits onderzoek  beter te voldoen dan een reeks  lampjes. Hierdoor wordt de herken- baarheid vergroot en verwarring en  overdaad zoveel mogelijk vermeden.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

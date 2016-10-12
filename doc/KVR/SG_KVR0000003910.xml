@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19931994:0001399</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001399&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001399</item>
+         <item attribuut="Document-id">0000003910</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 185</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Verspaget (PvdA) over toelating van Mohawk-lndianen tot Nederland.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 185</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">185</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Verspaget</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-11-15</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Kooijmans</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-12-08</item>
+         <item attribuut="Beginpagina">375</item>
+         <item attribuut="Eindpagina">376</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="375" allpagenumbers="375" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="185" onderwerp="toelating van Mohawk-lndianen tot Nederland." indiendatum="1993-11-15">
+         <vrager partij="PvdA" oorsprong="parlement">Verspaget</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-12-8">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">Kooijmans</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Konden Mohawk-lndianen uit Canada van 1977 tot voor kort naar Nederland reizen op een Irokees paspoort, vergezeld van een visum-document? Wordt sinds kort aan de Mohawk-lndianen door de Nederlandse ambassade in Montreal, vanwege een gewijzigde opstelling van Canada, een visum naar Nederland geweigerd als zij niet in het bezit zijn van een Canadees paspoort? </vraag>
+      <vraag nummer="3">Waarom heeft Canada Nederland er nu op aangesproken inwoners van Canada op niet internationaal erkende reisdocumenten toe te laten? </vraag>
+      <vraag nummer="4">Hoe verhoudt deze gewijzigde opstelling zich met het advies van u en de minister voor Ontwikkelingssamenwerking inzake het te voeren beleid jegens de Inheemse Volken? </vraag>
+      <vraag nummer="5">Bent u bereid de Mohawk-lndianen alsnog op de vroeger gestelde voorwaarden tot Nederland toe te laten? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1 en 2">Inderdaad placht tot voor kort, als blijk van tegemoetkomendheid, aan Mohawk Indianen op vertoon van een niet erkend reisdocument een Nederlandse visumverklaring te worden verstrekt. Tegen de achtergrond evenwel van de voortschrijdende harmonisatie in EU-verband van de voorschriften voor het personenverkeer van onderdanen van derde landen, is besloten de afgifte van visumverklaringen aan houders van reisdocumenten welke enigerlei officiële status ontberen, in het algemeen te staken. Met name geldt zulks wanneer er van moet worden uitgegaan dat de betrokken aanvrager kan beschikken over een officieel reisdocument van het land waarvan hij de nationaliteit bezit. Om die reden heeft het Nederlandse Consulaat-Generaal te Montreal op 15 november jl. een tweetal visumaanvragen niet gehonoreerd. </antwoord>
+      <antwoord nummer="3">De canadese autoriteiten plegen zich op het standpunt te stellen dat aan de rechtszekerheid afbreuk wordt gedaan indien ten aanzien van Canadese staatsburgers uiteenlopende criteria en procedures worden yehanteerd. De thans gevolgde procedure voor het personenverkeer tussen Nederland en Canada laat het Nederlandse beleid jegens de inheemse volken geheel onverlet. </antwoord>
+      <antwoord nummer="5">In het licht van het bovenstaande lijkt mij geen grond te bestaan om voor Mohawk Indianen een speciale procedure te volgen, tenzij onverhoopt mocht blijken dat een voorgenomen reis onmogelijk zou worden gemaakt. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

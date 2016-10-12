@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19881989:0001143</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001143&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001143</item>
+         <item attribuut="Document-id">0000090742</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1988-1989 nummer 143</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Beckers-de Bruijn en Lankhorst (beiden P.P.R.) over eerherstel voor militairen, die in de jaren 1945-1950 weigerden naar Indonesië te gaan.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1988-1989 nummer 143</item>
+         <item attribuut="Jaargang">1988_1989</item>
+         <item attribuut="Vraagnummer">143</item>
+         <item attribuut="Indiener">
+            <persoon partij="PPR">Beckers-de Bruijn</persoon>
+            <persoon partij="PPR">Lankhorst</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1988-11-04</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Lubbers</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1988-11-28</item>
+         <item attribuut="Beginpagina">287</item>
+         <item attribuut="Eindpagina">288</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 7 - 1 9 8 8 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 8 - 1 9 8 9 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="143" onderwerp="eerherstel voor militairen, die in de jaren 1 9 4 5 - 1 9 5 0 weigerden naar Indonesië te gaan." indiendatum="4 november 1988)">
+         <vrager partij="PPR" oorsprong="parlement">Beckers-de Bruijn</vrager>
+         <vrager partij="PPR" oorsprong="parlement">Lankhorst</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 " voetnoot="1">Bent u van opvatting, gegeven uw  stelling, dat de vrije wetenschap der  geschiedschrijving niet gediend is  met het geven van een regerings- standpunt over uitkomsten van  historisch onderzoek <voetnoot nummer="1"/>, dat het  kabinet-De Jong in de slotbeschou- w i n g van de regeringsnota van 2 juni  1969 beter geen oordeel had kunnen  uitspreken over onderzoek naar  gegevens omtrent excessen begaan  door Nederlandse militairen in  Indonesië in de periode  1 9 4 5 - 1 9 5 0 ?  </vraag>
+      <vraag nummer="2 ">Deelt u de mening dat, zolang  publiekelijk niet anders is gebleken,  het standpunt van het kabinet-De  J o n g in bovengenoemde nota als het  regeringsstandpunt moet worden  beschouwd?  </vraag>
+      <vraag nummer="3 ">Bent u bereid te verklaren, dat het  standpunt van het kabinet-De Jong  niet langer als het standpunt van de  Nederlandse regering kan gelden,  gezien onder andere de kritiek van dr.  L. de Jong in «Het Koninkrijk der  Nederlanden in de Tweede Wereld- oorlog» (deel 12, epiloog) op deze  nota?  </vraag>
+      <vraag nummer="4 ">Bent u bereid, in overleg te treden  met de initiatiefgroep eerherstel  Indonesië-weigeraars om op enigerlei  wijze naar eerherstel te zoeken voor  de militairen, die weigerden naar  Indonesië te gaan en daarvoor tot  vaak jarenlange gevangenisstraffen  zijn veroordeeld?  </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Aanhangsel Handelingen, Vergaderjaar  1987-1988, nr. 604 </noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="4 ">Voor het in deze vraag bedoelde  overleg is, mede gelet op het  antwoord op de vragen 1, 2 en 3,  geen aanleiding.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

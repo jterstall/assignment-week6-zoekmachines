@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19851986:0001920</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001920&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001920</item>
+         <item attribuut="Document-id">0000115480</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1985-1986 nummer 998</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Lankhorst (P.P.R.) over de gemeentelijke verzelfstandiging van Amsterdam-Noord.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1985-1986 nummer 998</item>
+         <item attribuut="Jaargang">1985_1986</item>
+         <item attribuut="Vraagnummer">998</item>
+         <item attribuut="Indiener">
+            <persoon partij="PPR">Lankhorst</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-08-05</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van Dijk</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-09-11</item>
+         <item attribuut="Beginpagina">1987</item>
+         <item attribuut="Eindpagina">1988</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1985-1986 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="1" allpagenumbers="1" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 5 - 1 9 8 6 , Aanhangsel 1987 " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="998" onderwerp="de gemeentelijke verzelfstandiging van Amsterdam- Noord." indiendatum="5 augustus 1986)">
+         <vrager partij="PPR" oorsprong="parlement">Lankhorst</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="11 september 1986)">
+         <antwoorder functie="minister" ministerie="Binnenlandse Zaken">Van Dijk</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1 ">Hebt u kennis genomen van een  vraaggesprek met de voorzitter van  de stadsdeelraad Amsterdam-Noord,  waarin gesproken wordt over  gemeentelijke verzelfstandiging van  Amsterdam- Noord'?  </vraag>
+      <vraag nummer="2 ">Onderschrijft u zijn uitspraak, dat  overheden en met name de Minister  van Binnenlandse Zaken hebben  laten doorschemeren welwillend te  zullen reageren op een verzoek tot  verzelfstandiging?  </vraag>
+      <vraag nummer="3 ">Staat u achter de opvatting van de  plaatsvervangend-directeur bestuur- lijke organisatie van uw ministerie  dat, indien de provincie Noord-Hol- land zulks zal willen, u geen bezwaren  zult maken?  </vraag>
+      <vraag nummer="4 ">Stoelen de positieve reacties van de  zijde van Binnenlandse Zaken op enig  onderzoek naar alle aspecten,  verbonden aan de gemeentelijke  verzelfstandiging van Amsterdam- Noord, inbegrepen de financiële en  andere gevolgen voor Amsterdam- Noord zelf en het resterende gedeelte  van de huidige gemeente Amsterdam?  </vraag>
+      <vraag nummer="5 "/>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1 ">Ja.  Het is mij niet bekend dat met name  een van mijn ambtsvoorgangers zou  hebben laten doorschemeren  welwillend te zullen reageren op een  verzoek tot verzelfstandiging.  </antwoord>
+      <antwoord nummer="3 ">Het citaat in het NRC-Handelsblad  van 16 juli jl. waarop kennelijk wordt  gedoeld, geeft een onvolledig beeld.  De plaatsvervangend directeur  bestuurlijke en financiële organisatie  van mijn ministerie heeft erop  gewezen dat de provincie in de  procedure, die moet worden gevolgd  bij gemeentelijke herindeling, een  centrale plaats inneemt. In de overgrote  meerderheid van de gevallen ligt het  initiatief bij gedeputeerde staten.  Eerst in een latere fase van de  procedure oordeelt de Minister van  Binnenlandse Zaken over het  eventuele verzoek van gedeputeerde  staten om de indiening van een  wetsvoorstel te bevorderen. Waar,  aldus de plaatsvervangend directeur,  in casu noch van een provinciaal  voorstel tot verzelfstandiging van  Amsterdam-Noord, noch zelfs van  een initiatief om daartoe te komen  sprake is, is oordeelsvorming van de  Minister van Binnenlandse Zaken ter  zake niet aan de orde.  </antwoord>
+      <antwoord nummer="4 ">Daarbij komt ook het functioneren  van de thans reeds bestaande  deelgemeenten Amsterdam-Noord  en Osdorp aan de orde. Dit onderzoek  heeft echter alleen betrekking op  binnengemeentelijke decentralisatie  en niet op een eventuele afsplitsing  van (onder meer) Amsterdam-Noord  als aparte gemeente. Daarbij is mij  ook overigens geen onderzoek als  bedoeld in de gestelde vraag,  bekend.  Zie het antwoord op vraag 4.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

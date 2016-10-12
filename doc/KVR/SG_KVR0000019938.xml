@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001552</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001552&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001552</item>
+         <item attribuut="Document-id">0000019938</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 534</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid De Pree (PvdA) over mensenrechtenschendingen in Punjab en de reactie van de Indiase regering terzake.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 534</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">534</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">De Pree</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-03-25</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-04-15</item>
+         <item attribuut="Beginpagina">1125</item>
+         <item attribuut="Eindpagina">1126</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1125" allpagenumbers="1125" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="'s Gravenhage 1992"/>
+      <vraagdata vraagnummer="534" onderwerp="mensenrechtenschendingen in Punjab en de reactie van de Indiase regering terzake." indiendatum="1992-03-25">
+         <vrager partij="PvdA" oorsprong="parlement">De Pree</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-04-15">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">Van den Broek</antwoorder>
+         <mede-antwoorder>de minister van Ontwikkelingssamenwerking</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Hebt u kennis genomen van het recente document van Amnesty International «India: Response to the Indian Government's comments on A.l.'s report on Punjab», waarin de reacties van de Indiase regering verwerkt zijn op het in mei 1991 gepubliceerde rapport van Amnesty International over schendingen van mensenrechten in Punjab? </vraag>
+      <vraag nummer="2">Hoe beoordeelt de Nederlandse regering de geschetste schendingen van de mensenrechten en de reactie van de Indiase regermg terzake? </vraag>
+      <vraag nummer="3">Bij welke gelegenheid, zowel in EPS– als in OS-verband, hebt u uw standpunt onder de aandacht van de Indiase regering gebracht, respectievelijk zult u nog onder de aandacht brengen? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Van bedoeld document is inderdaad met aandacht kennis genomen. </antwoord>
+      <antwoord nummer="2">Helaas moet worden geconstateerd dat zich in Punjab, waar enerzijds leden van opstandige groeperingen zich bedienen van geweld ter verwezenlijking van hun politieke aspiraties en anderzijds leden van leger en politie trachten dit geweld te beteugelen met middelen die geacht kunnen worden op gespannen voet te staan zowel met nationale als met internationale normen, volgens ons ter beschikking staande gegevens meermalen gevallen voordoen waarin de fundamentele mensenrechten in het gedrang raken. De regering acht het van belang dat van officiële Indiase zijde, voor zover kan worden vastgesteld: voor de eerste maal, is gereageerd op een rapport terzake van Amnesty International. tijdens bilateraal overleg mzake ontwikkelingssamenwerking. Zowel in bilaterale contacten alsook in het kader van de dialoog tussen de Twaalf en de Indiase regering vormen mensenrechten regelmatig onderwerp van gesprek. Dit is in algemene zin ook het geval geweest </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="4">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Kant (SP) aan de minister-president over een publicatie inzake het Nederlandse dekolonisatiebeleid. (Ingezonden 23 november 2000); Antwoord</item>
+         <item attribuut="Bestand">13Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR12714
+</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van het artikel in het Algemeen Dagblad, 23 november 2000, "Ministerie van Kok verhindert publicatie dekolonisatie".</item>
+         <item attribuut="Rubriek">Communicatie, media en informatievoorziening (Uitgeverijen)</item>
+         <item attribuut="Trefwoorden">Boeken</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2000-2001, nr. 335, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2000102770</item>
+         <item attribuut="Afkomstig_van">Algemene Zaken (AZ)</item>
+         <item attribuut="Indiener">
+            <persoon partij="SP">Kant</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2000-12-01</item>
+         <item attribuut="Datum_indiening">2000-11-23</item>
+         <item attribuut="Document-id">KVR12714</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2000–2001" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="693" allpagenumbers="693" vetnummer="2000102770" code="" lopendefooter="Tweede Kamer, vergaderjaar 2000–2001, Aanhangsel" filenaam="KVR12714" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2000"/>
+      <vraagdata vraagnummer="335" onderwerp="" indiendatum="2000-11-23">
+         <vrager partij="SP" oorsprong="parlement">Kant</vrager>
+         <vraagt-aan>de minister-president</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2000-12-1">
+         <antwoorder functie="minister-president" ministerie="Algemene Zaken">Kok</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Heeft u kennisgenomen van het artikel «Ministerie van Kok verhindert publicatie dekolonisatie»? Kloppen de beschreven feiten? </vraag>
+      <vraag nummer="2">Op grond van welke inhoudelijke criteria wordt de publicatie van passages in het boek van Oostindie c.s. tegengehouden? </vraag>
+      <vraag nummer="3">Klopt het dat uw ministerie ondanks herhaalde verzoeken van de auteurs nimmer met hen heeft gecommuniceerd over de gewraakte passages en pas op het laatste moment publicatie geweigerd heeft? </vraag>
+      <vraag nummer="4">Bent u bereid de Kamer – desnoods vertrouwelijk – inzage te geven in de desbetreffende passage? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="2000-11-23" bron="Algemeen Dagblad">Algemeen Dagblad, 23 november 2000</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja. De in het artikel opgenomen informatie is echter maar zeer ten dele juist. </antwoord>
+      <antwoord nummer="2">Het ministerie van Algemene Zaken is slechts bij het boek betrokken voorzover gebruik wordt gemaakt van notulen van de (Rijks)ministerraad en het archief van het Kabinet van de Minister-President. Dit gebruik wordt op grond van geheimhoudingsverklaringen van de auteurs getoetst op in het bijzonder de bescherming van de eenheid van het regeringsbeleid, de relaties met andere landen en de belangen van nog actieve oud-bewindspersonen. </antwoord>
+      <antwoord nummer="3">Algemene Zaken heeft met de schrijvers regelmatig schriftelijk en mondeling gecommuniceerd over voorgelegde delen van het boek. </antwoord>
+      <antwoord nummer="4">Hiertoe bestaat geen aanleiding. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

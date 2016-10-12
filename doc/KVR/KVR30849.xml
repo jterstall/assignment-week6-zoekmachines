@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="5">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Agema (PVV) aan de minister van Volksgezondheid, Welzijn en Sport over 24 mensen die zijn overleden bij een proefbehandeling van alvleesklierontsteking. (Ingezonden 24 januari 2008); Antwoord</item>
+         <item attribuut="Bestand">16Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR30849
+</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van het Teletekstbericht 'UMC: hoge sterfte proefbehandeling' van 23 januari 2008.</item>
+         <item attribuut="Rubriek">Gezondheidszorg (Geneeskunde) Gezondheidszorg (Medische ethiek)</item>
+         <item attribuut="Trefwoorden">Geneeskunde Medische ethiek</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2007-2008, nr. 1305, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070809590</item>
+         <item attribuut="Afkomstig_van">Volksgezondheid, Welzijn en Sport (VWS)</item>
+         <item attribuut="Indiener">
+            <persoon partij="PVV">Agema</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2008-02-12</item>
+         <item attribuut="Datum_indiening">2008-01-24</item>
+         <item attribuut="Document-id">KVR30849</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="2799" allpagenumbers="2799" vetnummer="2070809590" code="0708tkkvr1305" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Aanhangsel" filenaam="KVR30849" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="1305" onderwerp="" indiendatum="2008-01-24">
+         <vrager partij="PVV" oorsprong="parlement">Agema</vrager>
+         <vraagt-aan>de minister van Volksgezondheid, Welzijn en Sport</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2008-02-12">
+         <antwoorder functie="staatssecretaris" ministerie="Volksgezondheid, Welzijn en Sport">Bussemaker</antwoorder>
+         <mede-antwoorder>de minister van Volksgezondheid, Welzijn en Sport</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Bent u bekend met het bericht «UMC: hoge sterfte proefbehandeling»? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Hoe heeft dit kunnen gebeuren, en wie is verantwoordelijk voor de onnodige dood van zo veel mensen? </vraag>
+      <vraag nummer="3">Deelt u de mening dat experimenten alleen mogen plaatsvinden indien de behandeling bewezen effectief is? </vraag>
+      <vraag nummer="3">Waarop baseren de onderzoekers dat dit experiment veilig was? </vraag>
+      <vraag nummer="4">Deelt u voorts de mening dat dit experiment nimmer had mogen plaatsvinden? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="2008-01-23" bron="UMC: hoge sterfte proefbehandeling, Teletekst">UMC: hoge sterfte proefbehandeling, Teletekst, 23 januari 2008</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">De Inspectie voor de Gezondheidszorg (IGZ) en de Centrale Commissie Mensgebonden Onderzoek (CCMO) hebben onderzoek gestart op grond waarvan onder meer op deze vragen antwoord zal kunnen worden gegeven. </antwoord>
+      <antwoord nummer="3">Nee, die mening deel ik niet. Medisch-wetenschappelijk onderzoek wordt immers verricht om aan te tonen dat een nieuwe behandeling, bijvoorbeeld met een (genees)middel, veilig en effectief is. Als preklinisch onderzoek er op wijst dat er geen onaanvaardbare risico’s maar wel mogelijk gunstige effecten bij mensen zijn, wordt eerst in kleine studies met gezonde vrijwilligers of patiënten bestudeerd hoe het nieuwe middel zich in het menselijk lichaam gedraagt en wordt naar de veiligheid gekeken. Tenslotte wordt de nieuwe behandeling vergeleken met de standaardbehandeling of een placebo, zoals in de betreffende studie van UMCU. Op deze manier komt de zogenoemde evidence-based geneeskunde tot stand. We willen immers graag voorkomen dat nieuwe behandelingen waarvan het effect en veiligheid niet vaststaat op grote schaal op ongecontroleerde wijze worden aangeboden aan patiënten. </antwoord>
+      <antwoord nummer="4">Er zijn reeds diverse kleinere studies in het buitenland gedaan met gunstige resultaten. Of de uitkomsten van deze studies konden volstaan om het betreffende onderzoek bij de mens te starten zal uit bovengenoemd onderzoek van de IGZ en de CCMO moeten blijken. </antwoord>
+      <antwoord nummer="5">Het is nog te vroeg voor vergaande conclusies. Het onderzoek van IGZ en de CCMO moet hier duidelijkheid over gaan geven. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

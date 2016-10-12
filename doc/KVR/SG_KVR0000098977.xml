@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19871988:0001263</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001263&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001263</item>
+         <item attribuut="Document-id">0000098977</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1987-1988 nummer 323</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Haas-Berger en Lilipaly (beiden P.v.d.A.) over naturalisatieverzoeken.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1987-1988 nummer 323</item>
+         <item attribuut="Jaargang">1987_1988</item>
+         <item attribuut="Vraagnummer">323</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Haas-Berger</persoon>
+            <persoon partij="PvdA">Lilipaly</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-12-11</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Korte-van Hemel</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1988-02-10</item>
+         <item attribuut="Beginpagina">649</item>
+         <item attribuut="Eindpagina">650</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 7 - 1 9 8 8 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 7 - 1 9 8 8 , Aanhangsel 649 " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="323" onderwerp="naturalisatieverzoeken." indiendatum="11 december 1987)">
+         <vrager partij="PvdA" oorsprong="parlement">Haas-Berger</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Lilipaly</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1 ">Moet op een ontvangstbevestiging  van een verzoek tot naturalisatie 3 tot  5 maanden worden gewacht?  </vraag>
+      <vraag nummer="2 ">Zo ja, deelt u de mening, dat dit een  ongewenst effect heeft op de  werkzaamheden van de afdeling  naturalisaties, aangezien velen  contact opnemen met deze afdeling  om te informeren of hun verzoek is  aangekomen?  </vraag>
+      <vraag nummer="3 ">W a t is op dit moment de termijn  tussen het indienen van en de  beslissing over een naturalisatiever- zoek?  </vraag>
+      <vraag nummer="4 ">Bent u bereid maatregelen te treffen  om indieners van een naturalisatiever- zoek sneller een ontvangstbericht te  zenden?  </vraag>
+      <vraag nummer="5 ">Bent u bereid maatregelen te treffen  teneinde de duur van de procedure  van naturalisatieverzoeken te  bekorten?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="3 ">De termijn tussen het indienen van  en de beslissing op een verzoek tot  naturalisatie loopt van geval tot geval  uiteen, aangezien zij mede  w o r d t  bepaald door persoonlijke omstandig- heden van de verzoeker. Niet alle  verzoekers zijn in staat onmiddellijk  aan de formele en materiële vereisten  voor hun naturalisatie te voldoen.  Gemiddeld bedraagt de termijn thans  bijna twee jaren.  </antwoord>
+      <antwoord nummer="5 ">Sedert medio 1987 is geleidelijk een  voorshands tijdelijke uitbreiding van  het personeelsbestand van de  betreffende onderafdeling gereali- seerd. Voorts is besloten tot structu- rele uitbreiding van de personele  bezetting van de onderafdeling. Het  effect van de tijdelijke maatregelen is  inmiddels al merkbaar  g e w o r d e n . Bij  gelijkblijvende omstandigheden, in  het bijzonder het uitblijven van  verdere stijging van het aantal  nieuwe verzoeken, lijkt de verwachting  gerechtvaardigd dat, mede als  gevolg van automatisering van  bepaalde werkzaamheden, tegen het  einde van 1988 de termijn tot een  jaar kan zijn teruggebracht.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

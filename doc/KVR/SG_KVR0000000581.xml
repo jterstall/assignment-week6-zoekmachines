@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Nader antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19941995:0000581</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000581&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000581</item>
+         <item attribuut="Document-id">0000000581</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1994-1995 nummer 246</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Witteveen-Hevinga (PvdA) over de concept-richtlijn betreffende het grensoverschrijdend betalingsverkeer.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1994-1995 nummer 246</item>
+         <item attribuut="Jaargang">1994_1995</item>
+         <item attribuut="Vraagnummer">246</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Witteveen-Hevinga</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-10-24</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Zalm</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-12-07</item>
+         <item attribuut="Beginpagina">493</item>
+         <item attribuut="Eindpagina">494</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1994-1995" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="493" allpagenumbers="493" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1994-1995, Aanhangsel" filenaam="" issn-nummer="ISSN0921 -7398" uitgever="Sdu Uitgeveri] Plantijnstraat 's-Gravenhage 1994"/>
+      <vraagdata vraagnummer="246" onderwerp="de concept-richtlijn betreffende het grensoverschrijdend betalingsverkeer." indiendatum="1994-10-24">
+         <vrager partij="PvdA" oorsprong="parlement">Witteveen-Hevinga</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="7 december 1994) Conform de toezegging zoals verwoord in de antwoorden op de vragen, gesteld door het lid Witteveen-Hevinga bij brief van 25 oktober 1994">
+         <antwoorder functie="" ministerie="Financiën"/>
+         <mede-antwoorder>de staatssecretaris van Economische Zaken</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1">Bent u bereid de concept-richtlijn betreffende het grensoverschrijdend betalingsverkeer, waarover de Europese Commissie onlangs besloten heeft, naar de Kamer te zenden? Wordt hierin de banken de mogelijkheid geboden om onderling prijsinformatie over transferkosten uit te wisselen? </vraag>
+      <vraag nummer="3">Zo ja, wat is uw visie met betrekking tot de kritiek van de Europese consumentenorganisaties, dat dit een verlichting betekent van de voor de banken strikte mededingingsregels inzake misbruik van dominante marktpositie? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="2"/>
+         <noot nummer="1"> Aanhangsel Handelingen nr. 175, Vergaderjaar 1994-1995</noot>
+         <noot nummer="2"> Ter inzage gelegd bij de afdeling Parlementaire Documentatie</noot>
+      </noten>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="2">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19881989:0001434</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001434&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001434</item>
+         <item attribuut="Document-id">0000091033</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1988-1989 nummer 430</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Blaauw en Franssen (beiden V.V.D.) over de Fryske Akademy.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1988-1989 nummer 430</item>
+         <item attribuut="Jaargang">1988_1989</item>
+         <item attribuut="Vraagnummer">430</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Blaauw</persoon>
+            <persoon partij="VVD">Franssen</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-03-02</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Deetman</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-04-05</item>
+         <item attribuut="Beginpagina">863</item>
+         <item attribuut="Eindpagina">864</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 8 - 1 9 8 9 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 8 - 1 9 8 9 ,  A a n h a n g s e l " filenaam="" issn-nummer="ISSN 0921 • 7398 " uitgever="SDU uitgeverij 's-Gravenhage 1989 "/>
+      <vraagdata vraagnummer="4" onderwerp="de Fryske Akademy." indiendatum="2 maart 1989)">
+         <vrager partij="VVD" oorsprong="parlement">Blaauw</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Franssen</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="5 april 1989)">
+         <antwoorder functie="minister" ministerie="Onderwijs en Wetenschappen">D e e t m a n</antwoorder>
+         <mede-antwoorder>de minister van Welzijn, Volksgezondheid en Cultuur</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1 ">Hebt u kennisgenomen van het plan  van de Fryske Akademy om een  belangrijk Europees netwerk voor  informatie en documentatie over  autochtone minderheidstalen op te  zetten?  </vraag>
+      <vraag nummer="2 ">Bent u bereid, nu de Fryske Akademy  een centrum kan worden voor  Europees onderzoek op het terrein  van minderheden en een coördinerend  centrum van Europese netwerk-cen- tra, dit 'Meriator-netwerk' financieel  te ondersteunen mede gezien het  feit, dat de Europese Commissie  deze coördinatietaak volledig wil  toevertrouwen aan de Fryske  Akademy?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1 ">De Stichting Fryske Akademy heeft  van het plan melding gemaakt in een  brief van 1 6 februari 1 989, waarmee  ze de minister van  Q &amp; W haar  begroting 1990 heeft doen toekomen.  Het plan zelf hebben de ministers  van  Q &amp; W en  W V C niet ontvangen.  W e l is de minister van  O &amp; W in 1987  door de minister van Buitenlandse  Zaken geïnformeerd over voorberei- dend overleg daartoe.  </antwoord>
+      <antwoord nummer="2 ">In de begroting 1990 die de stichting  aan de minister van  O &amp; W heeft  toegezonden, heeft zij ten behoeve  van de functie die zij haar instituut in  het netwerk wil doen vervullen,  binnen de grenzen van de meerjaren- cijfers van de O&amp;W-subsidie een  bedrag van f 16  2 0 0 opgevoerd.  Uit ingewonnen informaties blijkt, dat  de stichting voor financiering van de  genoemde functie vooral een beroep  heeft gedaan op middelen van  andere binnen- en buitenlandse  herkomst.  De Fryske Akademy valt niet onder  de beleidsverantwoordelijkheid van  de minister van WVC. De minister  van WVC acht het ook niet zijn taak  de Fryske Akademy voor het beoogde  project financieel te ondersteunen.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

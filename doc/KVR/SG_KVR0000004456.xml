@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0001945</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001945&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001945</item>
+         <item attribuut="Document-id">0000004456</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 731</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Sipkes en Rosenmöller (beiden GroenLinks) over keuring van oude en nieuwe arbeidsongeschikten.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 731</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">731</item>
+         <item attribuut="Indiener">
+            <persoon partij="GroenLinks">Sipkes</persoon>
+            <persoon partij="GroenLinks">Rosenmöller</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-08-04</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Wallage</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-08-19</item>
+         <item attribuut="Beginpagina">1481</item>
+         <item attribuut="Eindpagina">1482</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regerïng gegeven antwoorden"/>
+      <footer firstpaginanummer="1481" allpagenumbers="1481" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="s Gravenhage 1994"/>
+      <vraagdata vraagnummer="731" onderwerp="keuring van oude en nieuwe arbeidsongeschikten." indiendatum="1994-08-4">
+         <vrager partij="GroenLinks" oorsprong="parlement">Sipkes</vrager>
+         <vrager partij="GroenLinks" oorsprong="parlement">Rosenmöller</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-08-19">
+         <antwoorder functie="staatssecretaris" ministerie="Sociale Zaken en Werkgelegenheid">Wallage</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Beschikt u al enige tijd over een advies van de Raad van State met vergaande kritiek op de wijze waarop oude en nieuwe arbeidsongeschikten worden gekeurd? </vraag>
+      <vraag nummer="2">Sinds wanneer is dit advies in uw bezit? Waarom heeft u, gezien het belang van dit advies, de Kamer niet ongevraagd op de hoogte gesteld? </vraag>
+      <vraag nummer="4">Bent u alsnog bereid om dit advies zo snel mogelijk naar de Kamer te sturen? Overweegt u, als gevolg van het advies, de maatregelen die voortvloeien uit het «concept-Schattingsbesluit»  aan te passen en meer rekening te houden met de concrete situatie van arbeidsongeschikten die in aanmerking zijn gekomen of nog in aanmerking moeten komen voor een herkeuring? Zo neen, waarom niet? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"/>
+         <noot nummer="1"> Staatscourant nr. 210, 1993</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1"> t/m  5 Voor wat betreft de inhoud van het advies van de Raad van State bij het ontwerp-Schattingsbesluit en mijn reactie op de opmerkingen van de Raad, wil ik verwijzen naar het inmiddels op 8 augustus aan de Kamer toegezonden advies van de Raad en het nader rapport terzake. Met betrekking tot de procedure zij het volgende opgemerkt. Het advies van de Raad van State is op 20 juni 1994 uitgebracht. Gezien het feit dat naar aanleiding van het advies aanpassing van het ontwerp-besluit noodzakelijk was en daartoe overleg gevoerd moest worden met de departementen van Binnenlandse Zaken en Defensie, en voorts op technisch niveau afstemming moest plaatsvinden met de uitvoeringsorganen van de sociale verzekeringen, heeft het opstellen van een definitief besluit enige weken gevergd. Ik wil er op wijzen dat het niet gebruikelijk is het advies van de Raad van State openbaar te maken alvorens het nader rapport aan de Koningin is uitgebracht. Het advies van de Raad is overigens niet van dien aard, dat tot een principiële wijziging van het Schattingsbesluit moest worden overgegaan. Er was derhalve ook geen reden van de gebruikelijke procedures af te wijken. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

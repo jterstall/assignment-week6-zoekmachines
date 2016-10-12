@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001403</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001403&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001403</item>
+         <item attribuut="Document-id">0000107178</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 371</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van Heemskerck Pillis-Duvekot (V.V.D.) over Cambodjaanse vluchtelingen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 371</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">371</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Van Heemskerck Pillis-Duvekot</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-01-13</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Bukman</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-02-04</item>
+         <item attribuut="Beginpagina">739</item>
+         <item attribuut="Eindpagina">740</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 6 - 1 9 8 7 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="371" onderwerp="Cambodjaanse vluchtelingen." indiendatum="13 januari 1987)">
+         <vrager partij="VVD" oorsprong="parlement">Van Heemskerck Pillis-Duvekot</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="4 februari 1987)">
+         <antwoorder functie="" ministerie="Ontwikkelingssamenwerking"/>
+         <mede-antwoorder>de minister van Buitenlandse Zaken</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1 ">Kent u de berichten over de verplaat- sing van een grote groep Cambod- jaanse vluchtelingen van het kamp  Khao I Dang naar een locatie in het  grensgebied van Thailand en Cambod- ja?  </vraag>
+      <vraag nummer="2 ">Is het waar dat de situatie van deze  vluchtelingen hierdoor zeer onzeker  is geworden?  </vraag>
+      <vraag nummer="3 ">Wilt u er bij de Thaise regering op  aandringen dat de nieuwe vestiging  onder neutrale leiding komt te staan  en dat de UNHCR er zijn protectie- en assistentietaken kan verrichten?  Zie onder meer De Volkskrant van 31  december  j l .  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1 ">Deze berichten zijn mij bekend.  </antwoord>
+      <antwoord nummer="2 ">De Thaise regering heefj besloten  met kamp Khao I Dang te sluiten en  de betreffende vluchtelingen naar  andere lokaties over te brengen.  Personen die illegaal in Khao I Dang  verblijven, zullen als eersten moeten  vertrekken. De Thaise autoriteiten  zijn voornemens de andere categorie- en Cambodjaanse vluchtelingen te  zijner tijd gefaseerd uit Khao I Dang  te verwijderen. Daarbij zullen de  meesten van hen in eerste instantie  naar een kamp van hun keuze gaan.  Indien zij geen keuze maken, zullen  de Thaise autoriteiten een plaats  aanwijzen. Welke dat zal worden is  nog niet bekend.  Naar het thans voorkomt, zullen zij  in hun nieuwe lokaties niet dezelfde  bescherming en materiële bijstand  van UNHCR krijgen als thans het  geval is. In plaats daarvan zouden de  United Nations Border Relief  Operations (UNBRO) en de Thaise  autoriteiten deze taken uitvoeren.  </antwoord>
+      <antwoord nummer="3 ">De Thaise autoriteiten is duidelijk  gemaakt, dat in de Nederlandse visie  UNHCR een rol met betrekking tot  deze Cambodjanen moet behouden,  dat hun vluchtelingenstatus onaange- tast moet blijven, dat ze de mogelijk- heid tot hervestiging moeten  behouden en dat zij, indien zij naar  een andere lokatie verplaatst worden,  naar een plaats van hun keuze  moeten kunnen gaan.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

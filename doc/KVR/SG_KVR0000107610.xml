@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001835</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001835&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001835</item>
+         <item attribuut="Document-id">0000107610</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 802</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Blauw (V.V.D.) over de superheffing.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 802</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">802</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Blauw</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-04-02</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Braks</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-06-26</item>
+         <item attribuut="Beginpagina">1593</item>
+         <item attribuut="Eindpagina">1594</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 6 - 1 9 8 7 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="802" onderwerp="de superheffing." indiendatum="2 april 1987)">
+         <vrager partij="VVD" oorsprong="parlement">Blauw</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1 ">Kan de minister bevestigen, dat de  afhandeling van de beroepen in het  kader van de superheffing bij het  College van Beroep van het Bedrijfs- leven nog 3-5 jaar zal duren? </vraag>
+      <vraag nummer="1 "/>
+      <vraag nummer="2 ">Deelt de minister de mening, dat  zolang een beroep aanhangig is er  geen strafmaatregelen uitgevoerd  mogen worden, die de voortzetting  van het bedrijf onomkeerbaar  aantasten? </vraag>
+      <vraag nummer="2 "/>
+      <vraag nummer="3 ">Is de minister bereid de voorlopige  aanslagen in het kader van de  superheffing die leiden tot faillisse- ment en waarvan het beroep nog  hangende is, te voorzien van op- schortende werking?  </vraag>
+      <vraag nummer="4 ">Indien vraag 3 ontkennend wordt  beantwoord, kan dan worden  aangegeven, waarom zulks niet  mogelijk is?  Deze vragen worden gesteld naar  aanleiding van de schriftelijke  antwoorden op eerdere vragen  terzake, Aanhangsel 546.  </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="2"> Een bedrijfsbeëindiging betekent een  definitief verlies van quotum. </noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="2 ">Ervan uitgaande dat in deze vraag  met «strafmaatregelen» wordt  gedoeld op de inning van de verschul- digde superheffing luidt het antwoord  ontkennend. Juist in situaties als in  de vraag bedoeld kan de betrokkene  gebruik maken van de in artikel 65  van de  W e t administratieve recht- spraak bedrijfsorganisatie geboden  mogelijkheid om aan de voorzitter  van het College van Beroep voor het  bedrijfsleven een voorlopige voorzie- ning te vragen. Indien gerechtvaar- digd kan een voorlopige voorziening  meebrengen dat de inning van de  superheffing achterwege blijft totdat  door het college uitspraak is gedaan.  3 en 4  Overigens zie ik geen reden om  zelfstandig tot opschorting van  inning van de superheffing over te  gaan. Het zou trouwens betekenen  dat wij, zij het tijdelijk, terugkomen  op eerder gekozen maatstaven voor  de verdeling van het quotum.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

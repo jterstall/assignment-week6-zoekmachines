@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001851</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001851&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001851</item>
+         <item attribuut="Document-id">0000107626</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 818</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Jabaaij, Buurmeijer en De Pree (allen P.v.d.A.) over een onderzoek inzake de doodsoorzaken van Turkse en Marokkaanse kinderen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 818</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">818</item>
+         <item attribuut="Indiener">
+            <persoon>Jabaaij</persoon>
+            <persoon>Buurmeijer</persoon>
+            <persoon>De Pree</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-05-26</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Dees</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-07-01</item>
+         <item attribuut="Beginpagina">1625</item>
+         <item attribuut="Eindpagina">1626</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1986-1987 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="818" onderwerp="een onderzoek inzake de doodsoorzaken van Turkse en Marokkaanse kinderen." indiendatum="26 mei 1987)">
+         <vrager partij="" oorsprong="parlement">Jabaaij</vrager>
+         <vrager partij="" oorsprong="parlement">Buurmeijer</vrager>
+         <vrager partij="" oorsprong="parlement">De Pree</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1 juli 1987)">
+         <antwoorder functie="staatssecretaris" ministerie="Welzijn, Volksgezondheid en Cultuur">D e e s</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 ">Heeft de bewindsman kennis geno- men van de resultaten van het  onderzoek van het Centraal Bureau  voor de Statistiek naar de doodsoor- zaken van Turkse en Marokkaanse  kinderen, zoals die vermeld staan in  de Volkskrant van 25 mei jl.?  </vraag>
+      <vraag nummer="2 ">Kunnen alle resultaten van het  onderzoek worden medegedeeld?  Welke oorzaken liggen aan de hoge  sterfte onder kinderen van Marokkaan- se en Turkse afkomst ten grondslag?  </vraag>
+      <vraag nummer="3 ">Ziet de staatssecretaris aanleiding  om een nader onderzoek in te  stellen?'  </vraag>
+      <vraag nummer="4 ">Zo ja, is hij bereid deze Kamer  hierover op korte termijn in te  lichten?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1 ">Ja.  </antwoord>
+      <antwoord nummer="2 ">De onderzoeksresultaten zijn  gepubliceerd in het Nederlands  Tijdschrift voor Geneeskunde (NTG,  31e jaargang, nr.  2 1 , 23 mei 1987,  blz.  9 1 3 - 9 1 7) en zijn gebaseerd op  het proefschrift van Doornbos en  Nordbeck: «Perinatal Mortality,  obstetric risk factors in a community  of mixed ethnic origin in Amsterdam»  (januari 1985).  Met betrekking tot de oorzaken van  de hoge sterfte onder kinderen van  Marokkaanse en Turkse afkomst  verwijs ik naar het antwoord op  eerdere schriftelijke vragen van  dezelfde leden (Aanhangsel Handelin- gen nr. 502). Het CBS zal nog dit jaar  de resultaten van het daarin aange- kondigde onderzoek van sterfte naar  doodsoorzaken over de periode  1 9 7 9 - 1 9 8 5 publiceren.  </antwoord>
+      <antwoord nummer="3 ">Volgens plan zal ik, nadat de resulta- ten van het onderzoek naar doodsoor- zaken van Turkse en Marokkaanse  kinderen door het CBS zijn gepresen- teerd, mij beraden of nader onderzoek  wenselijk dan wel noodzakelijk is.  Hierbij zal ik rekening houden met de  door Doornbos c.s. gevonden onder  rapportage' in de Doodsoorzakensta- tistiek.  Ik zal de Tweede Kamer inlichten  over mijn plannen na beoordeling van  CBS-onderzoek.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

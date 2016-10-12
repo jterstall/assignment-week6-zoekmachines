@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="4">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Reitsma en Atsma (beiden CDA) aan de minister van Verkeer en Waterstaat over het contract tussen Groningen en NoordNed. (Ingezonden 30 juni 2000); Antwoord</item>
+         <item attribuut="Bestand">13Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR12091
+</item>
+         <item attribuut="Inhoud">Vragen over problemen tussen NoordNed en de provincie Groningen, die mogelijk leiden tot het openbreken van het contract met NoordNed (Algemeen Dagblad, 28 juni 2000).</item>
+         <item attribuut="Rubriek">Verkeer, vervoer en waterstaat (Spoorwegen)</item>
+         <item attribuut="Trefwoorden">Noord-Nederland Spoorwegen</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 1999-2000, nr. 1629, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2990013350</item>
+         <item attribuut="Afkomstig_van">Verkeer en Waterstaat</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Reitsma</persoon>
+            <persoon partij="CDA">Atsma</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2000-07-24</item>
+         <item attribuut="Datum_indiening">2000-06-30</item>
+         <item attribuut="Document-id">KVR12091</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1999–2000" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="3681" allpagenumbers="3681" vetnummer="2990013350" code="" lopendefooter="Tweede Kamer, vergaderjaar 1999–2000, Aanhangsel" filenaam="KVR12091" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2000"/>
+      <vraagdata vraagnummer="1629" onderwerp="" indiendatum="2000-06-30">
+         <vrager partij="CDA" oorsprong="parlement">Reitsma</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Atsma</vrager>
+         <vraagt-aan>de minister van Verkeer en Waterstaat</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2000-07-24">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">Netelenbos</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Heeft u kennisgenomen van het artikel over de problemen tussen Groningen en NoordNed? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Deelt u de zorg van de Groningse gedeputeerde die denkt over het openbreken van het contract met NoordNed? </vraag>
+      <vraag nummer="3">Vloeien de aanhoudende perikelen van NoordNed voort uit het feit dat het Rijk te weinig geld heeft uitgetrokken voor het in stand houden van onrendabele spoorlijnen? </vraag>
+      <vraag nummer="4">Kunt u aangeven hoe de aanhoudende perikelen van NoordNed definitief opgelost kunnen worden en kunt u garanderen dat het voorzieningenniveau van onrendabele lijnen niet verslechtert? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="2000-06-28" bron="Algemeen Dagblad">Algemeen Dagblad, 28 juni 2000</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">De provincie heeft de intentie om samen met NoordNed tot een oplossing te komen voor de problemen. Op dit moment overweegt de provincie niet om het bestaande contract met NoordNed open te breken. </antwoord>
+      <antwoord nummer="3">Neen. Indien NoordNed overeenkomstig het met de provincie gesloten contract de afgesproken hoeveelheid materieel had ingezet zou er zonder meer sprake zijn geweest van een aanvaardbaar voorzieningenniveau. </antwoord>
+      <antwoord nummer="4">De bevoegdheden ten aanzien van de groningse lijnen zijn een aangelegenheid van de provincie Groningen. De provincie Groningen heeft mij medegedeeld dat de huidige situatie met betrekking tot het materieel zeker niet het gevolg is van het feit dat het Rijk te weinig geld zou hebben uitgetrokken voor het in stand houden van deze lijnen. De provincie heeft mij tevens medegedeeld dat NoordNed erin is geslaagd extra materieel van de N.V. Nederlandse Spoorwegen te leasen dat gedurende de zomer gefaseerd op deze lijnen zal worden ingezet waardoor naar de verwachting van de provincie de problemen in september zijn verholpen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

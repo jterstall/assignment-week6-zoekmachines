@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001859</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001859&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001859</item>
+         <item attribuut="Document-id">0000020245</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 840</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid E.G. Terpstra (VVD) over een cursus oorlogschirurgie in Noorwegen</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 840</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">840</item>
+         <item attribuut="Indiener">
+            <persoon>Terpstra E.G.</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-07-14</item>
+         <item attribuut="Beantwoorder">
+            <persoon>baron van Voorst tot Voorst</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-08-28</item>
+         <item attribuut="Beginpagina">1747</item>
+         <item attribuut="Eindpagina">1748</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1747" allpagenumbers="1747" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="'s Gravenhage 1992"/>
+      <vraagdata vraagnummer="840" onderwerp="een cursus oorlogschirurgie in Noorwegen" indiendatum="14juli 1992">
+         <vrager partij="" oorsprong="parlement">Terpstra E.G.</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="1">
+      <vraag nummer="1">Heeft u kennis genomen van het artikel «levende varkens als schietschijf» , waarin een kolonel-arts melding maakt van deelname aan een cursus oorlogschirurgie in Noorwegen, waarbij levende varkens op een schietbaan met verschillende soorten munitie worden beschoten? Kunt u meedelen hoe vaak in Europa dit soort «cursussen» worden gegeven? Wordt deelname aan dergelijke «cursussen» voor Nederlandse militaire artsen verplicht gesteld c.q. wenselijk geacht? Zo ja, waarom? Zo nee, is deelname van Nederlandse militaire artsen aan dergelijke cursussen te beschouwen als particulier initiatief in diensttijd? Kunt u garanderen dat dergelijke oefeningen waarbij op levende wezens wordt geschoten niet in Nederland plaatsvinden? Zo ja, kunt u garanderen dat de Kamer zal worden geraadpleegd zo er al ooit voornemens zouden zijn om dergelijke «cursussen» ook in Nederland te organiseren? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"/>
+         <noot nummer="1" datum="1992-07-10" bron=" Zie «de Telegraaf» d.d"> Zie «de Telegraaf» d.d, 10 juli 1992</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

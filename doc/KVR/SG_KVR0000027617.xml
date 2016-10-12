@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="januari 1991." aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001280</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001280&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001280</item>
+         <item attribuut="Document-id">0000027617</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 346</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Versnel-Schmitz en Nuis (beiden D66) over een aanvraag van het COA Friesland voor een deelsubsidie.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 346</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">346</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Versnel-Schmitz</persoon>
+            <persoon partij="D66">Nuis</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-01-14</item>
+         <item attribuut="Beantwoorder">
+            <persoon>-</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-01-30</item>
+         <item attribuut="Beginpagina">701</item>
+         <item attribuut="Eindpagina">702</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991 Aanhangsel van de Handelingen" typehandeling="Vergaderjaar 1990-1991 Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="" allpagenumbers="7" vetnummer="" code="" lopendefooter="sDUuitgeverii s Gravenhage 1991 Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel 701" filenaam="" issn-nummer="" uitgever="sDUuitgeverii s Gravenhage 1991 Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel 701"/>
+      <vraagdata vraagnummer="346" onderwerp="een aanvraag van het COA Friesland voor een deelsubsidie." indiendatum="1991-01-14">
+         <vrager partij="D66" oorsprong="parlement">Versnel-Schmitz</vrager>
+         <vrager partij="D66" oorsprong="parlement">Nuis</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Hebt u een aanvraag van het COA' in Friesland voor een deelsubsidie van f 63 500 t.b.v. het project «Stagebe– middeling en werving binnen het Middelbaar Beroepsonderwijs» afgewezen, terwijl een soortgelijk verzoek van het COA in Drenthe wel is toegewezen? </vraag>
+      <vraag nummer="2">Zo ja, wat is daarvan de reden? </vraag>
+      <vraag nummer="3">Bent u van mening, dat het project van het COA in Friesland met de daarbij sinds 1987 opgebouwde kennis, vaardigheden en gegevens geen nuttige functie vervult en dat de scholen beter op hun eigen houtje en volgens de eigen methode de stagebemiddeling kunnen overnemen, waarbij zij elkaars concurrenten zijn? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> COA = Contactcentrum Onderwijs-Arbeid</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+   <mededeling mededeler="" functie="" afdeling="" mededelingdatum="">Deze vragen zijn ingetrokken op 30 </mededeling>
+</kvr>

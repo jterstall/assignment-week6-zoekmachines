@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0001684</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001684&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001684</item>
+         <item attribuut="Document-id">0000004195</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 470</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Van de Camp en Hermes (beiden CDA) over het vervangingsfonds bij ziekte in het onderwijs.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 470</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">470</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Van de Camp</persoon>
+            <persoon partij="CDA">Hermes</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-03-30</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Ritzen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-05-02</item>
+         <item attribuut="Beginpagina">953</item>
+         <item attribuut="Eindpagina">954</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="953" allpagenumbers="953 954" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1994"/>
+      <vraagdata vraagnummer="470" onderwerp="het vervangingsfonds bij ziekte in het onderwijs." indiendatum="1994-03-30">
+         <vrager partij="CDA" oorsprong="parlement">Van de Camp</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Hermes</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-05-2">
+         <antwoorder functie="minister" ministerie="Onderwijs en Wetenschappen">Ritzen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1">Welke problemen doen zich thans voor bij het vervangingsfonds (vervanging bij ziekte in het onderwijs)? </vraag>
+      <vraag nummer="2">In hoeverre zijn de door u tijdens het begrotingsonderzoek 1994 gepresenteerde cijfers m.b.t. de daiing van het ziekteverzuim in het onderwijs door de recente ontwikkelingen achterhaald? </vraag>
+      <vraag nummer="3">Welke extra verhogingen in de bijdragen aan het vervangingsfonds hebben de schoolbesturen c.q. de scholen te verwachten voor het schooljaar '94-'95? </vraag>
+      <vraag nummer="4">In hoeverre brengt u financiële problemen van voor 1 augustus 1992 alsnog ten laste van het vervangingsfonds? </vraag>
+      <vraag nummer="5">Waarom hebt u niet kunnen voorzien dat deze ontwikkelingen zich zouden voordoen? </vraag>
+      <vraag nummer="6">Bestaat het gevaar dat door deze ontwikkelingen de financiële dekking van de convenantsafspraken met de vakorganisaties niet kan worden nagekomen? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1" voetnoot="1">De Stichting vervangingsfonds heeft mij gemeld, bij brief dd. 16 december 1993, dat het saldo van de gerealiseerde ontvangsten en uitgaven van het fonds met ingang van oktober 1993 in aanmerkelijke mate de raming zijn gaan overtreffen. In concreto betekende dit dat de Stichting op dat moment voor  f 2 1 mln. op haar reserves zou hebben ingeteerd. Men hield rekening met een tekort op schooljaarbasis van ca. f 50 a f 60 mln. Uit latere mededelingen van de Stichting leid ik af dat dit beeld tot op heden nog niet is veranderd. De verschillen tussen mijn rapportage bij gelegenheid van het begrotingsonderzoek 1994 en de definitieve cijfers zijn beperkt. Algemeen beeld is en blijft een daling in het ziekteverzuim ten opzichte van eerdere schooljaren. De bij het begrotingsonderzoek gepresenteerde cijfers <voetnoot nummer="1"/> waren gebaseerd op de voorlopige eerste ziekteverzuimcijfers voor het onderwijspersoneel over het schooljaar 1992/1993, zoals door de Stichting LISWO aan het departement gerapporteerd. In die cijfers bevond zich voor het Basisonderwijs een percentage van 6,4%. Een correctie op de steekproef leidde tot een minimale bijstelling van dit percentage tot 6,7. De percentages voor de overige onderwijssectoren zijn ongewijzigd gebleven. Het financiële effect van de correctie naar 6,7% voor het basisonderwijs betekent een verhoging van de opslag met f 7,5 mln. </antwoord>
+      <antwoord nummer="3" voetnoot="2">Voor de financiële relatie tussen de instellingen en het Vervangingsfonds is laatstgenoemde Stichting verantwoordelijk. Om deze verantwoordelijkheid adequaat te kunnen invullen is zij uitgerust met een aantal bevoegdheden en instrumenten, zoals daar zijn: De vaststelling van het vervangingsreglement, de vaststelling van de hoogte van de premie en de differentiatie in de hoogte van die premie (bonus/malus regeling). De verantwoordelijkheid van de minister van Onderwijs en Wetenschappen gaat niet verder dan, in laatste instantie, een lichte toets op de effectuering van het instrumentarium. Dat wil zeggen, het voeren van bestuurlijk overleg terzake. Op 7 maart jl. vernam ik, bij brief van het Vervangingsfonds d.d. 4 maart, dat de Stichting de aangesloten instellingen had aangeschreven en daarnaast een persbericht had verspreid. Uit deze stukken maak ik op dat het gaat om het geven van een worden herzien. Mede naar aanleiding van een onderzoek door de departementale Accountantsdienst en niet in de laatste plaats in het kader van een goede bestuurlijke relatie, heb ik mij op het standpunt gesteld dat herziening van deze afspraken op een enkel punt bespreekbaar is. In concreto gaat het dan om een technische correctie ad f 2,9 mln. en een correctie voor nagekomen declaraties ter waarde van f 7 mln. Aan de laatste post heb ik de voorwaarde van een adequate rapportage over het boekjaar 1992/1993 en een goedkeurende accountantsverklaring verbonden. Met betrekking tot een bedrag ad f 16,1 mln. heb ik geconstateerd dat de Stichting Vervangingsfonds zelf over het instrumentarium en de technische mogelijkheden beschikt om het op te vangen. nr. 22. <voetnoot nummer="2"/> Ter inzage gelegd bij de afdeling Parlementaire Documentatie. De kern van de problematiek schuilt in het feit dat de mate waarin daadwerkelijk vervanging aan de scholen plaatsvindt klaarblijkelijk minder daalt dan het ziekteverzuim. Met andere woorden: de relatieve vervangingsgraad neemt toe. In het overleg voorafgaand aan de oprichting van het fonds is deze ontwikkeling in die zin voorzien dat er concrete afspraken zijn gemaakt over het constant houden van de vervangingsgraad. Dit was en is een belangrijk doel van mijn beleid. Het Vervangingsfonds is mede daarom dan ook in voldoende mate geëquipeerd om dit doel te kunnen bereiken. Zie ook het antwoord bij vraag 3. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0001998</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001998&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001998</item>
+         <item attribuut="Document-id">0000004509</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 784</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Poppe (SP) over Gene Pharming.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 784</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">784</item>
+         <item attribuut="Indiener">
+            <persoon partij="SP">Poppe</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-09-15</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Aartsen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-09-19</item>
+         <item attribuut="Beginpagina">1587</item>
+         <item attribuut="Eindpagina">1588</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1587" allpagenumbers="1587" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's-Gravenhage 1994"/>
+      <vraagdata vraagnummer="784" onderwerp="Gene Pharming." indiendatum="1994-09-15">
+         <vrager partij="SP" oorsprong="parlement">Poppe</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="19september 1994">
+         <antwoorder functie="minister" ministerie="Landbouw, Natuurbeheer en Visserij">Aartsen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Is het bericht waar, als zou Gene Pharming een schadeclaim bij uw ministerie hebben ingediend en gevraagd hebben het contract met ID-DLO te verbreken? <voetnoot nummer="1"/>Zo ja, wanneer heeft Gene Pharming u hierover bericht? </vraag>
+      <vraag nummer="3">Wat zijn de inhoudelijke redenen voor Gene Pharming tot dergelijke stappen? </vraag>
+      <vraag nummer="4">Zijn de eisen mogelijk op grond van het contract? Wat kan een en ander gaan betekenen voor het experiment met de stier Herman? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1994-09-14" bron=" Agrarisch Dagblad"> Agrarisch Dagblad, 14 september 1994</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1 en 2">Ja, met dien verstande dat Gene Pharming Europe (GPE) de Stichting Instituut voor Veeteeltkundig Onderzoek «Schoonoord» (IVO-DLO) aansprakelijk heeft gesteld. GPE heeft mij omtrent deze aangelegenheid bij brief van 5 september 1994 een eerste bericht gezonden. </antwoord>
+      <antwoord nummer="3">GPE beweert dat als gevolg van ernstige en verwijtbare tekortkomingen aan de zijde van IVO-DLO inzake de wijze waarop uitvoering is gegeven aan de contractuele veeteeltkundige verplichtingen in de verhouding tussen IVO-DLO en GPE een onherstelbare vertrouwensbreuk is ontstaan. GPE stelt voorts dat IVO-DLO wegens wanprestatie jegens GPE aansprakelijk is voor de schade die GPE lijdt. Naar de mening van GPE is het onontkoombaar dat de rechtsverhouding tussen GPE en IVO-DLO eindigt. De door GPE beweerde tekortkoming in de uitvoering van de overeenkomst wordt overigens bestreden door IVO-DLO. De betreffende privaatrechtelijke overeenkomst zelf stelt, voor zover hier relevant, dat beëindiging mogelijk is in de volgende gevallen: - schriftelijke overeenstemming tussen beide partijen; - door IVO-DLO onmiddellijk, indien GPE zijn verplichtlngen uit de overeenkomst niet nakomt en zulks gedurende meer dan 30 dagen voortduurt na een schriftelijke aanzegging door IVO-DLO; - door GPE onmiddellijk, indien IVO-DLO zijn verplichtingen uit de overeenkomst niet nakomt en zulks gedurende meer dan 30 dagen voortduurt na een schriftelijke aanzegging door GPE. </antwoord>
+      <antwoord nummer="5">Bij ontbinding van de overeenkomst bestaat er geen formele relatie meer tussen GPE en IVO-DLO. Aan alle in de toestemming aan het IVO-DLO en via de overeenkomst op GPE doorwerkende voorwaarden komt in een dergelijke situatie derhalve geen rechtskracht meer toe. Herman en zijn nakomelingen zijn eigendom van GPE. Op deze dieren en de inrichting(en) waar zij worden gehouden zijn alsdan vooralsnog enkel de bepalingen van de in het kader van het milieubeheer afgegeven vergunningen van toepassing. Bij totstandkoming van de algemene maatregel van bestuur als bedoeld in Hoofdstuk IV. Biotechnologie van de Gezondheids– en welzijnswet voor dieren valt het experiment onder het in dat hoofdstuk bedoelde vergunningvereiste. De maatregel (Besluit biotechnologie bij dieren) is in procedure. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001449</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001449&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001449</item>
+         <item attribuut="Document-id">0000027786</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 514</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Eisma (D66) en Sipkes (Groen Links) over ontslagen vakbondsbestuurders in Paraguay.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 514</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">514</item>
+         <item attribuut="Indiener">
+            <persoon>Eisma</persoon>
+            <persoon>Sipkes</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-03-13</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-04-16</item>
+         <item attribuut="Beginpagina">1047</item>
+         <item attribuut="Eindpagina">1048</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1047" allpagenumbers="1047" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgevenj 's Gravenhage 1991"/>
+      <vraagdata vraagnummer="514" onderwerp="onts/agen vakbondsbestuurders in Paraguay." indiendatum="1991-03-13">
+         <vrager partij="" oorsprong="parlement">Eisma</vrager>
+         <vrager partij="" oorsprong="parlement">Sipkes</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1991-04-16">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">Van den Broek</antwoorder>
+         <mede-antwoorder>de minister voor Ontwikke– lingssamenwerking</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1 2">Hebt u kennis genomen van het bericht <voetnoot nummer="1"/>, dat de suikerfabriek «Azucarera Paraguay SA» de twee ontslagen vakbondsbestuurders niet in dienst heeft genomen, hoewel de Paraguyaanse rechter in eerste aanleg de eis heeft toegewezen tot wederindienstneming? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="2">Bent u bereid hierover uw zorg kenbaar te maken aan de betrokken Nederlandse consul-generaal en er bij hem op aan te dringen, dat deze vakbondsbestuurders alsnog in dienst zullen worden genomen? </vraag>
+      <vraag nummer="3">Bent u bereid in afwachting van de uitspraak in hoger beroep, wetende dat dit nog enige tijd kan vergen èn in het besef dat in Paraguay geen beroep kan worden gedaan op sociale voorzieningen, de mogelijkheid te onderzoeken de gedupeerde vakbondsbestuurders op enigerlei wijze financiële bijstand te verlenen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1991-02-22" bron=" Zie Aanhangsel Handelingen nr 21 5, vergaderjaar 1990-1991 Zie de Volkskrant van 23 februari jl. en een brief van het CNV"> Zie Aanhangsel Handelingen nr 21 5, vergaderjaar 1990-1991 Zie de Volkskrant van 23 februari jl. en een brief van het CNV, 22 februari 1991</noot>
+         <noot nummer="2" datum="1990-10-19" bron=" Paraguay"> Paraguay, 19 oktober 1990</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2" voetnoot="1">Een hernieuwd onderzoek terzake heeft niet geleid tot een ander beeld dan is geschetst in mijn nader antwoord van 28 november 1990 <voetnoot nummer="1"/>op vragen van mevrouw Van Es en de heren Eisma, Van Gijzel en Huibers, in het bijzonder onder 2. Ik wil er overigens nogmaals op wijzen dat de onderhavige aangelegenheid hangende de procedure in hoger beroep nog niet is afgesloten </antwoord>
+      <antwoord nummer="3">Voor wat betreft de vraag of humani– taire hulpverlening aan de ontslagen werknemers van de «Azucarera Paraguaya S.A.» mogelijk is, kan ik na overleg met mijn betrokken ambtgenoot mededelen dat in het kader van ontwikkelingssamen– werking geen fondsen beschikbaar zijn voor humanitaire hulpverlening aan individuele personen. Zulks laat evenwel onverlet dat Nederlandse vakbondsorganisaties de vrijheid hebben, fondsen waarover zij in het kadervan het vakbondsmedefinan– cieringsprogramma uit de begroting voor ontwikkelingssamenwerking beschikken, desgewenst aan te wenden voor ondersteuning van de betrokken Paraguayaanse werknemers. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Zie Aanhangsel Handelingen nr. 215, vergaderjaar 1990-1991</noot>
+      </noten>
+   </antwoorden>
+</kvr>

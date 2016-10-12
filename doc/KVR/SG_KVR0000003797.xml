@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="5">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19931994:0001286</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001286&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001286</item>
+         <item attribuut="Document-id">0000003797</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 72</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Verbugt en Te Veldhuis (beiden VVD) over problemen inzake herstructurering van de Peelregio.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 72</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">72</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Verbugt</persoon>
+            <persoon partij="VVD">Te Veldhuis</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-09-30</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Alders</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-10-25</item>
+         <item attribuut="Beginpagina">145</item>
+         <item attribuut="Eindpagina">146</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="145" allpagenumbers="145" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeveri] Plantijnstraat s Gravenhage 1993"/>
+      <vraagdata vraagnummer="" onderwerp="" indiendatum="">
+         <vrager partij="VVD" oorsprong="parlement">Verbugt</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Te Veldhuis</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-10-25">
+         <antwoorder functie="minister" ministerie="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer">Alders</antwoorder>
+         <mede-antwoorder>de ministers van Landbouw, Natuurbeheer en Visserij en van Verkeer en Waterstaat</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="72">Vragen van de leden Verbugt en Te Veldhuis (beiden WD) over problemen inzake herstructurering van de Peelregio. (Ingezonden 30 september 1993) </vraag>
+      <vraag nummer="1" voetnoot="1">Kent u het recente bericht, <voetnoot nummer="1"/> als zou de herstructurering van de Peelregio in een kritiek stadium zijn beland? In welke fase verkeren de werkzaamheden van de bij het startcovenant, 11 maart 1992, ingestelde stuurgroep voor de nadere uitwerking van het ontwikkelingsperspectief voor het gebied van Midden– Brabant, Oost-Brabant en de Noordelijke Maasvallei? Liggen de werkzaamheden op schema? Kan realisatie op basis van VINEX en NMP-plus van de door de stuurgroep onlangs opgestelde ruimtelijke visie alleen slagen als er een aanvullend pakket maatregelen komt? </vraag>
+      <vraag nummer="5">Hebben deze maatregelen een kostenverhogend effect? Zo ja, welke? Kunnen deze de uitvoering van de in vraag 4 genoemde visie in gevaar brengen c.q. wegen de natuurbaten dan nog op tegen de financiële kosten? Is er een diepgaand meningsverschil gerezen tussen stuurgroep en klankbordgroep over de uitwerking voor de Peelregio? Zo, ja komt dit meningsverschil voort uit de in vraag 4 en 5 genoemde problematiek? </vraag>
+      <vraag nummer="7">Hebt u binnenkort overleg met betrokken partijen aangaande deze problematiek? </vraag>
+      <vraag nummer="8">Bent u voornemens tot een constructieve en realiseerbare oplossing voor de regio tot inzet van dit overleg te komen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1993-09-24" bron=" Dagblad voor Noord Limtaurg"> Dagblad voor Noord Limtaurg, 24 september 1993</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1">Het recente bericht als zou de herstructurering van de Peelregio in een kritiek stadium zijn beland, is mij bekend. De werkzaamheden volgens het startconvenant van 11 maart 1992 zijn in de fase dat een voorlopige Integrale Visie voor het gebied is opgesteld. Inmiddels hebben de klankbordgroepen hierop gereageerd Thans vindt een oriëntatie plaats op de volgende fase: het opstellen van concrete uitvoeringsplannen voor de drie deelgebieden Peel, Midden-Brabant en Noordelijke Maasvallei (zie ook vraag 6). </antwoord>
+      <antwoord nummer="3">In de planning werd ervan uitgegaan dat de Integrale Visie najaar 1992 afgerond zou kunnen worden. Met enige vertraging ten opzichte van de planning, veroorzaakt door de complexiteit en weerbarstigheid van de materie, heeft de stuurgroep in mei 1993 de visie als discussiestuk aan de klankbordgroepen aangeboden. </antwoord>
+      <antwoord nummer="4">In de visie wordt geconstateerd dat met de inzet van het huidige instrumentarium de vastgestelde beleidsdoelen van njk en provincie met betrekking tot milieukwaliteit en ruimtelijke kwaliteit niet voldoende kunnen worden gerealiseerd («NUBL-gat»). Aanvullende maatregelen zullen derhalve noodzakelijk zijn. De visie geeft, uitgaande van de vastgestelde beleidsdoelen, in hoofdlijnen aan hoe door een gebiedsgerichte aanpak kan worden gewerkt aan het dichten van dit «gat». In de nu op te stellen uitvoeringsplannen willen de convenantspartijen samen met belanghebbenden in het gebied komen tot een concrete, breed gedragen uitwerking van de benodigde maatregelenpakketten. alvorens zij hiermee wilden instemmen. De stuurgroep NUBL heeft hiermee ingestemd. De leden van de klankbordgroep voor de Peel zijn inmiddels uitgenodigd om concrete projectvoorstellen aan te dragen om de aanpak van de in de visie genoemde kansen en bedreigingen concreet vorm te geven. Door de klankbordgroep is hierop positief gereageerd. </antwoord>
+      <antwoord nummer="7">Ik heb het voornemen om in december samen met mijn ambtgenoot van LNV een overleg met de stuurgroep NUBL te voeren. </antwoord>
+      <antwoord nummer="8"/>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

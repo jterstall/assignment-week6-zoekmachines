@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19851986:0001720</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001720&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001720</item>
+         <item attribuut="Document-id">0000115280</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1985-1986 nummer 800</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Eversdijk (C.D.A.) over boeterenten.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1985-1986 nummer 800</item>
+         <item attribuut="Jaargang">1985_1986</item>
+         <item attribuut="Vraagnummer">800</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Eversdijk</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-03-14</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Brokx</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-06-09</item>
+         <item attribuut="Beginpagina">1589</item>
+         <item attribuut="Eindpagina">1590</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1985-1986 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 5 - 1 9 8 6 , Aanhangsel 1 589 " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="800" onderwerp="" indiendatum="">
+         <vrager partij="CDA" oorsprong="parlement">Eversdijk</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="9 juni 1986)">
+         <antwoorder functie="staatssecretaris" ministerie="Ontvangen 9 juni 1986">Brokx Ordening en Milieubeheer) mede namens de Staatssecretaris van Binnenlandse Zaken.</antwoorder>
+         <mede-antwoorder>de Staatssecretaris van Binnenlandse Zaken</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1 ">Brengt het Bouwfonds Nederlandse  Gemeenten bij vervroegde aflossing  van hypotheken een boeterente van  5% in rekening?  </vraag>
+      <vraag nummer="2 ">Is deze rente van 5% bij  vervroegde aflossing niet uitzonderlijk  hoog in vergelijking met bijvoorbeeld  die bij de RPS (Postbank) van 2%, die  volgens de Nationale ombudsman in  bepaalde gevallen zelfs teruggebracht  zou moeten worden tot 1%?'  Wat is de hoogte van de boeterente  bij soortgelijke instellingen als de  N.V. Bouwfonds Nederlandse  Gemeenten?  </vraag>
+      <vraag nummer="4 ">Welke mogelijkheden ziet de  regering om aan deze ongewenste  situatie een eind te maken?  Deze situatie werkt niet stimulerend  om het met hypotheek belaste huis  «eigen» te maken.  </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Zie Aanhangsel, vergaderjaar  1 9 8 5 -1 9 8 6 ,  nr.  4 5 6 . </noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1 ">Het Bouwfonds Nederlandse Ge- meenten brengt bij vervroegde  aflossing van hypotheken een  boeterente in rekening volgens de  voor de betreffende lening overeen- gekomen voorwaarden, welke  kunnen verschillen naar gelang de  datum van afsluiting van de lening. Er  wordt geen boeterente in rekening  gebracht:  - indien de dagrente voor nieuwe  leningen hoger is dan de voor de af  te lossen lening geldende rente;  - bij verkoop van de woning;  - over een bedrag gelijk aan 12 maal  het voor de lening geldende maande- lijks te betalen bedrag;  - indien de aflossing plaatsvindt met  een uitkering uit een overlijdensrisi- coverzekering;  - op de renteherzieningsdatum.  De meest voorkomende boeteregeling  is de contante waarde-methode,  waarbij als boete de contante waarde  van het renteverschil over de  resterende rentevastheidsperiode in  rekening wordt gebracht.  </antwoord>
+      <antwoord nummer="2 ">De Postbank hanteert als boeterege- ling eveneens de contante waarde- methode. De 2%- respectievelijk  1%-regeling bij de Postbank betreft  de kostenvergoeding, welke door de  Postbank boven de boete in rekening  wordt gebracht, ingeval van tussen- tijdse oversluiting van de lening naar  een lager rentepercentage.  Door de meeste financiers van  hypothecaire geldleningen wordt, net  als door het Bouwfonds Nederlandse  Gemeenten en de Postbank, de  contante waarde-methode gehan- teerd.  </antwoord>
+      <antwoord nummer="4 ">Een interdepartementale werkgroep  beziet op dit moment de situatie op  dit terrein. Deze ambtelijke stuurgroep  brengt aan het einde van het jaar  verslag uit. Daarna zal de Regering  zich beraden over haar standpunt.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

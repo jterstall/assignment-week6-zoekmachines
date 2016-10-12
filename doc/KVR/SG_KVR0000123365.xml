@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="vereisen. " aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19841985:0001393</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19841985:0001393&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19841985:0001393</item>
+         <item attribuut="Document-id">0000123365</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1984-1985 nummer 273</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Jorritsma-Lebbink en Den Ouden-Dekkers (beiden V.V.D.) over het verificatieformulier voor kinderbijslag.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1984-1985 nummer 273</item>
+         <item attribuut="Jaargang">1984_1985</item>
+         <item attribuut="Vraagnummer">273</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Jorritsma-Lebbink</persoon>
+            <persoon partij="VVD">Den Ouden-Dekkers</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1984-10-11</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Smit-Kroes</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1981-12-03</item>
+         <item attribuut="Beginpagina">539</item>
+         <item attribuut="Eindpagina">540</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1984-1985 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1984-1985, Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="273" onderwerp="het verificatieformulier voor kinderbijslag." indiendatum="11 oktober 1984)">
+         <vrager partij="VVD" oorsprong="parlement">Jorritsma-Lebbink</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Den Ouden-Dekkers</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1 ">Kent de minister het «verificatieformu- lier voor kinderbijslag», dat ingevuld  moet worden bij de aanvraag van een  NS/OV-jaarkaart, een NS kortingskaart  of een dalurenkaart?  Is het de minister opgevallen dat  onderaan dit formulier vermeld staat:  «Ik voeg bij een fotocopie van het  dagafschrift van de bank of postreke- ning van de onder bovengenoemd  nummer vermelde persoon betreffen- de de laatst ontvangen kinderbijslag»?  </vraag>
+      <vraag nummer="3 ">Deelt de minister de mening, dat  hiermee een inbreuk gemaakt wordt  op de persoonlijke levenssfeer van  aanvragers?  </vraag>
+      <vraag nummer="4 ">Is de minister bereid, de NS hierop te  wijzen en te verzoeken, deze laatste  eis van het formulier te verwijderen?  Antwoord  Antwoord van minister Smit-Kroes  (Verkeer en Waterstaat). (Ontvangen 3  december 1981)  </vraag>
+      <vraag nummer="1 ">NS sluit voor degenen die hun  jaarcontract wensen te vernieuwen,  en daarbij een beroep doen op de  overgangsregeling, voor wat betreft  de gezinsformule, aan bij het criterium  dat voor de kinderbijslag wordt  gehanteerd.  </vraag>
+      <vraag nummer="2 ">Ik vind het normaal dat NS controle  uitoefent op de juistheid van de door  de aanvrager verstrekte gegevens.  3 en 4  Neen, de aanvrager, die meent, dat  zijn persoonlijke levenssfeer wordt  aangetast, kan andere vermeldingen  afdekken alvorens de verlangde  fotocopie te maken.  Ik zie derhalve geen aanleiding NS te  verzoeken die eis van het formulier te  verwijderen. Ik ben van mening dat  belangrijke kortingen ook een zorgvul- dige controle van de zijde van NS  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

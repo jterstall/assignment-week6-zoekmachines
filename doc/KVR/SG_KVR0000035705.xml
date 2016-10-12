@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001298</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001298&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001298</item>
+         <item attribuut="Document-id">0000035705</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 376</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Vos (P.v.d.A.) over de opslag van chemisch afval.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 376</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">376</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Vos</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-02-07</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van Voorst tot Voorst</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-03-06</item>
+         <item attribuut="Beginpagina">757</item>
+         <item attribuut="Eindpagina">758</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="757" allpagenumbers="757" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgeveri] 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="376" onderwerp="de opslag van chemisch afval." indiendatum="1990-02-7">
+         <vrager partij="PvdA" oorsprong="parlement">Vos</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-03-6">
+         <antwoorder functie="staatssecretaris" ministerie="Defensie">Van Voorst tot Voorst</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="8">
+      <vraag nummer="1">Hebt u kennis genomen van berichten' dat de vliegbasis Twenthe een aantal jaren als illegaal opslag– depot voor chemisch afval en afgewerkte bedrijfsstoffen dienst heeft gedaan? </vraag>
+      <vraag nummer="2">Is giftig en explosief afval in vaten en blikken vanuit de standplaatsen van de derde, vijfde en de twaalfde groep geleide wapens in de Bondsre– publiek Duitsland naar de vliegbasis Twenthe overgebracht zonder dat daarvoor de benodigde vergunningen waren verstrekt? Wie is verantwoordelijk voor het illegaal transport, respectievelijk het illegaal storten van dit afval? </vraag>
+      <vraag nummer="4">Heeft de commandant van de vlieg– basis Twenthe inmiddels een rapport over deze kwestie gezonden aan de Direktie Materiële Voorzieningen van de Koninklijke Luchtmacht? Wordt in dit rapport melding gemaakt van handelingen, die «drastisch in strijd zijn met milieu– en veiligheidsvoor– schriften»? Welke maatregelen zijn inmiddels genomen teneinde deze situatie ongedaan te maken? </vraag>
+      <vraag nummer="5">Is aan de firma Leto Recycling te Wierden opdracht verstrekt het chemisch afval uit de opslagdepots te verwijderen? Heeft Leto Recycling niet volledig aan deze opdracht kunnen voldoen, omdat het bedrijf niet over alle vergunningen beschikt? Waar is dit resterende afval nu opgeslagen? </vraag>
+      <vraag nummer="6">Waar vindt op dit moment de stort van het nieuw vanuit de Bondsrepu– bliek aan te voeren afval plaats? Zijn daarvoor nu wel de benodigde vergunningen voor transport en opslag van afval verleend? </vraag>
+      <vraag nummer="7">Heeft de kontakt plaatsgevonden met het ministerie van Volkshuis– vesting, Ruimtelijke Ordening en Milieubeheer en het gemeentebe– stuur van Enschede over de ernst en de omvang van de verontreiniging van een deel van de vliegbasis Twenthe? Is daarbij ook gesproken over het niet aanwezig zijn van de verplichte vergunningen? Welke resultaten hebben deze kontakten opgeleverd? </vraag>
+      <vraag nummer="8">Zijn in september 1989 militairen, die weigerden de opslagruimtes te betreden in verband met een gevaar voor kwikvergiftiging, wegens het weigeren van een dienstbevel disci– plinair gestraft? </vraag>
+      <vraag nummer="9">Welke mogelijkheden ziet u teneinde aan de betrokkenen alsnog genoeg– doening te geven, nu duidelijk wordt, dat sprake is geweest van een terechte weigeren? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Dagblad Tubantia van zaterdag 3 februari</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja. 2, 3,  4en  5 Vanuit de standplaatsen van 3, 5 en 12 Groep Geleide Wapens (GGW) zijn, met inachtneming van de bepalingen van de Verzamelde Gemeenschappelijke Voorschriften Krijgsmacht (VGVK) 8 en 8a dozen en blikken met in glazen potten verpakte afvalstoffen, vanuit de Bondsrepubliek Duitsland getrans– porteerd naar de vliegbasis Twenthe. Daarbij wordt aangetekend dat een deel van deze afvalstoffen in strijd met de terzake geldende voorschriften door 12 GGW niet werd geëtiketteerd. Hierdoor kon niet worden vastgesteld of het transport van deze stoffen onder de bepalingen van de VGVK zou moeten vallen, terwijl evenmin kon worden vastgesteld op welke wijze en naar welke vergunninghouders afvoer van deze stoffen diende plaats te vinden. De Commandant van de vliegbasis Twenthe heeft over deze situatie een telegram gezonden aan de Directeur Materieel KLu, naar aanleiding waarvan de firma LETO opdracht kreeg de niet geëtiketteerde afval– stoffen te identificeren en binnen zijn vergunning af te voeren. De stoffen waarvoor LETO geen vergunning had, zijn voor een deel door andere vergunninghouders afgevoerd. Het resterende deel werd afgevoerd via eigen depots van de Koninklijke potje met 5 cc kwik gebroken, dat door personeel van de vliegbasis onder toezicht van de Koninklijke Marechaussee werd opgeruimd In antwoord op vragen van de gemeente Enschede naar aanleiding van publicatie in de pers heeft de plaatsvervangend Commandant van de vliegbasis de gemeente openmg van zaken gegeven. </antwoord>
+      <antwoord nummer="8">In september 1989 is een militair krijgstuchtelijk gestraft wegens het niet gevolg geven aan een herhaald gegeven opdracht om een leeg afvalvat uit een opslagruimte voor chemisch afval te halen. </antwoord>
+      <antwoord nummer="9">De gestrafte militair heeft zich over de strafoplegging beklaagd bij de Commandant van de vliegbasis Twenthe. In het door deze Commandant ingestelde onderzoek is komen vast te staan dat de betrokken militair aan de opdracht geen gevolg had gegeven op het moment dat de situatie zich rond de opslag reeds had gewijzigd en zonder dat hij zich van de actuele situatie op de hoogte had gesteld. De strafoplegging is door de Commandant gehandhaafd. De gestrafte heeft geen gebruik gemaakt van het recht om over de strafoplegging de eindbeslissing in te roepen van het Hoog Militair Gerechtshof. Ik zie dan ook geen aanleiding alsnog genoegdoening te geven. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

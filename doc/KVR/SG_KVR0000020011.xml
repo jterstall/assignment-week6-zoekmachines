@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="2">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001625</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001625&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001625</item>
+         <item attribuut="Document-id">0000020011</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 607</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Vam Rey (VVD) over een mogelijk verband tussen de bruinkoolwinning in Duitsland en de aardbeving in Limburg.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 607</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">607</item>
+         <item attribuut="Indiener">
+            <persoon>Van Rey</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-04-22</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Alders</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-05-22</item>
+         <item attribuut="Beginpagina">1275</item>
+         <item attribuut="Eindpagina">1276</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992 Aanhangsel van de Handelingen" typehandeling="Vergaderjaar 1991-1992 Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="ei992 Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel 1275" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat —"/>
+      <vraagdata vraagnummer="^^•&quot;•^^•^^^™&quot;" onderwerp="leg, 607 dat binnen enkele weken is te verwachten, zal ik uw Kamer op de Vragen van het lid Van Rey (WD) hoogte brengen. over een moge/ijk verband tussen de bruinkoolwinning in Duitsland en de aardbeving in Limburg." indiendatum="22april 1992}">
+         <vrager partij="" oorsprong="parlement">Van Rey</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-05-22">
+         <antwoorder functie="minister" ministerie="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer">Alders</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1" voetnoot="1">Hebt u kennis genomen van het bericht, dat bruinkoolwinning in Duitsland oorzaak van de aardbeving in Limburg zou kunnen zijn? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Wilt u gezamenlijk met de Duitse autoriteiten onderzoeken of er een causaal verband bestaat en deze Kamer hierover informeren? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1992-04-14" bron=" Limburgs Dagblad"> Limburgs Dagblad, 14 april 1992</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Inmiddels is overleg gestart met enkele wetenschappelijke instellingen om te beoordelen of een gezamenlijk onderzoek met de Duitse autoriteiten naar het causale verband tussen bruinkoolwinning en de aardbeving opportuun is; m.a.w. of er wetenschappelijk aanleiding bestaat om een dergelijk verband te vermoeden. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

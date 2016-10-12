@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19881989:0001365</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001365&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001365</item>
+         <item attribuut="Document-id">0000090964</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1988-1989 nummer 361</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Dijkstal (V.V.D.) over de vacature van voorzitter van de Raad voor de Kunst.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1988-1989 nummer 361</item>
+         <item attribuut="Jaargang">1988_1989</item>
+         <item attribuut="Vraagnummer">361</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Dijkstal</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-02-10</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Brinkman</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-03-14</item>
+         <item attribuut="Beginpagina">727</item>
+         <item attribuut="Eindpagina">728</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 8 - 1 9 8 9 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 8 - 1 9 8 9 ,  A a n h a n g s e l " filenaam="" issn-nummer="ISSN 0921 7398 " uitgever="SDU uitgeverij 's-Gravenhage 1989 "/>
+      <vraagdata vraagnummer="361" onderwerp="de vacature van voorzitter van de Raad voor de Kunst." indiendatum="10 februari 1989)">
+         <vrager partij="VVD" oorsprong="parlement">Dijkstal</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1 ">Bent u op zoek naar een C.D.A.-er  voor de vacature van voorzitter van  de Raad voor de Kunst? </vraag>
+      <vraag nummer="1 "/>
+      <vraag nummer="2 ">Waarom zoekt u een C.D.A.-er?  </vraag>
+      <vraag nummer="3 ">Indien u op een goede kandidaat van  een andere, of zonder uitgesproken,  politieke signatuur stuit, maakt die  dan ook een kans op benoeming?  </vraag>
+      <vraag nummer="4 ">Welk gewicht heeft de politieke  signatuur naar uw oordeel voor deze  belangrijke functie in de kunstsector?  </vraag>
+      <vraag nummer="5 ">Wilt u deze vragen beantwoorden  voordat u tot benoeming overgaat?  </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Zie de Volkskrant van 9 februari 1989 </noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

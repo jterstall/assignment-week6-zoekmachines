@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="4">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het Poppe (SP) aan de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer over de gezondheidsrisico's van de AVM-stortplaats Derde Merwedehaven (Ingezonden 6 oktober 2000); Antwoord</item>
+         <item attribuut="Bestand">13Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR12451
+</item>
+         <item attribuut="Inhoud">TNO legt, in tegenstelling tot het RIVM, wel een verband tussen de aanwezigheid van toxische stoffen op de AVM-stortplaats Derde Merwedehaven en de gezondheidsrisico's van de omwonenden.</item>
+         <item attribuut="Rubriek">Gezondheidszorg (Ziekten en ziektepreventie) Milieu (Afvalstoffen) Milieu (Gevaarlijke stoffen)</item>
+         <item attribuut="Trefwoorden">Gevaarlijke afvalstoffen Ziekten</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2000-2001, nr. 111, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2000100790</item>
+         <item attribuut="Afkomstig_van">Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer (VROM)</item>
+         <item attribuut="Indiener">
+            <persoon partij="SP">Poppe</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2000-10-17</item>
+         <item attribuut="Datum_indiening">2000-10-06</item>
+         <item attribuut="Document-id">KVR12451</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2000–2001" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="225" allpagenumbers="225" vetnummer="2000100790" code="" lopendefooter="Tweede Kamer, vergaderjaar 2000–2001, Aanhangsel" filenaam="KVR12451" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2000"/>
+      <vraagdata vraagnummer="111" onderwerp="" indiendatum="2000-10-6">
+         <vrager partij="SP" oorsprong="parlement">Poppe</vrager>
+         <vraagt-aan>de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2000-10-17">
+         <antwoorder functie="minister" ministerie="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer">Pronk</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Bent u, naast de rapportage van het RIVM, in het bezit van een TNO-rapport met betrekking tot de gezondheidsrisico’s van de AVM-stortplaats Derde Merwedehaven? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Klopt het dat het TNO-rapport, in tegenstelling tot de rapportage van de RIVM, wel een verband legt tussen de aanwezigheid van de toxische stoffen op de stortplaats en de gezondheidsrisico’s van de omwonenden? Zo ja, kunt u aangeven waar dit verschil in interpretatie vandaan komt? </vraag>
+      <vraag nummer="3">Op welke termijn kan de Kamer een beleidsreactie op beide rapporten verwachten? </vraag>
+      <vraag nummer="4">Bent u bereid om het TNO-rapport aan de Kamer toe te sturen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="2000-10-3" bron="De Dordtenaar">De Dordtenaar, 3 oktober 2000</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja, en de Kamer ook. </antwoord>
+      <antwoord nummer="2">Het door vragensteller genoemde TNO-rapport, dat de titel draagt «literatuuronderzoek naar gezondheidseffecten van stortplaatsen» is een integraal deel van het Derde Merwedehaven onderzoek en is als bijlage 4 opgenomen in het RIVM rapport «Emissie en verspreiding van geur en toxische stoffen in de omgeving van de Tweede en Derde Merwedehaven te Dordrecht en de hiermee samenhangende gezondheidsaspecten». In het hoofdrapport zijn in hoofdstuk 6.4 de conclusies van bijlage 4 één op één overgenomen. Er is dus geen sprake van verschil van interpretatie tussen beide rapporten. </antwoord>
+      <antwoord nummer="3">Een beleidsreactie kan voor het einde van dit jaar worden verwacht. </antwoord>
+      <antwoord nummer="4">Het RIVM rapport, inclusief het TNO rapport, is 4 oktober bij de Kamer aangekomen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

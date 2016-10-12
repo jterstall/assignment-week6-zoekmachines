@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vraag van het lid Kant (SP) aan de minister-president en de minister van Economische Zaken over financiële belangen. (Ingezonden 6 augustus 2002); Antwoord</item>
+         <item attribuut="Bestand">12Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR16134
+</item>
+         <item attribuut="Inhoud">Vragen over openbaarheid inzake de financiële belangen van de ministers in het nieuwe kabinet, naar aanleiding van 'voortdurende speculaties'.</item>
+         <item attribuut="Rubriek">Staats- en bestuursrecht (Regering)</item>
+         <item attribuut="Trefwoorden">Ministers</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2001-2002, nr. 1550, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2010213540</item>
+         <item attribuut="Afkomstig_van">Algemene Zaken (AZ)</item>
+         <item attribuut="Indiener">
+            <persoon partij="SP">Kant</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2002-08-23</item>
+         <item attribuut="Datum_indiening">2002-08-06</item>
+         <item attribuut="Document-id">KVR16134</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2001–2002" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="3289" allpagenumbers="3289" vetnummer="2010213540" code="" lopendefooter="Tweede Kamer, vergaderjaar 2001–2002, Aanhangsel" filenaam="KVR16134" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2002"/>
+      <vraagdata vraagnummer="1550" onderwerp="" indiendatum="2002-08-6">
+         <vrager partij="SP" oorsprong="parlement">Kant</vrager>
+         <vraagt-aan>de minister-president en de minister van Economische Zaken</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="23 augustus 2002) De relevante financiële belangen en eventuele nevenfuncties van bewindspersonen worden kort na hun aantreden schriftelijk aan de Tweede Kamer gemeld. Zie mijn brief van 25 juli 2002">
+         <antwoorder functie="minister-president" ministerie="Algemene Zaken">Balkenende</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="1">
+      <vraag nummer="1">Zou het om aan de voortdurende speculaties een einde te maken niet beter zijn om volledige openheid te geven over de financiële belangen van de ministers? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"/>
+         <noot nummer="1" datum="2002-08-3" bron="De Volkskrant">De Volkskrant, 3 augustus 2002</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" documenttype="Kamerstuk" kamerstuk-id="28 375" documentnummer="26">Kamerstuk 28 375, nr. 26</noot>
+      </noten>
+   </antwoorden>
+</kvr>

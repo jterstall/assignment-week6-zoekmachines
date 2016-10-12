@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="1">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vraag van het lid Poppe (SP) aan de minister van Defensie over een videofilm die vertoond is tijdens een werkbezoek aan vliegbasis Gilze-Rijen. (Ingezonden 16 november 2007); Antwoord</item>
+         <item attribuut="Bestand">12Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR30280
+</item>
+         <item attribuut="Inhoud">Aanvullende vraag, naar aanleiding antwoorden minister Van Middelkoop (Def) op vragen indiener (Aanhangsel van de Handelingen 2007-2008, nr. 480) over videobeelden die vertoond zijn tijdens een werkbezoek van de vaste commissie voor Defensie aan de vliegbasis Gilze-Rijen. De film zou een beeld geven van gevechtshandelingen en het gebruik van raketten door Nederlandse militairen in Afghanistan. Indiener vraagt om deze videofilm vrij te geven, dan wel een exemplaar toe te sturen aan de Kamer.</item>
+         <item attribuut="Rubriek">Veiligheidsbeleid en defensie (Oorlogen en conflicten)</item>
+         <item attribuut="Trefwoorden">Afghanistan Oorlogen</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2007-2008, nr. 786, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070804850</item>
+         <item attribuut="Afkomstig_van">Defensie (DEF)</item>
+         <item attribuut="Indiener">
+            <persoon partij="SP">Poppe</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2007-12-03</item>
+         <item attribuut="Datum_indiening">2007-11-16</item>
+         <item attribuut="Document-id">KVR30280</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1683" allpagenumbers="1683" vetnummer="2070804850" code="0708tkkvr786" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Aanhangsel" filenaam="KVR30280" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2007"/>
+      <vraagdata vraagnummer="786" onderwerp="" indiendatum="2007-11-16">
+         <vrager partij="SP" oorsprong="parlement">Poppe</vrager>
+         <vraagt-aan>de minister van Defensie</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2007-12-3">
+         <antwoorder functie="minister" ministerie="Defensie">Van Middelkoop</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="1">
+      <vraag nummer="1">Bent u bereid, naar aanleiding van uw antwoord in eerste instantie over wat de videobeelden laten zien , een kopie van deze videofilm vrij te geven? Zo ja, kunt u de Kamer een exemplaar toezenden? Zo neen, waarom niet? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"/>
+         <noot nummer="1" documenttype="Kamervragen">Aanhangsel Handelingen, vergaderjaar 2007-2008, nr. 460.</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1">Nee, vanwege het gerubriceerde karakter van de informatie kunnen de beelden niet openaar gemaakt of aan de Kamer worden gezonden. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

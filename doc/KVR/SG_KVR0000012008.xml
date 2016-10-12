@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001704</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001704&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001704</item>
+         <item attribuut="Document-id">0000012008</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 774</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen het lid Van Rey (VVD) over bevoegdheid privaatrechtelijke rechtshandelingen namens de Staat.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 774</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">774</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Van Rey</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-07-01</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Kok</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-07-20</item>
+         <item attribuut="Beginpagina">1579</item>
+         <item attribuut="Eindpagina">1580</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1579" allpagenumbers="1579" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgeverij Plantijnstraat s Gravenhage 1993"/>
+      <vraagdata vraagnummer="774" onderwerp="be voegdheid privaa trech telijke rechtshandelingen namens de Staat." indiendatum="1993-07-2">
+         <vrager partij="VVD" oorsprong="parlement">Van Rey</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-07-20">
+         <antwoorder functie="minister" ministerie="Financiën">Kok</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1">Heeft uw ministerie in maart jl. een brief aan de Koninklijke Notariële Broederschap gezonden inzake «bevoegdheid privaatrechtelijke rechtshandelingen namens de Staat»? Zo ja, wilt u die brief aan de Kamer overleggen? </vraag>
+      <vraag nummer="2">Heeft het ministerie van Welzijn, Volksgezondheid en Cultuur onbevoegd staatseigendommen verkocht? Worden er in de betreffende brief alleen verkooptransacties van het ministerie van Welzijn, Volksgezondheid en Cultuur of ook van andere ministeries bedoeld? </vraag>
+      <vraag nummer="4">Waarom heeft u zich niet rechtstreeks tot uw collega Mmisters gewend doch tot een «derde partij» (Koninklijke Notariële Broederschap)? </vraag>
+      <vraag nummer="5">Bent u voornemens bij alle rijksdiensten de aandacht te vestigen op de exclusieve bevoegdheden (krachtens de Comptabiliteitswet) van uw ministerie opdat misverstanden in de toekomst worden voorkomen? </vraag>
+      <vraag nummer="6">Zijn er voorlopige koopovereenkomsten gesloten waarvan de transportaktes nog niet zijn gepasseerd? Zo ja, zijn er al schadeclaims ingediend? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1 en 4" voetnoot="1">Tevens heeft Financiën zich in een brief tot de Koninklijke Notariële Broederschap gewend als representant van het openbare notarisambt, in verband met de bestaande regelgeving. De inhoud van deze brief - die hierbij is gevoegd - is inmiddels tevens onderwerp van het hiervoor aangeduide overleg. <voetnoot nummer="1"/>
+      </antwoord>
+      <antwoord nummer="2">In het kader van de ontmanteling van de Directie Civiele Verdediging en Vredescalamiteiten (CWC) van het Ministerie van WVC worden de zgn. MIBO-complexen ten verkoop aangeboden. In eerste instantie heeft het Ministerie van WVC hiertoe het initiatief genomen. Thans is er overleg gaande tussen Financiën en WVC over de vraag hoe het totaal van de transacties formeel kan worden afgerond. </antwoord>
+      <antwoord nummer="3 en 5">Waar nodig wordt de aandacht gevestigd op de bestaande regelgeving. </antwoord>
+      <antwoord nummer="6">Er zijn tot op heden geen schadeclaims ingediend als gevolg van het niet passeren van transportaktes. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Ter inzage gelegd bij de Afdelmg Parlementaire Documentatie</noot>
+      </noten>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="2">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001767</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001767&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001767</item>
+         <item attribuut="Document-id">0000036174</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 843</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid van Gijzel (P.v.d.A.) over twee moorden in Guatemala .</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 843</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">843</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">van Gijzel</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-07-10</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Andriessen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-08-10</item>
+         <item attribuut="Beginpagina">1703</item>
+         <item attribuut="Eindpagina">1704</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1703" allpagenumbers="1703" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="843" onderwerp="twee moorden in Guatemala ." indiendatum="1990-07-10">
+         <vrager partij="PvdA" oorsprong="parlement">van Gijzel</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-08-10">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken a.i.">Andriessen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1">Hebt u kennis genomen van een bericht als zouden volgens mensen– rechtengroepen Gualtemalteekse veiligheidsagenten verantwoordelijk zijn voor de moord op Hector Oquili en Gilda Flores en als zou President Cerezo volgens westerse diplomaten ervan afzien de daders te laten berechten? Hoe beoordeelt u deze berichten, mede in het licht van de verklaring van de Twaalf van 18 januari over de onderhavige moorden? </vraag>
+      <vraag nummer="3">Bent u bereid - zo mogelijk in het kader van de Twaalf - bij de Guate– malteekse autoriteiten erop aan te dringen deze benchten te onder– zoeken en de daders zo spoedig mogelijk te berechten? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> International Herald Tribune van 26 juni 1990 Zie ook Aanhangsel Handelingen nr. 306, vergaderjaar 1989-1990</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Van het bedoelde persartikel heb ik kennis genomen. Dzz. is getracht deze verontrustende berichten op hun juistheid te toetsen. De desbetreffende lezingen blijken evenwel in sterke mate uiteen te lopen. Ik wil dan ook in dit stadium volstaan met de vermelding dat President Cerezo naar veriuidt medio juni j.l bij gelegenheid van de recente topconferentie van Centraal– amerikaanse staatshoofden persoonlijk aan zijn Salvadoraanse ambtgenoot Cristiani een door de Guatemalteekse autoriteiten opgesteld rapport heeft overhandigd waarin de verantwoordelijkheid voor de betrokken moorden wordt gelegd bij een drietal personen van Salvado– raanse nationaliteit. President Cristiani zou hebben toegezegd dit rapport te zullen voorleggen aan de justitiële autoriteiten in El Salvador. Zolang het nodige inzicht in de werkelijke toedracht en betrok– kenheid ontbreekt, moet ik mij onthouden van uitspraken dienaan– gaande. </antwoord>
+      <antwoord nummer="3">Over een eventuele Nederlandse stap terzake bij de Guatemalteekse autoriteiten wil ik mij nog beraden. Wel kan ik verzekeren dat n.a.v. deze en andere berichten over verslech– tering van de mensenrechtensituatie in Guatemala zowel in bilaterale kontakten alsook in multilateraal kader, met name de Europese Politieke Samenwerking, bij de desbetreffende autoriteiten onver– minderd zal worden aangedrongen op volledige eerbiediging van de fundamentele rechten en vrijheden, alsmede op bestraffing van diegenen die zich schuldig hebben gemaakt aan schendingen op dit gebied. Het verdere verloop van de kwestie waarop de onderhavige vragen betrekking hebben, zal uiteraard nauwlettend worden gevolgd. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001403</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001403&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001403</item>
+         <item attribuut="Document-id">0000019789</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 388</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Wolffensperger en Tommel (beiden D66) over de NV Luchthaven Eelde.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 388</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">388</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Wolffensperger</persoon>
+            <persoon partij="D66">Tommel</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-02-04</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Maij-Weggen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-02-19</item>
+         <item attribuut="Beginpagina">823</item>
+         <item attribuut="Eindpagina">824</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="823" allpagenumbers="823" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's-Gravenhage 1992"/>
+      <vraagdata vraagnummer="388" onderwerp="de NV Luchthaven Eelde." indiendatum="1992-02-4">
+         <vrager partij="D66" oorsprong="parlement">Wolffensperger</vrager>
+         <vrager partij="D66" oorsprong="parlement">Tommel</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="19februari 1992">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">Maij-Weggen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Hebt u zich gerealiseerd, dat uw beslissing de startbaan van de luchthaven Eelde vooruitloopt op de nota over de regionale luchthavens, en dat de provinciale en gemeentelijke autoriteiten dus in het duister tasten waar het gaat om de visie van de rijksoverheid op de toekomstige taak van het vliegveld? </vraag>
+      <vraag nummer="2">Deelt u de opvatting, dat de provinciale en gemeentelijke overheden, die financieel zijn betrokken bij de NV Luchthaven Eelde, deze visie dienen te kennen alvorens zij een verantwoorde beslissing nemen over uw voorstel? </vraag>
+      <vraag nummer="3">Wilt u de genoemde visie ten spoedigste ter kennis brengen van de betrokken provincie– en gemeentebesturen? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1"> en2 De beslissing over de startbaan bestaat uit twee onderdelen die nauw met elkaar samenhangen: de rijksbijdrage van 40% voor de dringend noodzakelijke baanrenovatie en de financiering van de baanverlenging. De baanrenovatie is dringend nodig om het vliegverkeer in de nabije toekomst niet in een gevaarlijke situatie te brengen. In dit verband is niet alleen het commerciële luchtverkeer in het geding, ook de KLM Luchtvaartschool (de vroegere Rijksluchtvaartschool) werkt vanuit Eelde. Het besluit om ook baanverlenging mogelijkte maken is gebaseerd op een afspraak die daarover al eerder met de regio is gemaakt. Dit besluit is onder andere enige tijd uitgesteld omdat eerst helderheid moest worden verkregen over de noodzakelijke renovatie. Voor de economische onderbouwing van de baanverlenging heb ik mij gebaseerd op gegevens die in april 1991 aan mij en mijn ambtgenote van Economische Zaken zijn verstrekt. Met beide onderzoeken: het renovatie-onderzoek en de economische onderbouwing van de baanverlenging zijn voldoende elementen aanwezig voor een besluit van de Rijksoverheid en de regionale autoriteiten. De provinciale en gemeentelijke autoriteiten dienen overigens nog te beslissen over hun bijdrage aan de renovatie. </antwoord>
+      <antwoord nummer="3">De regionale overheden beschikken over de onderzoeken die ook bij de Rijksoverheid heeft geleid tot een standpuntbepaling. Zodra de nota over de regionale luchthavens gereed is zal deze uiteraard zo spoedig mogelijk ter kennis worden gebracht van de betrokken provincies en gemeentebesturen. De nota «RELUS» wordt dit jaar verwacht. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="2">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001307</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001307&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001307</item>
+         <item attribuut="Document-id">0000011611</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 377</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Swildens Rozendaal (PvdA), Beckers-de Bruijn (GroenLinks) en Ter Veer (D66) over een verbod op het houden van pelsdieren.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 377</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">377</item>
+         <item attribuut="Indiener">
+            <persoon>Swildens Rozendaal</persoon>
+            <persoon>Beckers-de Bruijn</persoon>
+            <persoon>Ter Veer</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-02-01</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Gabor</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-03-03</item>
+         <item attribuut="Beginpagina">773</item>
+         <item attribuut="Eindpagina">774</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="773" allpagenumbers="773" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="377" onderwerp="een verbod op het houden van pelsdieren." indiendatum="1993-02-1">
+         <vrager partij="" oorsprong="parlement">Swildens Rozendaal</vrager>
+         <vrager partij="" oorsprong="parlement">Beckers-de Bruijn</vrager>
+         <vrager partij="" oorsprong="parlement">Ter Veer</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="3 maart 1993).">
+         <antwoorder functie="staatssecretaris" ministerie="Landbouw, Natuurbeheer en Visserij">Gabor</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1" voetnoot="1 2">Herinnert u zich uw antwoord op eerdere vragen <voetnoot nummer="1"/> over een eventueel verbod op het houden van pelsdieren, waarin u melding maakt van mogehjke aanpassingen van het onderzoek naar het houden van nerts en vossen? Hebt u inmiddels bewerkstelligd, dat het lopende onderzoek naar het houden van nertsen en vossen is aangepast? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="3">Wilt u de Kamer informeren over de wijze waarop het onderzoek is aangepast, welke doelstellingen het nu heeft, door wie het wordt uitgevoerd en binnen welke termijn resultaten beschikbaar zullen zijn? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Aanhangsel Handelingen nr. 624, vergaderjaar 1991-1992</noot>
+         <noot nummer="2"> Brief aan de Stichting Bont voor Dieren dd 4-1-93</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1 en 2">Ja. </antwoord>
+      <antwoord nummer="3">Het onderzoek aan pelsdieren, dat op het DLO-Centrum voor Onderzoek en Voorlichting voor de Pluimveehouderij «Het Spelderholt» (COVP) te Beekbergen verricht wordt, concentreert zich nu op de vraag wat de gevolgen zijn van de huidige vorm van het houden van nertsen voor het welzijn. Het heeft tot doel verantwoorde eisen te kunnen stellen aan de huisvesting en verzorging van nertsen. Met name wordt veel aandacht besteed aan stereotiep gedrag; vooral de invloed van erfelijke factoren, kooiverrijking en speenleeftijd wordt bestudeerd. Wat betreft het houden van vossen wordt een Deens onderzoek ondersteund. De financiering van het vossenonderzoek op «Het Spelderholt» is beemdigd Dit Deense project heeft met name betrekking op onderzoek met een aantal inmiddels ontwikkelde welzijnsvriendelijker houderijsystemen voor vossen. Vooralsnog ga ik er vanuit dat het beschreven onderzoek aan nertsen en vossen voldoende snel zal vorderen om tijdig, d.w.z. binnen de eerder aan de Tweede Kamer gemelde termijnen, met voorstellen inzake het houden van deze dieren te kunnen komen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

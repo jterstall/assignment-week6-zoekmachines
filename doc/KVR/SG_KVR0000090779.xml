@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19881989:0001180</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001180&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001180</item>
+         <item attribuut="Document-id">0000090779</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1988-1989 nummer 179</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Laning-Boersema en Soutendijk-van Appeldoorn (beiden C.D.A.) over commerciële bemiddeling inzake draagmoederschap</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1988-1989 nummer 179</item>
+         <item attribuut="Jaargang">1988_1989</item>
+         <item attribuut="Vraagnummer">179</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Laning-Boersema</persoon>
+            <persoon partij="CDA">Soutendijk-van Appeldoorn</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1988-11-17</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Korthals Altes</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1988-12-08</item>
+         <item attribuut="Beginpagina">359</item>
+         <item attribuut="Eindpagina">360</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 8 - 1 9 8 9 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="1" allpagenumbers="1" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 8 - 1 9 8 9 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="179" onderwerp="commer- ciële bemiddeling inzake draagmoe- derschap" indiendatum="17 november 1988)">
+         <vrager partij="CDA" oorsprong="parlement">Laning-Boersema</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Soutendijk-van Appeldoorn</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1 ">Bent u op de hoogte van het feit, dat  inmiddels twee internationale  organisaties met vestigingen in  Nederland op commerciële basis  bemiddelen tussen draagmoeders en  wensouders? </vraag>
+      <vraag nummer="1 "/>
+      <vraag nummer="2 ">Is het u bekend, dat dit bemiddelings- bureau, na vestiging in oktober 1987  te Frankfurt, binnen een half jaar  werd gesloten door de Westduitse  justitie e~\ dat door het ontbreken van  een wettelijk verbod tot commerciële  bemiddeling in Nederland, het  bureau toen besloten heeft «vanwege  het gunstige Nederlandse klimaat»  zijn activiteiten vanuit Nederland  voort te zetten?  </vraag>
+      <vraag nummer="3 ">Deelt u de mening, dat het geboden  is ten spoedigste (wettelijke) maatre- gelen te treffen om deze ongewenste  ontwikkelingen een halt toe te roepen  en dat daarmee niet gewacht kan  worden tot na de behandeling in  deze Kamer van de notitie «Kunstma- tige bevruchting en draagmoeder- schap»? </vraag>
+      <vraag nummer="2 "/>
+      <vraag nummer="4 ">Kunt u aangeven op welke termijn u  met deze maatregelen denkt te  kunnen komen?  </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Zie de Nieuwe Revu van november 1988 </noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

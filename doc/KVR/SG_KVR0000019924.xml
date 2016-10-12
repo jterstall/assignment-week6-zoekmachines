@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001538</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001538&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001538</item>
+         <item attribuut="Document-id">0000019924</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 520</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Leerling (RPF) over de verkoop door Russische officieren van nucleaire artilleriegranaten aan Iran.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 520</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">520</item>
+         <item attribuut="Indiener">
+            <persoon partij="RPF">Leerling</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-03-20</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-04-08</item>
+         <item attribuut="Beginpagina">1095</item>
+         <item attribuut="Eindpagina">1096</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1095" allpagenumbers="1095" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnsuaat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="520" onderwerp="de verkoop door Russische officieren van nucleaire artilleriegranaten aan Iran." indiendatum="1992-03-20">
+         <vrager partij="RPF" oorsprong="parlement">Leerling</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-04-8">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">Van den Broek</antwoorder>
+         <mede-antwoorder>de minister van Defensie</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Hebt u kennisgenomen van het bericht', dat Russische officieren vier gestolen nucleaire artilleriegranaten aan Iran hebben verkocht? Kunt u dit bericht bevestigen? </vraag>
+      <vraag nummer="2" voetnoot="2">Zo ja, hoe verhoudt dit feit zich met de door het militaire opperbevel van het Gemenebest van Onafhankelijke Staten (GOS) en de door de Nederlandse regering gehuldigde opvatting dat de nucleaire systemen afdoende beveiligd lijken te zijn? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="3">Hebben de republieken van het Gemenbest van Onafhankelijke Staten (GOS) positief gereageerd op het aanbod van de NAVO-raad van 19 december 1991 om praktische assistentie te verlenen ter verzekering van een verantwoord beheer van de kernwapens in het GOS? Zo ja, waar bestaat die assistentie uit? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1 en 2">Het in de voetnoot bij vraag 1 bedoelde persbericht is bekend. Ons hebben evenwel geen aanwijzingen bereikt die dit kunnen bevestigen. Voor herziening van onze opvatting over de beveiliging van nucleaire systemen in het GOS zien wij dan ook vooralsnog geen aanleiding. </antwoord>
+      <antwoord nummer="3">Ja. De Verenigde Staten zullen onder meer assisteren bij het bouwen van opslagfaciliteiten en bij de produktie in Rusland van opslagvaten voor nucleair materiaal. Het Verenigd Koninkrijk heeft containers en voertuigen voor wapentransport aangeboden en advisering op het gebied van de verbetering van nucleaire beveiligingsprocedures. Frankrijk heeft de bereidheid uitgesproken o.a. hulp te bieden bij de verwerking van nucleaire restmaterialen. De uitwisseling van gegevens tussen de Bondgenoten vindt plaats in een hiervoor speciaal in het leven geroepen ad hoc-groep van de NAVO. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1" datum="1992-03-18" bron=" Telegraaf"> Telegraaf, 18 maart 1992</noot>
+         <noot nummer="2"> Zie o.a blz 5 van kamerstuknummer 22 511 nr. 3 en Aanhangsel Handelingen 1991-1992 blz 535-536</noot>
+      </noten>
+   </antwoorden>
+</kvr>

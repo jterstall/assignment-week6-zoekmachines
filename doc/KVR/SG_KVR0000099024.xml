@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19871988:0001310</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001310&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001310</item>
+         <item attribuut="Document-id">0000099024</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1987-1988 nummer 370</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Weisglas en Ploeg (beiden V.V.D.) over een officieel bezoek van de minister van Defensie aan Israël.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1987-1988 nummer 370</item>
+         <item attribuut="Jaargang">1987_1988</item>
+         <item attribuut="Vraagnummer">370</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Weisglas</persoon>
+            <persoon partij="VVD">Ploeg</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1988-02-17</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van Eekelen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1988-03-03</item>
+         <item attribuut="Beginpagina">743</item>
+         <item attribuut="Eindpagina">744</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 7 - 1 9 8 8 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 7 - 1 9 8 8 , Aanhangsel 743 " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="370" onderwerp="een officieel bezoek van de minister wan Defensie aan Israël." indiendatum="17 februari 1988)">
+         <vrager partij="VVD" oorsprong="parlement">Weisglas</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Ploeg</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="8">
+      <vraag nummer="1 ">Kan de minister van Defensie  bevestigen, dat berichten dat hij een  officieel bezoek aan Israël volgende  maand zou hebben afgezegd, onjuist  zijn? </vraag>
+      <vraag nummer="1 "/>
+      <vraag nummer="2 ">Hoe is het volgens hem te verklaren,  dat in Israëlische regeringskringen de  indruk bestaat, dat een bezoek van  hem aan Israël in maart a.s. is  afgezegd? </vraag>
+      <vraag nummer="1 "/>
+      <vraag nummer="3 ">Heeft de minister van Defensie  gezegd, dat het «slechts om een idee  ging, wat nu voorlopig van de baan is  in verband met de interne politieke  situatie in Israël»? </vraag>
+      <vraag nummer="1 "/>
+      <vraag nummer="4 ">Hoe valt deze uitspraak te rijmen met  de door de minister van Buitenlandse  Zaken tijdens mondeling overleg op  10 februari  j l . naar voren gebrachte  mededeling, dat het voorgenomen  bezoek van de minister-president aan  Israël, in mei a.s., door zal gaan,  tenzij het in een later stadium nodig  is anderszins te beslissen?  </vraag>
+      <vraag nummer="5 ">Delen de bewindslieden de opvatting,  dat juist nu een isolement van Israël  onwenselijk is en dat bezoeken van  Nederlandse bewindslieden aan de  regering van dat land mede kunnen  worden benut om van de Nederlandse  bezorgdheid over de toestand in de  bezette gebieden blijk te geven?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="5 ">Een isolement van Israël is geenszins  bevorderlijk voor het vredesproces in  de regio. De regering zal haar  dialoog met Israël over de toestand  in de bezette gebieden en de  noodzaak om een politieke oplossing  te vinden voor het Arabisch-lsraëlisch  conflict dan ook onverminderd  voortzetten. De ministervan Buiten- landse Zaken draagt hiervoor een  eerste verantwoordelijkheid.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

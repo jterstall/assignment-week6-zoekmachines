@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001466</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001466&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001466</item>
+         <item attribuut="Document-id">0000107241</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 434</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Knol (P.v.d.A.), Moret-de Jong (C.D.A), Terpstra (V.V.D.), Tommel (D66), Van Dis (S.G.P.), Beckers-de Bruijn (P.P.R.), Van Es (P.S.P.), Schutte (G.P.V.) en Leerling (R.P.F.) over schendingen van de mensenrechten in Irian Jaya.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 434</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">434</item>
+         <item attribuut="Indiener">
+            <persoon>Knol</persoon>
+            <persoon>Moret-de Jong</persoon>
+            <persoon>Terpstra</persoon>
+            <persoon>Tommel</persoon>
+            <persoon>Van Dis</persoon>
+            <persoon>Beckers-de Bruijn</persoon>
+            <persoon>Van Es</persoon>
+            <persoon>Schutte</persoon>
+            <persoon>Leerling</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-01-29</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-02-25</item>
+         <item attribuut="Beginpagina">865</item>
+         <item attribuut="Eindpagina">866</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 6 - 1 9 8 7 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="434" onderwerp="schendingen van de mensenrechten in Irian Jaya." indiendatum="29 januari 1987)">
+         <vrager partij="" oorsprong="parlement">Knol</vrager>
+         <vrager partij="" oorsprong="parlement">Moret-de Jong</vrager>
+         <vrager partij="" oorsprong="parlement">Terpstra</vrager>
+         <vrager partij="" oorsprong="parlement">Tommel</vrager>
+         <vrager partij="" oorsprong="parlement">Van Dis</vrager>
+         <vrager partij="" oorsprong="parlement">Beckers-de Bruijn</vrager>
+         <vrager partij="" oorsprong="parlement">Van Es</vrager>
+         <vrager partij="" oorsprong="parlement">Schutte</vrager>
+         <vrager partij="" oorsprong="parlement">Leerling</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1 ">Is het u opgevallen, dat in het  overzicht van Amnesty International  van 28 november 1986 over de  recente schendingen van de mensen- rechten in Irian Jaya, melding  w o r d t  gemaakt van het vermoorden van de  Rooms Katholieke cathegeet Tuberius  Uropdane?  </vraag>
+      <vraag nummer="2 ">Herinnert u zich de door vragenstellers  gestelde vragen over de onthoofding  van de heer Uropdane en uw  antwoord daarop, waaruit bleek dat u  deze gebeurtenis op geen enkele  manier kon bevestigen?  </vraag>
+      <vraag nummer="3 ">Bent u bereid, naar aanleiding van  het Amnesty International overzicht  de eerder op 19 november 1986  gestelde vragen nader te beantwoor- den en daarbij tevens in te gaan op  de andere door Amnesty International  genoemde mensenrechtenschendin- gen?  </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Zie Vergaderjaar 1986-1987, Aanhangsel  nrs. 241 en 296. </noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

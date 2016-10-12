@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001459</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001459&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001459</item>
+         <item attribuut="Document-id">0000011763</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 529</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Willems (GroenLinks) over milieuvemntreinigde aspecten van verfprodukten.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 529</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">529</item>
+         <item attribuut="Indiener">
+            <persoon partij="GroenLinks">Willems</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-04-15</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Alders</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-04-28</item>
+         <item attribuut="Beginpagina">1083</item>
+         <item attribuut="Eindpagina">1084</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1083" allpagenumbers="1083" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="529" onderwerp="milieuvemntreinigde aspecten van verfprodukten." indiendatum="1993-04-15">
+         <vrager partij="GroenLinks" oorsprong="parlement">Willems</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-04-28">
+         <antwoorder functie="minister" ministerie="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer">Alders</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Onderschrijft u de stelling, dat in het kader van het door u bepleite integraalketenbeheer verfprodukten op alle milieu-aspecten beoordeeld moeten worden en dientengevolge de verven die over de gehele linie het beste scoren, dienen te worden aangemerkt als een alternatief voor de traditionele verven? Beschikt u over onderzoek waarin de bestaande verfsoorten <voetnoot nummer="1"/> op alle aspecten uit de produktlevenscyclus geanalyseerd worden? Zo ja, wat zijn daarvan de uitkomsten? Zo nee, bent u bereid daar onderzoek naar te laten verrichten? Waarom geeft u in de campagnes gericht op verfindustrie en consumenten vrijwel uitsluitend aandacht aan de problematiek van de uitstoot van Vluchtige Organische Stoffen (VOS) als gevolg van aan de verf toegevoegde oplosmiddelen? </vraag>
+      <vraag nummer="4" voetnoot="2">Deelt u de vrees, dat de verfsector door de eenzijdige aandacht voor deze ene groep probleemstoffen onvoldoende gestimuleerd wordt aan de overige milieuverontreinigende aspecten van produktie en gebruik van verf aandacht te besteden? Herinnert u zich uw toezegging <voetnoot nummer="2"/> bij uw voorlichtingscampagne, gericht op alternatieven voor de huidige - conventionele - verven, watergedragen natuurverven te betrekken? </vraag>
+      <vraag nummer="6">Waarom wordt in de voorlichting over minder milieubelastende stoffen de aandacht betreffende verfprodukten nog steeds vrijwel uitsluitend gericht op waterverdunbare acrylaat– en alkydverven, zodat (watergedragen) natuurverven elke aandacht wordt onthouden? </vraag>
+      <vraag nummer="7">Bent u bereid de natuurverven alsnog een volwaardige plaats binnen de stimuleringsactiviteiten voor minder milieubelastende verven te geven? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> - synthetische verven - watergedragen synthetische verven/acrylaatverven - High-solid/Alkydverven - natuurverven -watergedragen natuurverven</noot>
+         <noot nummer="2" datum="1991-07-11" bron=" In antwoord op een brief van het Landelijk Milieu Overleg aan de minister van VROM, d d"> In antwoord op een brief van het Landelijk Milieu Overleg aan de minister van VROM, d d, 11 juli 1991</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1">Ja, in algemene zin. Geen enkel type van de huidige verf is echter uit milieu-oogpunt volledig acceptabel. Zo is bijvoorbeeld bekend dat verf met minder of geen oplosmiddelen, zoals door mij thans wordt gestimuleerd, op een aantal andere milieu-aspecten nog verdere verbetering behoeft. Ook bij natuurverf wordt naar het zich laat aanzien nog gebruik gemaakt van milieu-onvriendelijke bestanddelen, waaronder sommige zware metalen. Mijn voorkeur gaat daarom uit naar een op de langere termijn zo min mogelijk milieubelastende verf die bovendien op een brede acceptatie mag rekenen. Een te eenzijdige aandacht voor een op dit moment het best «scorende» verf kan daarbij een stagnatie vormen voor de snelle ontwikkelingen die zich thans binnen de verfindustrie voordoen. Ik ben eerder geneigd de aandacht te richten op verfsoorten die binnen enkele jaren de beste milieuhygiënische perspectieven bieden. In het verleden is enige ervaring opgedaan met het opstellen van een levenscyclusanalyse voor een aantal verven. Het rapport daarover dat in het kader van de milieumaten– proefprojekten door AKZO is metalen, conserveringsmiddelen en dergelijke zullen op korte termijn onderwerp van het beleid ten aanzien van verf gaan vormen. Alle aspecten tegelijk aanpakken zou een grote vertraging in de ontwikkeling van minder milieubelastende verf hebben kunnen betekenen. </antwoord>
+      <antwoord nummer="4">Neen. Zoals ik in antwoord op vraag 3 reeds heb aangegeven zal hiervoor op korte termijn beleid ontwikkeld worden. Hiervan zal naar verwachting een stimulans uitgaan voor het ontwikkelen van voor het milieu nog minder belastende alternatieven. </antwoord>
+      <antwoord nummer="5">Ja. </antwoord>
+      <antwoord nummer="6">In de laatste campagne is de aandacht inderdaad vooral gericht geweest op watergedragen acrylaatverven in het algemeen - watergedragen natuurverven zijn daarbij ook genoemd - omdat toen high solids nauwlijks en watergedragen alkydverven nog niet verkrijgbaar waren voor doe-het-zelvers. Inmiddels is die situatie veranderd. </antwoord>
+      <antwoord nummer="7">Ik ben te allen tijde bereid natuurverven die weinig VOS bevatten in stimuleringscampagnes voor oplosmiddelarme produkten mee te nemen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

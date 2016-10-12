@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001793</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001793&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001793</item>
+         <item attribuut="Document-id">0000036200</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 869</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Groenman (D66) over gelijke behandeling van mannen en vrouwen in personeelsadvertenties.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 869</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">869</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Groenman</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-06-14</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Ritzen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-08-27</item>
+         <item attribuut="Beginpagina">1755</item>
+         <item attribuut="Eindpagina">1756</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1755" allpagenumbers="1755 1756" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="869" onderwerp="gelijke behandeling van mannen en vrouwen in personeelsadver– tenties." indiendatum="14juni 1990">
+         <vrager partij="D66" oorsprong="parlement">Groenman</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="27 augustus 1990), zie ook Aanhangsels Hande– lingen nr. 775 en nr. 835, verga– derjaar 1989-1990">
+         <antwoorder functie="minister" ministerie="Onderwijs en Wetenschappen">Ritzen</antwoorder>
+         <mede-antwoorder>de staatssecretaris van Sociale Zaken en Werkgele– genheid en van Onderwijs en Weten– schappen</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1">Is naar uw mening op adequate wijze aan het onderwijsveld voorlichting gegeven over de wijziging die per 1 juli 1989 in de Wet gelijke behan– deling van mannen en vrouwen zijn aangebracht? Zo neen, op welke wijze wilt u daar in de komende tijd alsnog in voorzien? </vraag>
+      <vraag nummer="2" voetnoot="1 2">Zo ja, bevreemdt het u niet, dat diverse malen <voetnoot nummer="1"/> een voorkeur voor een man werd uitgesproken in perso– neelsadvertenties voor groepsleer– krachten in het basisonderwijs (aan openbare, rooms-katholieke en protestant-christelijke basisscholen), terwijl een dergelijke voorkeur toch duidelijk in strijd is met de herziene wettelijke bepalingen <voetnoot nummer="2"/>? </vraag>
+      <vraag nummer="3" voetnoot="3">Bevreemdt het u voorts niet, dat de Inspectie basisonderwijs blijkens een andere advertentie <voetnoot nummer="3"/> haar medewerking gaat verlenen aan de selectie voor een directeur van een openbare basisschool in de Gemeente Westvoorne, terwijl ook bij die selectie onder voorwaarden een voorkeur voor mannen geldt? Zult u verdere medewerking van de Inspectie verbieden en maatregelen nemen om herhaling van dit incident te voorkomen? Zijn naar uw mening de instellingen voor hoger beroepsonderwijs voldoende doordrongen van het feit, dat zij bij de toeiating tot (voortge– zette) beroepsopleidingen nog wèl een voorkeursbehandeling voor vrouwen, maar niet meer voor mannen mogen toepassen, zoals dat blijkens de HBO Emancipatie– almanak 1989 bij verschillende instellingen althans vóór 1 juli 1989 gebruik was? </vraag>
+      <vraag nummer="5">Zo neen, wilt u de instellingen voor hoger beroepsonderwijs dan op korte termijn - nog voordat zij beslis– singen nemen over toelating tot opleidingen in het cursusjaar 90/91 - onder de aandacht brengen wat de wetswijzigingen van medio 1989 ter zake behelst? </vraag>
+      <vraag nummer="6">Welke mogelijkheden hebt u om op te treden indien rijksinstellingen van hoger beroepsonderwijs toch de Wet gelijke behandeling van mannen en vrouwen zouden overtreden door een voorkeursbehandeling van mannen bij de toelating? Bent u bereid die mogelijkheden te benutten? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> In de Volkskrant van 2 juni jl. 4 maal en in Trouw van 2 juni 1990 5 maal</noot>
+         <noot nummer="2"> Zie uitspraakvan de Commissie Gelijke behandeling mannen en vrouwen van 9 maart 1990 over het wervingsbeleid van de gemeente Achtkarspelen</noot>
+         <noot nummer="3" datum="1990-05-26" bron=" De Volkskrant"> De Volkskrant, 26 mei 1990</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">De voorlichting over de wijziging van de wetgeving gelijke behandeling van mannen en vrouwen bij de arbeid heeft langs een aantal lijnen plaatsgevonden. Door de voor de wetswijziging eerst verantwoorde– lijke bewindspersoon is, gericht op een breed publiek, algemene, globale voorlichting gegeven via een Postbus 51 –spot en ruime verspreiding van een folder. Meer specifieke, uitgebreide voorlichting werd gericht op intermediairen, zoals ondernemingsraden, werkgevers– en werknemersorganisaties, belangen– organisaties en in het algemeen organisaties die beroepshalve te maken hebben met de naleving van deze wetgeving. Uiteraard acht ik het van groot belang dat de wetgeving inzake de gelijke behandeling van mannen en vrouwen bij de arbeid door alle werkgevers, ook die in de sector Onderwijs, wordt nageleefd. Ik zie echter bij deze algemeen geldende wetgeving geen specifieke taak voor de minister van Onderwijs en Wetenschappen. De werving en benoeming van personeelsleden in deze sector behoort tot de primaire bevoegdheid van de instellingen, die onverkort wordt nageleefd, zou dat zeer verheugend zijn. Een dergelijke verwachting is echter weinig realis– tisch. Wel hoop ik dat van (nadere) voorlichting een stimulans tot naleving zal uitgaan. </antwoord>
+      <antwoord nummer="3">Nee. De inspectie van het onderwijs adviseert op grond van artikel 34 van de Wet op het basisonderwijs over onder meer de aanstelling van direc– teuren van openbare basisscholen. Het is mijn voornemen deze inspec– tietaak te gelegener tijd te laten vervallen in verband met het beleid dat is gericht op deregulering en autonomievergroting van scholen. Het is nu reeds vast beleid dat de inspecteur zijn adviestaak beperkt opvat, en daarom in het algemeen niet betrokken is bij het totstand– komen van de advertentietekst en evenmin bij de eerste selectie van kandidaten. Het behoort zeker niet tot de taak van de inspectie te bewaken dat bevoegde gezagsorganen alle niet specifiek op het onderwijs gerichte wetgeving naleven. De inspecteur heeft conform dit beleid gehandeld en heeft in dit geval slechts de na selectie door het bevoegd gezag overgebleven kandi– daten op hun geschiktheid voor het onderwijs beoordeeld. Verdere medewerking verleent de inspectie niet. Eèn van de betrokken kandi– daten is op 4 juni j.l. door de gemeente Westvoorne benoemd, zonder dat het formele inspectie-advies is afgewacht. In het binnenkort uit te brengen inspectie-advies zal overigens gewezen worden op de strijdigheid </antwoord>
+      <antwoord nummer="5">Gezien bovengenoemde publicatie, ben ik bereid op korte termijn de aandacht van de instellingen te vragen voor de actuele inhoud van de Wet gelijke behandeling van mannen en vrouwen en de betekenis daarvan voor hun toelatingsbeleid (zie ook antwoord op vraag 1). </antwoord>
+      <antwoord nummer="6">Ingevolge artikel 81 van de Wet op het hoger beroepsonderwijs (Stb. 1986, 289) is de bevoegdheid tot toelating aan rijksinstellingen met rechtspersoonlijkheid voorbehouden aan het college van bestuur. Bij de rijksinstelling zonder rechtspersoon– lijkheid is deze bevoegdheid overge– dragen bij bestuursreglement als bedoeld in artikel 18 van genoemde wet. Gelet op het bovenstaande behoort de toelating tot de rijksinstellingen van hoger beroepsonderwijs bij uitsluiting tot de bevoegdheid van de respectievelijke colleges van bestuur. Mij staan derhalve geen wettelijke mogelijkheden ten dienste om op te treden, indien genoemde instellingen de Wet gelijke behandeling zouden overtreden. Vooralsnog heb ik geen concrete aanwijzing dat rijksinstel– lingen de bedoelde wetten overtreden. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="mogelijk zal geschieden." aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19891990:0000958</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0000958&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0000958</item>
+         <item attribuut="Document-id">0000035365</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 39</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Nypels (D66) over de ontbinding van arbeidsovereenkomsten.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 39</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">39</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Nypels</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-09-12</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Braks</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-10-05</item>
+         <item attribuut="Beginpagina">79</item>
+         <item attribuut="Eindpagina">80</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer. met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="79" allpagenumbers="79" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 921 7398" uitgever="SDU uitgevenj 's Gravenhage 1989"/>
+      <vraagdata vraagnummer="39" onderwerp="de ontbinding van arbeidsover– eenkomsten." indiendatum="1989-09-12">
+         <vrager partij="D66" oorsprong="parlement">Nypels</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="8">
+      <vraag nummer="1">Hebt u kennis genomen van de dissertatie van mr. J. J. Groen «Rechterlijke beëindiging van de arbeidsovereenkomst» en de kritiek, die daarin wordt geleverd op de ontbinding van de arbeidsovereen– komst via de snelrechtprocedure van art. 1639-w BW, waarbij hoger beroep is uitgesloten? </vraag>
+      <vraag nummer="2">Zijn deze procedures (ex art. 1639-w BW) de laatste jaren tienvoudig gestegen? </vraag>
+      <vraag nummer="3">Deelt u de conclusie van mr. Groen, dat er misstanden zijn ontstaan en wettelijke ontslagverboden nogal eens worden genegeerd? </vraag>
+      <vraag nummer="4">Hebt u kennis genomen van de uitspraak van de kantonrechter te Leeuwarden, 23 mei 1989 (ex art. 1639-w BW), waarbij een OR-voorzitter met meer dan 25 dienstjaren en meer dan 15 jaar OR– en COR-lidmaatschap, ondanks het ontslagverbod voor OR-leden, met ingang van 1 september 1989 «wegens reorganisatie» als enige is ontslagen? </vraag>
+      <vraag nummer="5">Hebt u kennis genomen van de uitspraak van de kantonrechter te Utrecht, 10 juli 1989, waarbij een vrouwelijke OR-secretaris kort nadat de OR had besloten een procedure tegen de werkgever te starten, werd ontslagen op grond van art. 1639-w BW? </vraag>
+      <vraag nummer="6">Vereist een zorgvuldige toetsing van het ontslagverbod voor OR-leden niet, dat in ieder geval bij deze ontslagverboden hoger beroep in art. 1639-w BW-procedures mogelijk moet zijn? </vraag>
+      <vraag nummer="7" voetnoot="1">Deelt u nog steeds niet de zorg, die vragen steller heeft uitgesproken in schriftelijke vragen, 28 november 1984, <voetnoot nummer="1"/> dat de bereidheid van werknemers zich kandidaat te stellen voor ondernemingsraden door dit soort uitspraken zal teruglopen? </vraag>
+      <vraag nummer="8">Bent u alsnog bereid de procedure volgens art. 1639-w BW (gewichtige redenen) als uitzondering op het ontslagverbod voor OR-leden te laten vervallen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Zie Aanhangsel Handelingen nr 367, Vergaderjaar 1984-1985. Mededeling</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+   <mededeling mededeler="Braks" functie="minister" afdeling="Sociale Zaken en Werkgelegenheid a.i." mededelingdatum="1989-10-5">Mededeling van minister Braks (Sociale Zaken en Werkgelegenheid a.i.). (Ontvangen 5 oktober 1989) De mij met uw brief van 13 september 1989 toegezonden vragen van Kamerlid Nypels inzake ontbinding van arbeidsovereen– komsten, kunnen tot mijn spijt niet binnen de gebruikelijke termijn worden beantwoord, omdat de stukken waarnaar wordt verwezen nog niet alle beschikbaar zijn en er tevens nader interdepartementaal overleg nodig is. Gaarne zeg ik u toe, dat de beantwoording zo spoedig </mededeling>
+</kvr>

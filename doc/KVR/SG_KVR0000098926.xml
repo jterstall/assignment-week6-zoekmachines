@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19871988:0001212</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001212&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001212</item>
+         <item attribuut="Document-id">0000098926</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1987-1988 nummer 273</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Jorritsma-Lebbink en Lauxtermann (beiden V.V.D.) over een openbaar vervoervoorziening voor de kernen Zalk/Wilsum.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1987-1988 nummer 273</item>
+         <item attribuut="Jaargang">1987_1988</item>
+         <item attribuut="Vraagnummer">273</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Jorritsma-Lebbink</persoon>
+            <persoon partij="VVD">Lauxtermann</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-12-14</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Smit-Kroes</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1988-01-20</item>
+         <item attribuut="Beginpagina">545</item>
+         <item attribuut="Eindpagina">546</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 7 - 1 9 8 8 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 7 - 1 9 8 8 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="273" onderwerp="een openbaar vervoer- voorziening voor de kernen Zalk/Wil- sum." indiendatum="14 december 1987)">
+         <vrager partij="VVD" oorsprong="parlement">Jorritsma-Lebbink</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Lauxtermann</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="11">
+      <vraag nummer="1 ">W a a r o m hebt u de aanvraag van een  taxibedrijf voor het starten van een  openbaar vervoervoorziening voor de  kernen Zalk/Wïlsum afgewezen?  </vraag>
+      <vraag nummer="2 ">Bent u op de hoogte van het feit, dat  in dit gebied reeds meerdere malen  is vastgesteld, dat onvoldoende  vrijwilligers zijn te vinden voor een  buurtbusproject?  </vraag>
+      <vraag nummer="3 ">Bent u op de hoogte van het feit, dat  het openbaar vervoerbedrijf dat de  regio bedient tot voor kort niet bereid  was zelf een voorziening te starten?  </vraag>
+      <vraag nummer="4 ">Bent u op de hoogte van het standpunt  van de provincie, dat zij gaarne zou  zien, dat het betreffende taxibedrijf in  samenwerking met het openbaar  vervoerbedrijf de voorziening zou  gaan opzetten?  </vraag>
+      <vraag nummer="5 ">Wat is er op tegen indien een  beroepsvervoerder tegen dezelfde  kosten als een buurtbusproject de  markt gaat bedienen?  W a t  w o r d t in  dit kader bedoeld met de zin: 'De  voorop gestelde opzet van het  project Zalk/Wilsum zou mijns  inziens afbreuk doen aan het wezens- kenmerk van de buurtbus en dat acht  ik ongewenst'? </vraag>
+      <vraag nummer="1 "/>
+      <vraag nummer="6 ">Betekent deze beslissing, dat  gebieden die voor een buurtbuspro- ject in aanmerking komen, maar waar  geen vrijwilligers beschikbaar zijn,  verstoken zullen blijven van openbaar  vervoer?  </vraag>
+      <vraag nummer="7 ">Overweegt het openbaar vervoerbe- drijf nu wel een voorziening te  starten?  A c h t u dit, gezien de  voorgeschiedenis reëel?  </vraag>
+      <vraag nummer="8 ">Hoe past deze beslissing in het  enkele jaren geleden ingezette beleid  ten aanzien van het openbaar vervoer  in landelijke gebieden, waarbij naast  bus, buurtbus uitdrukkelijk ook de  taxi genoemd is?  </vraag>
+      <vraag nummer="9 ">Betekent deze beslissing niet, dat  sprake is van een eenzijdige markt- scheiding, nl.: particuliere vervoerders  worden niet toegelaten tot de  openbaar vervoermarkt, terwijl  openbaar vervoerbedrijven wel  besloten vervoer mogen plegen, dit  in tegenstelling tot hetgeen tijdens  de behandeling van de  W e t Personen- vervoer is gesteld?  </vraag>
+      <vraag nummer="10 ">Bent u bereid de aanvraag opnieuw  in overweging te nemen?  </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Uw brief van 1 december j  DGV/PvZ/V726404.  kenmerk: </noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="2 ">In hun brief van  2 4 februari 1 987  hebben gedeputeerde staten mij  bericht dat voor een buurtbusproject  onvoldoende vrijwilligers konden  worden gevonden. Ik heb gedeputeer- de staten gevraagd nogmaals na te  gaan of voldoende vrijwilligers  kunnen  w o r d e n gevonden tegen de  achtergrond van mijn brief van 1  december 1987.  </antwoord>
+      <antwoord nummer="3 ">Het voorgestelde buurtbusproject,  waarvoor ik reeds middelen beschik- baar had gesteld, zou zoals gebruike- lijk, vanuit het betrokken openbaar  vervoersbedrijf worden geëxploiteerd.  Mij is niet bekend dat dit bedrijf niet  bereid zou zijn een andere voorziening  te bieden.  W e l is het aannemelijk dat  het bedrijf de daarmee gemoeide  exploitatietekorten niet voor eigen  rekening wil nemen.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

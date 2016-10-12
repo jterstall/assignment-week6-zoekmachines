@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="2">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Straub en Van Heteren (beiden PvdA) aan de minister van Justitie over het onderzoek naar de Schipholbrand. (Ingezonden 16 augustus 2006); Antwoord</item>
+         <item attribuut="Bestand">15Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR26270
+</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van een bericht in het Algemeen Dagblad van 16 juli 2006 over de vertraging die het onderzoek naar de Schipholbrand zou hebben opgelopen.</item>
+         <item attribuut="Rubriek">Criminaliteit en openbare orde (Brandpreventie en brandbestrijding) Verkeer, vervoer en waterstaat (Luchtvaartterreinen) Welzijn (Vreemdelingen en asielzoekers)</item>
+         <item attribuut="Trefwoorden">Branden Schiphol Vluchtelingen</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2005-2006, nr. 2051, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2050617720</item>
+         <item attribuut="Afkomstig_van">Justitie (JUS)</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Straub</persoon>
+            <persoon partij="PvdA">Van Heteren</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2006-09-01</item>
+         <item attribuut="Datum_indiening">2006-08-16</item>
+         <item attribuut="Document-id">KVR26270</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2005–2006" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="4357" allpagenumbers="4357" vetnummer="2050617720" code="0506tkkvr2051" lopendefooter="Tweede Kamer, vergaderjaar 2005–2006, Aanhangsel" filenaam="KVR26270" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2006"/>
+      <vraagdata vraagnummer="2051" onderwerp="" indiendatum="2006-08-16">
+         <vrager partij="PvdA" oorsprong="parlement">Straub</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Van Heteren</vrager>
+         <vraagt-aan>de minister van Justitie</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2006-09-1">
+         <antwoorder functie="minister" ministerie="Justitie">Donner</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1" voetnoot="1">Zijn de berichten <voetnoot nummer="1"/>waar dat bij de kabinetsreactie op het onderzoek van de Onderzoeksraad voor de Veiligheid naar de Schipholbrand vertraging is opgetreden, in tegenstelling tot de wettelijke regeling dat het kabinet binnen een maand na voltooiing van een conceptrapport van de Raad reageert? Zo ja, hoe verklaart u die vertraging? Zo neen, wanneer is de kabinetsreactie aan de Onderzoeksraad toegezonden? </vraag>
+      <vraag nummer="2">Wanneer kan de Kamer het onderzoeksrapport tegemoetzien? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="2006-07-16" bron="Algemeen Dagblad">Algemeen Dagblad, 16 juli 2006</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1" voetnoot="1">Het bericht waaraan in vraag 1 wordt gerefereerd is mij niet bekend. Bij brief van 7 juli 2006 heeft de Onderzoeksraad voor veiligheid zijn conceptrapport voor commentaar verzonden aan de ministers die het aangaat. Bij brief van 11 augustus 2006 heb ik, mede namens de betrokken ministers, commentaar geleverd. Dit heeft enkele dagen langer geduurd dan de wettelijke termijn van vier weken <voetnoot nummer="1"/>, in verband met de vakantieperiode. De voorzitter van de Onderzoeksraad voor veiligheid is hiervan op de hoogte gesteld. </antwoord>
+      <antwoord nummer="2">Mij is niet bekend op welke datum de Onderzoeksraad voor veiligheid het rapport uitbrengt. De voorzitter van de Onderzoeksraad voor veiligheid, prof.mr. P. van Vollenhoven, heeft bij brief van 9 mei 2006, kenmerk OVV 2006–010793, aan de Tweede Kamer aangegeven dat de Onderzoeksraad ernaar streeft het rapport eind september gereed te hebben om te kunnen worden gepubliceerd. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1">Rijkswet Onderzoeksraad voor veiligheid, artikel 56, eerste lid</noot>
+      </noten>
+   </antwoorden>
+</kvr>

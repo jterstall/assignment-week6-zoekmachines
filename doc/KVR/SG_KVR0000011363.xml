@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001059</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001059&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001059</item>
+         <item attribuut="Document-id">0000011363</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 128</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Roosen-van Pelt en Tegelaar-Boonacker (beiden CDA) over de overname van enkele bestaande openbaar vervoerslijnen door touringcar bedrijven.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 128</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">128</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Roosen-van Pelt</persoon>
+            <persoon partij="CDA">Tegelaar-Boonacker</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-10-30</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Maij-Weggen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-11-06</item>
+         <item attribuut="Beginpagina">267</item>
+         <item attribuut="Eindpagina">268</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="267" allpagenumbers="267" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="128" onderwerp="de overname van enkele bestaande openbaar vervoerslijnen door touringcar bedrijven." indiendatum="1992-10-30">
+         <vrager partij="CDA" oorsprong="parlement">Roosen-van Pelt</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Tegelaar-Boonacker</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-11-6">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">Maij-Weggen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1">Zijn er in geheime besprekingen met een viertal touringcarbedrijven afspraken gemaakt ten aanzien van het overnemen van enkele bestaande openbaar vervoerslijnen door deze bedrijven?' </vraag>
+      <vraag nummer="2" voetnoot="2">Deelt u de mening, dat deze ontwikkeling in de lijn ligt en het pleidooi van onder andere de CDA-fractie voor een meer marktgerichte personenvervoerssector? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="3">Heeft de Commissie Brokx aangaande de herstructurering van het openbaar vervoer haar activiteiten reeds afgerond en u dienaangaande geadviseerd? </vraag>
+      <vraag nummer="4">Zal er ten aanzien van de over te nemen openbaar vervoerslijnen sprake zijn van openbare inschrijving? ' Telegraaf van 28 oktober jl. </vraag>
+      <vraag nummer="1"/>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Nee. Er heeft op ambtelijk niveau oriënterend overleg plaatsgevonden met enkele vertegenwoordigers van het besloten vervoer over de mogelijkheden van toetreding tot de markt van het openbaar vervoer. Aanleiding was hun verzoek om naar aanleiding van de werkzaamheden van de Commissie-Brokx Openbaar Vervoer te kunnen meedoen ingeval van openbare aanbesteding van openbaar vervoer. Er zijn geen afspraken gemaakt over het overnemen van enkele bestaande openbaar vervoerlijnen door deze bedrijven. </antwoord>
+      <antwoord nummer="2">Het ontvlechten en verzakelijken van de relatie tussen de vervoerbedrijven en de overheid is één van de hoofdlijnen die de Commissie-Brokx in haar rapport «Openbaar Vervoer en Regionaal Bestuur» heeft aangegeven. Het doel hiervan is de marktgerichtheid van het openbaar vervoer te vergroten. </antwoord>
+      <antwoord nummer="3">De Commissie-Brokx Openbaar Vervoer heeft haar werkzaamheden aangaande de herstructurering van het openbaar vervoer nog niet afgerond. Nee. Er is thans geen sprake van over te nemen openbaar vervoerlijnen. De vraag of er in de toekomst gewerkt zal worden met aanbesteding van openbaar vervoer is aan de orde in de Cie-Brokx. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

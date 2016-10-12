@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001263</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001263&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001263</item>
+         <item attribuut="Document-id">0000027600</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 330</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Franssen (V.V.D.) over het afnemen van bloed- en urinetests bij werknemers.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 330</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">330</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Franssen</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-10-18</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Simons</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-01-22</item>
+         <item attribuut="Beginpagina">665</item>
+         <item attribuut="Eindpagina">668</item>
+         <item attribuut="Omvang">4 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="665" allpagenumbers="665 666" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1991"/>
+      <vraagdata vraagnummer="330" onderwerp="het afnemen van bloed– en uhnetests bij werknemers." indiendatum="1990-10-18">
+         <vrager partij="VVD" oorsprong="parlement">Franssen</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="22 januari 1991), zie ook Aanhangsel, Handelingen nr. 183, Vergaderjaar 1990-1991.">
+         <antwoorder functie="staatssecretaris" ministerie="Welzijn, Volksgezondheid en Cultuur">Simons</antwoorder>
+         <mede-antwoorder>de ministers van Sociale Zaken en Werkgelegenheid en van Justitie</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1" voetnoot="1">Hebt u kennisgenomen van het voornemen van het Amerikaanse chemieconcern Du Pont om bij zijn Nederlandse werknemers urine– en bloedtests af te nemen? <voetnoot nummer="1"/>Worden deze onderzoeken, die deel uitmaken van een breed gezond– heidsprogramma, aan de verschil– lende dochterondernemingen opgedragen? </vraag>
+      <vraag nummer="3">Is deelneming door de werknemers vrijwillig of is de druk op deelneming zo groot, dat van vrijwilligheid feitelijk geen sprake is? </vraag>
+      <vraag nummer="4">Welke waarborgen zijn er voor de werknemers, dat niet verkeerd met de te verkrijgen gegevens wordt omgesprongen? </vraag>
+      <vraag nummer="5">Hoe moet, indien het onder de Nederlandse privacy-wetgeving niet is toegestaan medische gegevens zonder toestemming van betrok– kenen aan derden te verstrekken, worden geoordeeld over het feit, dat - volgens perspublikaties - die gegeven naar de Verenigde Staten worden gestuurd en daar centraal worden verwerkt en opgeslagen? Acht u dit een aanvaardbare gang van zaken? Hoe beoordeelt u in dit geval de situatie, dat de Duitse Du Pont-bedrijven, vanwege de gebrekkige privacy-bescherming niet aan het onderzoek meedoen en dat de Duitse wet niet toestaat dat medische gegevens - anoniem of niet - naar het buitenland worden gebracht? </vraag>
+      <vraag nummer="7">Hoe beoordeelt u enerzijds het voornemen van Du Pont en ander– zijds de in de Duitse wetgeving voorkomende bepaling(en) in het perspectief van het aanhangige wetsvoorstel, Wijziging van het Burgerlijk Wetboek en enige andere wetten in verband met de opneming van bepalingen omtrent de overeen– komst tot het verrichten van hande– lingen op het gebied van de genees– kunst (Kamerstuk 21 561)? </vraag>
+      <vraag nummer="8">Welke betekenis moet aan (bloed– en urine-)onderzoek (o.a. bij werknemers) in termen van gezond– heidsbevordering worden toegekend? Hoe verhoudt deze aanpak zich tot de gangbare voorlichting over gezond gedrag voor werknemers? Is er wel voldoende wetenschappe– lijke basis voor het onderzoeken van personen (b.v. werknemers) ten behoeve van preventie van ziekten? Wat zijn mogelijke nadelen van dit testbeleid? Kan het onderzoeken van werknemers t.b.v. preventie een precedentwerking krijgen naar andere gebieden (een ruimer gebruik van de onderzoeksuitslagen)? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1990-09-22" bron=" Zie de Volkskrant"> Zie de Volkskrant, 22 september 1990</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">In persberichten werd inderdaad melding gedaan van dit voornemen. Uit afzonderlijke gesprekken tussen de Arbeidsinspectie en de Directie, de Ondernemingsraad en de bedrijfsarts van de firma Du Pont Nederland, blijkt van een dergelijk voornemen evenwel geen sprake te zijn. Het Health Horizon-programma, zoals dit in de Verenigde Staten door de moederonderneming is opgezet, wordt in de Nederlandse dochteron– dernemingen niet uitgevoerd en kan ook niet door de moederonder– neming worden opgedrongen. Wel kent de firma een alkoholontmoedi– gingsbeleid in het kader van de algemene gezondheidsbevordering waarvoor geen testen worden verricht. kader van algemene gezondheidsbe– vorderingsprogramma's. Daarbij zij aangetekend dat bij dergelijke programma's ervoor gewaakt moet worden dat er sociale druk ontstaat om deel te nemen. </antwoord>
+      <antwoord nummer="4">Het bedrijfsgezondheidskundig onderzoek wordt door artsen van de bedrijfsgezondheidsdienst uitge– voerd. In artikel 18 van de Arbo-wet staan de kaders aangegeven waarbinnen de in de bedrijfsgezond– heidsdienst werkzame artsen hun taak uitoefenen met behoud van hun deskundigheid en van hun onafhan– kelijkheid ten opzichte van degene die aan het hoofd staat van het bedrijf. Persoonlijke gegevens, die bij het onderzoek worden verkregen, kunnen niet zonder uitdrukkelijke toestemming van de betrokken werknemer aan derden worden verstrekt. Het medisch beroeps– geheim, de Wet persoonsregistraties en het wetsvoorstel Wijziging van het Burgerlijk Wetboek en enige andere wetten in verband met de opneming van bepalingen omtrent de overeenkomst tot het verrichten van handelingen op het gebied van de geneeskunst (Kamerstukken 21 561) bieden hiervoor de nodige waarborgen. Gegevens die beschikbaar komen in het kader van algemene gezondheidsbevordering vallen onder hetzelfde bescher– mingsregiem zoals hierboven beschreven. </antwoord>
+      <antwoord nummer="5">Zoals uit het voorgaande moge blijken, worden geen medische van bedrijfsgezondheidszorg gerela– teerd aan arbeid en arbeidsomstan– digheden), de wetenschappelijke basis ervan, de betekenis die eraan mag worden toegekend, en de mogelijke nadelen. Vooral in Noord– Amerika organiseren bedrijven zgn. bedrijfswelzijnsprogramma's. De belangrijkste prikkel tot deze activi– teiten vormen aldaar de toenemende ziektekosten voor het bedrijfsleven. Verwacht wordt dat de programma's deze groei zullen afremmen. Daarnaast worden gunstige effecten verwacht op het arbeidsverzuim, de arbeidsproduktiviteit en het perso– neelsverloop. Bedrijfswelzijnspro– gramma's zijn in grote lijnen gericht op één of meer van de volgende aspecten: screening op risicofac– toren voor hart– en vaatziekten, stoppen met roken, andere versla– vingsproblemen, hoge bloeddruk, rugklachten, voeding, lichaamsge– wicht, fitheid, stress, relatiepro– blemen en veiligheid buiten de werkplek. Vaak worden op grond van antwoorden op vragenlijsten en resultaten van medisch onderzoek «health risk assessments» opgesteld ter advisering over gezondheids– risico's. De bedrijfswelzijnsprogramma's startten rond 1980 meer op basis van enthousiasme (zoals de encoun– tergroepen die in het begin van de jaren zeventig erg populair waren bij de Amerikaanse bedrijven), dan op wetenschappelijke grondslag. Voorzover onderzoek was verricht, waren de resultaten vaak aanvechtbaar onder meer wegens het ontbreken van voor– en volop ter discussie. Ook het gebruik van biochemische «markers» voor alcoholmisbruik (zoals serum-GTT), en van drugtests in urine of andere lichaamsvloeistoffen wordt alleen al op wetenschappelijke gronden ontraden als ongerichte screenings– methode. Deze reserve bestaat overigens ook in de Verenigde Staten (bijv. bij de US Preventive Services Task Force). De mogelijke nadelen van het testbeleid lopen uiteen van het «Haynes-effect» (negatieve invloed op het ziektegedrag, bijv. in de vorm van arbeidsverzuim, als gevolg van alleen al een ongunstige screenings– uitslag) en valse zekerheid (bij fout-negatieve screeningsuitslagen) tot stigmatisering en criminalisering van de onderzochten. Waar het niet gaat om de reguliere opsporing en preventie van gezondheidseffecten van specifieke belastende factoren gerelateerd aan arbeid en arbeids– omstandigheden, kan een dergelijke individueel gerichte benadering ook leiden tot medicalisering van arbeidsorganisatorische aspecten. Een gunstige uitzondering vormen programma's in het bedrijfsleven die gericht zijn op stoppen met roken. Een recente meta-analyse van twintig gecontroleerde experimenten laat een bescheiden, maar overtuigend effect zien op de middellange termijn (J Occup Med 1990; 32: 429-39). Uit het boven– staande vloeit voort dat gezond– heidsprogramma's in de arbeidsor– ganisatie zorgvuldig voorbereid en geëvalueerd dienen te worden alvorens zij worden geïntroduceerd. betrekking tot de medische keuring bij aanstelling (TK 89/90, 19 218, nr. 40) wordt gebruik van onderzoeksre– sultaten, dat niet in overeen– stemming is met het doel van het onderzoek, afgewezen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="gebruikt zal worden?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001069</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001069&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001069</item>
+         <item attribuut="Document-id">0000019455</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 57</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Van Rey en Blauw (beiden VVD) over de voorgenomen verzelfstandiging van het Voedselvoorzienings In- en Verkoopbureau te Hoensbroek.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 57</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">57</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Van Rey</persoon>
+            <persoon partij="VVD">Blauw</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-08-30</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Bukman</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-10-09</item>
+         <item attribuut="Beginpagina">119</item>
+         <item attribuut="Eindpagina">120</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="119" allpagenumbers="119" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1991"/>
+      <vraagdata vraagnummer="" onderwerp="" indiendatum="">
+         <vrager partij="VVD" oorsprong="parlement">Van Rey</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Blauw</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="57">Vragen van de leden Van Rey en Blauw (beiden WD) over de voorgenomen verzelfstandiging van het Voedselvoorzienings In– en Verkoopbureau te Hoensbroek. (Ingezonden 30 augustus 1991) </vraag>
+      <vraag nummer="1">Wordt als gevolg van de voorge– nomen verzelfstandiging van het Voedselvoorzienings In– en Verkoop– bureau te Hoensbroek overwogen deze dienst uit Limburg naar elders in het land te doen vertrekken? Wordt thans overwogen om deze dienst organisatorisch onder te brengen bij een reeds bestaande overkoepelende uitvoeringsorgani– satie? </vraag>
+      <vraag nummer="3">Wordt daarbij ook onder ogen gezien of het mogelijk danwel wenselijk is het VIB onder te brengen bij de Algemene Inspectie Dienst te Kerkrade? </vraag>
+      <vraag nummer="4">Kan de huisvesting te Hoensbroek gehandhaafd worden ten behoeve van het VIB, indien het VIB wordt ondergebracht bij de AID te Kerkrade? </vraag>
+      <vraag nummer="6">Worden voorzieningen getroffen die de financiële schade voor het Rijk zullen beperken op het punt van de huisvesting van Rijksdiensten, indien zowel de AID als de VIB naar elders in het land worden overgebracht? </vraag>
+      <vraag nummer="7">Welke initiatieven overwegen de bewindslieden, meer in het bijzonder beiast met de regionale aspecten van het beleid, teneinde te voorkomen dat de arbeidsplaatsen, die in het kader van het regionaal beleid, zoals het het PNL-beleid, zijn gecreëerd, weer ongedaan worden gemaakt? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+   <mededeling mededeler="Bukman" functie="minister" afdeling="Landbouw, Natuurbeheer en Visserij" mededelingdatum="1991-10-9">Mededeling van minister Bukman (Landbouw, Natuurbeheer en Visserij). (Ontvangen 9 oktober 1991) De bij brief aan mij toegezonden vragen van de leden der Kamer de heren Van Rey en Blauw inzake voorgenomen verzelfstandiging VIB te Hoensbroek kunnen tot mijn spijt niet binnen de gebruikelijke termijn worden beantwoord. Welke zijn de financiële gevolgen voor het Rijk, indien de lokatie te Hoensbroek niet meer voor de huisvesting van een rijksdienst </mededeling>
+</kvr>

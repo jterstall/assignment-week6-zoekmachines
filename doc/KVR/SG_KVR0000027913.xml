@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001576</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001576&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001576</item>
+         <item attribuut="Document-id">0000027913</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 640</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Verspaget (P.v.d.A.) over noodhulp aan Somalië.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 640</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">640</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Verspaget</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-05-08</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Pronk</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-06-13</item>
+         <item attribuut="Beginpagina">1305</item>
+         <item attribuut="Eindpagina">1306</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1305" allpagenumbers="1305" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1991"/>
+      <vraagdata vraagnummer="640" onderwerp="noodhulp aan Somalië." indiendatum="1991-05-8">
+         <vrager partij="PvdA" oorsprong="parlement">Verspaget</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1991-06-13">
+         <antwoorder functie="minister" ministerie="Ontwikkelingssamenwerking">Pronk</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Hebt u kennis genomen van het bericht, dat de noodhulp aan Somalië geheel gestopt zal worden vanwege de hulp aan de Koerden? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Is de noodsituatie zodanig, dat indien geen (internationale) hulpactie op gang komt, een half miljoen mensen van honger zal sterven? </vraag>
+      <vraag nummer="3">Bent u bereid om op de kortst mogelijke termijn vanuit Nederland, zo mogelijk samen met de andere EG landen, een hulpactie voor Somalië op te zetten? </vraag>
+      <vraag nummer="4">Bent u bereid om eventueel naast de geëigende vormen van noodhulp ook ondersteuning te bieden bij het opruimen van mijnen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1991-05-6" bron=" NOS journaal"> NOS journaal, 6 mei 1991</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja. De gewekte suggestie dat er een oorzakelijk verband zou bestaan met de hulp aan de Koerden is echter niet correct. Betrouwbare informatie over de hongersnood of dreiging daarvan in Somalië bestaat op het ogenblik niet, aangezien geen instantie een goed overzicht over het gehele land heeft. Informatie verkregen uit diverse bronnen duidt erop dat inderdaad de mogelijkheid reëel moet worden geacht dat bij het uitblijven van hulp een zeer groot aantal mensen zal sterven. </antwoord>
+      <antwoord nummer="3">De Europese Commissie steunt momenteel 4 NGO's en oriënteert zich op uitbreidingsmogelijkheden van haar inspanningen. In beginsel is in het kader van het speciale EG-noodvoedselhulpprogramma Sub Sahara Afrika besloten 5000 ton graan en 12.00 ton rijst aan Somalië te leveren. Mede op grond van deze bevindingen zal bezien worden in hoeverre noodhulp aan Somalië vanuit Nederland geïntensiveerd kan worden en feitelijk uitvoerbaar is. </antwoord>
+      <antwoord nummer="4">Conform de mij ter beschikking staande informatie is er met name in het noorden een groot aantal mijnen gelegd. Indien in het kader van b.v. de VN er een initiatief wordt genomen om met gespecialiseerd personeel mijnen te ruimen ben ik bereid om hiervoor een financiële bijdrage te overwegen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

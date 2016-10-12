@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001706</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001706&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001706</item>
+         <item attribuut="Document-id">0000028043</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 770</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Brouwer en Lankhorst (beiden Groen Links) over een politie-inval bij de Amsterdamse radiozender «Radio 100» en drukkerij Primavera.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 770</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">770</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Brouwer</persoon>
+            <persoon partij="Groen Links">Lankhorst</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-05-24</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Andriessen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-07-29</item>
+         <item attribuut="Beginpagina">1571</item>
+         <item attribuut="Eindpagina">1572</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1571" allpagenumbers="1571 1572" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1991"/>
+      <vraagdata vraagnummer="770" onderwerp="een politie-inval bij de Amster– damse radiozender «Radio 100» en drukkerij Primavera." indiendatum="1991-05-24">
+         <vrager partij="Groen Links" oorsprong="parlement">Brouwer</vrager>
+         <vrager partij="Groen Links" oorsprong="parlement">Lankhorst</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1991-07-29">
+         <antwoorder functie="minister" ministerie="Justitie a.i.">Andtïessen</antwoorder>
+         <mede-antwoorder>de minister van Verkeer en Waterstaat</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="9">
+      <vraag nummer="1">Bent u op de hoogte met de politie-inval van woensdag 15 mei jl. bij de Amsterdamse radiozender «Radio 100» en drukkerij Primavera? </vraag>
+      <vraag nummer="2">Is het u bekend, dat tegen Radio 100 een strafvervolging is aangespannen niet op grond van de strafbepalingen uit de Wet op de telecommunicatie– voorzieningen (WTV), maar op grond van  art. 140 Sr? Bent u van oordeel, dat in het opspo– rings– en vervolgingsbeleid het uit de lucht halen van zenders die uitsluitend een politieke en/of (sub)-culturele boodschap uitdragen zulk een prioriteit dient te hebben? </vraag>
+      <vraag nummer="4">Deelt u de mening, dat de strafbepa– lingen uit de WTV toereikend zijn om illegale zenders uit de lucht te halen en dat toepassing van art. 140 Sr - met zwaardere straffen en verder– gaande dwangmiddelen - daartoe een te zwaar middel is? </vraag>
+      <vraag nummer="5">Houdt de keuze voor art. 140 Sr in, dat de opsporing niet in handen was van de radio Controle Dienst maar van de gewone politie? </vraag>
+      <vraag nummer="6">Bent u bereid te onderzoeken of - en zo ja, welke rol CID's en/of PID's in de opsporing hebben gespeeld? </vraag>
+      <vraag nummer="7">Bent u van oordeel, dat het uit de lucht halen van Radio 100 noodza– kelijk was in een democratische samenleving in verband met enig legitiem doel als omschreven in art. 10 lid 2 EVRM en art. 19 lid 3 IVBPR? </vraag>
+      <vraag nummer="8">Bent u ervan op de hoogte, dat bij een van de huiszoekingen een aanzienlijk deel van de administratie van drukkerij Primavera in beslag is genomen, zodat de drukkerij niet meer kan functioneren? Heeft het O.M. aan de rechter– commissaris die bij de huiszoeking betrokken was verzocht die admini– stratie in beslag te nemen? </vraag>
+      <vraag nummer="10">Wat is volgens het O.M. het verband tussen de drukkerij en Radio 100? </vraag>
+      <vraag nummer="11">Onder welke omstandigheden is naar uw mening een inbreuk op de drukpersvrijheid en op de vrije meningsuiting gerechtvaardigd? Bent u bereid er bij het O.M. op aan te dringen om aan de rechter– commissaris toestemming te vragen de in beslag genomen goederen terug te geven aan Radio 100, respectievelijk aan de drukkenj Primavera en aan alle personen bij wie in het kader van deze zaak spullen in beslag zijn genomen? EVRM = Europees Verdrag voor de rechten van de mens IVBPR = Internationaal Verdrag inzake burgerrechten en politieke rechten </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="8">
+      <antwoord nummer="1">Ja. Op 15 mei 1991 heeft de rechter-commissaris met verlof van de arrondissementsrechtbank te Amsterdam huiszoeking gedaan op een aantal adressen waar zich de zenders en/of studio's van de illegale radiozender 'Radio 100' bevonden en bij een aantal personen die verdacht werden van deelname aan de organisatie van dit radiostation. </antwoord>
+      <antwoord nummer="2">Tegen de radiozender 'Radio 100' is een opsporingsonderzoek en later een gerechtelijk vooronderzoek gestart zowel op basis van de Wet op de telecommunicatievoorzie– ningen (WW) als op grond van artikel 140 van het Wetboek van Strafrecht. </antwoord>
+      <antwoord nummer="3">Zoals mij van de zijde van de procureur-generaal bij het </antwoord>
+      <antwoord nummer="4">Optreden uitsluitend op grond van de Wet op de telecommunicatievoor– zieningen bhjkt in die gevallen waarin sprake is van een illegale zender die door een organisatie wordt gedreven, veelal niet mogelijk dan wel ontoereikend. In dergelijke gevallen moet inbeslagneming noodzakelijkerswijs meestal beperkt blijven tot (een deel van) de zendin– richting (terwijl dit ook op zichzelf vaak al moeilijk blijkt). Wanneer apparatuur is inbeslaggenomen, wordt deze veelal spoedig door de organisatie vervangen door andere apparatuur. Waar op grond van feiten en omstandigheden een redelijk vermoeden bestaat dat een zender aldus georganiseerd is, zal met het oog op een effectief optreden het onderzoek dan ook mede gericht moeten zijn op het opsporen en vervolgen van deelnemers aan de betreffende organisatie. In verband daarmee ben ik van oordeel dat in het onderhavige geval op verantwoorde wijze is gehandeld. </antwoord>
+      <antwoord nummer="5">Het onderzoek werd verricht door een gecombineerd team, bestaande uit ambtenaren van de gemeentepo– litie Amsterdam en opsporingsamb– tenaren van de Hoofddirectie Telecommunicatie en Post van het ministerie van Verkeer en Water– staat. </antwoord>
+      <antwoord nummer="6">Het onderzoek was uitsluitend gericht op de zender als zodanig en de organisatie die daarmee verband belang betreft een legitiem doel als bedoeld in art. 10, tweede lid, EVRM en art. 19, derde lid. IVBPR, en vindt zoals hierboven is aangegeven haar wettelijke basis in de WTV. </antwoord>
+      <antwoord nummer="8, 9, 10 en 11">Op een van de adressen waar met verlof van de rechtbank door de rechter-commisaris huiszoeking gedaan is, werd een administratie inbeslaggenomen waarvan achteraf werd vastgesteld dat deze niet op 'Radio 100' maar kennelijk op een drukkerij Primavera betrekking had. Nadat dit was vastgesteld, is de betrokken administratie terugge– geven aan Prïmavera, omdat uit het onderzoek niet was gebleken van een relatie tussen de drukkerij en 'Radio 100'. Met de inbeslagneming van de administratie in het kader van het onderzoek in zake 'Radio 100' werd derhalve niet beoogd tegen de drukkerij Primavera als zodanig op te treden. Van een inbreuk op de drukpersvrijheid en de vrijheid van meningsuiting is naar mijn oordeel geen sprake geweest. </antwoord>
+      <antwoord nummer="12">Hierboven is reeds aangegeven dat de inbeslaggenomen administratie inmiddels aan Primavera is terugge– geven. Ten aanzien van de voorwerpen die in verband met 'Radio 100' zijn inbeslaggenomen heeft de officier van justitie te Amsterdam meegedeeld van oordeel te zijn dat deze niet kunnen worden teruggegeven, voor zover de voorwerpen zouden kunnen dienen voor het voortzetten van deze of een andere illegale zender, en de voorwerpen vatbaar zijn voor </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

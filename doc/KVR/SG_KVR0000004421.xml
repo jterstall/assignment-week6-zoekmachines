@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0001910</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001910&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001910</item>
+         <item attribuut="Document-id">0000004421</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 696</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Netelenbos en Vermeend (beiden PvdA), over hogere gezondheidszorg opleidingen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 696</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">696</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Netelenbos</persoon>
+            <persoon partij="PvdA">Vermeend</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-06-24</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Ritzen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-08-01</item>
+         <item attribuut="Beginpagina">1411</item>
+         <item attribuut="Eindpagina">1412</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1411" allpagenumbers="1411" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN0921 -7398" uitgever="Sdu Uitgeveri] Plantijnstraat 's Gravenhage 1994"/>
+      <vraagdata vraagnummer="696" onderwerp="hogere gezondheidszorg opleidingen." indiendatum="24juni 1994">
+         <vrager partij="PvdA" oorsprong="parlement">Netelenbos</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Vermeend</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-08-1">
+         <antwoorder functie="minister" ministerie="Onderwijs en Wetenschappen en Welzijn, Volksgezondheid en Cultuur">Ritzen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1" voetnoot="1 2">Geldt de Tempobeurs ook voor de WVC-opleidingen in hetWVC– HGZO <voetnoot nummer="1"/>? <voetnoot nummer="2"/>Zo ja, waarom is er geen regeling getroffen, zodat voor deze studenten de rechtsbescherming van de Wet op het hoger onderwijs en wetenschappelijk onderzoek geldt? </vraag>
+      <vraag nummer="3">Bent u voornemens deze lacune in de regelgeving op te heffen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Hogere gezondheidszorg opleidingen die vallen onder verantwoordelijkheid van het ministerie van WVC</noot>
+         <noot nummer="2" datum="1994-06-7" bron=" Brief van Platform WVC/HGZO Opleidingen"> Brief van Platform WVC/HGZO Opleidingen, 7 juni 1994</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1">De Wet van 2 juli 1993, houdende wijziging van de Wet op de studiefinanciering en van de Wet op het hoger onderwijs en wetenschappenlijk onderzoek, in verband met het meten van de studievoortgang in het hoger onderwijs (Stb. 1993, 403) is inderdaad ook van toepassing op de opleidingen die voliedig worden bekostigd door de minister van Welzijn, Volksgezondheid en Cultuur, als bedoeld in artikel 9, eerste lid, onderdeel j, van de Wet op de studiefinanciering. De datum van inwerkingtreding wordt geregeld bij Koninklijk Besluit. Tot nu toe is de hiervoor bedoelde Wet niet in werking getreden voor deze WVC-opleidingen. In mijn brief van 9 maart 1994 (SFB-94000417) aan het Platform WVC/HGZO-opleidingen, welke ik bij brief van 11 maart 1994 (SFB-940011521) aan de Voorzitter van de Tweede Kamer der Staten-Generaal in afschrift heb doen toekomen,is aangekondigd dat de inwerkingtreding van genoemde Wet voor deze opleidingen beoogd is per 1 september 1994. Het betreft hier de volgende opleidingen: - de Nederlandse Akademie voor Orthoptie aan de factulteit gezondheidszorg van de Hogeschool Midden-Nederland te Utrecht - de Akademie voor Mondhygiëne aan de faculteit gezondheidszorg van de Hogeschool Midden-Nederland te Utrecht - de Stichting Opleiding Mondhygiënisten te Amsterdam - de Opleiding tot Mondhygiënist te Nijmegen - de Stichting tot opleiding van oefentherapeuten-Mensendieck te Amsterdam - de Stichting Opleiding Bewegingstherapie Cesar te Den Dolder - de studierichting podotherapie uitgaande van de Hogeschool Eindhoven te Eindhoven - de Stichting Kweekschool voor Vroedvrouwen te Amsterdam - de Vroedvrouwenschool Kerkrade uitgaandevan de Rooms-Katholieke Stichting Moederschapszorg te Kerkrade - de Stichting Rotterdamse Cpleiding tot Verloskundige te Rotterdam - de Rijksakademie voor Beeldende Kunst te Amsterdam - de Jan van Eyk-akademie te Maastricht - de Opleiding Restauratoren te Amsterdam. Mede naar aanleiding van de thans gestelde vragen is besloten af te zien van invoer per 1 september 1994. 2 e n 3 Omdat studerenden aan de betrokken WVC-opleidingen ten opzichte van hun WHW-collega's een zekere lacune kennen in de rechtsbescherming die bij de invoering van de studievoortgangsmeting behoort (m.n. ontbreekt een wettelijke regeling voor het examenberoep en een regeling voor het zgn. afstudeerfonds), is besloten de invoering van deze studievoortgangsmeting voor die opleidingen die per 1 september 1996 onder het regime van de WHW komen tot deze datum op te schorten. onderzoek tot een ander besluit zou leiden, wordt thans reeds bezien welke wettelijke en andere maatregelen nodig zijn teneinde op zo kort mogelijke termijn te voorzien in de lacunes in de rechtsbescherming van de studerenden aan deze opleidingen. De studievoortgangsmeting zal dan voor deze opleidingen in werking treden tegelijkertijd met de inwerkingtreding van deze nieuwe regels over de rechtsbescherming van de studerenden aan deze opleidingen. Tenslotte is voor de twee akademies voor beeldende kunst en voor de opleiding restauratoren overwogen dat de aard van het onderwijs (meer individueel begeleide werkplaatsactiviteiten) en de zeer strenge eisen die deze opleidingen reeds stellen aan hun studerenden zodanig zijn, dat invoering van studievoortgangsmeting hier zich slechts zeer moeizaam laat verlaten en dat er geen effect verwacht mag worden op de bevordering van de studievoortgang. Het vasthouden aan invoering van de studievoortgangsmeting aan deze opleidingen wordt dan vooral een bureaucratische oefening. Daarom is besloten van invoering van de studievoortgangsmeting aan deze drie opleidingen af te zien. De betreffende opleidingen zijn heden door mij over bovengemelde besluitvorming geïnformeerd. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

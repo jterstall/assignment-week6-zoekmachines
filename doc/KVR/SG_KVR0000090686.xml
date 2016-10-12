@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19881989:0001087</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001087&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001087</item>
+         <item attribuut="Document-id">0000090686</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1988-1989 nummer 88</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Buurmeijer, Van Traa (beiden P.v.d.A.) en Van Es (P.S.P.) over de uitzetting van de familie Yousef naar Frankrijk.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1988-1989 nummer 88</item>
+         <item attribuut="Jaargang">1988_1989</item>
+         <item attribuut="Vraagnummer">88</item>
+         <item attribuut="Indiener">
+            <persoon>Buurmeijer, Van Traa</persoon>
+            <persoon>Van Es</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1988-10-21</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Korte-van Hemel.</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1988-11-01</item>
+         <item attribuut="Beginpagina">177</item>
+         <item attribuut="Eindpagina">178</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 8 - 1 9 8 9 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 8 - 1 9 8 9 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="88" onderwerp="de uitzetting van de familie Yousefnaar Frankrijk." indiendatum="21 oktober 1988)">
+         <vrager partij="" oorsprong="parlement">Buurmeijer, Van Traa</vrager>
+         <vrager partij="" oorsprong="parlement">Van Es</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1 november 1988)">
+         <antwoorder functie="staatssecretaris" ministerie="Justitie">K o r t e - v a n H e m e l .</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1 ">Is de familie Yousef op 13 oktober  j l .  uitgezet naar Frankrijk? </vraag>
+      <vraag nummer="1 "/>
+      <vraag nummer="2 ">Zo ja, zijn betrokkenen, na zich te  hebben gemeld bij de Franse  autoriteiten, binnen  4 8 uur gemaand  Frankrijk weer te verlaten?  </vraag>
+      <vraag nummer="3 ">Moet hieruit geconcludeerd worden,  dat u bent overgegaan tot uitzetting  zonder dat u zich ervan heb vergewist,  dat men in Frankrijk een asielproce- dure zou kunnen beginnen?  </vraag>
+      <vraag nummer="4 ">Bent u bereid, gelet op de berichten,  dat de familie Yousef inmiddels weer  in Nederland verblijft, eraan mee te  werken, dat zij niet onwettig hier  behoeven te verblijven zolang u niet  de bevestiging hebt gekregen dat zij  in Frankrijk tot de normale asielpro- cedure  w o r d t toegelaten?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1 ">Ja.  2 en 3  ledere vreemdeling die op grond van  de overname-overeenkomst wordt  uitgezet naar Frankrijk, is in Frankrijk  in de gelegenheid om een asielverzoek  in te dienen. In het onderhavige geval  heeft de familie Youssef op 13  oktober  j . l . van 15.00 tot 17.00 uur  aan het bureau van de grensbewa- kingsautoriteiten te Maubeuge  verbleven voor ondervraging.  Tijdens hun verblijf aldaar hebben zij  de mogelijkheid gehad  o m een  verzoek  o m toelating als vluchteling  in te dienen. Aangezien zij hiervan  geen gebruik hebben gemaakt en ook  anderszins kennelijk geen recht op  langer verblijf in Frankrijk konden  doen gelden, hebben zij de opdracht  gekregen om Frankrijk binnen  4 8 uur  te verlaten. Hiertoe zijn zij op het  station Aulnoye op de trein gezet  richting Parijs.  </antwoord>
+      <antwoord nummer="4 ">Neen. Op de eerder in Nederland  ingediende asielverzoeken is op 18  december 1987 afwijzend beschikt.  Vervolgens heeft ook de President  van de arrondissementsrechtbank te  Almelo in kort geding de vordering  om de uitslag van de herzieningspro- cedure te mogen afwachten, afgewe- zen.  Ik acht het onjuist hun uitzetting  afhankelijk te stellen van toelating tot  de asielprocedure in een ander land,  nu is vastgesteld dat betrokken  vreemdelingen niet als vluchtingen  zijn aan te merken.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

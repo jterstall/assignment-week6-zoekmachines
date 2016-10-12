@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0001538</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001538&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001538</item>
+         <item attribuut="Document-id">0000004049</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 324</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Ockels over de zakjes landbouwgif.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 324</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">324</item>
+         <item attribuut="Indiener">
+            <persoon>Ockels</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-02-02</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Maij-Weggen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-02-22</item>
+         <item attribuut="Beginpagina">657</item>
+         <item attribuut="Eindpagina">660</item>
+         <item attribuut="Omvang">4 pag.</item>
+      </metadata>
+      <header titel="" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="657" allpagenumbers="657 658" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1994"/>
+      <vraagdata vraagnummer="324" onderwerp="de zakjes landbouwgif\" indiendatum="2februari 1994">
+         <vrager partij="" oorsprong="parlement">Ockels</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-02-22">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">Maij-Weggen</antwoorder>
+         <mede-antwoorder>de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="13">
+      <vraag nummer="1" voetnoot="2">Heeft Rijkswaterstaat inmiddels de laatste integrale zoekactie naar gifzakjes langs de Nederlandse stranden uitgevoerd? <voetnoot nummer="2"/>Wilt u, gelet op het gevaar van achtergebleven zakjes gif zo snel mogelijk maar in elk geval voorafgaande aan het strandseizoen, het gehele strand van de Nederlandse kust grondig en diep reinigen? </vraag>
+      <vraag nummer="3">Geven uw suggestie om bepaalde stranden waarop mogelijk nog gifzakjes zijn achtergebleven te «ploegen» en het door u gestelde feit, dat «het gif niet snel vervloeit of oplost» en dus zeer lang in de grond aanwezig zal blijven aanleiding nog naar andere methoden van reiniging of chemische afbraak te zoeken? </vraag>
+      <vraag nummer="4">Welke methoden hebt u daarbij op het oog? </vraag>
+      <vraag nummer="5">Welke maatregelen wilt u nemen om de inhoud van inmiddels gebroken of bij het opruimen of zeven nog brekende zakjes niet weer op of in het strand te laten neerkomen? Overweegt u bij de schoonmaak van de stranden via het ministerie van Defensie militairen en militair materieel in te zetten en/of via de strandgemeentes lokale vnjwilligers te gebruiken? </vraag>
+      <vraag nummer="7">Bent u bereid de coördinatie en leidmg van de komende «grote schoonmaak», na de gebleken operationele inzetbaarheids– en coördinatie-problemen bij de acties tot dusverre op onder meer de Razende Bol, in overleg met uw collega van Defensie in handen te leggen van militaire bevelhebbers? </vraag>
+      <vraag nummer="8">Is de ontvangen borgsom van 5 miljoen gulden voldoende voor zo'n ingrijpende schoonmaakoperatie? </vraag>
+      <vraag nummer="9">Beschikt u over een begroting en een plan voor de totale operatie? Wilt u die aan de Kamer aanbieden? </vraag>
+      <vraag nummer="10">Welke maatregelen nemen de andere getroffen landen om de kusten schoon te maken en de gevolgen van de gifzakjes te voorkomen? Hoe worden dan de kosten betaald? </vraag>
+      <vraag nummer="11">Maken andere Noordzee-staten ook aanspraak op delen van de door Nederland ontvangen borgsom of is deze uitsluitend te gebruiken voor de Nederlandse onkosten? </vraag>
+      <vraag nummer="12" voetnoot="3">Wilt u, naar aanleiding van de berichten <voetnoot nummer="3"/> dat nog 70 000 zakjes zoek zijn, een zo exact mogelijke opgaven doen van het totale aantal zakjes dat in zee is geraakt en, naar locatie, van het aantal zakjes dat in de verschillende landen tot nu toe in totaal is gevonden en opgeruimd? </vraag>
+      <vraag nummer="13">Waar drijven, gezien wind, stromingen en getijden, mogelijk nog zakjes rond? Kan met zekerheid worden aangegeven of de «hele golf met zakjes achter de rug is» en er niet over geruime tijd of zelfs over jaren nog zakjes met mogelijk dodelijke inhoud in zee ronddrijven of op de stranden aanspoelen? </vraag>
+      <vraag nummer="14">Hoe wilt u voorkómen, dat, in het bijzonder nadat deze gifaffaire uit het bewustzijn van de mensen is geraakt een «verdwaald» zakje alsnog voor dergelijke ongevallen zorgt? </vraag>
+      <vraag nummer="15">Hoe lang duurt het voordat het gif, nadat een zakje op een strand is lek geraakt, volkomen is geneutraliseerd en niet meer gevaarlijk is voor de volksgezondheid? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja, in het kader van een eind-inspectie is een integrale zoekactie langs de Nederlandse stranden uitgevoerd op 31 januari en 1 februari 1994. 2 e n 3 Een van de ideeën die tijdens de opruimactie is geopperd, is om met behulp van mechanische middelen, zoals ploegen of zeven, eventueel door windinvloed onder het zand gekomen zakjes op te sporen. Uiteindelijk is niet voor deze methode gekozen omdat enerzijds het risico dat juist door deze activiteit zakjes kapot zouden gaan, te groot geacht werd. Anderzijds sorteerden de stormen in het laatste weekend van de opruimactie een zodanig effect, dat al het vuil, dat door windinvloed op de stranden onder het zand was gekomen, weer bloot kwam en zich aan de rand van de storm-hoogwaterlijn, veelal aan de duinvoet, verzamelde. Hierdoor was tijdens de eindinspectie een zeer geconcentreerde en effectieve opruimactie van achtergebleven zakjes mogelijk. </antwoord>
+      <antwoord nummer="3, 4, 5 en 15">De eigenschappen van het betrokken landbouwbestrijdingsmiddel Apron Plus 50 SD (Apronplus) zijn als volgt: Apronplus bestaat uit 3 werkzame goed hechtend aan zand) snel wordt omgezet tot carborfuran (goed oplosbaar en slecht hechtend aan zand). Het is dus niet juist te stellen, dat het gif zeer lang in de bodem aanwezig zal blijven. Het opruimen van de zakjes en voor zover zakjes kapot gegaan zijn hettevens afvoeren van het gedeelte van het zand dat zichtbaar verkleurd is, voldoet goed. Ook als er nog zakjes worden aangetroffen, zal deze methode worden toegepast. Er is geen reden om naar andere methoden van reiniging van het strand of van afbraak van Apronplus te zoeken. Rijkswaterstaat heeft inmiddels haar coördinerende taak inzake de opruimactie per 1 februari om 17.00 uur beemdigd. Vanaf dat tijdstip berust de verantwoordelijkheid voor het schoonmaken en –houden van de stranden weer bij de burgemeesters van de kustgemeenten. Omdat niet is uit te sluiten dat nog een aantal zakjes Apronplus zal worden aangetroffen, is de gemeenten geadviseerd de stranden te blijven inspecteren; terwijl Rijkswaterstaat bereid blijftte adviseren omtrent afvoer en verwerking van nog aan te treffen zakjes. 6 e n 7 Tijdens de opruimactie is overwogen assistentie van het ministerie van Defensie in te roepen. Hierover zijn contacten geweest, zowel met de Koninklijke Landmacht als met de Koninklijke Marine. Uiteindelijk bleek deze assistentie niet nodig te zijn. Tijdens de actie hebben zich Voor zover bekend passen Frankrijk en Duitsland, de andere landen waar tot nu toe zakjes zijn aangespoeld, dezelfde methoden toe als Nederïand namelijk frequente inspectie en opruimen van de aangetroffen zakjes. Frankrijk heeft van de reder van het schip een garantie, dat de kosten van het opruimen zullen worden betaald. In Duitsland zijn evenals in Nederland afspraken gemaakt, dat de fabrikant van Apronplus de kosten van het transport en de vernietiging van de opgeruimde zakjes voor zijn rekening neemt; in Duitsland is voor de opruimkosten op het strand nog geen regeling getroffen. Het is niet mogelijk dat andere landen aanspraak maken op de door Nederland gevorderde bankgarantie, omdat in deze garantie is opgenomen, dat deze dient voor door de Nederlandse overheid te maken opruimkosten. </antwoord>
+      <antwoord nummer="12 en 13">Na een eerste voorlopige telling direct na beëindiging van de inzamelactie werd een aantal door Nederland geborgen zakjes van 160.000 tot 180.000 vastgesteld. Omdat door Duitsland 15.000 tot 20.000 zakjes zijn geruimd, werd aangenomen dat het overgrote deel van de zakjes Apronplus inmiddels was geborgen. Dit betrof de zakjes uit de container, die op 3 januari 1994, drijvend in noordelijke richting in het Kanaal, voor het laatst is waargenomen en waarvan zeker is dat deze het Nauw van Calais gepasseerd is. Deze container bevatte landbouwbestrijdingsmiddel, die zich in de andere bij Cherbourg door het ms. Sherbo verloren containers bevonden, zijn inmiddels of geborgen of aangespoeld aan de Franse kust. Op grond van het feit, dat het onduidelijk is, waar de niet geborgen zakjes zich bevinden zijn, zijn conform de daarvoor geldende regelingen, de Noordzee-landen ingelichten is de lokale autoriteiten geadviseerd alert te blijven op het eventueel aanspoelen van zakjes Apronplus. Overigens zijn sedert de eerdergenoemde eind-inspectie op de stranden slechts sporadisch nieuwe zakjes Apronplus aangetroffen. 14,  16 en 17 Naar mijn mening is er voldoende informatie verspreid omtrent de gevaarsaspecten van de betrokken zakjes. Ook is er zeer veel publiciteit geweest. Zowel de verantwoordelijke lagere overheden (gemeenten) als alle overige betrokken instanties zijn volledig geïnformeerd. De komende tijd zal het strand periodiek geïnspecteerd worden. Dit is mijns inziens voldoende om redelijkerwijs te voorkomen dat door onachtzaamheid alsnog ongevallen ontstaan als gevolg van de zakjes. Een specifieke informatiecampagne is dan ook niet nodig. Rijkswaterstaat, directie Noordzee, heefttot nu toe gefungeerd als centraal meldpunt en zal, als daar aanleiding toe is, deze taak ook in de toekomst vervullen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

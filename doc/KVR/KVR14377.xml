@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Lambrechts en Bakker (beiden D66) aan de ministers van Onderwijs, Cultuur en Wetenschappen en voor Grote Steden- en Integratiebeleid over een nieuw licentiesysteem van Microsoft. (Ingezonden 4 september 2001); Antwoord</item>
+         <item attribuut="Bestand">18Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR14377
+</item>
+         <item attribuut="Inhoud">Vragen over de financiële gevolgen van een nieuw licentiesysteem van software-ontwikkelaar Microsoft voor het ministerie van OCenW, scholen, universiteiten en hogescholen.</item>
+         <item attribuut="Rubriek">Basisonderwijs (Algemeen) Beroepsonderwijs en volwasseneneducatie (Algemeen) Communicatie, media en informatievoorziening (Hard- en software) Hoger onderwijs (Algemeen) Speciaal onderwijs (Algemeen) Staats- en bestuursrecht (Ministeries) Voortgezet onderwijs (Algemeen)</item>
+         <item attribuut="Trefwoorden">Mededinging Onderwijs Onderwijs Cultuur en Wetenschappen (ministerie) Software</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2001-2002, nr. 61, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2000115030</item>
+         <item attribuut="Afkomstig_van">Onderwijs, Cultuur en Wetenschappen (OCW)</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Lambrechts</persoon>
+            <persoon partij="D66">Bakker</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2001-10-02</item>
+         <item attribuut="Datum_indiening">2001-09-04</item>
+         <item attribuut="Document-id">KVR14377</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2001–2002" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="123" allpagenumbers="123 124" vetnummer="2000115030" code="" lopendefooter="Tweede Kamer, vergaderjaar 2001–2002, Aanhangsel" filenaam="KVR14377" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2001"/>
+      <vraagdata vraagnummer="61" onderwerp="" indiendatum="2001-09-4">
+         <vrager partij="D66" oorsprong="parlement">Lambrechts</vrager>
+         <vrager partij="D66" oorsprong="parlement">Bakker</vrager>
+         <vraagt-aan>de ministers van Onderwijs, Cultuur en Wetenschappen en voor Grote Steden- en Integratiebeleid</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2001-10-2">
+         <antwoorder functie="minister" ministerie="Onderwijs, Cultuur en Wetenschappen">Hermans</antwoorder>
+         <mede-antwoorder>de minister voor Grote Steden- en Integratiebeleid</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="9">
+      <vraag nummer="1" voetnoot="1">Heeft u kennisgenomen van berichten <voetnoot nummer="1"/>dat software-ontwikkelaar Microsoft samen met een nieuw besturingssysteem, ook een nieuw licentiesysteem introduceert voor zakelijke software, waarbij gebruikers elk jaar tussen de 25 en 29 procent van de nieuwprijs betalen in ruil voor een abonnement op de upgrades? </vraag>
+      <vraag nummer="2">Is het waar dat op het ministerie van Justitie becijferingen zijn gemaakt, waaruit gebleken is dat dit nieuwe licentiesysteem vele miljoenen extra zal gaan kosten? </vraag>
+      <vraag nummer="3">Is het u bekend of dit nieuwe licentiesysteem ook zal gaan gelden voor het ministerie van Onderwijs, Cultuur en Wetenschappen, instellingen die vallen onder het ministerie van Onderwijs, Cultuur en Wetenschappen, voor scholen, hogescholen en universiteiten in Nederland? </vraag>
+      <vraag nummer="4">Heeft u inmiddels berekend hoeveel dit nieuwe systeem voor het ministerie van Onderwijs, Cultuur en Wetenschappen en daaronder vallende instellingen meer zal gaan kosten dan het oude licentiesysteem? </vraag>
+      <vraag nummer="5">Welke andere consequenties heeft het nieuwe besturingssysteem samen met het nieuwe licentiesysteem voor Kennisnet en de daarop aangesloten scholen? </vraag>
+      <vraag nummer="6" voetnoot="2">Welke acties heeft u in het verleden genomen <voetnoot nummer="2"/>om scholen attent te maken op de Microsoftval? </vraag>
+      <vraag nummer="7" voetnoot="3">Welke acties denkt u alsnog te ondernemen om de nadelige gevolgen voor scholen te beperken? Bent u bereid, om als onderdeel van de uitvoering van de motie <voetnoot nummer="3"/>Lambrechts c.s., scholen te wijzen op alternatieven zoals MacOs, Linux en FreeBSD? </vraag>
+      <vraag nummer="8">Hoe wilt u voorkomen dat de overheid, en gebruikers en bezoekers van overheidswebsites, afhankelijk worden van louter het Microsoft-besturingssysteem? </vraag>
+      <vraag nummer="9">Bent u bereid te onderzoeken hoe kan worden verzekerd dat overheidsinformatie toegankelijk blijft voor alle internetgebruikers, ongeacht het door hen gekozen besturingssysteem of de door hen gebruikte internetbrowser? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="2001-08-24" bron="Automatiseringsgids">Automatiseringsgids, 24 augustus 2001</noot>
+         <noot nummer="2" datum="1999-02-24" bron="Zie de Volkskrant">Zie de Volkskrant, 24 februari 1999</noot>
+         <noot nummer="3" documenttype="Kamerstuk" kamerstuk-id="25 733" documentnummer="71">Kamerstuk 25 733, nr. 71</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="8">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Ja; het betreft ramingen voor de bij Justitie gebruikte licenties. Inmiddels is besloten gebruik te maken van een andere contractvorm met Microsoft en een daarvan onderdeel uitmakende andersoortige vorm van licensering. Het gaat daarbij om een zogenaamde Enterprise Agreement. Microsoft biedt een dergelijke contractvorm ook aan andere marktpartijen aan. De condities waaronder zo’n contract wordt gesloten kunnen, afhankelijk van het onderhandelingsresultaat, per geval verschillen. </antwoord>
+      <antwoord nummer="3">Dit licentiesysteem is in principe van toepassing op alle klanten van microsoft, dus ook het ministerie van OCenW. Scholen, hogescholen en universiteiten daarentegen hebben de mogelijkheid om via verschillende dienstverlenende organisaties in het onderwijs, SURF-diensten, SLB-diensten of APS IT-diensten, microsoftlicenties te verkrijgen tegen lagere tarieven. En niet alleen microsoft, maar ook licenties van andere software-aanbieders. </antwoord>
+      <antwoord nummer="4">Voor mijn ministerie geldt dat volgens het meest negatieve scenario dit leidt tot een verdubbeling van de kosten. Op dit moment vindt intern onderzoek plaats wat financieel de beste oplossing is. Door gebruik te maken van de mogelijkheden die Microsoft biedt denk ik een kostenstijging nog uit te kunnen stellen tot 2006. Voor het onderwijsbestel specifiek geldt dat ik als minister van OCenW aanspreekbaar ben op de kwaliteit van het onderwijs als geheel. Ik zorg voor de totstandkoming van deugdelijkheidseisen en de wetgeving in dat verband en ik geef de ontwikkelingsrichting aan. De overheid zorgt ervoor dat de instellingen de (financiële) middelen en ruimte krijgen. Het is aan de school om te overwegen hoe ze haar financiële middelen strategisch inzet voor de aankoop van ICT-software, -hardware, -beheer, en -scholing. Een centrale aanbesteding van hard- en software ligt niet in de rede. Enerzijds omdat de school van de toekomst niet in een blauwdruk is te vangen. Anderzijds omdat ik niet bevoegd ben om voor een school te bepalen welke hard- en software er binnen een school gebruikt wordt. De school heeft daar een eigen vrijheid en verantwoordelijkheid in. Mij is derhalve niet bekend met welk merk software een school werkt. Ik kan dus niet aangeven of en wat dit de scholen extra gaat kosten. </antwoord>
+      <antwoord nummer="5">Dit heeft geen specifieke consequenties voor op Kennisnet aangesloten scholen. Scholen kunnen met allerlei besturingssystemen op Kennisnet en Internet surfen. </antwoord>
+      <antwoord nummer="6">Het merendeel van de scholen/onderwijsinstellingen verkrijgt softwarelicenties via Surfdiensten. APS It-diensten, SLB-diensten of andere aanbieders. Veel van deze organisaties hebben de scholen die van hun diensten gebruikmaken geïnformeerd over eventuele wijzigingen in de licentievoorwaarden. Daarnaast hebben de media bol gestaan van berichten over het nieuwe licentiesysteem van Microsoft. Kennisnet en ICT op School hebben ook acties ondernomen (zie vraag 7). </antwoord>
+      <antwoord nummer="7">Ik heb in dit kader afspraken gemaakt met Kennisnet en de stichting ICT op school. Voor Kennisnet staan open standaarden voorop. Door implementatie van de W3C standaard (zie ook vraag 8 en 9) garandeert Kennisnet dat de inhoud toegankelijk is voor alle browsers. In mijn beknopte voortgangsrapportage van oktober zal ik hierover rapporteren. In het vervolg zal Kennisnet rapporteren over haar acties en de behaalde resultaten. Concreet zal in die rapportage minimaal aandacht worden besteed aan de voortgang van onderstaande trajecten: – het faciliteren van een omgeving waar het onderwijs aan open source-projecten kan werken; – het stimuleren van leveranciers om open source-oplossingen te zoeken; – het toepassen van open standaarden voor alle basisfunctionaliteiten zoals deze op haar portal sites te vinden zijn. ICT op School rekent het tot haar taak scholen te informeren over de afwegingen die een rol spelen bij de keuze van systeemsoftware. Daarbij spelen licentiekosten een rol. Concreet besteedt de stichting ICT op school medio oktober aandacht aan dit onderwerp via een publicatie over «netwerkbesturingssystemen». Toch is het goed om te weten dat licentiekosten lang niet altijd de grootste kostenpost zijn bij het gebruik van software. Kosten voor beheer en support zullen ook bij open source software betaald moeten. Het totale prijsverschil tussen «open» en «closed» source is vaak veel minder groot dan wel eens gedacht wordt. </antwoord>
+      <antwoord nummer="8 en 9">Door gebruik te maken van open standaarden kan afhankelijkheid van Microsoft, maar ook van andere leveranciers worden voorkomen en interoperabiliteit gegarandeerd. Zulke standaarden worden bijvoorbeeld vastgesteld door het zogenaamde W3C-consortium, een onafhankelijke instantie. Iedereen kan open standaarden gratis raadplegen en gebruiken. Vrijwel alle browsers ondersteunen bijvoorbeeld de W3C-standaarden. Het besturingssysteem waarop de browser draait is in principe irrelevant. Browsers die opereren volgens W3C-standaard draaien zowel op Windows, Unix, Linux, MacOS en andere besturingssystemen. Op het Microsoft besturingssysteem draaien ook niet-Microsoft browsers. Open standaarden creëren gelijke kansen voor alle deelnemers in de markt. Iedere ontwerper krijgt gelijke kansen, mits hij ook gebruik maakt van de open standaarden. Gebruik van open standaarden leidt tot betere toegang van informatie. Daarom onderzoekt de minister voor GSI of en hoe open standaarden gebruikt kunnen worden bij het overheidsinformatiebeleid. Over de uitkomsten wordt u nog dit jaar geïnformeerd. Om de toegankelijkheid van overheidsinformatie te kunnen waarborgen dient de overheid de informatie via een open standaard aan te bieden. De overheid doet al verscheidene zaken om openheid te bevorderen: – Om aanbieders van overheidsinformatie te ondersteunen staat op de website van advies.overheid.nl de «kwaliteitsrichtlijn websites overheid». Het gebruik van platform-onafhankelijke oplossingen op basis van open standaarden staat hierin centraal. Deze voorwaarde impliceert een goede toepassing van de W3C-standaarden en beperking in het gebruik van plug-ins. – Het programma Digitale Duurzaamheid, ondergebracht bij de ICTU (www.ictu.nl), doet onderzoek naar het toegankelijk houden van de opslag van digitale (overheids)informatie, ook voor de langere termijn. Om de informatie die volgens open standaarden wordt aangeboden, te kunnen lezen, dient de gebruiker een browser te hanteren die de open standaard aankan. Dat is vrijwel altijd het geval. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

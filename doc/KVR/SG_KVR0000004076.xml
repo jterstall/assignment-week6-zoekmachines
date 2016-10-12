@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0001565</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001565&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001565</item>
+         <item attribuut="Document-id">0000004076</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 351</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Leerling (RPF) over bestrijding van bacteriën.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 351</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">351</item>
+         <item attribuut="Indiener">
+            <persoon partij="RPF">Leerling</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-02-23</item>
+         <item attribuut="Beantwoorder">
+            <persoon>d'Ancona</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-03-08</item>
+         <item attribuut="Beginpagina">713</item>
+         <item attribuut="Eindpagina">714</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="713" allpagenumbers="713" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="s Gravenhage 1994"/>
+      <vraagdata vraagnummer="351" onderwerp="bestrijding van bacteriën." indiendatum="1994-02-23">
+         <vrager partij="RPF" oorsprong="parlement">Leerling</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-03-8">
+         <antwoorder functie="minister" ministerie="Welzijn, Volksgezondheid en Cultuur">d'Ancona</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1" voetnoot="1 2">Onderschrijft u de uitspraak van dr. Alexander Tomasz van de Rockefeller Universiteit in New York, namelijk dat veel voorkomende bacteriën die longontsteking veroorzaken en zich snel ontwikkelen tot varianten, niet met bestaande medicijnen kunnen worden bestreden? <voetnoot nummer="1"/> Zo neen, waarom niet? Zo ja, in hoeverre is de geschatte toename van het aantal sterfgevallen als gevolg van longontsteking op deze veronderstelling gebaseerd? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="3">In hoeverre bent u in het kader van het preventiebeleid bereid financiële middelen ter beschikking te stellen voor fundamenteel onderzoek ter bestrijding van bacteriën, die resistent zijn tegen antibiotica als vancomycin? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1994-02-21" bron=" Volkskrant"> Volkskrant, 21 februari 1994</noot>
+         <noot nummer="2"> Volksgezondheid Toekomst Verkenning (VTV) blz. 112</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ik onderschrijf dat de toenemende resistentie van bacteriën tegen antibiotica wereldwijd een groeiend probleem vormt. In een groot aantal landen zijn pneumococcen geïsoleerd die resistent zijn tegen penicilline. Het door u genoemde artikel in de Volkskrant van 21 februari 1994 verwijst naar de situatie in de Verenigde Staten. In Europa doet dit probleem zich onder andere voor in Spanje en Hongarije, waar meer dan 50% van de pneumococcen resistent is tegen penicilline. Uit resistentiepeilingen in Nederland in 1990 t/m 1992 is gebleken dat minder dan 1% van de pneumococcen resistent is. Er zijn geen signalen dat dit percentage sindsdien is gestegen, zodat het probleem hier nog zeer beperkt is. Een stringent antibioticabeleid en preventieve maatregelen zoals vastgelegd in de richtlijnen voor infectiepreventie van de Werkgroep Infectiepreventie (WIP) dragen hiertoe bij. Uit bovenstaande volgt dat in Nederland de behandeling van longontsteking door pneumococcen goed mogelijk is. </antwoord>
+      <antwoord nummer="2">In de prognoses voor het aantal sterfgevallen ten gevolge van longontsteking in de toekomst zoals vermeld in de Volksgezondheid Toekomst Verkenning is geen rekening gehouden met een mogelijke toename van het voorkomen van resistente pneumococcen. Overigens wordt geen stijging van de sterfte aan longontsteking verwacht. Wel is de verwachting dat longontsteking de plaats van maagkanker inneemt bij de tien doodsoorzaken met de hoogste sterfte. Dit is echter niet het gevolg van een verwachte toename van sterfte ten gevolge van longontsteking, maar van een verwachte afname van de sterfte aan maagkanker. </antwoord>
+      <antwoord nummer="3">Waarschijnlijk wordt met deze vraag bedoeld fundamenteel onderzoek naar de ontwikkeling van nieuwe antibiotica waartegen de micro-organismen niet resistent zijn. Onderzoek op dit terrein behoort naar mijn mening primair tot de verantwoordelijkheid van de farmaceutische industrie. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

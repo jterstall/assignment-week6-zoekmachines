@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001641</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001641&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001641</item>
+         <item attribuut="Document-id">0000036048</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 717</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Beckers-de Bruijn (Groen Links) over het aanstellen van artsen in het toekomstige Flevo-ziekenhuis te Almere.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 717</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">717</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Beckers-de Bruijn</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-05-11</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Simons</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-06-18</item>
+         <item attribuut="Beginpagina">1445</item>
+         <item attribuut="Eindpagina">1446</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1445" allpagenumbers="1445" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1989"/>
+      <vraagdata vraagnummer="717" onderwerp="het aanstellen van artsen in het toekom– stige Flevo-ziekenhuis te Almere." indiendatum="1990-05-11">
+         <vrager partij="Groen Links" oorsprong="parlement">Beckers-de Bruijn</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="18juni 1990">
+         <antwoorder functie="staatssecretaris" ministerie="Welzijn, Volksgezondheid en Cultuur">Simons</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Bent u op de hoogte van het voornemen van het bestuur van het toekomstige Flevo-ziekenhuis te Almere om in ieder geval voor een aantal specialismen een overeen– komst aan te gaan met vrijgeves– tigde artsen in plaats van artsen in dienstverband aan te stellen? Past deze handelwijze in het experiment met de organisatie van de eerste en de tweede lijn in de gezondheidszorg in Almere? </vraag>
+      <vraag nummer="3">Deelt u de mening, dat de belangen van vrijgevestigde specialisten niet parallel zullen lopen met een van de hoofddoelstellingen van het experiment, namelijk het terug– dringen van het aantal doorverwij– zingen van de eerste naar de tweede lijn? </vraag>
+      <vraag nummer="4">Bent u van mening, dat het bestuur van het toekomstige Flevo– ziekenhuis zich voldoende inspant om geschikte specialisten te interes– seren voor de integrale benadering van de gezondheidszorg in Almere en dus voor werken in dienst– verband? Lopen sinds in het Zuiderzee ziekenhuis in Lelystad een aantal specialisten vrij gevestigd is, de kosten van de gezondheidszorg op? </vraag>
+      <vraag nummer="6">Bent u bereid in het kader van het Besluit Experiment Gezondheidszorg Almere geen vergunningen af te geven voor die specialismen waarvoor geen artsen in dienst– verband worden aangetrokken? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1">Ja. In principe niet. </antwoord>
+      <antwoord nummer="3">Ja; dat vormt ook de reden van de keuze voor het dienstverband voor alle beroepsbeoefenaren in het experiment. </antwoord>
+      <antwoord nummer="4">Ik heb het bestuur van het ziekenhuis verzocht mij te informeren over de ernst van de door hen aangegeven problemen rond het werven van specialisten in dienstverband. Verder heb ik het bestuur van het ziekenhuis op de hoogte gesteld van mijn zorgen over de te verwachten finan– ciële implicaties ten gevolge van het afwijken van het in dienstverband aantrekken van specialisten en het daaraan verbonden risico voor de uitvoering van het experiment conform de doelstellingen. </antwoord>
+      <antwoord nummer="5">Voor een antwoord op deze vraag heb ik geen gegevens beschikbaar. </antwoord>
+      <antwoord nummer="6">De werkingssfeer van het besluit Experiment Gezondheidszorg Almere heeft geen betrekking op medische specialisten werkzaam binnen een ziekenhuis; voor de tweedelijnsge– zondheidszorg in Almere is het reguliere instrumentarium van de Wet Ziekenhuisvoorzieningen onder– scheidenlijk de Zieken– fondswet/AWBZ van kracht. Het ontbreken van een dienstverband met het ziekenhuis is ingevolge die wetten niet een weigeringsgrond voor het verlenen van een vergunning of erkenning. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

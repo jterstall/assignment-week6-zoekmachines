@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001100</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001100&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001100</item>
+         <item attribuut="Document-id">0000027437</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 167</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Dees (V.V.D.) over een radiozender voor Schiphol-Verkeersinformatie.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 167</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">167</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Dees</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-10-12</item>
+         <item attribuut="Beantwoorder">
+            <persoon>D'Ancona</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-11-19</item>
+         <item attribuut="Beginpagina">337</item>
+         <item attribuut="Eindpagina">338</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="337" allpagenumbers="337" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgevenj 's-Gravenhage 1990"/>
+      <vraagdata vraagnummer="167" onderwerp="een radiozender voor Schiphol– Verkeersinformatie." indiendatum="1990-10-12">
+         <vrager partij="VVD" oorsprong="parlement">Dees</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-11-19">
+         <antwoorder functie="minister" ministerie="Welzijn, Volksgezondheid en Cultuur">D' Ancona</antwoorder>
+         <mede-antwoorder>de minister van Verkeer en Waterstaat)</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1">Hebt u kennis genomen van het voorstel van de N.V. Luchthaven Schiphol, in navolging van buiten– landse luchthavens (in de Verenigde Staten, en in Engeland), door middel van een eigen radiozender informatie te verstrekken ten behoeve van automobilisten over een vlotte verkeersafwikkeling naar de lucht– haven? Deelt u de opvatting, dat dit voorstel kan bijdragen tot een betere verkeersafwikkeling en voor de reizigers een verbetering van dienst– betoon betekent? </vraag>
+      <vraag nummer="3">Is er in technische zin nog ruimte om een radio-etherfrequentie in dit gebied toe te kennen? </vraag>
+      <vraag nummer="4">Ligt de enige belemmering voor toekenning van een etherfrequentie in de Mediawet, respectievelijk in het door u voorgestane mediabeleid, dat uitgaat van slechts één zendgemach– tigde per regio? </vraag>
+      <vraag nummer="5">Deelt u de opvatting, dat een integratie van de Schiphol-Verkeers– informatie in het programma van de Vereniging Lokale Omroep Haarlem– mermeer niet erg voor de hand ligt, respectievelijk veel praktische nadelen heeft? </vraag>
+      <vraag nummer="6">Bent u bereid, indien er technische mogelijkheden zijn, de eventuele wettelijke belemmeringen ter verwe– zenlijking van dit initiatief weg te nemen? Wilt u in uw overwegingen tevens betrekken, dat naar verwachting in de komende jaren ook rond andere West-Europese luchthavens deze radioservice zal worden geboden? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja. Ja, op zich kan het geven van infor– matie over de verkeerssituatie rond Schiphol positief uitwerken op de verkeersafwikkeling. Er zijn evenwel andere wegen voor de verspreiding van verkeersinformatie die hetzelfde doel kunnen bereiken. Ik verwijs hiervoor naar het antwoord op de vragen 4 en 6. </antwoord>
+      <antwoord nummer="3">Nee, in het huidige frequentieplan is geen frequentie beschikbaar. Zou men deze ruimte willen maken dan zal dit ingrijpende gevolgen hebben voor overige gebruikers van de betreffende omroepband. </antwoord>
+      <antwoord nummer="4 en 6" voetnoot="1 2">Een meerderheid in uw Kamer heeft zich - tijdens de behandeling van het wetsvoorstel tot wijziging van bepalingen van de Mediawet in verband met de verruiming van het reclameregime en andere wijzi– gingen <voetnoot nummer="1"/> - tegenstander getoond van het toelaten van meer dan één omroep per lokaal of regionaal verzorgingsgebied. De motie voorge– steld door de leden Dees en Wolffensperger <voetnoot nummer="2"/> die er toe strekte om dit wel mogelijk te maken, is immers verworpen. Derhalve is het reeds bestaan van een lokale en een regionale omroep in het door de Luchthaven Schiphol beoogde verzorgingsgebied een belemmering voor de onderhavige plannen. Bovendien zou aan de Luchthaven Schiphol geen zendtijd kunnen worden toegewezen, omdat deze niet als representatieve instelling kan worden aangemerkt. Ten slotte ligt er een belemmering vanuit technische beschikbaarheid van frequenties, zoals onder 3 is aange– geven. 5 e n  7 Verkeersinformatie inzake Schiphol kan op reguliere wijze verspreid worden via en onder de verantwoor– delijkheid van de landelijke, en nu reeds functionerende regionale of lokale omroep. Voor de Luchthaven Schiphol is wellicht de editie Amsterdam van Radio Noord– Holland het meest aangewezen programma. Ik wijs voorts op mijn </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

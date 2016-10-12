@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19851986:0001916</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001916&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001916</item>
+         <item attribuut="Document-id">0000115476</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1985-1986 nummer 994</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Tazelaar (PvdA) en Van der Linden (CDA) over beperkende maatregelen voor de uitzaai van suikerbieten.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1985-1986 nummer 994</item>
+         <item attribuut="Jaargang">1985_1986</item>
+         <item attribuut="Vraagnummer">994</item>
+         <item attribuut="Indiener">
+            <persoon>Tazelaar</persoon>
+            <persoon>Van der Linden</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-06-24</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Braks</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-09-09</item>
+         <item attribuut="Beginpagina">1979</item>
+         <item attribuut="Eindpagina">1980</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1985-1986 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 5 - 1 9 8 6 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="994" onderwerp="" indiendatum="">
+         <vrager partij="" oorsprong="parlement">Tazelaar</vrager>
+         <vrager partij="" oorsprong="parlement">Van der Linden</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="9 september 1986)">
+         <antwoorder functie="minister" ministerie="Landbouw en Visserij">Braks</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1 " voetnoot="1">Hebt u kennis genomen <voetnoot nummer="1"/> van het feit  dat de Coöperatie Suiker Unie  ongerust is over het steeds groter  wordende areaal suikerbieten in  Nederland en zich afvraagt of er  geen maatregelen moeten komen om  verdere toeneming tegen te gaan?  </vraag>
+      <vraag nummer="2 ">Deelt u de mening van Suiker Unie,  dat het wenselijk is voor de uitzaai  van suikerbieten in 1987 beperkende  "maatregelen te nemen?  </vraag>
+      <vraag nummer="3 ">Zo ja, welke maatregelen anders dan  het zogenaamde contractenstelsel  kunnen een dergelijke beperking  bewerkstelligen? Overweegt u  daartoe over te gaan?  </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Zie Financieel Dagblad van 18 juni  j . l . </noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1 ">De zorg bij de suikerindustrie over de  sterke uitbreiding van het suikerbie- tenareaal in 1986 in Nederland is mij  bekend.  Een oppervlakte van ca. 130.000  ha wordt, tegen de achtergrond van  de toegewezen quota's A en B suiker  en de verwerkingscapaciteit, gezien  als een na te streven areaal. In 1984  en 1985 werd dit areaal redelijk  benaderd. Dit jaar is de inzaai echter  aanzienlijk hoger: ca. 137.000 ha.  Daarbij moet in ogenschouw geno- men worden dat er enkele incidentele  redenen zijn voor deze uitbreiding, te  weten:  - het uitwinteren van gewassen;  - het opzeggen van contracten bij  andere teelten;  - de relatief gunstige prijs voor de  bieten in 1985.  2 en 3  In het kader van de EG-suiloerregeling  zijn landen-quota toegewezen. Een  areaal dat een produktie levert, die  aanzienlijk boven de toegewezen A  en B quota's komt, zal leiden tot een  grotere hoeveelheid C-suiker en, bij  toepassing van het mengprijssysteem  zoals in Nederland, een druk op de  gemiddelde prijs leggen.  De keuze voor een ander systeem  om het toegewezen quotum zo goed  mogelijk te benaderen, is gegeven de  huidige mogelijkheden primair een  zaak tussen telers en verwerkende  bedrijfsleven om met de betrokken  partijen mogelijke alternatieven te  bestuderen acht ik derhalve een  goede zaak.  Voorlopig acht ik het dan ook niet  nodig beperkende maatregelen  betreffende de oppervlakte voor  1987 te overwegen.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001685</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001685&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001685</item>
+         <item attribuut="Document-id">0000011989</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 755</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van Rijn-Vellekoop (PvdA) over subsidieverlening voor hoog-rendementsketels.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 755</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">755</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Van Rijn-Vellekoop</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-07-24</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Andriessen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-07-19</item>
+         <item attribuut="Beginpagina">1541</item>
+         <item attribuut="Eindpagina">1542</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1541" allpagenumbers="1541" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="755" onderwerp="subsidieverlening voor hoog-rendementsketels." indiendatum="24juni 1993">
+         <vrager partij="PvdA" oorsprong="parlement">Van Rijn-Vellekoop</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="19juli 1993">
+         <antwoorder functie="minister" ministerie="Economische Zaken">Andriessen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Is de subsidieverlening voor hoog-rendementsketels gestopt'? </vraag>
+      <vraag nummer="2">Zo ja, welke gevolgen heeft dat voor de mensen die reeds een ketel hebben besteld en de subsidie nog moeten krijgen? </vraag>
+      <vraag nummer="3">Hoe is te verklaren, dat in de reclamespot «En nu het goede nieuws over het milieu» nog steeds wordt gewezen op de mogelijkheid van subsidie voor de aanschaf van die ketel? Ziet u een mogelijkheid om voor het lopende jaar nog met de distributiebedrijven tot een afbouwregeling te komen, zodat de verwachtingen die naar de consument toe zijn gewekt ook vervuld kunnen worden? Indien volgend jaar niet meer gesubsidieerd zal worden, bent u dan bereid dit in een vroeg stadium bekend te maken, zodat de burger en de branche weten waar zij aan toe zijn? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1993-06-22" bron=" Algemeen Dagblad"> Algemeen Dagblad, 22 juni 1993</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1">De subsidieverlening voor Hoog Rendements-ketels (HR-ketels) (en voor low NOx VR-ketels) is stopgezet als gevolg van de uitputting van het njksbudget voor deze subsidies. In ieder geval zulien aanvragen die na 20 jum 1993 op basis van het Besluit Subsidies Energiezuinige en Emissie-arme verwarmingstoestellen zijn ingediend, worden afgewezen. </antwoord>
+      <antwoord nummer="2">Hierbij zijn twee gevallen te onderscheiden: a. subsidie die voor het plaatsen van de HR-ketels wordt aangevraagd (de zogenaamde vooraf-procedure die bij grotere projecten mogelijk is): deze subsidie wordt toegekend indien de aanvraag voor de datum waarop het budget is uitgeput is ingediend, ook al moeten de ketels nog worden geplaatst Uitbetaling zal na plaatsing plaatsvmden b. subsidie die na het plaatsen van de ketels wordt aangevraagd: deze aanvragen worden afgewezen indien de aanvraag na de datum waarop het budget is uitgeput is binnengekomen, ook al is de ketel eerder geplaatst. Zie ook het antwoord op vraag 4. </antwoord>
+      <antwoord nummer="3">Zodra duidelijk werd dat het subsidiebudget vrijwel uitgeput was zijn de betrokken instanties (het Centraal Informatiepunt voor de subsidieregeling, nutsbedrijven en installateurs via hun branchevereniging) daarvan in kennis gesteld. Helaas is het in een geval (het in vraag 3 genoemde) niet tijdig gelukt de (radio-)spot terug te nemen. Overigens kan nooit helemaal worden voorkomen dat informatiemateriaal (zoals brochures) dat inmiddels door de feiten is achterhaald, nog door iemand wordt gebruikt. Er wordt echter getracht dit zo veel mogelijk tegen te gaan. </antwoord>
+      <antwoord nummer="4">In juridische zin is geen sprake van gewekte verwachtingen, omdat uit het subsidiebesluit duidelijk kenbaar was dat aanvragen worden afgewezen indien het budget is uitgeput. Voor de subsidiering van HR/low NOx-ketels wordt geen extra rijksbudget beschikbaar gesteld Wel kunnen nutsbedrijven voor een aantal gevallen uit een oogpunt van coulance tijdelijk uit hun eigen MAP-middelen nog subsidie verstrekken. </antwoord>
+      <antwoord nummer="5">Het is inderdaad niet de bedoeling dat de HR/low NOx-ketel volgend jaar weer gesubsidieerd zal worden. Het Besluit Subsidies Energiezuinige en Emissie-arme verwarmingstoestellen zal dan ook worden ingetrokken. Hieraan zal de nodige bekendheid worden gegeven Overigens betekent dit niet dat hiermee de bevordering van de HR– </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

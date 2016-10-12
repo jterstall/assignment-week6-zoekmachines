@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001428</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001428&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001428</item>
+         <item attribuut="Document-id">0000027765</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 493</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden De Cloe en Melkert (beiden P.v.d.A.) over decentralisatie.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 493</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">493</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">De Cloe</persoon>
+            <persoon partij="PvdA">Melkert</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-03-15</item>
+         <item attribuut="Beantwoorder">
+            <persoon>De Graaff-Nauta</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-04-05</item>
+         <item attribuut="Beginpagina">999</item>
+         <item attribuut="Eindpagina">1000</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="999" allpagenumbers="999" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgevenj 's-Gravenhage 1991"/>
+      <vraagdata vraagnummer="493" onderwerp="decentralisatie." indiendatum="1991-03-15">
+         <vrager partij="PvdA" oorsprong="parlement">De Cloe</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Melkert</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1991-04-5">
+         <antwoorder functie="staatssecretaris" ministerie="Binnenlandse Zaken">De Graaff-Nauta</antwoorder>
+         <mede-antwoorder>de minister-president, de ministers van Financiën en van Binnenlandse Zaken en de staatssecretaris van Financiën</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1" voetnoot="1">Hebt u kennis genomen van het artikel «Plan tot delegatie van rijks– taken verdeelt kabinet»? <voetnoot nummer="1"/> Zo ja, is deze weergave in overeenstemming met de feiten? Hoe is het in dit artikel vermelde verzet van vrijwel alle betrokken ministers te rijmen met de verplichting om de decentralisatie– inspanning te doen slagen en met het feit, dat deze verplichting al die ministers committeert, die politieke verantwoordelijkheid dragen voor Rijkstaken die in samenwerking met gemeenten en provincies worden uitgevoerd? </vraag>
+      <vraag nummer="3">In hoeverre zal het regeringsvoor– nemen om zo nodig een beroep te doen op het overmachtsartikel in de Bestuursakkoorden, indien onver– hoopt de taakstelling van de decen– tralisatievoornemens niet wordt gerealiseerd, stimulerend werken voor de desbetreffende ministeries? Zijn de voornemens in het kader van de «Grote efficiency» (taakstelling 660 miljoen) en de decentralisatie nieuwe stijl (besparing 550 miljoen) gezamenlijk goed voor 1210 miljoen bezuinigingen of overlappen deze voornemens elkaar? Wat is de omvang van een eventuele overlapping? Welke zijn de gevolgen van een eventuele overlapping voor de afzonderlijke voornemens? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="2"/>
+         <noot nummer="1" datum="1991-03-9" bron=" Zie " titel="de Volkskrant"> Zie «de Volkskrant», 9 maart 1991</noot>
+         <noot nummer="2"> Zie brief dd. 5 maart 1991 van de minister-president; Kamerstuk 21 998 nr. 30</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Het bedoelde krantebericht hebben wij gelezen. Het bevat op belangrijke punten onjuiste informatie en geeft geen correcte weergave van de feiten. In aanvulling op de Tussen– balans kan nog worden medegedeeld dat het kabinet op 15 maart jl. nadere procedure-afspraken heeft gemaakt. Bij brief van gelijke datum zijn VNG en IPO uitgenodigd voor 15 april a.s. hun inbreng in te dienen. Het streven is erop gericht de besluitvorming in juni af te ronden. </antwoord>
+      <antwoord nummer="2">Gelet op het bovenstaande behoeft deze vraag geen nadere beant– woording. </antwoord>
+      <antwoord nummer="3">Op het overmachtsartikel kan alleen een beroep worden gedaan indien er werkelijk sprake is van overmacht. Dit is ook voor de desbetreffende ministeries duidelijk. </antwoord>
+      <antwoord nummer="4">Er is geen sprake van overlapping in de bedragen. De f 550 mln. ingevolge de Decentralisatie-impuls wordt opgebouwd uit efficiency-besparingen op program– uitgaven. De taakstelling in het kader van de grote efficiency is berekend (en zal worden ingevuld) op basis van bespanngen op personele uitgaven en bijbehorende materiële uitgaven (apparaatskosten van rijks– personeel). Er zijn wel over en weer uitstralingseffecten van beide operaties op elkaar. In de grote efficiency kunnen ook personeelsbe– sparingen aan rijkszijde worden meegeteld die als neveneffect voort– vloeien uit de decentralisatie van rijkstaken. Omgekeerd kunnen bepaalde grote-efficiency maatre– gelen interessant zijn voor het totale pakket dat aan VNG en IPO zal worden aangeboden. Deze inhoude– lijke verwevenheid maakt dat het kabinet voorzieningen heeft getroffen voor een goede afstemming tussen beide operaties. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

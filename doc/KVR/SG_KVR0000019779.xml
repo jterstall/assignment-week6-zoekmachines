@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001393</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001393&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001393</item>
+         <item attribuut="Document-id">0000019779</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 378</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Tommel (D66) over de Algemene Energieraad.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 378</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">378</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Tommel</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-01-23</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Andriessen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-02-13</item>
+         <item attribuut="Beginpagina">803</item>
+         <item attribuut="Eindpagina">804</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="803" allpagenumbers="803" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="'s Gravenhage 1992"/>
+      <vraagdata vraagnummer="378" onderwerp="de Algemene Energieraad." indiendatum="1992-01-23">
+         <vrager partij="D66" oorsprong="parlement">Tommel</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="13februari 1992">
+         <antwoorder functie="minister" ministerie="Economische Zaken">Andriessen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Waarom hebben de wensen van de energiewoordvoerders in deze Kamer, dat de Algemene Energieraad een breder scala aan onderwerpen zou moeten behandeien en meer aandacht zou moeten besteden aan analyse en onderbouwing van adviezen, niet tot enig resultaat in deze richting geleid, doch is integendeel gekozen voor het drastisch inkrimpen van het secretariaat van de Raad waardoor juist een tegenovergesteld effect wordt bereikt?' </vraag>
+      <vraag nummer="2" voetnoot="2">Wat is uw reactie op het door verschillende leden van de Raad geuite verwijt dat bij de grote efficiency-operatie «kennelijk geen sprake is van een gecoördineerde benadering van vergelijkbare adviesraden?» <voetnoot nummer="2"/> Wilt u hierbij betrekken dat de Raad reeds eerder heeft geconstateerd dat de secretariaten van andere «kleinere» raden meestal meer dan twee keer zo groot zijn?' </vraag>
+      <vraag nummer="3">Welke instantie zal na herstructurering van de Algemene Energieraad worden belast met de uitvoering van diepgaande analyses over het gehele brede terrein van het energiebeleid? Kan de Raad zowel de onafhankelijke advisering op hoofdlijnen als de gewenste platform-functie verzorgen nu het aantal leden wordt teruggebracht naar 8 a 10? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1990-04-24" bron=" Zelfevaluatie van de AER dd."> Zelfevaluatie van de AER dd., 24 april 1990</noot>
+         <noot nummer="2" datum="1991-11-29" bron=" Brief van de voorzitter en de secretaris van de AER aan de vaste commissie voor Economische Zaken dd."> Brief van de voorzitter en de secretaris van de AER aan de vaste commissie voor Economische Zaken dd., 29 november 1991</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1 en 3">Het ligt in mijn voornemen om de Algemene Energieraad zoveel mogelijk advies te vragen aan de hand van concept-beleids– voornemens. Daarbij geldt in het algemeen dat deze mede gebaseerd zullen zijn op in– en externe rapportages over de relevante aspecten, die aan de raad ter beschikking zullen worden gesteld. Voor het uitvoeren van diepgaande analyses over het gehele brede terrein van het energiebeleid wordt door het ministerie van Economische Zaken veelvuldig gebruik gemaakt van vele externe instanties en onderzoeksinstellingen, zoals ECN, universiteiten en particuliere bureaus. Het mede op basis van dergelijke analyses adviseren over de hoofdlijnen van het energiebeleid blijft de taak van de AER. Daarnaast beschikt de AER over een voldoende ruim eigen onderzoeksbudget. </antwoord>
+      <antwoord nummer="2">Voor de andere adviesorganen geldt dat zij, zoals vermeld in de aanwijzingen inzake externe adviesorganen, periodiek worden geëvalueerd. De termijn waarin zulks tekens dient te geschieden en geschiedt varieert van drie tot zes jaar. Een gecoördineerde benadering van vergelijkbare adviesraden is daarbij niet goed te realiseren. Vanwege de voorgestelde werkwijze van de hernieuwde AER en de daaruit voortvloeiende nieuwe taakstelling voor het secretariaat, wordt een AER-secretariaat op de beoogde sterkte en niveau adequaat en verantwoord geacht </antwoord>
+      <antwoord nummer="4">Het is de bedoeling een raad samen te stellen uit deskundigen op een breed maatschappelijk terrein. De deskundigen moeten op afstand naar het energiebeleid kunnen kijken en op persoonlijke titel hun visie kunnen geven. Daarbij zal ik er tevens voor zorg dragen dat de samenstelling van de raad zodanig is dat de verscheidenheid aan visies evenwichtig is gespreid. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

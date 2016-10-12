@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001939</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001939&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001939</item>
+         <item attribuut="Document-id">0000107714</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 905</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Eisma (D66) over openbare wateren.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 905</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">905</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Eisma</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-06-23</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Smit-Kroes</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-07-21</item>
+         <item attribuut="Beginpagina">1807</item>
+         <item attribuut="Eindpagina">1808</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 6 - 1 9 8 7 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="905" onderwerp="openbare wateren." indiendatum="23 juni 1987)">
+         <vrager partij="D66" oorsprong="parlement">Eisma</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="21 juli 1987)">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">S m i t - K r o e s</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1 ">In welk stadium bevindt zich de  voorbereiding van een voorstel van  wet op de openbare wateren?  Wanneer zal dit bij de Tweede Kamer  worden ingediend?  </vraag>
+      <vraag nummer="2 ">Mag uit uw antwoord van 8 mei  j l . op  de schriftelijke vragen van 12  december 1986 worden afgeleid,  dat, nu het Stadsgewest Roermond  en het provinciaal bestuur van  Limburg de Maasplassen als openbaar  vaarwater beschouwen, Aqua Terra  NV water niet aan de openbare  bestemming kan onttrekken?'  </vraag>
+      <vraag nummer="3 ">Is Aqua Terra gerechtigd een  vergoeding te vragen aan waterspor- ters die gebruik maken van de  grindplassen?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1 ">Mijn departement werkt thans aan  een ambtelijk voorontwerp van een  Wet op de openbare wateren. Een  wetsvoorstel zal naar verwachting in  1 989 bij de Kamer worden ingediend.  Zoals uit mijn antwoord van 8 mei  j l .  blijkt kan in het algemeen worden  gezegd dat naar vaste jurisprudentie  een eigenaar niet bevoegd is de tot  zijn eigendom behorende vaarwateren  aan de openbare bestemming te  onttrekken, zonder medewerking van  de bevoegde overheidsinstantie. Het  enkele feit dat het stadsgewest  Roermond en het provinciaal bestuur  van Limburg de Maasplassen als  openbaar vaarwater beschouwen  maakt echter het (vaar)water  waarvan Aqua Terra eigenaar is nog  niet tot een openbaar (vaar)water.  Daarvoor is nodig dat de openbare  bestemming komt vast te staan. Of  er in casu gesproken kan worden van  een (vaar)water met een openbare  bestemming is een feitelijke vraag  die zal moeten worden voorgelegd  aan de rechter die over deze vraag  vermag te oordelen.  </antwoord>
+      <antwoord nummer="3 ">Indien komt vast te staan dat er  sprake is van een (vaar)water met  een openbare bestemming en de  bevoegde beheerder niet instemt  met de onttrekking aan de openbare  bestemming van dit (vaar)water kan  op grond van de bestaande jurispru- dentie geen vergoeding worden  gevraagd voor een normaal vaarge- bruik.  In hoeverre de hierbedoelde water- sport in deze concrete situatie als  zodanig moet worden aangemerkt is  eveneens een feitelijke vraag die in  laatste instantie door de rechter  moet worden beoordeeld.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

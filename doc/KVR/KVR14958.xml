@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="4">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Duijkers en Van Oven (beiden PvdA) aan de minister van Justitie over de voorgenomen sluiting van een Huis van Bewaring. (Ingezonden 17 januari 2002); Antwoord</item>
+         <item attribuut="Bestand">13Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR14958
+</item>
+         <item attribuut="Inhoud">Vragen over de voorgenomen sluiting van het Huis van Bewaring de Blokhuispoort in relatie tot de problematiek van het cellentekort.</item>
+         <item attribuut="Rubriek">Criminaliteit en openbare orde (Gevangeniswezen en penitentiair recht)</item>
+         <item attribuut="Trefwoorden">Gevangeniswezen</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2001-2002, nr. 539, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2010204560</item>
+         <item attribuut="Afkomstig_van">Justitie (JUS)</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Duijkers</persoon>
+            <persoon partij="PvdA">Van Oven</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2002-01-23</item>
+         <item attribuut="Datum_indiening">2002-01-17</item>
+         <item attribuut="Document-id">KVR14958</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2001–2002" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1129" allpagenumbers="1129" vetnummer="2010204560" code="" lopendefooter="Tweede Kamer, vergaderjaar 2001–2002, Aanhangsel" filenaam="KVR14958" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2002"/>
+      <vraagdata vraagnummer="539" onderwerp="" indiendatum="2002-01-17">
+         <vrager partij="PvdA" oorsprong="parlement">Duijkers</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Van Oven</vrager>
+         <vraagt-aan>de minister van Justitie</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2002-01-23">
+         <antwoorder functie="minister" ministerie="Justitie">Korthals</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Bent u bekent met het voornemen van de Dienst Justitiële Inrichtingen om tot sluiting over te gaan van het Huis van Bewaring de Blokhuispoort? </vraag>
+      <vraag nummer="2">Hoe beoordeelt u dit besluit in het licht van de problematiek van het cellentekort zoals dat begin december van het afgelopen jaar en ook dezer dagen naar voren is gekomen? </vraag>
+      <vraag nummer="3">In hoeverre zou het Huis van Bewaring de Blokhuispoort soelaas kunnen bieden ten behoeve van de insluiting van drugkoeriers die op de luchthaven Schiphol worden gearresteerd? </vraag>
+      <vraag nummer="4">Bent u bekend met het negatieve advies van de ondernemingsraad over de voorgenomen sluiting van het Huis van Bewaring? Wat is uw oordeel over de onderbouwing van dat advies? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Het besluit ziet niet op reductie van de totale celcapaciteit, maar gaat gepaard met vervangende nieuwbouw in het Noorden van het land (gepland 2005) en elders in het land. Bovendien is voorzien dat daadwerkelijke sluiting pas plaatsvindt na het gereed komen van de nieuwbouw. De sluiting van het huis van bewaring De Blokhuispoort is weliswaar definitief, echter het exacte tijdstip zou nog aan wijziging onderhevig kunnen zijn, indien nieuwe prognoses een verdere uitbreiding van de landelijke capaciteit noodzakelijk maken. In dat geval is het denkbaar dat ook na het gereed komen van de nieuwbouw in Groningen De Blokhuispoort nog enige tijd in gebruik blijft gedurende de periode die nodig is om elders extra capaciteit te realiseren. </antwoord>
+      <antwoord nummer="3">Aangezien de celcapaciteit in De Blokhuispoort de komende jaren nodig is om in de behoefte aan reguliere celcapaciteit te voorzien, kan De Blokhuispoort geen dienst doen als bijzondere voorziening voor de insluiting van drugkoeriers. In dat opzicht vervult het geen andere rol dan elk ander huis van bewaring. </antwoord>
+      <antwoord nummer="4">Ja, het advies is bij de totstandkoming van het besluit betrokken. In de brief aan de algemeen directeur van de penitentiaire inrichting Noord wordt uitgebreid ingegaan op de argumenten en voorstellen van de ondernemingsraad en wordt toegelicht waarom niettemin wordt overgegaan tot sluiting. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

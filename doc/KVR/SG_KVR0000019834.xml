@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001448</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001448&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001448</item>
+         <item attribuut="Document-id">0000019834</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 432</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden De Pree. Beijlen-Geerts en Valk (allen PvdA) over de eventuele verkoop van de woningen van het Tuinwijkcomplex na restauratie.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 432</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">432</item>
+         <item attribuut="Indiener">
+            <persoon>De Pree</persoon>
+            <persoon>Beijlen-Geerts</persoon>
+            <persoon>Valk</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-02-06</item>
+         <item attribuut="Beantwoorder">
+            <persoon>d'Ancona</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-03-06</item>
+         <item attribuut="Beginpagina">915</item>
+         <item attribuut="Eindpagina">916</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="915" allpagenumbers="915 916" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="'s Gravenhage 1992"/>
+      <vraagdata vraagnummer="432" onderwerp="de eventuele verkoop van de woningen van het Tuinwijkcomplex na restauratie." indiendatum="1992-02-6">
+         <vrager partij="" oorsprong="parlement">De Pree</vrager>
+         <vrager partij="" oorsprong="parlement">Beijlen-Geerts</vrager>
+         <vrager partij="" oorsprong="parlement">Valk</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-03-6">
+         <antwoorder functie="minister" ministerie="Welzijn, Volksgezondheid en Cultuur">d'Ancona</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1">Hebt u kennis genomen van het voornemen van de gemeente Haarlem om de woningen van het Tuinwijkcomplex na restauratie te verkopen?' </vraag>
+      <vraag nummer="2">Is eventuele verkoop aan de orde geweest, voordat subsidie werd toegekend op grond van het Besluit Rijkssubsidiëring Restauratie Monumenten (BRRM)? </vraag>
+      <vraag nummer="3">Is door u, naast de subsidie op grond van het BRRM, nog verdere financiële steun voor de restauratie verleend? Zo ja, hoeveel en uit welke begrotingspost? </vraag>
+      <vraag nummer="4">Hoe beoordeelt u een eventuele verkoop in relatie tot de door u beschikbaar gestelde subsidiegelden? </vraag>
+      <vraag nummer="5">Zal deze verkoop plaatsvinden tegen marktwaarde? Zo ja, houdt dit dan in, dat de door het rijk verleende restauratiesubsidie ten goede komt aan de gemeente Haarlem c.q. dient ter versterking van de financiële positie van het gemeentelijk woningbedrijf aldaar? </vraag>
+      <vraag nummer="6">Zo ja, ligt het dan niet voor de hand, dat de subsidie geheel of gedeeltelijk aan het rijk wordt teruggegeven? </vraag>
+      <vraag nummer="7">Bieden de subsidievoorwaarden daartoe een aanknopingspunt? Zo neen, verdient het dan geen aanbeveling deze aan te passen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1991-12-21" bron=" Haarlems Dagblad"> Haarlems Dagblad, 21 december 1991</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja. Dat voornemen heeft uitgebreid de pers gehaald. En daaruit heb ik het dan ook vernomen. Nee. Het BRRM kent geen bepalingen ten aanzien van verkoop na subsidiëring. Ten aanzien van de BRRM-financiering bericht ik u volledigheidshalve het volgende. Op grond van het BRRM werd reeds f 805.000, subsidie toegekend aan het Gemeentelijk Woningbedrijf van Haarlem. Deze f 805.000,- zijn ter beschikking gesteld uit de aan de gemeente toegekende budgetten voor 1994 en 1995 op grond van BRRM. Het is de bedoeling van de gemeente dat uit haar (toekomstige) BRRM-budgetten in totaal f 4.063.500,- beschikbaar zal worden gesteld. </antwoord>
+      <antwoord nummer="3">Ja. Naast de gelden uit de gemeentelijke budgetreservering van het BRRM is er nog een subsidie ad f 3.431.400,- verleend. Dit bedrag werd in 1990 toegekend ten laste van het restauratie-artikel. Die ruimte was er, omdat in 1990 niet alle gereserveerde budgetten door de gemeenten geheel werden gebruikt voor subsidietoezeggingen. Met andere woorden: er bleef geld over dat in de zogenaamde reallocatie kon worden toegezegd buiten de gemeentelijke budgetreserveringen om. Sinds 1991 vloeien dergelijke niet benutte reserveringen in de knelpuntenpot (artikel 9 van het BRRM). In 1990 bestond die zogenaamde knelpuntenpot nog niet, want het BRRM trad op 1 januari 1991 in werking. </antwoord>
+      <antwoord nummer="4">Formeel dien ik de verkoop in relatie tot de beschikbaar gestelde subsidiegelden te beoordelen aan de hand van het BRRM. Het BRRM beoogt de instandhouding van beschermde monumenten te bevorderen. Daartoe wordt aan eigenaren van beschermde monumenten de mogelijkheid van een subsidie geboden zodat een (normaliter te) kostbare restauratie financieel mogelijk wordt en eigenaren aldus tot een verantwoorde restauratie gestimuleerd worden. Aan instandhouding van Tuinwijk-zuid voor ogen staat. Daar verandert verkoop niets aan. </antwoord>
+      <antwoord nummer="5">Of de verkoop plaats zal vinden tegen marktwaarde weet ik niet. Evenmin is mij bekend wiens financiële positie door een eventuele transactie al dan niet versterkt zal worden. Ik neem evenwel aan dat de verkopende partij er naar zal streven zichzelf niet te benadelen. 6en  7 De subsidiebepalingen bieden geen aanknopingspunt voor gehele of gedeeltehjke teruggave van subsidie uitsluitend op grond van het enkele feit van verkoop. Ook bij de totstandkoming van de Monumentenwet 1988 is aan dit onderwerp aandacht besteed. In de memorie van antwoord schrijven de toenmalige Ministers van Welzijn, Volksgezondheid en Cultuur, en van Volkshuisvesting, Ruimtelijke Ordening en Miheubeheer «Uit onderzoek is gebleken dat het met de speculatie met recent gerestaureerde monumenten niet zo'n vaart loopt. Dit ligt voor de hand; immers het subsidie wordt gebruikt om de onrendabele top van de restauratie te financieren, de eigenaar dient zelf eveneens een belangrijk aandeel in de restauratiekosten voor zijn rekening te nemen. De vraag is verder of de kosten van controle, administratie en terugvordering niet zo hoog zullen zijn, dat in vergelijking het rendement - financieel en bevrediging van rechtsgevoel - zeer zoals wij eerder in de memorie van antwoord hebben gesteld, alleszins verantwoord eigenaren op deze wijze te pnkkelen tot restauratie.» Dat standpunt lijkt mij ook thans nog alleszins redelijk. De voorgenomen verkoop van Tuinwijk geeft mij (nog) geen aanleiding tot een ander standpunt. Wel neem ik mij voor ook dit punt in de a.s. evaluatie van het beleid op het terrein van de monumentenzorg mee te nemen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19931994:0001372</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001372&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001372</item>
+         <item attribuut="Document-id">0000003883</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 158</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Sipkes (Groen Links) en Wolffensperger (D66) over toewijzing van woningen aan asielzoekers.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 158</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">158</item>
+         <item attribuut="Indiener">
+            <persoon>Sipkes</persoon>
+<persoon>Wolffensperger</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-10-14</item>
+         <item attribuut="Beantwoorder">
+            <persoon>d'Ancona</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-11-29</item>
+         <item attribuut="Beginpagina">321</item>
+         <item attribuut="Eindpagina">322</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="321" allpagenumbers="321 322" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="158" onderwerp="toewijzing van woningen aan asielzoekers." indiendatum="1993-10-14">
+         <vrager partij="" oorsprong="parlement">Sipkes</vrager>
+<vrager partij="" oorsprong="parlement">Wolffensperger</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="29 november 1993), zie ook aanhangsel Handelingen nr. 138, Vergaderjaar 1993-1994">
+         <antwoorder functie="minister" ministerie="Welzijn, Volksgezondheid en Cultuur">d'Ancona</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1" voetnoot="1">Is de toewijzing van woningen aan asielzoekers in een aantal gemeenten al enige tijd stopgezet vanwege onenigheid over de nieuwe toewijzingsregels van de Centrale Opvang Asielzoekers (COA)? Om hoeveel gemeenten gaat het? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Bent u bereid een bijdrage te leveren aan het doorbreken van de bestaande impasse, opdat zo spoedig mogelijk de toewijzing van alle daarvoor beschikbare en leegstaande woningen voortgang vindt? Acht u het juist, dat in de recentelijk door de COA aangepaste regels voor uitplaatsing van verblijfsgerechtigden het zogenaamde First in First out principe zodanig scherp wordt gehanteerd, dat slechts minimaal wordt rekening gehouden met wensen en behoeften van betrokkenen en andere plaatsingscriteria slechts een rol spelen voorzover er contracten, uittreksels uit bevolkingsregister en andere documenten kunnen worden overgelegd? </vraag>
+      <vraag nummer="4">Bent u bereid erop aan te dringen, dat dergelijke stringente beperkingen aan verblijfsgerechtigden worden versoepeld, zodat ook toezeggingen voor werk of scholing (zonder dat contracten aanwezig zijn) en het verblijf van familieleden waarvan geen bewijsstukken beschikbaar zijn, worden aanvaard als aanvullende plaatsingscritera? </vraag>
+      <vraag nummer="5" voetnoot="2">Op welke wijze wordt in het bestaande toewijzingssysteem door het COA rekening gehouden met gemeentelijk beleid inzake woningverdeling, zoals bepleit door diverse gemeentebesturen? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="6">Op welke wijze kan in het nu gehanteerde toewijzingssysteem rekening worden gehouden met de door het ministerie van Sociale Zaken en de Regionale Besturen voor de Arbeidsvoorziening ontwikkelde plannen om verblijfsgerechtigden in de vorm van regionale projecten te leiden naar de arbeidsmarkt? Acht u het aanvaardbaar, dat een verblijfsgerechtigde die een woning krijgt toegewezen slechts 7 dagen tijd krijgt om zijn nieuwe woning te betrekken, terwijl in die korte periode ook nog moet worden voorzien in organisatie en financiering van de verhuizing en de inrichting? Zo neen, bent u bereid de regeling op dit punt te (doen) versoepelen? </vraag>
+      <vraag nummer="8">Welke maatregelen overweegt u om te bevorderen, dat op 1 juli 1994 de doelstelling van de uitplaatsing van 30 000 verblijfsgerechtigden door gemeenten en woningbouwverenigingen zal zijn gerealiseerd? </vraag>
+      <vraag nummer="9">Welke mogelijkheden zijn er voor gemeentebesturen om buiten de COA om zelfstandig verblijfsgerechtigden in te schrijven en te huisvesten? Bestaat er enig inzicht in de mate waarin dat gebeurt? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> De nieuwe regeling van de Centrale Opvang Asielzoekers dateert van augustus 1993</noot>
+         <noot nummer="2"> Zie o.m. brief College B en W van Tilburg aan WVC d d 28 september 1 993, is onderhands aan de regering doorgezonden</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="6">
+      <antwoord nummer="1">De uitplaatsing van asielzoekers naar zogenaamde ROA-woningen en de toewijzing van woningen aan statushouders wordt uitgevoerd door de Centrale Opvang Asielzoekers (COA). Navraag over de gesignaleerde stopzetting heeft het volgende geleerd. Bij de toewijzing van woningen aan statushouders is verblijven wordt het «First In First Out»-beginsel gehanteerd om te waarborgen dat geen onrechtvaardige verschillen optreden in de duur van het verblijf van asielzoekers in de centrale opvang. De laatste maanden doet zich de situatie voor dat alleenstaanden aan de beurt zijn voor uitplaatsing naar een ROA-woning, doch dat de betrokken gemeente geen alleenstaanden, maar een gezin geplaatst wil hebben. Deze situatie doet zich op dit moment voor bij 10 gemeenten, waarbij het om in totaal 156 plaatsen gaat. </antwoord>
+      <antwoord nummer="2">Ja. Ik zal in overleg met de COA en de betrokken gemeenten ernaar streven zo spoedig mogelijk een oplossing te creëren. </antwoord>
+      <antwoord nummer="3 en 4">Het uitgangspunt voor de uitplaatsing van verblijfsgerechtigden is het FIFO-beginsel. In overleg met de COA zijn «richtlijnen huisvesting verblijfsgerechtigden uit de centrale opvang» vastgesteid Daarin is bepaald dat zo mogelijk rekening zal worden gehouden met de volgende aanvullende plaatsingscriteria: - reeds in dezelfde gemeente gehuisveste bloed– en aanverwanten 1e en 2e graads - toekomstperspectieven van de verblijfsgerechtigde zoals bijvoorbeeld: - het hebben van (aanbod van) werk; - toelating tot een onderwijsvoorziening waarvoor elders geen mogelijkheden zijn en de bereikbaarheid ervan; - medische indicatie c.q. langdurige na overleg een hierop toegesneden afspraak worden gemaakt. </antwoord>
+      <antwoord nummer="6">Met verblijfsgerechtigden die betrokken zijn bij regionale projecten voor toeleiding naar de arbeidsmarkt zal bij de uitplaatsing afzonderlijk rekening worden gehouden. </antwoord>
+      <antwoord nummer="7">Ja. Van de aangeboden woonruimte dient zo snel mogelijk gebruik te worden gemaakt c.q. dient het verblijf in de centrale opvang zo snel mogelijk te worden beëindigd. De betrokken gemeente draagt direct zorg voor de financiering van de inrichting zodat de noodzakelijke acties binnen de genoemde termijn gerealiseerd kunnen worden. </antwoord>
+      <antwoord nummer="8">Op dit moment heeft 95% van de gemeenten toegezegd de taakstelling volledig dan wel gedeeltelijk te realiseren. In reguliere huisvestingsplaatsen voor verblijfsgerechtigden komt dit neer op 90,7% van de 30.000 plaatsen. De Inspecteurs van de Volkshuisvesting van het ministerie van VROM zijn gezamenlijk met consulenten van het ministerie van WVC nog in intensief overleg met de laatste gemeenten om ook hen te bewegen een bestuurlijke toezegging te doen om de taakstelling volledig te realiseren vóór 1 mei 1994. De daadwerkelijke levering van reguliere huisvestingsplaatsen zal eveneens door de Inspecteurs van de Volkshuisvesting van het ministerie van VROM op basis van de meest recente informatie van de COA op de voet gevolgd worden. Gemeenten die achterlopen in de levering van de verblijven in de opvang inschrijven en huisvesten. Indien dit gebeurt, moet de gemeente dit wel doorgeven aan de COA, zodat de gemeente niet onnodig wordt aangesproken op het restant van haar taakstelimg. De huisvesting van deze verblijfsgerechtigden buiten de COA om telt derhalve gewoon mee bij de realisatie van de taakstelling. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

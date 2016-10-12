@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19891990:0000991</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0000991&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0000991</item>
+         <item attribuut="Document-id">0000035398</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 71</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Feenstra en Van Rijn-Vellekoop (beiden P.v.d.A.) over onderzoek naar verontreiniging door dioxine.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 71</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">71</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Feenstra</persoon>
+            <persoon partij="PvdA">Van Rijn-Vellekoop</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-08-31</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Braks</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-10-20</item>
+         <item attribuut="Beginpagina">143</item>
+         <item attribuut="Eindpagina">144</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="143" allpagenumbers="143" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 921 - 7398" uitgever="SDU uitgeverij 's Gravenhage 1989"/>
+      <vraagdata vraagnummer="71" onderwerp="onderzoek naar ver– ontreiniging door dioxine." indiendatum="1989-08-31">
+         <vrager partij="PvdA" oorsprong="parlement">Feenstra</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Van Rijn-Vellekoop</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1989-10-20">
+         <antwoorder functie="minister" ministerie="Landbouw en Visserij">Braks</antwoorder>
+         <mede-antwoorder>de minister van Volkhuis– vesting, Ruimtelijke Ordening en Milieubeheer</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1">Vormt het feit, dat in melkmonsters rond de kabelbranderij in Culemborg dioxinegehaltes gevonden zijn, die boven de - tijdelijke - norm van 6 picogram per gram melkvet liggen, aanleiding tot het - althans voorlopig - stilleggen van deze branderij? </vraag>
+      <vraag nummer="2">Wordt in het nu begonnen, uitge– breide onderzoek, behalve naar het vóórkomen van dioxine in melk, ook gekeken naar andere landbouwpro– dukten zoals vlees en veevoeders, zoals in het Lickebaertgebied is gedaan? </vraag>
+      <vraag nummer="3">Zijn reeds nu maatregelen voorbereid om bij gebleken normoverschrij– dingen direct de verontreinigde produkten apart te kunnen inzamelen, de gedupeerden (boeren, tuinders etcetera) schadeloos te stellen en de kosten te verhalen op de vervuiler? Kan gelijktijdig met de publicatie van de resultaten van het onderzoek worden aangegeven welke maatre– gelen met betrekking tot deze branderij reeds getroffen hadden kunnen worden, danwel getroffen zullen worden door het bedrijf of door de gemeente, provincie of rijk? Wordt in het beleid onderscheid gemaakt tussen enerzijds incidentele kabelverbrandingsactiviteiten en anderzijds legale, industriële kabel– branderijen? </vraag>
+      <vraag nummer="6">Zijn naast verbranding ook andere, mechanische of chemische vormen van kabelbewerking voorhanden? Zo niet, valt dan in afwachting van meer milieuvriendelijke technieken voor het hergebruik van kabelmetalen ook inzameling en opslag te overwegen? Kan een andere wijze van coating de milieueffecten bij kabelverbranding ook doen vermlnderen? </vraag>
+      <vraag nummer="7">Is ten aanzien van alle dioxine– bronnen, zoals afvalverbrandingsin– stallaties en andere kabelbranderijen, voorzien in melkmonsteronderzoek en een mogelijk aanvullend, uitge– breid onderzoek? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="6">
+      <antwoord nummer="1">Uit het betreffende gebied zijn drie monsters melk geanalyseerd door Ökometric in Bayreuth (Bondsrepu– bliek Duitsland). Het onderzoek van deze analyses is aanleiding voor een breder onderzoek ter plaatse. De kabelbranderijen zijn dan ook nog niet stilgelegd. Los hiervan wordt nagegaan of het kabelbranden kan voldoen aan de vastgestelde milieu– hygiënische randvoorwaarden, in casu de «Richtlijn verbranden 1989». </antwoord>
+      <antwoord nummer="2">Ja. Het uitgebreide onderzoek richt zich in eerste instantie op dioxines in melk en vlees en in de schoorsteen– emissies van de kabelbranderij. </antwoord>
+      <antwoord nummer="3">Vooropgesteld moet worden dat het onderzoek waaruit bleek dat twee melkmonsters dioxine-gehalten bevatten boven de norm en één melkmonster een gehalte bevatte onder de norm van 6 picogram TEQ per gram melkvet, voorlopig en oriënterend van aard was. Het nu begonnen uitgebreide onderzoek moet een definitief beeld geven van de situatie rond de kabel– branderij, zowel wat betreft de hoogte van de besmetting van de melk als de omvang ervan. Indien nadere onderzoeksvoorstellen daartoe aanleiding geven zullen wij op zeer korte termijn maatregelen kunnen treffen. Eventuele kosten die de afkondiging van maatregelen voor de overheid met zich mee brengt, zullen worden verhaald op de veroorzaker. </antwoord>
+      <antwoord nummer="4">Bij de publikatie van de onderzoeks– resultaten zal aan deze aspecten aandacht worden besteed. Een en ander zal zich echter niet beperken tot de plaatselijke situatie, maar zich tevens richten op de activiteit kabel– branden in het algemeen. Wet Chemische Afvalstoffen te brengen. Met de vergunninghou– dende kabelbranders zal in overleg naar een oplossing van de problemen rond het branden van kabels wordens gezocht. </antwoord>
+      <antwoord nummer="6">Naast recuperatie door het afbranden van de coating kan de terugwinning van metaal ook plaats– vinden langs mechanische weg, zij het dat voor bepaalde types kabel hiervoor nog enig ontwikkelingswerk nodig is. Een andere wijze van coating levert geen oplossing voor de problematiek van het kabel– branden. Weliswaar zou dit bepaalde milieubezwaren kunnen verminderen, b.v. vorming van dioxines, maar voor veel andere bezwaren geeft dit geen oplossing. </antwoord>
+      <antwoord nummer="7">Voor de afvalverbrandingsinstallaties is dit het geval. Alvorens een dergelijk onderzoek te starten in de omgeving van andere potentiële dioxinebronnen zal, op basis van de lokale situatie en de uit de reeds uitgevoerde onderzoeken opgedane ervaring, worden nagegaan of het zinvol is een dergelijk onderzoek te doen en welke prioriteit er in het geheel van de lopende en geplande onderzoeken aan moet worden gegeven. Voor bronnen die in het nu lopende onderzoek worden geïdenti– ficeerd en waar wel sprake is van dioxine-emissies, maar waar het niveau hiervan geen directe aanleiding geeft tot een nu uitge– breider onderzoek, zal het terugdrin– gingsbeleid plaatsvinden in het integrale kader dat in het basisdo– cument dioxines zal worden aange– geven. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

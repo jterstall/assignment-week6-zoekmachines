@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19941995:0000655</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000655&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000655</item>
+         <item attribuut="Document-id">0000000655</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1994-1995 nummer 321</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Verbugt (VVD) over informatieverstrekking door de RDW.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1994-1995 nummer 321</item>
+         <item attribuut="Jaargang">1994_1995</item>
+         <item attribuut="Vraagnummer">321</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Verbugt</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-11-30</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Jorritsma-Lebbink</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-12-28</item>
+         <item attribuut="Beginpagina">651</item>
+         <item attribuut="Eindpagina">652</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1994-1995" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="651" allpagenumbers="651" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1994-1995, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's-Gravenhage 1995"/>
+      <vraagdata vraagnummer="321" onderwerp="informatieverstrekking door de RDW." indiendatum="1994-11-30">
+         <vrager partij="VVD" oorsprong="parlement">Verbugt</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-12-28">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">Jorritsma-Lebbink</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Kan opheldering worden verschaft over het bericht <voetnoot nummer="1"/> «Politie laat gestolen auto's gaan»? Weigert de RDW gegevens te verstrekken aan de CRI over chassisnummers van gestolen auto's? </vraag>
+      <vraag nummer="3">Wordt, als gevolg van een gebrek aan samenwerking tussen de RDW en justitie, de opsporing van gestolen auto's bemoeilijkt, waarvan, uiteindelijk, de automobilist de dupe is? </vraag>
+      <vraag nummer="4" voetnoot="2">Hoe verhoudt het genoemde bericht zich tot uw antwoord op eerdere vragen ter zake van het lid Schutte <voetnoot nummer="2"/>namelijk dat de RDW alle medewerking verleent aan politie en justitie als het gaat om de strijd tegen de criminaliteit? </vraag>
+      <vraag nummer="5">Deelt u de mening, dat een gebrek aan samenwerking tussen de RDW, politie en justitie de aanpak van de autocriminaliteit niet ten goede komt? Zo ja, wat bent u bereid hieraan te doen? </vraag>
+      <vraag nummer="1"/>
+      <noten afkomstig="vraag">
+         <noot nummer="2"> Aanhangsel Handelingen nr. 178, Vergaderjaar 1994-1995</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1" voetnoot="1">Ja. Zoals weergegeven in antwoorden op eerdere vragen, gesteld door het lid Schutte <voetnoot nummer="1"/> verstrekt de RDW in tegenstelling tot de suggestie zoals verwoord in de Telegraaf van 26 november 1994, desgevraagd aan politie en Justitie alle informatie over voertuigen die in het kentekenregister is opgeslagen. Politie en Justitie ontvangen deze informatie voor zover zij deze nodig hebben voor de uitoefening van hun taak. Hiertoe behoort ook informatie over diefstal van voertuigen, het zogenaamde «gestolen-signaal». De politie heeft 7 dagen per week gedurende 24 uur per dag de mogelijkheid het kentekenregister on-line te bevragen. Voor het overige verwijs ik naar de antwoorden op de volgende vragen. Neen. Desgevraagd (on-line 24 uurx 7 dagen) is informatie over gestolen voertuigen ook voor de divisie Centrale Recherche Informatie van het Korps Landelijke Politiediensten (hierna CRI) beschikbaar. Hierbij kan het volgende worden opgemerkt: Tot 1 juli 1994 meldde de politie gestolen voertuigen aan bij de CRI. De CRI zorgde vervolgens voor een gestolen-signaal in het kentekenregister van de RDW. De RDW stelde informatie via haar netwerk (on-line bevraagbaar) weer beschikbaar voor de gehele politie. Naast signalermg in het kentekenregister verstrekte de CRI deze informatie aan een aantal private organisaties. Deze organisaties zijn óf zelf op commerciële basis bezig met het opsporen van gestolen voertuigen (zogenaamde carhunting) óf stellen anderen tegen «bemiddelingskosten» hiertoe in staat door het verder beschikbaar stellen van deze informatie. Vanaf 1 juli 1994 muteert de politie het kentekenregister rechtstreeks, dus zonder tussenkomst van de CRI. Dit geeft een aanzienlijke versnelling van de beschikbaarheid van het gestolen-signaal. Hiernaast zou de CRI tijdelijk, dat wil zeggen tot uiterlijk 1 juli 1995, wekelijks telkens een nieuw bestand van gestolen voertuigen van de RDW ontvangen, (zogenaamde «down-loading» van het bestand), ten behoeve van de levering van statistische informatie en speciaal onderzoek binnen het totaalbestand van gestolen voertuigen. opsporing van gestolen goederen. </antwoord>
+      <antwoord nummer="4">Behoudens het inmiddels opgeloste verschil van mening met mijn ambtgenoot van Justitie, sta ik volledig achter mijn antwoorden op eerdere vragen terzake van het lid Schutte. </antwoord>
+      <antwoord nummer="5">Ja. Er is echter geen gebrek aan samenwerking, zeker niet op het «operationele vlak». Op beleidsmatig niveau vindt momenteel overleg plaats tussen de betrokken departementen over de rol van het kentekenregister en de rol van particuliere organisaties in het kader van de autocriminaliteitsbestrijding in relatie tot de verstrekking van gegevens uit het kentekenregister. De resultaten van dit interdepartementaal overleg zullen te zijner tijd aan de kamer worden gezonden. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Aanhangsel Handelingen nr. 178, vergaderjaar 1994-1995</noot>
+      </noten>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001682</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001682&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001682</item>
+         <item attribuut="Document-id">0000036089</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 758</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden De Leeuw en Esselink (beiden C.D.A.) over door storm gevelde bomen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 758</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">758</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">De Leeuw</persoon>
+            <persoon partij="CDA">Esselink</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-05-04</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Braks</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-07-03</item>
+         <item attribuut="Beginpagina">1531</item>
+         <item attribuut="Eindpagina">1532</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegcven antwoorden"/>
+      <footer firstpaginanummer="1531" allpagenumbers="1531 1532" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="758" onderwerp="door storm gevelde bomen." indiendatum="1990-05-4">
+         <vrager partij="CDA" oorsprong="parlement">De Leeuw</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Esselink</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-07-3">
+         <antwoorder functie="minister" ministerie="Landbouw, Natuurbeheer en Visserij">Braks</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1">Laten bepaalde boseigenaren, waaronder de Vereniging tot behoud van Natuurmonumenten, vrijwel alle door de storm van 25 januari 1990 gevelde bomen in het bos liggen teneinde «natuurlijke» processen in het bos volledig hun gang te laten gaan? </vraag>
+      <vraag nummer="2">Strookt deze maatregel met de bedoeling van de Verordening Bosschap Schadelijke Dieren, met name daar waar het gaat om gebroken houtopstand of daar waar het gaat om ontwortelde houtop– stand van het geslacht Pinus? </vraag>
+      <vraag nummer="3">Zijn de overwegingen van het Bosschap, voor het voor 1990 verlenen van een algemene ontheffing van de bepaling, dat tussen 15 mei en 15 augustus geen geveld niet ontschorst Pinushout in het bos aanwezig mag zijn, gebaseerd op resultaten van een op deze problematiek gericht onderzoek? Op welke wijze wordt op de naleving van de aan de algemene ontheffing verleende voorwaarden, onder meer inhoudende, dat de ontheffing niet geldt voor gebroken banen, toegezien? </vraag>
+      <vraag nummer="5">Zal voor de komende jaren een soortgelijke ontheffing voor bos in het algemeen en voor bos met een natuurbehoudsdoelstelling in het bijzonder blijven gelden of is voor de komende jaren een algehele aanpassing van de verordening te verwachten? Zo ja, op welk onderzoek is een dergelijke aanpassing gebaseerd? </vraag>
+      <vraag nummer="6">Indien het op grote schaal laten staan/liggen van kwijnend en dood hout onderdeel van beleid is, vreest u dan open claims op schadever– goeding voor die boseigenaren, die buiten hun toedoen, schade leiden ten gevolge van insectenaantas– tingen in hun bossen, mede gezien tegen de achtergond van de toch al verminderde vitaliteit van de bossen? </vraag>
+      <vraag nummer="7">Hoe groot is het aantal kubieke meters stormhout, dat ten behoeve van bepaalde opvattingen over het natuurbehoud dit jaar niet wordt geoogst? Hoe verhoudt dit zich met het door u voorgestane produktie– beleid zoals vastgelegd in het Meerjarenplan Bosbouw en zoals is aangegeven in het voorlopige regeringsstandpunt met betrekking tot het tropische regenwoud? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1990-03-16" bron=" Deze vragen dienen ter aarwulling op de eerdere schriftelijke vragen, terzake van de leden Te Veldhuis en Blauw, ingezonden"> Deze vragen dienen ter aarwulling op de eerdere schriftelijke vragen, terzake van de leden Te Veldhuis en Blauw, ingezonden, 16 maart 1990</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1">Bepaalde boseigenaren, waaronder de Vereniging tot Behoud van Natuurmonumenten, laten inderdaad vrijwel alle door de storm van 25 januari gevelde bomen liggen teneinde «natuurlijke» processen in het bos volledig hun gang te laten gaan. </antwoord>
+      <antwoord nummer="2">Het Bosschap heeft voor de periode van 15 mei tot en met 15 augustus 1990 een algemene ontheffing verleend van het verbod in artikel 1 onder b van de Vereniging Bosschap Schadelijke Dieren voor het aanwezig hebben van een geheel of gedeeltelijk ontwortelde houtopstand van het geslacht Pinus, voorzover dit hout niet met succes is aangeboord door de dennescheerder. De algemene ontheffing ziet echter niet op gebroken houtopstanden. Het verlenen van de genoemde ontheffing geschiedt in het kader van de vermelde verordening van het Bosschap. Gelet op de voorwaarden waaronder de ontheffing van toepassing is kan niet gesteld Visserij. </antwoord>
+      <antwoord nummer="5">Het Bosschap zal zich dit jaar buigen over de problematiek van dood hout in relatie tot de Verordening Bosschap Schadelijke Dieren om het beleid voor de komende jaren te bepalen. Hierbij zal worden bezien of een ontheffing dan wel een aanpassing van de Verordening aan de orde is. </antwoord>
+      <antwoord nummer="6">Het uit overwegingen van natuur– behoud verhogen van het aandeel dood hout in bossen past in het beleid, zoals verwoord in de regeringsbeslissing Meerjarenplan Bosbouw. De bij het antwoord op vraag 5 genoemde verkenning is tevens bedoeld om inzicht te verkrijgen in de mate waarin schade kan optreden in bossen die grenzen aan bosterreinen waarvoor een ontheffing is verleend. </antwoord>
+      <antwoord nummer="7">Het aantal kubieke meters dat dit jaar niet geoogst zal worden bedraagt naar schatting 75.000-100.000. Deze schatting is gebaseerd op een enquête van het Bosschap en op informatie van een aantal grote boseigenaren. In het algemeen past het laten liggen van stormhout ten behoeve van natuur– lijke processen in de beheersdoel– stellinggen van de betreffende eigenaar. In deze situaties zou er ook zonder stormhout geen, of slechts in beperkte mate sprake zijn van houtoogst. De realisering van het produktiebeleid zoals verwoord in het Meerjarenplan Bosbouw en in het voorlopige regeringsstandpunt </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

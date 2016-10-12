@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001292</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001292&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001292</item>
+         <item attribuut="Document-id">0000019678</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 279</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Lonink (PvdA) over het EPU-verdrag.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 279</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">279</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Lonink</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-12-17</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Andriessen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-01-10</item>
+         <item attribuut="Beginpagina">567</item>
+         <item attribuut="Eindpagina">568</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="567" allpagenumbers="567" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="'s Gravenhage 1992"/>
+      <vraagdata vraagnummer="279" onderwerp="het EPU-verdrag." indiendatum="1991-12-17">
+         <vrager partij="PvdA" oorsprong="parlement">Lonink</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-01-10">
+         <antwoorder functie="mlnister" ministerie="Economische Zaken">Andriessen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Hebt u kennis genomen van de uitspraken van de Secretaris-Generaal van Economische Zaken over het EPU-verdrag? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Deelt u zijn mening, dat het klassieke EEG-verdrag door de EPU belast wordt met een aantal bepalingen, zoals een onnodig zwaar aangezette paragraaf voor het technologiebeleid en het milieubeleid, alsmede de cohesie-bepalingen die overal in het verdrag voorkomen en door de SG afgedaan worden als een collectezak? Oeelt u tenslotte de zorg van de SG ten aanzien van de Nederlandse discussie over de Europese integratie? </vraag>
+      <vraag nummer="3">Zijn de in het interview weergegeven meningen ook de inzet geweest van het ministerie van Economische Zaken bij de voorbereiding van de EPU door het Nederlandse EG-voorzitterschap? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1991-12-5" bron=" Zie Financiëel Dagblad"> Zie Financiëel Dagblad, 5 december 1991</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja De door de vraagsteller aangehaalde passages geven een beoordeling weer van concept-verdragsteksten vooral vanuit juridisch-wetenschappelijk oogpunt. Vanuit dat gezichtspunt weegt eenvoud en hanteerbaarheid van regelgeving, ook van verdragsteksten, zwaar. Ik onderschrijf de wens van de secretaris-generaal om te komen tot zo eenvoudig en duidelijk mogelijke verdragsteksten. In het interview signaleert de secretaris-generaal voorts dat in Nederland sommige consequenties van de Europese integratie onvoldoende worden onderkend Men beseft te weinig dat de vrije beleidsruimte voor Nederland geringer wordt en dat daarmee ook in de beleidsvorming en –uitvoering rekening zal moeten worden gehouden. Dit gezichtspunt acht ik zeker van betekenis </antwoord>
+      <antwoord nummer="3">Zoals bekend, heeft het Nederlandse voorzitterschap zich voluit ingezet voor het bereiken van overeenstemming over het EPU-verdrag. De inzet van het ministerie van Economische Zaken bij de voorbereidingen had geen ander doel. Uiteraard is daarbij ook steeds getracht te komen tot zo helder mogelijke gedragsregels. Het bereiken van overeenstemming eiste evenwel dat hier en daar concessies moesten worden gedaan aan het juridisch-wetenschappelijk wenselijke. Het is thans zaak dat waar mogelijk, vanuit hetgeen nu is bereikt, wordt gewerkt aan vereenvoudiging. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

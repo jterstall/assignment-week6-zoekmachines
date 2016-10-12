@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19931994:0001279</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001279&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001279</item>
+         <item attribuut="Document-id">0000003790</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 65</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Groenman (D66) en Rosenmöller (Groen Links) over de WAO-franchise voor deeltijders.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 65</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">65</item>
+         <item attribuut="Indiener">
+            <persoon>Groenman</persoon>
+            <persoon>Rosenmöller</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-10-04</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Wallage</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-10-21</item>
+         <item attribuut="Beginpagina">131</item>
+         <item attribuut="Eindpagina">132</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="131" allpagenumbers="131" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="" onderwerp="" indiendatum="">
+         <vrager partij="" oorsprong="parlement">Groenman</vrager>
+         <vrager partij="" oorsprong="parlement">Rosenmöller</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-10-21">
+         <antwoorder functie="staatssecretaris" ministerie="Sociale Zaken en Werkgelegenheid">Wallage</antwoorder>
+         <mede-antwoorder>de minister van Sociale Zaken en Werkgelegenheid</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="65">Vragen van de leden Groenman (D66) en Rosenmöller (Groen Links) over de WAO-franchise voor deeltijders. (Ingezonden 4 oktober 1993} </vraag>
+      <vraag nummer="1">Herinnert u zich de - reeds herhaalde malen in de Kamer gevoerde' - discussies over de ongewenste effecten die de WAO-franchise voor deeltijders kan veroorzaken door de systematiek van premieheffing voor de werknemersverzekeringen per gewerkte dag? </vraag>
+      <vraag nummer="2" voetnoot="2">Bent u - evenals uw voorgangster - van mening, dat de onevenredige WAO-premieverplichtingen bij deeltijders dienen te worden weggenomen? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="3">Kan het kabinetsstandpunt over deze reeds langlopende kwestie - nu alle adviezen hierover binnen zijn - binnenkort worden verwacht? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1991-10-17" bron=" Zie o a de Nota Deeltijdarbeid (19 902), 10 maart 1987 en het Mondeling Overleg (21 655, nr 6)"> Zie o a de Nota Deeltijdarbeid (19 902), 10 maart 1987 en het Mondeling Overleg (21 655, nr 6), 17 oktober 1991</noot>
+         <noot nummer="2" datum="1991-12-12" bron=" Zie brief van de staatssecretans van Sociale Zaken en Werkgelegenheid (21 655, nr. 7 Herdruk)"> Zie brief van de staatssecretans van Sociale Zaken en Werkgelegenheid (21 655, nr. 7 Herdruk), 12 december 1991</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Ja. </antwoord>
+      <antwoord nummer="3">Nog dit jaar hoopt het kabinet met een standpunt te komen over de voorstellen die de Commissie voor de Belastingherziening, (de commissie Stevens) heeft gedaan met betrekking tot de premieheffing en over de voorstellen van de ambtelijke commissie «Aanpassing Premieheffingssysteem Werknemersverzekeringen»(APW). Beide commissies stellen voor om wat betreft de premies voor de werknemersverzekeringen van premieheffing per dag over te stappen op premieheffing op jaarbasis. In de systematiek van premieheffing op jaarbasis geldt ongeacht het arbeidspatroon voor iedereen dezelfde premievrije voet (WAO-franchise) per jaar. Dit voorstel maakt ook deel uit van het voorstel van de Federatie van Bedrijfsverenigingen in het rapport «Tegen de stroom in». </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

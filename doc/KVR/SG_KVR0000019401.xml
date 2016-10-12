@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001015</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001015&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001015</item>
+         <item attribuut="Document-id">0000019401</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 4</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Feenstra en Valk (beiden PvdA) over het schenden van de controleovereen-komst inzake Kernmaterialen door Irak.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 4</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">4</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Feenstra</persoon>
+            <persoon partij="PvdA">Valk</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-09-06</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-09-18</item>
+         <item attribuut="Beginpagina">7</item>
+         <item attribuut="Eindpagina">8</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1991"/>
+      <vraagdata vraagnummer="Vragen" onderwerp="het schenden van de controleovereen– komst inzake Kernmaterialen door Irak." indiendatum="1991-09-6">
+         <vrager partij="PvdA" oorsprong="parlement">Feenstra</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Valk</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1991-09-18">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">Van den Broek</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Deelt u de mening van de raad van Bestuur van het IAEAO, die verklaard heeft dat Irak de controleovereen– komst inzake kernmaterialen, de zgn. safeguards agreements, heeft geschonden? </vraag>
+      <vraag nummer="2">Moet dit worden opgevat als een schendmg van het Non-Proliferatie– Verdrag? Zo ja, hoe beoordeelt dit? </vraag>
+      <vraag nummer="3">Hoe is het mogelijk geweest, dat Irak plutonium heeft kunnen halen uit de gebruikte brandstof van de onder– zoeksreactor ITR-5000, zonder dat het IAEA dit heeft kunnen consta– teren, terwijl deze reactor wel onder controle van het Agentschap stond? Waar en wanneer is dit plutonium afgescheiden? </vraag>
+      <vraag nummer="4">Welke standpunten zal de regering in deze innemen tijdens de eerstko– mende Jaarvergadering van het IAEA? Welke gevolgen heeft deze kwestie voor de onderhandelingen over de eventuele verlenging van het Non-Proliferatie-Verdrag na 1995? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1 en 2">Ja. In het Non-Proliferatieverdrag (art. III, lid 1) nemen niet-kernwa– penstaten de verplichting op zich om waarborgen toe te staan op «source or special fissionable material, whether it is being produced, processed or used in any principal nuclear facility or is outside any such facility». Deze verplichting is verder uitgewerkt in de overeenkomst die de IAEA met Irak heeft afgesloten. Het speciale VN/IAEA inspectieteam, dat op last van de Veiligheidsraad inmiddels vier onderzoeksmissies in Irak heeft uitgevoerd, heeft gerap– porteerd dat Irak bepaalde nucleaire activiteiten en materialen niet heeft aangemeld bij het IAEA. Ofschoon een definitief oordeel pas gegeven kan worden nadat het IAEA zijn eindrapport aan de Veiligheidsraad heeft uitgebracht, lijkt er nauwelijks plaats voor twijfel dat sprake is geweest van een ernstige schending van de verplichtingen die Irak uit hoofde van het NPV en de waarbor– genovereenkomst had. </antwoord>
+      <antwoord nummer="3">Hoewel het hier ging om zeer kleine hoeveelheden plutonium, vervult het de Regering met grote zorg dat Irak in staat is geweest de controle van het IAEA te omzeilen en clandestiene activiteiten uit te voeren in een onder waarborgen staande installatie. Het lAEA-secretariaat is thans doende te analyseren hoe deze activiteiten onopgemerkt konden blijven en welke lessen hieruit kunnen worden geleerd. </antwoord>
+      <antwoord nummer="4">Tijdens de komende Algemene Conferentie van het IAEA zal de kwestie Irak uitvoerig aan de orde komen. Overleg met de Europese partners heeft ertoe geleid dat Nederland, namens de Europese Gemeenschap, steun zal uitspreken voor het beleid van de Directeur-Generaal van het IAEA op dit terrein. Meer in het algemeen geldt dat in het licht van de ervaringen in Irak thans zowel binnen als buiten het IAEA een herbezinning plaats vindt over de wijze waarop kan worden bijgedragen aan een uitbreiding respectievelijk verbe– tering van het lAEA-waarborgen– stelsel. Nederland neemt samen met de Europese partners actief deel aan deze discussie, die van groot belang wordt geacht voor een geloof– waardig functioneren van het non-proliferatieregime in de toekomst. De verklaring die Nederland namens de Europese Gemeenschap in de Algemene Conferentie zal afleggen, zal zo spoedig mogelijk na uitspreken ter kennisneming aan de Kamerworden gestuurd. De evaluatie van het waarborgen– stelsel en dus ook de discussie over de versterking van dit stelsel zullen ongetwijfeld ook tijdens de Toetsingsconferentie van het NPV in 1995 aan de orde komen. Het is thans nog te vroeg om te beoordelen </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

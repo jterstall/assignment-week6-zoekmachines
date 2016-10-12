@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="niet?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Gerkens (SP) en Vendrik (GroenLinks) aan de ministers van Economische Zaken en voor Bestuurlijke Vernieuwing en Koninkrijksrelaties over OSOSS. (Ingezonden 19 augustus 2005)</item>
+         <item attribuut="Bestand">15Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V040519970
+</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van bericht 'Kamervragen over OSOSS onjuist beantwoord' (www.webwereld.nl), onder meer over het afzwakken van passages in het rapport 'Kosten en baten van open standaarden en open source software in de Nederlandse publieke sector' (onderzoek OSOSS) en de redenen om bepaalde onderzoeken niet te publiceren (Aanvulling op vragen van dezelfde leden; Aanhangsel van de Handelingen; 2004-2005, nr. 2047).</item>
+         <item attribuut="Rubriek">Communicatie, media en informatievoorziening (Hard- en software)</item>
+         <item attribuut="Trefwoorden">Software</item>
+         <item attribuut="Vindplaats">Kamervragen 2004-2005, vraagnr. 2040519970, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2040519970</item>
+         <item attribuut="Indiener">
+            <persoon partij="SP">Gerkens</persoon>
+            <persoon partij="GroenLinks">Vendrik</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2005-08-19</item>
+         <item attribuut="Document-id">V040519970</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2004–2005" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0405tkkvl2040519970" lopendefooter="Tweede Kamer, vergaderjaar 2004–2005, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2005"/>
+      <vraagdata vraagnummer="2040519970" onderwerp="" indiendatum="2005-08-19">
+         <vrager partij="SP" oorsprong="parlement">Gerkens</vrager>
+         <vrager partij="GroenLinks" oorsprong="parlement">Vendrik</vrager>
+         <vraagt-aan>de ministers van Economische Zaken en voor Bestuurlijke Vernieuwing en Koninkrijksrelaties</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="8">
+      <vraag nummer="1" voetnoot="1">Wat is uw reactie op het bericht «Kamervragen over OSOSS onjuist beantwoord»? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2" voetnoot="2">Bent u het eens met de programmamanager dat er wel degelijk sprake was van een onderzoek? Zo neen, waarom niet? Zo ja, hoe verklaart u dan uw uitspraken in antwoord op onze vorige vragen <voetnoot nummer="2"/>dat het onderzoek naar de juridische aspecten moest worden gezien als het schrijven van een brochure en «het uitbrengen van een dergelijke brochure onder verantwoordelijkheid van de overheid bleek op korte termijn niet haalbaar»? </vraag>
+      <vraag nummer="3">Bent u het eens met de redenen die de programmamanager aanvoert voor het niet publiceren van het onderzoek? Zo neen, waarom niet? </vraag>
+      <vraag nummer="4">Is er aangezien de programmamanager in een door Webwereld geciteerde brief stelt dat: «Het uiteindelijke doel van het project was het landelijk publiceren van de resultaten van een juridisch onderzoek voor de publieke sector» en constaterende dat die brochure er niet is gekomen, sprake van een mislukte opdracht en welke financiële consequenties heeft dit gehad? </vraag>
+      <vraag nummer="5">Was het niet mogelijk de volgens de programmamanager, eveneens in Webwereld voor de doelgroep te complexe brochure te vereenvoudigen en alsnog onder de verantwoordelijkheid van de overheid uit te brengen dit ook gezien het belang van communicatie door de overheid over de mogelijkheden van het gebruik van Open Software? Zo neen, waarom niet? </vraag>
+      <vraag nummer="6">Kunt u ingaan op de bewering dat er wel degelijk sprake is van twee rapporten? </vraag>
+      <vraag nummer="7">Kunt u tevens ingaan op de bewering dat herhaaldelijk is besproken dat het rapport van het NNI niet de verkeerde, maar méér dan alleen de vragen beantwoordde van de oorspronkelijke onderzoeksvraag? En wat was daarvan het bezwaar? Is het zo dat de oorspronkelijke vragen wel degelijk zijn beantwoord, maar de antwoorden de ambtenaren niet bevielen? </vraag>
+      <vraag nummer="8">Kunt u alsnog ingaan op de vraag over het afzwakken van de passages? Is het waar dat bepaalde passages geschrapt zijn? Zo neen, waarom </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1">www.webwereld.nl</noot>
+         <noot nummer="2" documenttype="Kamervragen">Aanhangsel Handelingen, nr.2047, vergaderjaar 2004–2005.</noot>
+      </noten>
+   </antwoorden>
+</kvr>

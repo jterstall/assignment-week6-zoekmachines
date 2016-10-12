@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="2">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Middel en Albayrak (beiden PvdA) aan de staatssecretaris van Justitie over het doorspelen van persoonsgegevens van asielzoekers aan een externe organisatie door de IND. (Ingezonden 25 maart 1999); Antwoord</item>
+         <item attribuut="Bestand">14Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR9224
+</item>
+         <item attribuut="Inhoud">Betreft aanvullende vragen op die van het lid Halsema, ingediend op 24 maart 1999 (zie vraagnummer 2989910270).</item>
+         <item attribuut="Rubriek">Staats- en bestuursrecht (Privacy) Welzijn (Vreemdelingen en asielzoekers)</item>
+         <item attribuut="Trefwoorden">Privacy Vluchtelingen</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 1998-1999, nr. 1245, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2989910290</item>
+         <item attribuut="Afkomstig_van">Justitie</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Middel</persoon>
+            <persoon partij="PvdA">Albayrak</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1999-04-23</item>
+         <item attribuut="Datum_indiening">1999-03-25</item>
+         <item attribuut="Document-id">KVR9224</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1998–1999" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="2455" allpagenumbers="2455" vetnummer="2989910290" code="" lopendefooter="Tweede Kamer, vergaderjaar 1998–1999, Aanhangsel" filenaam="KVR9224" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 1999"/>
+      <vraagdata vraagnummer="1245" onderwerp="" indiendatum="1999-03-25">
+         <vrager partij="PvdA" oorsprong="parlement">Middel</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Albayrak</vrager>
+         <vraagt-aan>de staatssecretaris van Justitie</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1999-04-23">
+         <antwoorder functie="staatssecretaris" ministerie="Justitie">Cohen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1">Is het de gewoonte dat de IND werkzaamheden uitbesteedt? Zo ja, welke werkzaamheden en aan wie? Waarom is de Kamer hieromtrent niet geïnformeerd? </vraag>
+      <vraag nummer="2">Welke regels moeten in acht genomen worden omtrent de vertrouwelijkheid van asieldossiers? Hoe wordt dit gecontroleerd? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <toelichting>Deze vragen dienen ter aanvulling op eerdere vragen terzake van het lid Halsema, ingezonden 24 maart 1999. </toelichting>
+   <antwoorden aantal="2">
+      <antwoord nummer="1" voetnoot="1">Het is niet de gewoonte dat de IND dergelijke werkzaamheden uitbesteedt. In dit geval werd samenwerking met derden evenwel noodzakelijk geacht om tijdig te kunnen voldoen aan de taakstelling in het kader van de Taskforce Mensensmokkel. Uw Kamer is hierover niet geïnformeerd omdat de handelwijze niet in strijd werd geacht met het Privacyreglement Vreemdelingensysteem INDIS. (U zie ook mijn brief in antwoord op vragen van lid Halsema) <voetnoot nummer="1"/>. </antwoord>
+      <antwoord nummer="2">Het eerdergenoemde Privacyreglement dient in acht te worden genomen ter bescherming van de persoonlijke levenssfeer. De IND heeft met het onderzoeksbureau zorgvuldige afspraken gemaakt over geheimhouding en toezicht op de invoering van de gegevens. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1" documenttype="Kamervragen" documentnummer="1244" documentjaargang="1998-1999">Aanhangsel Handelingen, nr. 1244, vergaderjaar 1998–1999.</noot>
+      </noten>
+   </antwoorden>
+</kvr>

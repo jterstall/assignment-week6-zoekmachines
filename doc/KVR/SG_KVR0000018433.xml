@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="2">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0000047</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0000047&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0000047</item>
+         <item attribuut="Document-id">0000018433</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Eerste Kamer 1991-1992 nummer 10</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Eerste Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden M. van der Meer (PvdA), Bot-van Gijzen (CDA), Ermen (PvdA), Gelderblom-Lankhout (D66), Grol-Overling en Houben-Sipman (beiden CDA), Jaarsma-Buijserd (PvdA), Korte-van Hemel (CDA), Van Kuilenburg-Lodder (PvdA), Van Leeuwen-Schut (VVD), Mastik-Sonneveldt en J. H. B. van der Meer (beiden PvdA), Soetenhorst-de Savornin Lohman, Tiesinga-Autsema, Vrisekoop en Wessel-Tuinstra (allen D66) en Van Wijngaarden (GroenLinks) inzake naleving mensenrechten i.v.m. verbod door Egyptische autoriteiten van in Caïro gevestigde Arab Women's Solidarity Association (AWSA) en daarmee verband houdende rechtszaak op 31 oktober 1991.</item>
+         <item attribuut="titel">Aanhangsel Eerste Kamer 1991-1992 nummer 10</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">10</item>
+         <item attribuut="Indiener">
+            <persoon>van der Meer M.</persoon>
+            <persoon>Bot-van Gijzen</persoon>
+            <persoon>Ermen</persoon>
+            <persoon>Gelderblom-Lankhout</persoon>
+            <persoon>Grol-Overling</persoon>
+            <persoon>Houben-Sipman</persoon>
+            <persoon>Jaarsma-Buijserd</persoon>
+            <persoon>Korte-van Hemel</persoon>
+            <persoon>Van Kuilenburg-Lodder</persoon>
+            <persoon>Van Leeuwen-Schut</persoon>
+            <persoon>Mastik-de Savornin Lohman</persoon>
+            <persoon>Tiesinga-Autsema</persoon>
+            <persoon>Vrisekoop</persoon>
+            <persoon>Wessel-Tuinstra</persoon>
+            <persoon>Van Wijngaarden</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-10-29</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+            <persoon>Pronk</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-11-13</item>
+         <item attribuut="Beginpagina">19</item>
+         <item attribuut="Eindpagina">20</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Eerste Kamer der Staten-Generaal" kamer="1" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen door de leden der Kamer gesteld overeenkomstig artikel schriftelijk gegeven antwoorden"/>
+      <footer firstpaginanummer="13" allpagenumbers="13" vetnummer="" code="" lopendefooter="Eerste Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1991"/>
+      <vraagdata vraagnummer="" onderwerp="" indiendatum="">
+         <vrager partij="" oorsprong="parlement">van der Meer M.</vrager>
+         <vrager partij="" oorsprong="parlement">Bot-van Gijzen</vrager>
+         <vrager partij="" oorsprong="parlement">Ermen</vrager>
+         <vrager partij="" oorsprong="parlement">Gelderblom-Lankhout</vrager>
+         <vrager partij="" oorsprong="parlement">Grol-Overling</vrager>
+         <vrager partij="" oorsprong="parlement">Houben-Sipman</vrager>
+         <vrager partij="" oorsprong="parlement">Jaarsma-Buijserd</vrager>
+         <vrager partij="" oorsprong="parlement">Korte-van Hemel</vrager>
+         <vrager partij="" oorsprong="parlement">Van Kuilenburg-Lodder</vrager>
+         <vrager partij="" oorsprong="parlement">Van Leeuwen-Schut</vrager>
+         <vrager partij="" oorsprong="parlement">Mastik-de Savornin Lohman</vrager>
+         <vrager partij="" oorsprong="parlement">Tiesinga-Autsema</vrager>
+         <vrager partij="" oorsprong="parlement">Vrisekoop</vrager>
+         <vrager partij="" oorsprong="parlement">Wessel-Tuinstra</vrager>
+         <vrager partij="" oorsprong="parlement">Van Wijngaarden</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder>de heer Pronk, minister voor Ontwikkelings– samenwerking</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="10">Vragen van de leden M. van der Meer (PvdA), Bot-van Gijzen (CDA), Ermen (PvdA), Gelderblom-Lankhout (D66), Grol-Overling en Houben-Sipman (beiden CDA), Jaarsma-Buijserd (PvdA), Korte-van Hemel (CDA), Van Kuilenburg-Lodder (PvdA), Van Leeuwen-Schut (VVD), Mastik-Sonneveldt en J. H. B. van der Meer (beiden PvdA), Soetenhorst-de Savornin Lohman, Tiesinga-Autsema, Vrisekoop en Wessei-Tuinstra (allen D66) en Van Wijngaarden (Groen Links) inzake naleving mensenrechten i.v.m. verbod door Egyptische autoriteiten van in Caïro gevestigde Arab Women's Solidarity Association (AWSA) en daarmee verband houdende rechtszaak op 31 oktober 1991. (Ingezonden 29 oktober 1991). </vraag>
+      <vraag nummer="1">Is het u bekend, dat de in Caïro gevestigde Arab Women's Solidarity Association (AWSA)' op 15 juni 1991 werd verboden door de Egyptische autoriteiten en dat dit verbod door de AWSA zal worden aangevochten tijdens een rechtszaak die plaatsvindt op 31 oktober a.s.? Bent u bereid, gezien uw zorg voor de naleving van mensenrechten, vóór 31 oktober a.s. bij de Egyptische autoriteiten aan te dringen op ophel– dering over de zaak? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Het is mij inderdaad bekend dat de in Caïro gevestigde tak van de Arab Women's Solidarity Association (AWSA) op 15 juni 1991 door de Egyptische autoriteiten werd verboden, een verbod dat door AWSA voor de rechter wordt aange– vochten. De Internationale activi– teiten van AWSA gaan overigens gewoon door. De rechtszaak, welke aanvankelijk op 31 oktober zou worden gehouden, blijkt te zijn uitge– steld tot begin december. </antwoord>
+      <antwoord nummer="2">Deze kwestie is met de Egyptische autoriteiten besproken tijdens het beleidsoverleg ontwikkelingssamen– werking, dat op 28 en 29 oktober jl. plaatsvond. De Egyptische delegatie is verzocht de redenen uiteen te zetten voor het besluit de organisatie te verbieden, en informatie te verstrekken over de huidige positie van AWSA. De Egyptische delegatie zei dat AWSA de wet op niet-gouverne– mentele organisaties (no. 32) had geschonden met betrekking tot het financiële beheer, en een verzoek van de overheid had genegeerd om zich aan de wet te houden. AWSA heeft het recht de kwestie voor te leggen aan de rechter, en heeft dit inderdaad gedaan. Indien blijkt dat AWSA zich aan de regels heeft gehouden zal zij worden gerehabili– teerd. Het Egyptische ministerie van Sociale Zaken in Caïro heeft de ambassade toegezegd de achter– gronden voor de aktie tegen AWSA schriftelijk te zullen toelichten. Gezien de rol die deze organisatie speelt als behartiger van de belangen van vrouwen in de Arabische wereld, zal ik deze zaak na/jwgezet volgen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

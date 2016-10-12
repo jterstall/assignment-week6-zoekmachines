@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="workshop te Leiden op 5 juni jl?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001649</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001649&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001649</item>
+         <item attribuut="Document-id">0000027986</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 713</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Middel (PvdA) over de beëindiging van de leerstoel Ergonomisch Ontwerpen aan de Universiteit Twente.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 713</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">713</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Middel</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-06-28</item>
+         <item attribuut="Beantwoorder">
+            <persoon>De Vries</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-07-10</item>
+         <item attribuut="Beginpagina">1455</item>
+         <item attribuut="Eindpagina">1456</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1455" allpagenumbers="1455" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN0921 - 7398" uitgever="'s Gravenhage 1991"/>
+      <vraagdata vraagnummer="713" onderwerp="de beëindiging van de leerstoel Ergonomisch Ontwerpen aan de Universiteit Twente." indiendatum="1991-06-28">
+         <vrager partij="PvdA" oorsprong="parlement">Middel</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1">Hebt u kennis genomen van de beëindiging van de leerstoel Ergono– misch Ontwerpen aan de Universiteit Twente per 1 september a.s.? </vraag>
+      <vraag nummer="2">Is het u bekend, dat het onderwijs en onderzoek in het kader van deze leerstoel zich als enige in Nederland richten op het systematisch ontwerpen van technische werkplekken en produktiesystemen? Levert die leerstoel daarmee niet een wezenlijke bijdrage aan de verbe– tering van arbeidsomstandigheden en daarmee weer aan het voorkomen van arbeidsongeschiktheid, dan wel het aanpassen van werkomstandig– heden, zodat gedeeltelijk arbeidson– geschikten weer betaalde arbeid kunnen verrichten? Bent u bereid nader te bezien of een leerstoel als voornoemd in Nederland behouden kan blijven? Zo ja, op welke wijze? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Persbericht Sociale Zaken en Werkgele genheid, nr. 91/135</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1"/>
+      </noten>
+   </antwoorden>
+   <mededeling mededeler="De Vries" functie="minister" afdeling="Sociale Zaken en Werkgelegenheid" mededelingdatum="1991-07-10">Mededeling van minister De Vries (Sociale Zaken en Werkgelegenheid). (Ontvangen 10 juli 1991) De mij met uw brief van 1 juli 1991, toegezonden vragen van het lid der Tweede Kamer, de heer Middel, inzake de beeindiging van de leerstoel 'Ergonomisch Ontwerpen' aan de Universiteit Twente, kunnen vanwege het voor de beantwoording noodzakelijke interdepartementale overleg tot mijn spijt niet binnen de daartoe gestelde termijn worden beantwoord. Gaarne zeg ik u toe, dat de beantwoording zo spoedig mogelijk zal plaatsvinden. In hoeverre strookt de aangekon– digde beëindiging van voornoemde leerstoel met de opvattingen van de Minister van Sociale Zaken en Werkgelegenheid over wetenschap– pelijk onderzoek op het gebied van stress en fysieke belasting, zoals hij die heeft uitgedragen in een toespraak tijdens de CARGO– </mededeling>
+</kvr>

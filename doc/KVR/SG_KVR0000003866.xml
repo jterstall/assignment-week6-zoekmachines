@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19931994:0001355</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001355&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001355</item>
+         <item attribuut="Document-id">0000003866</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 141</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Tommel en Ter Veer (beiden D66) over het grondontsmettingsmiddel methylbromide.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 141</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">141</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Tommel</persoon>
+<persoon partij="D66">Ter Veer</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-09-27</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Gabor</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-11-19</item>
+         <item attribuut="Beginpagina">285</item>
+         <item attribuut="Eindpagina">286</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="285" allpagenumbers="285" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="141" onderwerp="het grondontsmettingsmiddel methylbromide." indiendatum="1993-09-27">
+         <vrager partij="D66" oorsprong="parlement">Tommel</vrager>
+<vrager partij="D66" oorsprong="parlement">Ter Veer</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Hebben tuinders uit het Westland de afgelopen maanden op grote schaal misbruik gemaakt van het grondontsmettingsmiddel methylbromide? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Duidt deze praktijk niet op een ontoereikende wet– en regelgeving inzake de bestrijdingsmiddelen? </vraag>
+      <vraag nummer="3">Hebt u het voornemen hieraan gevolgen te verbinden voor wat betreft de regelgeving in het algemeen en het - op 1 mei jl. van kracht geworden - Besluit regulering grondontsmettingsmiddelen in het bijzonder? </vraag>
+      <vraag nummer="4">Zo ja, aan welke maatregelen denkt u dan? Vormt in dit opzicht het voorstel van de Stichting Natuur en Milieu, om milieugevaarlijke bestrijdingsmiddelen (zoals methylbromide) alleen op recept beschikbaar te stellen, een positieve bijdrage? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1993-09-6" bron=" Trouw"> Trouw, 6 september 1993</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="4 en 5">Het Besluit regulering grondontsmettingsmiddelen voorziet in een vergunningvereiste voor het in voorraad hebben en het gebruik van de in dat besluit bedoelde grondontsmettingsmiddelen. Oaarnaast mogen deze middelen alleen worden verkocht als de koper een vergunning kan overleggen. Gevolg van dit systeem is dat genoemde middelen, overeenkomstig het voorstel van de Stichting Natuur en Milieu, niet meer vrij verkrijgbaar zijn. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

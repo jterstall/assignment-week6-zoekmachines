@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19891990:0001138</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001138&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001138</item>
+         <item attribuut="Document-id">0000035545</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 216</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Franssen (V.V.D.) over het teer-en nicotinegehalte in sigaretten en shag.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 216</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">216</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Franssen</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-11-23</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Simons</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-12-21</item>
+         <item attribuut="Beginpagina">437</item>
+         <item attribuut="Eindpagina">438</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer. met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="437" allpagenumbers="437" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="216" onderwerp="het teer– en nicotinege– ha/te in sigaretten en shag." indiendatum="1989-11-23">
+         <vrager partij="VVD" oorsprong="parlement">Franssen</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1989-12-21">
+         <antwoorder functie="staatssecretaris" ministerie="Welzijn, Volksgezondheid en Cultuur">Simons</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Deelt u de mening, dat met het oog op een juiste voorlichting het teer– en nicotinegehalte niet alleen op de consumentenverpakking van sigaretten, maar ook op die van shag moet worden vermeld? <voetnoot nummer="1"/>Heeft het Besluit van de Raad van Ministers van de Europese Gemeen– schap van 13 novemberj.l. inzake het vermelden van teer– en nicotine– cijfers op de verpakking alleen betrekking op sigaretten, omdat niet zou kunnen worden beschikt over een genormaliseerde methode voor het meten van het gehalte aan teer en nicotine in shag? </vraag>
+      <vraag nummer="3">Is het u bekend, dat in de brief van de toenmalige staatssecretaris van Volksgezondheid en Milieuhygiëne van 24 januari 1977 aan de Tweede Kamer der Staten-Generaal' een aantal maatregelen ten aanzien van tabaksprodukten werd aange– kondigd, waarbij ondermeer werd uitgegaan van vermelding van teer– en nicotinecijfers op de verpakking van zowel shag als sigaretten? </vraag>
+      <vraag nummer="4" voetnoot="2">Is al in 1975 door het ministerie van Volksgezondheid en Milieuhygiëne onderzoek gedaan naar het teer– en nicotinegehalte van kerftabak? <voetnoot nummer="2"/>Bent u bereid te bevorderen, dat op kort termijn een gestandaardiseerde methode voor het meten van teer– en nicotine-gehalten in shag wordt ontwikkeld? Zo ja, welke initiatieven wilt u daartoe nemen? </vraag>
+      <vraag nummer="6">Hebt u kennis genomen van het rapport No. Al 870901 van de Rijkskeuringsdienst van Waren in Alkmaar? Is het mogelijk om de daarin beschreven methode te bepaling van het teer– en nicotinege– halte van shag op te nemen in de algemene maatregel van bestuur op basis van artikel 2 van de tabakswet? Zo neen, waarom niet? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Kamerstuk 14360 nr. 1. Vergaderjaar 1976-1977</noot>
+         <noot nummer="2" datum="1976-01-3" bron=" Zie Eindhovens Dagblad"> Zie Eindhovens Dagblad, 3 januari 1976</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1">Ja. Naar mijn mening dient de consument zeker waar het gaat om twee categorieën tabaksprodukten welke min of meer in gelijke aandelen de hoofdmoot van de Nederlandse tabaksconsumptie uitmaken, te beschikken over zo hanteerbaar mogelijke informatie inzake de teer– en nicotinegehalten van beide categorieën. Tijdens de besprekingen in de Raad van de Europese Gemeenschappen over de door u bedoelde ontwerp– richtlijn inzake de etikettering van tabaksprodukten, is door de Neder– landse delegatie de wens geuit de shag tevens onder de vermeldings– plicht van teer– en nicotinegehalten te laten vallen. Door de Commissie van de Europese Gemeenschappen is in antwoord daarop gesteld dat zij bereid is een dergelijke plicht op europees niveau in het leven te roepen. De Commissie dient daartoe echter, zo heeft zij bekend gemaakt, te kunnen beschikken over een erkende meetmethode voor de bepaling van meergenoemde gehalten in shag. Een dergelijke methode ontbreekt op dit moment nog. </antwoord>
+      <antwoord nummer="3">Ja. </antwoord>
+      <antwoord nummer="4">Ja. Het gaat hier om een onderzoek door TNO in opdracht van het minis– terie van Volksgezondheid en Milieu– hygiëne verricht. Soortgelijke onder– zoeken zijn tevens in 1976 en 1978 in opdrachtvan genoemd ministerie door TNO uitgevoerd. </antwoord>
+      <antwoord nummer="5">Zoals uit de boven gegeven antwoorden moge blijken, bestaat reeds gedurend geruime tijd van deze zijde de wens om tot een voor de consument zinvolle vermelding van genoemde gehalten in shag te komen. Met zinvol wordt in dit verband met name een met de vermelding op verpakkingen van </antwoord>
+      <antwoord nummer="6">Het rapport no. Al 870901 van de Rijkskeuringsdienst van Waren Alkmaar is mij bekend. Ingevolge de door u aangevoerde EEG –richtlijn inzake de etikettering van tabaksprodukten, is het lid-staten niet toegestaan aan tabaksprodukten andere dan in de richtlijn vermelde etiketteringseisen te stellen welke handelsbelemme– ringen creëren. Vermelding van de teer– en nicotine– gehalten van shag op de verpakking, is een europees-rechtelijk niet toege– stane etiketteringseis voor zover deze eis betrekking zou hebben op shag welke naar Nederland geëxpor– teerd wordt. Het opnemen van de door u gememoreerde meetmethode in een algemene maatregel van bestuur op basis van de Tabakswet, zou zich derhalve moeten beperken tot de in Nederland gefabriceerde shag. In het licht van onder meer de stagnerende besluitvorming in genoemd NNI-verband en het feit dat veruit het grootste deel van de in Nederland geconsumeerde shag ook in Nederland wordt gemaakt, sta ik niet afwijzend tegenover deze laatst– genoemde optie. Zij maakt dan ook deel uit van mijn overwegingen hoe op afzienbare termijn tot meerge– noemde vermelding op verpakkingen van shag te komen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

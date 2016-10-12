@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Van Erp (VVD) over het perifeer detailhandelsbeleid (Ingezonden 22 december 1994); Antwoord</item>
+         <item attribuut="Bestand">13Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR1046
+</item>
+         <item attribuut="Inhoud">Gevraagd wordt naar een verduidelijking van het Geconcentreerde grootschalige Detailhandels Vestigingsbeleid (GDV-beleid).</item>
+         <item attribuut="Rubriek">Bedrijfsleven en industrie (Midden- en kleinbedrijf) Bedrijfsleven en industrie (Vestigingsbeleid)</item>
+         <item attribuut="Trefwoorden">Detailhandel Vestigingsbeleid</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 1994-1995, nr. 415, Tweede Kamer</item>
+         <item attribuut="Afkomstig_van">Economische Zaken</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Van Erp</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1995-01-30</item>
+         <item attribuut="Datum_indiening">1994-12-22</item>
+         <item attribuut="Document-id">KVR1046</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1994–1995" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="845" allpagenumbers="845" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1994–1995, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgeverij Plantijnstraat ’s-Gravenhage 1995"/>
+      <vraagdata vraagnummer="415" onderwerp="" indiendatum="1994-12-22">
+         <vrager partij="VVD" oorsprong="parlement">Van Erp</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1995-01-30">
+         <antwoorder functie="minister" ministerie="Economische Zaken">Wijers</antwoorder>
+         <mede-antwoorder>de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Kent u het resultaat van het onderzoek van het retailmarketingbureau Polyservices naar het perifeer detailhandelsbeleid? </vraag>
+      <vraag nummer="2">Deelt u de opvatting, dat de formulering van het GDV-beleid onduidelijk is en dus moet worden aangepast? </vraag>
+      <vraag nummer="3">Zo ja, op welke termijn denkt u duidelijkheid hierover te geven? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2" voetnoot="1">In de brief van juli 1993 <voetnoot nummer="1"/>is het GDV-beleid uiteengezet. Daarbij is tevens uitgebreid ingegaan op de voorwaarden voor de ontwikkeling van GDV-lokaties. Ik ben mij echter bewust van de voortdurende discussie die sindsdien tussen de betrokken partijen is ontstaan, waarbij sprake is van een uiteenlopende interpretatie van de genoemde brief. </antwoord>
+      <antwoord nummer="3">Met de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer zal ik een brief opstellen waarin nogmaals het beleid ten aanzien van de ontwikkeling van GDV-lokaties uiteen wordt gezet. Voor alle duidelijkheid zij gesteld dat een beleidswijziging ten opzichte van de brief van juni 1993 niet wordt overwogen. De brief zal op korte termijn aan de Tweede Kamer worden verzonden. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1" documenttype="Kamerstuk" kamerstuk-id="1992/1993 nummer 27, 18 786">Kamerstuk 1992/1993 nummer 27, 18 786</noot>
+      </noten>
+   </antwoorden>
+</kvr>

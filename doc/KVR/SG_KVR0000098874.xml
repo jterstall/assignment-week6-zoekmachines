@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="verzoek. " aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19871988:0001160</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001160&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001160</item>
+         <item attribuut="Document-id">0000098874</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1987-1988 nummer 222</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vraag van het lid Van Traa (P.v.d.A.) over overbrenging naar Frankrijk van Franse geheime agent, die betrokken was bij de aanslag op de Rainbow Warrior</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1987-1988 nummer 222</item>
+         <item attribuut="Jaargang">1987_1988</item>
+         <item attribuut="Vraagnummer">222</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Van Traa</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-12-15</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Lubbers</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-12-23</item>
+         <item attribuut="Beginpagina">443</item>
+         <item attribuut="Eindpagina">444</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1987-1988 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1987-1988, Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="222" onderwerp="overbrenging naar Frankrijk van Franse geheime agent, die betrokken was bij de aanslag op de Rainbow Warrior" indiendatum="15 december 1987) Bent u bereid, als betrokken partij bij de regeling tussen Nieuw Zeeland en Frankrijk met betrekking tot de verbannen Franse geheime agenten van de Rainbouw Warrior-affaire krachtig te protesteren tegen overbrenging, in strijd met het akkoord, van een van de betrokken agenten naar Frankrijk?">
+         <vrager partij="PvdA" oorsprong="parlement">Van Traa</vrager>
+         <vraagt-aan>slag op de Rainbow Warrior (Ingezonden 15 december 1987) Bent u bereid, als betrokken partij bij de regeling tussen Nieuw Zeeland en Frankrijk met betrekking tot de verbannen Franse geheime agenten van de Rainbouw Warrior-affaire krachtig te protesteren tegen</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="1">
+      <vraag nummer="1 ">Antwoord van minister-president  Zaken). (Ontvangen 23 december  1987)  Ik was niet betrokken bij de uitwerking  van de regeling tussen Nieuw  Zeeland en Frankrijk zelf, maar heb  destijds bij beide regeringen er op  aangedrongen hun geschil ter  arbitrering voor te leggen aan de  Secretaris-Generaal van de Verenigde  Naties.  Deze is er vervolgens in geslaagd een  uitgewerkte regeling tussen beide  landen tot stand te brengen.  Aangezien de beide partijen  momenteel over deze bilaterale  aangelegenheid in overleg zijn ziet de  regering geen aanleiding gevolg te  geven aan het in de vraag gedane  </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Zie de Volkskrant van 15 december 1987  Antwoord  Lubbers (Minister van Algemene </noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

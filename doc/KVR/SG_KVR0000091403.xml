@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19881989:0001804</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001804&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001804</item>
+         <item attribuut="Document-id">0000091403</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1988-1989 nummer 795</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Eversdijk (C.D.A.) over het aanlanden van vis door sportvisboten.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1988-1989 nummer 795</item>
+         <item attribuut="Jaargang">1988_1989</item>
+         <item attribuut="Vraagnummer">795</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Eversdijk</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-06-08</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Braks</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-08-16</item>
+         <item attribuut="Beginpagina">1595</item>
+         <item attribuut="Eindpagina">1596</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 8 - 1 9 8 9 " typehandeling="" typedoc=""/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 8 - 1 9 8 9 ,  A a n h a n g s e l " filenaam="" issn-nummer="ISSN 921 7398 " uitgever="SDU uitgeverij 's-Gravenhage 1989 "/>
+      <vraagdata vraagnummer="795" onderwerp="het aanlanden van vis door sportvisboten." indiendatum="8 juni 1989)">
+         <vrager partij="CDA" oorsprong="parlement">Eversdijk</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="16 augustus 1989)">
+         <antwoorder functie="minister" ministerie="met name de hengel">Braks</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1 ">Worden in Zuidwest-Nederland door  zogenaamde sportvisboten, met name  in-het weekend, grote hoeveelheden  kabeljauw aangeland, tot zelfs 8  kisten en meer per reis, die zonder  tussenkomst van een visafslag direct  via de zwarte markt en dus ook  buiten de quotering worden verkocht,  terwijl beroepsvissers als bijvangst  slechts 4 kisten kabeljauw per week  mogen aanlanden?'  </vraag>
+      <vraag nummer="2 ">Welke maatregelen denkt u te nemen  teneinde aan deze scheve verhoudin- gen een eind te maken, waarbij  tevens de situatie van vele seizoen- vissers, die geen kabeljauw mogen  vangen en van de K-documenthou- ders, die 60 kisten per week mogen  aanlanden, in ogenschouw worden  genomen?  </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Zie maandblad Deltavissers, mei 1989 pag 6 </noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1 ">De nationale quoteringsregelingen  zijn van kracht voor vaartuigen  waarmee bedrijfsmatig de visserij  Afhankelijk van de gebleken omvang  van het probleem zal ik mij beraden  op de vraag of en in hoeverre het  wenselijk is een regeling te  ontwerpen welke het aanlanden en  verkopen van ongewenst grote  hoeveelheden gequoteerde vis in het  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

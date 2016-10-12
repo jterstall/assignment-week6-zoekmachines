@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="2">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001279</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001279&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001279</item>
+         <item attribuut="Document-id">0000011583</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 349</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Feenstra, Vermeend en Van der Vaart (allen PvdA) over elektrische voertuigen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 349</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">349</item>
+         <item attribuut="Indiener">
+            <persoon>Feenstra</persoon>
+            <persoon>Vermeend</persoon>
+            <persoon>Van der Vaart</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-01-21</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Alders</persoon>
+            <persoon>Van Amelsvoort</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-02-16</item>
+         <item attribuut="Beginpagina">717</item>
+         <item attribuut="Eindpagina">718</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="717" allpagenumbers="717" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="349" onderwerp="elektrische voertuigen." indiendatum="1993-01-21">
+         <vrager partij="" oorsprong="parlement">Feenstra</vrager>
+         <vrager partij="" oorsprong="parlement">Vermeend</vrager>
+         <vrager partij="" oorsprong="parlement">Van der Vaart</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="16februari 1993">
+         <antwoorder functie="minister" ministerie="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer">Alders</antwoorder>
+         <mede-antwoorder>de minister van Verkeer en Waterstaat</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1" voetnoot="1">Zijn, nu elektrische voertuigen op de lijst van de Aanwijzingsregeling Vervroegde Afschrijving Milieu-lnvesteringen zijn geplaatst, ook nadere stimulansen noodzakelijk, gelet op de netto-energiebesparing en de verbetering van het (stedelijk) leefmilieu die met het gebruik van dergelijke voertuigen zijn te bereiken? <voetnoot nummer="1"/>'  2 . </vraag>
+      <vraag nummer="2">Bent u bereid het resterende prijsnadeel van elektrische voertuigen, ten opzichte van gangbare voertuigen via een daarop toegespitste wetswijziging, vooruitlopend op een meer algemene introductie van een milieudifferentiatie binnen de belastingen, via de motorrijtuigenbelasting en de belasting van personenauto's en motorrijwielen (tijdelijk) te verminderen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1992-12-23" bron=" Zie Staatscourant 249"> Zie Staatscourant 249, 23 december 1992</noot>
+         <noot nummer="2"> Zie begrotingsbehandeling Verkeer en Waterstaat 20 feb 1990 (Handelingen 42). UCV Structuurschema Verkeer en Vervoer 3 dec 1990 (Handelingen 18-19), Begrotingsbehandeling Milieubeheer 21 okt. 1992 (Handelingen 12)</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Gelet op de beperkingen in de gebruiksmogelijkheden van elektrische voertuigen kunnen deze eigenlijk alleen worden ingezet op bedrijfsterreinen en voor korte afstanden in stedelijk gebieden als vervanging van de thans aldaar gebruikte bestelwagens. Deze zijn veelal met een dieselmotor uitgerust. Het gebruik van een elektrisch voertuig in plaats van een bestelwagen met een dieselmotor levert echter geen netto-energiebesparlng op. Dientengevolge zien wij geen reden met het oog op het energie-aspect van het gebruik van elektrische voertuigen nadere stimulansen in het leven te roepen. Ten opzichte van de auto met (diesel)verbrandingsmotor biedt de elektrische auto in het stedelijk verkeer daarentegen duidelijke voordelen, zowel qua effekt op de lokale luchtkwaliteit als ten aanzien van de geluidproduktie. De mogelijkheden voor nadere stimulansen voor het gebruik van elektrische voertuigen ter verbetering van het (stedelijk) leefmilieu zullen in beschouwing worden genomen in het kader van de, blijkens het antwoord op vraag 2 in voorbereiding zijnde, milieudifferentiatie in de bijzondere belasting van personenauto's en motorrijwielen (BPM). </antwoord>
+      <antwoord nummer="2">In voorbereiding is een wetsvoorstel waarbij een milieudifferentiatie wordt aangebracht in de BPM. Het is ons voornemen daarin mede te voorzien in een vermindering van het prijsnadeel van elektrische voertuigen. Het streven is erop gericht dit wetsvoorstel in de loop van 1993 in te dienen. Wij achten het niet opportuun hierop met een afzonderlijke wetswijziging ten behoeve van elektrische voertuigen vooruit te lopen. Ten aanzien van een eventuele verlaging van de motorrijtuigenbelasting voor elektrische voertuigen dient naar ons oordeel niet te worden vooruitgelopen op het lopende onderzoek naar de mogelijkheden van een milieudifferentiatie in de motorrijtuigenbelasting voor voertuigen in meer algemene zin. Overigens zij opgemerkt dat deze belasting een voordeel ten opzichte van diesel– en LPG-auto's meebrengt voor elektrische voertuigen, omdat deze zijn vrijgesteld van de brandstoftoeslag voor voertuigen, aangedreven door een andere brandstof dan benzine. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

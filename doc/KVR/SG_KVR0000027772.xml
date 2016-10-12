@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="worden gegeven?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001435</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001435&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001435</item>
+         <item attribuut="Document-id">0000027772</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 500</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Van der Vaart en Castricum (beiden P.v.d.A.) over autokosten en kosten van het openbaar vervoer.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 500</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">500</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Van der Vaart</persoon>
+            <persoon partij="PvdA">Castricum</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-03-14</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Kok</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-04-10</item>
+         <item attribuut="Beginpagina">1013</item>
+         <item attribuut="Eindpagina">1014</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1013" allpagenumbers="1013" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1991"/>
+      <vraagdata vraagnummer="500" onderwerp="autokosten en kosten van het openbaar vervoer." indiendatum="1991-03-14">
+         <vrager partij="PvdA" oorsprong="parlement">Van der Vaart</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Castricum</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="9">
+      <vraag nummer="1" voetnoot="1">Kunnen de jaarlijkse variabele, vaste en totale kosten van bezit en gebruik van de volgende benzme auto's bij een jaarkilometrage van 16 000 km bij benadermg worden gesteld op: <voetnoot nummer="1"/>variabel vast totaal VW Golf 1 ,3 Ford Sierra 1,6 Volvo 240 2375 3060 3455 5865 7360 </vraag>
+      <vraag nummer="11" voetnoot="2"> 785 8240 10420 15240 Zullen de accijnsverhogingen uit de Tussenbalans tezamen met de verho– ging van de heffing Wet algemene bepalingen milieuhygiëne per 1 maart 1991, inclusief BTW, de prijs van een liter benzine met ongeveer 25 cent verhogen in de periode 1991 t/m 1994? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="3" voetnoot="1 3">Komt een prijsverhoging van een liter benzine met 25 cent voor de in vraag 1 genoemde auto's, op basis van de daar genoemde gegevens en uitgaande van een gemiddeld jaar– lijks brandstofverbruik <voetnoot nummer="1"/> van 1220 liter ongelood (VW Golf), 1510 liter gelood (Ford Sierra) en 1780 liter gelood (Volvo 240), neer op een ver– hoging van de variabele kosten in de periode 1991 t/m 1994 met ca. 13%? Bedragen in de periode 1991 t/m 1994 de verhogingen van de motor– rijtuigenbelasting uit de Tussenba– lans voor de in vraag 1 genoemde auto's bij ongewijzigde grondslag per jaar <voetnoot nummer="3"/>: f 169 voor de VW Golf, f 294 voor de Ford Sierra en f 453 voor de Volvo? Komt de verhoging van de totale autokosten in de periode 1991 t/m 1994 op basis van de in vragen 1-4 genoemde gegevens neer op ca. 6%? </vraag>
+      <vraag nummer="6">Komt een verhoging van de tarieven openbaar vervoer met 3,5% in 1991, 5% in 1992 en 6% in zowel 1993 als 1994 neer op een totale tariefsstij– ging in de periode 1991 t/m 1994 met ca.  22%? </vraag>
+      <vraag nummer="7">Komt de totale stijging van de tarie– ven van de trein voor de forens die gebruik maakt van jaartrajectkaarten in de periode 1991 t/m 1994, indien de spoorwegen een tariefsstijging van deze kaarten - evenals voor 1991 reeds besloten is - op 2%-punt boven de in vraag 6 genoemde gemiddelde tariefsstijging stellen, neer op ca. 32%? </vraag>
+      <vraag nummer="8">Zal, indien de totale in de Tussenba– lans beoogde opbrengst van de ver– hoging van de motorrijtuigenbelas– ting van 1315 mln. per jaar zou kun– nen worden gerealiseerd via een extra accijnsverhoging, in centen gelijk voor benzine en diesel, voor benzine inclusief BTW neerkomen op een extra prijsstijging per liter ben– zine met ca. 18 cent, (15 cent extra accijns) en zal de stijging van de variabele autokosten in de periode 1991 t/m 1994 voor de in vraag 1 genoemde auto's dan uitkomen op ca.  22%? </vraag>
+      <vraag nummer="9">Is het dus waar dat de algemene stij– ging van de tarieven openbaar ver– voer in de periode 1991 t/m 1994 uit de Tussenbalans vér uit gaat boven de stijging van de variabele autokosten in dezelfde periode en op zijn best die stijging benadert bij een drastische verschuiving van motorrij– tuigenbelasting na accijnzen? </vraag>
+      <vraag nummer="10">Draagt een extra stijging van de tarieven van het openbaar stads– en streekvervoer bovenop de algemene stijging genoemd in vraag 6 bij aan een nog groter verschil tussen de tariefsstijging van het openbaar ver– voer en de stijging van de variabele autokosten in de periode 1991 t/m 1994 ten nadele van het openbaar vervoer dan reeds uit vraag 9 naar voren komt? </vraag>
+      <vraag nummer="11">Is een nadere uitleg vereist van de passage in de Tussenbalans waar wordt gesteld  «zo zullen de kosten van het gebruik van de auto gelijke tred houden met de tarieven in het openbaar vervoer» zo ja, kan deze </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="4"/>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="5">Mededeling Mededeling van minister Kok (Financiën), mede namens de minis– ter van Verkeer en Waterstaat. (Ontvangen 10april 1991) Hierbij vraag ik u mede namens de minister van Verkeer en Waterstaat enkele weken uitstel voor de beant– woording van de vragen van 15 maart 1991, van de leden van uw kamer Van der Vaart en Castrïcum. Medio apnl 1991 zal het kabinet aan de Tweede Kamer nadere voorstellen voorleggen ter uitwerking en invul– ling van het onderdeel verkeer en vervoer uit de Tussenbalans. De in dat kader voor het kabinet te maken afwegingen hangen zodanig samen met de bovengenoemde vragen dat een daarop afgestemde beantwoor– ding wenselijk is</noot>
+      </noten>
+   </antwoorden>
+   <mededeling mededeler="" functie="" afdeling="" mededelingdatum=""/>
+</kvr>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19881989:0001813</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001813&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001813</item>
+         <item attribuut="Document-id">0000091412</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1988-1989 nummer 804</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Hageman en Leijnse (beiden P.v.d.A.) over scholen met behoud van uitkering.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1988-1989 nummer 804</item>
+         <item attribuut="Jaargang">1988_1989</item>
+         <item attribuut="Vraagnummer">804</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Hageman</persoon>
+            <persoon partij="PvdA">Leijnse</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-05-08</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Deetman</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-08-17</item>
+         <item attribuut="Beginpagina">1613</item>
+         <item attribuut="Eindpagina">1614</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 8 - 1 9 8 9 " typehandeling="" typedoc=""/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 8 - 1 9 8 9 , Aanhangsel " filenaam="" issn-nummer="ISSN 0921 7398 " uitgever="SDU uitgeverij 's Gravenhage 1989 "/>
+      <vraagdata vraagnummer="804" onderwerp="" indiendatum="">
+         <vrager partij="PvdA" oorsprong="parlement">Hageman</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Leijnse</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="17 augustus 1989)">
+         <antwoorder functie="minister" ministerie="Onderwijs en Wetenschappen">D e e t m a n</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1 ">Herinnert de minister van Onderwijs  en Wetenschappen zich zijn toespraak  van 1 7 januari jl. voor de Nederlandse  Maatschappij voor Nijverheid en  Handel te Middelburg, waarin hij  knelpunten signaleerde op het  gebied van het recht op scholing door  werklozen, voorzover de arbeidsmarkt  aanwijzingen geeft voor de zinvolheid  daarvan?  </vraag>
+      <vraag nummer="2 ">Kan de minister nader omschrijven  welke haperingen bij de Sociale  Diensten en de Bedrijfsverenigingen  ten aanzien van het scholen met  behoud van uitkering hij bedoelt?  Heeft hij hierover contact gehad met  de staatssecretaris van Sociale Zaken  en Werkgelegenheid? Zo neen,  waarom niet? Zo ja, wat heeft dit  opgeleverd?  </vraag>
+      <vraag nummer="3 ">Kan het zijn dat de haperingen waar  de minister van Onderwijs en  Wetenschappen op doelt, te maken  hebben met het feit, dat de staats- secretaris van Sociale Zaken en  Werkgelegenheid van mening is,  «dat het ongewenst is over deze  specifieke materie een circulaire aan  alle gemeentebesturen te doen  uitgaan, daar waar het gaat om het  ondervangen van zich soms voordoen- de knelpunten»?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1 ">Ja.  Ja. De in de speech bedoelde  knelpunten wijzen terug naar  elementen uit de algemene discussie  over scholing met behoud van  uitkering, in het bijzonder de relatie  tussen het arbeidsvoorzieningsbeleid  en de sociale zekerheid, zoals  ondermeer verwoord in het  WRR-rapport activerend arbeids- marktbeleid en in de discussies over  het zogeheten «Zweedse model».  Ook concrete ervaringen van  deelnemers aan de voorlopers van  de PBVE, die werden belemmerd bij  hun deelname vanuit een bedrijfsver- eniging, zijn de achtergrond van de  opmerkingen. Tenslotte zijn er de  ervaringen van deelnemers (werkloos  onderwijspersoneel) in het kader van  het ISO-project met beperkingen die  vanuit de Algemene Bijstandswet  bestaan ten aanzien van scholing  met behoud van uitkering.  Er is geen contact geweest met de  staatssecretaris van Sociale Zaken  en Werkgelegenheid. De desbetref- fende passages in de speech waren  met name gericht op het toen in  voorbereiding zijnde advies van de  Sociaal Economische Raad over het  Voorzieningenbeleid voor werklozen,  in het bijzonder voor de sociale  partners in hun betrokkenheid bij de  bedrijfsverenigingen. Het overleg  tussen betrokken bewindslieden zal  plaats hebben in het kader van het  opstellen van het regeringsstandpunt  over dit advies van de SER.  </antwoord>
+      <antwoord nummer="3 ">Neen.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

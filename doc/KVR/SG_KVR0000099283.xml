@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Kamer te doen toekomen. " aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19871988:0001569</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001569&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001569</item>
+         <item attribuut="Document-id">0000099283</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1987-1988 nummer 626</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Huys (P.v.d.A.) en Van Rey (V.V.D.) over de Midden-Limburgse kanalen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1987-1988 nummer 626</item>
+         <item attribuut="Jaargang">1987_1988</item>
+         <item attribuut="Vraagnummer">626</item>
+         <item attribuut="Indiener">
+            <persoon>Huys</persoon>
+            <persoon>Van Rey</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1988-05-20</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Smit-Kroes</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1988-06-09</item>
+         <item attribuut="Beginpagina">1257</item>
+         <item attribuut="Eindpagina">1258</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1987-1988 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1987-1988, Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="626" onderwerp="" indiendatum="">
+         <vrager partij="" oorsprong="parlement">Huys</vrager>
+         <vrager partij="" oorsprong="parlement">Van Rey</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1 ">Herinnert u zich uw toezegging, deze  Kamer een zo goed mogelijk overzicht  van de financiële gevolgen voor  derden van de temporisering van de  modernisering van de Midden-Lim- burgse kanalen te doen toekomen?'  </vraag>
+      <vraag nummer="2 ">Zo ja, wat zijn de redenen van het  uitblijven hiervan?  </vraag>
+      <vraag nummer="3 " voetnoot="1 2">Op welk tijdstip denkt u dit aan de  Kamer te zenden?  <voetnoot nummer="1"/> Kamerstuk 13 969, nr. 142, blz. 12.  <voetnoot nummer="2"/> l.v.m. het foutief afdrukken van vraag 1.  Antwoord  Antwoord van minister Smit-Kroes  (Verkeer en Waterstaat). (Ontvangen  9 juni 1988)  </vraag>
+      <vraag nummer="1 ">Ja.  </vraag>
+      <vraag nummer="2 ">In mijn antwoord tijdens het  mondeling overleg heb ik reeds  aangegeven dat ik de situatie  opnieuw in ogenschouw zou nemen,  in samenhang met de mogelijkheid  van goedkopere alternatieven.  De afgelopen periode is hiernaar  studie verricht waardoor ik u nog  geen resultaten kan toesturen.  </vraag>
+      <vraag nummer="3 ">Zoals ik ook op het Schuttevaer- congres op 26 mei jl. heb gesteld,  gaan de gedachten momenteel uit  naar het verruimen van alleen de  meest economische delen tot een  bevaarbaarheid met schepen van  1350 ton laadvermogen. Voor de  Midden-Limburgse kanalen zou dat  het gedeelte Panheel-Loozen  betreffen.  Momenteel is een brief in voorbe- reiding aan de Tweede Kamer waarin  ik mijn toekomstvisie op de kanalen  nader toelicht met de financiële  consequenties die daarbij aan de  orde zijn.  Ik hoop deze brief in juli aan de  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

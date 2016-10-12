@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Nader antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001084</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001084&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001084</item>
+         <item attribuut="Document-id">0000011388</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 153</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van Rey (VVD) over de mogelijke verhuizing van het Holland Casino in Valkenburg naar Maastricht.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 153</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">153</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Van Rey</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-02-26</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Andriessen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-11-17</item>
+         <item attribuut="Beginpagina">317</item>
+         <item attribuut="Eindpagina">318</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="317" allpagenumbers="317" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="'s Gravenhage 1992"/>
+      <vraagdata vraagnummer="153" onderwerp="de mogelijke verhuizing van het Holland Casino in Valkenburg naar Maastricht." indiendatum="1992-02-26">
+         <vrager partij="VVD" oorsprong="parlement">Van Rey</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="17 november 1992) Met brief van 18 maart 1992 heb ik u, mede namens de staatssecretaris van Justitie, de antwoorden doen toekomen op de vragen van het lid uwer Kamer, de heer Van Rey, inzake de mogelijke verplaatsingen van het speelcasino te Valkenburg naar Maastricht.' Ik heb u daarbij medegedeeld dat een beslissing omtrent de bedoelde verplaatsing van het speelcasino op dat moment niet aan de orde was. Een beslissing over de verplaatsing zou eerst genomen kunnen worden na een daartoe strekkende voordracht door de Raad voor de Casinospelen. Inmiddels heeft de Raad voor de Casinospelen mij doen weten, dat zij geen gronden aanwezig acht om de gemeente Maastricht voor te dragen als casinovestigingsplaats. De mogelijke verplaatsing van het speelcasino van Valkenburg naar Maastricht is derhalve niet meer aan de orde. Een afschrift van de brief van de Raad voor de Casinospelen doe ik u hierbij toekomen. 2">
+         <antwoorder functie="" ministerie="Economische Zaken"/>
+         <mede-antwoorder>de staatssecretaris van Justitie, de antwoorden doen toekomen op de vragen van het lid uwer Kamer, de heer Van Rey, inzake de mogelijke verplaatsingen van het speelcasino te Valkenburg naar Maastricht</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Hebt u kennis genomen van berichten rond de mogelijke verhuizing van het Holland Casino in Valkenburg naar Maastricht? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Wilt u deze Kamer informeren over de huidige stand van het overleg dienaangaande? </vraag>
+      <vraag nummer="3">Welke beleidslijn wordt gevolgd bij de vergunningverlening als bedoeld in  art. 27p van  de  Wet  op de kansspelen? </vraag>
+      <vraag nummer="4">Is handhaving van het Holland Casino in afgeslankte vorm in Valkenburg tezamen met een nieuw Casino in Maastricht binnen het huidige beleid mogelijk? </vraag>
+      <vraag nummer="5">Bent u bereid deze Kamer uitvoerig te informeren voordat u een beslissing neemt? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="8 februarï 1992" bron=" Het Limburgs Dagblad"> Het Limburgs Dagblad, 8 februarï 1992</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="2"/>
+         <noot nummer="1"> Aanhangsel Handelingen nr. 469, Vergaderjaar 1991-1992</noot>
+         <noot nummer="2"> Ter inzage gelegd bij de afdeling Parlementaire Documentatie</noot>
+      </noten>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="6">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Neppérus en De Krom (beiden VVD) aan de ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Verkeer en Waterstaat over de constatering van het CBS dat het personenautoverkeer minder vervuilend is dan eerder was aangenomen. (Ingezonden 29 mei 2007); Antwoord</item>
+         <item attribuut="Bestand">18Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR28506
+</item>
+         <item attribuut="Inhoud">Het CB heeft geconstateerd dat de uitstoot van fijnstof en stokstofdioxiden door auto's lager is dan tot nu toe werd aangenomen. Ook het NMP heeft al een aantal keren ramingen neerwaarts moeten bijstellen. Hoe betrouwbaar zijn de gebruikte reken- en meetmethoden en welke gevolgen heeft de bijstelling voor het behalen van de normen en voor (infrastructurele) bouwprojecten.</item>
+         <item attribuut="Rubriek">Milieu (Luchtverontreiniging) Verkeer, vervoer en waterstaat (Motorrijtuigen)</item>
+         <item attribuut="Trefwoorden">Luchtverontreiniging Motorrijtuigen Statistiek</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2006-2007, nr. 1892, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2060716280</item>
+         <item attribuut="Afkomstig_van">Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer (VROM)</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Neppérus</persoon>
+            <persoon partij="VVD">De Krom</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2007-06-19</item>
+         <item attribuut="Datum_indiening">2007-05-29</item>
+         <item attribuut="Document-id">KVR28506</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2006–2007" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="4001" allpagenumbers="4001 4002" vetnummer="2060716280" code="0607tkkvr1892" lopendefooter="Tweede Kamer, vergaderjaar 2006–2007, Aanhangsel" filenaam="KVR28506" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2007"/>
+      <vraagdata vraagnummer="1892" onderwerp="" indiendatum="2007-05-29">
+         <vrager partij="VVD" oorsprong="parlement">Neppérus</vrager>
+         <vrager partij="VVD" oorsprong="parlement">De Krom</vrager>
+         <vraagt-aan>de ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Verkeer en Waterstaat</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2007-06-19">
+         <antwoorder functie="minister" ministerie="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer">Cramer</antwoorder>
+         <mede-antwoorder>de minister en de staatssecretaris van Verkeer en Waterstaat</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1" voetnoot="1">Bent u bekend met de publicatie van het CBS van 21 mei jl. <voetnoot nummer="1"/>waarin staat dat de uitstoot van fijnstof en van stikstofoxiden door personenauto’s in de periode 1990–2005 5 tot 15 procent lager is dan tot nu toe werd aangenomen en dat dit komt door de strengere Europese milieueisen voor nieuwe voertuigen? </vraag>
+      <vraag nummer="2">Kunt u aangeven hoe het mogelijk is dat het NMP al eerder ramingen neerwaarts moest bijstellen en dat het CBS dit nu opnieuw doet? Welke conclusies trekt u daaruit t.a.v. de betrouwbaarheid van de gebruikte reken- en meetmethoden? Verwacht u nog meer van dergelijke verrassingen? </vraag>
+      <vraag nummer="3">Welke gevolgen heeft de neerwaartse bijstelling voor het behalen van de normen voor fijnstof en NO x ? </vraag>
+      <vraag nummer="4">Hoe verklaart u, dat er al die tijd een verkeerde aanname heeft kunnen plaatsvinden, terwijl de strengere milieueisen van nieuwe voertuigen, bekend waren? Waarom vindt nu pas correctie plaats? </vraag>
+      <vraag nummer="5">Als u uitgaat van de nieuwste rekenmodellen, zijn dan in de afgelopen jaren bepaalde infrastructurele projecten en/of andere bouwprojecten ten onrechte c.q. onnodig stilgelegd? Kunt u aangeven welke schade daaruit is voortgevloeid? Welke projecten kunnen als gevolg van de neerwaarts bijgestelde ramingen alsnog doorgang vinden en op welke termijn? </vraag>
+      <vraag nummer="6">Hoe gaat u voortaan rekenmodellen monitoren en tussentijds eventueel bijstellen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1">CBS: auto’s minder vervuilend dan werd gedacht</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="6">
+      <antwoord nummer="1">De CBS-publicatie is mij bekend. Het is evenwel een misverstand dat de oorzaak van de lagere emissieberekening ligt in strengere Europese milieueisen. CBS stelt (citaat): «Dankzij nauwkeuriger gegevens over het aantal gereden kilometers en nieuwe inzichten over de uitstoot van luchtverontreinigende stoffen per voertuigkilometer zijn de ramingen van de emissies van milieuverontreinigende stoffen door het wegverkeer over de periode 1990–2005 naar beneden bijgesteld». (einde citaat). Voor nadere toelichting zie ook het antwoord op vraag 2. </antwoord>
+      <antwoord nummer="2">De emissies van het verkeer worden jaarlijks berekend door de taakgroep Verkeer van de EmissieRegistratie (ER). Hierin zijn onder andere CBS, TNO en MNP vertegenwoordigd. De emissiecijfers worden door de betrokken instituten gezamenlijk vastgesteld, onder regie van het MNP. Het CBS hanteert dus geen andere cijfers dan het MNP. Jaarlijks worden de emissies naar de beste inzichten op dat moment berekend. TNO levert hiervoor de emissiefactoren en het CBS het verreden aantal kilometers. TNO heeft dit jaar bij de vaststelling van de emissiefactoren gebruik gemaakt van nieuwe modellen en meetgegevens, zodanig dat beter dan in het verleden rekening kon worden gehouden met realistische ritprofielen van weggebruikers. Daarnaast heeft het CBS voor het eerst sinds een aantal jaren een nieuwe meer betrouwbare reeks verreden kilometers gepubliceerd. Afgesproken is dat eenmaal per jaar (in het voorjaar) mogelijke nieuw verkregen inzichten in de berekeningen worden verwerkt. De resultaten zijn dit jaar gepubliceerd in de publicatie «Realisatie Milieudoelen» (MNP, Bilthoven publicatie 500081002). De bijstelling van de historische emissies (waar het CBS artikel op in gaat) en de doorwerking van deze bijstellingen op de emissieramingen zijn door MNP vooruitlopend op de formele vaststelling reeds verwerkt in de invoergegevens voor modelberekeningen van de luchtkwaliteit («Concentratiekaarten voor grootschalige luchtverontreiniging in Nederland», MNP publicatie 50008 8001, april 2007). De verschillende momenten van publicatie door MNP en CBS van dezelfde nieuwe ramingen heeft helaas tot misverstanden geleid. </antwoord>
+      <antwoord nummer="3" voetnoot="2 2 2 2 2 2 2">De nieuwe emissiegegevens hebben met name voor NO <voetnoot nummer="2"/>geleid tot lagere achtergrondconcentraties. Tegenover deze meevaller moet voor NO <voetnoot nummer="2"/>echter ook een tegenvaller geïncasseerd worden die vooral lokaal doorwerkt. Wetenschappelijk zijn er steeds meer bewijzen dat het aandeel NO <voetnoot nummer="2"/>binnen het NO x -mengsel dat direct via de uitlaat van auto’s wordt uitgestoten, moet worden aangepast. Reeds jaren is internationaal een trend waarneembaar die aangeeft dat het gemiddelde aandeel van 5% «direct uitgestoten NO <voetnoot nummer="2"/>» – waar tot op heden van wordt uitgegaan – te laag is. Dit leidt tot een mogelijke onderschatting van de concentraties NO <voetnoot nummer="2"/>in de nabijheid van wegen. Dit kan vooral lokaal leiden tot meer normoverschrijding. Op grotere afstand van de weg is het effect verwaarloosbaar omdat uiteindelijk door chemische reacties in de lucht alle NO x in NO <voetnoot nummer="2"/>wordt omgezet. Daarnaast is gebleken dat het CAR-model, dat gebruikt wordt voor luchtkwaliteitsberekeningen langs stedelijke wegen, bij gebruik van de nieuwe emissiefactoren – met name voor toekomstige jaren – kan leiden tot een ongewenste mate van onder- en overschatting voor NO <voetnoot nummer="2"/>en fijn stof. Een herijking van het CAR-model wordt noodzakelijk geacht. Deze zal naar verwachting op korte termijn kunnen worden afgerond. Daarna zal opnieuw de balans qua knelpunten worden opgemaakt. </antwoord>
+      <antwoord nummer="4">Het gaat nadrukkelijk niet om «verkeerde aannames» zoals toegelicht in het antwoord op vraag 1. De aangepaste emissieberekeningen zijn het gevolg van nieuwe wetenschappelijke inzichten en niet van strengere emissie-eisen. De nieuwe inzichten worden eenmaal per jaar doorgevoerd in de berekening van de historische emissies en in de emissieramingen. Daarmee worden de beste wetenschappelijke inzichten verwerkt in de invoergegevens die benodigd zijn voor luchtkwaliteitberekeningen. </antwoord>
+      <antwoord nummer="5">Projecten zijn nooit ten onrechte stilgelegd, noch is er onterechte schade onstaan. Waar projecten zijn stilgelegd, is dat gebeurd omdat de luchtkwaliteitsnormen werden of zouden worden overschreden op basis van de toen bekende en geaccordeerde ramingen waarin de op dat moment beste wetenschappelijke inzichten waren verwerkt. Na herijking van het CAR-model zal op basis van herberekeningen een meer betrouwbaar beeld van de knelpunten kunnen worden gegeven. Vervolgens zal later dit jaar op basis van de nieuwste berekeningen nader inzicht beschikbaar komen in welke mate met voorgenomen maatregelen projecten kunnen doorgaan en de knelpunten kunnen worden opgelost. </antwoord>
+      <antwoord nummer="6">De voortschrijding in wetenschappelijke inzichten is een voortdurend doorgaand proces, dat de vaststelling van emissies en concentraties van luchtverontreiniging steeds meer betrouwbaar zal maken. De gewijzigde inzichten moeten uiteraard voldoende onderbouwd en robuust zijn gebleken om tot aanpassingen te kunnen leiden. Te frequente aanpassingen veroorzaken potentieel veel onduidelijkheid en onrust. In het Meet- en rekenvoorschrift bevoegdheden luchtkwaliteit, behorend bij het Besluit luchtkwaliteit 2005, is aangegeven dat ééns in het jaar (uiterlijk 15 maart van ieder kalenderjaar) nieuwe invoergegevens voor gebruik in luchtkwaliteitsmodellen formeel beschikbaar worden gesteld. Een zorgvuldige werkwijze in dezen, gezien de potentiële consequenties, acht ik van belang. Dit is dan ook de reden waarom ik opdracht heb gegeven voor het uitvoeren van een onafhankelijke review op de in ons land gehanteerde meet- en rekensystematiek. Ik zal uw kamer informeren over de voortgang van deze review. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

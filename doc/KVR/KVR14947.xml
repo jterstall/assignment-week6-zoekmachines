@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Dijsselbloem (PvdA) aan de staatssecretaris van Financiën over belastingaangifte. (Ingezonden 14 december 2001); Antwoord</item>
+         <item attribuut="Bestand">14Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR14947
+</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van een artikel in de Amersfoortse Courant van 17 november 2001 waarin wordt gesteld dat het invullen van een belastingaangifte over 2001 zonder computer vrijwel is uitgesloten, omdat het nieuwe systeem op papier te complex is.</item>
+         <item attribuut="Rubriek">Belastingen (Algemeen)</item>
+         <item attribuut="Trefwoorden">Belastingen</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2001-2002, nr. 530, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2010203640</item>
+         <item attribuut="Afkomstig_van">Financiën (FIN)</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Dijsselbloem</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2002-01-22</item>
+         <item attribuut="Datum_indiening">2001-12-14</item>
+         <item attribuut="Document-id">KVR14947</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2001–2002" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1111" allpagenumbers="1111" vetnummer="2010203640" code="" lopendefooter="Tweede Kamer, vergaderjaar 2001–2002, Aanhangsel" filenaam="KVR14947" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2002"/>
+      <vraagdata vraagnummer="530" onderwerp="" indiendatum="2001-12-14">
+         <vrager partij="PvdA" oorsprong="parlement">Dijsselbloem</vrager>
+         <vraagt-aan>de staatssecretaris van Financiën</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2002-01-22">
+         <antwoorder functie="staatssecretaris" ministerie="Financiën">Bos</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Kent u het krantenartikel <voetnoot nummer="1"/>waarin wordt gesteld dat het invullen van een belastingaangifte over 2001 zonder computer vrijwel is uitgesloten, omdat het nieuwe systeem op papier te complex is? </vraag>
+      <vraag nummer="2">Is het waar dat de belastingdienst in alle te versturen 7 miljoen blauwe enveloppen een diskette zal bijsluiten? Welke maatregelen worden genomen om personen die geen computer bezitten toch hun aangifte op diskette in te doen leveren? </vraag>
+      <vraag nummer="3">Is het waar dat het nieuwe aangiftebiljet zo complex is dat schriftelijke aangifte vrijwel onmogelijk is? Welke ondersteuning zal worden geboden aan personen die hun aangifte niet op diskette kunnen inleveren? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="2001-11-17" bron="Amersfoortse Courant">Amersfoortse Courant, 17 november 2001</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Nee. De Belastingdienst verstrekt per huishouden waaraan een E of P biljet wordt toegezonden tevens een aangiftediskette. Het betreft ongeveer 4,75 miljoen huishoudens. Personen, die geen computer bezitten maar wel op diskette aangifte willen doen, kunnen gebruik maken van een computer bij de Belastingdienst. Deze mogelijkheid is ook voorzien bij de vakbonden en ouderenorganisaties (zie ook antwoord op vraag 3) </antwoord>
+      <antwoord nummer="3">Afhankelijk van de persoonlijke situatie zal het invullen van het aangiftebiljet meer of minder problemen kunnen geven. Belastingplichtigen kunnen met hun vragen over de belastingherziening en de invulling van het aangiftebiljet terecht bij de Belastingdienst en de Belasting-Telefoon. De Belastingdienst heeft zich daar op de volgende wijze op voorbereid. • De nieuwe formulieren en toelichtingen zijn voor zover mogelijk vereenvoudigd. • De capaciteit bij de BelastingTelefoon is sterk uitgebreid. • Particulieren kunnen voor de invulling van het aangiftebiljet een beroep doen op de Belastingdienst, de zogenaamde Huba-campagne. • FNV, CNV en de ouderenbonden geven hulp bij het invullen van de aangifte van hun leden. De Belastingdienst heeft hen uitvoerig geïnformeerd over de Belastingherziening en de gewijzigde aangiftebiljetten. Tevens zijn deze organisaties van computers voorzien teneinde ook hulp bij electronische aangifte te kunnen leveren. Het invullen van de aangifte op diskette geeft belastingplichtigen extra gemak omdat de diskette berekeningen automatisch uitvoert, bijvoorbeeld de berekening van drempels en vrijstellingen. Degene die in het verleden de aangifte op papier invulde, wordt daarmee de mogelijkheid gegeven de aangifte op diskette te doen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

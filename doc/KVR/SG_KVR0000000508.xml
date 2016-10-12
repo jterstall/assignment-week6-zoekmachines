@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19941995:0000508</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000508&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000508</item>
+         <item attribuut="Document-id">0000000508</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1994-1995 nummer 174</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden De Cloe en Dijksman (beiden PvdA) over het regiopolitiekorps Midden en West Brabant.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1994-1995 nummer 174</item>
+         <item attribuut="Jaargang">1994_1995</item>
+         <item attribuut="Vraagnummer">174</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">De Cloe</persoon>
+            <persoon partij="PvdA">Dijksman</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-10-05</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Dijkstal</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-11-15</item>
+         <item attribuut="Beginpagina">349</item>
+         <item attribuut="Eindpagina">350</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1994-1995" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="349" allpagenumbers="349" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1994-1995, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="'s-Gravenhage 1994"/>
+      <vraagdata vraagnummer="174" onderwerp="het regiopolitiekorps Midden en West Brabant." indiendatum="1994-10-5">
+         <vrager partij="PvdA" oorsprong="parlement">De Cloe</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Dijksman</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-11-15">
+         <antwoorder functie="minister" ministerie="Binnenlandse Zaken">Dijkstal</antwoorder>
+         <mede-antwoorder>de minister van Justitie</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Wat is uw reactie op het bericht over het regiopolitiekorps Midden en West Brabant waar men van de 30 onderzoeken tegen de georganiseerde zware criminaliteit er 25 moet laten lopen wegens personeelsgebrek? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Wat is uw oordeel ten aanzien van het gegeven dat in de regio Midden en West Brabant de binnengekomen aangiftes slechts worden geregistreerd en gebundeld en dat aan de toezichtsfunctie nauwelijks wordt toegekomen? </vraag>
+      <vraag nummer="3">Vindt u de signalen van de korpschef in Midden en West Brabant en van de hoofdofficier van het arrondissement Breda voldoende ernstig om op zeer korte termijn te onderzoeken op welke wijze tot een verbetering van de politiezorg kan worden gekomen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1994-09-30" bron=" Zie het Brabants Dagblad"> Zie het Brabants Dagblad, 30 september 1994</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1">Gelet op de beschikbare middelen zullen politie en justitie met betrekking tot de aanpak van de (zware) georganiseerde criminaliteit voortdurend prioriteiten moeten stellen. Deze situatie verschilt in de regio Midden– en West-Brabant niet yan die in de rest van het land. Överigens blijkt uit bij de procureur-generaal ingewonnen ambts-berichten dat de keuze voor nader onderzoek in een vijftal zaken niet betekent, dat de andere vijfentwintig in de toekomst niet zullen worden opgepakt. 2 e n 3 Ook voor wat betreft de overige taken 'van de politie is het noodzakelijk dat in de regio's prioriteiten worden gesteld. Dat dit voor het regiopolitiekorps Midden– en West-Brabant aanleiding is om in sommige gevallen aangiften slechts administratief te verwerken en af te zien van verdere behandeling, betreuren wij. Wij wijzen er in dit verband overigens op dat het Kabinet gedurende deze regeringsperiode extra middelen ten behoeve van politie en justitie heeft uitgetrokken. Wij beraden ons op dit moment over de aanwending van de extra middelen en de wijze waarop deze ingezet kunnen worden om uiteindelijk tot een betere politiezorg te komen. Wij zullen de Kamer met betrekking tot onze voornemens, zoals toegezegd, op korte termijn door middel van een aparte brief informeren. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

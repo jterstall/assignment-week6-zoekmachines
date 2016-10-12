@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19881989:0001468</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001468&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001468</item>
+         <item attribuut="Document-id">0000091067</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1988-1989 nummer 464</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Lauxtermann (VVD.) over de doortrekking van de Rijksweg A-58.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1988-1989 nummer 464</item>
+         <item attribuut="Jaargang">1988_1989</item>
+         <item attribuut="Vraagnummer">464</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Lauxtermann</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-03-22</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Smit-Kroes</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-04-14</item>
+         <item attribuut="Beginpagina">931</item>
+         <item attribuut="Eindpagina">932</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 8 - 1 9 8 9 " typehandeling="" typedoc=""/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 8 - 1 9 8 9 ,  A a n h a n g s e l " filenaam="" issn-nummer="ISSN 0921 7398 " uitgever="SDU uitgeverij 's Gravenhage 1989 "/>
+      <vraagdata vraagnummer="464" onderwerp="de doortrekking van de Rijksweg A-58." indiendatum="22 maart 1989)">
+         <vrager partij="VVD" oorsprong="parlement">Lauxtermann</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1 ">Heeft de doortrekking van de  Rijksweg  A - 5 8 ten zuiden van Breda  een vertraging van 1 jaar opgelopen?  </vraag>
+      <vraag nummer="2 ">Zo ja, zijn er problemen met het  aantrekken van waterdichte foliela- gen?  </vraag>
+      <vraag nummer="3 ">Zo ja, wat zijn die problemen? Zijn die  nu pas bekend?  </vraag>
+      <vraag nummer="4 ">Zullen er niet dertigduizend, maar  ongeveer zestigduizend voertuigen  over de nieuwe  w e g rijden?  </vraag>
+      <vraag nummer="5 ">Zo ja, sinds wanneer is dat bekend?  </vraag>
+      <vraag nummer="6 ">Welke maatregelen gaat u nemen  teneinde vertraging ongedaan te  maken?  </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Brabants dagblad van 20 maart 1989 </noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

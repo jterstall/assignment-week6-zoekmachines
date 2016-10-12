@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001752</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001752&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001752</item>
+         <item attribuut="Document-id">0000020138</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 734</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van Erp (VVD) over mineralenbeurzen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 734</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">734</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Van Erp</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-06-03</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Andriessen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-07-21</item>
+         <item attribuut="Beginpagina">1531</item>
+         <item attribuut="Eindpagina">1532</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1531" allpagenumbers="1531" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="734" onderwerp="mineralenbeurzen." indiendatum="1992-06-3">
+         <vrager partij="VVD" oorsprong="parlement">Van Erp</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-07-21">
+         <antwoorder functie="minister" ministerie="Economische Zaken">Andriessen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1">Is het u bekend, dat er sinds 1976 op grote schaal mineralenbeurzen worden georganiseerd? </vraag>
+      <vraag nummer="2">Is het bekend, dat deze beurzen een grote concurrentie vormen voor de reguliere juweliershuizen? </vraag>
+      <vraag nummer="3">Is het bekend, dat deze beurzen veelal in het weekend en op zondag worden gehouden, en dat aan deze beurzen niet alleen door particulieren maar ook door handelaren wordt deelgenomen? </vraag>
+      <vraag nummer="4">Deelt u het vermoeden van veel reguliere handelaren, dat op deze beurzen op grote schaal zwarthandel plaatsvindt? </vraag>
+      <vraag nummer="5">Wordt door de Economische Controledienst onderzoek gedaan naar de (vermeende) misstanden op deze beurzen? Zo neen, bent u bereid onderzoek te laten doen naar deze praktijken, zodat eventueel opgetreden kan worden? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja. Van klachten door reguliere juweliershuizen ten aanzien van mineralenbeurzen is mij niet gebleken. Bedoelde juweliers kunnen op door burgemeester en wethouders te stellen voorwaarden aan deze beurzen deelnemen. Ja. Het besluit van 14 december 1977 (Stb. 690), in werking getreden op 1 november 1978, berust op de Winkelsluitingswet 1976 (Stb. 367) en biedt in artikel 3 de mogehjkheid tot het verlenen van een ontheffing door burgemeester en wethouders ten behoeve van - onder meer - mineralen, fossielen en gesteenten. Deze beurzen mogen worden gehouden op zondag, Nieuwjaarsdag, tweede Paasdag, Hemelvaartsdag, eerste Kerstdag, tweede Kerstdag en de dag waarop de verjaardag van de Koningin wordt gevierd van 10 tot 18 uur, op Goede Vrijdag, 24 en 31 december van 5 tot 18 uur en op andere werkdagen van 5 tot 22 uur. Onder beperkende voorwaarden kunnen ook handelaren aan deze beurzen deelnemen. </antwoord>
+      <antwoord nummer="4">Voorzover met «zwarthandel» wordt gedoeld op het niet naleven van de bepalmgen van de Winkelsluitingswet 1976, verwijs ik naar hetgeen bij de beantwoordmg van vraag 3 is vermeld. Er bestaat geen inzicht in de mate waarop bepalingen van andere wetten, voorzover van toepassing, worden overtreden. 5 e n 6 Door de Economische Controledienst wordt in beginsel slechts in die gevallen, waarin bij de dienst een klacht wordt ingediend waaruit een redelijk vermoeden van overtreding van een van de van toepassing zijnde wetten kan worden afgeleid, een onderzoek ingesteld. Veelal echter zullen de lokale autoriteiten van de (vermeende) misstand in kennis worden gesteld, zodat ook zij passende maatregelen kunnen nemen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

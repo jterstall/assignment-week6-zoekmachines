@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001385</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001385&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001385</item>
+         <item attribuut="Document-id">0000019771</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 371</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Sipkes (Groen Links) over een vertrouwelijk verslag inzake schending van de conventie van Genève in Joegoslavië.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 371</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">371</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Sipkes</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-01-23</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-02-11</item>
+         <item attribuut="Beginpagina">789</item>
+         <item attribuut="Eindpagina">790</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="789" allpagenumbers="789" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="'s-Gravenhage 1992"/>
+      <vraagdata vraagnummer="371" onderwerp="een vertrouwelijk verslag inzake schending van de conventie van Genève in Joegoslavië." indiendatum="1992-01-23">
+         <vrager partij="Groen Links" oorsprong="parlement">Sipkes</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-02-11">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">Van den Broek</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1">Is de Nederlandse regering in het bezit van een vertrouwelijk verslag van een onderzoek over de schendingen van de Conventies van Genève tijdens de oorlog in Joegoslavië, dat samengesteld is door een team van buitenlandse waarnemers'? Zo ja, wat is de reactie van de regering op dit onderzoek? Wat is de regering voornemens met de resultaten te doen? </vraag>
+      <vraag nummer="3">Is de regering bereid het vertrouwelijk verslag van dit onderzoek deze Kamer te doen toekomen samen met een mogelijke regeringsreactie? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1992-01-18" bron=" NRC"> NRC, 18 januari 1992</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1" voetnoot="1"> t/m3 Naast de dagelijkse rapportage door de EG Monitor Missie inzake de activiteiten en bevindingen van de Missie, terzake waarvan de Kamer onder meer werd geïnformeerd in mijn brieven resp. dd. 15 en 20 november 1991, alsmede in mondeling overleg met de Vaste Commissie voor Buitenlandse Zaken van de Kamer d.d. o.a. 29 oktober en 21 november jl., wordt beschikt over een rapport van de speciale «CSCE Human Rights Rapporteur Mission to Yugoslavia», waarvan onder meer Prof. Dr. P. H. Kooymans deel heeft uitgemaakt. De tekst van bedoeld rapport, dat inmiddels openbaar werd gemaakt, gaat ter kennisneming hierbij. <voetnoot nummer="1"/> Het onderhavige rapport is voor de Ministers van Buitenlandse Zaken van de staten die deelnemen in de Conferentie voor Veiligheid en Samenwerking in Europa (CVSE), onder wie de Nederlandse, aanleiding geweest om tijdens de recente tweede CVSE-Ministerraad, 30/31 januari jl., te Praag, vast te stellen dat speciale aandacht dient te worden besteed aan de mensenrechtensituatie in de betrokken gebieden. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Ter inzage gelegd op de bibliotheek</noot>
+      </noten>
+   </antwoorden>
+</kvr>

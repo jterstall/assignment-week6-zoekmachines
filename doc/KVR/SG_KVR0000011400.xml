@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001096</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001096&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001096</item>
+         <item attribuut="Document-id">0000011400</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 165</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Dees en E. G. Terpstra (beiden VVD) over afgemaakte proefdieren bij het Instituut voor Toegepaste Radiobiologie en Immunologie van TNO in Rijswijk.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 165</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">165</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Dees</persoon>
+            <persoon>Terpstra E.G.</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-10-12</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Simons</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-11-23</item>
+         <item attribuut="Beginpagina">341</item>
+         <item attribuut="Eindpagina">342</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="341" allpagenumbers="341" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat s Gravenhage 1992"/>
+      <vraagdata vraagnummer="165" onderwerp="afgemaakte proefdieren bij het Instituut voor Toegepaste Radiobiologie en Immunologie van TNO in Rijswijk." indiendatum="1992-10-12">
+         <vrager partij="VVD" oorsprong="parlement">Dees</vrager>
+         <vrager partij="" oorsprong="parlement">Terpstra E.G.</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-11-23">
+         <antwoorder functie="staatssecretaris" ministerie="Welzijn, Volksgezondheid en Cultuur">Simons</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1">Zijn bij het Instituut voor Toegepaste Radiobiologie en Immunologie van TNO in Rijswijk deze week op grote schaal proefdieren afgemaakt? </vraag>
+      <vraag nummer="2">Zo ja, welke factoren hebben tot deze beslissing geleid en welke diervriendelijke alternatieven zijn overwogen? </vraag>
+      <vraag nummer="3">Was de Veterinaire Inspectie van de Volksgezondheid, belast met het toezicht op de dierproeven, niet op de hoogte? </vraag>
+      <vraag nummer="4">Kunt u de Kamer informeren over het onafhankelijke oordeel van bovengenoemde inspectie? </vraag>
+      <vraag nummer="5">Wat is uw eigen oordeel over deze gebeurtenis? </vraag>
+      <vraag nummer="6">Welke alternatieven zijn er naar uw mening mogelijk geweest? </vraag>
+      <vraag nummer="7">Welke stappen kunnen worden genomen om herhaling te voorkomen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Zie Algemeen Dagblad, De Telegraaf en de Volkskrant van 9 oktober 1992 en NRC Handelsblad van 8 oktober jl</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1 en 2">Op dit moment is ITRI-TNO te Rijswijk inderdaad bezig om de fok van ratten en muizen te saneren. De reden hiervoor is dat binnen afzienbare tijd als gevolg van financiële tekorten minder dierexperimenteel onderzoek zal plaatsvinden. Om te voorkomen dat in de nabije toekomst een overschot aan proefdieren zal ontstaan is thans door de Raad van Bestuur van TNO besloten de fok van een aantal ratten– en muizenstammen te reduceren door middel van het doden van mannelijke fokdieren. Als gevolg van dit besluit zijn op 12 oktober jl. 100 muizen en 92 ratten gedood. </antwoord>
+      <antwoord nummer="3">Allereerst wordt opgemerkt dat een vergunninghoudende instelling volgens de Wet op de dierproeven niet verplicht is om het doden van overtollige dieren vooraf te melden aan de Inspectie. De Veterinaire Inspectie was op de hoogte van de omstandigheid dat binnen het ITRI-TNO te Rijswijk als gevolg van financiële tekorten een reorganisatie werd voorbereid. Het bericht dat de fok van ratten en muizen metterdaad werd gesaneerd vernam de Inspectie echter op 7 oktober jl. van enkele ongeruste dierverzorgers, analisten en onderzoekers. </antwoord>
+      <antwoord nummer="4">Direct na het vernemen van het in het antwoord op vraag 3 vermelde bericht heeft de Inspectie een gesprek gevoerd met de interim-manager van ITRI-TNO. Daarbij werd vastgesteld dat de proefdierdeskundige tevoren niet was geraadpleegd en derhalve niet bij de problematiek was betrokken. De Inspectie heeft de interim-manager erop gewezen dat de proefdierdeskundige nadrukkelijk bij de problematiek dient te worden betrokken, onder meer om expliciet te zoeken naar eventuele alternatieve bestemmingen voor de desbetreffende groepen proefdieren. In dit kader zou contact moeten worden opgenomen met andere instellingen binnen en buiten TNO. Vanzelfsprekend hadden onderzoekers bij de besluitvorming terzake moeten zijn betrokken om te voorkomen dat door overhaaste beslissingen experimenten voortijdig worden afgebroken. Het zal duidelijk zijn dat in een dergelijke situatie sprake is van onzorgvuldig gebruik van proefdieren. Gelet op het bovenstaande is de Inspectie van mening dat tijdens de (vele) gesprekken voorafgaande aan het besluit van de Raad van Bestuur van TNO de gevolgen van de (huidige) Naar mijn oordeel had gedacht kunnen worden aan bestemmingen voor de desbetreffende groepen proefdieren buiten ITRI-TNO. </antwoord>
+      <antwoord nummer="7">Inmiddels zijn met de interim-manager afspraken gemaakt, welke ertoe dienen te leiden dat een zo optimaal mogelijke afstemming plaatsvindt van vraag naar en fok van proefdieren. Tegen deze achtergrond worden dezerzijds maatregelen niet overwogen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

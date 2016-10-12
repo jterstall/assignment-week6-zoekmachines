@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001695</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001695&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001695</item>
+         <item attribuut="Document-id">0000107470</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 662</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Stoffelen (P.v.d.A.) over een landelijk executief werkend rechercheteam.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 662</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">662</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Stoffelen</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-04-21</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Korthals Altes</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-05-06</item>
+         <item attribuut="Beginpagina">1315</item>
+         <item attribuut="Eindpagina">1316</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 6 - 1 9 8 7 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="662" onderwerp="een landelijk executief werkend rechercheteam." indiendatum="21 april 1987)">
+         <vrager partij="PvdA" oorsprong="parlement">Stoffelen</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 ">Is er sinds 19 januari  j l . een landelijk  opsporingsteam, waarvan de  werkzaamheden bestaan uit het  onderzoek naar en aanhouding van  verdachten van strafbare feiten, die  het karakter dragen van misdrijven  van terroristische aard?  </vraag>
+      <vraag nummer="2 ">W o r d t aan dat team niet alleen  deelgenomen door de politie in  verschillende gemeenten, maar ook  door de Koninklijke Marechaussee en  de Centrale Recherche Informatie- dienst (CRI) die assistentie verleent  in de vorm van de inzet van executieve  politieambtenaren en het verrichten  van informatieve en coördinerende  taken?  W o r d t het landelijk observatieteam,  dat gevormd is door samenvoeging  van de observatie-eenheid van de  Bijzondere Zaken Centrale van de  CRI met de observatiegroep van  het district West I van het district  's-Gravenhage van het Korps  Rijkspolitie, in geval van een opdracht  van de landelijke officier van Justitie  van de terreurbestrijding ter beschik- king gesteld van het Hoofd van de  CRI?  </vraag>
+      <vraag nummer="4 ">Berust het gezag over en de inzet van  dit landelijke observatieteam voor de  duur van de inzet ter uitvoering van  een opdracht van deze landelijke  officier van Justitie bij het Hoofd  Bijzondere Zaken Centrale van de  CRI?  Verdient het geen aanbeveling  o m ,  indien bovenstaande vragen bevesti- gend worden beantwoord, het  schriftelijk antwoord van de bewinds- personen op eerder gestelde vragen  aan te vullen en bij te stellen? </vraag>
+      <vraag nummer="1 "/>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> In het antwoord op eerder gestelde vragen  (Vergaderjaar 1986-1987, Aanhangsel nr.  500) stellen bewindslieden dat het landelijke  opsporingsteam niet bestaat en suggereren  ze naar de mening van vragensteller dat het  niet waar is, dat het landelijk observatieteam  werkt onder leiding van (een onderdeel) van  de Centrale Recherche Informatiedienst. </noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="5 ">Deze vraag behoeft gelet op de  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

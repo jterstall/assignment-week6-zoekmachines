@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="5">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19891990:0001297</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001297&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001297</item>
+         <item attribuut="Document-id">0000035704</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 375</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van der Vlies (S.G.P.) over de selectie van vrouwen voor functies bij de politie.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 375</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">375</item>
+         <item attribuut="Indiener">
+            <persoon partij="SGP">Van der Vlies</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-11-15</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Dales</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-03-05</item>
+         <item attribuut="Beginpagina">755</item>
+         <item attribuut="Eindpagina">756</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="755" allpagenumbers="755" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Grauenhage 1990"/>
+      <vraagdata vraagnummer="375" onderwerp="de selectie van vrouwen voor functies bij de politie." indiendatum="1989-11-15">
+         <vrager partij="SGP" oorsprong="parlement">Van der Vlies</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-03-5">
+         <antwoorder functie="minister" ministerie="Binnenlandse Zaken">Dalcs</antwoorder>
+         <mede-antwoorder>de minister van Justitie</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1">Heeft de Rijks Psychologische Dienst bij de selectie van vrouwen voor functies bij de politie vanaf 1986 bepaalde onderdelen van de psycho– logische test geschrapt, respectie– velijk aangepast? Waarom is dit gebeurd? </vraag>
+      <vraag nummer="2">Welke onderdelen van de psycholo– gische test betreft het? In hoeverre waren of zijn deze onderdelen relevant voor het verkrijgen van inzicht in de beroepskwalificaties van sollicitanten? In hoeverre betekent het schrappen, respectievelijk aanpassen van onder– delen van de psychologische test voor de betrokkenen een verlaging van de toelatingseisen voor functies bij de politie? </vraag>
+      <vraag nummer="4">In hoeverre hebben de gewijzigde selectie-eisen in de praktijk invloed op het functioneren van de betrok– kenen in hun functie bij de politie? </vraag>
+      <vraag nummer="5">Indien de gewijzigde selectie-eisen geen invloed hebben op het functio– neren van het politiepersoneel, bent u dan voornemens de voor vrouwen geschrapte, respectievelijk aange– paste onderdelen van de psycholo– gische test ook voor mannen te schrappen, respectievelijk aan te passen? </vraag>
+      <vraag nummer="6">Zo neen, betekent het wijzigen van de toelatingseisen voor vrouwen in het kader van de zogenaamde positieve discriminatie dan geen feitelijke discriminatie van mannen? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1">De Rijks Psychologische Dienst heeft in 1983 naar aanleiding van een evaluatieonderzoek van de bij de politieselectie gebruikte intelligentie– testen een aantal technische aanpas– singen verricht. Dit was noodzakelijk omdat gebleken was dat vrouwen met dezelfde vaardigheden als mannen de verschillende vragen categorisch slechter beantwoordden dan mannen. Het ging daarbij bijvoorbeeld om de TMI-test (een test voor technisch-mechanisch inzicht). De TMI-test werd vervangen door een andere test met behoud van de component ruimtelijk inzicht maar zonder de component technisch-mechanisch inzicht. Door deze vervanging is de betrouw– baarheid van de tests toegenomen. Hierdoor is het inzicht in de beroeps– kwalificaties van sollicitanten niet verminderd. Integendeel, handhaving van minder betrouwbare tests zou tot een verminderd inzicht en onnodig foutieve beslissingen in een vroegtijdig stadium hebben geleid. </antwoord>
+      <antwoord nummer="3">Er is geen sprake van een verlaging van de toelatingseisen. De testaan– passingen zijn geschied om een meer betrouwbare en daarmee kwalitatief ook betere selectie te kunnen plegen. </antwoord>
+      <antwoord nummer="4">De selectie– en toelatingseisen zijn ongewijzigd gebleven. Tot nu toe is niet gebleken dat de wijzigmgen in de testen hebben geleid tot een slechter functioneren. </antwoord>
+      <antwoord nummer="5">De tests die zijn vervangen, zijn vervangen voor zowel mannen als vrouwen. </antwoord>
+      <antwoord nummer="6">Op basis van het voorafgaande kan niet gesteld worden dat vrouwen ten opzichte van mannen positief worden gediscrimineerd noch omgekeerd. Één van de aan een testprogramma te stellen eisen is dat mannen en vrouwen met dezelfde vaardigheden de verschillende vragen niet categorisch beter of slechter mogen beantwoorden. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

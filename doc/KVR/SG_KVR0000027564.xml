@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="1">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001227</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001227&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001227</item>
+         <item attribuut="Document-id">0000027564</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 294</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Apostolou, Verspaget (beiden P.v.d.A.), Krajenbrink (C.D.A.), Eisma (D66) en Sipkes (Groen Links) over het optreden van de Marokkaanse autoriteiten tegen een algemene staking.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 294</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">294</item>
+         <item attribuut="Indiener">
+            <persoon>Apostolou</persoon>
+            <persoon>Verspaget</persoon>
+            <persoon>Krajenbrink</persoon>
+            <persoon>Eisma</persoon>
+            <persoon>Sipkes</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-12-21</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-01-14</item>
+         <item attribuut="Beginpagina">593</item>
+         <item attribuut="Eindpagina">594</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="593" allpagenumbers="593" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1991"/>
+      <vraagdata vraagnummer="294" onderwerp="het optreden van de Marokkaanse autoriteiten tegen een algemene staking." indiendatum="1990-12-21">
+         <vrager partij="" oorsprong="parlement">Apostolou</vrager>
+         <vrager partij="" oorsprong="parlement">Verspaget</vrager>
+         <vrager partij="" oorsprong="parlement">Krajenbrink</vrager>
+         <vrager partij="" oorsprong="parlement">Eisma</vrager>
+         <vrager partij="" oorsprong="parlement">Sipkes</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="14januari 1991">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">Van den Broek</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="1">
+      <vraag nummer="1">Hebt u kennis genomen van de gebeurtenissen in verschillende steden in Marokko waarbij tientallen doden en honderden gewonden zijn gevallen ? Bent u met ons van mening, dat het optreden van de Marokkaanse autoriteiten tegen de door de vakcentrales georganiseerde algemene staking op 14 december 1990 een ernstige schending betekent van de internationale rechten van de mens? Bent u bereid er bij de Marokkaanse autoriteiten op aan te dringen het fundamentele recht van vakorgani– saties om uiting te geven aan hun opvattingen, mede door middel van stakingen, te eerbiedigen en de Kamer over uw démarches te infor– meren? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"/>
+         <noot nummer="1" datum="1990-12-18" bron=" De Volkskrant van 17 en"> De Volkskrant van 17 en, 18 december 1990</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1 t/m3">Uit de informaties die mij aangaande de ernstige ongeregeldheden in verscheidene Marokkaanse steden hebben bereikt, leid ik af dat het optreden van de autoriteiten aldaar niet was gericht tegen de voor 14 december aangekondigde algemene staking doch tegen de geweldple– gingen, vernielingen en plunderingen op grote schaal, waarbij met name openbare en particuliere eigen– dommen het doelwit vormden. Dat bij deze botsingen slachtoffers zijn gevallen moet uiteraard worden betreurd. Omtrent het aantal doden en gewonden lopen de berichten overigens uiteen. Ik wil voorts niet onvermeld laten dat de regering te Rabat tijdens een kort na de gebeur– tenissen in kwestie gehouden spoed– zitting van het parlement de instelling heeft aangekondigd van een commissie van onderzoek, bestaande uit vertegenwoordigers van de respectieve politieke partijen in het parlement en voorgezeten door de secretaris-generaal van de vorig jaar in Marokko ingestelde consultatieve raad voor de mensen– rechten. Voor een Nederlandse stap als in deze vragen bedoeld zie ik vooralsnog geen aanleiding. De situatie in Marokko, in het bijzonder voor wat betreft de mensenrechten, zal evenwel de nodige aandacht behouden. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

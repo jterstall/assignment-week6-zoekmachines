@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19871988:0001317</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001317&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001317</item>
+         <item attribuut="Document-id">0000099031</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1987-1988 nummer 377</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van Es (P.S.P.) over een bouwvergunning voor de bouw van een nieuw ziekenhuis te Blaricum.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1987-1988 nummer 377</item>
+         <item attribuut="Jaargang">1987_1988</item>
+         <item attribuut="Vraagnummer">377</item>
+         <item attribuut="Indiener">
+            <persoon partij="PSP">Van Es</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1988-01-22</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Nijpels</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1988-03-04</item>
+         <item attribuut="Beginpagina">757</item>
+         <item attribuut="Eindpagina">758</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 7 - 1 9 8 8 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 7 - 1 9 8 8 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="377" onderwerp="een bouwvergunning voor de bouw van een nieuw ziekenhuis te Blaricum." indiendatum="22 januari 1988)">
+         <vrager partij="PSP" oorsprong="parlement">Van Es</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="4 maart 1988)">
+         <antwoorder functie="" ministerie="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer"/>
+         <mede-antwoorder>de minister van Binnenlandse Zaken</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1 ">Is het u bekend, dat de gemeente  Blaricum op korte termijn een  bouwvergunning wil verstrekken aan  de Stichting Streekziekenhuis  Gooi-Noord ten behoeve van de  bouw van een nieuw ziekenhuis?  </vraag>
+      <vraag nummer="2 ">Heeft de gemeente Blaricum, op  basis van een akoestisch onderzoek  conform de  W e t geluidhinder, de  gevelbelasting van het te bouwen  ziekenhuis op 22 juni 1987 vastge- steld op  4 9  t / m 63 dB (A)? Zijn deze  waarden door de provincie Noord-Hol- land gecorrigeerd tot 56  t / m 65  dB(A)7  </vraag>
+      <vraag nummer="3 ">Is het te verwachten, dat deze  waarden nog zullen stijgen als gevolg  van de verhoging van de toegestane  rijsnelheid op de  A 1 , een hogere  verkeersintensiteit dan volgens  prognoses het geval zou zijn, de  volgens het rijkswegenplan voorgeno- men uitbreiding van de  A 1 en de  sterk verminderde 'bosdemping' als  gevolg van het kappen van bomen?  </vraag>
+      <vraag nummer="4 ">Is het u bekend, dat de gemeente  Blaricum met toepassing van artikel  94, lid 3, juncto artikel  9 3 , leden 3, 4  en 5 van de  W e t geluidhinder heeft  besloten, dat het terugbrengen van  de geluidsbelasting tot de voorkeurs- waarde van  5 0 dB(A) door het treffen  van maatregelen aan de bron en of in  de overdrachtssfeer niet mogelijk is  en Gedeputeerde Staten van Noord- Holland heeft verzocht een verklaring  van geen bezwaar tegen de gevraagde  bouwvergunning te verlenen?  </vraag>
+      <vraag nummer="5 ">Is op grond van artikel 5, lid 1 van  het Besluit grenswaarden binnen  zones langs wegen, een afwijking van  de norm van  5 0 dB(A). (de maximale  geluidsbelasting voor ziekenhuizen)  mogelijk, maar volgens de artikelen  85 en  8 3 , lid 1 van de  W e t geluid- hinder slechts toegestaan tot een  waarde van 5dB(A)? Zo neen, waarom  niet?  </vraag>
+      <vraag nummer="6 ">Deelt u de mening dat een en ander  betekent, dat de gemeente Blaricum  in strijd handelt met de  W e t geluid- hinder? Zo neen, waarom niet?  </vraag>
+      <vraag nummer="7 ">Bent u bereid het besluit van de  gemeente Blaricum van 22 juni 1987  te vernietigen?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1 ">Ja.  </antwoord>
+      <antwoord nummer="2 ">Ja, de correctie van de provincie  vond plaats, omdat uitgegaan moet  worden van een geringere invloed  van de geluiddemping door het bos  dan door de gemeente was voorge- steld.  </antwoord>
+      <antwoord nummer="3 ">Neen, een verhoging van de maximaal  toegelaten rijsnelheden voor dit  weggedeelte is niet voorzien in de  Nota rijsnelheden die in december  1987 aan de Tweede Kamer is  toegezonden. Bij een wegverbreding  (reconstructie) geldt een afzonderlijke  geluidhinderprocedure op basis van  de Wet geluidhinder (artikelen  8 4 en  99-101).  </antwoord>
+      <antwoord nummer="4 ">Ja.  </antwoord>
+      <antwoord nummer="5 ">Neen, het Besluit grenswaarden  binnen zones langs wegen is op deze  situatie niet van toepassing. Het gaat  hier immers om een (per 1 maart  1986) geprojecteerde geluidgevoeli- ge bestemming die op grond van het  onderdeel «bestaande situaties» van  het hoofdstuk Zones langs wegen  van de  W e t geluidhinder  w o r d t  aangemerkt als een overgangssitua- tie. Op grond van het Saneringsbesluit  geluidhinder wegverkeer (artikel 13)  geldt voor deze bestemming een  voorkeursgrenswaarde van  5 0 dB(A)  en een maximale ontheffingswaarde  van 65 dB(A). Krachtens het «Besluit  aftrek resultaat berekening en meting  geluidsbelasting vanwege een weg»  (ex artikel 103  W e t geluidhinder)  mag 5 dB(A) van het resultaat van de  berekende geluidbelasting worden  afgetrokken, alvorens de toetsing aan  de genoemde grenswaarden plaats- vindt. Het akoestisch onderzoek  voldoet aan de hiertoe gestelde eisen  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

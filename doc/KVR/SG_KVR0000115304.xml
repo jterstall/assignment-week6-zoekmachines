@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19851986:0001744</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001744&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001744</item>
+         <item attribuut="Document-id">0000115304</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1985-1986 nummer 824</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Beckers-de Bruijn en Lankhorst (beiden P.P.R. over het afgeven van non-aidsverklaringen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1985-1986 nummer 824</item>
+         <item attribuut="Jaargang">1985_1986</item>
+         <item attribuut="Vraagnummer">824</item>
+         <item attribuut="Indiener">
+            <persoon>Beckers-de Bruijn</persoon>
+            <persoon>Lankhorst</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-04-23</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Brinkman</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-06-16</item>
+         <item attribuut="Beginpagina">1637</item>
+         <item attribuut="Eindpagina">1638</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1985-1986 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 5 - 1 9 8 6 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="824" onderwerp="het afgeven van non-aidsverkla- ringen." indiendatum="23 april 1986)">
+         <vrager partij="" oorsprong="parlement">Beckers-de Bruijn</vrager>
+         <vrager partij="" oorsprong="parlement">Lankhorst</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="16 juni 1986)">
+         <antwoorder functie="minister" ministerie="Welzijn, Volksgezondheid en Cultuur">Brinkman</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="1">
+      <vraag nummer="1 ">Is het u bekend dat op verzoek en  zonder voorafgaand onderzoek  non-aidsverklaringen afgegeven  worden aan mensen, die daarom  vragen?  Is het u bekend dat artsen, onder  druk van de consument, zich gedwon- gen voelen - hoewel zij daar persoon- lijk tegen zijn - toch een non-aidsver- klaring af te geven?  Op welke termijn zijn uw aangekon- digde maatregelen te verwachten,  die aan het afgeven van dit soort  verklaringen een einde moet maken?  Wilt u vooruitlopend hierop artsen  dringend verzoeken geen non-aidsver- klaringen meer te verstrekken?  Aids-info nr. 7, uitgave van de  Gaykrant en het COC.  Het Binnenhof van 21 april  j . l .  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1 ">Ja. Het gaat hierbij in principe om  mensen zonder duidelijke ziektever- schijnselen aan wie, zonder de  waarheid geweld aan te doen, een  zogenaamde non-aidsverklaring  kan worden afgegeven.  </antwoord>
+      <antwoord nummer="2 ">Ja. Onder ogen dient echter gezien  te worden dat in bepaalde gevallen  personen, die bedoelde verklaring  niet kunnen overleggen, het risico  lopen dat een aanvraag voor het  verlenen van een visum niet wordt  ingewilligd.  </antwoord>
+      <antwoord nummer="3 ">Ik heb deze kwestie aan de orde  gesteld tijdens de 39e World Health  Assembly (5-16 mei) te Genève,  alsmede tijdens de Volksgezondheids- raad van de Europese gemeenschap- pen (29 mei) te Brussel, waar ik in  laatstgenoemde vergadering een  gezamenlijke verklaring heb voorge- steld waarin de lidstaten hun zorg  uiten over het eisen van gezondheids- verklaringen met betrekking tot aids  bij afgifte van visa.  In de wereldgezondheidsorganisa- tie heeft dit overigens niet geleid tot  maatregelen terzake, wèl is een  resolutie aangenomen over de  afstemming van onderzoek en  preventiemaatregelen. In de EG- Volksgezondheidsraad is de kwestie  voor nader onderzoek aangehouden.  </antwoord>
+      <antwoord nummer="4 ">Gelet op de antwoorden 1, 2 en 3  alsmede het standpunt van de  Koninklijke Nederlandsche Maat- schappij tot Bevordering der Genees- kunst terzake (gepubliceerd in  Medisch Contact, nr. 10, van 7 maart  1986, blz. 316) acht ik het niet  opportuun, dat ik de artsen verzoek  geen non-aidsverklaringen te  verstrekken.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19871988:0001060</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001060&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001060</item>
+         <item attribuut="Document-id">0000098774</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1987-1988 nummer 123</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Paulis (C D.A.) over de aanspraak op wedde van de groep ex-dienstplichtigen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1987-1988 nummer 123</item>
+         <item attribuut="Jaargang">1987_1988</item>
+         <item attribuut="Vraagnummer">123</item>
+         <item attribuut="Indiener">
+            <persoon partij="C DA">Paulis</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-10-26</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van Houwelingen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-11-12</item>
+         <item attribuut="Beginpagina">245</item>
+         <item attribuut="Eindpagina">246</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="" typehandeling="Aanhangsel van de Handelingen " typedoc="gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 7 - 1 9 8 8 , Aanhangsel 245 " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="123" onderwerp="" indiendatum="">
+         <vrager partij="C DA" oorsprong="parlement">Paulis</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="12 november 1987)">
+         <antwoorder functie="" ministerie="Defensie"/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1 ">Bent u hekend met de aanspraken op  wedde over de periode van tewerk- stelling tijdens de Tweede  W e r e l d - oorlog van de groep ex-dienstplichti- gen  1 9 4 3 - 1 9 4 5 ?  </vraag>
+      <vraag nummer="2 ">Bent u nog steeds van oordeel, dat  deze claims juridisch ongegrond  zijn?'  </vraag>
+      <vraag nummer="3 ">Zo ja, acht u het desalniettemin billijk  om aan deze categorie oorlogsslacht- offers tegemoet te komen, gelet op  de regeling die voor een vergelijkbare  categorie, de ex-KNIL-dienstplichti  gen is getroffen?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1 ">Ja.  </antwoord>
+      <antwoord nummer="2 ">Ja.  </antwoord>
+      <antwoord nummer="3 ">Neen. Ëen vergelijking met de  regeling die voor ex-KNIL dienstplich- tigen is getroffen, is niet juist. De  Uitkeringswet Indische geïnterneer  den heeft niet aileen betrekking op  ex-dienstplichtigen, maar op alle  Indische geïnterneerden. Een  uitkering aan die oorlogsslachtoffers  werd wenselijk geacht, omdat de  verschrikkingen van de Japanse  Dezetting en het lijden in de Japanse  gevangenkampen in ons land pas  laat - en dan nog nooit ten volle - zijn beseft. Daardoor ondervonden be- trokkenen veelal onvoldoende begrip  voor de problemen die verband  hielden met hun noodgedwongen  repatnëring.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

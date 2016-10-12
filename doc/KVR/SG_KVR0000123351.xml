@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="zenden. " aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19841985:0001379</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19841985:0001379&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19841985:0001379</item>
+         <item attribuut="Document-id">0000123351</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1984-1985 nummer 259</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Engwirda en Groenman (beiden D'66) over een notitie inzake toetsing van de behandeling van alleenstaanden.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1984-1985 nummer 259</item>
+         <item attribuut="Jaargang">1984_1985</item>
+         <item attribuut="Vraagnummer">259</item>
+         <item attribuut="Indiener">
+            <persoon partij="D'66">Engwirda</persoon>
+            <persoon partij="D'66">Groenman</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1984-11-19</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Lubbers</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1984-11-28</item>
+         <item attribuut="Beginpagina">511</item>
+         <item attribuut="Eindpagina">512</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1984-1985 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1984-1985, Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="259" onderwerp="" indiendatum="">
+         <vrager partij="D'66" oorsprong="parlement">Engwirda</vrager>
+         <vrager partij="D'66" oorsprong="parlement">Groenman</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 " voetnoot="1">Herinnert u zich de toezegging <voetnoot nummer="1"/>, die u  tijdens de algemene politieke beschou- wingen over de rijksbegroting 1985 in  antwoord op vragen van de eerste  vragensteller hebt gedaan, een notitie  aan deze Kamer te zenden, waarin de  behandeling van alleenstaanden ten  opzichte van gehuwden o.m. op het  gebied van de sociale zekerheid, de  huurwetgeving, de gezinsverzorging  en de ziektekostenverzekeringen op  draagkracht en redelijkheid getoetst  zal worden?  </vraag>
+      <vraag nummer="2 ">Wanneer kan de Kamer deze notitie  tegemoet zien?  ' Handelingen blz. 481 en 482.  Antwoord  Antwoord van Minister-President  Lubbers (Algemene Zaken). (Ontvan- gen 28 november 1984)  </vraag>
+      <vraag nummer="1 ">Jazeker.  </vraag>
+      <vraag nummer="2 ">Een ambtelijke werkgroep is thans  bezig de verlangde inventariserende  notitie op te stellen; ik ga ervan uit  dat het mogelijk is de notitie begin  volgend jaar aan de Kamer toe te  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="CVSE?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001088</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001088&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001088</item>
+         <item attribuut="Document-id">0000011392</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 157</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Leerling (RPF) over de Albanese Wet op de bescherming van religieuze gemeenschappen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 157</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">157</item>
+         <item attribuut="Indiener">
+            <persoon partij="RPF">Leerling</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-10-22</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-11-18</item>
+         <item attribuut="Beginpagina">325</item>
+         <item attribuut="Eindpagina">326</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="325" allpagenumbers="325" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="157" onderwerp="de Albanese Wet op de bescherming van religieuze gemeenschappen." indiendatum="22 oktober 1992}">
+         <vrager partij="RPF" oorsprong="parlement">Leerling</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Hebt u kennis genomen van het bericht <voetnoot nummer="1"/>, dat het Albanese parlement vorige week de Wet op de bescherming van religieuze gemeenschappen heeft aangenomen? </vraag>
+      <vraag nummer="2">Erkent deze Wet slechts de vier traditionele godsdiensten in Albanië, terwijl evangelische christenen in hun werkzaamheden worden bemoeilijkt? </vraag>
+      <vraag nummer="3">Zo ja, deelt u de opvatting, dat de belemmerende werking van de Wet op de bescherming van religieuze gemeenschappen in strijd is met de Slotbepaling van de Helsinki-conferentie van 1975? Wilt u de reactie van de Albanese regering aan de Kamer rapporteren? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1992-10-21" bron=" Reformatorisch Dagblad van 20 oktober jl , Nederlands Dagblad"> Reformatorisch Dagblad van 20 oktober jl , Nederlands Dagblad, 21 oktober 1992</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+   <mededeling mededeler="Van den Broek" functie="minlster" afdeling="Buitenlandse Zaken" mededelingdatum="1992-11-18">Mededeling van minlster Van den Broek (Buitenlandse Zaken). (Ontvangen 18 november 1992) Onder verwijzing naar de brief van de Griffier uwer Kamer,, 23 oktober 1992, waarbij mij werden toegezonden de door de heer Leerling overeenkomstig artikel 121 van het Reglement van Orde van de Tweede Kamer bij u ingediende vragen, moge ik te uwer kennis brengen tot mijn spijt nog niet te beschikken over de voor de beantwoording van deze vragen benodigde gegevens. Het ligt in mijn voornemen, u het antwoord zodra daartoe de mogelijkheid bestaat te doen toekomen. Ziet u mogelijkheden om de Albanese regering in het kader van de CVSE aan te spreken en er op te wijzen dat dergelijke beperkingen in vrijheid van godsdienstuitoefening strijden met de gedachten van de </mededeling>
+</kvr>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="afspraken?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Marijnissen (SP) aan de minister van Financiën over de europrijzen. (Ingezonden 11 januari 2002)</item>
+         <item attribuut="Bestand">12Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V010204250
+</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van het artikel "Stroom van klachten over hogere europrijzen" in de Volkskrant van 8 januari 2002, over prijsstijgingen als gevolge van de invoering van de euro.</item>
+         <item attribuut="Rubriek">Consument (Consumentenprijzen) Geld (Inflatie) Geld (Wisselkoersen / valuta)</item>
+         <item attribuut="Trefwoorden">Consumenten EMS Inflatie Prijzen Valuta</item>
+         <item attribuut="Vindplaats">Kamervragen 2001-2002, vraagnr. 2010204250, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2010204250</item>
+         <item attribuut="Indiener">
+            <persoon partij="SP">Marijnissen</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2002-01-11</item>
+         <item attribuut="Document-id">V010204250</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2001–2002" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 2001–2002, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2001"/>
+      <vraagdata vraagnummer="2010204250" onderwerp="" indiendatum="2002-01-11">
+         <vrager partij="SP" oorsprong="parlement">Marijnissen</vrager>
+         <vraagt-aan>de minister van Financiën</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Heeft u kennisgenomen van het artikel «Stroom van klachten over hogere europrijzen» ? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2" voetnoot="2">Hoe komt het dat u in antwoorden op mijn eerdere vragen <voetnoot nummer="2"/>altijd hebt ontkend dat de invoering van de euro tot prijsstijgingen zou leiden terwijl uw ministerie prijsstijgingen nu erkent? </vraag>
+      <vraag nummer="3">Is het waar dat in Noordrijn-Westfalen en België inmiddels ook euroflatie is geconstateerd? </vraag>
+      <vraag nummer="4">Kunt u een overzicht geven van de euroflatie in andere eurolanden? </vraag>
+      <vraag nummer="5">Deelt u de mening dat deze prijsstijgingen een schending zijn van de in het Nationaal Forum voor de introductie van de euro gemaakte </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" datum="2002-01-8" bron="De Volkskrant">De Volkskrant, 8 januari 2002</noot>
+         <noot nummer="2" documenttype="Kamervragen" documentnummer="437" documentjaargang="2001-2002">Aanhangsel Handelingen, nr. 437, vergaderjaar 2001–2002.</noot>
+      </noten>
+   </antwoorden>
+</kvr>

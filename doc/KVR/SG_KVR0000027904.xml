@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001567</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001567&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001567</item>
+         <item attribuut="Document-id">0000027904</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 631</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid J. T. van den Berg (S.G.P.) over overdrachtskosten voorde grond.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 631</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">631</item>
+         <item attribuut="Indiener">
+            <persoon>van den Berg J.T.</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-04-12</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Heerma</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-06-10</item>
+         <item attribuut="Beginpagina">1287</item>
+         <item attribuut="Eindpagina">1288</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1287" allpagenumbers="1287 12" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1991"/>
+      <vraagdata vraagnummer="631" onderwerp="overdrachts– kosten voorde grond." indiendatum="12april 1991">
+         <vrager partij="" oorsprong="parlement">van den Berg J.T.</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="10juni 1991), zieook Aanhangsel Handelingen nr. 574, Vergaderjaar 1990-1991">
+         <antwoorder functie="staatssecretaris" ministerie="Volkshuisvesting, Ruimte– lijke Ordenmg en Milieubeheer">Heerma</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Zijn in de nu geldende tekst van de Beschikking geldelijke steun eigen woningen 1984 de overdrachts– kosten van de grond bij premiekoop– woningen een onderdeel van de totale kosten van het in eigendom verkrijgen van bedoelde woningen? </vraag>
+      <vraag nummer="2">Wordt terzake op vragen van de gemeenten door het ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer als uitgangspunt genomen, dat de overdrachtskosten voor de grond onderdeel moeten uitmaken van de totale grondkosten, tot maximaal f 28 000,00? Zo ja, op welke bepaling uit de bedoelde beschikkmg is dat uitgangspunt gebaseerd? </vraag>
+      <vraag nummer="3">Wat zijn de gevolgen van het door het ministerie ingenomen standpunt voor de mogelijkheden om nog op een verantwoorde wijze premiekoop– woningen te realiseren? </vraag>
+      <vraag nummer="4">Bent u bereid alle onduidelijkheid omtrent de overdrachtskosten voor de grond weg te nemen? Bent u bereid aan de gemeenten mee te delen dat deze kosten onderdeel zijn van de totale stichtingskosten van premiekoopwoningen en niet louter van de grondkosten? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Met ingang van 1 januari 1991 is de Beschikking geldelijke steun eigen woningen 1984 aangepast. Voor de vaststelling van de kosten van het verkrijgen in eigendom van woningen welke zijn gegund vanaf 1 januari 1991 worden de overdrachtskosten van de grond in alle gevallen gerekend tot de kosten van het verkrijgen in eigendom, conform het bepaalde in art. 2, eerste lid van de betreffende regeling. Dit geldt dus zowel voor de situatie dat er sprake is van een gecombineerde koop-/aannemings– overeenkomst als bedoeld in art. 2, eerste lid onder a, als voor de situatie dat de koopovereenkomst voor de grond en de aannemings– overeenkomst ten aanzien van de woning in tijd uiteen liggen. Voor wat betreft de in art. 1 5, eerste lid onder a en b genoemde maximale grondprijzen geldt, dat hiermee bedoeld zijn de koopsommen van de grond, zoals beschreven in art. 2 eerste lid onder a en b van de regeling. </antwoord>
+      <antwoord nummer="2">Neen, zie het antwoord bij vraag 1. Door de onder 1 beschreven syste– matiek van de regeling is, met inachtneming van de eigen verant– woordelijkheid van initiatiefnemers en kopers waar het gaat om kosten– beheersing, een voldoende kader gegeven tot realisatie van de bouw van sociale koopwoningen. </antwoord>
+      <antwoord nummer="4">In een volgend schrijven aan de gemeenten zal ik mijn standpunt ter zake nogmaals verduidelijken. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

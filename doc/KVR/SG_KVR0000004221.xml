@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0001710</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001710&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001710</item>
+         <item attribuut="Document-id">0000004221</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 496</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Janmaat-Abee (CDA) over thuishulp aan yuppies.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 496</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">496</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Janmaat-Abee</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-04-27</item>
+         <item attribuut="Beantwoorder">
+            <persoon>d'Ancona</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-05-17</item>
+         <item attribuut="Beginpagina">1009</item>
+         <item attribuut="Eindpagina">1010</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1009" allpagenumbers="1009" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat s Gravenhage 1994"/>
+      <vraagdata vraagnummer="496" onderwerp="thuishulp aan yuppies." indiendatum="1994-04-27">
+         <vrager partij="CDA" oorsprong="parlement">Janmaat-Abee</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-05-17">
+         <antwoorder functie="minister" ministerie="Welzijn, Volksgezondheid en Cultuur">d'Ancona</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Kent u de berichten <voetnoot nummer="1"/> inzake «Thuishulp biedt hulp aan yuppies»? </vraag>
+      <vraag nummer="2">Zo ja, vindt u het juist, dat middelen die beschikbaar zijn gesteld voor het verlenen van thuiszorg aan mensen die deze zorg nodig hebben, worden gebruikt voor het creëren van huishoudelijk werk voor anderen dan voor wie thuiszorg bestemd is? </vraag>
+      <vraag nummer="3">Deelt u de visie van de directie thuiszorg Haarlem, dat het verzorgen van geindiceerde hulpvragers een slecht imago geeft aan een thuiszorgorganisatie? 4. Moeten «yuppies» aan «indicatiecriteria» voldoen? Zo ja, welke? Hoe valt het streven naar economische– en sociaal-culturele zelfstandigheid te rijmen met het voornemen van de directie van thuiszorg Haarlem om nog eens de helft van het aantal werkenden een oproepcontract c.q. freelance contract aan te bieden? Kunt u de kwaliteit van zorg waarborgen aan geïndiceerde chronische zieken, ouderen, e.d. die noodzakelijk thuiszorg behoeven nu de organisatie, in het kader van imago-verbetering, huishoudelijke hulp aan yuppies aanbiedt? </vraag>
+      <vraag nummer="7">Deelt u de mening, dat de thuiszorg een belangrijke positie in de eerste lijn inneemt, maar dat de eigenlijke inhoud van de thuiszorg wordt misbruikt ten behoeve van imago-verbetering? </vraag>
+      <vraag nummer="8">Welke stappen denkt u te nemen om oneigenlijk gebruik van middelen en inhoud, ten behoeve van een grote groep mensen die afhankelijk is van zorg, te waarborgen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1994-04-19" bron=" Algemeen Dagblad"> Algemeen Dagblad, 19 april 1994</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="8">
+      <antwoord nummer="1">Ja, de berichten inzake de plannen van Thuiszorg Haarlem om hulp te bieden aan yuppies zijn mij bekend. </antwoord>
+      <antwoord nummer="2">Uit de door mij ingewonnen informatie blijkt dat de plannen van Thuiszorg Haarlem inhouden dat de hier bedoelde huishoudelijke hulp wordt verleend aan personen die deze hulp geheel zelf dienen te betalen. Er zullen hiervoor dan ook geen middelen worden ingezet vanuit de reguliere financiering van de gezinsverzorging. </antwoord>
+      <antwoord nummer="3">Het is mij niet bekend dat de directie van Thuiszorg Haarlem een dergelijke visie zou hebben. Indien dittoch het geval zou zijn, dan deel ik dergelijke visie niet. </antwoord>
+      <antwoord nummer="4">Aangezien het hier plannen betreft voor hulp aan mensen die de hulp geheel zelf dienen te betalen, dienen deze personen niette voldoen aan de indicatiecriteria die gelden voor de reguliere gezinsverzorging. </antwoord>
+      <antwoord nummer="5">Een instelling voorthuiszorg is zelf verantwoordelijk voor de wijze waarop het werk wordt georganiseerd. Het is dus ook aan de instelling om binnen de mogelijkheden die wetgeving en cao bieden en afhankelijk van plaatselijke gegevenheden, te bepalen op welke basis mensen worden ingeschakeld om het werk te verrichten (volletijdscontracten, deeltijdcontracten, oproepcontracten, freelance contracten, uitzendkrachten, alphahulpen). De door de instelling te maken afwegingen kan en wil ik niet beoordelen. Over de uitwerking van deze plannen bestaat nog geen duidelijkheid. Cruciaal bij de plannen is het uitbreiden van de bemiddelingsfunctie (alphahulp) voor huishoudelijke dienstverlening. Door deze uitbreiding zal door de lagere worden met het operationaliseren van het plan. </antwoord>
+      <antwoord nummer="6">Gezien het antwoord op vraag 2 zal de kwaliteit van de zorg die Thuiszorg Haarlem biedt bij de gezinsverzorging, op de gebruikelijke wijze dienen te worden gewaarborgd. Hierbij heeft het contactkantoor dat het overleg voert met Thuiszorg Haarlem over de inzet van de middelen uit de subsidieregeling gezinsverzorging van de Ziekenfondsraad een centrale rol. Daarnaast kan gewezen worden op de bestaande klachtenprocedure binnen de gezinsverzorging. Voor klachten bij de alpha-hulp constructie is de betrokken cliënt de werkgever en kan deze zelfs eisen stellen aan de hulpverlening. </antwoord>
+      <antwoord nummer="7">Ja, ik onderschrijf de mening dat de thuiszorg een belangnjke positie in de eerstelijnszorg inneemt. Gezien het antwoord op vraag 3 behoeft het tweede deei van deze vraag geen beantwoording. </antwoord>
+      <antwoord nummer="8">Zoals uit de beantwoording van vraag 2 moge blijken is er in het onderhavige geval geen sprake van oneigenlijke aanwending van middelen. Desondanks zijn deze berichten over Thuiszorg Haarlem voor mij aanleiding om de Ziekenfondsraad te verzoeken er alert op te zijn dat de middelen bestemd voor de instellingen gezinsverzorging uitsluitend voor gezinsverzorgingsactiviteiten worden ingezet. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

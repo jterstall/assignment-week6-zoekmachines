@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="2">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001219</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001219&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001219</item>
+         <item attribuut="Document-id">0000106994</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 185</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van Es (P.S.P.) over procedures inzake het toelaten van oorlogsschepen tot Nederlandse havens.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 185</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">185</item>
+         <item attribuut="Indiener">
+            <persoon partij="PSP">Van Es</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-10-24</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van Eekelen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-11-25</item>
+         <item attribuut="Beginpagina">373</item>
+         <item attribuut="Eindpagina">374</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 6 - 1 9 8 7 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="185" onderwerp="procedures inzake het toelaten van oorlogsschepen tot Nederlandse havens." indiendatum="24 oktober 1986)">
+         <vrager partij="PSP" oorsprong="parlement">Van Es</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="25 november 1986) 1 en 2 De regering heeft de bevoegdheid verzoeken tot bezoeken van oorlogs- schepen aan Nederlandse havens af te wijzen. Deze bevoegdheid komt onder meer tot uitdrukking in het verdrag van Genève inzake de territoriale zee en aansluitende zone van 1 9 5 8 ( T r b . 1959, 123). 3 t / m 6 De bondgenootschappelijke afspra- ken op grond waarvan geen medede- lingen worden gedaan over de aanwezigheid van kernwapens houden ook in dat de regering door de commandanten van oorlogssche- pen niet op de hoogte wordt gesteld van het al dan niet aanwezig zijn van kernwapens aan boord. De hier bedoelde afspraken gelden al zolang als kernwapens bestaan binnen het bondgenootschap. Zo ja, op grond van welke afspraken, overeenkomsten of verdragen? 5 Zo neen, waarom niet? 6 Welke zijn de bondgenootschappelij- ke afspraken, die u verbieden mededelingen te doen over het al dan niet aanwezig zijn van kernwa- pens? Wanneer zijn deze gemaakt?">
+         <antwoorder functie="" ministerie="Defensie"/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1 ">Betekent het antwoord op de eerder  schriftelijk gestelde vragen 1  t / m 4,  dat de regering ook de bevoegdheid  heeft om verzoeken tot bezoeken van  oorlogsschepen aan een Nederlandse  haven te verbieden?'  Zo ja, op grond van welke verdragen,  overeenkomsten of afspraken heeft  ze deze bevoegdheid?  </vraag>
+      <vraag nummer="3 ">Betekent het antwoord op de vragen  5  t / m 9, dat de regering door de  commandanten van de oorlogssche- pen op de hoogte is gesteld van het  al dan niet aanwezig zijn van kernwa- pens aan boord?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="5 ">Zo neen, waarom niet?  </antwoord>
+      <antwoord nummer="6 ">Welke zijn de bondgenootschappelij- ke afspraken, die u verbieden  mededelingen te doen over het al  dan niet aanwezig zijn van kernwa- pens? Wanneer zijn deze gemaakt?  </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Aanhangsel nr. 53. </noot>
+      </noten>
+   </antwoorden>
+</kvr>

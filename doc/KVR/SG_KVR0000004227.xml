@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0001716</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001716&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001716</item>
+         <item attribuut="Document-id">0000004227</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 502</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van Ojik (GroenLinks) over vloerisolatie.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 502</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">502</item>
+         <item attribuut="Indiener">
+            <persoon partij="GroenLinks">Van Ojik</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-04-19</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Andriessen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-05-18</item>
+         <item attribuut="Beginpagina">1021</item>
+         <item attribuut="Eindpagina">1022</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1021" allpagenumbers="1021 022" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat s Gravenhage 1994"/>
+      <vraagdata vraagnummer="502" onderwerp="vloerisolatie." indiendatum="1994-04-19">
+         <vrager partij="GroenLinks" oorsprong="parlement">Van Ojik</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-05-18">
+         <antwoorder functie="minister" ministerie="Economische Zaken">Andriessen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Uit welke bronnen blijkt, dat het jaarlijks aantal vloerisolaties thans boven de 60.000 ligt? Waarop baseert u de uitspraak, dat «het aantal vloerisolaties de laatste jaren hoger ligt dan voorheen»? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2" voetnoot="1 1">Kunt u de Kamer het rapport van TNO doen toekomen waarin de kritiek van SVBN op de berekeningswaarde voor vloerisolatie wordt weergelegd? <voetnoot nummer="1"/>Indien een dergelijke rapportage niet bestaat, kan dan de argumentatie worden gegeven op grond waarvan TNO tot het oordeel komt dat de omstreden weegfactor voor vloeren wetenschappelijk verantwoord kan worden en het huidige besparingsgetal voor vloerisolatie een reële benadering is van de besparing die met vloerisolatie in de praktijk wordt gerealiseerd? <voetnoot nummer="1"/> Tweede Kamer, vergaderjaar 1993-1994, </vraag>
+      <vraag nummer="23"> 6. </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1" voetnoot="1">In de brief van de minister van Economische Zaken <voetnoot nummer="1"/> is aangegeven dat, als de realisaties van vloerisolatie bij de bestaande woningen, gebouwd voor 1981, over een kortere (recentere) periode zouden worden bezien, dat dan het gemiddelde aantal jaarlijkse vloerisolaties meer dan 60 000 zou bedragen. Dit is rechtstreeks afgeleid uit cijfers van het Basisonderzoek Aardgas Kleinverbruik (BAK). Dit is een jaarlijkse representatieve steekproef onder Nederlandse huishoudens en wordt uitgevoerd door het Centrum voor Marketing Analyses in opdracht van N.V. Nederlandse Gasunie en EnergieNed. De uitspraak «dat het aantal vloerisolaties de laatste jaren hoger ligt dan voorheen» is gebaseerd op het feit dat de vloerisolatiepenetratie, volgens de cijfers van het BAK, de laatste jaren sterker stijgt dan in het verleden (zie tabel). '85 '89 '90 '91 '92 penetratie– graad (in </antwoord>
+      <antwoord nummer="11">19 19 </antwoord>
+      <antwoord nummer="22"/>
+      <antwoord nummer="27">Er is geen rapport van TNO waarin de kritiek van de SBVN op de berekeningswaarde voor vloerisolatie wordt weerlegd. Er is echter door TNO wel een memorandum hierover geschreven aan de onafhankelijke NNI normsubcommissie die zich bezighoudt met de energieprestatienorm en waar de kritiek van de SBVN is binnengekomen. Het betreffende memorandum is bijgevoegd. </antwoord>
+      <antwoord nummer="2"> De conclusie hieruit is dat de huidige weegfactor eerder te hoog is (aan de veilige kant) dan te laag. Hiermee kan gesteld worden dat het huidige besparingsgetal een reële benadering is van de besparing die met vloerisolatie in de praktijk wordt gerealiseerd. Voorgesteld wordt om de huidige weegfactor te handhaven. Voor de wetenschappelijke argumentatie verwijs ik naar het memorandum. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Tweede kamer, vergaderjaar 1993-1994, 23 561, nummer6</noot>
+         <noot nummer="2"> Ter inzage gelegd bij de afdeling Parlementaire Documentatie</noot>
+      </noten>
+   </antwoorden>
+</kvr>

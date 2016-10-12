@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Vendrik (GroenLinks) aan de staatssecretaris van Economische Zaken en de ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Defensie over automatiseringsprojecten. (Ingezonden 10 februari 2003); Antwoord</item>
+         <item attribuut="Bestand">15Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR17245
+</item>
+         <item attribuut="Inhoud">Vragen over automatiseringsprojecten binnen de publieke sector en het gebruik van open source software, onder meer het MULAN-project van het Ministerie van Defensie</item>
+         <item attribuut="Rubriek">Communicatie, media en informatievoorziening (Hard- en software)</item>
+         <item attribuut="Trefwoorden">Automatisering Software</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2002-2003, nr. 825, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2020306930</item>
+         <item attribuut="Afkomstig_van">Economische Zaken (EZ)</item>
+         <item attribuut="Indiener">
+            <persoon partij="GroenLinks">Vendrik</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2003-02-26</item>
+         <item attribuut="Datum_indiening">2003-02-10</item>
+         <item attribuut="Document-id">KVR17245</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2002–2003" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1733" allpagenumbers="1733 1734" vetnummer="2020306930" code="" lopendefooter="Tweede Kamer, vergaderjaar 2002–2003, Aanhangsel" filenaam="KVR17245" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2003"/>
+      <vraagdata vraagnummer="825" onderwerp="" indiendatum="2003-02-10">
+         <vrager partij="GroenLinks" oorsprong="parlement">Vendrik</vrager>
+         <vraagt-aan>de staatssecretaris van Economische Zaken en de ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Defensie</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2003-02-26">
+         <antwoorder functie="staatssecretaris" ministerie="Economische Zaken">Wijn</antwoorder>
+         <mede-antwoorder>de minister van Binnenlandse Zaken en Koninkrijksrelaties en de staatssecretaris van Defensie</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1">Welke grote automatiseringsprojecten worden er op dit moment binnen het Rijk opgestart? </vraag>
+      <vraag nummer="2">Welke grote automatiseringsprojecten worden er elders binnen de publieke sector opgestart? </vraag>
+      <vraag nummer="3">Wat houdt het MULAN-project van het ministerie van Defensie in (doel, budget, procedurele stand van zaken)? </vraag>
+      <vraag nummer="4" voetnoot="1">Op welke manier wordt bij deze projecten invulling gegeven aan de in de door de Tweede Kamer aanvaarde motie-Vendrik cs <voetnoot nummer="1"/>neergelegde uitspraak dat in 2006 alle software in de publieke sector aan open standaarden moet voldoen? </vraag>
+      <vraag nummer="5">Op welke manier wordt bij deze projecten invulling gegeven aan de in voormelde motie neergelegde uitspraak dat de verspreiding en ontwikkeling van open source software, of vrije software, voor de publieke sector wordt gestimuleerd? </vraag>
+      <vraag nummer="6">Wanneer kan de Tweede Kamer de toegezegde reactie op voormelde motie verwachten? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" documenttype="Kamerstuk" kamerstuk-id="28 600-XIII" documentnummer="30">Kamerstuk 28 600-XIII, nr. 30</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1 en 2">Binnen de Rijksoverheid wordt niet centraal bijgehouden welke grote automatiseringsprojecten bij het Rijk of elders binnen de publieke sector worden opgestart. Departementen en andere overheden alsmede publiekrechtelijke instellingen hebben hierin een eigen autonome bevoegdheid. Hierdoor kan ik u op dit moment niet het gevraagde integrale overzicht van alle grote automatiseringsprojecten zenden. </antwoord>
+      <antwoord nummer="3">Het doel van het project MULAN (Mijn Uniforme Logische Aansluiting op het Net) is om bij heel Defensie alle computernetwerken en werkplekken van dezelfde standaard te voorzien. Hierdoor verbetert de kwaliteit (interoperabiliteit) en de doelmatigheid van de informatievoorziening (IV) bij Defensie. Over het IV-plan Defensie is de Tweede Kamer op 10 september 2001 en op 8 mei 2002 per brief geïnformeerd. Daarnaast informeert Defensie de Tweede Kamer conform het Defensie Materieelkeuzeproces (DMP) over alle grote materieelprojecten. In dit kader ontvangt de Kamer over MULAN op korte termijn een zogenaamde «A-brief» waarin de behoeftestelling voor dit project is neergelegd en waarbij ook op de budgettaire consequenties en de planning wordt ingegaan. </antwoord>
+      <antwoord nummer="4 en 5">Zoals het antwoord op de vragen 1 en 2 stelt, bestaat dezerzijds geen centraal overzicht van alle grote automatiseringsprojecten bij de overheid en publiekrechtelijke instellingen. Het is mij dan ook niet bekend op welke manier bij al deze projecten thans invulling wordt gegeven aan de motie-Vendrik. Wat het met name genoemde MULAN-project betreft geldt dat dit project zich nog in de behoeftestellingsfase van het DMP-proces bevindt (zie het antwoord op vraag 3). In de daaropvolgende (voor)studiefase is de vraag aan de orde of het gebruik van open standaarden en open source software kan bijdragen aan het terugdringen van de levensduurkosten van werkplekken en computernetwerken. </antwoord>
+      <antwoord nummer="6">Een dezer dagen ontvangt de Kamer een brief van de minister van Binnenlandse Zaken en Koninkrijksrelaties en van ondergetekende met het programma «Open Standaarden en Open Source Software voor de overheid.» Deze brief en het programma vormen de reactie op de motie Vendrik. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

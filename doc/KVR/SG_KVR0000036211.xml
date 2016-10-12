@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001804</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001804&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001804</item>
+         <item attribuut="Document-id">0000036211</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 880</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Nuis (D66) over een eventuele verplichte literatuurlijst voor de eindexamens VWO en HAVO</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 880</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">880</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Nuis</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-08-23</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Wallage</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-09-03</item>
+         <item attribuut="Beginpagina">1779</item>
+         <item attribuut="Eindpagina">1780</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1779" allpagenumbers="1779" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="880" onderwerp="een eventuele verplichte literatuur– lijst voor de eindexamens VWO en HAVO" indiendatum="1990-08-23">
+         <vrager partij="D66" oorsprong="parlement">Nuis</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-09-3">
+         <antwoorder functie="staatssecretaris" ministerie="Onderwijs en Weten– schappen">Wallage</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1" voetnoot="1">Is er een voor de eindexamens VWO en HAVO voor de moderne Neder– landse letterkunde verplicht voor te schrijven literatuurlijst in voorbe– reiding, die in februari a.s. aan u ter goedkeuring zal worden voorgelegd <voetnoot nummer="1"/>? </vraag>
+      <vraag nummer="2">Is de literatuur niet een gebied van zelfgekozen werelden, waarheden en waarden zodat een centraal voorge– schreven lijst van te lezen schrijvers en boeken, hoe uitmuntend overigens ook, een verkeerd middel is om inzicht te verwerven in het wezen van literatuur en literaire kwaliteit? Moet bovendien niet worden gevreesd, dat van een dergelijke lijst een verschralende werking zal uitgaan op de belangstelling voor en de verkrijgbaarheid van andere, even uitmuntende boeken en schrijvers? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1990-08-18" bron=" Zie o.a. Vrij Nederland"> Zie o.a. Vrij Nederland, 18 augustus 1990</noot>
+      </noten>
+   </vragen>
+   <toelichting>Deze vragen dienen ter aanvulling op de eerdere vragen terzake van het lid Beinema, ingezonden 23 augustus 1990. </toelichting>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ik heb kennis genomen van de persberichten waarin wordt gemeld dat aan de desbetreffende commissie een pre-advies is uitge– bracht met betrekking tot een litera– tuurlijst Nederlands. </antwoord>
+      <antwoord nummer="2">Ik matig mij geen oordeel aan over het wezen van de literatuur. Een verplichte literatuurlijst zal ik in elk geval niet voorschrijven. Zie ook het antwoord op de door uw collega Beinema gestelde vraag. </antwoord>
+      <antwoord nummer="3">Dat is niet uitgesloten. </antwoord>
+      <antwoord nummer="4">Ook dat is niet uitgesloten. Zal van de voorgestelde lijst, zoals die thans ruimschoots in de publi– citeit is gekomen reeds nu een beperkende invloed uitgaan in het 'eesgedrag van scholieren? </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

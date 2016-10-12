@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19891990:0001154</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001154&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001154</item>
+         <item attribuut="Document-id">0000035561</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 232</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Tuinstra en Borgman (beiden C.D.A.) over herziene studie-richtlijnen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 232</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">232</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Tuinstra</persoon>
+            <persoon partij="CDA">Borgman</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-12-05</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Ter Beek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-12-28</item>
+         <item attribuut="Beginpagina">469</item>
+         <item attribuut="Eindpagina">470</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="469" allpagenumbers="469" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="232" onderwerp="herziene studie-richtlijnen." indiendatum="1989-12-5">
+         <vrager partij="CDA" oorsprong="parlement">Tuinstra</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Borgman</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1989-12-28">
+         <antwoorder functie="minister" ministerie="Defensie">Ter Beek</antwoorder>
+         <mede-antwoorder>de minister van Onderwijs en Weten– schappen</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1" voetnoot="1">Leveren de ingevolge de Harmonisa– tiewet HBO-WO herziene studie– uitstelrichtlijnen <voetnoot nummer="1"/> problemen op voor die studenten, die, ondanks dat zij in staat zouden zijn de w.o.-studie binnen de gestelde termijn van 7 jaar te voltooien, niet voldoen aan de gestelde eis de HBO-opleiding binnen 4 jaar afgerond te hebben (artikel III 9c)? </vraag>
+      <vraag nummer="2">Bent u bereid van de in het artikel genoemde twee termijnen alleen die van 7 jaar als maatstaf te laten gelden indien redelijkerwijs aange– nomen kan worden dat de vervolg– studie binnen deze termijn afgerond kan worden? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Zie circulaire aan de burgemeesters van 1 mei jl (PD 89/056/415)</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1">In vergelijking met de oude richt– lijnen voor studie-uitstel biedt de herziene studie-uitstelregeling van mei 1989, die is afgestemd op de Harmonisatiewet, een verruiming voor de HBO-abituriënt. In de oude uitstelregeling was het immers niet mogelijk aansluitend op het HBO door te stromen naar het WO. De huidige studie-uitstelregeling laat echter niet toe dat een student die langer dan vier jaar nodig heeft om zijn HBO-opleiding te voltooien direct doorstroomt naar het WO. Er mag dan namelijk niet op voorhand worden aangenomen dat de student werkelijk in staat zal zijn ook de tweede studie af te ronden binnen de in de studie-uitstelregeling gestelde totale termijn van zeven jaar. Volgens de norm van de Harmonisatiewet wordt immers aan een HBO-afgestudeerde drie jaren inschrijvingsduur toegekend om met een zekere garantie op succes een tweede studie in het WO te kunnen voltooien. Neen. Zie het antwoord op vraag 1. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

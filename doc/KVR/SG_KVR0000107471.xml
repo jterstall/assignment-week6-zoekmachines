@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001696</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001696&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001696</item>
+         <item attribuut="Document-id">0000107471</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 663</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Beckers-de Bruijn en Lankhorst (beiden P.P.R.) over de CITO-eindtoets informatieverwerking voor het basisonderwijs.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 663</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">663</item>
+         <item attribuut="Indiener">
+            <persoon partij="PPR">Beckers-de Bruijn</persoon>
+            <persoon partij="PPR">Lankhorst</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-02-26</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Ginjaar-Maas</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-05-06</item>
+         <item attribuut="Beginpagina">1317</item>
+         <item attribuut="Eindpagina">1318</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1986-1987 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="663" onderwerp="de CITO-eindtoets informatiever- werking voor het basisonderwijs." indiendatum="26 februari 1987)">
+         <vrager partij="PPR" oorsprong="parlement">Beckers-de Bruijn</vrager>
+         <vrager partij="PPR" oorsprong="parlement">Lankhorst</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="6 mei 1987)">
+         <antwoorder functie="staatssecretaris" ministerie="Onderwijs en Wetenschappen">G i n j a a r - M a a s</antwoorder>
+         <mede-antwoorder>de Minister van Sociale Zaken en Werkgelegenheid</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1 ">Hebt u kennis genomen van het  verhaal met opgaven «De mooiste  vrouw van de wereld», dat dit jaar  deel uitmaakte van de CITO-eindtoets  informatieverwerking voor het  basisonderwijs?  </vraag>
+      <vraag nummer="2 ">Kunt u bevestigen dat in dit verhaal  - een mooie vrouw  w o r d t beloerd en  zwijgend gevolgd door tientallen  kerels met een vreemde blik in de  ogen;  - Serafina's gevoelens er niet toe  doen en alleen de gevoelens en  belangen van Hector tellen, de man  die gretig met haar  t r o u w d e ;  - zij zichzelf, met een beroep op  haar liefde, voortdurend geweld aan  moet doen, door zich aan te passen  aan zijn vernederende voorstellen;  - als een vrouw krom, hinkend en  scheel is, zij geen vrouw meer is  maar een wijf?  </vraag>
+      <vraag nummer="3 ">Is het juiste antwoord op vraag 3  (waar draait het in dit verhaal om?):  «je krijgt problemen als je IETS BEZIT  W A T door velen wordt begeerd»?  </vraag>
+      <vraag nummer="4 ">Deelt u de mening, dat de opgaven  de inhoud op geen enkele manier  kritisch benaderen?  Acht u het aannemelijk, dat dit soort  teksten, op deze manier als officiële  eindtoets gebruikt, geen invloed  hebben op de beeldvorming van  twaalfjarigen inzake de man-vrouw  relatie?  </vraag>
+      <vraag nummer="6 ">W i l t u het CITO laten weten dat dit  niet kan?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1 ">Ja.  2  t / m 5  Ik ben van mening dat de tekst met  bijbehorende vragen een slechte  keuze is en weinig bevorderlijk is  voor een kritische houding van  leerlingen.  </antwoord>
+      <antwoord nummer="6 ">Het Cito heeft een eigen bevoegd  gezag dat ten volle verantwoordelijk  is voor de produkten van het Cito.  Niettemin heb ik het Cito gevraagd  mij enige opheldering te geven over  de totstandkoming van de tekstkeuze  en de vraagstelling. Het Cito heeft mij  daarover inmiddels ingelicht: de  procedure is zorgvuldig, maar zal,  naar aanleiding van de kritiek, op een  enkel punt worden heroverwogen.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

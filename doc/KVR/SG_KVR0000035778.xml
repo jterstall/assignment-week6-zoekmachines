@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001371</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001371&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001371</item>
+         <item attribuut="Document-id">0000035778</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 449</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Groenman en Scheltema-de Nie (beiden D66) over de pensioenopbouw van ambtenaren.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 449</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">449</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Groenman</persoon>
+            <persoon partij="D66">Scheltema-de Nie</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-02-06</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Dales</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-03-14</item>
+         <item attribuut="Beginpagina">903</item>
+         <item attribuut="Eindpagina">904</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteid door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="903" allpagenumbers="903 904" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="449" onderwerp="de pensioenopbouw van ambte– naren." indiendatum="1990-02-6">
+         <vrager partij="D66" oorsprong="parlement">Groenman</vrager>
+         <vrager partij="D66" oorsprong="parlement">Scheltema-de Nie</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="14 maart 1990}">
+         <antwoorder functie="minister" ministerie="Binnenlandse Zaken">Dales</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1">Bent u op de hoogte van het feit, dat in 1966 de Pensioenwet', waarin bepaald werd, dat ambtenaren slechts recht op pensioen hebben wanneer zij tenminste vijf jaar in dienst van de overheid hebben gewerkt, is vervangen door de ABP-wet waarin genoemde vijfjaren-termijn is opgeheven? </vraag>
+      <vraag nummer="2">Bent u zich bewust van het feit, dat ambtenaren die vóór 1966 - en daarmee vallend onder de Pen– sioenwet 1922 - minder dan vijf jaar pensioenpremie hebben betaald op geen enkele wijze aanspraak kunnen maken op pensioenuitkering? </vraag>
+      <vraag nummer="3">Is het redelijk, dat een ambtenaar, die vóór 1966 bijvoorbeeld vierenhalf jaar heeft gewerkt, géén pensioen krijgt, terwijl een andere ambtenaar, die zich in dezelfde situatie bevindt, maar na 1966 opnieuw voor enige tijd (al is het maar één maand) in overheidsdienst zou hebben gewerkt, zijn voorheen gewerkte periode wèl meegeteld ziet voor de pensioenopbouw? </vraag>
+      <vraag nummer="4">Kunt u aangeven hoeveel oud-ambtenaren beneden en boven de 65 jaar door het niet voldoen aan de vijfjaren termijn van de Pen– sioenwet 1922 met deze pensioen– breuk te maken hebben? Bent u op de hoogte van het feit, dat ondernemings– en bedrijfspensioen– fondsen, die destijds identieke vijfjaren termijnen hanteerden, volgens de Pensioen– en Spaarfond– senwet tot premie-restitutie verplicht waren over de gewerkte periode, die vanwege de vijfjarentermijn niet tot pensioenopbouw leidde? </vraag>
+      <vraag nummer="6">Deelt u met deze leden de opvatting, dat oud-ambtenaren tenminste alsnog recht hebben op restitutie van de door hen betaalde premies? Zo neen, waarom niet? Zo ja, ziet u aanleiding over de resti– tutie eveneens een reële rentever– goeding te verstrekken? </vraag>
+      <vraag nummer="8">Acht u het, mede gezien de situatie zoals bij vraag drie geschetst, uit een oogpunt van rechtsgelijkheid niet verstandig bedoelde oud-ambte– naren alsnog pensioenrechten te verlenen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Pensioenwet 1922 (Stb. 240), artikel 48</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1"> t/m  8 Ingevolge artikel 48 van de Pen– sioenwet 1922 moest men voor het verkrijgen van een recht op invalidi– teitspensioen een diensttijd van ten minste vijf jaar kunnen aanwijzen. Voor het recht op ouderdomspen– sioen gold een wachttijd van zeven jaar. Voor het recht op uitgesteld ouderdomspensioen gold, afhankelijk van het feit of er sprake was van oneervol ontslag of ontslag op eigen verzoek, dan wel van eervol ontslag, een wachttijd van tien respectievelijk zeven jaar. Er bestond geen aanspraak op restitutie van pen– sioenpremie indien de ambtelijke dienst werd verlaten voordat aan de wachttijd was voldaan. Bij de totstandbrenging van de Pensioen– en spaarfondsenwet (PSW) in 1952, die inhoudt dat in voorkomend geval premierestitutie dient plaats te vinden, werd geen aanleiding gezien de voor ambtenaren geldende regeling op dit punt te wijzigen. Wat betreft de PSW merk ik overigens nog het volgende op. De bepalingen van de PSW dienden door werkgevers in acht te worden genomen, voor zover het betrof pensioentoezeggingen (gedaan) aan personen die op het moment van inwerkingtreding van de wet aan hun onderneming verbonden waren (zie artikel 2, eerste lid van de wet, zoals deze bij inwerkingtreding luidde). De verplichting tot premierestitutie gold, anders dan de vragen lijken te suggereren, derhalve niet ten aanzien van personen met een diensttijd korter dan vijf jaar die al vóór de inwerkingtreding van de PSW de onderneming hadden verlaten. Met de invoering van de Algemene burgerlijke pensioenwet (Abp-wet) werden per 1 januari 1966 de wacht– tijden voor ambtenaren afgeschaft. De ambtenaar die gedurende de periode tot 1 januari 1966, alsook na die datum in overheidsdienst werkte, deed dit sedert die datum voor een door een ambtenaar die op of na het tijdstip van inwerkingtreding van deze regeling niet meer in actieve dienst is (geweest) en derhalve uitsluitend onder vigeur van de oude regelmg viel. Toch heeft de Regering destijds gemeend, overeenkomstig het rapport van de Staatscommissie van Poelje, billijkheidshalve een zekere terugwerking aan de afschaffing van de wachttijden te moeten geven. Zij bracht daarin echter een beperking aan in die zin dat men ten minste vijf jaren voor pensioen meetellende diensttljd moest hebben. Met andere woorden: de wachttijden van respectievelijk tien en zeven jaar werden als het ware met terugwerkende kracht teruggebracht tot vijf jaar. De laatstbedoelde vijf jaren-termijn is destijds door de Staten-Generaal geaccepteerd en is ook niet onredelijk als men bedenkt dat de betreffende ambtenaren werkten in een tijd waarin wachttijden van enige jaren - welke dienden om «schadelijk personeelsverloop» tegen te gaan - gebruikelijk en geaccepteerd waren. In die tijd had het betalen van pen– sioenpremie, evenals het mkopen voor pensioen van vóórtijd in de eerste jaren van het ambtenaar– schap, een onderkend aleatair karakter, in deze zin dat nog ongewis was of die jaren te zijner tijd ook daadwerkelijk met pensioen zouden worden vergolden. Het betalen van pensioenpremie of het inkopen voor pensioen van bepaalde diensttijd kon achteraf blijken om niet te zijn geweest. Resumerend kan worden gesteld dat voor ambtenaren bij de invoering van de Abp-wet in 1966 gold: noch pensioenaanspraken noch premie– alsnog een ruimere terugwerking aan de afschaffing van de wachttijden te geven en op ambtenaren die uitsluitend gewerkt hebben onder de Pensioenwet 1922, de verruimde normen van de bij een andere tijd passende, nieuwe pensioenregeling van toepassing te verklaren. Om dezelfde redenen acht ik restitutie van betaalde premies niet nodig, te minder omdat tegenover de premie– betalingen - ook indien men bijvoor– beeld slechts vierenhalf jaar werkte - wel uitzicht op weduwen– en wezen– pensioen stond. Het risico van overlijden van de ambtenaar zelf was derhalve toch gedekt, ook indien hij korter dan vijf jaar als ambtenaar had gewerkt. De vraag hoeveel oud-ambtenaren beneden en boven de 65 jaar, die slechts onder de vigeur van de Pensioenwet 1922 vielen, niet voldoen aan de vijf jaren-termijn valt niet te beantwoorden. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

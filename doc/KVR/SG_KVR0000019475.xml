@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="5">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001089</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001089&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001089</item>
+         <item attribuut="Document-id">0000019475</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 77</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Zijlstra en Spieker (beiden PvdA) over de personeelsproblemen bij de Centraal Archief Selectiedienst/ITW (CAS).</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 77</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">77</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Zijlstra</persoon>
+            <persoon partij="PvdA">Spieker</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-10-07</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Dales</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-10-15</item>
+         <item attribuut="Beginpagina">159</item>
+         <item attribuut="Eindpagina">160</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="159" allpagenumbers="159" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1991"/>
+      <vraagdata vraagnummer="" onderwerp="" indiendatum="">
+         <vrager partij="PvdA" oorsprong="parlement">Zijlstra</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Spieker</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1991-10-15">
+         <antwoorder functie="minister" ministerie="Binnenlandse Zaken">Dales</antwoorder>
+         <mede-antwoorder>de staatssecretaris van Binnenlandse Zaken</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="77">Vragen van de leden Zijlstra en Spieker (beiden PvdA) over de personeelsproblemen bij de Centraal Archief Selectiedienst/ITW (CAS). (Ingezonden 7 oktober 1991) </vraag>
+      <vraag nummer="1">Hebt u kennis genomen van de perspublicatie over de personeels– problemen bij de Centraal Archief Selectiedienst/ITW (CAS) te Winschoten?' Wat is uw oordeel over de inhoud van het rapport van de bedrijfsmaat– schappelijk werkster inzake de werksituatie bij de CAS? </vraag>
+      <vraag nummer="3">Acht u het mede in het licht van de scheiding der machten juist, dat een ambtenaar van uw departement zich, bij het verzoek aan de voorzitter van het Ambtenarengerecht te Groningen om heroverweging van de beslissing bij voorraad, bedient van de uitdrukking: «Het is daarenboven apert onjuist, dat uw gerecht in positieve zin heeft beschikt op de verzoeken van mevrouw X»? </vraag>
+      <vraag nummer="4">Waarom wordt de door het Ambte– narengerecht te Groningen gedane uitspraak bij voorraad niet uitge– voerd? </vraag>
+      <vraag nummer="5">Wat is uw opvatting over de stelling, dat de werkgelegenheid van de 220 werknemers bij de CAS op het spel staat? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1991-10-3" bron=" Zie de Winschoter Courant"> Zie de Winschoter Courant, 3 oktober 1991</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">In de procedure bij het ambtenaren– gerecht heb ik afstand genomen van de inhoud van het rapport van de bedrijfsmaatschappelijk werkster. Het ambtenarengerecht heeft daarentegen blljkens zijn uitspraak wel waarde gehecht aan dit rapport. In het hoger beroep dat door mij is ingesteld zal ik de Centrale Raad van Beroep trachten te overtuigen van de juistheid van mijn zienswijze. </antwoord>
+      <antwoord nummer="3">De gewraakte passage luidt in haar geheel als volgt: «Het is naar mijn mening - om vorenstaande redenen - dan ook apert onjuist dat is beschikt, dat aan alle verzoeken om een beslissing bij voorraad moet worden tegemoet gekomen. Het is daarenboven apert onjuist dat uw gerecht in positieve zin heeft beschikt op de verzoeken van mevrouw X, zeker dat er naast mijn inhoudelijke bezwaren ook een aantal formele bezwaren zijn.» Ik wil vooropstellen, dat de scheiding der machten hierbij in het geheel niet in het geding is. Het ging om een verzoek aan de Voorzitter van het Ambtenarenrecht te Groningen om de gegeven voorziening bij voorraad, te heroverwegen, zulks conform de jurisprudentie van de Centrale Raad van Beroep (CrvB van 11 april 1991, nummer AW1989/58, 158 en 159). Overigens acht ook ik de toonzetting van deze passage achteraf minder gelukkig, maar niet omdat daarmee de scheiding der machten te kort zou worden gedaan, immers de Voorzitter van het Ambte– narengerecht beslist op het verzoek. </antwoord>
+      <antwoord nummer="4">Een voorziening bij voorraad sluit in het geheel niet uit dat partijen langs een andere weg tot een vergelijk trachten te komen. Dat is thans aan de orde. Het kort geding waarvan sprake is in het artikel in de Winschoter Courant is van de rol afgevoerd. </antwoord>
+      <antwoord nummer="5">Deze stellmg wordt door mij niet onderschreven. Wel is, zoals bekend, een onderzoek gaande naar een mogelijke privatisering c.q. verzelf– standiging van de CAS/ITW, waarbij uiteraard het werkgelegenheids– aspect een belangrijke rol speelt. Dat een zekere onrust onder het personeel ontstaat is in deze omstandigheden onvermijdelijk. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

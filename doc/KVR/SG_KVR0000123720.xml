@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="tot mijn competentie. " aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19841985:0001748</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19841985:0001748&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19841985:0001748</item>
+         <item attribuut="Document-id">0000123720</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1984-1985 nummer 628</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Wessel-Tuinstra (D'66) over het vervolgingsbeleid jegens site-wachtweigeraars.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1984-1985 nummer 628</item>
+         <item attribuut="Jaargang">1984_1985</item>
+         <item attribuut="Vraagnummer">628</item>
+         <item attribuut="Indiener">
+            <persoon partij="D'66">Wessel-Tuinstra</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1985-02-07</item>
+         <item attribuut="Beantwoorder">
+            <persoon>De Ruiter</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1985-03-20</item>
+         <item attribuut="Beginpagina">1241</item>
+         <item attribuut="Eindpagina">1242</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1984-1985 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="" filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="628" onderwerp="" indiendatum="">
+         <vrager partij="D'66" oorsprong="parlement">Wessel-Tuinstra</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1 " voetnoot="1">Is de minister op de hoogte van de  discrepantie, die bestaat tussen  site-wachtweigeraars die hun bezwa- ren tegen z.g.-site-wachtlopen  verwoorden in een rekest en hen via  bezwaren in een proces-verbaal  worden neergelegd, n.l. géén gevan- genisstraf tegenover gevangenisstraf  van drie weken <voetnoot nummer="1"/>?  </vraag>
+      <vraag nummer="2 ">Deelt de minister de mening, dat dit  tot ongelijke behandeling van gelijke  gevallen kan leiden?  </vraag>
+      <vraag nummer="3 ">Is de minister bereid het vervolgings- beleid jegens site-wachtweigeraars  zodanig te herzien dat ook zij, wier  bezwaren in een proces-verbaal  worden vastgelegd, aan gevangenis- straf kunnen ontkomen?  Antwoord van Minister De Ruiter  (Defensie). (Ontvangen 20 maart  1985)  1,2 en 3  Niet elke site-wachtweigeraar maakt  op dezelfde wijze zijn bezwaren  kenbaar. Er zijn er die in een rekest  hun bezwaren uiteenzetten; van hen  kan niet worden gezegd dat ze een  dienstbevel weigeren. Van weigeren  van een dienstbevel moet wel worden  gesproken als men weigert op  site-wacht te gaan. Dat weigeren kan  niet anders dan worden aangemerkt  als het weigeren van een dienstbevel  en dat is een strafbaar feit waartegen,  na het opmaken van een proces  verbaal, een strafvervolging kan  worden ingesteld. Doen deze site- wachtweigeraars alsnog een beroep  op de Wet gewetensbezwaren  militaire dienst en wordt dit beroep  erkend, dan vervalt het recht tot  strafvordering. Er wordt dus onder- scheid gemaakt tussen degenen die  zich wel en degenen die zich niet  schuldig maken een strafbaar feit.  Herziening van het vervolgingsbe- leid in de gevraagde zin behoort niet  </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> ZieM.G. Doornbos in N.J.B, van 15 december  1984, Site-wachtlopen is vakjargon voor  wachtlopen bij een plaats, waar mogelijk  kernwapens zijn opgesloten.  Antwoord </noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

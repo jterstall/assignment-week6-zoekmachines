@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0001611</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001611&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001611</item>
+         <item attribuut="Document-id">0000004122</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 397</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Blaauw (VVD) over de gevangenneming van Senegalese oppositieleiders.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 397</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">397</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Blaauw</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-02-25</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Kooijmans</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-03-28</item>
+         <item attribuut="Beginpagina">807</item>
+         <item attribuut="Eindpagina">808</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="807" allpagenumbers="807" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeveri] Plantijnstraat s Gravenhage 1994"/>
+      <vraagdata vraagnummer="397" onderwerp="de gevangenneming van Senegalese oppositieleiders." indiendatum="1994-02-25">
+         <vrager partij="VVD" oorsprong="parlement">Blaauw</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-03-28">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">Kooijmans</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Bent u op de hoogte van de gevangenneming en het in geïsoleerde detentie vasthouden van de Senegalese oppositieleiders Abdoulaye Wade (PDS) en Landing Savane? Is Abdoulaye Wade al vaker vastgezet door de Senegalese autoriteiten? </vraag>
+      <vraag nummer="3">Is tegen Abdoulaye Wade reeds een aanklacht ingediend? Zoja, wat houdt deze in? </vraag>
+      <vraag nummer="4">Bent u bereid, zo mogelijk in overleg met de partners in de EU, via de Nederlandse ambassadeur m Dakar te interveniëren voor de invrijheidstelling van Abdoulaye Wade en Landing Savane en om een procedure in Senegal te bevorderen in overeenstemming met de democratische spelregels en de rechten van de mens? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">De inhechtenisneming van betrokken Senegalese oppositieleiders is mij bekend, maar van geïsoleerde detentie is mij niet gebleken. </antwoord>
+      <antwoord nummer="2">Ja. Abdoulaye Wade werd in maart 1988, naar aanleiding van ongeregeldheden na de presidentsverkiezingen, circa een maand gevangen gezet. Een veroordeling heeft destijds niet plaatsgevonden. In 1993 werd de heer Wade in verband met de moord op de vice-president van de «Conseil Constitutionnel» in staat van beschuldiging gesteld en gedurende twee dagen door de politie ondervraagd. </antwoord>
+      <antwoord nummer="3">Betrokkenen zijn inmiddels voorgeleid en, naar verluidt, beschuldigd van het in gevaar brengen van de staatsveiligheid en medeplichtigheid aan moord met voorbedachte rade. De Nederlandse Ambassadeur te Dakar is geïnstrueerd om, in nauw overleg met zijn EU-collegae, na te gaan of ten aanzien van betrokken oppositieleiders een zorgvuldige rechtsgang wordt gevolgd. Hij heeft bij de Senegalese autoriteiten het belang van de parlementaire immuniteit van betrokkenen aan de orde gesteld. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

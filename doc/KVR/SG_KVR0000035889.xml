@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001482</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001482&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001482</item>
+         <item attribuut="Document-id">0000035889</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 560</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Feenstra (P.v.d.A.) over de Rijksweg 19.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 560</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">560</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Feenstra</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-04-03</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Maij-Weggen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-04-24</item>
+         <item attribuut="Beginpagina">1127</item>
+         <item attribuut="Eindpagina">1128</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer. met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1127" allpagenumbers="1127 1128" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="560" onderwerp="de Rijksweg 19." indiendatum="1990-04-3">
+         <vrager partij="PvdA" oorsprong="parlement">Feenstra</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-04-24">
+         <antwoorder functie="minister" ministerie="Verkeer en Water– staat">Maij-Weggen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1" voetnoot="1">Herinnert u zich, dat voor de Rijksweg 19 is uitgegaan van een verkeersintensiteit van 60.000 motorvoertuigen per etmaal in 1995 <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2" voetnoot="2 2">Herinnert u zich, dat vragensteller in het plenaire debat van 14 februari 1989 over de mogelijke aanleg van deze weg, zowel in eerste als in tweede termijn heeft gevraagd naar de uitkomsten van de gebruikelijke berekeningen van de verkeersintensi– teiten tot 2015? <voetnoot nummer="2"/>Herinnert u zich, dat de toenmalige minister in tweede termijn heeft aangegeven, dat deze prognoses voor het jaar 2000 zijn gegeven met een doorkijk naar 2010 en dat die prognoses overeenstemmen met de cijfers voor 1995? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="4" voetnoot="1 3">Mag uit uw eerder genoemde brief <voetnoot nummer="1"/>worden opgemaakt, dat u aanneemt, dat de groei van het verkeer op Rijksweg 19 tot het jaar 2000 wordt geschat op 20% en dat redelijkerwijs mag worden verwacht dat de effecten van flankerend beleid (15-20%) de prognoses voor de langere termijn weer op het niveau van 1995, d.w.z. 60.000 m.v.t./e.t.m. zal terugbrengen? Was u op de hoogte van de inhoud van een in opdracht van de Directie Zuid-Holland van Rijkswaterstaat uitgevoerd TNO-onderzoek waarin aan de hand van de door Rijkswater– staat opgegeven verkeersintensi– teiten prognoses voor het jaar 2000 en 2010 met en zonder tunnels, alsmede met en zonder flankerend beleid zijn weergegeven? Zo ja, waarom hebt u geen melding gemaakt van dit ruim drie maanden vóór het begrotingsbebat gepubli– ceerde TNO-rapport? <voetnoot nummer="3"/>
+      </vraag>
+      <vraag nummer="6" voetnoot="4">Mag uit dit TNO-rapport worden opgemaakt, dat in de door u gewenste variant met tunnels en flankerend beleid de verkeersinten– siteit tussen Delft en Schiedam in het jaar 2000 op 74.000 en in 2010 op 101.000 voertuigen per dag zou zijn uitgekomen? <voetnoot nummer="4"/>
+      </vraag>
+      <vraag nummer="7">Bent u van mening, dat met het nu ter beschikking komen van deze gegevens sprake is van een nieuw feit? </vraag>
+      <vraag nummer="8">Worden door deze hogere verkeers– intensiteiten ook extra geluidwe– rende voorzieningen noodzakelijk? Zo ja, welke extra kosten hangen daarmee samen en wie moet deze investeringen financieren? </vraag>
+      <vraag nummer="9">Kunt u uitsluiten, dat deze nieuwe feiten deze Kamer voor een andere afweging met betrekking tot de aanleg van deze weg plaatsen dan in februari 1989 het geval leek? Zo neen, wilt u dan alsnog de aanleg– werkzaamheden opschorten en de uiteindelijke besluitvorming rondom deze weg laten plaatsvinden in de afwegingen, die in het kader van het nieuwe SVV moeten plaatsvinden? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Zie Kamerstuk 20 800 A, nr. 9, Verga– derjaar 1988-1989</noot>
+         <noot nummer="2"> Zie Handelingen TK nr. 17, Vergaderjaar 1988-1989</noot>
+         <noot nummer="3"> Zie TNO-MT rapport R 88/342, 8 september 1988. ' Zie tabel 1 van het TNO-MT rapport</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Ja. Ja. Mijn ambtsvoorgangster heeft daar bij gedoeld op de al eerder gegeven toelichting op deze prognoses bij haar brief aan de voorzitter van de vaste Commissie voor verkeer en waterstaat van 28 december 1988 nr. IWO 11718. Een en ander naar aanleiding van de in september 1988 uitgebrachte aanvullende nota Blankenburgtunnel en de gestelde vragen over de verge– lijkbaarheid van de verkeerspro– gnoses in deze nota met die uit de BENBLA-nota van november 1985. van de 2e Beneluxtunnel) voor de luchtkwaliteit in de omgeving. Als zodanig was dit rapport een van de onderliggende studierapporten voor de in september 1987 uitgebrachte aanvullende nota voor de Blanken– burgtunnel en was met name ook daarop gericht. In deze aanvullende nota zijn de relevanter zaken uit de verschillende onderliggende studierapporten samengevat en zo realistisch mogeiijk onderling afgestemd. In de aanvullende nota is van deze onderliggende studie melding gemaakt en op verzoek zijn de rapporten van deze deelstudies aan belangstellenden toegezonden. Op 14 februari 1989 was het genoemde TNO-rapport derhalve een openbaar stuk. Bij brief nr. HW/IWO 3214 van 25 november 1988 is de aanvullende nota van de Blanken burgtunnel toegezonden aan de Tweede Kamer der Staten-Generaal. Neen. Zie de antwoorden op de vragen 3, 4 en 5 en de verwijzing naar de brief van mijn ambtsvoor– gangstervan 28 december 1988, met de daarin gegeven toelichting op de prognoses. Tevens is in deze brief gesteld dat een rijksweg met  2 x 2 rijstroken nagenoeg als volbelast moet worden beschouwd bij 60.000 m.v.t./etmaal en daarmee nog slechts marginaal kan bijdragen aan het opvangen van eventuele verdere verkeersgroei. Daarnaast wijs ik nogmaals op de inmiddels (aanzienlijk) aangescherpte beleidsdoelstellingen ten aanzien van het beperken van de groei van de automobiliteit. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

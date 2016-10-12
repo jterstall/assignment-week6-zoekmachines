@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001213</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001213&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001213</item>
+         <item attribuut="Document-id">0000019599</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 200</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Esselink (CDA) en Swildens-Rozendaal (PvdA) over jachtgeweren.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 200</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">200</item>
+         <item attribuut="Indiener">
+            <persoon>Esselink</persoon>
+            <persoon>Swildens-Rozendaal</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-09-04</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Gabor</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-12-04</item>
+         <item attribuut="Beginpagina">407</item>
+         <item attribuut="Eindpagina">408</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="407" allpagenumbers="407 408" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1991"/>
+      <vraagdata vraagnummer="200" onderwerp="jachtgeweren." indiendatum="1991-09-4">
+         <vrager partij="" oorsprong="parlement">Esselink</vrager>
+         <vrager partij="" oorsprong="parlement">Swildens-Rozendaal</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="4 december 1991). Zie ook aanhangsel Handelingen, nr. 96, Vergaderjaar 1991-1992.">
+         <antwoorder functie="staatssecretaris" ministerie="Landbouw, Natuurbeheer en Visserij">Gabor</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="9">
+      <vraag nummer="1">Wat zijn precies de verschillen (zowel qua effect - risico verwonding in plaats van doden - als qua veiligheid) tussen het toepassen van staalhage! en van loodhagel bij de jacht? Bent u voornemens bij de verplichte invoering van staalhagel (verbod op loodhagel) in 1993 ook een voorziening te treffen om te komen tot keuring van alle jachtgeweren (of van de geweren van een zekere ouderdom) met het oog op de veiligheidsrisico's die bij omschakeling kunnen ontstaan en zo ja, hoe zal die voorziening er uit zien? </vraag>
+      <vraag nummer="3">Biedt de Jachtwet «of een andere wet» de mogelijkheid een dergelijke keuring in de vorm van een verplichting voor te schrijven? </vraag>
+      <vraag nummer="4">Bent u voornemens het uit milieu-oogpunt gewenste verbod op loodhagel te laten voorafgaan door een voorlichtingscampagne met name gericht op de veiligheidsrisico's al dan niet samen met de Koninklijke Nederlandse Jagersvereniging en/of de verzekeringsmaatschappijen? Welke instituten binnen Nederland houden zich bezig met het testen en/of keuren van jachtgeweren? In hoeverre is de onafhankelijkheid van de instituten in en buiten Nederland die zich nu met het testen van geweren bezig houden gewaarborgd? </vraag>
+      <vraag nummer="6">Hoeveel jachtgeweren zijn er in Nederland in omloop? </vraag>
+      <vraag nummer="7">Zijn jachtgeweren aan enig wettelijk voorschrift gebonden? Zo ja, aan welke en hoe is de controle daarop geregeld? </vraag>
+      <vraag nummer="8">Welke alternatieven voor de ernstige milieubelasting veroorzakende loodhagel zijn er naast staalhagel? In hoeverre zijn deze alternatieven al toepasbaar? </vraag>
+      <vraag nummer="9">Hoe luidt het advies van de Jachtraad over het voornemen te komen tot een verbod op loodhagel? </vraag>
+      <vraag nummer="10">Is het voornemen van Natuurmonumenten om het gebruik van loodhagel op haar terreinen zo spoedig mogelijk en vooruitlopend op een wettelijk verbod te verbieden in overeenstemming met de Jachtwet? </vraag>
+      <vraag nummer="11">Hoe is de stand van zaken bij het inventariseren, het aansprakelijk stellen van vervuilers en het schoonmaken van ernstig met loodhagel vervuilde bodems en waterbodems? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="7">
+      <antwoord nummer="1">Een groot aantal Nederlandse jagers beschikt over een modern jachtgeweer dat getest is bij 1200 bar. In dergelijke jachtgeweren kunnen alle typen ijzerhagelpatronen veilig worden gebruikt Indien de zwaardere typen ijzerhagelpatronen worden gebruikt is de kans op niet dodeiijke verwonding van wild niet groter dan bij gebruik van loodhagelpatronen. Er zijn daarnaast ook nog vele lichtere, meestal wat oudere geweren in gebruik die zijn getest bij 850 bar. Enkele fabrikanten leveren ijzerhagelpatronen die ook in deze geweren veilig gebruikt kunnen worden. Door hun geringere kracht zijn deze patronen evenwel niet geschikt voor het beschieten van wild op afstand van meer dan 30 meter. Door zijn grotere hardheid geeft ijzerhagel meer kans op ricochet. Jagers zullen voor de veiligheid van hun omgeving en voor hun eigen veiligheid daarmee rekening moeten houden. de veilgheid ervan laten adviseren door de wapenhandel. Overigens zal aan het veiligheidsaspect in de voorlichting nadrukkelijk aandacht worden geschonken (zie ook vraag 4). Voor zover mij bekend beschikken de Nederlandse wapenhandelaars niet over apparatuur om zelf een druktest uit te voeren. Er zijn in Nederland ook geen instituten die zich bezighouden met het testen of keuren van jachtgeweren. Het staat ondernemers echter vrij hiervoor voorzieningen te treffen. De overheid behoeft hierin geen rol te spelen. </antwoord>
+      <antwoord nummer="3">Op grond van artikel 22 van de Jachtwet kan de minister van Landbouw, Natuurbeheer en Visserij voorschriften geven waaraan jachtgeweren moeten voldoen. Zo'n voorschrift kan een verplichte keuring inhouden. Een dergelijk voorschrift bestaat thans niet en wordt om redenen vermeld bij het antwoord op vraag 2 niet overwogen. Wel zijn er bij ministeriële regelmg van 20 maart 1978 (Stcrt. 59) voorschriften voor jachtgeweren gesteld om te bevorderen dat het afschot van wild met zo min mogelijk leed voor de betreffende dieren gepaard gaat. Met betrekking tot de veiligheid zijn in deze regeling geen regels gesteld. Op grond van de Wet wapens en munitie kan de minister van Justitie ten behoeve van de veiligheid technische eisen vaststellen, waaraan onder meer jachtgeweren moeten voldoen bij overdracht aan personen aan wie verlof tot het verkrijgen van een wapen is omloop zijn. </antwoord>
+      <antwoord nummer="7">Zie antwoord op vraag 3. </antwoord>
+      <antwoord nummer="8">Er wordt op beperkte schaal geëxperimenteerd met hagel waarin het eveneens zachte wolfraam is verwerkt. Deze hagel voldoet tot nu toe in ballistisch opzicht minder goed dan ijzerhagel. Een bezwaar is bovendien dat wolfraam duur is. Er is thans één producent van wolfraampatronen. De betreffende patronen zijn geschikt voor alle typen jachtgeweren. Gezien de bezwaren van wolfraamhagel richten de meeste producenten zich momenteel uitsluitend op de produktie van ijzerhagelpatronen. </antwoord>
+      <antwoord nummer="9">Het advies van de Jachtraad is bijgevoegd.' </antwoord>
+      <antwoord nummer="10">De Jachtwet staat toe in de Jachthuurovereenkomst bepalingen op te nemen betreffende de te gebruiken jachmiddelen. Natuurmonumenten mag derhalve bepalen dat op de door haar verhuurde gronden geen loodhagelpatronen worden gebruikt. </antwoord>
+      <antwoord nummer="11">In augustus 1986 heeft de Hoofdinspectie van de Volksgezondheid voor de Milieuhygiëne van het ministerie van Welzijn, Volksgezondheid en Cultuur, de «Richtlijn voor de belasting van de bodem op en nabij kleiduivenschietbanen door lood» uitgebracht Daarin is ingegaan op het aandeel van metallisch lood 12 projecten met de aanduiding «Kleiduivenschietbaan» zijn en 18 projecten waarvan de aanduiding in verband kan worden gebracht met loodverontreiniging door jacht In dit kader zijn op enkele gesaneerde of voor sanering in aanmerking komende lokaties juridische onderzoeken gestart naar de mogelijkheden van het aanspreken van veroorzakers op basis van artikel 21 van de Interimwet bodemsanering. Onder meer in verband met de pluriformiteit van de betrokken veroorzakers nemen deze onderzoeken de nodige tijd en hebben nog niet tot juridische actie geleid. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Ter inzage gelegd op de bibliotheek</noot>
+      </noten>
+   </antwoorden>
+</kvr>

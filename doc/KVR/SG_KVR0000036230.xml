@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001823</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001823&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001823</item>
+         <item attribuut="Document-id">0000036230</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 900</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van der Heijden (C.D.A.) over het besteden van f 14 mln. ter bestrijding van milieucriminaliteit.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 900</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">900</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Van der Heijden</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-08-27</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Hirsch Ballin</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-09-14</item>
+         <item attribuut="Beginpagina">1819</item>
+         <item attribuut="Eindpagina">1820</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1819" allpagenumbers="1819" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="900" onderwerp="het besteden van f 14 mln. ter bestrijding van milieucrimi– naliteit." indiendatum="1990-08-27">
+         <vrager partij="CDA" oorsprong="parlement">Van der Heijden</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-09-14">
+         <antwoorder functie="minister" ministerie="Justitie">Hirsch Ballin</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Kunt u aangeven waaraan het schort bij de verdeling van de 14 miljoen gulden, die de politie dit jaar zal mogen besteden voor een betere handhaving van de milieuwetten? </vraag>
+      <vraag nummer="2">Kunnen de bewindslieden een overzicht geven van de thans ingediende aanvragen voor subsidie voor milieuprojecten van de rijks– en gemeentepolitie? </vraag>
+      <vraag nummer="3">Willen de bewindslieden aangeven op welke uiterste datum zij deze Kamer over de verdeling van de extra middelen voor de bestrijding van de milieucriminaliteit in het jaar 1990 zullen inlichten? Toelichting Deze vragen dienen ter aanvulling op de eerdere vragen terzake van het lid Willems, ingezonden 27 augustus </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Het is niet ongebruikelijk dat de feitelijke besteding van gelden in de aanloop van een project met enige vertraging tot stand komt. De opzet van een projectorganisatie en het ontwikkelen van bestedingscriteria in hetzelfde jaar waarin de middelen beschikbaar komen is hieraan mede debet. Evenwel kan niet gesteld worden dat het zou schotten aan de verdeling van de hier becuelde gelden. Inmiddels is ruim 8 miljoen gulden aangewend voor in het bijzonder voorzieningen in de voorwaardenscheppende sfeer. </antwoord>
+      <antwoord nummer="2">Voor een overzicht van de thans ingediende aanvragen voor subsidie voor milieuprojecten verwijzen wij u naar de bijgevoegde bijlage. Voor de volledigheid merk ik op dat aan de projectvoorstellen die een subsidie-aanvraag voor sterkte– uitbreiding ten behoeve van de regio bevatten tegemoet is gekomen door de extra sterkte-uitbreiding van 73 formatieplaatsen ten behoeve van regionale milieucontingenten. </antwoord>
+      <antwoord nummer="3">Aan de Kamer zal bij de najaarsnota volledig inzicht worden gegeven van de feitelijke bestedingen over het jaar 1990. Bijlage In deze bijlage is een gespecificeerd overzicht opgenomen van de subsidie-aanvragen naar regio/korps of dienst. De bedragen hebben voor de overzichtelijkheid alleen betrekking op 1990. Uiteraard hebben een aantal aanvragen een structurele doorwerking. Tussen haakjes is vermeld waarop de aanvraag betrekking heeft. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

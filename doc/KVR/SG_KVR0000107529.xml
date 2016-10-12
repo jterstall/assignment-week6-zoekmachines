@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001754</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001754&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001754</item>
+         <item attribuut="Document-id">0000107529</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 721</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Buurmeijer en Jabaaij (beiden P.v.d.A.) over de inschrijving van werkloze buitenlanders bij de gewestelijke arbeidsbureaus.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 721</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">721</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Buurmeijer</persoon>
+            <persoon partij="PvdA">Jabaaij</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-04-29</item>
+         <item attribuut="Beantwoorder">
+            <persoon>De Koning</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-05-25</item>
+         <item attribuut="Beginpagina">1431</item>
+         <item attribuut="Eindpagina">1432</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 6 - 1 9 8 7 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="721" onderwerp="de inschrijving van werkloze buitenlan- ders bij de gewestelijke arbeidsbu- reaus." indiendatum="29 april 1987)">
+         <vrager partij="PvdA" oorsprong="parlement">Buurmeijer</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Jabaaij</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1 ">Is het waar dat de gewestelijke  arbeidsbureaus buitenlanders  verplichten hun paspoort te tonen bij  inschrijving als werkzoekende? </vraag>
+      <vraag nummer="1 "/>
+      <vraag nummer="2 ">Zo ja, is dit in overeenstemming met  de circulaire inzake de inschrijving en  bemiddeling van vreemdelingen  ( 2 7 / W A B W / B ) van 6 mei 1981?  </vraag>
+      <vraag nummer="3 ">Is de controle op legaliteit niet  primair een taak van de politie? Mag  een arbeidsbureau niet uitsluitend  toetsen op de aard van het verblijf  zoals geformuleerd in de circulaire?  </vraag>
+      <vraag nummer="4 ">Bent u bereid directeuren van de  GAB's op te dragen aan buitenlanders  uitsluitend voor de inschrijving  relevante verblijfsdocumenten te  vragen en niet automatisch een  paspoort?  </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Een brief terzake van de directeur GAB te  Enschede is de minister ter hand gesteld. </noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="3 ">Controle op legaliteit is inderdaad  primair een taak van de politie. De  arbeidsbureaus zijn betrokken bij de  tenuitvoerlegging van de Wet arbeid  buitenlandse werknemers; met  betrekking tot de Vreemdelingenwet  en de opsporing van illegalen hebben  zij geen functie. Echter voor de  inschrijving en bemiddeling van een  vreemdeling is het - overeenkomstig  bedoelde circulaire - noodzakelijk de  verblijfsstatus en nationaliteit van de  betrokken vreemdeling te kennen.  </antwoord>
+      <antwoord nummer="4 ">Van een automatisme in het vragen  naar het paspoort is geen sprake. Als  echter via de op de inschrijfkaart  vermelde gegevens of anderszins  blijkt dat betrokkene vreemdeling is,  is het voor de inschrijving en bemid- deling van belang dat duidelijkheid  wordt verkregen omtrent de verblijfs- status en nationaliteit van betrokkene.  Aangezien de verlening van de  (tijdelijke) vergunning  t o t verblijf over  het algemeen via een stempel in het  paspoort van de vreemdeling  plaatsvindt en ook anderszins zijn  verblijfsstatus - en derhalve zijn  mogelijkheden om in Nederland  rechtmatig te werken in de eerste  jaren van zijn verblijf - veelal het  duidelijkst via het paspoort naar  voren komt, is er geen reëel belang  van de vreemdeling mee gediend om  de arbeidsbureaus te verzoeken af te  zien van het inzien van het paspoort.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

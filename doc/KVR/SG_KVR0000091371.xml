@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19881989:0001772</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001772&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001772</item>
+         <item attribuut="Document-id">0000091371</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1988-1989 nummer 764</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Feenstra (P.v.d.A.) over ziekteverwekkende bacteriën in rauw barbecuevlees.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1988-1989 nummer 764</item>
+         <item attribuut="Jaargang">1988_1989</item>
+         <item attribuut="Vraagnummer">764</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Feenstra</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-06-30</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Braks</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-07-28</item>
+         <item attribuut="Beginpagina">1535</item>
+         <item attribuut="Eindpagina">1536</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 8 - 1 9 8 9 " typehandeling="" typedoc=""/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 8 - 1 9 8 9 ,  A a n h a n g s e l " filenaam="" issn-nummer="ISSN 921 7398 " uitgever="SDU uitgeverij 's Gravenhage 1989 "/>
+      <vraagdata vraagnummer="764" onderwerp="ziekteverwekkende bacteriën in rauw barbecuevlees." indiendatum="3 0 juni 1989)">
+         <vrager partij="PvdA" oorsprong="parlement">Feenstra</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="minister" ministerie="Landbouw en Visserij">Braks</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1 " voetnoot="1">Kent u de conclusie van de test van  de Consumentenbond en het  Konsumenten Kontakt <voetnoot nummer="1"/>, dat een  aanzienlijk deel van de onderzochte  porties rauw barbecuevlees besmet  was met ziekteverwekkende bacte- riën?  </vraag>
+      <vraag nummer="2 ">Hoe verdraagt deze conclusie zich  met de bestaande regels op het  gebied van de kwaliteit van deze  categorie (rauw) vlees?  </vraag>
+      <vraag nummer="3 ">Welke maatregelen kunt u en welke  kan het bedrijfsleven nemen teneinde  dergelijke situaties in de toekomst uit  te sluiten?  7.  </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Zie de consumentengids van juli 1989, nr. </noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1 ">Ja.  Volgens de Warenwet (Vlees- en  Vleeswarenbesluit 1987, art. 2, lid 1)  dienen vlees en vleesprodukten  geschikt te zijn voor menselijke  consumptie en moeten zij normaal  van geur, kleur, smaak en consis- tentie zijn. Ten aanzien van een  eventuele verontreiniging met ziekte- verwekkende bacteriën worden geen  nadere eisen gesteld.  </antwoord>
+      <antwoord nummer="3 ">Het ministerie van Landbouw en  Visserij laat in samenwerking met het  bedrijfsleven onderzoek verrichten  naar de verbetering van de micro- biële kwaliteit van vlees. Dit  onderzoek wordt gecoördineerd door  een Stuurgroep met vertegenwoor- digers van de ministeries van  Landbouw en Visserij en van Welzijn,  Volksgezondheid en Cultuur en het  bedrijfsleven. In de komende jaren  zal verder onderzoek worden gedaan  naar verbetering van de microbiële  kwaliteit van vlees. Daar waar al  concrete resultaten zijn geboekt,  zoals bij het Kwaliteits- en Hygië- neplan Vlees- en Vleeswarenin- dustrie, is het bedrijfsleven doende  de resultaten in de praktijk toe te  passen.  Door het Bedrijfschap Slagersbedrijf  is onlangs een hygiënecode slagers- bedrijf opgesteld. Werken volgens  deze code zal zeker een bijdrage  kunnen leveren aan de verbetering  van de microbiologische kwaliteit  van barbecuevlees. Overigens is door  het Voorlichtingsbureau voor de  Voeding en het ministerie van  Welzijn, Volksgezondheid en Cultuur  een aantal folders uitgegeven om de  consument voor te lichten over  maatregelen die voedselinfecties  kunnen voorkomen.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

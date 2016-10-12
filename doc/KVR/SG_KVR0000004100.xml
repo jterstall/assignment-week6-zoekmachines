@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0001589</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001589&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001589</item>
+         <item attribuut="Document-id">0000004100</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 375</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Feenstra (PvdA) en Tommel (D66) over de Hoge Flux Reactor.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 375</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">375</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Feenstra</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-02-09</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Andriessen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-03-15</item>
+         <item attribuut="Beginpagina">761</item>
+         <item attribuut="Eindpagina">764</item>
+         <item attribuut="Omvang">4 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="761" allpagenumbers="761 762 763" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnsuaat 's-Gravenhage 1994"/>
+      <vraagdata vraagnummer="375" onderwerp="de Hoge Flux Reactor." indiendatum="1994-02-9">
+         <vrager partij="PvdA" oorsprong="parlement">Feenstra</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="10">
+      <vraag nummer="1" voetnoot="1 5">Herinnert u zich onze eerdere pleidooien voor het overschakelen in de Hoge Flux Reactor (HFR) te Petten van het gebruik van hoog naar laag verrijkt uranium? <voetnoot nummer="1"/>'  2 -  3 - *• <voetnoot nummer="5"/>Hoeveel onderzoeksreactoren zijn er ter wereld? Hoeveel draaien er (nog) op hoog verrijkt uranium? Welk deel daarvan heeft plannen ontwikkeld om over te gaan op laag verrijkt uranium? </vraag>
+      <vraag nummer="3" voetnoot="3">Hoeveel hoog verrijkt uranium is er momenteel direct beschikbaar voor de HFR? Hoelang kan de HFR daarop draaien? <voetnoot nummer="3"/>
+      </vraag>
+      <vraag nummer="4">Met welke potentiële leveranciers van hoog verrijkt uranium is, dan wel wordt onderhandeld, sinds de levering vanuit de Verenigde Staten beëindigd is en besprekingen met het Russische Minatom over het Duitse HTR-uranium niet tot vervangende levermg van hoog verrijkt uranium hebben geleid? </vraag>
+      <vraag nummer="5">Verbinden de eigenaar, de Europese Commissie en de Nederlandse regering als beheerder en mede-financier van de HFR aan de toenemende belemmeringen bij het verkrijgen van hoog verrijkt uranium ook de conclusie, dat het voortbestaan van deze onderzoeksreactor gediend is bij het overschakelen van hoog naar laag verrijkt uranium? </vraag>
+      <vraag nummer="6" voetnoot="1">Hoe groot is volgens de herziene vergunning de maximale opslagcapaciteit van gebruikte splijtstofelementen in de twee opslagbassins binnen de reactoromhulling te Petten? Welk deel daarvan is reeds benut sinds deze elementen niet meer naar de Verenigde Staten kunnen worden verscheept? Wanneer zal deze maximale opslagcapaciteit zijn benut? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="7">Welke alternatieven zijn er voor opslag van deze uitgewerkte splijtstofelementen? Welke daarvan worden momenteel uitgewerkt? Op welke termijn kan desgewenst van deze nieuwe capaciteit gebruik worden gemaakt? </vraag>
+      <vraag nummer="8">Verbinden de eigenaar, de Europese Commissie en de Nederlandse regering als beheerder en mede-financier van de HFR aan de toenemende belemmeringen bij de opslag van de uitgewerkte splijtstofstaven ook de conclusie, dat het voortbestaan van deze onderzoeksreactor gediend is bij het overschakelen van hoog naar laag verrijkt uranium? </vraag>
+      <vraag nummer="9" voetnoot="6">Deelt u de conclusie uit het rapport van het Amerikaanse departement van energie dat het ongunstige klimaat van vergunningverlening, de Europese Commissie cq Euratom afhoudt van het omschakelen naar laag verrijkt uranium? Zo ja waar zal, gelet op de aanvoerproblemen met betrekking tot nieuw hoog verrijkt uranium en de afvoerproblemen met betrekking tot de uitgewerkte splijtstofelementen, het niet tijdig overschakelen toe kunnen leiden? <voetnoot nummer="6"/>
+      </vraag>
+      <vraag nummer="10">Is de regering als beheerder en mede-financier bereid het voortzetten van haar financiële en beleidsmatige steun aan de HFR afhankelijk te stellen van het besluit van de EC tot overschakeling naar laag verrijkt uranium? </vraag>
+      <vraag nummer="11">Is de regering als beheerder en mede-financier bereid de Amerikaanse regering te verzoeken naar verdere betrokkenheid bij de HFR afhankelijk te stellen van het besluit van de EC om deze onderzoeksreactor te laten </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2" voetnoot="1">Volgens lAEA-gegevens zijn er meer dan 300 onderzoeksreactoren in de wereld, waarvan er circa 100 HEU (kunnen) gebruiken. Volgens opgave van US-DOE zijn er buiten de VS 42 onderzoeksreactoren met een vermogen groter dan of gelijk aan 1 MW die Amerikaans hoog verrijkt uranium gebruiken of hebben gebruikt. Van die 42 zijn er per begin 1994 12 volledig geconverteerd naar laag verrijkt uranium en 3 gedeeltelijk. Verder zijn er 3 reactoren die gesloten zijn of worden, zijn er 2 die over één kern beschikken voor de gehele levensduur en zijn er 3 reactoren, die met de huidige technologie niet kunnen worden geconverteerd. Voor 11 reactoren (waaronder de beide in Nederland gevestigde reactoren) worden conversie-voorbereidingen getroffen of vindt studie daarnaar plaats. Bij de resterende 8 reactoren is de situatie onduidelijk. Van de 27 Amerikaanse reactoren die HEU gebruik(t)en zijn er 16 die geconverteerd zijn of daartoe plannen hebben. De overige 11 kunnen niet worden geconverteerd of hebben een éénmalige kern. Tenslotte bevinden zich in de landen van de voormalige Sovjet-Unie, of in landen die vanuit de voormalige Sovjet Unie beleverd zijn, ook nog eens circa 30 reactoren die HEU gebruiken. Voorzover bekend is geen daarvan geconverteerd c.q. bestaan daartoe plannen. niet onmiddellijk in gevaar is. Dit nog afgezien van de hoeveelheden afkomstig uit de ontmantelmg van kernwapens. Op zich is het dus uit oogpunt van de Europese voorzieningsmogelijkheden van hoog verrijkt uranium geen noodzaak om tot conversie over te gaan. Zie evenwel ook het antwoord op vraag 8. Vooreerst zij er op gewezen dat er voor de HFR geen «herziene» vergunning is. De vigerende vergunning bevat geen limieten voor de opslag van bestraalde splijtstof. De thans geïnstalleerde opslagrekken voor gebruikte splijtstofelementen in de HFR bieden opslagmogelijkheden tot in 1995. Technisch is het geen probleem deze capaciteit zodanig verder uit te breiden dat nog voor meerdere jaren reactorbedrijf in de opslagbehoefte kan worden voorzien. Overigens zij verwezen naar de antwoorden op de hierover eerder gestelde vragen. <voetnoot nummer="1"/>
+      </antwoord>
+      <antwoord nummer="7">Er is op dit moment sprake van drie mogelijke opties voor de opslag van gebruikte splijtstofelementen van de HFR: a. terugzending naar de Verenigde Staten, b. opslag en vervolgens opwerking in Dounreay (Schotland), c. opslag bij COVRA in Borsele. Wat de eerstgenoemde mogelijkheid betreft is bmnenkort, na jarenlange onzekerheid, een besluit van de Amerikaanse regering te verwachten periode van 10 jaar. Dit besluit zal in Amerika de procedure van de milieu-effectrapportage moeten doorlopen. Deze procedure zal meerdere jaren in beslag nemen. De uitkomst daarvan is onzeker. De tweede optie voorziet in opslag in Dounreay in afwachting van opwerking aldaar. Aan deze optie is de gebruikelijke conditie verbonden dat het bij opwerking resterende opwerkingsafval na verloop van tijd aan het land van oorsprong kan worden teruggezonden. Deze terugname-regeling wijkt niet af van hetgeen voor de beide kerncentrales in ons land geregeld is. Technisch gezien zou thans van deze optie gebruik gemaakt kunnen worden. De derde optie voorziet in langdurige opslag van bestraalde elementen bij COVRA in Borsele. Door Covra wordt thans een vergunningsaanvraag met MER voorbereid om in deze mogelijkheid te kunnen voorzien. Procedures en bouw zullen naar verwachting eerst rond 2000 tot een opslagmogelijkheid bij COVRA leiden. Volledigheidshalve zij tenslotte gewezen op de mogelijkheden die vanuit Rusland worden aangeboden. Daarbij zou het om opwerking zonder terugzending van afval gaan, gekoppeld aan levering van verse brandstof. Deze mogelijkheid wordt thans niet nader onderzocht. </antwoord>
+      <antwoord nummer="8 en 9">Uit het antwoord op vraag 7 blijkt dat er thans 3 concrete opties zijn met betrekking tot de «back-end» van de splijtstofcyclus van de HFR. Conversie moeten worden gewijzigd. Belangrijker is voorts dat de kwaüteit van het onderzoek wordt aangetast, doordat er sprake zal zijn van een gemiddeld genomen lagere neutronen flux. Dit is ook te bezien in relatie tot die met de HFR concurrerende onderzoeksreactoren in Frankrijk en België die technisch gezien thans nog niet geconverteerd kunnen worden. Over de financiële aspekten zij het volgende opgemerkt. Door het GCO wordt een éénmalige financiële investering geraamd van circa 1,2 Mecu en een jaarlijkse kostenstijging van circa 1 Mecu. De ervaring van de inmiddels geconverteerde en met de HFR vergelijkbare Zweedse R2-reactor leert dat zowel de technische als de financiële «penalty» eerder hoger dan lager zullen zijn. Ten slotte is te wijzen op de procedurele aspekten. Conversie vereist een aanpassing van de vergunning, waarbij een nieuw veiligheidsrapport met mer vereist is. De voorbereiding van die aanvraag en het vervolgens doorlopen van de vergunningsprocedures vergt, nadat concrete besluiten over aard en timing van het conversieproces zijn genomen, een periode van meerdere jaren. Een conversiebesluit is tevens te bezien in het licht van de mogelijke toekomstige ontwikkelingen van de HFR na afloop van het huidige 4 jarenprogramma. Conversie is naar het gezamenlijk oordeel van de regering en de Europese Commissie dan ook pas echt aantrekkelijk wanneer de Verenigde Staten de garantie geven dat niet alleen over te gaan daarbij een belangrijke factor. Aan zo'n besluit zijn echter een groot aantal technische, financiële, procedurele en beleidsmatige aspekten verbonden. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> De Aanhangsels op de Handelingen nummer 552, Vergaderjaar 1992-1993 en nummer 675, Vergaderjaar 1990-1991</noot>
+      </noten>
+   </antwoorden>
+</kvr>

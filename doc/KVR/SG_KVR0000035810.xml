@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001403</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001403&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001403</item>
+         <item attribuut="Document-id">0000035810</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 481</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Beckers-de Bruijn en Van Es (beiden Groen Links) over bestrijding van de coca-teelt.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 481</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">481</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Beckers-de Bruijn</persoon>
+            <persoon partij="Groen Links">Van Es</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-02-23</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-03-23</item>
+         <item attribuut="Beginpagina">967</item>
+         <item attribuut="Eindpagina">968</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="967" allpagenumbers="967" vetnummer="010359" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Gravenhage"/>
+      <vraagdata vraagnummer="481" onderwerp="bestrijding van de coca-teelt." indiendatum="1990-02-23">
+         <vrager partij="Groen Links" oorsprong="parlement">Beckers-de Bruijn</vrager>
+         <vrager partij="Groen Links" oorsprong="parlement">Van Es</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-03-23">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">Van den Broek</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Hebt u kennis genomen van het Amerikaanse onderzoek naar de mogelijkheid om miljoenen malumba-eitjes boven het Huallaga-dal uit te strooien ter bestrijding van de coca-teelt?' </vraag>
+      <vraag nummer="2">Hebt u kennis genomen van de opvatting, dat het uitstrooien van deze eitjes ernstige nadelige gevolgen kan hebben voor het ecolo– gisch evenwicht en derhalve voor het milieu in het Huallaga dal en ver daarbuiten? </vraag>
+      <vraag nummer="3">Hebt u kennis genomen van de resul– taten van het overleg in Cartagene (Columbia) tussen de president van de Verenigde Staten en de regeringsleiders van coca-produce– rende landen, waarbij president Bush erkende, dat het probleem vooral voortkomt uit de Amerikaanse vraag naar drugs? </vraag>
+      <vraag nummer="4">Deelt u de mening, dat een derge– lijke biologische bestrijding van de coca-teelt om ecologische redenen afgewezen moet worden? Bent u bereid, zo mogelijk in EG-verband, er bij de Amerikaanse regering op aan te dringen het betreffende onderzoek stop te zetten? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1990-02-21" bron=" Volkskrant"> Volkskrant, 21 februari 1990</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">  e n 2 Uit de mij op dit ogenblik ter beschikkmg staande informatie leid ik af dat het in de onderhavige vragen bedoelde onderzoek moet worden gezien als een nadere uitwerking van het Amerikaanse beleld om de verbouw van coca te bestrijden. Momenteel worden hiervoor onder meer herbiciden, zoals paraquat, gebruikt. Ik ga er van uit dat men zich bij het betrokken onderzoek in kwestie in voldoende mate bewust is van mogelijke gevaren voor het ecolo– gisch evenwicht in geval van eventueel gebruik van een dergelijk bestrijdingsmiddel. </antwoord>
+      <antwoord nummer="3" voetnoot="1">Ik moge verwijzen naar mijn antwoord sub 1, mede namens de minister van Justitie op vragen van de heren Dijkstal en Weisglas. <voetnoot nummer="1"/>
+      </antwoord>
+      <antwoord nummer="4 en 5">Aangezien het hier een onderzoek betreft waarvan de resultaten nog niet bekend zijn, acht ik het niet mogelijk uitspraken te doen over de mogelijke ecologische effecten. Ik ziedan ook vooralsnog geen aanleiding voor een Nederlandse stap in dezen. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Aanhangsel Handelingen nr 459, verga– derjaar 1989-1990</noot>
+      </noten>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="land van herkomst - moeten worden" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0001925</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001925&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001925</item>
+         <item attribuut="Document-id">0000004436</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 711</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Sipkes (GroenLinks) over het 10-jarige Zaïrese weesmeisje.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 711</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">711</item>
+         <item attribuut="Indiener">
+            <persoon partij="GroenLinks">Sipkes</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-06-16</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Kosto</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-08-10</item>
+         <item attribuut="Beginpagina">1441</item>
+         <item attribuut="Eindpagina">1442</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1441" allpagenumbers="1441" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN0921 - 7398" uitgever="'s-Gravenhage 1994"/>
+      <vraagdata vraagnummer="711" onderwerp="het 10-jarige Zaïrese weesmeisje." indiendatum="1994-06-16">
+         <vrager partij="GroenLinks" oorsprong="parlement">Sipkes</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1" voetnoot="1">Bevindt het 10-jarige Zaïrese weesmeisje Francine Nsona, dat begin dit jaar direct na aankomst op Schiphol ons land werd uitgezet, zich momenteel in een vluchtelingenkamp in Congo? <voetnoot nummer="1"/>Laten in dit vluchtelingenkamp de omstandigheden veel te wensen over? Zo ja, hoe verhouden deze nieuwe feiten zich met de eerder door u gedane toezegging dat het ministerie van Justitie samen met het ministerie van Buitenlandse Zaken voor een adequate opvang zou zorgen? </vraag>
+      <vraag nummer="4">Wordt aan Francine Nsona de toegang tot Nederland nog steeds geweigerd terwijl ze over geldige papieren beschikt? Eist het ministerie van Justitie nu een visum en een machtiging tot voorlopig verblijf om haar toe te laten? aangevraagd en dat dit gegeven de politieke situatie aldaar onmogelijk Bent u bereid uw medewerking te verlenen aan een zo spoedig mogelijke toelating van dit 10-jarige Zaïrees weesmeisje in Nederland zodat ze eindelijk een veilig onderdak kan vinden bij haar in Nederland verblijvende familie? Nadere mededeling Nadere mededeling van minister Kosto (Justitie). (Ontvangen 10 augustus 1994). Onder verwijzing naar mijn brief van 8 juli jl. bericht ik u dat ik nog niet in staat ben de vragen van het kamerlid Sipkes te beantwoorden binnen de door mij in genoemde brief aangegeven termijn. Reden hiervoor is dat ik nog niet beschik over de aan de ambassade te Kinshasa gevraagde gegevens inzake het Zaïrese weesmeisje Francine Nsona. Ik verwacht dat de beantwoording van de vragen nog enkele weken in beslag zal nemen. Zo ja, bent u zich ervan bewust, dat genoemde papieren in Zaïre - het </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1994-06-14" bron=" Rotterdams Dagblad"> Rotterdams Dagblad, 14 juni 1994</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

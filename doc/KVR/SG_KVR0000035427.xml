@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19891990:0001020</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001020&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001020</item>
+         <item attribuut="Document-id">0000035427</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 100</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Willems (Groen Links) over het benoemen van burgemeesters in Oost-Groningen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 100</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">100</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Willems</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-10-25</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van Dijk</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-11-02</item>
+         <item attribuut="Beginpagina">207</item>
+         <item attribuut="Eindpagina">208</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="207" allpagenumbers="207" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 921 7398" uitgever="SDU uitgeverij 's Gravenhage 1989"/>
+      <vraagdata vraagnummer="100" onderwerp="het benoemen van burge– meesters in Oost-Gron/ngen." indiendatum="1989-10-25">
+         <vrager partij="Groen Links" oorsprong="parlement">Willems</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1989-11-2">
+         <antwoorder functie="minister" ministerie="Binnenlandse Zaken">Van Dijk</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Wil de Commissaris der Koningin in Groningen nog vóór 1 januari a.s. een advies uitbrengen over de op die datum te benoemen burgemeesters in de 11 nieuwe gemeenten, die door herindeling in Oost-Groningen zullen ontstaan? </vraag>
+      <vraag nummer="2">Bent u op de hoogte van de door hem verdedigde opvatting, dat een informeel overleg met de in november a.s. te kiezen raadsleden van de nieuwe gemeenten voldoet aan de behoefte aan inspraak over de te benoemen burgemeesters? </vraag>
+      <vraag nummer="3">Vindt u, dat op deze wijze wordt voldaan aan de dringende wens van deze Kamer, zoals die eveneens is geformuleerd in het conceptregeer– akkoord, vóór het opstellen van de voordracht door de Commissaris der Koningin de opvatting van de gemeenteraden, respectievelijk de vertrouwenscommissies, te horen? </vraag>
+      <vraag nummer="4">Bent u bereid voor een beperkte periode na 1 januari te volstaan met het benoemen van enkele waarne– mende burgemeesters, totdat overleg is gevoerd met de nieuwe geïnstalleerde gemeenteraden over de vervulling van de burgemeester– vacatures? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja. Neen. Ik heb overigens niet de indruk dat het de Commissaris van de Koningin in de provincie Groningen geen ernst is met het verlenen van inspraak aan de gekozen raadsleden van de per 1 januari 1990 nieuw te vormen gemeenten. Gegeven de noodzaak van een strak tijdschema wordt naar mijn opvatting de vertrouwenscommissies voldoende ruimte gelaten om van haar gevoelen over de door haar ontvangen sollici– tanten blijk te geven. </antwoord>
+      <antwoord nummer="3">Gelet op de bovengeschetste omstandigheden acht ik de gegeven mogelijkheden tot inspraak aanvaardbaar. </antwoord>
+      <antwoord nummer="4">Neen. Temeer daar een periode van gemeentelijke herindeling voor vele betrokkenen een fase van onzekerheid afsluit, ondersteun ik gaarne het uitgangspunt dat de burgemeestersvacatures op 1 januari a.s. vervuld zijn. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

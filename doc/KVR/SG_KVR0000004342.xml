@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0001831</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001831&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001831</item>
+         <item attribuut="Document-id">0000004342</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 617</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Reitsma (CDA) over de gevolgen van de invoering van de netnormering.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 617</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">617</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Reitsma</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-06-28</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Maij-Weggen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-06-05</item>
+         <item attribuut="Beginpagina">1253</item>
+         <item attribuut="Eindpagina">1254</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1253" allpagenumbers="1253" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's-Gravenhage 1994"/>
+      <vraagdata vraagnummer="617" onderwerp="de gevolgen van de invoering van de netnormering." indiendatum="28 juni 1994}">
+         <vrager partij="CDA" oorsprong="parlement">Reitsma</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-07-5">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">Maij-Weggen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Raken door de uitwerking van de ministeriële regeling netnormerïng 1994 bepaalde dunbevolkte gebieden met een kern van minder dan 400 inwoners doch meer dan 12 reizigers per richting per dag verstoken van openbaar vervoer? </vraag>
+      <vraag nummer="2">Was het de bedoeling dat naast het criterium «12 reizigers per dag» ook nog het criterium van ten minste 400 inwoners per kern van toepassing is? </vraag>
+      <vraag nummer="3">Bent u bereid een dergelijke onvolkomenheid in de regeling recht te zetten? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Mij hebben geen berichten bereikt dat er, behalve het in vraag 4 genoemde Friese Spannum, als gevolg van de nieuwe dienstregelingen voor het streekvervoer op basis van de regeling netnormering ook andere «kernen» met minder dan 400 inwoners doch meer dan 12 reizigers per richting van openbaar vervoer verstoken zullen raken. Het is zeker niet de bedoeling dat «kernen» in voorgenoemde gevallen het zonder openbaar vervoer zouden moeten stellen. Het blijkt echter dat uit de formulering in de regeling 1994, anders dan bedoeld, toch deze conclusie kan worden getrokken. waardoor Spannum niet (tijdelijk) van een vervoer verstoken zal hoeven te zijn. Specifiek gaat het om een vraagafhankelijke voorziening met zelfs een aanzienlijk grotere beschikbaarheid dan de huidige voorziening. Ook zullen daarmee «kernen» worden bediend waar op dit moment geen openbaar vervoer is. </antwoord>
+      <antwoord nummer="5">In het reguliere overleg met de regionale dienst en het streekvervoer is deze problematiek aan de orde gesteld. Daarbij is afgesproken dat indien een soortgelijk probleem als in Spannum zich in de nabije toekomst elders voordoet, passende oplossingen zullen worden geboden. Ik vertrouw erop u hiermee voldoende geïnformeerd te hebben. Bent u bereid te bevorderen, dat de situatie in Spannum, waar sprake is van een kern kleiner dan 400 inwoners maar meer dan 12 reizigers per richting per dag, wordt opgelost opdat Spannum niet van een vervoersvoorziening wordt verstoken? </antwoord>
+      <antwoord nummer="5">Wilt u het streekvervoer, voorzover zich dit probleem elders voordoet, verzoeken op de kortst mogelijke termijn een oplossing aan te bieden? Deze onvolkomenheid in de regeling zal bij de voorbereiding van de regeling 1995 recht worden gezet. </antwoord>
+      <antwoord nummer="4">Voor Spannum is, in goed overleg tussen de betrokken partijen, aansluitend op de huidige dienstregeling een goede vervoervoorziening getroffen. Hierdoor blijft met ingang van de nieuwe dienstregeling medio september 1994 een adequate vervoervoorziening gehandhaafd. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

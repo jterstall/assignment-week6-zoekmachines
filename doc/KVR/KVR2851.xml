@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="4">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid M. B. Vos (GroenLinks) over het I&amp;R-systeem voor schapen. (Ingezonden 26 maart 1996); Antwoord</item>
+         <item attribuut="Bestand">14Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR2851
+</item>
+         <item attribuut="Inhoud">Gevraagd wordt naar de relatie tussen de gekke-koeienziekte BSE en het feit dat kadavers van met scrapie besmette schapen in het veevoer zijn verwerkt.</item>
+         <item attribuut="Rubriek">Veeteelt (Schapen) Veeteelt (Veeziekten)</item>
+         <item attribuut="Trefwoorden">Schapen Veevoeder Veeziekten</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 1995-1996, nr. 900, Tweede Kamer</item>
+         <item attribuut="Afkomstig_van">Landbouw, Natuurbeheer en Visserij (LNV) Volksgezondheid, Welzijn en Sport (VWS)</item>
+         <item attribuut="Indiener">
+            <persoon partij="GroenLinks">M. B. Vos</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1996-04-02</item>
+         <item attribuut="Datum_indiening">1996-03-26</item>
+         <item attribuut="Document-id">KVR2851</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1995–1996" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1827" allpagenumbers="1827" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1995–1996, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 1996"/>
+      <vraagdata vraagnummer="900" onderwerp="" indiendatum="1996-03-26">
+         <vrager partij="GroenLinks" oorsprong="parlement">M. B. Vos</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1996-04-2">
+         <antwoorder functie="minister" ministerie="Landbouw, Natuurbeheer en Visserij a.i">Melkert</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Sluit u niet uit dat er een relatie bestaat tussen de koeienziekte BSE en het feit dat kadavers van met scrapie besmette schapen in het veevoer zijn verwerkt? </vraag>
+      <vraag nummer="2">Is de scrapiebesmetting vanwege de lange incubatietijd moeilijk te bestrijden? Is het dan niet van het grootste belang dat schapen middels registratie- en identificatie te traceren zijn? </vraag>
+      <vraag nummer="4" voetnoot="1">Wat is uw reactie op de mening van de Vereniging van Speciale Schapenrassen (VSS) dat met het thans toegepaste I&amp;R-systeem, dat is gebaseerd op zogeheten Unieke Bedrijfsnummers, individuele herkenning van het schaap onmogelijk is? Is de AID eveneens van mening dat het huidige I&amp;R-systeem oncontroleerbaar is? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="5">Acht u het voor een goede bewaking van de diergezondheid en uiteindelijk de volksgezondheid vereist dat via het I&amp;R-systeem de dieren individueel te traceren zijn? Zo ja, zult u het bestaande I&amp;R-systeem in die zin aanpassen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1">Schaap, maart 1996. I&amp;R-systeem = identificatie-en registratiesysteem</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Op basis van Britse ervaringen wordt aangenomen dat BSE in het VK is ontstaan door het voeren van diermelen afkomstig van herkauwers, waaronder schapen besmet met scrapie. Wij kunnen de genoemde relatie derhalve niet uitsluiten. </antwoord>
+      <antwoord nummer="2">Scrapie is om een aantal redenen moeilijk te bestrijden. Ee´n daarvan is de lange incubatietijd. Ook ontbreekt een vaccin tegen scrapie en is behandeling van de dieren niet mogelijk. Het stellen van de diagnose is niet eenvoudig. Dierenartsen zijn verplicht scrapieverdenkingen te melden. In dat kader is tracering van het bedrijf waar het desbetreffende dier is geboren middels identificatie en registratie (I&amp;R) van belang teneinde verspreiding van de ziekte tegen te gaan. </antwoord>
+      <antwoord nummer="4">Het huidige I&amp;R systeem voor de schapen betreft geen individuele identificatie, maar koppelidentificatie waarmee het bedrijf van oorsprong altijd is te traceren. De bezwaren van de AID richten zich op de wijze van registratie in de handelsfase en niet op de tracering van het oorsprongsbedrijf op basis van het UBN (Uniek BedrijfsNummer) oormerk. Momenteel wordt gewerkt aan verdere optimalisering van de registratie in de handelsfase. </antwoord>
+      <antwoord nummer="5">Gelet op onze antwoorden op uw voorgaande vragen 1 en 2 achten wij niet de individuele tracering van de dieren middels het I&amp;R systeem van primair belang, maar veeleer het kunnen geven van goede waarborgen dat eventueel aanwezig scrapie-agens wordt vernietigd met het destructie-proces van schapenkadavers en dat runderen in het geheel geen veevoeder wordt verstrekt waarin kadavers van herkauwers zijn verwerkt. Dit laatste is reeds sinds 1989 verboden. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

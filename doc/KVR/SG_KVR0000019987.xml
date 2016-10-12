@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001601</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001601&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001601</item>
+         <item attribuut="Document-id">0000019987</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 583</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Smits en Beinema (beiden CDA) over oesterresistentie.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 583</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">583</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Smits</persoon>
+            <persoon partij="CDA">Beinema</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-03-30</item>
+         <item attribuut="Beantwoorder">
+            <persoon>De Vries</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-05-12</item>
+         <item attribuut="Beginpagina">1227</item>
+         <item attribuut="Eindpagina">1228</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1227" allpagenumbers="1227" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="583" onderwerp="oesterresistentie." indiendatum="1992-03-30">
+         <vrager partij="CDA" oorsprong="parlement">Smits</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Beinema</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-05-12">
+         <antwoorder functie="minister" ministerie="Landbouw, Natuurbeheer en Visserij a.i.">De Vries</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Onderkent u de noodzaak van onderzoek naar de ziekte Bonamia Ostrea, met als doel het vinden van resistente oesters, nu is gebleken dat de ziekte verstrekkende gevolgen heeft voor de Zeeuwse oestercultuur? Is het juist, dat het R.I.V.O. een Frans-Nederlands project tot onderzoek naar resistente oesters heeft moeten beëindigen?' </vraag>
+      <vraag nummer="3">Ligt het, gelet op de wetenschappelijke voorsprong die Frankrijk op Nederland heeft bij het onderzoek naar de Bonamia Ostrea, niet voor de hand juist van de Franse voorsprong te profiteren, in het belang van de Nederlandse oestercultuur? </vraag>
+      <vraag nummer="4">Bent u bereid te bevorderen, dat de plannen voor een Frans-Nederlandse samenwerking op het gebied van de Oesterresistentie alsnog uitgevoerd kunnen worden? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Provinciale Zeeuwse Courant van 12 maart jl RIVO = Rijksinstituut voor Visserijonderzoek</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Onderzoek met het doel het verkrijgen van een Bonamia-resistente platte oester kan bij gunstig resultaat de kweekmogelijkheden van de platte oester in Nederland in met Bonamia besmet water vergroten. Dergelijk onderzoek is derhalve van belang voor de Nederlandse oestersector. Gelet daarop is medefinanciering door de sector van dit onderzoek wenselijk. In afwachting van een meerjarig onderzoeksvoorstel van het RIVO is voor 1991 een eerste aanzet gegeven voor o.a. het selecteren van Bonamia-resistente platte oesters. Naast de financiering hiervan door het oesterbedrijfsleven heb ik hieraan een startsubsidie verleend van f35000. Op grond van de resultaten van het onderzoek in 1991 wordt momenteel bekeken of en hoe het resistentie-onderzoek kan worden voortgezet. </antwoord>
+      <antwoord nummer="2">Nee, de afspraken over het onderzoek hadden alleen betrekking op 1991. De afspraken over het vervolgonderzoek moeten nog worden gemaakt. </antwoord>
+      <antwoord nummer="3">Gelet op de in Frankrijk aanwezige kennis is het wenselijk dat blijvend gestreefd wordt naar een optimaal gebruik van Franse expertise, voor zover van belang voor de Nederlandse situatie. Dit wordt momenteel door een regelmatig contact tussen betrokken onderzoekers van beide instituten vorm gegeven. Bekeken zal worden of het opportuun is deze samenwerking te intensiveren door een gezamenlijk project. </antwoord>
+      <antwoord nummer="4">De wijze waarop het onderzoek naar Bonamia-resistente oesters voortgezet kan worden is mede afhankelijk van de bereidheid van de oestersector om daaraan een medefinanciering te verlenen. Dit overleg is nog gaande. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

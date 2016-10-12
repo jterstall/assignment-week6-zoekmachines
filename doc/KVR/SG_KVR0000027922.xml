@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001585</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001585&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001585</item>
+         <item attribuut="Document-id">0000027922</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 649</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden De Cloe (PvdA) en Nuis (D66) over een verzoek tot uitbreiding van een therapielokaal.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 649</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">649</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">De Cloe</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-05-13</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Wallage</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-06-17</item>
+         <item attribuut="Beginpagina">1325</item>
+         <item attribuut="Eindpagina">1326</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1325" allpagenumbers="1325" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1991"/>
+      <vraagdata vraagnummer="649" onderwerp="een verzoek tot uitbreiding van een therapielokaal." indiendatum="1991-05-13">
+         <vrager partij="PvdA" oorsprong="parlement">De Cloe</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="17juni 1991">
+         <antwoorder functie="staatssecretaris" ministerie="Onderwijs en Weten– schappen">Wallage</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1" voetnoot="2 2 2 1">Heeft het ministerie van Onderwijs en Wetenschappen het verzoek van Ommen tot uitbreiding van een therapielokaal van 100 m <voetnoot nummer="2"/> naar 150 m <voetnoot nummer="2"/> beantwoord met 'óf niets, óf een lokaal van 250 m <voetnoot nummer="2"/>'? <voetnoot nummer="1"/>Zo ja, wat is de oorzaak van deze 'royaal uitgevallen' besluitvorming? </vraag>
+      <vraag nummer="3">Betreft het hier een uitzonderlijke situatie? Hoe verhoudt zich dat met de problematiek ten aanzien van mogelijke overschrijdingen op de begroting voor huisvestingskosten?  Zie de Zwolse Courant van 26 april jl. </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"/>
+      </noten>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1" voetnoot="2 2 2">De gebruikte terminologie was anders, maar kwam in essentie op hetzelfde neer. In het programma van eisen uitbreiding is slechts de mogelijkheid van vergroting van bestaande thera– pielokalen tot gymnastieklokalen van 252 m <voetnoot nummer="2"/> opgenomen. Dat aantal m <voetnoot nummer="2"/>vloeit voort uit de eisen van het Bouwbesluit ISOVSO en stemt tevens overeen met de eisen van het Bouwbesluit WBO en de normen voor het voortgezet onderwijs. Vergroting naar 252 m <voetnoot nummer="2"/> betekent dat gymnastieklokalen aldus via de mogelijkheid van medegebruik efficiënter voor het onderwijs kunnen worden gebruikt en onverantwoorde investeringen die tot een beperkt verbeterde gebruikswaarde voor ook de lange termijn leiden, kunnen worden voorkomen. Over het geheel genomen betreft het hier inderdaad een betrekkelijk uitzonderlijke situatie. Zoals in het antwoord op vraag 2 weergegeven, zouden de kosten van een beperkte zaalvergroting niet opwegen tegen de in dat geval slechts gering verbe– terde gebruikswaarde, waaronder het ontbreken van de mogelijkheid van medegebruik door andere scholen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001207</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001207&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001207</item>
+         <item attribuut="Document-id">0000019593</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 194</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Groenman (D66) over deelneming in een bedrijfspensioenfonds.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 194</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">194</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Groenman</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-11-05</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Ter Veld</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-11-28</item>
+         <item attribuut="Beginpagina">395</item>
+         <item attribuut="Eindpagina">396</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="395" allpagenumbers="395" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat s Gravenhage 1991"/>
+      <vraagdata vraagnummer="194" onderwerp="deelneming in een bedrijfspensioenfonds." indiendatum="1991-11-5">
+         <vrager partij="D66" oorsprong="parlement">Groenman</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1991-11-28">
+         <antwoorder functie="staatssecretaris" ministerie="Sociale Zaken en Werkgelegenheid">Ter Veld</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Kunnen bedrijfspensioenfondsen, op grond van (uitvoeringsvoorschriften bij) de Wet betreffende verplichte deelneming in een bedrijfspensioenfonds dispensatie verlenen van de verplichting tot deelneming, indien reeds een «gelijkwaardige» pen– sioenregeling is getroffen? </vraag>
+      <vraag nummer="2">Kan deze mogelijkheid in bepaalde omstandigheden leiden tot benadeling van (de werknemers van) gedispenseerde ondernemingen? </vraag>
+      <vraag nummer="3" voetnoot="2">Is deze kans op benadeling toegenomen door de wijziging van de Pensioen– en spaarfondsenwet (PSW) van 1987, inhoudende dat bij beeindigmg van de deelneming tenminste een «evenredig ouderdomspensioen» dient te worden toegekend', echter zonder dat dit evenredig pensioen dan al direct dient te zijn gefinancierd <voetnoot nummer="2"/>? </vraag>
+      <vraag nummer="4">Acht u het wenselijk deze en eventuele vergelijkbare mogelijkheden tot benadeling weg te nemen door bijvoorbeeld aan de dispensatievoorwaarden toe te voegen, dat ook de aanspraken bij beëindiging van de deelneming tenminste gelijk dienen te zijn aan de aanspraken die bij het bedrijfspensioenfonds zouden zijn verkregen? Zo neen, waarom niet? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> PSW, artikel 8, lid 2 en 3</noot>
+         <noot nummer="2"> PSW, artikel 8. lid 4</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja. Ja. Nadeel voor werknemers van gedispenseerde ondernemingen kan bijvoorbeeld ontstaan als de gedispenseerde onderneming failliet gaat en de pensioenaanspraken van de werknemers nog niet volledig afgefinancierd zijn. Als geen dispensatie aan de onderneming zou zijn verleend en de werknemers dus deel zouden nemen aan het bedrijfspensioenfonds, zou dit nadeel bij faillissement van de onderneming niet ontstaan. De collectiviteit van ondernemingen die bij het bedrijfspensioenfonds zijn aangesloten staat immers garant voor de affinanciering van de aanspraken. </antwoord>
+      <antwoord nummer="3">De kans op benadeling bestond al voor 1987 en is bij de wijziging van de PSW niet groter of kleiner geworden. Voor de wijziging van de PSW in 1987 was het toegestaan om de verhoging van de reeds verstreken dienstjaren in toekomstige dienstjaren te financieren. De financiering van een deel van de pensioenaanspraken werd aldus uitgesteld. Bij de invoering in 1987 van het voorschrift van het toekennen van tijdsevenredige aanspraken bij tussentijdse beëindiging van de deelneming is de mogelijkheid van uitstelf inanciering ook voor de aanspraken van gewezen deelnemers in stand gehouden. Hiermee werd bewerkstelligd dat nadelen van uitstelfinanciering die manifest worden bij het optreden van financieel onvermogen van de werkgever eerlijk verdeeld worden over alle betrokkenen, te weten de gewezen deelnemers en de actieve deelnemers. </antwoord>
+      <antwoord nummer="4">Ook de Vereniging van Bedrijfspensioenfondsen (VB) heeft mijn aandacht gevraagd voor mogelijke vormen van benadeling van werknemers bij dispensatie van de verplichting tot deelneming. De VB stelt als oplossing voor dat bedrijfspensioenfondsen financieringsvoorschriften kunnen stellen bij het door de bedrijfspensioenfondsen te voeren dispensatiebeleid. In de huidige situatie mogen bedrijfspensioenfondsen bij het verlenen van vrijstelling geen andere dan nominale financieringseisen stellen. De door de VB voorgestelde voegen, kan ook gedacht worden aan het toevoegen van de procedurele voorwaarde, dat de werknemers of de vertegenwoordigers van de werknemers, voor wie dispensatie van de verplichting tot deelneming gevraagd wprdt uitdrukkelijk met het dispensatieverzoek moeten instemmen. Deze instemming overigens zal het risico dat door faillissement de niet-afgefinancierde pensioenaanspraken niet meer tot uitbetaling komen, niet verkleinen, zij het dat dan het risico uitdrukkelijk is aanvaard. !k heb het voornemen om deze problematiek tot een oplossing te brengen bij de technische herziening van de Wet betreffende verplichte deelneming in een bedrijfspensioenfonds die in de Nota aanvullende pensioenen (Tweede Kamer, vergaderjaar 1990-1991, 22 167, nr. 2, §23.3, pag.103-104) is aangekondigd. Over te maken keuzes wil ik in overleg treden met zowel de VB als ook met de Stichting voor Ondernemingspensioenfondsen en de Nederlandse Vereniging van Levensverzekeraars. Voorts zal ik de Verzekeringskamer over deze materie willen horen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

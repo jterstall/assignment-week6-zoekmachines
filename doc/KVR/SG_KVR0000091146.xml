@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19881989:0001547</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001547&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001547</item>
+         <item attribuut="Document-id">0000091146</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1988-1989 nummer 543</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden De Kok en Gualthérie van Weezel (beiden C.D.A.) over de EPS-politiek ten aanzien van Roemenië.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1988-1989 nummer 543</item>
+         <item attribuut="Jaargang">1988_1989</item>
+         <item attribuut="Vraagnummer">543</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">De Kok</persoon>
+            <persoon partij="CDA">Gualthérie van Weezel</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-04-14</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-05-12</item>
+         <item attribuut="Beginpagina">1089</item>
+         <item attribuut="Eindpagina">1090</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 8 - 1 9 8 9 " typehandeling="" typedoc=""/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 8 - 1 9 8 9 ,  A a n h a n g s e l " filenaam="" issn-nummer="ISSN 0921 • 7398 " uitgever="SDU uitgeveri| 's-Gravenhage 1989 "/>
+      <vraagdata vraagnummer="543" onderwerp="de EPS'-politiek ten aanzien van Roemenië." indiendatum="14 april 1989)">
+         <vrager partij="CDA" oorsprong="parlement">De Kok</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Gualthérie van Weezel</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie="Buitenlandse Zaken"/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1 ">Heeft de regering van de Bondsrepu- bliek Duitsland zijn ambassadeur in  Roemenië opdracht gegeven naar de  Bondsrepubliek terug te keren?  </vraag>
+      <vraag nummer="2 ">Heeft de Franse regering de bilaterale  gesprekken met Roemenië uit protest  tegen de toestand van de mensen- rechten in dat land opgeschort?  </vraag>
+      <vraag nummer="3 ">Kunt u meedelen in hoeverre in EPS  verband in deze zaak één lijn zal  worden getrokken?  </vraag>
+      <vraag nummer="4 ">Bent u bereid een en ander aan de  orde te stellen tijdens het informele  «Gymmick-overleg» in Spanje 15 en  1 6 april a.s.?  </vraag>
+      <vraag nummer="5 ">Bent u bereid de lijn van de Bondsre- publiek te volgen indien men in de  EPS niet tot een eensgezinde politiek  kan komen ten aanzien van Roemenië?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1 ">De Ambassadeur van de Bondsrepu- bliek Duitsland in Roemenië is  teruggeroepen voor consultaties.  </antwoord>
+      <antwoord nummer="2 ">De Franse regering heeft formeel een  aantal beperkingen opgelegd in de  officiële bilaterale contacten met  Roemenië.  3  t / m 5  De situatie van de mensenrechten in  Roemenië vormt onderwerp van  voortdurend overleg in EPS-verband  teneinde door gezamenlijke druk de  Roemeense regering te bewegen, de  in CVSE-verband aangegane verplich- tingen volledig na te komen. Ook in  het z.g. «Gymnich»-overleg van 1 5  en 16 april j.l. is dit onderwerp aan  de orde geweest. Op eventuele  Nederlandse maatregelen in bilateraal  kader beraad ik mij nog, waarbij ik  kan opmerken dat in de officiële  contacten met Roemenië reeds  terughoudendheid wordt betracht.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0001575</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001575&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001575</item>
+         <item attribuut="Document-id">0000004086</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 361</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Blauw (VVD) over het artikel «Boer trapt hard in uier koe».</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 361</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">361</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Blauw</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-02-17</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Bukman</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-03-10</item>
+         <item attribuut="Beginpagina">733</item>
+         <item attribuut="Eindpagina">734</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="733" allpagenumbers="733" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnslraat 's Gravenhage 1994"/>
+      <vraagdata vraagnummer="361" onderwerp="het artikel «Boer trapt hard in uier koe»." indiendatum="1994-02-17">
+         <vrager partij="VVD" oorsprong="parlement">Blauw</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-03-10">
+         <antwoorder functie="minister" ministerie="Landbouw, Natuurbeheer en Visserij">Bukman</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Kent u het artikel «Boer trapt hard in uier koe»? <voetnoot nummer="1"/>Wilt u dit zo spoedig mogelijk, bijv. door inschakeling van de AID, nader onderzoeken? Overigens heeft de directeur van de veemarkt in Purmerend tegen betrokkene maatregelen genomen door hem tijdelijk niet toe te staan op de markt te komen. </vraag>
+      <vraag nummer="4">Het onderzoek van de AID en de politie heeft ertoe geleid dat de zaak nu in handen is gelegd van de Officier van Justitie. Deelt u de mening dat, indien het wrange beeld dat bij genoemd artikel is gevoegd op waarheid berust, sancties op zijn plaats? </vraag>
+      <vraag nummer="4">Wilt u de Kamer zo spoedig mogelijk naar aanleiding van het onderzoek nader informeren? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Zie Telegraaf van ISfebruari 1994</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja. De AID heeft dadelijk in samenwerking met de politie een onderzoek ingesteld. </antwoord>
+      <antwoord nummer="3">Ja. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

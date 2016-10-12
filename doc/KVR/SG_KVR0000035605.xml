@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19891990:0001198</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001198&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001198</item>
+         <item attribuut="Document-id">0000035605</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 276</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Vermeend (P.v.d.A.) over een fiscale constructie.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 276</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">276</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Vermeend</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-12-21</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van Amelsvoort</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-01-16</item>
+         <item attribuut="Beginpagina">557</item>
+         <item attribuut="Eindpagina">558</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="557" allpagenumbers="557" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="276" onderwerp="een fiscale constructie." indiendatum="1989-12-21">
+         <vrager partij="PvdA" oorsprong="parlement">Vermeend</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="16januari 1990">
+         <antwoorder functie="staatssecretaris" ministerie="Financiën">Van Amelsvoort</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1" voetnoot="1">Heeft u kennis genomen van het feit, dat een aantal Nederlandse banken optreedt als tussenpersoon voor buitenlandse banken om klanten te werven voor een (internationale) fiscale constructie, waarmee (belasting)voordelen kunnen worden behaald? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Welke opvatting heeft u over deze constructie? Welk oordeel heeft u over de stellingname van de BDB-bank, dat de constructie nog minstens twee a drie jaar kan blijven bestaan? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" titel="BDB-Bank ontdekt maas in de wet"> Zie de Telegraaf van 16 december 1989, «BDB-Bank ontdekt maas in de wet»</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1">Ja. Bij de behandeling in de Tweede Kamer der Staten-Generaal van het wetsvoorstel dat heeft geleid tot de Wet van 18 december 1987, Stb. 583 (verruiming rentevrijstelling)' hebben de toenmalige bewindslieden onderkend, dat in bepaalde verdragssituaties uit Nederland afkomstige hypothecaire interest die wordt ontvangen door een buiten Nederland woonachtige belasting– plichtige, noch in Nederland noch in het woonland wordt belast. Bij die gelegenheid hebben deze bewinds– lieden ook de bereidheid aangegeven om, waar zich een dergelijke situatie kan voordoen, te streven naar een herziening van de desbetreffende verdragen op dit punt. Inmiddels heeft de regering met de Bondsrepu– bliek Duitsland, Luxemburg, Tsjecho– slowakije en Oostenrijk overeen– stemming bereikt over een dergelijke herziening van de belastingverdragen met die landen. Met de Nederlandse Antillen en Aruba is nog overleg gaande over de herziening van de Belastingregeling voor het Koninkrijk op dit onderdeel. Wat de termijn betreft waarbinnen deze herzie– ningen effectief kunnen zijn, dient veeleer aan een termijn van een jaar dan aan de door de BDB-bank genoemde termijnen gedacht te worden. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Kamerstuk 20 223, vergaderjaar</noot>
+      </noten>
+   </antwoorden>
+</kvr>

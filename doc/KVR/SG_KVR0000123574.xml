@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Rijksoverheid geen partij is geweest. " aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19841985:0001602</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19841985:0001602&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19841985:0001602</item>
+         <item attribuut="Document-id">0000123574</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1984-1985 nummer 482</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Jacobse (V.V.D.) over de verkoop van het vroegere reparatiedok van de RDM aan Brazilië.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1984-1985 nummer 482</item>
+         <item attribuut="Jaargang">1984_1985</item>
+         <item attribuut="Vraagnummer">482</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Jacobse</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1985-01-08</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van Aardenne</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1985-02-11</item>
+         <item attribuut="Beginpagina">959</item>
+         <item attribuut="Eindpagina">960</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1984-1985 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1984-1985, Aanhangsel 959 " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="482" onderwerp="de verkoop van het vroegere reparatiedok van de flD/Waan Brazilië." indiendatum="8 januari 1985)">
+         <vrager partij="VVD" oorsprong="parlement">Jacobse</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1 ">Tegen welke condities is het vroegere  reparatiedok van de R.D.M., dat  recentelijk voor de kust van Noord- Spanje verongelukte, uit de RSV-sur- séance verkocht aan de voormalige  Verolme-werf in Brazilië?  </vraag>
+      <vraag nummer="2 ">Kan de minister daarbij tevens inzicht  geven in de kosten van transport van  het dok van Rotterdam naar Brazilië  en in de risicoverzekeringen terzake?  </vraag>
+      <vraag nummer="3 ">Is het waar dat zowel Wilton-Fijen- oord als de Koninklijke Maatschappij  De Schelde grote belangstelling voor  dit dok hadden, dit vanwege de  specifieke afmetingen ervan?  </vraag>
+      <vraag nummer="4 ">Is bij de verkoop van het dok aan  Brazilië met deze bijzondere belang- stelling rekening gehouden?  Antwoord  Antwoord van Minister Van Aardenne  (Economische Zaken). (Ontvangen 11  februari 1985)  </vraag>
+      <vraag nummer="1 ">Het reparatiedok 10 «Prins Bernhard»  van de RDM, dat onlangs voor de kust  van Noord-Spanje verongelukte, is in  1984 samen met de RDM-dok 8 met  sloopbestemming verkocht aan de Fa.  Van Rijsdijk te Rotterdam. Deze  transactie is geschied onder de  voorwaarde, dat een eventueel  hernieuwd gebruik van deze dokken  alleen buiten Europa zou mogen  plaatsvinden.  </vraag>
+      <vraag nummer="2 ">Neen, de transactie ter zake van de  verkoop van RDM-dok 10 aan de  voormalige Verolme-werf in Brazilië  had een privaat karakter waarbij de  Rijksoverheid derhalve geen partij is  geweest.  </vraag>
+      <vraag nummer="3 ">Neen, slechts de Koninklijke Maat- schappij De Schelde heeft mede  vanwege de afmetingen va.i dok 10  (265 x 52 x 22 m) in eerste instantie  belangstelling getoond voor dok 10.  De belangstelling van Wilton-Fijenoord  betrof RDM-dok 8.  Bij de verkoop van de RDM-dokken 8  en 10 uit de RSV-surséance zijn beide  werven tot in het finale stadium in de  gelegenheid gesteld een bod op deze  dokken uit te brengen. De verkoop  van RDM-dok 10 aan Brazilië betrof  een private transactie waarin de  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

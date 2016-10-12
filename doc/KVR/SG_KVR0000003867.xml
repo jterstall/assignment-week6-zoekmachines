@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="5">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19931994:0001356</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001356&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001356</item>
+         <item attribuut="Document-id">0000003867</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 142</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Jorritsma-Lebbink en Van Erp (beiden VVD) over bouwregistratie.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 142</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">142</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Jorritsma-Lebbink</persoon>
+            <persoon partij="VVD">Van Erp</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-10-21</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Alders</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-11-19</item>
+         <item attribuut="Beginpagina">287</item>
+         <item attribuut="Eindpagina">288</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="287" allpagenumbers="287 188" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="142" onderwerp="bouwregistratie." indiendatum="1993-10-21">
+         <vrager partij="VVD" oorsprong="parlement">Jorritsma-Lebbink</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Van Erp</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-11-19">
+         <antwoorder functie="minister" ministerie="Volkshuisvesting, Ruimtelijke Ordenmg en Milieubeheer">Alders</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1">Kent u het bericht, als zouden er gemeenten zijn die zich niet houden aan de wettelijke verplichting een bouwregistratie te hanteren teneinde sluikbouw tegen te gaan?' </vraag>
+      <vraag nummer="2">Hoeveel gemeenten beschikken thans over een openbaar register? </vraag>
+      <vraag nummer="3">In welke mate komt het voor dat, als er sprake is van een bouwregistratie, gemeenten deze niet op de juiste wijze hanteren? </vraag>
+      <vraag nummer="4">Komt het voor dat gemeenten bouwvergunningen afgeven en het werk laten beginnen ondanks het feit dat het bouwregistratieformulier door de opdrachtgever niet volledig is ingevuld? Zo ja, in welke mate? </vraag>
+      <vraag nummer="5">Wat bent u voornemens te doen om te bewerkstelligen dat gemeenten zich houden aan de wettelijke verplichting inzake de bouwregistratie? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1993-10-14" bron=" Zie artikel , gepubliceerd in Cobouw" titel="Bouwregistratie zet geen zoden aan de dijk"> Zie artikel «Bouwregistratie zet geen zoden aan de dijk», gepubliceerd in Cobouw, 14 oktober 1993</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1">Ja. De resultaten van het onderzoek «Omgaan met de bouwregistratie, een onderzoek naar het juist gebruik van de bouwregistratie in Nederiand» van het NVOB zijn mij bekend. </antwoord>
+      <antwoord nummer="2">Bovenvermeld onderzoek betreft een steekproef onder 42 gemeenten uit Zeeland, Noord-Brabant en Limburg. Op basis van deze steekproef kan geen uitspraak gedaan worden over het aantal gemeenten in Nederland dat thans over een openbaar register beschikt. In verband met de reeds eerder aangekondigde evaluatie van het Bouwbesluit en de Woningwet is onder meer een landelijk onderzoek gaande naar de werking van het openbaar bouwregister. De evaluatieresultaten worden voor 1 oktober 1995 aan de Tweede Kamer gemeld. </antwoord>
+      <antwoord nummer="3">Zie  1 en 2. </antwoord>
+      <antwoord nummer="4">Zie  1 en 2. </antwoord>
+      <antwoord nummer="5">Vooralsnog worden de resultaten van de evaluatie afgewacht. Naar aanleiding van de resultaten zal bekeken worden of het nodig is maatregelen te treffen richting gemeenten en zo ja welke maatregelen van toepassing zijn </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

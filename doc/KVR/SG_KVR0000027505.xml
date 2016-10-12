@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="2">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001168</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001168&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001168</item>
+         <item attribuut="Document-id">0000027505</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 235</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Sipkes (Groen Links) over een Nederlander in een Franse gevangenis.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 235</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">235</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Sipkes</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-11-15</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-12-11</item>
+         <item attribuut="Beginpagina">473</item>
+         <item attribuut="Eindpagina">474</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="473" allpagenumbers="473" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="235" onderwerp="een Nederlander in een Franse gevangenis." indiendatum="1990-11-15">
+         <vrager partij="Groen Links" oorsprong="parlement">Sipkes</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-12-11">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">Van den Broek</antwoorder>
+         <mede-antwoorder>de staatssecretaris van Justitie</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1" voetnoot="1">Is het u bekend, dat een Nederlander die in Frankrijk tot 10 jaar cel plus een geldboete is veroordeeld wegens het smokkelen van hash in een bijzonder slechte gezondheidstoe– stand verkeert? <voetnoot nummer="1"/>Bent u bereid alles in het werk te stellen om de Franse overheid te bewegen uitvoering te geven aan de Wet Omzetting Tenuitvoerlegging Strafvonnissen ten aanzien van deze gedetineerde? </vraag>
+      <vraag nummer="3">Wilt u er bij de Franse autoriteiten op aandringen, dat de gedetineerde - in afwachting van de overbrenging naar Nederland - terstond de vereiste medische verzorging krijgt, die hij behoeft? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> De Volkskrant van 15 november jl</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1 en 3">Vanaf het moment dat bekend werd dat de betrokken gedetineerde in hongerstakmg was gegaan, heeft de ambassade te Parijs zijn gezond– heidstoestand nauwlettend gevolgd. Onlangs is evenwel de directeur van de strafinrichting waar hij thans verblijft, vernomen dat zijn gezond– heidstoestand goed is en dat hij zelfs in staat is werkzaamheden te verrichten in de werkplaats van de strafinrichting. Voor stappen bij de Franse autoriteiten zien wij derhalve onder de omstandigheden geen aanleiding. </antwoord>
+      <antwoord nummer="2">Aangezien de Franse minister van Justitie primair verantwoordelijk is voor de tenuitvoerlegging van de aan betrokkene opgelegde straf, bepaalt deze in eerste instantie of overbrenging naar Nederland mogelijk is, aangenomen dat zulks de wens is van de betrokkene. Zodra van de Franse autoriteiten op grond van het Verdrag inzake de overbrenging van gevonniste personen een formeel verzoek tot overbrenging alhier is ontvangen, zal kunnen worden gerekend op de nodige Nederlandse medewerking. Alsdan is op een dergelijk verzoek de Wet Overdracht Tenuitvoerlegging Strafvonnissen van toepassing. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19891990:0001052</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001052&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001052</item>
+         <item attribuut="Document-id">0000035459</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 131</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Zijlstra en Verspaget (beiden P.v.d.A.) over vliegtransporten van plutonium.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 131</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">131</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Zijlstra</persoon>
+            <persoon partij="PvdA">Verspaget</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-10-24</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-11-08</item>
+         <item attribuut="Beginpagina">269</item>
+         <item attribuut="Eindpagina">270</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="269" allpagenumbers="269" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 921 7398" uitgever="SDU uitgeverij 's Gravenhage 1989"/>
+      <vraagdata vraagnummer="131" onderwerp="vliegtransporten van plutonium." indiendatum="1989-10-24">
+         <vrager partij="PvdA" oorsprong="parlement">Zijlstra</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Verspaget</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1989-11-8">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">Van den Broek</antwoorder>
+         <mede-antwoorder>de minister van Volkshuis– vesting, Ruimtelijke Ordening en Milieubeheer</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Zullen volgend jaar regelmatig vlieg– transporten van plutonium vanuit het Verenigd Koninkrijk en/of Frankrijk naar Japan plaatsvinden? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Loopt de route over het Belgische respectievelijk het Nederlandse grensgebied? </vraag>
+      <vraag nummer="3">Welke gevolgen kunnen optreden bij het neerstorten van een vliegtuig dat een aanzienlijke hoeveelheid plutonium vervoert? </vraag>
+      <vraag nummer="4">Was de Nederlandse regering reeds op de hoogte van deze voorgenomen transporten? </vraag>
+      <vraag nummer="5">Is de regering bereid maatregelen te treffen eventueel in samenwerking met regeringen van de buurlanden, teneinde deze transporten tegen te gaan? Zo ja, op welke wijze? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1989-10-23" bron=" Zie de Telegraaf"> Zie de Telegraaf, 23 oktober 1989</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Plutoniumtransporten vanuit Frankrijk of het Verenigd Koninkrijk naar Japan zullen op zijn vroegst plaats– vinden in 1991. Of deze transporten per schip of per vliegtuig zullen geschieden, is nog voorwerp van onderzoek. Voor het geval gekozen zou worden voor transport per vliegtuig, hebben zowel Frankrijk, het Verenigd Koninkrijk als Japan zich verplicht dit transport via routes boven zee te laten plaatsvinden waarbij via de Noordpool naar Japan wordt gevlogen. Derhalve kan thans reeds worden gesteld dat luchttransport van plutonium niet over het grond– gebied van andere landen zal geschieden. </antwoord>
+      <antwoord nummer="3">Het onderzoek naar de mogelijkheid van plutoniumtransport per vliegtuig is o.m. gericht op de gevolgen van een vliegtuigongeval. Een van de voorwaarden voor vervoer per vliegtuig van het plutonium vanuit Frankrljk of het Verenigd Koninkrijk naar Japan is dat gebruik gemaakt moet worden van speciaal ontworpen containers, die ook bij een vliegtuigongeval intact blijven. Hiernaar wordt thans onderzoek gedaan. Zolang dergelijke containers niet beschikbaar zijn, zullen deze luchttransporten niet plaatsvinden. </antwoord>
+      <antwoord nummer="4">De voorwaarden waaronder de onderhavige plutoniumtransporten zouden kunnen plaatsvinden, vormen onderwerp van een notawisseling tussen de Europese Commissie enerzijds en de regering van de Verenigde Statan anderzijds die plaatsvond op 18 juli 1988. In het verslag betreffende ultwerking en toepassing van de verdragen tot oprichting van de EEG en Euratom over het jaar 1988' is de Tweede Kamer op de hoogte gesteld van de inhoud van deze notawisseling. </antwoord>
+      <antwoord nummer="5">Zie vraag 1 t/m 4. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Kamerstuk 21 041, nr. 1. Vergaderjaar 1988-1989</noot>
+      </noten>
+   </antwoorden>
+</kvr>

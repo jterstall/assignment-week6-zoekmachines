@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001601</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001601&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001601</item>
+         <item attribuut="Document-id">0000036008</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 678</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Eversdijk (C.D.A.) over de Schelderadar.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 678</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">678</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Eversdijk</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-05-28</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Maij-Weggen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-06-07</item>
+         <item attribuut="Beginpagina">1365</item>
+         <item attribuut="Eindpagina">1366</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1365" allpagenumbers="1365" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="678" onderwerp="de Schelderadar." indiendatum="1990-05-28">
+         <vrager partij="CDA" oorsprong="parlement">Eversdijk</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-06-7">
+         <antwoorder functie="minister" ministerie="Verkeer en Water– staat">Maij-Weggen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Is het waar, dat de Schelde-radar– keten nu en in de nabije toekomst verre van optimaal zal werken, met name door het ontbreken van voldoende geschoold personeel in België en dat o.a. de benodigde 30 nieuwe Radarwaarnemers die per 15 januari 1991 in dienst zouden moeten treden in ieder geval niet beschikbaar zullen zijn en de perso– neelswerving ten behoeve van de Schelderadar in het algemeen zéér problematisch is?' </vraag>
+      <vraag nummer="2">Is de veiligheid in het Belgisch– Nederlandse grensgebied wel voldoende gewaarborgd, zowel ten aanzien van binnenvaart als zeevaart? </vraag>
+      <vraag nummer="3">Zijn de Nederlandse en Belgische systemen, met name de Belgische Inlichtingendienst (SID) en de Nederlandse Verkeersdiensten, wel voldoende op elkaar afgestemd vooral waar het nautische zaken betreft? </vraag>
+      <vraag nummer="4">Ligt ten aanzien van begeleiding en veiligheid in feite niet een groot Nederlands gebied bovenwaarts de lijn Kruiningen-Perkpolder «braak»? Bent u bereid met uw ambtgenoot in België overleg te plegen ten einde een optimaal gebruik van de walra darketen te garanderen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Zie pag. 9 van de in vraag 1 bedoelde nieuwsbrief</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1">Het Vlaamse Gewest zal per 15 januari 1991 zeer waarschijnlijk niet de benodigde 30 nieuwe radarwaar– nemers ter beschikking hebben. Er is echter door het Vlaamse Gewest aan het Ministerie van Landsverdediging een verzoek gericht om tijdelijk (gedurende één of meer jaren) radar– personeel ter beschikking te stellen. </antwoord>
+      <antwoord nummer="2">Ja, er is zeker sprake van een voldoende veilige situatie. Ovengens is, gezien de infrastructuur van het gehele systeem, de situatie zodanig dat bij een minimale bezetting reeds een adequaat niveau van veiligheid voor de totale scheepvaart wordt verkregen. </antwoord>
+      <antwoord nummer="3">Na ingebruikneming van de Schelde– radarketen maken de Belgische inlichtingendienst (SID) en de Neder– landse Verkeersdienst gebruik van èén - over de landsgrens heen - geïntegreerd systeem. Dan zullen ook de procecdures, volgens welke vanaf de wal contacten met de scheepvaart worden onderhouden, volledig op elkaar zijn afgesteld. </antwoord>
+      <antwoord nummer="4">De Schelderadarketen bestrijkt de gehele Westerschelde, dus ook het bovenstroomse gebied. Voor wat betreft de verkeersafwikkeling bestaat er daarmee geen onder– scheid tusseri het gebied boven– waarts en benedenwaarts de lijn Kruiningen-Perkpolder. </antwoord>
+      <antwoord nummer="5">Ja, ik ben bereid om zonodig met mijn ambtgenoot in België overleg te plegen. Overigens is er momenteel op hoog ambtelijk nivo onder meer in de Permanente Commissie van Toezicht op de Scheldevaart reeds periodiek overleg, onder meer over een optimaal gebruik van de walra– darketen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

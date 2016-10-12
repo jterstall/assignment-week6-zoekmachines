@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0001737</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001737&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001737</item>
+         <item attribuut="Document-id">0000004248</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 523</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Jorritsma-Lebbink (VVD) over het verminderen van het autoverkeer naar Schiphol.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 523</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">523</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Jorritsma-Lebbink</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-05-16</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Maij-Weggen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-05-30</item>
+         <item attribuut="Beginpagina">1063</item>
+         <item attribuut="Eindpagina">1064</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1063" allpagenumbers="1063" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat s Gravenhage 1994"/>
+      <vraagdata vraagnummer="523" onderwerp="het verminderen van het autoverkeer naar Schiphol." indiendatum="1994-05-16">
+         <vrager partij="VVD" oorsprong="parlement">Jorritsma-Lebbink</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-05-30">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">Maij-Weggen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1">Krijgen de NZH en CN dit jaar een extra vergoeding (2,2 mln gulden) boven de normale netnormering voor busvervoer naar Schiphol? </vraag>
+      <vraag nummer="2">Krijgen de Nederlandse Spoorwegen een eenmalige bijdrage (1,5 mln gulden) voor een incheckfaciliteit en service ten behoeve van Schipholvervoer op het traject Enschede-Schiphol? </vraag>
+      <vraag nummer="3">Kent u het project Schipholbus van de firma Sijpkes, de lijndienst tussen Paterswolde, Drachten en Schiphol, waarbij in Paterswolde een incheckbalie is ingericht en waarvoor een openbaar vervoer vergunning is afgegeven? </vraag>
+      <vraag nummer="4">Deelt u de mening dat de hiervoor genoemde diensten alle bedoeld zijn om minder autoverkeer naar Schiphol te genereren? </vraag>
+      <vraag nummer="5">Waarom kan het in vraag 3 genoemde project op geen enkele manier rekenen op bijvoorbeeld een financiële bijdrage in de aanloopfase, waarna het kostendekkend zou moeten worden? Hoe verhoudt zich dat tot de bijdragen aan de projecten genoemd in de vragen 1 en 2? </vraag>
+      <vraag nummer="6">Wilt u bevorderen, dat ook het Schipholbus-project een betere kans van slagen krijgt en dus een grotere bijdrage kan leveren aan het verminderen van het autoverkeer tussen Groningen, Friesland en Schiphol? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1">De NZH, CN en de VAD ontvangen in 1994 een eenmalige extra rijksbijdrage van in totaal f 2,2 mln. Doel daarvan is om, ondanks de bezuinigingen in het kader van netnormering, het voorzieningenniveau van het interlokaal openbaar vervoer van en naar Schiphol aantrekkelijk te houden voor automobilisten die de overstap naar het openbaar vervoer overwegen. Vanaf 1995 krijgen NZH, CN en de VAD uitsluitend de vraagafhankelijke rijksbijdrage op basis van netnormering. </antwoord>
+      <antwoord nummer="2">In 1993 is een eenmalige rijksbijdrage toegekend van f 1,4 mln. voor het experiment Schiphol Rail Services. Dit gezamenlijk door de NS, KLM en Luchthaven Schiphol opgezette experiment dat een op de luchtreiziger toegespitste serviceverbetering beoogde, heeft inmiddels plaatsgevonden op het treintraject Enschedé-Schiphol. </antwoord>
+      <antwoord nummer="3">Het project Schipholbus van de firma Sijpkes is mij bekend. </antwoord>
+      <antwoord nummer="4">Het busvervoer rond Schiphol (project 1) en de betere service aan NS-reizigers (project 2) zijn expliciet opgezet met het oog op een verschuiving van de modal split ten gunste van het openbaar vervoer. Het project Schipholbus is naar mijn mening meer ingegeven door het streven van Sijpkes naar een optimalisatie van zijn exploitatie. De aantallen reizigers zijn te gering om dit project te laten vallen onder de termen van een gewenste verschuiving van automobiliteit naar het gebruik van openbaar vervoer. </antwoord>
+      <antwoord nummer="5">Er vindt reeds overleg plaats tussen de regionale dienst van RWS-Noord en Sijpkes over de wenselijkheid van een ondersteuning door de overheid. Daarbij wordt overigens niet gedacht aan een bijdrage op het gebied van de directe exploitatie, maar meer aan een bijdrage in termen van marktonderzoek en in het verlengde daarvan eventueel een bijdrage in bij voorbeeld promotie. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

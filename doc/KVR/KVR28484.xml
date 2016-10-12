@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="9">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Duyvendak (GroenLinks) aan de staatssecretaris van Verkeer en Waterstaat over de OV-chipkaart. (Ingezonden 6 juni 2007); Antwoord</item>
+         <item attribuut="Bestand">16Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR28484
+</item>
+         <item attribuut="Inhoud">Vragen over de problemen met de automaten. Er zijn veel storingen en ook blijkt de software niet goed ontworpen (Volkskrant, 4 juni 2007).</item>
+         <item attribuut="Rubriek">Geld- en kapitaalmarkt (Betalingsverkeer) Verkeer, vervoer en waterstaat (Openbaar vervoer)</item>
+         <item attribuut="Trefwoorden">Chipkaarten Openbaar vervoer</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2006-2007, nr. 1873, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2060717280</item>
+         <item attribuut="Afkomstig_van">Verkeer en Waterstaat (VW)</item>
+         <item attribuut="Indiener">
+            <persoon partij="GroenLinks">Duyvendak</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2007-06-22</item>
+         <item attribuut="Datum_indiening">2007-06-06</item>
+         <item attribuut="Document-id">KVR28484</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2006–2007" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="3959" allpagenumbers="3959 3960" vetnummer="2060717280" code="0607tkkvr1873" lopendefooter="Tweede Kamer, vergaderjaar 2006–2007, Aanhangsel" filenaam="KVR28484" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2007"/>
+      <vraagdata vraagnummer="1873" onderwerp="" indiendatum="2007-06-6">
+         <vrager partij="GroenLinks" oorsprong="parlement">Duyvendak</vrager>
+         <vraagt-aan>de staatssecretaris van Verkeer en Waterstaat</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2007-06-22">
+         <antwoorder functie="staatssecretaris" ministerie="Verkeer en Waterstaat">Huizinga-Heringa</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="9">
+      <vraag nummer="1" voetnoot="1">Bent u bekend met het artikel «Automaten OV-chipkaart op de schop»? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Klopt het dat de automaten nog (te) veel storingen geven? Om hoeveel storingen gaat het? </vraag>
+      <vraag nummer="3">Is het waar dat de automaten bovendien niet goed zijn ontworpen? </vraag>
+      <vraag nummer="4">Hoeveel kost de aanpassing van de software in de automaten? Wie betaalt dit? </vraag>
+      <vraag nummer="5">Welke maatregelen neemt u om in de toekomst problemen met de OV-chipkaart automaten te voorkomen? </vraag>
+      <vraag nummer="6" voetnoot="2">Was u ten tijde van uw brief van 12 april 2007 <voetnoot nummer="2"/>waarin u nog meldde «De verantwoordelijke partijen hebben mij gemeld dat de systeemtest tot nu toe voorspoedig verloopt», op de hoogte van de problemen met de automaten. Zo neen, wanneer bent u hierover geïnformeerd? </vraag>
+      <vraag nummer="7">Wat zijn de uitkomsten van de systeemtest («Full System Acceptance»)? </vraag>
+      <vraag nummer="8">Wat zijn de uitkomsten van het bestuurlijk overleg van 10 mei 2007? Is hierbij meer duidelijkheid gekomen ontrent de tijdige implementatie van de kaart? </vraag>
+      <vraag nummer="9">Bent u van oordeel dat het tijd wordt dat er een landelijke regie op de introductie van de OV-chipkaart wordt gevoerd? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="2007-06-4" bron="de Volkskrant">de Volkskrant, 4 juni 2007</noot>
+         <noot nummer="1">DGP/MDV/u.07.00797</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="9">
+      <antwoord nummer="1">Ja, ik ben bekend met het artikel. </antwoord>
+      <antwoord nummer="2">De RET is momenteel nog niet geheel tevreden over de beschikbaarheid van de verkoop- en oplaadautomaten. Op dit moment accepteert RET een beschikbaarheid percentage van 94%, met als doelstelling te komen tot een minimale beschikbaarheid van 98% welke overeenkomt met de contractuele voorwaarden met de leverancier. Overigens wanneer een storing optreedt, betekent dat over het algemeen dat slechts een deel van de functionaliteit niet beschikbaar is (bijvoorbeeld het niet kunnen kopen van een wegwerpkaart, maar wel kunnen opladen en kopen anonieme kaart). In april 2007 heeft RET een grotere storing gehad met betaling via bankpas op de verkoop- en oplaadautomaten. Deze storing is opgelost door het plaatsen van aangepaste software. </antwoord>
+      <antwoord nummer="3">Wanneer reizigers reissaldo of een product op hun OV-chipkaart laden, wordt bij een betaling met de bankpas, eerst het geld afgeschreven van de bankrekening en vervolgens het reissaldo of product op de OV-chipkaart geladen. Op het scherm van de verkoop- en oplaadautomaat staat op dat moment aangegeven dat het laadproces bezig is en de kaart in het oplaadbakje dient blijven te liggen. In de praktijk komt het echter voor dat reizigers hun OV-chipkaart te vroeg uit de automaat halen. Dit komt omdat de aandacht niet meer op het scherm gericht is, maar op de betaalterminal. De kaart is dan nog niet geladen, maar het bedrag wordt wel van de bankrekening gehaald. De reiziger kan bij de verkoop- en informatiebalies het bedrag terugkrijgen. Dit ongemak is het gevolg van een ontwerpfout. Om dit ongemak weg te nemen zal het betaal- en oplaadproces aangepast worden. Op dit moment wordt gewerkt aan de oplossing om het reissaldo of product eerst op de kaart te laden, voordat de betaaltransactie doorgestuurd wordt naar de bank. </antwoord>
+      <antwoord nummer="4">De afspraken over de aanpassingen van de automaten zijn het gevolg van onderling overleg tussen de leverancier van de automaten en de RET. Het overleg heeft geleid tot een financiële afspraak waar beide partijen zich in kunnen vinden en sluit aan bij eerder gemaakte contractuele afspraken tussen RET en leverancier. </antwoord>
+      <antwoord nummer="5">In het contract tussen OV-bedrijf en leverancier wordt de beschikbaarheid van apparatuur geregeld. Voor de verkoop- en oplaadapparatuur van RET geldt een minimale beschikbaarheid van 98%. Indien niet voldaan wordt aan deze contractuele afspraak met de leverancier, treffen de vervoerders maatregelen die er toe moeten leiden om dit niveau van beschikbaarheid wel te bereiken. </antwoord>
+      <antwoord nummer="6">De beschikbaarheid van de automaten (opladen, afhalen) maakt onderdeel uit van de Full Systems Acceptance. De terugmeldingen uit de markt (vervoerders en TLS) voorafgaand aan het opstellen van mijn brief van april 2007 waren positief. Zowel het benodigde aantal transacties als het aantal fouten van het systeem voldeden bijna aan de norm en er was vertrouwen dat de normen binnen afzienbare tijd gehaald zouden worden. Toentertijd was er daarom geen reden te veronderstellen dat er zich grote problemen met de automaten zouden voordoen. Zoals uit mijn antwoorden op de vorige vragen blijkt, worden de problemen die zich voordoen voldoende beheerst. </antwoord>
+      <antwoord nummer="7">Voor het antwoord op deze vraag verwijs ik u naar de brief (23 645, nr. 161). </antwoord>
+      <antwoord nummer="8">Voor het antwoord op deze vraag verwijs ik u naar de brief (23 645, nr. 161). </antwoord>
+      <antwoord nummer="9">Ik voer regie en ga daar ook mee door. Het OV-chipkaartproject heeft mijn voortdurende aandacht. Vooral op onderwerpen die op het kritische (tijd)pad liggen, zal ik meer gaan sturen. Hiervoor verwijs ik verder naar mijn brief. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

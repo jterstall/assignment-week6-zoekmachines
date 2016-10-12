@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="4">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19941995:0000563</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000563&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000563</item>
+         <item attribuut="Document-id">0000000563</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1994-1995 nummer 228</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Van Rey en H.G.J. Kamp (beiden VVD) over het V.N. Verdrag wegverkeer.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1994-1995 nummer 228</item>
+         <item attribuut="Jaargang">1994_1995</item>
+         <item attribuut="Vraagnummer">228</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Van Rey</persoon>
+            <persoon>Kamp H.G.J.</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-10-21</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Jorritsma-Lebbink</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-11-30</item>
+         <item attribuut="Beginpagina">457</item>
+         <item attribuut="Eindpagina">458</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1994-1995" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="457" allpagenumbers="457" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1994-1995, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's-Gravenhage 1994"/>
+      <vraagdata vraagnummer="228" onderwerp="het V.N. Verdrag wegverkeer." indiendatum="1994-10-21">
+         <vrager partij="VVD" oorsprong="parlement">Van Rey</vrager>
+         <vrager partij="" oorsprong="parlement">Kamp H.G.J.</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="30 november 1994), zie ook aanhangsel Handelingen nr. 170, vergaderjaar 1994-1995).">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">Jorritsma-Lebbink</antwoorder>
+         <mede-antwoorder>de minister van Justitie</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Is het Nader Rapport inzake het V.N. Verdrag wegverkeer (Wenen, 8 november 1968) inmiddels uitgebracht, zoals aangekondigd in de rapportage aan de Tweede Kamer over verdragen? <voetnoot nummer="1"/> Wanneer zal de ontwerp goedkeuringswet worden ingediend? </vraag>
+      <vraag nummer="2">Waarom heeft het zo lang geduurd alvorens deze procedure in gang is gezet? </vraag>
+      <vraag nummer="3">Mogen in Nederland woonachtige personen, die rijden in een in Duitsland geregistreerde auto, na de inwerkingtreding van het verdrag met die auto een in Nederland geregistreerde caravan trekken? </vraag>
+      <vraag nummer="4">Bent u, vooruitlopend op de inwerkingtreding van het verdrag, bereid te gedogen dat bedoelde personen dit al doen en daartoe de Duitse kentekenplaat op de caravan bevestigen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Kamerstuk 23 400 V, nr. 65 blz. 3</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Neen. De ontwerp-goedkeuringswet zal naar verwachting in het eerste kwartaal van 1995 kunnen worden ingediend. </antwoord>
+      <antwoord nummer="2">De werkzaamheden van het nader rapport naar aanleiding van het door de Raad van state over de ontwerp-goedkeuringswet uitgebrachte advies liggen op dit moment stil in verband met de vervanging, met ingang van 1 januari 1995, van de Wegenverkeerswet en de op de Wegenverkeerswet gebaseerde algemene maatregelen van bestuur en ministeriële regelingen door de Wegenverkeerswet 1994 en overeenkomstige, op de wet gebaseerde algemene maatregelen van bestuur en ministeriële regelingen. Nu bedoelde werkzaamheden hun voltooiing naderen, kan de samenstelling ter hand worden genomen van de naar aanleiding van het advies van de Raad van State aan de memorie van toelichting toe te voegen transponeringstabel, waarin is aangegeven waar de bepalingen van de Verkeersverdragen in de Nederlandse wetgeving zijn of zullen worden geïmplementeerd en kan het nader rapport worden afgerond. </antwoord>
+      <antwoord nummer="3">Ja. </antwoord>
+      <antwoord nummer="4"/>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19871988:0001345</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001345&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001345</item>
+         <item attribuut="Document-id">0000099059</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1987-1988 nummer 404</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van Es (P.S.P.) over het schieten op actievoerders bij militaire objecten.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1987-1988 nummer 404</item>
+         <item attribuut="Jaargang">1987_1988</item>
+         <item attribuut="Vraagnummer">404</item>
+         <item attribuut="Indiener">
+            <persoon partij="PSP">Van Es</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1988-02-04</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van Eekelen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1988-03-17</item>
+         <item attribuut="Beginpagina">811</item>
+         <item attribuut="Eindpagina">812</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 7 - 1 9 8 8 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 7 - 1 9 8 8 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="404" onderwerp="het schieten op actievoerders bij militaire objecten." indiendatum="4 februari 1988)">
+         <vrager partij="PSP" oorsprong="parlement">Van Es</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1 ">Sinds wanneer mag geschoten  worden op actievoerders, die  verdacht worden van vernieling en  schending van de openbare orde? </vraag>
+      <vraag nummer="1 "/>
+      <vraag nummer="2 ">Hoe vindt de toetsing plaats aan de  beginselen van evenredigheid  wanneer in de instructies van het  bewakend personeel van militaire  objecten klaarblijkelijk geen onder- scheid  w o r d t gemaakt tussen  militaire aanvallen, gewapende  roofovervallen en acties van demon- stranten? </vraag>
+      <vraag nummer="2 "/>
+      <vraag nummer="3 ">Acht u het juist, dat optreden tegen  actievoerders, ook bij militaire  objecten, plaatsvindt in het kader van  handhaving van de openbare orde en  opsporing van strafbare feiten en het  bewakend personeel zich dientenge- volge te houden heeft aan het  Wetboek van Strafvordering?  Zo neen, waarom niet?  Zo ja, bent u bereid de instructies  aan het bewakend personeel bij  militaire objecten aan te passen?  </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Zie de uitlatingen van kolonel H. Geerlings  in de Volkskrant van 3 februari 1988 </noot>
+         <noot nummer="2"> Aanhangsel Handelingen nr. 258 </noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="3 ">Neen. De bewaking van militaire  objecten is niet gericht op de  handhaving van de openbare orde en  de opsporing van strafbare feiten.  Het eventueel gebruik van geweld bij  deze bewaking is wel gebonden aan  de eerder genoemde algemeen  geldende rechtsbeginselen van  proportionaliteit en subsidiariteit.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

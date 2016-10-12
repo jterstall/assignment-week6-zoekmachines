@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001822</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001822&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001822</item>
+         <item attribuut="Document-id">0000107597</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 789</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Tommel en Eisma (beiden D66) over de inrichting van het militaire oefenterrein te Hooghalen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 789</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">789</item>
+         <item attribuut="Indiener">
+            <persoon>Tommel</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-02-10</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Braks</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-06-22</item>
+         <item attribuut="Beginpagina">1567</item>
+         <item attribuut="Eindpagina">1568</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 6 - 1 9 8 7 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="789" onderwerp="de inrichting van het militaire oefenterrein te Hooghalen." indiendatum="10 februari 1987)">
+         <vrager partij="" oorsprong="parlement">Tommel</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="22 juni 1987)">
+         <antwoorder functie="minister" ministerie="Landbouw en Visserij">Braks</antwoorder>
+         <mede-antwoorder>de Staatssecretaris van Defensie</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1 ">Hoever is de besluitvorming gevor- derd over de inrichting van het  militaire oefenterrein te Hooghalen?  </vraag>
+      <vraag nummer="2 ">Beseffen de bewindslieden dat de  omzetting van het desbetreffende  gebied in oefenterrein met zich mee- brengt, dat de melkaanvoer van de  zuivelfabriek ACMESA te Assen  aanzienlijk zal verminderen?  </vraag>
+      <vraag nummer="3 ">In welke vorm is overleg met het  bedrijf gepleegd over de gevolgen  en over de wijze waarop compensatie  zal worden geboden? Wat is hiervan  het resultaat?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1 ">Op dit moment wordt een aantal  varianten voor de inrichting van het  eenheidsoefenterrein (EOT) De Haar  onderzocht op de gevolgen voor het  milieu in het kader van een milieu-ef- fect-rapportage (MER). Mede aan de  hand van dit rapport zal de definitieve  begrenzing van het EOT worden  bepaald en worden vastgelegd in het  streek- en bestemmingsplan.  2 en 3  Tijdens de in het kader van de  totstandkoming van het Structuur- schema Militaire Terreinen gehouden  inspraakprocedure over de inrichting  van twee eenheidsoefenterreinen in  het gebied De Haar/Laaghalerveen is  door de coöperatieve zuivelindustrie  Acmesa gewezen op de dalende  melkaanvoer. Op grond van de  uitkomsten van de inspraak heeft de  regering in 1984 na afweging van  met name natuurbelangen en  agrarische belangen besloten één  EOT in het landbouwgebied De  Haar/Laaghalerveen in te richten en  één EOT op het terrein De Strubben/  Kniphorstbos in de gemeente Anloo.  Indien het toekomstige oefenterrein  zal zijn gelegen binnen het melkwin- ningsgebied van de zuivelfabriek  Acmesa kan dit een geringe vermin- dering in de melkaanvoer tot gevolg  hebben. Dit kan echter pas beoordeeld  worden na de definitieve vaststelling  van de begrenzing van het EOT.  Mogelijkheden voor schadevergoe- ding, zo deze zich in het onderhavige  geval al mochten voordoen, zijn  derhalve thans niet aan de orde.  Overigens  w o r d t in het kader van  de voorbereiding van het desbetref- fende bestemmingsplan de mogelijk  heden tot inspraak geboden. VervoL  gens zal het bestemmingsplan de  gebruikelijke wettelijke procedure  doorlopen.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

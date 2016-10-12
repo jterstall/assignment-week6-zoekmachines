@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001098</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001098&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001098</item>
+         <item attribuut="Document-id">0000011402</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 167</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Tommel en Eisma (beiden D66) over onderzoek naar dumpingen van radioactief afval bij Nova Zembla.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 167</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">167</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Tommel</persoon>
+            <persoon partij="D66">Eisma</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-10-30</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-11-23</item>
+         <item attribuut="Beginpagina">345</item>
+         <item attribuut="Eindpagina">346</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="345" allpagenumbers="345" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="167" onderwerp="onderzoek naar dumpingen van radioactief afval bij Nova Zembla." indiendatum="1992-10-30">
+         <vrager partij="D66" oorsprong="parlement">Tommel</vrager>
+         <vrager partij="D66" oorsprong="parlement">Eisma</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-11-23">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">Van den Broek</antwoorder>
+         <mede-antwoorder>de ministers van Verkeer en Waterstaat en van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Is het u bekend, dat een Noors/Russisch wetenschappelijke expeditie in augustus van dit jaar de toegang is geweigerd tot voormalige dumpplaatsen van radioactief afval bij Nova Zembla? </vraag>
+      <vraag nummer="2">Bent u bereid pogmgen in het werk te stellen om de wateren rond Nova Zembla open te krijgen voor onafhankelijk wetenschappelijk onderzoek naar de exacte aard en omvang van de dumpingen? </vraag>
+      <vraag nummer="3">Bent u bereid tijdens de komende vergadering van de lidstaten van het London Dumping Verdrag van 9 tot en met 13 november in Londen aan te dringen op een dergelijk onderzoek onder internationaal toezicht? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Het is de Regering bekend dat de Noors/Russisch wetenschappelijke expeditie die van 14 augustus tot 10 september onderzoek heeft gedaan in de Barentsz– en Karazee bij Nova Zembla, van de Russische autoriteiten geen toestemming heeft gekregen om binnen de twaalf-mijlszone rond Nova Zembla onderzoek te verrichten. Van de metingen die buiten de twaalf-mijlszone rond Nova Zembla zijn verricht, ging inmiddels een eerste tussenrapport de Voorzitter van de Tweede Kamer toe als bijlage bij antwoorden op eerdere vragen over het incident met het Greenpeace-schip Solo in de buurt van Nova Zembla, ingediend door de leden Willems en Sipkes.' </antwoord>
+      <antwoord nummer="2 en 3">De Regering onderschrijft het belang van gedegen onafhankelijk wetenschappelijk onderzoek naar de omvang en de gevolgen van dumpingen van radio-actief afval, ook binnen de twaalf-mijlszone rond Nova Zembla. Een dergelijk onderzoek zou, zoals reeds tot uitdrukking mocht worden gebracht bij de beantwoording van eerdere vragen, bij voorkeur in internationaal kader dienen te geschieden De Nederlandse delegatie naar de consultatieve vergadering van de lidstaten van de London Dumping Convention (LDC), 9 tot en met 13 november te Londen, heeft uitbreiding van het Noors/Russische onderzoek, waaraan door de IAEA wordt deelgenomen, naar dumping van radioactief afval bij Nova Zembla ondersteund. In deze vergadering is de Noors/Russische expeditie, die tijdens de vorige consultatieve vergadering van de lidstaten van de LDC in november 1991 werd aangekondigd, besproken aan de hand van het reeds genoemde tussenrapport dat t.b.v. van de consultatieve vergaderlng aan alle partijen bij de LDC werd toegezonden. Op Nederlands voorstel is een reeks aanbevelingen voor verdere acties terzake door de consultatieve vergadering aangenomen. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Aanhangsel Handelingen nr. 139, Vergaderjaar 1992-1993</noot>
+      </noten>
+   </antwoorden>
+</kvr>

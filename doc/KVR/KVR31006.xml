@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="6">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Gerkens (SP) aan de staatssecretaris van Onderwijs, Cultuur en Wetenschap, mevrouw Van Bijsterveldt-Vliegenthart, en de minister van Binnenlandse Zaken en Koninkrijksrelaties over het bericht dat computersystemen van scholen. (Ingezonden 24 januari 2008); Antwoord</item>
+         <item attribuut="Bestand">17Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR31006
+</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding bericht (Algemeen Dagblad, 21 januari 2008) dat computersystemen op scholen relatief gemakkelijk te kraken zijn en dat eenzelfde onderzoek drie jaar geleden dezelfde resultaten liet zien. Indiener vermoedt dat deze problemen het gevolg zijn van een gebrek aan financiële middelen in het onderwijs.</item>
+         <item attribuut="Rubriek">Basisonderwijs (Bekostiging basisonderwijs) Beroepsonderwijs en volwasseneneducatie (Bekostiging beroepsonderwijs en volwasseneneducatie) Communicatie, media en informatievoorziening (Hard- en software) Voortgezet onderwijs (Bekostiging voortgezet onderwijs)</item>
+         <item attribuut="Trefwoorden">Bekostiging basisonderwijs Bekostiging speciaal onderwijs Bekostiging voortgezet onderwijs Computernetwerken</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2007-2008, nr. 1444, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070809460</item>
+         <item attribuut="Afkomstig_van">Onderwijs, Cultuur en Wetenschap (OCW)</item>
+         <item attribuut="Indiener">
+            <persoon partij="SP">Gerkens</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2008-02-26</item>
+         <item attribuut="Datum_indiening">2008-01-24</item>
+         <item attribuut="Document-id">KVR31006</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="3093" allpagenumbers="3093 3094" vetnummer="2070809460" code="0708tkkvr1444" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Aanhangsel" filenaam="KVR31006" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="1444" onderwerp="" indiendatum="2008-01-24">
+         <vrager partij="SP" oorsprong="parlement">Gerkens</vrager>
+         <vraagt-aan>de staatssecretaris van Onderwijs, Cultuur en Wetenschap, mevrouw Van Bijsterveldt-Vliegenthart, en de minister van Binnenlandse Zaken en Koninkrijksrelaties</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2008-02-26">
+         <antwoorder functie="staatssecretaris" ministerie="Onderwijs, Cultuur en Wetenschap">Van Bijsterveldt-Vliegenthart</antwoorder>
+         <mede-antwoorder>de staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1" voetnoot="1">Wat is uw oordeel over het bericht «Computersysteem scholen vaak zo lek als een mandje»? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Deelt u de conclusies van de Stichting Kennisnet, die stelt dat veel computersystemen van scholen relatief gemakkelijk zijn te kraken en dat veel scholen grote beveiligingsrisico’s lopen? Zo neen, waarom niet? </vraag>
+      <vraag nummer="3">Wat is uw mening over het feit dat drie jaar geleden een zelfde onderzoek dezelfde resultaten liet zien? Welke maatregelen zijn de afgelopen drie jaar genomen om de beveiliging te verbeteren? Zo neen, waarom niet? </vraag>
+      <vraag nummer="4">Onderschrijft u de opinie dat de computersystemen in het onderwijs gemiddeld slechter zijn beveiligd dan in het bedrijfsleven en dat dit vooral wordt veroorzaakt door een gebrek aan financiële middelen in het onderwijs? Wilt u uw antwoord uitleggen? </vraag>
+      <vraag nummer="5">Deelt u de mening dat, als de overheid het gebruik door scholen van digitale registratiesystemen stimuleert zoals de incidentenregistratie en het leerlingvolgsysteem, zij de scholen moet ondersteunen met voldoende middelen en kennis om deze registratiesystemen te beveiligen? Zo ja, wat gaat u doen om dit te bewerkstelligen? Zo neen, wat is uw visie hierop? </vraag>
+      <vraag nummer="6">Welke maatregelen gaat u nemen om het probleem van onveilige computersystemen op scholen op te lossen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="2008-01-21" bron=", Algemeen Dagblad" titel="Computersysteem zo lek als een mandje">«Computersysteem zo lek als een mandje», Algemeen Dagblad, 21 januari 2008</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="6">
+      <antwoord nummer="1">Goed dat er aandacht voor is, zodat scholen alert zijn op de problematiek. </antwoord>
+      <antwoord nummer="2" voetnoot="1">Scholen lopen, net als andere organisaties, beveiligingsrisico’s. Uit het rapport Ethical Hack <voetnoot nummer="1"/>blijkt dat het op een aantal onderzochte scholen (5 van 14) mogelijk is om het netwerk binnen te komen. Of dit ook de leerlingenadministratie zelf betreft is niet vast te stellen. Dit onderzoek betreft slechts een beperkt aantal scholen. Het is dan ook niet mogelijk om generieke uitspraken over alle PO en VO scholen te doen. De examenbestanden, beantwoording en cijfers bij de digitale examens zijn vervat in een gesloten bestand dat beveiligd is door encryptie. Deze bestanden zijn 1 1/2 jaar geleden getest door een extern hackerbureau en veilig bevonden. Als leerlingen al de toegang kunnen forceren dan is de informatie dus onleesbaar. De beveiliging van de examens in brede zin, waaronder het gevaar van hacken, is een continu aandachtspunt in het overleg tussen CEVO en OCW. Door de veranderende ict-omgeving zullen steeds nieuwe maatregelen noodzakelijk zijn. De verantwoordelijkheid van de hiervoor vereiste ict-inrichting blijft bij de scholen. </antwoord>
+      <antwoord nummer="3">Mede gezien de snelle ontwikkelingen op ICT-terrein blijft het zaak om waakzaam te blijven. Gegeven de eigen verantwoordelijkheid van de scholen zijn de maatregelen die worden genomen vooral gericht op het vergroten van bewustzijn en expertise op scholen. Scholen die hebben meegedaan aan de Ethical Hack hebben maatregelen getroffen om de bij de test naar voren gekomen punten te verbeteren. Er is geen aparte wet- en regelgeving nodig voor leerlingen die inbreken op een computersysteem. Net als bij «gewone» inbraken gelden voor leerlingen dezelfde regels als voor anderen. </antwoord>
+      <antwoord nummer="4">Het is niet mogelijk een generieke uitspraak te doen over de beveiliging van computersystemen in het onderwijs en in het bedrijfsleven. Het goed beveiligen van computersystemen hoeft niet veel te kosten. Er zijn veel goede en goedkope (soms gratis) beveiligingsoplossingen beschikbaar. Hier maken steeds meer scholen gebruik van. </antwoord>
+      <antwoord nummer="5">De onderwijsinstellingen in het PO, VO en BVE ontvangen een bedrag van ruim € 80 euro per leerling in de lumpsum voor ICT. Dat is circa 90% van de ict middelen die ik beschikbaar heb. Op grond van de Wet Bescherming Persoonsgegevens zijn scholen al verplicht om afdoende maatregelen te treffen ter beveiliging van de systemen waarin ze persoonsgegevens verwerken. Extra wettelijke maatregelen zijn niet nodig. Het is vooral aan de scholen zelf om bij de inrichting van de ict systemen waarvoor zij kiezen afdoende maatregelen te treffen om de veiligheid van de gegevens te waarborgen. Daarvoor kunnen ze te rade bij Stichting Kennisnet of de leverancier van het computersysteem. De vormgeving van de incidentenregistratie staat nog in de kinderschoenen. Dit aandachtspunt zal worden meegenomen in het ontwikkeltraject van de incidentenregistratie. </antwoord>
+      <antwoord nummer="6">Uitgangspunt van mijn beleid is dat scholen zelf verantwoordelijk zijn voor een deugdelijk en veilig ict beleid. Stichting Kennisnet, gefinancierd door OCW, helpt scholen bij het efficiënt en effectief gebruik van ICT. Eén aspect hiervan is scholen informeren op het gebied van de beveiliging van ICT. Het uitgevoerde onderzoek sluit hier ook bij aan. Dit onderzoek biedt concrete aanbevelingen voor scholen om veilig om te gaan met het netwerk. Andere voorbeelden zijn http://www.surfnetkennisnetproject.nl/ toepassingen/warp </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1">Zie: http://www.ictopschool.net/software/veiligheid/ethical-hack</noot>
+      </noten>
+   </antwoorden>
+</kvr>

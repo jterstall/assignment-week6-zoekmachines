@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="7">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001310</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001310&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001310</item>
+         <item attribuut="Document-id">0000011614</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 380</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Van Heemst, Swildens-Rozendaal, Ruigrok-Verreijt en Lilipaly (allen PvdA) over het Plan Aanpak Nationaal Circuit Zandvoort.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 380</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">380</item>
+         <item attribuut="Indiener">
+            <persoon>Van Heemst</persoon>
+            <persoon>Swildens-Rozendaal</persoon>
+            <persoon>Ruigrok-Verreijt</persoon>
+            <persoon>Lilipaly</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-01-28</item>
+         <item attribuut="Beantwoorder">
+            <persoon>d'Ancona</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-03-02</item>
+         <item attribuut="Beginpagina">779</item>
+         <item attribuut="Eindpagina">780</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="779" allpagenumbers="779 780" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="'s Gravenhage 1993"/>
+      <vraagdata vraagnummer="380" onderwerp="het Plan Aanpak Nationaal Circuit Zandvoort." indiendatum="1993-01-28">
+         <vrager partij="" oorsprong="parlement">Van Heemst</vrager>
+         <vrager partij="" oorsprong="parlement">Swildens-Rozendaal</vrager>
+         <vrager partij="" oorsprong="parlement">Ruigrok-Verreijt</vrager>
+         <vrager partij="" oorsprong="parlement">Lilipaly</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-03-2">
+         <antwoorder functie="minister" ministerie="Welzijn, Volksgezondheid en Cultuur">d'Ancona</antwoorder>
+         <mede-antwoorder>de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en de staatssecretaris van Landbouw, Natuurbeheer en Visserij</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1" voetnoot="1">Herinnert u zich de door de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer geuite verwachting, dat het Plan van Aanpak Nationaal Circuit Zandvoort in het voorjaar van 1 992 gereed zou zijn? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Wat is (zijn) de reden(en) dat er nog steeds geen Plan van Aanpak is? </vraag>
+      <vraag nummer="3" voetnoot="2">Hebt u kennis genomen van de goedkeuring van Gedeputeerde Staten van Noord-Holland van het bestemmingsplan voor het Circuit van Zandvoort? <voetnoot nummer="2"/>In hoeverre zijn er geluidsaneringsmaatregelen opgenomen in dit bestemmingsplan? </vraag>
+      <vraag nummer="5" voetnoot="3">Hebt u kennis genomen van de door de Gedeputeerde Staten van Noord-Holland verleende ontgrondingsvergunning aan de Stichting Nieuwe Accomodatie Circuit voor ontgrondingen in het duingebied nabij het Nationale Circuit? <voetnoot nummer="3"/>Heeft bij deze verlening toetsing aan de Natuurbeschermingswet plaatsgevonden? Wat waren de bevindingen van deze toetsing? </vraag>
+      <vraag nummer="7">In hoeverre wordt een van de voorwaarden die gesteld zal worden in het Plan van Aanpak, namelijk dat geen verdere aantasting van het omliggende duingebied zal mogen plaatsvinden bij eventuele verlening van de A-status aan het circuit", met voeten getreden? </vraag>
+      <vraag nummer="8" voetnoot="5">Zijn er toch onomkeerbare stappen gezet? <voetnoot nummer="5"/> Zo ja, bent u voornemens hiertegen stappen te ondernemen? </vraag>
+      <vraag nummer="9">Wanneer kan de Kamer het Plan van Aanpak nu wel tegemoet zien? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel Handelingen nr 443</noot>
+         <noot nummer="2" datum="1992-11-20" bron=" Het Parool"> Het Parool, 20 november 1992</noot>
+         <noot nummer="3" datum="1993-01-5" bron=" Dagblad Kennemerland"> Dagblad Kennemerland, 5 januari 1993</noot>
+         <noot nummer="4"> Zie ', vraag en antwoord 6</noot>
+         <noot nummer="5"> Zie ', vraag en antwoord 7</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="7">
+      <antwoord nummer="1">Ja. Deze verwachting was destijds gebaseerd op de voortgang die in de Stuurgroep Plan van Aanpak Nationaal Circuit Zandvoort was gemaakt. </antwoord>
+      <antwoord nummer="2">Het Plan van Aanpak is gestagneerd door problemen welke zijn gerezen bij de concretisering van de tiende (en laatste) voorwaarde, te weten «compensatie natuurwaarden». Met name de financiering daarvan is nog niet opgelost. Met betrekking tot de overige negen voorwaarden bestaat in redelijke mate overeenstemming in de Stuurgroep. </antwoord>
+      <antwoord nummer="3">Ja. Het besluit tot goedkeuring (nr. 92-711616) van 17 november 1992 is bekend. In het bestemmingsplan zijn geen geluidsaneringsmaatregelen opgenomen. Het bestemmingsplan biedt echter door zijn flexibiliteit de mogelijkheid om aan de Wet geluidhinder te gaan voldoen. Dit was voor gedeputeerde staten van Noord-Holland mede aanleiding om goedkeuring aan het bestemmingsplan te hechten. Bij hun goedkeuringsbeschikking hebben gedeputeerde staten aangegeven dat in de nog te verlenen vergunning ingevolge de Wet geluidshinder duidehjk aangegeven zal worden welke grenzen aan de geluidveroorzakende activiteiten worden gesteld. van de vergunning, omdat de beschikbare gegevens te summier waren. De vergunning is inmiddels verleend op basis van uitgebreidere gegevens, waaronder de resultaten van het  MER. </antwoord>
+      <antwoord nummer="6">De ontgronding doet zich voor buiten het beschermd natuurmonument. Voor de ontgronding is geen vergunning op grond van de externe werking van de Natuurbeschermingswet aangevraagd. In het natuurmonument bevinden zich geen kwetsbare vochtige duinvalleivegetaties. Op grond hiervan en op basis van het MER kan worden aangenomen dat de ontgronding niet tot schade aan het natuurmonument leidt. </antwoord>
+      <antwoord nummer="7">Indien overeenstemming wordt bereikt over het totale Plan van Aanpak, zal géén sprake zijn van een situatie waarin éèn van de voorwaarden daaruit met voeten wordt getreden. Dit geldt derhalve ook voor de voorwaarde inzake verdere aantasting van de natuurwaarden in het duingebied. Het verlies aan natuurwaarden zal gecompenseerd moeten worden. </antwoord>
+      <antwoord nummer="8">Er zijn mijns inziens met het oog op de verlening van de Astatus géén omkeerbare stappen gezet. </antwoord>
+      <antwoord nummer="9"/>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

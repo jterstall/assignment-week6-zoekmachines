@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="4">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid M.B. Vos (GroenLinks) over verwerking tot diermeel van een aan BSE overleden koe. (Ingezonden 11 november 1997); Antwoord</item>
+         <item attribuut="Bestand">14Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR6358
+</item>
+         <item attribuut="Rubriek">Veeteelt (Veevoeder) Veeteelt (Veeziekten)</item>
+         <item attribuut="Trefwoorden">Veevoeder Veeziekten</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 1997-1998, nr. 585, Tweede Kamer</item>
+         <item attribuut="Afkomstig_van">Landbouw, Natuurbeheer en Visserij</item>
+         <item attribuut="Indiener">
+            <persoon partij="GroenLinks">M.B. Vos</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1998-01-22</item>
+         <item attribuut="Datum_indiening">1997-11-11</item>
+         <item attribuut="Document-id">KVR6358</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1997–1998" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1193" allpagenumbers="1193" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1997–1998, Aanhangsel" filenaam="KVR6358" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 1998"/>
+      <vraagdata vraagnummer="585" onderwerp="" indiendatum="1997-11-11">
+         <vrager partij="GroenLinks" oorsprong="parlement">M.B. Vos</vrager>
+         <vraagt-aan>BSE</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="22">
+         <antwoorder functie="minister" ministerie="Landbouw, Natuurbeheer en Visserij">Van Aartsen</antwoorder>
+         <mede-antwoorder>de staatssecretaris van Volksgezondheid, Welzijn en Sport</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Is u bekend dat het kadaver van de koe die vorige week in België aan BSE is overleden verwerkt is tot diermeel, en dat dit voer ofwel in Nederland ofwel in Portugal is terechtgekomen? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Welke regels gelden in België ten aanzien van de omgang met risico-organen? </vraag>
+      <vraag nummer="3">Heeft de export van met BSE besmet diervoer plaatsgevonden conform de regels die binnen de Europese Unie ten aanzien van het vervoer van beendermeel van kracht zijn? </vraag>
+      <vraag nummer="4">Acht u het uitgesloten dat het betreffende veevoer in de menselijke voedselketen terecht kan komen? Zo neen, hoe ernstig zijn de risico’s voor de volksgezondheid? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1997-11-6" bron="BRTN-teletext">BRTN-teletext, 6 november 1997</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Het karkas van de Belgische koe, dat in september aanvankelijk onderzocht werd op rabiës en vervolgens op BSE, is verwerkt tot diermeel overeenkomstig richtlijn 90/667/EEG en beschikking 96/449/EG. Dit diermeel is opgegaan in een grote voorraad diermeel waarvan 9 partijen in Nederland terecht zijn gekomen. </antwoord>
+      <antwoord nummer="2">In België dienen risico-organen behandeld te worden in overeenstemming met beschikking 96/449/EEG van de Europese Commissie. Dat wil zeggen een verwerking bij een temperatuur van 133°C en een druk van 3 bar gedurende 20 minuten. Met ingang van 1 april 1998 geldt binnen de Europese Unie de verplichting, dat risico-organen tijdens het slachtproces worden verwijderd en worden vernietigd door middel van verbranding of een vergelijkbare methode (beschikking 97/534/EG van de Europese Commissie). Nederland heeft de betreffende regelgeving in augustus geëffectueerd. In België is deze laatste regelgeving nog niet in werking. </antwoord>
+      <antwoord nummer="3">Blijkens opgave van de Belgische autoriteiten is het betreffende diermeel geproduceerd in overeenstemming met beschikking 96/449/EG van de Europese Commissie. Het is toegestaan om voldoende verhit diermeel op de vrije markt van de Europese Gemeenschap te brengen. Voorzover bekend, hebben zich ten aanzien van het op de markt brengen en het vervoer van het betreffende diermeel geen onregelmatigheden voorgedaan. </antwoord>
+      <antwoord nummer="4">Het betreffende diermeel dat in Nederland terecht is gekomen, is – voorzover bekend – gedeeltelijk geëxporteerd en gedeeltelijk verwerkt in voeders voor niet-herkauwers (onder andere pluimvee en varkens). Ik acht het uitgesloten, dat dergelijk diermeel verwerkt wordt in producten die bestemd zijn voor menselijke consumptie. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

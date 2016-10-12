@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="6">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19941995:0000652</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000652&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000652</item>
+         <item attribuut="Document-id">0000000652</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1994-1995 nummer 318</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Van der Ploeg en Witteveen-Hevinga (beiden PvdA) over de Amsterdamse beurs.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1994-1995 nummer 318</item>
+         <item attribuut="Jaargang">1994_1995</item>
+         <item attribuut="Vraagnummer">318</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Van der Ploeg</persoon>
+            <persoon partij="PvdA">Witteveen-Hevinga</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-11-10</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Wijers</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-12-27</item>
+         <item attribuut="Beginpagina">643</item>
+         <item attribuut="Eindpagina">646</item>
+         <item attribuut="Omvang">4 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1994-1995" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="643" allpagenumbers="643 644 645" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1994-1995, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="'s Gravenhage 1995"/>
+      <vraagdata vraagnummer="318" onderwerp="de Amsterdamse beurs." indiendatum="1994-11-10">
+         <vrager partij="PvdA" oorsprong="parlement">Van der Ploeg</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Witteveen-Hevinga</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-12-27">
+         <antwoorder functie="minister" ministerie="Economische Zaken">Wijers</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1" voetnoot="1">Houdt het bestuur van de Amsterdamse beurs «voorlopig» vast aan de eis dat buitenlandse effectenhuizen die in Amsterdam willen handelen een kantoor in Nederland moeten hebben? <voetnoot nummer="1"/>Hoe verhoudt de mogelijke negatieve consequenties van het afschaffen van de vestigingseis uit de reglementen voor een aantal bestaande kleinere commissionairs zich tot de mogelijke positieve gevolgen voor de kleine belegger? </vraag>
+      <vraag nummer="3">Wat vindt u ervan, dat het bestuur van de Amsterdamse beurs haar leden afschermt van concurrentie uit het buitenland? </vraag>
+      <vraag nummer="4">Deelt u de mening, dat het uit economisch standpunt ondoelmatig is dat orders voor Amerikaanse en Engelse effectenhuizen alléén uitgevoerd kunnen worden door tussenkomst van in Nederland gevestigde commissionairs? </vraag>
+      <vraag nummer="5" voetnoot="2">Acht u deze vestigingseis een vorm van protectionisme en daarom in strijd met Europese regelgeving? Kunt u vóór eind november beoordelen of het nieuwe handelssysteem voor kleine transacties in strijd is met de Wet Economische mededeling, zoals u eerder <voetnoot nummer="2"/> hebt toegezegd? Wilt u daarbij de hierboven gestelde vragen betrekken? </vraag>
+      <vraag nummer="7">Acht u de bepaling, dat in het retailsegment slechts één hoekman bemiddelt per fonds in strijd met het Besluit Marktverdelingsregelingen, dat op grond van de Wet Economische Mededinging is genomen? Zijn er goede redenen voor ontheffing? </vraag>
+      <vraag nummer="8">Deelt u de mening, dat het courtagereglement van de Amsterdamse beurs in strijd is met het Besluit Horizontale Prijsafspraken? Erkent u uw eigen verantwoordelijkheid naast die van de Stichting Toezicht Effectenverkeer? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1994-11-7" bron=" Het Financiële Dagblad, 5 en"> Het Financiële Dagblad, 5 en, 7 november 1994</noot>
+         <noot nummer="2"> Bij de beantwoording op 27 september 1994 van eerdere vragen (Aanhangsel nr. 104) omtrent de Amsterdamse beurs heeft de regering toegezegd in de loop van november te beoordelen of het nieuwe handelssysteem voor kleine transacties in strijd is met de Wet Economische mededinging. Zo genereren de market-makers omzet voor de hoekman, maar moeten zij hogere tarieven betalen. Belangrijke vragen zijn: Is het niet gewenst het aantal hoekleden per transactie in het retailsegment vrij te laten? Wat bepaalt de grens tussen het wholesale– en het retailsegement?</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="6">
+      <antwoord nummer="1">De Amsterdamse Effectenbeurs (hierna: de beurs) kent twee handelssystemen. In het nieuwe handelssysteem (TSA: Trading System Amsterdam) wordt gehandeld in alle aandelen en niet-staatsobligaties. Het TSA kent twee segmenten: het wholesale-segment en het retail-segment. In het wholesale-segment kunnen beursleden met elkaar grote transacties afsluiten, zonder tussenkomst van een hoekman. In het retail-segment worden transacties van een kleinere omvang afgesloten waarbij de hoekman wel wordt ingeschakeld. Daarnaast kent de beurs de Amsterdam Treasurybond Market (ATM), de markt voor professionele handel in staatsobligaties met een minimale omvang van f 2,5 miljoen. Het is juist dat het bestuur van de beurs vooralsnog vasthoudt aan de eis dat effecteninstellingen die willen handelen binnen het TSA een kantoor in Nederland moeten hebben. Ten behoeve van de ATM is vorig jaar deelname van buiten Nederland buiten Nederland gevestigde effecteninstellingen zich vooral richten op het wholesale-segment kan dit er toe leiden dat de concurrentie op dat segment van het TSA toeneemt, hetgeen een prijsdrukkend effect kan hebben. Omdat door middel van arbitrage prijsbewegingen in het wholesale-segment de prijsbewegingen in het retail-segment kunnen beïnvloeden (en vice versa), kan het effect van grotere concurrentie in het wholesale-segment doorwerken naar het retail-segment. Bij de besluitvorming omtrent het al dan niet handhaven van de vestigingseis geldt evenwel als voorwaarde dateen adequate controle op de buiten Nederland gevestigde effecteninstellingen moet kunnen worden uitgeoefend, met het oog op het adequaat functioneren van de beurs en de positie van de belegger in de beurs. </antwoord>
+      <antwoord nummer="3">Blijkens mededeling van de Vereniging voor de Effectenhandel, de houder van de beurs, is de toelating van buiten Nederland gevestigde instellingen slechts verantwoord indien de beurs adequaat controle kan uitoefenen op de activiteiten van deze leden. Daartoe dienen eerst deugdelijke afspraken te worden gemaakt met de betrokken buitenlandse autoriteiten. De beurs heeft deze procedure inmiddels bij de Britse autoriteiten in gang gezet en is voornemens dit ook bij de autoriteiten van andere daarvoor in aanmerking komende landen te doen. Tevens dienen in het beurs en niet dient tot afscherming van de leden van concurrentie uit het buitenland. De Stichting Toezicht Effectenverkeer, waaraan ingevolge de Wet toezicht effectenverkeer het toezicht op het effectenverkeer is gedelegeerd deelt dit standpunt. Voor de goede orde merken wij op dat de Statuten en Reglementen van de Vereniging voor de Effectenhandel geen onderscheid maken ter zake van de nationaliteit van haar (aspirant–) leden. Buitenlandse effecteninstellingen kunnen dan ook lid worden van de beurs, indien zij aan de daarvoor geldende, voor alle (aspirant–) leden gelijkluidende, eisen voldoen. Van een ongelijke behandeling van (aspirant-)leden is geen sprake. Het is derhalve geenszins zo dat orders voor buitenlandse effecteninstellingen alléén uitgevoerd kunnen worden door tussenkomst van in Nederland gevestigde commissionairs, aangezien het deze buitenlaridse instellingen vrij staat een bijkantoor te houden in Nederland en zo het lidmaatschap van de beurs te verkrijgen. </antwoord>
+      <antwoord nummer="4">Zolang het adequate functioneren van de beurs en de positie van beleggers daarop met zich brengt dat ten aanzien van de toelating van tot het «Trading System Amsterdam» een vestigingseis moet worden gehandhaafd, zijn wij niet van mening dat de tussenkomst van in Nederland gevestigde commissionairs voor in het buitenland gevestigde beleggingsinstellingen, die geen functioneren van de beurs en de positie van de belegger daarop, en wordt zij niet gesteld als vorm van protectionisme. Tevens geldt de vestigingseis voor alle (aspirant-)leden, zodat van een ongelijke behandeling dan wel bescherming van in Nederland gevestigde leden geen sprake is. Naar onze mening is er thans geen sprake van strijd met Europese regelgeving. Dit neemt niet weg dat richtlijn 93/22 EEG betreffende het verrichten van diensten op het gebied van beleggingen in effecten, die thans in nationale wetgeving wordt omgezet, regels stelt met betrekking tot de toegang tot Europese beurzen. Deze richtlijn dient 31 december 1995 in werking te treden. Over de interpretatie van deze regels vindt overleg plaats met de Europese Commissie. De implementatie van richtlijn 93/22/EEG geschiedt in Nederland op grond van het voorstel van Wet toezicht effectenverkeer </antwoord>
+      <antwoord nummer="1995" voetnoot="1">
+         <voetnoot nummer="1"/>. Dit voorstel beoogt het opnieuw vaststellen van de thans geldende Wet toezicht effectenverkeer (Stb. 1991, 141). </antwoord>
+      <antwoord nummer="6en7">Uitsluitsel over het algemene onderzoek of het nieuwe handelssysteem voor kleine transacties in strijd is met de Wet economische mededinging (WEM) kunnen wij pas geven nadat wij een standpunt hebben bepaald over het verzoek van een aantal market makers, werkzaam op de European Options Exchange te Amsterdam, om onder meer het principe van één hoeklieden regelen. Overigens heeft de toenmalige staatssecretaris van Economische Zaken aan de vereniging bij brief van 2 augustus 1994 meegedeeld dat het Reglement zoals dat voor 1 oktober 1994 luidde niet onder de reikwijdte van het Besluit viel. Uit de antwoorden op de vragen 1 tot en met 5 vloeit overigens voort dat wij geen aanleiding zien om de voorschriften van de Vereniging inzake de vestigingseis te betrekken bij het hierbovengenoemde WEM-onderzoek. </antwoord>
+      <antwoord nummer="8">Neen, wij zijn niet van mening dat het Courtagereglement van de Vereniging voor de Effectenhandel in strijd is met het Besluit horizontale prijsbinding (Stb. 1993, 80). De in de artikelen 1 en 2 van dit besluit omschreven bepalingen in mededingingsregelingen - prijsregelingen - zijn onverbindend, behoudens een vrijstelling of ontheffing. Eén van de vrijstellingen - artikel 4, tweede lid, onder b - bepaalt dat de artikelen 1 en 2 niet gelden voorzover de in die artikelen bedoelde bepalingen in mededingingsregelingen ingevolge het bepaalde bij of krachtens enige andere wet dan de Wet economische mededinging onderworpen zijn aan goedkeuring of door een bestuursorgaan onverbindendverklaard, verboden of vernietigd kunnen worden, dan wel op grond van enige wettelijke verplichting tot stand zijn gekomen. De reglementen van de Vereniging voor de Effectenhandel, waaronder het Courtagereglement, zijn op grond prijsbinding - dat de onverbindendverklaring van prijsregelingen in een bepaalde situatie niet geldt, het niet doeltreffend is dat hij naast - in dit geval - de Stichting toezicht effectenverkeer toezicht blijft uitoefenen op regelingen van de Vereniging voor de Effectenhandel. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Kamerstukken II, 1993-1994, 23 874</noot>
+      </noten>
+   </antwoorden>
+</kvr>

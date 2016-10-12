@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001713</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001713&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001713</item>
+         <item attribuut="Document-id">0000020099</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 695</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Kohnstammm (D66), Achttienribbe-Buijs (PvdA) en Beckers-de Bruijn (Groen Links) over de kemtaken van de Rutgers Stichting.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 695</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">695</item>
+         <item attribuut="Indiener">
+            <persoon>Kohnstammm</persoon>
+            <persoon>Achttienribbe-Buijs</persoon>
+            <persoon>Beckers-de Bruijn</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-06-02</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Simons</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-07-04</item>
+         <item attribuut="Beginpagina">1453</item>
+         <item attribuut="Eindpagina">1454</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1453" allpagenumbers="1453 1454" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="695" onderwerp="de kemtaken van de Rutgers Stichting." indiendatum="1992-06-2">
+         <vrager partij="" oorsprong="parlement">Kohnstammm</vrager>
+         <vrager partij="" oorsprong="parlement">Achttienribbe-Buijs</vrager>
+         <vrager partij="" oorsprong="parlement">Beckers-de Bruijn</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-07-4">
+         <antwoorder functie="Staatssecretaris" ministerie="Welzijn, Volksgezondheid en Cultuur">Simons</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="9">
+      <vraag nummer="1">Hebt u de Rutgers Stichting onder druk gezet om in haar kerntaken het accent te verleggen van hulpverlening naar preventie? </vraag>
+      <vraag nummer="2">Is de Rutgers Stichting ter sanering van haar financiële situatie gedwongen binnen een jaar het aantal vestigingen te verminderen van 26 naar 7? </vraag>
+      <vraag nummer="3">Draagt de Rutgers Stichting in opdracht van uw ministerie de seksuologische hulpverlening over aan de RIAGG's en huisartsen? </vraag>
+      <vraag nummer="4">Zo ja, komt de hulpverlening dan niet in gevaar als niet tegelijkertijd de deskundigheid wordt bevorderd en de capaciteit uitgebreid bij de RIAGG's en de huisartsen? Op welke wijze kunnen de RIAGG's deze extra case load aan, gegeven de reeds bestaande lange wachttijden? </vraag>
+      <vraag nummer="5">Is het u bekend, dat blijkens onderzoek circa 50% van de patiënten met problemen die seksuele raakviakken betreffen - ondanks een goede relatie met de huisarts - niet naar die huisarts gaat. maar vanwege anonieme en ter zake deskundige hulpverlenmg naar de Rutgers Stichting? </vraag>
+      <vraag nummer="6">Deelt u de mening, dat, mede dankzij de Rutgers Stichting, het aantal ongewenste zwangerschappen en abortussen in ons land laag wordt gehouden? </vraag>
+      <vraag nummer="7">Zo ja, loopt de preventie van ongewenste (tiener) zwangerschappen geen gevaar bij het wegvallen van de vangnetfunctie die de Rutgers Stichting al jaren vervult? </vraag>
+      <vraag nummer="8">Is het u bekend, dat de door u benadrukte kerntaken van de Rutgers Stichting, nl. voorlichting en preventie, ernstig te lijden hebben van het grotendeels wegvallen van het fijnmazige netwerk van Rutgershuizen? </vraag>
+      <vraag nummer="9">Op welke wijze denkt u aan de oplossing van de in deze vragen gestelde problemen een bijdrage te leveren? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1"> t/m  4 De Rutgers Stichting is in de afgelopen jaren geconfronteerd met een zich wijzigende hulpvraag als gevolg van maatschappelijke ontwikkelingen op het terrein van geboorteregeling en seksualiteit. Zo is in de afgelopen zes jaar ondermeer het aantal consulten op het gebied van geboorteregeling bijna gehalveerd. Deze halvering van consulten had ondermeer een aanzienlijke vermindering van de eigen inkomsten tot gevolg. De Rutgers Stichting heeft te lang geaarzeld om beleidswijzigingen door te voeren en adequaat op de genoemde ontwikkelingen te reageren De jaarlijkse exploitatietekorten werden afgedekt ten laste van de eigen vermogenspositie. Door dit bestuurlijk en financieel mismanagement hebben het voormalige bestuur en de voormalige directie de Rutgers Stichting in een organisatorische en financiële crisissituatie gebracht. Dit heeft er toe geleid dat de Rutgers Stichting in najaar 1991 een beroep heeft gedaan op het Ministerie van WVC voor het verlenen van extra financiële steun om een dreigend faillissement te voorkomen. Het aanzienlijke exploitatietekort kon niet meer ten laste van het eigen vermogen worden gebracht. Ik ben met de Rutgers Stichting in overleg getreden om te bezien hoe op verantwoorde wijze de rijksgelden (f 6,4 mln op jaarbasis!) ingezet kunnen (blijven) worden voor voorlichting, hulpverlening en preventie op het terrein van geboorteregeling en seksualiteit. De uitgangspunten, zoals ik die voor mijn beleid hanteer, zijn ook in de aktiviteiten uit te voeren. Bij de toekenning ultimo 1991 van de gevraagde extra financiële overbrugging van f 0,65 mln. heb ik tevens garanties gevraagd over de continuïteit van de Rutgers Stichting. Hierbij heb ik o.a. als voorwaarde gesteld dat de Rutgers Stichting haar aktiviteiten vanaf 1992 binnen de gegeven financiële kaders met een sluitende exploitatie moet uitoefenen. Deze garanties heb ik eind 1991 van het voormalige bestuur gekregen. Tevens heeft dat bestuur besloten terug te treden en de verantwoordelijkheden en bevoegdheden aan een geheel nieuw gevormd bestuur over te dragen. Per 1 december 1991 is ook een nieuwe directeur benoemd. Het nieuwe bestuur van de Rutgers Stichting heeft op 1 mei jl. een plan aangeboden waarin wordt aangegeven op welke wijze taken op het gebied van voorlichting, hulpverlening, preventie en deskundigheidsbevordering op adequate en efficiënte wijze zullen worden vormgegeven. In dit plan heeft de Rutgers Stichting aangegeven de capaciteit van de medische hulpverlening (conform de daling van consulten op dit terrem) te verminderen. De capaciteit van de seksuologische hulpverlening wordt vooralsnog gehandhaafd, zij het dat de uren die besteed worden aan uitvoerende hulpverlening geleidelijk worden teruggebracht ten gunste van ontwikkeling en overdracht van deskundigheid aan de RIAGG's en de huisartsen. De capaciteit van de voorlichting en preventie wordt door effectievere inzet van de huidige financiële middelen vergroot. Stichting. </antwoord>
+      <antwoord nummer="7">Gezien de afgenomen vraag op het gebied van geboorteregehng is de wijze waarop een vangnetfunctie wordt georganiseerd opportuun. De combinatie van een landelijk 06-nummer en zeven centrumbureaus, zoals de Rutgers Stichting in haar plan heeft uitgewerkt, biedt een voldoende en efficiënt aanbod, naast de reguliere hulpverlening. </antwoord>
+      <antwoord nummer="8">De Rutgers Stichting heeft aangegeven dat zij in staat is vanuit de zeven centrumbureaus en via het landelijke 06 nummer haar taken op het gebied van informatie, voorlichting en preventie te kunnen realiseren. In de beantwoording van de vragen 1 t/m 8 heb ik reeds aangegeven hoe onder de gegeven omstandigheden met de huidige aanpak mogelijke problemen kunnen worden ondervangen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

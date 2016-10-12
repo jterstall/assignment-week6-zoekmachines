@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19851986:0001561</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001561&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001561</item>
+         <item attribuut="Document-id">0000115121</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1985-1986 nummer 640</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Jacobse en Dijkstal (beiden V.V.D.) over de politiesterkte in Amsterdam.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1985-1986 nummer 640</item>
+         <item attribuut="Jaargang">1985_1986</item>
+         <item attribuut="Vraagnummer">640</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Jacobse</persoon>
+            <persoon partij="VVD">Dijkstal</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-03-14</item>
+         <item attribuut="Beantwoorder">
+            <persoon>De Korte</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-04-21</item>
+         <item attribuut="Beginpagina">1271</item>
+         <item attribuut="Eindpagina">1272</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1985-1986 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 5 - 1 9 8 6 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="640" onderwerp="" indiendatum="">
+         <vrager partij="VVD" oorsprong="parlement">Jacobse</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Dijkstal</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="21 april 1986)">
+         <antwoorder functie="minister" ministerie="Binnenlandse Zaken">De Korte</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1 ">Heeft de Minister kennis genomen  van het feit dat de Amsterdamse  politie een tekort op de normsterkte  heeft van 604 personen?  </vraag>
+      <vraag nummer="2 ">Is de Minister bereid de toegestane  capaciteit aan de politieschool  Noord-Holland na 1 juli 1986 te  handhaven op 250 adspiranten per  kwartaal en niet terug te brengen tot  200?  </vraag>
+      <vraag nummer="3 ">Welke maatregelen kan de minister  op zo kort mogelijke termijn nemen  om het tekort tot aanvaardbare  proporties terug te dringen?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1 ">Ik heb kennis genomen van de  mededelingen van diverse woordvoer- ders van de gemeente Amsterdam en  het politiekorps aldaar aangaande  een aantal vacatures in de orde van  grootte als door de vragenstellers  aangegeven.  2 en 3  Vraag 2 is kennelijk gebaseerd op  citeit van de opleidingsschool  Noord-Holland bedraagt 200 a 250  op jaarbasis.  Overigens is in een onlangs  landelijk gehouden enquête onder  gemeentelijke politiekorpsen geble- ken dat door diverse oorzaken  (compensatie arbeidstijdverkorting,  enigszins toegenomen verloop van  personeel naar andere werkgevers)  de geplande landelijke opleidingsca- paciteit van 640 per jaar onvoldoende  is. Na overleg met vertegenwoordi- gers van de vier opleidingsscholen is  thans besloten de opleidingscapaci- teit van de vier scholen structureel te  verhogen naar ten minste 800 op  jaarbasis, dan wel zoveel meer als  binnen het thans beschikbare budget  mogelijk zal blijken. Over de verdeling  van dit extra contingent wordt nog  overleg gevoerd waarbij enerzijds de  capaciteit van de bestaande accom- modaties en anderzijds de behoefte  aan opleidingscapaciteit binnen de  diverse school-regio's belangrijke  parameters zijn, waaraan ik het  resultaat van het onderling overleg  tussen de vier scholen zal toetsen.  Los daarvan hebben mij van de  zijde van het Amsterdamse politie- korps voorstellen bereikt voor een  additionele actie om incidenteel een  honderdtal adspiranten in opleiding  te nemen ten einde het aanwezige  tekort op zo kort mogelijke termijn te  reduceren. Deze voorstellen zijn  thans in studie bij mijn departement  en de leiding van de opleidingsschool  Noord-Holland. Uitgangspunt is en  blijft dat de wens van het politiekorps  Amsterdam om snel te kunnen  onder geen beding afbreuk mag  doen aan de kwaliteit en de inhoud  van de opleiding. Binnen deze  randvoorwaarden ben ik bereid naar  vermogen mee te werken aan een  extra inspanning als door Amsterdam  voorgesteld.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

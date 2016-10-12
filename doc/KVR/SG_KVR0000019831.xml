@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001445</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001445&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001445</item>
+         <item attribuut="Document-id">0000019831</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 429</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Van der Hoeven en Koetje (beiden CDA) aan de minister van Verkeer en Waterstaat over de bereikbaarheid van de Deutsche Telefonauskunft vanuit Nederland.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 429</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">429</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Van der Hoeven</persoon>
+            <persoon partij="CDA">Koetje</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-02-19</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Maij-Weggen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-03-06</item>
+         <item attribuut="Beginpagina">909</item>
+         <item attribuut="Eindpagina">910</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="909" allpagenumbers="909" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="'s Gravenhage 1992"/>
+      <vraagdata vraagnummer="429" onderwerp="de bereikbaarheid van de Deutsche Telefonauskunft vanuit Nederland." indiendatum="1992-02-19">
+         <vrager partij="CDA" oorsprong="parlement">Van der Hoeven</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Koetje</vrager>
+         <vraagt-aan>de minister van Verkeer en Waterstaat</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-03-6">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">Maij-Weggen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="1">
+      <vraag nummer="1">Is het u bekend, dat ondernemers in Zuid-Limburg regelmatig klachten hebben over de bereikbaarheid van de Deutsche Telefonauskunft vanuit Nederland? Zijn er met betrekking tot de grensoverschrijdende dienstverlening op het terrein van de telefooninlichtingen afspraken gemaakt in het kader van de Europese éénwording? Zo ja, hoe beoordeelt u dan de opstelling van de OPD-Köln, die erop neerkomt dat de dienstverlening voorbehouden is aan de Duitse klanten, ervan uitgaande dat de buitenlandse collegae hun klanten van informatie voorzien'? Deelt u de mening, dat tegen de achtergrond van de Europese éénwording belemmeringen in de grensoverschrijdende informatievoorziening van telefooninlichtingen ongewenst en derhalve op korte termijn opgeheven dienen te worden? Bent u bereid Initiatieven te ontplooien die erop gericht zijn de Deutsche Telefonauskunft wederom bereikbaar te maken vanuit Nederland? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1991-11-1" bron=" Aldus de Telekom-Pressesprecher Rüdiger Staats in der Aachener Volkszeitung"> Aldus de Telekom-Pressesprecher Rüdiger Staats in der Aachener Volkszeitung, 1 november 1991</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Neen. De Europese Commissie heeft een ontwerp-voorstel voor een Raadsrichtlijn voor de toepassing van «Open Network Provision» (ONP) op spraaktelefonie (ONPCOM 91-67) in behandeling. In het ontwerp (artikel 8 en Annex 3(2)) is de eis opgenomen dat gebruikers in de ene lidstaat de telefooninlichtingendienst (directory enquiry service) in een andere lidstaat kunnen bellen. </antwoord>
+      <antwoord nummer="3">Ja. De Deutsche Telefonauskunft is sinds 1 oktober 1991 niet meer rechtstreeks voor abonnees vanuit Nederland beschikbaar. Wel geeft PTT Telecom inlichtingen over buitenlandse telefoonnummers op het gratis nummer 06-0418. Desgevraagd erkent PTT Telecom dat in de periode waarin de in vraag 1 genoemde klachten optraden, ook sprake is geweest van een slechte bereikbaarheid van dit nummer voor Zuid-Nederland. Verder heeft PTT Telecom meegedeeld dat de bereikbaarheid van het nummer sindsdien sterk is verbeterd en voorts dat de dienstverlening verder is verbeterd door afspraken met een aantal landen, waaronder Duitsland, die het mogelijk maken dat de Nederlandse telefonisten online toegang hebben tot de elektronische telefoonnummer-bestanden van die landen. </antwoord>
+      <antwoord nummer="4">Ik ga ervan uit dat door de beschikbaarheid van de dienst via het nummer 06-0418 de grond voor de in vraag 1 genoemde klachten is weggevallen. Ik ben bereid mee te werken aan de totstandkoming van de richtlijn genoemd in het antwoord op vraag 2. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

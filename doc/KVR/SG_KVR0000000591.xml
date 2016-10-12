@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19941995:0000591</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000591&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000591</item>
+         <item attribuut="Document-id">0000000591</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1994-1995 nummer 256</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Kalsbeek-Jasperse (PvdA), Dittrich (D66), Korthals (VVD) en Soutendijk-van Appeldoorn (CDA) over een strafrechtelijke opsporingsaktie.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1994-1995 nummer 256</item>
+         <item attribuut="Jaargang">1994_1995</item>
+         <item attribuut="Vraagnummer">256</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Kalsbeek-Jasperse</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-10-26</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Sorgdrager</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-12-12</item>
+         <item attribuut="Beginpagina">513</item>
+         <item attribuut="Eindpagina">514</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1994-1995" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="513" allpagenumbers="513" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1994-1995, Aanhangsel" filenaam="" issn-nummer="ISSN0921 -7398" uitgever="Sdu Uitgeveri) Plantijnstraat 's Gravenhage 1991"/>
+      <vraagdata vraagnummer="256" onderwerp="een strafrechtelijke opsporingsaktie." indiendatum="1994-10-26">
+         <vrager partij="PvdA" oorsprong="parlement">Kalsbeek-Jasperse</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="12 december 1994), zie ook aanhangsel Handelingen nr. 186, vergaderjaar 1994-1995">
+         <antwoorder functie="minister" ministerie="Justitie">Sorgdrager</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Is het bericht <voetnoot nummer="1"/> waar, als zou met medeweten van het vorig jaar opgeheven Interregionaal Rechercheteam Noord-Holland/Utrecht in het kader van een strafrechtelijke opsporingsaktie grote hoeveelheden weed, xtc en amfetamine naar Groot-Brittannië zijn vervoerd zonder dat de Engelse Politie of Justitie daarvan op de hoogte is gebracht? </vraag>
+      <vraag nummer="2">Acht u de in deze zaak gehanteerde opsporingsmethode, met inbegrip van het achterwege laten van het informeren van de Britse Justitie of Politie, geoorloofd? </vraag>
+      <vraag nummer="3">Heeft het bekend worden van deze aktie gevolgen gehad - danwel zijn deze aangekondigd - voor de bereidheid van Groot-Brittannië gevolg te geven aan rechtshulpverzoeken van Nederland? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1994-10-21" bron=" De Volkskrant"> De Volkskrant, 21 oktober 1994</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1"> en2 Over de door het IRT Noord-Holland/Utrecht gehanteerde opsporingsmethode heeft de Commissie Wierenga in het geheime deel van haar rapport een nadere uiteenzetting gegeven, dat vertrouwelijk ter beschikking is gesteld aan de vaste Commissie voor de Inlichtingen– en Veiligheidsdiensten van de Tweede Kamer der Staten-Generaal. De Commissie heeft de gevolgde methode als rechtmatig beoordeeld, bij welk oordeel ik mij aansluit. Daarbij wil ik opmerken dat de suggestie in het door de vragenstellers aangehaalde artikel in de Volkskrant van 21 oktober 1994 als zou onder verantwoordelijkheid van het IRT Noord-Holland/Utrecht in 1993 grote hoeveelheden weed, XTC en amfetamine naar Groot-Brittannië zijn gevoerd zonder de politie of Justitie van dat land daarvan op de hoogte te stellen, onjuist is. Voorts hecht ik aan een goede samenwerking met buitenlandse autoriteiten op het terrein van de uitwisseling van strafvorderlijk relevante gegevens. Dit betekent dat als de Nederlandse politie en Justitie beschikken over strafvorderlijk relevante gegevens de autoriteiten van Groot-Brittannië daarover moeten worden geïnformeerd. </antwoord>
+      <antwoord nummer="3">Neen. De relatie met het Verenigd Koninkrijk is onveranderd goed. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

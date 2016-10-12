@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001381</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001381&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001381</item>
+         <item attribuut="Document-id">0000035788</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 459</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Dijkstal en Weisglas (beiden V.V.D.) over de bestrijding van drugscriminaliteit.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 459</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">459</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Dijkstal</persoon>
+            <persoon partij="VVD">Weisglas</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-02-21</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-03-16</item>
+         <item attribuut="Beginpagina">923</item>
+         <item attribuut="Eindpagina">924</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="923" allpagenumbers="923" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="459" onderwerp="de bestrijding van drugscriminaliteit." indiendatum="1990-02-21">
+         <vrager partij="VVD" oorsprong="parlement">Dijkstal</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Weisglas</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-03-16">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">Van den Broek</antwoorder>
+         <mede-antwoorder>de minister van Justitie</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Wat zijn de resultaten van het overleg in Cartagena, Colombia, over de bestrijding van produktie, verhan– deling en gebruik van harddrugs tussen een aantal landen, waaronder de Verenigde Staten? </vraag>
+      <vraag nummer="2">Hebben de uitkomsten van dit overleg gevolgen voor de bestaande internationale samenwerking bij de bestrijding van drugscriminaliteit, waar Nederland bij betrokken is? Zo ja, welke? </vraag>
+      <vraag nummer="3">Ziet het kabinet aanleiding tot een aanpassing van het Nederlandse beleid terzake? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1" voetnoot="1">De op 15 februari jl. gehouden bijeenkomst te Cartagena van de presidenten van Colombia, Bolivia, Peru en de Verenigde Staten van Amerika heeft geresulteerd in een gedetailleerde, 13 pagina's tellende verklaring waarin de ondertekenaars zich uitspreken voor een geïnte– greerde strategie gericht op de bestrijding van de illegale handel in drugs, i.c. vraag, aanbod en gebruik ervan. De volledige tekst van deze verklaring, waarin wordt aangegeven langs welke wegen men dat doel wil bereiken, gaat hierbij. <voetnoot nummer="1"/>Bolivia en Peru hebben voorts tijdens de onderhavige bijeenkomst bilaterale verdragen gesloten met de Verenigde Staten van Amerika. Colombia is nog met de VS in onder– handeling. Het is de bedoeling dat de Cartage– natop het begin vormt van een continu proces en over zes maanden zal worden gevolgd door een nieuwe bijeenkomst op hoog niveau. </antwoord>
+      <antwoord nummer="2">De ontmoeting resulteerde in een aantal beginselafspraken. Een en ander zal nader worden uitgewerkt tussen de betrokken landen. Over de concrete gevolgen van het overleg te Cartagena voor wat betreft de in deze vraag bedoelde samenwerking vallen in dit stadium nog geen uitspraken te doen. </antwoord>
+      <antwoord nummer="3">Deze overeenkomsten geven thans geen aanleiding tot aanpassing van het Nederlands beleid in dezen. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Ter inzage gelegd op de bibliotheek</noot>
+      </noten>
+   </antwoorden>
+</kvr>

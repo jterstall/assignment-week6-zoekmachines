@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001532</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001532&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001532</item>
+         <item attribuut="Document-id">0000027869</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 596</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Ter Veer en Schimmel (beiden D66) over het gebruik van het bestrijdingsmiddel Vertimec.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 596</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">596</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Ter Veer</persoon>
+            <persoon partij="D66">Schimmel</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-04-11</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Gabor</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-05-27</item>
+         <item attribuut="Beginpagina">1217</item>
+         <item attribuut="Eindpagina">1218</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1217" allpagenumbers="1217 1218" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1991"/>
+      <vraagdata vraagnummer="596" onderwerp="het gebruik van het bestrijdingsmiddel Vertimec." indiendatum="1991-04-11">
+         <vrager partij="D66" oorsprong="parlement">Ter Veer</vrager>
+         <vrager partij="D66" oorsprong="parlement">Schimmel</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1991-05-27">
+         <antwoorder functie="staatssecretaris" ministerie="Landbouw, Natuurbeheer en Visserij">Gabor</antwoorder>
+         <mede-antwoorder>de ministers van Sociale Zaken en Werkgele– genheid en van Volkshuisvesting, Ruimtelijke Ordening en Milieu– beheer</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1" voetnoot="2">Heeft u kennis genomen van berichten over vermeend gebruik van het bestrijdingsmiddel Vertimec in de komkommerteelt?' Is het onderzoek van de AID naar de omvang van het gebruik van Vertimec en naar welke telers dit middel toepassen, thans afgerond? <voetnoot nummer="2"/>Zo ja, wat is daarvan de uitslag? Zo neen, waarom niet? </vraag>
+      <vraag nummer="3">Wijst de thans opgedane kennis in de richting van een mogelijke beschikbaarheid van Vertimec in de komkommerteelt, en zijn inmiddels maatregelen getroffen? </vraag>
+      <vraag nummer="4">Is de minister van Landbouw, Natuurbeheer en Visserij op de hoogte gehouden van het verloop van het onderzoek? </vraag>
+      <vraag nummer="5" voetnoot="3">Is het onderzoek naar de arbeidsge– zondheidskundige blootstellingsni– veaus en hun effecten afgerond, en heeft dit geleid tot aanpassing van de gebruiksvoorschriften? <voetnoot nummer="3"/>
+      </vraag>
+      <vraag nummer="6">Welke resultaten zijn tot nu toe opgedaan met de proeftoepassing van Vertimec in de tomatenteelt en tot wanneer is de proefontheffing op grond van de Bestrijdingsmidde– lenwet geldig? </vraag>
+      <vraag nummer="7">Is voor Vertimec een aanvrage voor toelating ingediend? Zo ja, voor welke teelten wordt over de toelating beslist en wanneer zal dit geschieden? </vraag>
+      <vraag nummer="8">Heeft de Rijkskeuringsdienst van Waren na 1989 nog residue-controles uitgevoerd op het vóórkomen van Vertimec op komkommers? Zo ja, welke resul– taten heeft dat opgeleverd? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Agrarisch Dagblad van 10april 1991</noot>
+         <noot nummer="2"> Zie Aanhangsel Handelingen nr 638 Vergaderjaar 1988-1989</noot>
+         <noot nummer="3"> Zie Aanhangsel Handelingen nr 667. Vergaderjaar 1 988-1989</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1">Ja. Het onderzoek van de AID, is inmiddels afgerond.' Dit onderzoek vond plaats in juni 1989. De toen beschikbare analysemethode bleek minder geschikt voor opsporingsacti– viteiten door de AID. Dit heeft er toe geleid dat de toenmalige Rijkskeu– ringsdienst van Waren (thans Inspectie Gezondheidsbescherming) een nieuwe methode heeft ontwikkeld, met name geschikte voor het bepalen van residuen op komkommer. Voor een goed begrip zij benadrukt dat, zoals uit proefgegevens blijkt, residuniveaus van Vertimec op komkommers direct na toepassing al laag zijn en snel verder afnemen. Daarom is het van belang dat ook de gevoeligheid van deze methode sterk is verbeterd. Op de later in 1989 met behulp van de verbeterde methode onderzochte monsters komkommers zijn geen residuen van Vertimec aangetroffen. De AID is dan in beginsel aangewezen op het op heterdaad constateren van illegaal gebruik. Dit is niet geconstateerd. Op grond van deze ervaring is in 1990 en 1991 aan Vertimec aandacht besteed in het kader van administratief onderzoek en routine– matige controle. Daarbij is in een beperkt aantal gevallen gebruik op komkommers vastgesteld. In die gevallen is proces-verbaal opgemaakt. Bovendien is recent onderzoek gestart naar het verkopen van Vertimec in verdunde vorm. </antwoord>
+      <antwoord nummer="3">Vertimec is in Nederland toegelaten voor gebruik in de teelt van sierge– wassen onder glas en voor de opkweek van plantmateriaal onder glas. Het middel is op de markt en 1991 is daarom onderzoek en voorlichting gericht geweest op de optimalisering en verbreiding van de geïntegreerde bestrijding van Califor– nische trips in de komkommerteelt. </antwoord>
+      <antwoord nummer="4">Ja. </antwoord>
+      <antwoord nummer="5">Voorafgaand aan de toelating van Vertimec voor het gebruik in de sierteelt onder glas zijn de mogelijke artaeidsgezondheidskundige nsico's zorgvuldig geëvalueerd. Naast het toxicologische onderzoek lag aan deze nsico evaluatie een blootstel– lingsstudie onder goed gecontro– leerde omstandigheden in de Neder– landse chrysantenstekteelt ten grondslag. De chrysantenstekteelt is hiervoor gekozen omdat aldaar de toepassing van het onderhavige bestrijdingsmiddel zeer frequent plaatsvindt en de blootstelling van met name vrouwelijke werknemers het meest intensief is. Op grond van bedoelde evaluatie zijn wettelijke gebruiksvoorschriften vastgesteld ter beheersmg van de blootstelling tijdens toepassing en tijdens oogst– werkzaamheden. Na de toelatmg van Vertimec in de sierteelt onder glas zijn in opdracht van het ministerie van Sociale Zaken en Werkgele– genheid door TNO vervolgens metingen onder praktijkomstandig– heden in de rozenteelt uitgevoerd. De metingen betroffen de huidbloot– stelling bij knippen, sorteren en bossen van doornloze rozen. De resultaten van deze metingen worden thans gereedgemaakt voor publikatie. Uit de resultaten blijkt dat verricht ter vaststelling van de deugdelijke werking van Vertimec en voor het doen van bepalmgen van residuen in behandelde gewassen. Vertimec blijkt ook in de teelt van tomaten een, in landbouwkundig opzicht, deugdelijk middel te zijn. Op het tijdstip van de oogst kan een residu aanwezig zijn. Over de aanvaardbaarheid hiervan zal door de Commissie Toelating Bestrijdings– middelen een beoordeling worden gegeven bij de behandeling van de aanvraag tot uitbreiding van de toelating. </antwoord>
+      <antwoord nummer="7">Vertimec is toegelaten als middel ter bestrijding van insekten en mijten in de teelt van siergewassen onder glas en bij de opkweek onder glas van plantmateriaal van andijvie, kropsla, ijsbergsla, aubergine, augurk, courgette, komkommer, meloen, paprika en tomaat. Ingevolge het wettelijk gebruiksvoorschrift is toepassing bij de opkweek onder glas van plantmateriaal uitsluitend toegestaan op bij de Stichting NAKG aangesloten bedrijven. Uitbreiding van de toelating is aangevraagd voor toepassingen in de teelt van sierge– wassen in de volle grond en van vruchtgroenten (met name tomaat en komkommer) onder glas en bladgroenten onder glas (met name kropsla en ijsbergsla). Naar verwachting zal in de tweede helft van dit jaar over deze uitbreidings– aanvragen worden beslist, indien alle voor deze beslissing noodzakelijke gegevens tijdig beschikbaar zijn. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

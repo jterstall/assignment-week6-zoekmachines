@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="2">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001544</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001544&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001544</item>
+         <item attribuut="Document-id">0000027881</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 608</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Jorritsma-Lebbink (VVD) over tolheffing.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 608</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">608</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Jorritsma-Lebbink</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-05-21</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Maij-Weggen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-06-03</item>
+         <item attribuut="Beginpagina">1241</item>
+         <item attribuut="Eindpagina">1242</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991 Aanhangsel van de Handelingen" typehandeling="Vergaderjaar 1990-1991 Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="SDU uitgeverü –s-Gravenhage 1991 Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel 1241" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgeverü –s-Gravenhage 1991 Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel 1241"/>
+      <vraagdata vraagnummer="^•^^^^^^^^^^^^^^^^&quot;&quot;^™" onderwerp="" indiendatum="">
+         <vrager partij="VVD" oorsprong="parlement">Jorritsma-Lebbink</vrager>
+         <vraagt-aan>de orde indien 608 in een notificatieprocedure een tolwet aan de EG wordt voorgelegd. Vragen van het lid Jorritsma-Lebbink (VVD)</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1991-06-3">
+         <antwoorder functie="minister" ministerie="Verkeer en Water– staat">Maij-Weggen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1">Herinnert u zich, dat u tijdens de behandeling van uw begroting in de Eerste Kamer heeft gesteld, dat volgens de Europese commissaris voor transport, de heer Van Miert tolheffing «als het precies op de grens van een land gebeurt, wel discriminerend is, maar dus niet als het heel specifiek gebeurt om het verkeer te geleiden»?' </vraag>
+      <vraag nummer="2">Heeft de Europese Commissie dan wel genoemde commissaris dit standpunt schriftelijk kenbaar gemaakt en - zo ja - bent u dan bereid het desbetreffende stuk aan de Kamer te overleggen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1991-05-14" bron=" Handelingen Eerste Kamer, dd"> Handelingen Eerste Kamer, dd, 14 mei 1991</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja, ik herinner mij het door u aange– haalde citaat. </antwoord>
+      <antwoord nummer="2" voetnoot="1">De opvatting van de Europese Commissaris voor Transport is weergegeven in bijgevoegd persbul– letin van 1 maart 1991. <voetnoot nummer="1"/> Een schrif– telijk standpunt van de Europese </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001793</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001793&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001793</item>
+         <item attribuut="Document-id">0000020179</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 774 Herdruk</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid E. G. Terpstra (VVD) over het dossier «onafgebouwde hotels Aruba».</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 774 Herdruk</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">774 Herdruk</item>
+         <item attribuut="Indiener">
+            <persoon>Terpstra E.G.</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-07-16</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Alders</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-07-31</item>
+         <item attribuut="Beginpagina">1613</item>
+         <item attribuut="Eindpagina">1614</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1613" allpagenumbers="1613" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's-Gravenhage 1992"/>
+      <vraagdata vraagnummer="774" onderwerp="het dossier «onafgebouwde hotels Aruba»." indiendatum="1992-07-16">
+         <vrager partij="" oorsprong="parlement">Terpstra E.G.</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-07-31">
+         <antwoorder functie="minister" ministerie="Nederlands-Antilliaanse en Arubaanse Zaken a.i.}. (Ontvangen 31 juli 1992">Alders</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="1">
+      <vraag nummer="1">Heeft de Rijksministerraad zich wederom gebogen over het dossier «onafgebouwde hotels Aruba» en het ultimatum  dat de Minister-President van Aruba de Nederlandse regering heeft gesteld na de afwijzing van financièle aansprakelijkheid door de Nederlandse regering? Zo ja, welke besluiten zijn terzake genomen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"/>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1" voetnoot="1">Nee. Buiten de Rijksministerraad heeft op 14 juli jl. overleg plaatsgevonden onder voorzitterschap van minister-president Lubbers en in aanwezigheid van mijn collega van Financiën met de minister-president van Aruba en de Arubaanse minister van Financiën. Een verslag van dit overleg heb ik de Kamer reeds doen toekomen. mmister-president Oduber ook het reeds vele jaren in bedrijf zijnde Aruba Caribbean Hotel (Dutchco) ter sprake is gekomen. <voetnoot nummer="1"/> Zie Aanhangsel Handelingen nr. 749, Vergaderjaar 1991-1992. Zo neen, betekent dit dat de openbare uitspraken van de Minister-President Oduber van Aruba onjuist zijn? </antwoord>
+      <antwoord nummer="3" voetnoot="1">Bent u bereid de Kamer gedetailleerd verslag te doen van de onlangs met hem gevoerde besprekingen? <voetnoot nummer="1"/> Zie het verslag van de persconferentie van Minister-President Oduber in zowel «de Amigoi als «de Beurs– en Nieuwsberichten», 8 juli 1992 Ik ben niet in staat de diverse over dit onderwerp verschenen kranteberichten te toetsen aan de afspraken. Daarom houd ik mij liever aan mijn gewoonte niet te reageren op kranteberichten als deze over een door de minister-president van Aruba gegeven persconferentie. </antwoord>
+      <antwoord nummer="3" voetnoot="1">Ik verwijs u hiervoor naar het reeds aan de Kamer gezonden «Raamwerk voor Nederlandse en Arubaanse bijdrage aan oplossing hotelgarantieproblematiek Aruba». <voetnoot nummer="1"/>Bestudering van dit verslag zal u overigens leren dat niet uitsluitend is gesproken over onafgebouwde hotels, maar dat bij het overleg met </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

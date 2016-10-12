@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19931994:0001422</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001422&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001422</item>
+         <item attribuut="Document-id">0000003933</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 208</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Franssen (VVD) over fraude door studenten bij het afleggen van tentamens en examens.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 208</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">208</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Franssen</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-11-19</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Cohen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-12-22</item>
+         <item attribuut="Beginpagina">421</item>
+         <item attribuut="Eindpagina">422</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="421" allpagenumbers="421" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="'s Gravenhage 1993"/>
+      <vraagdata vraagnummer="208" onderwerp="fraude door studenten bij het afleggen van tentamens en examens." indiendatum="1993-11-19">
+         <vrager partij="VVD" oorsprong="parlement">Franssen</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-12-22">
+         <antwoorder functie="staatssecretaris" ministerie="Onderwijs en Wetenschappen">Cohen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Kent u het artikel <voetnoot nummer="1"/> over de fraude door studenten bij het afleggen van tentamens en examens? Deelt u de zorg over de mogelijke toename van fraude zowel kwantitatief als wat de gehanteerde methoden betreft? Wat is u hiervan bekend? </vraag>
+      <vraag nummer="3">Veroorzaakt de Wet op het hoger onderwijs en wetenschappelijk onderzoek nieuwe complicaties bij het intensiever bestrijden van fraude, omdat daarin een formele grondslag voor sancties tegen fraude die verder gaat dan het ongeldig verklaren van het tentamen ontbreekt? </vraag>
+      <vraag nummer="4">Is het ook waar dat, onder andere door rectores magnifici herhaaldelijk maar nog zonder resultaat bij uw ministerie is aangedrongen op het dichten van deze lacune in de wet? Zo ja, wat is daarvan de reden? </vraag>
+      <vraag nummer="5">Bent u bereid wetswijziging te bevorderen, zodat universiteiten verdergaande sancties tegen frauderende studenten kunnen treffen? Is het waar, dat er in Rotterdam inmiddels een commercieel scriptiebureau is opgericht? Verschijnen er in dag– en universiteitsbladen advertenties waarin studenten om scripties vragen? Wat vindt u hiervan? Moet hier niet tegen worden opgetreden? Zo ja, op welke wijze? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1993-11-18" bron=" NRC"> NRC, 18 november 1993</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1">Ja. Fraude is een fenomeen dat bekend is, zolang er getoetst wordt. Mij is niet gebleken dat het aantal fraudegevallen de afgelopen tijd zou zijn gestegen. </antwoord>
+      <antwoord nummer="3">Neen. De Wet op het hoger onderwijs en wetenschappelijk onderzoek (WHW) luidt op dit punt niet anders dan de Wet op het wetenschappelijk onderwijs (WWO 1986) en - vóór de inwerkingtreding van  de  WWO  1986  - de  Wet universitaire bestuurshervorming 1970, zoals gewijzigd bij de Wet twee-fasenstructuur w.o. De vaste commissie voor de examens had op grond van de WIB 1970 en WWO 1986 en de examencommissie heeft op grond van artikel 7.12, vierde lid, van de WHW de bevoegdheid regels vast te stellen met betrekking tot de goede gang van zaken tijdens de tentamens en met betrekking tot de in dat kader te nemen maatregelen. De examencommissie kan dan ook in de vast te stellen regels de maatregelen (sancties) en de procedure vastleggen. </antwoord>
+      <antwoord nummer="4">Voor zover mij bekend, is eenmaal door een lid van een college van bestuur gewezen op problemen bij examenfraude. Geantwoord is conform punt 3. </antwoord>
+      <antwoord nummer="5">Hoewel naar mijn mening artikel 7.12, vierde lid, van de WHW de examencommissie alle ruimte laat adequate maatregelen te nemen, ben ik bereid, nu daarover onzekerheid blijkt te bestaan, te bevorderen dat in de WHW uitdrukkelijk wordt bepaald, dat de bedoelde maatregelen ook kunnen inhouden dat frauderende studenten worden uitgesloten van een of meer volgende tentamengelege.nheden. </antwoord>
+      <antwoord nummer="6">Dat er in Rotterdam een commercieel scriptiebureau is opgericht is mij niet bekend. In het Rotterdamse universiteitsblad is voorzover valt na te gaan geen advertentie verschenen, waarin studenten om scripties vragen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="vakorganisaties. " aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19841985:0002016</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19841985:0002016&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19841985:0002016</item>
+         <item attribuut="Document-id">0000123988</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1984-1985 nummer 895</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Dijkstal (V.V.D.) over het voornemen van een deel van het personeel van de Dienst Luchtvaart van de Rijkspolitie deze dienst te verlaten.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1984-1985 nummer 895</item>
+         <item attribuut="Jaargang">1984_1985</item>
+         <item attribuut="Vraagnummer">895</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Dijkstal</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1985-04-26</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Korthals Altes</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1985-06-10</item>
+         <item attribuut="Beginpagina">1769</item>
+         <item attribuut="Eindpagina">1770</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1984-1985 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1984-1985, Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="895" onderwerp="het voornemen van een deel van het personeel van de Dienst Luchtvaart van de Rijkspolitie deze dienst te verlaten." indiendatum="26 april 1985)">
+         <vrager partij="VVD" oorsprong="parlement">Dijkstal</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1 ">Is het bericht' juist, dat een (groot)  deel van het vliegend personeel van  de Dienst Luchtvaart van de Rijkspolitie  overweegt, de dienst te verlaten  teneinde in dienst te treden bij  burgerluchtvaartmaatschappijen?  </vraag>
+      <vraag nummer="2 ">Is het waar, dat de belangrijkste  overweging daarbij het grote verschil  in salariëring tussen de rijkspolitie en  de burgerluchtvaart is?  </vraag>
+      <vraag nummer="3 ">In hoeverre dreigt hierdoor de  dienstuitoefening van de Dienst  Luchtvaart in gevaar te komen?  </vraag>
+      <vraag nummer="4 ">Ziet de minister aanleiding maatrege- len te nemen? Zo ja, welke maatregelen  overweegt hij?  ' «De Telegraaf» van 25 april j.l.  Antwoord  Antwoord van minister Korthals Altes  (Justitie). (Ontvangen 10 juni 1985)  </vraag>
+      <vraag nummer="1 ">Een deel van het vliegend personeel  van de Dienst Luchtvaart van het  Korps Rijkspolitie heeft onlangs per  dagbladadvertentie zijn diensten  aangeboden. Dit is gebeurd, niet  zozeer in de verwachting en met de  bedoeling dat dit op korte termijn een  andere werkkring zou opleveren, als  wel om uiting te geven aan bij hen  bestaande grieven omtrent het  uitblijven van een nadere regeling van  hun rechtspositie.  2 en 3  Een van de grieven heeft betrekking  op de toegenomen werkdruk, die is  ontstaan als gevolg van het feit dat  reeds een aantal ervaren politievlie- gers is overgestapt naar een burger- luchtvaartmaatschappij. Deze overstap  is voornamelijk veroorzaakt door het  verschil in salariëring tussen de  rijkspolitie en de burgerluchtvaart.  Ondanks de toegenomen werkdruk  loopt de dienstuitoefening van de  Dienst luchtvaart geen gevaar.  </vraag>
+      <vraag nummer="4 ">Teneinde de bestaande tekorten aan  operationele vliegers aan te vullen,  vindt momenteel werving plaats. Voor  wat betreft de grieven op rechtspositi- oneel gebied zal binnenkort tezamen  met de Dienst Luchtvaart en de  betrokken vliegers een inventarisatie  van de problemen worden gemaakt,  waarna ik overleg zal openen met de  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

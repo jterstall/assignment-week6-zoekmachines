@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0002002</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0002002&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0002002</item>
+         <item attribuut="Document-id">0000107777</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 968</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Swildens-Rozendaal (P.v.d.A) over de hydrologische situatie binnen het natuurreservaat de Groote Peel.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 968</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">968</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Swildens-Rozendaal</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-04-06</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Braks</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-08-26</item>
+         <item attribuut="Beginpagina">1933</item>
+         <item attribuut="Eindpagina">1934</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 6 - 1 9 8 7 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="968" onderwerp="de hydrologische situatie binnen het natuurreservaat de Croote Peet" indiendatum="6 april 1987)">
+         <vrager partij="PvdA" oorsprong="parlement">Swildens-Rozendaal</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="26 augustus 1987)">
+         <antwoorder functie="minister" ministerie="Landbouw en Visserij">B r a k s</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1 ">Heeft de minister kennis genomen  van de verontrustende conclusies van  het onderzoek van Staatsbosbeheer  inzake de gevolgen van de uitbreiding  van drainage-voorzieningen in het  landbouwgebied rondom de Groote  Peel voor de hydrologische situatie  binnen het natuurreservaat de Groote  Peel? </vraag>
+      <vraag nummer="1 "/>
+      <vraag nummer="2 ">Welke maatregelen beoogt de  minister te nemen om te voorkomen,  dat de hydrologische omstandigheden  in dit natuurreservaat nadelig worden  beïnvloed? Aan welke termijn denkt  hij daarbij?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1 ">Ja. De afronding van het onderzoek  en de eindrapportage aan het  Overlegorgaan nationaal park in  oprichting de Groote Peel zal naar  verwachting in de tweede helft van  dit jaar plaatsvinden. Inmiddels is in  de begeleidingscommissie van het  onderhavige onderzoek de interimrap- portage besproken. In deze rapporta- ge is het effect van de drainage-voor- zieningen in de omgeving van de  Groote Peel doorgerekend. Op  verzoek van het Overlegorgaan heeft  nog een nadere doorrekening  plaatsgevonden.  </antwoord>
+      <antwoord nummer="2 ">De drainage-werkzaamheden in het  buitengebied van de gemeente Asten  zijn niet aan een aanlegvergunning  gebonden. Hierover loopt momenteel  een Kroonberoep.  Gelet op de mogelijke aantasting  van het natuurgebied, tevens nationaal  park in oprichting de Groote Peel als  gevolg van de drainage-werkzaamhe- den heb ik mij gewend tot het  Overlegorgaan voor dit nationaal  park. Het Overlegorgaan heeft  vervolgens bestuurlijk overleg  geopend met het betrokken gemeen- tebestuur en het bestuur van de  provincie, nadat tevens met haar  Adviesgroep landbouw is gesproken.  Op de resultaten van dit overleg  kan door mij thans niet worden  vooruitgelopen. Naar verwachting  zal bedoeld overleg binnen enkele  maanden zijn afgerond.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19891990:0000941</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0000941&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0000941</item>
+         <item attribuut="Document-id">0000035348</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 22</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Blauw (V.V.D.) over de bouwplannen voor het Instituut voor Bodemvruchtbaarheid.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 22</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">22</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Blauw</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-08-22</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Braks</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-09-27</item>
+         <item attribuut="Beginpagina">43</item>
+         <item attribuut="Eindpagina">44</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="43" allpagenumbers="43" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 921 7398" uitgever="SDU uitgeverij 's Gravenhage 1989"/>
+      <vraagdata vraagnummer="22" onderwerp="de bouwplannen voor het Instituut voor Bodemvruchtbaarheid." indiendatum="1989-08-22">
+         <vrager partij="VVD" oorsprong="parlement">Blauw</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1989-09-27">
+         <antwoorder functie="minister" ministerie="Landbouw en Visserij">Braks</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Heeft de minister kennis genomen van de verontrusting bij de medewerkers van het Instituut voor Bodemvruchtbaarheid te Haren, nu van de zijde van de Directie Landbouwkundig Onderzoek enige vertraging is aangebracht in de uitvoering van de reorganisatie van het landbouwkundig onderzoek, afgesproken in de UCV van 30 november 1987? </vraag>
+      <vraag nummer="2">Zijn de gelden voor de ver– c.q. nieuwbouw van het Instituut inmiddels gereserveerd? </vraag>
+      <vraag nummer="3">Binnen welke termijn kunnen de formatieplaatsen welke een deel van het huidig ITAL uitmaken naar Haren worden overgebracht? </vraag>
+      <vraag nummer="4">Wanneer zal de ver– c.q. nieuwbouw beginnen? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2 en 4">Bij de Dienst Landbouwkundig Onderzoek (DLO) zijn verschillende bouwactiviteiten gaande en in voorbereiding. Daarbij is het uitgangspunt dat grote investeringen (met name als het om totale nieuwbouw van instituten gaat) moeten passen in de lijn dat, voor wat betreft het plantaardig onderzoek en het onderzoek ten aanzien van de bodem, natuurlijke hulpbronnen en de inrichting van het landelyk gebied, het accent steeds meer in Wageningen zal komen te liggen, terwijl onderzoek op veehou– derijgebied in principe in Lelystad zal worden geconcentreerd. De achter– grond voor deze beleidslijn is dat van het onderzoek in de komende jaren een grote krachtsinspanning gevraagd wordt. De Structuurnota Landbouw en het Natuurbeleidsplan geven dat aan. Een intensieve samenwerking tussen de diverse instituten is voor deze krachtsin– spanning onontbeerlijk. Een verder– gaande geografische concentratie van de instituten kan de onderlinge samenwerking vergemakkelijken. Ten aanzien van het Instituut voor Bodemvruchtbaarheid (IB) is op dit moment geen sprake van integrale nieuwbouw maar van een verbouwing. In de tweede helft van de negentiger jaren zijn grote inves– teringen in het IB te voorzien; de vestigingsplaats van het Instituut komt in dat verband aan de orde. De formatieplaatsen welke deel uitmaken van het huidige Instituut voor Toepassing van Atoomenergie in de Landbouw (ITAL) zullen voor het einde van het jaar worden overgeheveld naar de formatie van het IB. Op zich hoeft dit geen invloed te hebben op de geografische plaatsing van de medewerkers. Op korte termijn zal een commissie worden ingesteld, waarvan ook medewerkers van het IB en ITAL deel zullen uitmaken. Deze commissie zal bezien waar deze medewerkers geografisch gezien het best geplaatst kunnen worden. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

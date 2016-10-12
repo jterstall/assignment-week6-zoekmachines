@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001735</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001735&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001735</item>
+         <item attribuut="Document-id">0000012039</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 805</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Aanvullende vragen van het lid Tuinstra (CDA) over fraude met ziekenfondskaarten.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 805</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">805</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Tuinstra</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-07-02</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Simons</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-08-19</item>
+         <item attribuut="Beginpagina">1641</item>
+         <item attribuut="Eindpagina">1642</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1641" allpagenumbers="1641" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="'s Gravenhage 1993"/>
+      <vraagdata vraagnummer="805" onderwerp="fraude met ziekenfondskaarten." indiendatum="1993-07-2">
+         <vrager partij="CDA" oorsprong="parlement">Tuinstra</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-08-19">
+         <antwoorder functie="staatssecretaris" ministerie="Welzijn, Volksgezondheid en Cultuur">Simons</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Mag een ziekenfonds kosten van verstrekkingen vergoeden zonder over het inschrijfnummer van de verzekerde te beschikken? Welke eisen zijn aan de extra beheerskosten van 100 mln. voor de invoering van de nominale premie in 1989 gesteld? </vraag>
+      <vraag nummer="3">Kunnen ziekenfondsen in hun administratie de kosten van verstrekkingen per verzekerde achterhalen? </vraag>
+      <vraag nummer="4">Heeft bij ziekenfondsen controle van de kosten van verstrekkingen per verzekerde plaatsgevonden? </vraag>
+      <vraag nummer="5">Is het toezicht van de Ziekenfondsraad ook op de kosten van verstrekkingen per verzekerde gericht? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ziekenfondsen mogen ten laste van de verplichte ziekenfondsverzekering slechts verstrekkingen vergoeden voorzover het gaat om verstrekkingen verleend aan bij hen ingeschreven verzekerden. Daarom dient controle te worden uitgeoefend op het ingeschreven zijn van de betrokkene bij het ziekenfonds. Het inschrijvingsnummer van een verzekerde kan daarbij hulpmiddel zijn. In het algemeen speelt in de praktijk het inschrijvingsnummer een belangrijke rol bij de controle op de declaraties. Opgemerkt zij echter dat de wet hanteren van een inschrijfnummer nog niet voorschrijft. Daarbij is het zo dat in veel gevallen alleen de hoofdverzekerde een afzonderlijk nummer krijgt. Medeverzekerden zijn dan kenbaar door een code toegevoegd aan het inschrijvingsnummer. </antwoord>
+      <antwoord nummer="2">Het genoemde bedrag van f 100 mln. is in 1989 toegevoegd aan het totale budget voor beheerskosten voor de ziekenfondsen ten behoeve van de uitvoering van de Ziekenfondswet. Uitgangspunt daarbij is geweest de wens de werkelijke extra kosten zo goed mogelijk te benaderen. Deze raming is in de loop van 1989 geëvalueerd. Met name is ook bezien welke kosten een éénmalig karakter hadden. Op grond van dit onderzoek is het bedrag aan beheerskosten in 1990 verlaagd met f 25 mln., zodat uiteindelijk structureel een bedrag van f 75 mln is toegevoegd aan het beheerskostenbudget in verband met invoering van de nominale premie in de ziekenfondsverzekering. De besteding van de beheerskosten wordt door de Ziekenfondsraad gecontroleerd. In 1989 zijn daaraan geen speciale eisen gesteld. </antwoord>
+      <antwoord nummer="3 en 4" voetnoot="1">Tot voor kort was het beschikken over een individuele kostenhistorie per verzekerde niet noodzakelijk. Tegenover de voordelen van het kunnen beschikken over dergelijke overzichten staan de extra beheerskosten die gepaard gaan met het aanleggen en bijhouden van een dergelijke registratie. De voortgaande stelselwijziging, met het leggen van financiële verantwoordelijkheid bij het ziekenfonds en het streven naar een stelsel van normuitkeringen, heeft ertoe geleid dat ziekenfondsen er in toenemende mate toe zijn overgegaan de administratie zodanig in te richten dat inzicht in de kosten per verzekerde beschikbaar is. Dit is echter nog niet bij alle ziekenfondsen volledig mogelijk. Zoals reeds is aangegeven in antwoord op vraag 1 wordt door ziekenfondsen bij het betalen van declaraties controle uitgeoefend op het ingeschreven staan van op het stelsel van wettelijke ziektekostenverzekeringen <voetnoot nummer="1"/> heeft uitgesproken dat de Raad zijn toezicht in het algemeen uitoefende in overeenstemming met de bedoeling van de wetgever. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> TK 1992-1993, 23211, nrs. 1-2</noot>
+      </noten>
+   </antwoorden>
+</kvr>

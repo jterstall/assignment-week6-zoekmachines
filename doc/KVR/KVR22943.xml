@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van Heemst (PvdA) aan de minister van Binnenlandse Zaken en Koninkrijksrelaties over het wissen van AIVD-banden. (Ingezonden 15 april 2005); Antwoord</item>
+         <item attribuut="Bestand">15Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR22943
+</item>
+         <item attribuut="Inhoud">Vragen over het bericht in NOS-Journaal dat AIVD-banden met opnames van gesprekken van leden van de Hofstadgroep twee dagen voor de moord op Theo van Gogh gewist zouden zijn.</item>
+         <item attribuut="Rubriek">Criminaliteit en openbare orde (Inlichtingen- en veiligheidsdiensten) Criminaliteit en openbare orde (Veiligheid)</item>
+         <item attribuut="Trefwoorden">Inlichtingen- en veiligheidsdiensten Terrorisme</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2004-2005, nr. 1578, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2040513010</item>
+         <item attribuut="Afkomstig_van">Binnenlandse Zaken en Koninkrijksrelaties (BZK)</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Van Heemst</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2005-05-03</item>
+         <item attribuut="Datum_indiening">2005-04-15</item>
+         <item attribuut="Document-id">KVR22943</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2004–2005" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="3365" allpagenumbers="3365" vetnummer="2040513010" code="0405tkkvr1578" lopendefooter="Tweede Kamer, vergaderjaar 2004–2005, Aanhangsel" filenaam="KVR22943" issn-nummer="ISSN 0921- 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2005"/>
+      <vraagdata vraagnummer="1578" onderwerp="" indiendatum="2005-04-15">
+         <vrager partij="PvdA" oorsprong="parlement">Van Heemst</vrager>
+         <vraagt-aan>de minister van Binnenlandse Zaken en Koninkrijksrelaties</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2005-05-3">
+         <antwoorder functie="minister" ministerie="Binnenlandse Zaken en Koninkrijksrelaties">Remkes</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Kent u het bericht <voetnoot nummer="1"/>over het wissen van AIVD-banden met gesprekken van leden van de Hofstadgroep twee dagen voor de moord op Theo van Gogh? </vraag>
+      <vraag nummer="2">Waarom zijn die banden gewist? </vraag>
+      <vraag nummer="3">Bestaan voor het wissen van banden richtlijnen? Zo neen, waarom niet? Zo ja, is in strijd met die richtlijnen gehandeld? </vraag>
+      <vraag nummer="4">Is er reden om wel richtlijnen te maken dan wel om de richtlijnen aan te passen? </vraag>
+      <vraag nummer="5">Is bekend of nog te reconstrueren is wat de inhoud van de gesprekken was? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="2005-04-13" bron="NOS-journaal">NOS-journaal, 13 april 2005</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2 t/m 5">In het NOS-journaal van 13 april jl. werd de suggestie gewekt dat de AIVD banden met uitwerkingen van met een microfoon opgenomen gesprekken tussen leden van de Hofstadgroep zou hebben gewist. Dit is echter niet het geval. Anders dan bij de opbrengst van telefoontaps hebben door de AIVD geplaatste microfoons ook opbrengst op de momenten dat geen gesprekken plaatsvinden. De microfoon neemt ook geluiden op die geen relevantie hebben voor het onderzoek. De audiobewerker binnen een team van de AIVD selecteert de geluidsfragmenten die wel relevant zijn voor het onderzoek en maakt hiervan een schriftelijk verslag. Deze selectie vindt plaats aan de hand van de teamopdracht en de daaraan gekoppelde onderzoeksvragen. Zie hiervoor ook mijn antwoorden op kamervragen van het lid Vos (TK 2004–2005, Aanhangsel van de Handelingen, 930). Binnen de AIVD is staand beleid dat van microfoons alleen de geluidsfragmenten die door de audiobewerker als relevant zijn aangemerkt en waarvan dus een schriftelijk verslag is gemaakt, worden bewaard. De beluisterde niet relevante geluidsfragmenten waarvan geen verslag is gemaakt, worden na een bepaalde periode overschreven. Deze periode varieert van één week tot een aantal weken, gerekend vanaf het moment van opname. Er is geen sprake van dat eenmaal beluisterde geluidsfragmenten die relevante gesprekken bevatten, zijn gewist. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

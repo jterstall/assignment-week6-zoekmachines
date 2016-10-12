@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001652</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001652&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001652</item>
+         <item attribuut="Document-id">0000107427</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 619</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Frinking (C.D.A.) over de levering van Nederlandse schepen aan Iran.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 619</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">619</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Frinking</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-02-02</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van Rooy</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-04-23</item>
+         <item attribuut="Beginpagina">1231</item>
+         <item attribuut="Eindpagina">1232</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1986-1987 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1986-1987, Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="619" onderwerp="de levering van Nederlandse schepen aan Iran." indiendatum="2 februari 1987)">
+         <vrager partij="CDA" oorsprong="parlement">Frinking</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="23 april 1987')">
+         <antwoorder functie="Staatssecretaris" ministerie="Economische Zaken">Van Rooy</antwoorder>
+         <mede-antwoorder>de Minister van Buitenlandse Zaken</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1 ">Hebben de ministers kennis genomen  van berichten over de levering van  Nederlandse schepen aan het  ministerie van Defensie in Iran? </vraag>
+      <vraag nummer="1 "/>
+      <vraag nummer="2 ">Levert Nederland schepen aan een  land in oorlog, ja zelfs aan het  betrokken ministerie van Defensie?  </vraag>
+      <vraag nummer="3 ">Komen deze schepen voor op de lijst  van strategische goederen?  </vraag>
+      <vraag nummer="4 ">Zo neen, is de Nederlandse overheid  dan in staat de uitvoer van dit soort  goederen te verhinderen?  </vraag>
+      <vraag nummer="5 ">Zijn in EG-verband maatregelen in  voorbereiding, die uitvoer van  goederen naar een land in oorlog en  met een klaarblijkelijke oorlogsbe- stemming kunnen verbieden?  </vraag>
+      <vraag nummer="6 ">Welke maatregelen staan de regering  voor ogen  o m de uitvoer van goederen  in deze omstandigheden scherper te  kunnen beoordelen en te verhinderen?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1 ">Ja.  Nederland levert in de huidige  omstandigheden geen militair  materieel aan Iran en Irak. Onder  militair materieel worden de produk- ten verstaan zoals omschreven in het  militaire gedeelte van de bijlage van  het Uitvoerbesluit strategische  goederen 1963. Ik wijs er in dit  verband nogmaals op, dat de aard  van het goed bepalend is of al dan  niet van vergunningplicht sprake is  (en dientengevolge van toetsing van  de levering aan de criteria van het  wapenexportbeleid).  </antwoord>
+      <antwoord nummer="3 ">De schepen in kwestie zijn niet van  dien aard dat ze voorkomen op de  strategische goederenlijst, reden  waarom bij export geen vergunning  is vereist (zie antwoord op vraag 2).  4 en 6  Gezien het in 3 gestelde en de EEG  handelspolitieke regelingen ter zake  is de regering niet bij machte een  dergelijke uitvoer te verhinderen.  </antwoord>
+      <antwoord nummer="5 ">In EG-verband zijn geen maatregelen  zoals door vragensteller bedoeld in  voorbereiding.  </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Het antwoord is gedateerd 18 maart  1987, maar als gevolg van een administra-tieve omissie wordt het nu pas gedrukt. </noot>
+      </noten>
+   </antwoorden>
+</kvr>

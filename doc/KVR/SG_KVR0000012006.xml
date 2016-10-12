@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="2">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001702</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001702&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001702</item>
+         <item attribuut="Document-id">0000012006</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 772</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Middel en Valk (beiden PvdA) over de viering van de Bevrijding in 1995.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 772</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">772</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Middel</persoon>
+            <persoon partij="PvdA">Valk</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-07-01</item>
+         <item attribuut="Beantwoorder">
+            <persoon>D'Ancona</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-07-20</item>
+         <item attribuut="Beginpagina">1575</item>
+         <item attribuut="Eindpagina">1576</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1575" allpagenumbers="1575" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="772" onderwerp="de viering van de Bevrijding in 7335.'" indiendatum="1993-07-1">
+         <vrager partij="PvdA" oorsprong="parlement">Middel</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Valk</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-07-20">
+         <antwoorder functie="minister" ministerie="Welzijn, Volksgezondheid en Cultuur">D'Ancona</antwoorder>
+         <mede-antwoorder>de minister van Defensie</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1">Op welke wijze denkt u de coördinatie van alle initiatieven op lokaal, regionaal en landelijk niveau, die beogen de toenmalige bevrijders uit te nodigen voor een bezoek aan ons land in 1995, te ondersteunen? </vraag>
+      <vraag nummer="2">Zal bedoelde coördinatie ertoe leiden, dat alle nog in leven zijnde bevrijders daadwerkelijk in de gelegenheid worden gesteld in 1995 ons land te bezoeken? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Zie ook Aanhangsel Handelingen nr. 685, Vergaderjaar 1992-1993</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Uit de berichten die ons en het Nationaal Comite 4 en 5 mei inmiddels hebben bereikt met betrekking tot voornemens voor lokale en regionale activiteiten in het kader van de 50-jarige viering van de bevrijding in 1994/1995, blijkt, dat het uitnodigen van de toenmalige bevrijders voor een bezoek aan ons land in 1995 sterk in onze samenleving leeft. Plaatselijke en regionale comitès, zoals het Oranje Comité Tilburg en Welcome Again Veterans, hebben onder onze aandacht gebracht, dat zij ter gelegenheid van de 50-jarige viering van de bevrijding in 1994/1995 reeds geruime tijd bezig zijn met de voorbereidingen om wederom oud-strijders naar ons land over te laten komen op dezelfde wijze zoals dit in 1990 gebeurd is. Van velerlei zijden komen er verzoeken op het Nationaal Comité 4 en 5 mei af voor de coördinatie van deze activiteiten, waaronder bijvoorbeeld van het voorbereidingscomité uit Rotterdam. Het Comité Thank You Liberators, dat sedert jaren de deelname van geallieerde bevnjders aan plaatselijke, regionale en landelijke herdenkingen en vieringen coördineert, verstrekt aan de vele plaatselijke en regionale comités die bij de lustrumherdenking en –viering betrokken zin, waaronder de eerdervermelde comités, hiervoor een financiële bijdrage. Tussen het Nationaal Comité 4 en 5 mei en het Comité Thank You Liberators bestaan naast een subsidierelatie directe contacten. Het Nationaal Comité 4 en 5 mei wordt op zijn beurt structureel gesubsidieerd door het ministerie van WVC. De Chef Defensiestaf en de Secretaris-Generaal van WVC maken qualitate qua deel uit van het Nationaal Comitè 4 en 5 mei, zodat uit de eerste hand kan worden vernomen of de voor deze initiatieven gereserveerde gelden al dan niet toereikend zijn. Het Nationaal Comité 4 en 5 mei heeft inmiddels besloten om bij de nationale viering van de bevrijding op 5 mei 1995 alle aandachtte richten op de toenmalige bevrijders en degenen die bevrijd zijn. </antwoord>
+      <antwoord nummer="2">Gelet op de vele initiatieven en plannen die zowel het Nationaal Comitè 4 en 5 mei als ons hebben bereikt, laat het zich aanzien, dat de nog in leven zijnde bevrijders in groten getale deel zullen nemen aan de activiteiten in het kader van de 50-jarige viering van de bevnjdmg in 1994/1995. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

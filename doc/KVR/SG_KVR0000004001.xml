@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19931994:0001490</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001490&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001490</item>
+         <item attribuut="Document-id">0000004001</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 276</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Ter Veer en Tommel (beiden D66) over de «subsidieregeling erkenningsregelingen.»</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 276</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">276</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Ter Veer</persoon>
+            <persoon partij="D66">Tommel</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-12-08</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Kok</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-01-25</item>
+         <item attribuut="Beginpagina">559</item>
+         <item attribuut="Eindpagina">560</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="559" allpagenumbers="559" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 • 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's-Gravenhage 1994"/>
+      <vraagdata vraagnummer="276" onderwerp="de «subsidieregeling erkenningsregelingen.»" indiendatum="1993-12-8">
+         <vrager partij="D66" oorsprong="parlement">Ter Veer</vrager>
+         <vrager partij="D66" oorsprong="parlement">Tommel</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-01-25">
+         <antwoorder functie="minister" ministerie="Economische Zaken a.i.">Kok</antwoorder>
+         <mede-antwoorder>de staatssecretaris van Economische Zaken</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Is de «Subsidieregeling erkenningsregelingen» niet in strijd met een intensivering van het mededingingsbeleid en de bevordering van de dynamiek in de economie? <voetnoot nummer="1"/>Bestaat de kans, dat de toetredingsbarrieres die via aanpassingen van de vestigingswet zullen worden afgebroken, via erkenningsregelingen weer manifest worden? </vraag>
+      <vraag nummer="3">Kan het rapport van Twijstra en Gudde «Naar succes en faalfactoren van erkennmgsregelingen» aan de Kamer worden gezonden? </vraag>
+      <vraag nummer="4">Betekent de subsidieregeling voor erkenningsregelingen, dat in een nieuwe wet economische mededinging de erkennings– en toelatingsregelingen worden uitgezonderd van het generieke verbod op kartels? Is dit niet een voorbeeld van een overbodige subsidieregeling? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="2"/>
+         <noot nummer="1" datum="1993-10-15" bron=" Staatscourant 198"> Staatscourant 198, 15 oktober 1993</noot>
+         <noot nummer="2"> De erkenningsregelingen blijken immers ook zonder deze nieuw ingestelde subsidieregeling vlot tot stand te komen</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">De Subsidieregeling erkenningsregelingen is niet in strijd met een intensivering van het mededingingsbeleid en de bevordering van de marktdynamiek. Erkenningsregelingen kunnen bijdragen aan een verhoging van de kwaliteit van goederen en diensten en aan een verbetering van de marktdoorzichtigheid. Marktdoorzichtigheid is een van de voorwaarden voor een goede marktwerking. In een situatie van vrije onderlinge concurrentie wordt vervolgens door afnemers bepaald of het onder een erkenning vallend aanbod beloond wordt met een groeiend marktaandeel. </antwoord>
+      <antwoord nummer="2">Er zal op worden toegezien dat erkenningsregelingen niet de functie van vestigingsregelingen krijgen. Dit betekent dat erkenningsregelingen de markttoetreding niet mogen belemmeren en dat deze regelingen een reële keuzevrijheid laten aan ondernemers om niet aan zo'n regeling deel te nemen. Erkenningsregelingen moeten een uitdaging zijn voor ondernemers om een kwaliteitsniveau in produkt en/of dienstverlening te bereiken dat beduidend uitstijgt boven de gemiddelde handelspraktijk in hun branche. Zo'n profiel stimuleert het presterend vermogen van ondernemers zonder dat dit anderen mogelijkheden ontneemt om de markt te betreden en zonder dat de mededinging anderszins wordt beperkt. In een binnenkort aan de Tweede Kamer te zenden brief gaan wij nader in op de relatie tussen erkenningsregelingen en mededinging. </antwoord>
+      <antwoord nummer="3">Ja, dit wordt binnenkort aan de Tweede Kamer toegezonden, tezamen met de door mij in maart 1993 aan uw Kamer toegezegde brief over mijn beleid op dit terrein. </antwoord>
+      <antwoord nummer="4">Neen. Op grond van AmvB's krachtens artikel 10 van de Wet economische mededinging zijn respectievelijk worden een aantal soorten mededingingsafspraken - horizontale prijsbinding, marktverdeling en aanbesteding - niet toegestaan. Zulke afspraken kunnen dan ook geen onderdeel uitmaken van erkenningsregelingen. Daarnaast kunnen erkennmgsregelingen op grond van artikel 19 van de Wet economische </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

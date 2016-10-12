@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="gen? " aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19871988:0001498</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001498&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001498</item>
+         <item attribuut="Document-id">0000099212</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1987-1988 nummer 555</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Bolkestein en Keja (beiden V.V.D.) over de uitwijzing van een Nederlandse journalist uit Suriname.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1987-1988 nummer 555</item>
+         <item attribuut="Jaargang">1987_1988</item>
+         <item attribuut="Vraagnummer">555</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Bolkestein</persoon>
+            <persoon partij="VVD">Keja</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1988-04-15</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Lubbers</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1988-05-16</item>
+         <item attribuut="Beginpagina">1115</item>
+         <item attribuut="Eindpagina">1116</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1987-1988 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1987-1988, Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="555" onderwerp="de uitwijzing van een Nederlandse journalist uit Suriname." indiendatum="15 april 1988) Hebt u kennis genomen van het feit, dat een Nederlandse journalist van de Wereldomroep door de militaire politie van Suriname, toen hij op het punt stond het land te verlaten, tot ongewenst persoon werd verklaard en hem bericht werd, dat hij de komende vier jaar het land niet meer zou mogen betreden?">
+         <vrager partij="VVD" oorsprong="parlement">Bolkestein</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Keja</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="2 ">Moest de journalist Suriname  verlaten omdat hij «rare verhalen  over Suriname had verteld»?  </vraag>
+      <vraag nummer="3 ">Wilt u de Surinaamse regering op  korte termijn om opheldering vragen  en daarbij tevens de nieuwe democra- tische ontwikkelingen, zoals Suriname  die voorstaat, betrekken?  Antwoord  Antwoord van minister-president  Lubbers (ministervan Buitenlandse  Zaken a.i.) (Ontvangen 16 mei 1988)  </vraag>
+      <vraag nummer="1 ">Ja.  2 en 3  Bij de Surinaamse autoriteiten is  aanstonds navraag gedaan naar de  redenen van het betrokken inreisver- bod. Uitsluitsel dienaangaande ben ik  wachtende. Een desbetreffend  onderzoek is blijkbaar nog niet  afgerond. In publieke uitspraken van  gezaghebbende Surinaamse zijde is  evenwel gezinspeeld op een voor  burgerlijke en militaire autoriteiten  beledigend gedrag van de Nederland- se journalist in kwestie.  </vraag>
+      <vraag nummer="4 ">Het is uiteraard niet mogelijk, te dien  aanzien enigerlei voorspelling te  doen.  </vraag>
+      <vraag nummer="5 ">Zie mijn antwoord op de vorige  vraag.  Kan deze gang van zaken ook  gevolgen hebben voor toekomstige  bezoeken van Nederlanders aan  Suriname?  </vraag>
+      <vraag nummer="5 ">Zo ja, acht u dit gunstig voor de  Nederlands-Surinaamse betrekkin- </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

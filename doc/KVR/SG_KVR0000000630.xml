@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="5">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19941995:0000630</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000630&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000630</item>
+         <item attribuut="Document-id">0000000630</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1994-1995 nummer 296</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Leers en Van Rooy (beiden CDA) over de aanleg van de HSL naar Nederland.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1994-1995 nummer 296</item>
+         <item attribuut="Jaargang">1994_1995</item>
+         <item attribuut="Vraagnummer">296</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Leers</persoon>
+            <persoon partij="CDA">Van Rooy</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-12-08</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Jorritsma-Lebbink</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-12-21</item>
+         <item attribuut="Beginpagina">597</item>
+         <item attribuut="Eindpagina">598</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1994-1995" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="597" allpagenumbers="597" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1994-1995, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's-Gravenhage 1994"/>
+      <vraagdata vraagnummer="296" onderwerp="de aanleg van de HSL naar Nederland." indiendatum="1994-12-8">
+         <vrager partij="CDA" oorsprong="parlement">Leers</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Van Rooy</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-12-21">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">Jorritsma-Lebbink</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Dreigt onenigheid tussen de Vlaamse en Waalse Regering de aanleg van de Hogesnelheidslijn (HSL) naar Nederland aanzienlijk te vertragen? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Overwegen de Belgische spoorwegen de aanleg van de HSL naar Keulen voorrang te geven boven de aansluiting naar Nederland waardoor deze lijn pas na het jaar 2005 kan worden aangelegd? Zo ja, wat bent u van plan hier tegen te ondernemen? </vraag>
+      <vraag nummer="3">Welke gevolgen heeft een eventueel uitstel voor de gezamenlijke Nederlands-Belgische aanvraag van extra financiële steun bij de Europese Unie voor de aanleg van de HSL ten noorden van Antwerpen? Ziet u mogelijkheden om bij de bespreking van de transeuropese netwerken op de a.s. top in Essen de financiering op dit punt veilig te stellen? </vraag>
+      <vraag nummer="4">Welke invloed hebben de genoemde strubbelingen tussen de Vlaamse en Waalse Regering op de werkzaamheden van de gezamenlijke ambtelijke werkgroep die een integraal rapport moet uitbrengen over de tracé-keuze tussen Nederland en België? Deelt u de mening dat, ondanks al deze vertragingen, de streefdatum van de ingebruikname van de HSL in Nederland gehandhaafd dient te blijven? Zo nee, welke tijdsplanning heeft u dan op het oog? </vraag>
+      <vraag nummer="1"/>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1">Nee, omdat volgens berichten in de Belgische pers inmiddels de Belgische federale regering, de Belgische Spoorwegen en de regeringen van het Vlaamse, het Waalse en het Brusselse gewest, overeenstemming hebben bereikt over de verlening van de op korte termijn noodzakelijke bouwvergunningen voor het traject Brussel-Franse grens. </antwoord>
+      <antwoord nummer="2">Voor de Belgische regering zijn de drie hogesnelheidstreinverbindingen in België allemaal van groot belang. De Belgische regering gaat uit van realisatie van het traject Antwerpen-Nederlandse grens uiterlijk in 2005. Een gezamenlijke ambtelijke Belgisch-Nederlandse werkgroep op hoog niveau zal komend voorjaar een rapport uitbrengen over de financiering en de realisatie van deze lijn. Daarbij worden de Europese financieringsmogelijkheden betrokken. </antwoord>
+      <antwoord nummer="3">Zie het antwoord op vraag 2. Op de vergadering van de Europese Raad in Essen is gesproken over het totale financieringskader voor de Transeuropese Netwerkprojecten, zoals die is opgenomen in het rapport van de Werkgroep Christophersen. De concrete financiering voor individuele projecten was niet aan de orde. De Europese Commissie is voornemens een aparte werkgroep in het leven te roepen die medio volgend jaar moet rapporteren over de nog bestaande problemen met betrekking tot de realisatie van de hogesnelheidstreinverbindingen tussen Parijs-Brussel-Keulen– Amsterdam en Londen. </antwoord>
+      <antwoord nummer="4">Geen, gezien de ondertussen bereikte overeenstemming tussen de betrokken Belgische partijen en gezien het feit dat de tracé-keuze een Vlaams-Nederlandse aangelegenheid is. </antwoord>
+      <antwoord nummer="5"/>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

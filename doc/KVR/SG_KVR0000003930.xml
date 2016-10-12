@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="2">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19931994:0001419</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001419&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001419</item>
+         <item attribuut="Document-id">0000003930</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 205</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Van der Vaart (PvdA) en Esselink (CDA) over bodemsanering.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 205</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">205</item>
+         <item attribuut="Indiener">
+            <persoon>Van der Vaart</persoon>
+            <persoon>Esselink</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-11-29</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Alders</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-12-21</item>
+         <item attribuut="Beginpagina">415</item>
+         <item attribuut="Eindpagina">416</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="415" allpagenumbers="415" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="205" onderwerp="bodemsanering.'" indiendatum="1993-11-29">
+         <vrager partij="" oorsprong="parlement">Van der Vaart</vrager>
+         <vrager partij="" oorsprong="parlement">Esselink</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-12-21">
+         <antwoorder functie="minister" ministerie="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer">Alders</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1">Kunt u bevestigen, dat een burger (particulier), die eigenaar/bewoner van een woning is, niet door de overheid zal worden aangesproken wegens onrechtvaardige verrijking ten gevolge van een ter plaatse uitgevoerde bodemsanering, behoudens voor zover volgens objectieve maatstaven kan worden vastgesteld, dat de koopsom van de woning vanwege kennis over de bodemsituatie bewust lager is overeengekomen dan bij het ontbreken van die kennis zou zijn geschied? </vraag>
+      <vraag nummer="2">Wat is de stand van zaken met betrekking tot de voortgang van de bodemsanering in het Garenkokerskwartier te Haarlem, in elk geval wat betreft de afbakening van het geval en de vaststelling dat het gaat om een ernstig geval van bodemverontreiniging, en van de urgentie van de sanering? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">De vraag kan bevestigend worden beantwoord. Daarbij wordt ervan uitgegaan dat de eigenaar-bewoner zelf geen veroorzaker van de verontreiniging is of een duurzame rechtsbetrekking met de veroorzaker heeft gehad. Het bevestigende antwoord geldt uitsluitend voor eigenaren-bewoners. Tijdens de behandeling van het wetsvoorstel tot uitbreiding van de Wet bodembescherming met een regeling inzake sanering van de bodem' heb Ik toegezegd terzake met een verduidelijkende notitie te komen. </antwoord>
+      <antwoord nummer="2">Gedeputeerde Staten van de provincie Noord-Holland hebben het Garenkokerskwartier niet als een omvangrijk geval aan mij voorgelegd. Daarom beschik ik niet over informatie om de gestelde vragen te beantwoorden. Navraag bij de provincie heeft uitgewezen, dat de afbakening van het geval plaats heeft door middel van het nader onderzoek waarvan fase 7 inmiddels nagenoeg is voltooid. Op grond van de tot nu toe bereikte resultaten van het nader onderzoek is vastgesteld dat binnen het betreffende stadsdeel sprake is van verschillende gevallen van ernstige verontreiniging. Er heeft ambtelijk overleg plaats tussen gemeente en provincie over de aanpak van de verschillende met elkaar samenhangende gevallen. Voorshands is in het bodemsaneringsprogramma van de provincie de urgentie van het geval Garenkokerskwartier bepaald op 120 punten op een schaal van 160 punten. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Kamerstuk 21 556</noot>
+      </noten>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001703</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001703&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001703</item>
+         <item attribuut="Document-id">0000020089</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 685</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Ybema (D66) over in Nederland ingeschreven buitenlandse rechtspersonen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 685</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">685</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Ybema</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-06-04</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Hirsch Ballin</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-06-29</item>
+         <item attribuut="Beginpagina">1433</item>
+         <item attribuut="Eindpagina">1434</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1433" allpagenumbers="1433" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="s Gravenhage 1992"/>
+      <vraagdata vraagnummer="685" onderwerp="in Nederland ingeschreven buitenlandse rechtspersonen." indiendatum="1992-06-4">
+         <vrager partij="D66" oorsprong="parlement">Ybema</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-06-29">
+         <antwoorder functie="minister" ministerie="Justitie">Hirsch Ballin</antwoorder>
+         <mede-antwoorder>staatssecretaris Kosto (Justitie)</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Herinnert u zich uw toezegging deze Kamer uiterlijk 1 december 1991 de uitkomsten mee te delen van de door de Economische Controle Dienst verzorgde actualisering van het aantal in Nederland ingeschreven buitenlandse rechtspersonen?' </vraag>
+      <vraag nummer="2">Waarom is deze toezegging tot op heden niet nagekomen? Wanneer denkt u de uitkomsten van deze actualisering aan deze Kamer aan te bieden? </vraag>
+      <vraag nummer="3">Is door de Adviescommissie Vennootschapsrecht reeds advies uitgebracht over de vraag welke wettelijke maatregelen kunnen worden overwogen met betrekking tot de zogenaamde pseudo-buitenlandse rechtspersonen? </vraag>
+      <vraag nummer="4">Welke maatregelen over het (ongewenst) gebruik van buitenlandse rechtspersonen zijn door u reeds genomen? Welke maatregelen zijn nog in voorbereiding? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja. Het desbetreffende rapport van de Economische Controledienst, getiteld «Buitenlandse rechtspersonen in Nederland», is eind februari van dit jaar beschikbaar gekomen. Een exemplaar van het rapport gaat hierbij. Alvorens het rapport aan de Tweede Kamer toe te zenden, zijn de resultaten van het onderzoek aan een nadere analyse onderworpen om na te gaan of er beleidsmatige gevolgen aan moeten worden verbonden. Ook na deze analyse blijkt de enige algemene conclusie die uit het onderzoek kan worden getrokken, te zijn dat het aantal bij de Kamers van Koophandel ingeschreven buitenlandse rechtspersonen van ca. 2700 in april 1989 is gestegen naar ca. 3700 in oktober 1991. Deze toename is op zich zelf niet onrustbarend te noemen. Ik meen daarom dat voorshands kan worden volstaan met een periodieke actualisering van dit gegeven. </antwoord>
+      <antwoord nummer="3">Het in de vraag bedoelde advies is nog niet uitgebracht. Vermoedelijk zal het mij in de loop van dit najaar bereiken. </antwoord>
+      <antwoord nummer="4">Ik herinner in dit verband aan het antwoord op de eerder door de heer Ybema over dit onderwerp gestelde vragen, in het bijzonder het antwoord op de vierde vraag, waar is gesteld dat de mogelijkheden die het Nederlands recht kent om misbruik van rechtspersonen tegen te gaan ook kunnen worden toegepast ten aanzien van (pseudo–) buitenlandse rechtspersonen en waar gewezen wordt op artikel 138, lid 11, Boek 2 van het Burgerlijk Wetboek. Ik overweeg thans geen andere wettelijke maatregelen. Voor het overige krijgt ook het aspect van de buitenlandse rechtspersonen de nodige aandacht in het kader van de activiteiten ter voorkoming en bestrijding van misbruik door en met behulp van rechtspersonen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

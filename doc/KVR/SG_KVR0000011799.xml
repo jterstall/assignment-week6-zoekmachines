@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001495</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001495&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001495</item>
+         <item attribuut="Document-id">0000011799</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 565</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden De Cloe en Netelenbos (beiden PvdA) over de voorgenomen besturenfusie, van vier Udense scholen voor voortgezet onderwijs.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 565</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">565</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">De Cloe</persoon>
+            <persoon partij="PvdA">Netelenbos</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-04-02</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Wallage</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-05-14</item>
+         <item attribuut="Beginpagina">1157</item>
+         <item attribuut="Eindpagina">1158</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1157" allpagenumbers="1157" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Planlijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="565" onderwerp="de voorgenomen besturenfusie, van vier Udense scholen voor voortgezet onderwijs." indiendatum="1993-04-2">
+         <vrager partij="PvdA" oorsprong="parlement">De Cloe</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Netelenbos</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="14 mei 1993). Zie ook aanhangsel Handelingen nr. 539, Vergaderjaar 1992-1993">
+         <antwoorder functie="staatssecretaris" ministerie="Onderwijs en Wetenschappen">Wallage</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Hebt u kennis genomen van het besluit om vier Udense scholen voor voortgezet onderwijs (drie katholieke en een openbare school) onder te brengen in de Samenwerkingsstichting voor voortgezet onderwijs Uden?' </vraag>
+      <vraag nummer="2" voetnoot="2">Wat is uw reactie hierop? Deelt u het standpunt, dat door deze besturenfusies voldoende kan worden voorzien in de geconstateerde behoefte aan openbaar onderwijs? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="3">Voldoet deze samenwerkingsschool aan de ijkpunten waaraan de bestuursvorm voor het openbaar onderwijs zal worden beoordeeld? Zo ja, bent u bereid deze op lokale factoren afgestemde bestuursvorm alle kansen te geven om zo de samenwerkingsschool vorm en inhoud te geven? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="3" datum="1993-03-19" bron="' Zie raadsvoorstel van de gemeente Uden,">' Zie raadsvoorstel van de gemeente Uden,, 19 maart 1993</noot>
+         <noot nummer="2" titel="De thans voorliggende bij het besluit tot besturenfusies behorende ontwerp statuten bieden naar onze mening voldoende waarborgen voor behoud van de kenmerken en de verworvenheden van het openbaar voortgezet onderwijs, zowel bestuurlijk als institutioneel en onderwijskundig"> Zie raadsvoorstel bladzijde 5. «De thans voorliggende bij het besluit tot besturenfusies behorende ontwerp statuten bieden naar onze mening voldoende waarborgen voor behoud van de kenmerken en de verworvenheden van het openbaar voortgezet onderwijs, zowel bestuurlijk als institutioneel en onderwijskundig»</noot>
+         <noot nummer="3"> De Bijlage, punt 5, behorende bij de brief van de Minister-President, d d 26 maart 1993. Kamerstuk 22 827, nr 5, vergaderjaar 1992-1993</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja. In de praktijk wordt om diverse redenen besloten tot samenwerking tussen openbaar en bijzonder onderwijs. Ik heb daartegen geen bezwaar. Ten aanzien van de in dit geval gekozen rechtsvorm merk ik het volgende op. Volgens de huidige onderwijswetgeving is een samenwerkingsschool die door een stichting in stand wordt gehouden, ongeacht de inhoud van de statutaire bepalingen, formeel een bijzondere school. Het onderbrengen van een openbare school in een samenwerkingsstichting betekent derhalve omzetting daarvan in een bijzondere school. Daartoe moet een verzoek ex artikel 75a van de Wet op het Voortgezet Onderwijs bij mij worden ingediend. In dat kader brengt de provincie advies uit over de vraag of het verzoek past in het evenwichtig geheel van voorzieningen. Zij hoort daar bij de belanghebbenden. Toestemming wordt door mij slechts verleend als de omzetting, gelet op de voorzieningen in het voedingsgebied, geen aanleiding geeft tot het stichten van een nieuwe openbare school omdat anders niet in de behoefte aan openbaar onderwijs kan worden voorzien. In het algemeen worden verzoeken tot omzetting in het kader van fusie in het voortgezet onderwijs, waarbij vertegenwoordigers van openbaar en bijzonder onderwijs samenwerken in een stichtingsvorm en de provincie positief adviseert, door mij gehonoreerd. De te vormen samenwerkingsschool wordt dan in de praktijk geacht mede te voorzien in openbaar onderwijs. </antwoord>
+      <antwoord nummer="3" voetnoot="1">Thans voer ik overleg met de onderwijsorganisaties over de bestuurlijke vernieuwing in het onderwijs. Een van de onderwerpen die daarbij aan de orde zijn, is de bestuursvorm van het openbaar onderwijs. De minister-president heeft u eind maart 1993 een brief doen toekomen over decentralisatie (en deregulering) in het onderwijs. <voetnoot nummer="1"/>Daarin is sprake van het voornemen van het kabinet om te komen tot een verzelfstandigde bestuursvorm voor het openbaar onderwijs volgens een publiekrechtelijk model. Deze vorm zou ook voor de samenwerkingsschool bruikbaar kunnen zijn. Ik vind het echter raadzaam na te gaan, en zo ja, welke voorzieningen op het gebied van de bestuursvorm nodig zijn specifiek voor het bestuur van een </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

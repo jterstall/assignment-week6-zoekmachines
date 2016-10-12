@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001741</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001741&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001741</item>
+         <item attribuut="Document-id">0000107516</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 708</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Beckers-de Bruijn (P.P.R.) over de behandeling van sexuele problemen door gynaecologen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 708</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">708</item>
+         <item attribuut="Indiener">
+            <persoon partij="PPR">Beckers-de Bruijn</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-04-03</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Dees</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-05-20</item>
+         <item attribuut="Beginpagina">1405</item>
+         <item attribuut="Eindpagina">1406</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 6 - 1 9 8 7 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="708" onderwerp="de behandeling van sexuele problemen door gynae- cologen." indiendatum="3 april 1987)">
+         <vrager partij="PPR" oorsprong="parlement">Beckers-de Bruijn</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="20 mei 1987)">
+         <antwoorder functie="staatssecretaris" ministerie="Welzijn, Volksgezondheid en Cultuur">D e e s</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 ">Is u bekend, dat in recent onderzoek  over het bespreken en behandelen van  sexuele problemen door gynaecologen  - meer dan de helft van de betrokken  gynaecologen de eigen gespreksvaar- digheid gebrekkig en een derde deze  absoluut onvoldoende acht;  - ruim driekwart de eigen sexuologi- sche scholing onvoldoende vindt en  behoefte heeft aan meer kennis op dit  punt en oefening in gesprekstechniek;  - driekwart aan geen enkele vorm van  postdoctoraal onderwijs in de sexuo- logie heeft deelgenomen?  </vraag>
+      <vraag nummer="2 ">Is u bekend, dat  - 20% van deze gynaecologen  persoonlijke en/of emotionele  belemmeringen ondervindt bij het  bespreken van sexuele problemen met  hun patiënten;  - de helft het niet goedkeurt, dat  vrouwen buitenechtelijke sexuele  contacten hebben;  - een kwart vindt, dat vrouwen van  nature zijn bestemd voor de rol van  m o e d e r e n  h u i s v r o u w ;  - een derde deel van hen vrouwen het  recht ontzegt op een legale abortus;  - zestig procent geen inzicht heeft in  de superieure positie van de mannelijke  gynaecoloog tegenover de vrouwelijke  patiënt?  </vraag>
+      <vraag nummer="3 ">Geven deze uitkomsten een reden  voor commentaar?  Deelt u de mening, dat deze belem- meringen die veel gynaecologen bij  het bespreken en behandelen van  sexuele problemen ervaren, structurele  maatregelen nodig maken?  </vraag>
+      <vraag nummer="5 ">W a t gaat u daaraan doen?  Zie eerdere vragen n.a.v. het onder- zoek van  J . Frenken en P. van Tol,  beschreven in Medisch contact van  3 0 januari  j . l . , nr. 5. Aanhangsel 544.  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1 ">Het desbetreffende onderzoek is mij  bekend.  </antwoord>
+      <antwoord nummer="2 ">De geciteerde uitkomsten van het  onderzoek zijn mij bekend.  </antwoord>
+      <antwoord nummer="3 ">Voor zover de geciteerde uitkomsten  relevant zijn voor het adequaat  kunnen functioneren van gynaecolo- gen, dienen deze te worden betrokken  bij eventuele maatregelen ter  verbetering.  4 en 5  Ik neem mij voor de wetenschappelijke  vereniging voor obstetrie en gynaeco- logie om commentaar te vragen en te  verzoeken aan te geven op welke  wijze in de desbetreffende opleiding  en nascholing meer systematisch  aandacht aan deze materie kan  worden gegeven.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

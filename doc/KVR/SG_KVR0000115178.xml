@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="2">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19851986:0001618</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001618&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001618</item>
+         <item attribuut="Document-id">0000115178</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1985-1986 nummer 697</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van Erp (V.V.D.) over uitvoering van een motie inzake een zoekplan om werkzoekenden te ondersteunen bij het verwerven van een baan.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1985-1986 nummer 697</item>
+         <item attribuut="Jaargang">1985_1986</item>
+         <item attribuut="Vraagnummer">697</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Van Erp</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-04-08</item>
+         <item attribuut="Beantwoorder">
+            <persoon>De Koning</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-05-14</item>
+         <item attribuut="Beginpagina">1385</item>
+         <item attribuut="Eindpagina">1386</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1985-1986 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 5 - 1 9 8 6 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="697" onderwerp="uitvoering van een motie inzake een zoekplan om werkzoekenden te ondersteunen bij het verwerven van een baan." indiendatum="8 april 1986)">
+         <vrager partij="VVD" oorsprong="parlement">Van Erp</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="14 mei 1986)">
+         <antwoorder functie="" ministerie="Sociale Zaken en Werkgele- genheid"/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1 ">Op welke wijze zal de door deze  Kamer aanvaarde motie (Kamerstuk  19210, nr. 22) inzake het zoekplan  als ideaal hulpmiddel om werkzoekeiv  den te ondersteunen bij het verwerven  van een baan worden uitgevoerd?  </vraag>
+      <vraag nummer="2 ">In hoeverre is mede bij de campagne  om schoolverlaters te doen doorstro- men naar de arbeidsmarkt uitwerking  gegeven aan de inhoud van deze  motie?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1 ">De door deze Kamer aanvaarde  motie is gebaseerd op een idee dat  vermeld is in de rapportage van het  onderzoek «Afstemming van vraag  en aanbod op de arbeidsmarkt deel  II, «Werkzoekenden»». Daarin wordt  tevens vermeld dat zo'n zoekplan  nog niet in concreto ontwikkeld is  (blz. 109, punt 6.4 e.v.) maar dat  nader onderzoek noodzakelijk is. De  idee die achter het zoekplan zit is dat  reclametechnieken van pas kunnen  komen. De effectiviteit van het  zoekgedrag van werkzoekenden zou  volgens voornoemd rapport op deze  wijze verbeterd kunnen worden. Er is  in dat kader een tweetal onderzoeken  aan te wijzen dat hierover nadere  informatie zal kunnen verschaffen:  a. Door onderzoekers die aan  «Afstemming van vraag en aanbod  enz.» hebben gewerkt wordt sinds  januari van dit jaar een klein onderzoek  verricht waarbij een ondersteunings- instrument voor langdurig werklozen  wordt ontwikkeld. Binnen een paar  maanden zijn hiervan de resultaten te  verwachten.  b. Via het informatiecentrum van het  arbeidsbureau wordt het zoekgedrag  van werkzoekenden ondersteund.  Binnenkort start een uitgebreid  onderzoek naar de wijze waarop dat  zo effectief mogelijk kan gebeuren.  De resultaten hiervan zijn echter pas  op lange termijn beschikbaar.  </antwoord>
+      <antwoord nummer="2 ">Gezien de beantwoording van vraag  1 is het nog niet mogelijk geweest  om bij de schoolverlaterscampagne  1986 op concrete wijze invulling te  geven aan de voornoemde motie.  Zodra er echter bruikbare resultaten  uit de eerstgenoemde onderzoeken  beschikbaar komen, ligt het voor  de hand dat die op alle mogelijke  manieren toegepast zullen worden  door de arbeidsbureaus dus ook ten  behoeve van toekomstige schoolver- laterscampagnes.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

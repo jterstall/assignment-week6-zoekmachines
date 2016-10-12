@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001306</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001306&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001306</item>
+         <item attribuut="Document-id">0000035713</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 384</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Willems (Groen Links) over de Informatiseringsbank.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 384</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">384</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Willems</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-03-06</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Ritzen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-03-08</item>
+         <item attribuut="Beginpagina">773</item>
+         <item attribuut="Eindpagina">774</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="773" allpagenumbers="773" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="384" onderwerp="de Informatiseringsbank." indiendatum="1990-03-6">
+         <vrager partij="Groen Links" oorsprong="parlement">Willems</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-03-8">
+         <antwoorder functie="minlster" ministerie="Onderwijs en Wetenschappen">Ritzen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Zijn er vorig jaar bij een school/ studiecontrole twintigduizend studenten ten onrechte als niet-ingeschreven aangemerkt? </vraag>
+      <vraag nummer="2">Zijn er maatregelen genomen om te voorkomen, dat dat dit jaar weer gebeurt? Kunt u garanderen, dat de ruim honderdduizend brieven die de Informatiseringsbank heeft verzonden terecht komen bij de juiste mensen en niet bij studenten die wel degelijk staan ingeschreven? </vraag>
+      <vraag nummer="3">Als u niet kunt garanderen, dat er weer veel studenten ten onrechte als niet-ingeschreven worden aange– merkt, kunt u dan een schatting geven hoeveel dat er zullen zijn? Welke maatregelen neemt u teneinde te voorkomen, dat de studiefinanciering van deze groep in gevaar komt? </vraag>
+      <vraag nummer="4">Welke maatregelen gaat u nemen teneinde het functioneren van de Informatiseringsbank op korte termijn te verbeteren en deze problemen nu eindelijk uit de weg te ruimen? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Neen. Bij de jaarlijkse controle op daadwerkelijk studeren begin 1989 is aan 80000 ontvangers van studiefi– nanciering een vragenlijst gezonden omdat de inschrijvingsgegevens van betrokkenen ontbraken of niet volledig waren. Het gaat hier om een van de procedures die er toe moeten leiden dat rechthebbenden wel en niet-rechthebbenden geen studiefi– nanciering ontvangen. Uiteindelijk bleek dat ruim zesduizend personen verzuimd hadden tijdig op te geven dat ze waren afgestudeerd of niet langer studeerden. Het zenden van een controlefor– mulier betekent niet dat de betrok– kenen op voorhand als niet-ingeschrevenen worden aange– merkt. </antwoord>
+      <antwoord nummer="2">Dit jaar wordt dezelfde procedure gevolgd en is aan ruim honderd– duizend betrokkenen een vragenlijst gezonden. Deze voeg ik, met de toelichting, ter informatie bij. Uit de overgelegde stukken blijkt dat de betrokkenen niet als niet-ingeschrevenen worden aange– merkt. </antwoord>
+      <antwoord nummer="3">Indien de gevraagde informatie correct en tijdig wordt verstrekt komt de studiefinanciering voor rechtheb– benden nlet in gevaar. Het functioneren van de Informatise– ringsbank speelt in deze geen rol. Oorzaken van het niet tijdig en correct beschikbaar zijn van de benodigde informatie liggen buiten de Informatiseringsbank. Het is veelal een gevolg van onvolledige of te late informatieverstrekking door de instellingen over de ingeschre– venen. Het ligt in de bedoeling om op korte termijn de berekening van de Rijksbijdrage van de instellingen te relateren aan de gegevens over de ingeschrevenen. Een gevolg hiervan is dat het belang van de instelling zal leiden tot een adequatere informatie– levering over de ingeschrevenen en een reductie van informatiestromen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="beantwoording zorg dragen." aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001729</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001729&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001729</item>
+         <item attribuut="Document-id">0000036136</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 805</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Lankhorst (Groen Links) over activiteiten van Richard Stegeman voor de Centrale Recherche Informatiedienst.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 805</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">805</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Lankhorst</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-07-06</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Hirsch Ballin</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-07-19</item>
+         <item attribuut="Beginpagina">1627</item>
+         <item attribuut="Eindpagina">1628</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1627" allpagenumbers="1627" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="805" onderwerp="activiteiten van Richard Stegeman voor de Centrale Recherche Informatiedienst." indiendatum="1990-07-6">
+         <vrager partij="Groen Links" oorsprong="parlement">Lankhorst</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1">Is ene Richard Stegeman sinds 1975 de Centrale Recherche Informatie– dienst (CRI) behulpzaam geweest bij de opsporing van illegale handel in verdovende middelen? Deed hij dat als burger en heeft hij nooit een dienstverband gehad met de Neder– landse politie of justitie?' </vraag>
+      <vraag nummer="2">Is hij hoofdzakelijk gebruikt door de Drugs Enforcement Administration (DEA) van het Amerikaanse minis– terie van Justitie en is hij actief geweest in ondermeer Nederland, België, Frankrijk, Spanje, Italië, India en de Verenigde Staten? </vraag>
+      <vraag nummer="3" voetnoot="2">Zijn hem voor zijn werkzaamheden dagvergoedingen, beloningen en tipgeld verstrekt door de DEA en de CRI? Welk deel van de werkzaam– heden moet als informatie, welk deel als infiltratie beschouwd worden? Waar legt u de grens tussen die beide vormen van activiteiten? Kan een brandstichting in zijn woning in Rottum op 26 januari 1982 in verband gebracht worden met zijn activiteiten voor de CRI en is door de bemoeienis van deze dienst een schikking mogelijk geworden met de verzekeringsmaatschappij Klaverblad Schadeverzekeringen B.V. in Zoetermeer? <voetnoot nummer="2"/>Deelt u de mening, dat het onaan– vaardbaar is, dat burgers door de politie en justitie actief worden ingezet bij de oposporing van illegale handel in verdovende middelen of bij de opsporing van andere zware criminele activiteiten? Hoe kan bijvoorbeeld hun veiligheid zonder enige rechtspositie worden gegaran– deerd? </vraag>
+      <vraag nummer="6">In hoeveel gevallen heeft de CRI direct of indirect via de DEA de afgelopen jaren gebruik gemaakt van Richard Stegeman als infiltrant? </vraag>
+      <vraag nummer="7">Moet uit de in vraag 4 genoemde activiteiten van de CRI opgemaakt worden, dat de CRI enige aansprake– lijkheid erkent voor burgers die de dienst behulpzaam zijn? Welke gedragslijn bestaat er ten aanzien van schade, die direct of indirect met de werkzaamheden in verband gebracht kunnen worden? </vraag>
+      <vraag nummer="8">Welke (psychologische) begeleiding krijgen burger-informanten? Worden ze net als Richard Stegeman vaker in gevangenissen geworven? Welke afbakening bestaat er tussen de zogenaamde pseudo-koop van opsporingsambtenaren en de voorbereidende activiteiten van burgers? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1990-07-2" bron=" Nieuwsblad van het Noorden"> Nieuwsblad van het Noorden, 2 juli 1990</noot>
+         <noot nummer="2" datum="1990-07-3" bron=" Nieuwsblad van het Noorden"> Nieuwsblad van het Noorden, 3 juli 1990</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+   <mededeling mededeler="Hirsch Ballin" functie="minister" afdeling="Justitie" mededelingdatum="1990-07-19">Mededeling van minister Hirsch Ballin (Justitie) (Ontvangen 19 juli 1990) In antwoord op uw brief bericht ik u dat het tot mijn spijt niet mogelijk is gebleken de door het lid uwer Kamer, de heer Lankhorst, gestelde vragen binnen de daarvoor gestelde termijn te beantwoorden, aangezien ik de gevraagde ambtsberichten nog niet heb ontvangen. Na ontvangst van de ambtsberichten zal ik zo spoedig mogelijk voor </mededeling>
+</kvr>

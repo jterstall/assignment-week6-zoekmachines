@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="1">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001464</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001464&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001464</item>
+         <item attribuut="Document-id">0000019850</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 448</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Valk en Stoffelen (beiden PvdA) over het doden van Serviërs door Nederlandse vrijwilligers in Kroatië.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 448</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">448</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Valk</persoon>
+            <persoon partij="PvdA">Stoffelen</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-02-13</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Hirsch Ballin</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-03-11</item>
+         <item attribuut="Beginpagina">947</item>
+         <item attribuut="Eindpagina">948</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="947" allpagenumbers="947" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="448" onderwerp="het doden van Serviërs door Nederlandse vrijwilligers in Kroatië." indiendatum="1992-02-13">
+         <vrager partij="PvdA" oorsprong="parlement">Valk</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Stoffelen</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-03-11">
+         <antwoorder functie="minister" ministerie="Justitie">Hirsch Ballin</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="1">
+      <vraag nummer="1">Hebt u kennis genomen van vraaggesprekken met Nederlandse vrijwilligers in Kroatië, waarin zij toegeven Serviërs te hebben gedood?' gepleegd in het kader van die strijd door het openbaar ministerie niet strafrechtelijk kan worden opgetreden. Ook het internationale recht bevat geen regels op basis waarvan strafrechtelijk zou kunnen worden opgetreden tegen deze activiteiten. Wilt u zo spoedig mogelijk mededelen of hier sprake is van strafbare feiten, die vervolgd zullen worden? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> HP/De Tijd van 7 februari jl Zie ook aanhangsel Handelingen nr. 364, Vergaderjaar 1991-1992</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1">Ja. Zoals mijn ambtgenoot van Buitenlandse Zaken uw Kamer reeds eerder meedeelde (aanhangsel Handelingen nr. 364, Vergaderjaar 1991-1992) vormt het deelnemen door Nederlandse vrijwilligers aan de gewapende strijd in Joegoslavië naar Nederlands recht geen strafbaar feit, zodat tegen gevechtshandelingen </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

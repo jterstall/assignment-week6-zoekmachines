@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19941995:0000566</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000566&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000566</item>
+         <item attribuut="Document-id">0000000566</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1994-1995 nummer 231</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Apostolou (PvdA) over de studiedag over de bestrijding van rassendiscriminatie.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1994-1995 nummer 231</item>
+         <item attribuut="Jaargang">1994_1995</item>
+         <item attribuut="Vraagnummer">231</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Apostolou</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-11-07</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Dijkstal</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-11-29</item>
+         <item attribuut="Beginpagina">463</item>
+         <item attribuut="Eindpagina">464</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1994-1995" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="463" allpagenumbers="463" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1994-1995, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's-Gravenhage 1994"/>
+      <vraagdata vraagnummer="231" onderwerp="de studiedag overde bestrijding van rassendiscriminatie." indiendatum="1994-11-7">
+         <vrager partij="PvdA" oorsprong="parlement">Apostolou</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-11-29">
+         <antwoorder functie="minister" ministerie="Binnenlandse Zaken">Dijkstal</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1" voetnoot="1">Is aan de studiedag over de bestrijding van rassendiscriminatie op 28 oktober te Leiden, die uw ministerie financieel ondersteunde, deelgenomen door personen die juist openlijk rassendiscriminatie propageren? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Wat vindt u van de deelname van deze personen aan deze door u ondersteunde activiteit? Deelt u de mening, dat activiteiten die bedoeld zijn om deskundigheid in de bestrijding van rassendiscriminatie te verhogen niet tevens gericht kunnen zijn op personen en organisaties die rassendiscriminatie propageren? Welke richtlijnen hanteert u in deze? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Bijgevoegde lijst van deelnemers is ondershands aan de regering doorgezonden</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Aan de studiedag over de bestrijding van rassendiscriminatie op 28 oktober te Leiden, georganiseerd door het Nederlands Juristen Comité voor de Mensenrechten, is inderdaad deelgenomen door een tweetal personen die kennelijk in de door u bedoelde zin enige bekendheid genieten. </antwoord>
+      <antwoord nummer="2">Mede gelet op het doel van de studiedag, namelijk het vergroten van de deskundigheid op hetterrein van de bestrijding van rassendiscriminatie, acht ik een zo groot mogelijke deelname als een in beginsel positief gegeven. Het is niet aan de overheid om voorwaarden te stellen t.a.v. de opvattingen van diegenen die deelnemen aan een studiedag. </antwoord>
+      <antwoord nummer="3">Het overheidsbeleid is er op gericht de deskundigheid op hetterrein van de bestrijding van discriminatie naar ras te vergroten. Mogelijkheden welke ertoe strekken dit doel te bevorderen, zullen door de regering worden gestimuleerd. Gelet op het gestelde bij de beantwoording van vraag 2, zijn er in deze geen richtlijnen door de overheid vastgesteld. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

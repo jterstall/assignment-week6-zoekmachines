@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001476</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001476&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001476</item>
+         <item attribuut="Document-id">0000019862</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 460</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Mulder-van Dam en Esselink (beiden CDA) over de gevolgen van de Duitse verpakkingsverordening voor Nederland.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 460</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">460</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Mulder-van Dam</persoon>
+            <persoon partij="CDA">Esselink</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-02-03</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Alders</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-03-17</item>
+         <item attribuut="Beginpagina">971</item>
+         <item attribuut="Eindpagina">972</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="971" allpagenumbers="971" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's-Gravenhage 1992"/>
+      <vraagdata vraagnummer="460" onderwerp="de gevo/gen van de Duitse verpakkingsverordening voor Nederland." indiendatum="1992-02-3">
+         <vrager partij="CDA" oorsprong="parlement">Mulder-van Dam</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Esselink</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="17 maart 1992), zie ook Aanhangsel Handelingen, nr. 397, Vergaderjaar 1991-1992">
+         <antwoorder functie="minister" ministerie="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer">Alders</antwoorder>
+         <mede-antwoorder>de staatssecretaris van Economische Zaken</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="8">
+      <vraag nummer="1">Heeft de regering zich inmiddels een oordeel gevormd over de gevolgen van de Duitse verpakkingsverordening voor Nederland? Zo ja, hoe luidt dit, zowel ten aanzien van de milieuhygiënische als ten aanzien van de economische gevolgen?' </vraag>
+      <vraag nummer="2" voetnoot="1">Welke maatregelen hebben Nederlandse bedrijven inmiddels genomen om in te spelen op het Duitse verpakkingenconvenant? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="3">Hoe is de stand van zaken ten aanzien van de totstandkoming van een EG-richtlijn inzake verpakkingsafval? </vraag>
+      <vraag nummer="4" voetnoot="2">Welke gevolgen zal deze richtlijn hebben voor het Nederlandse convenant en de Duitse verordening, indien het concept-voorstel van de Europese Commissie tot definitieve tekst wordt verheven? <voetnoot nummer="2"/>Welke basis is gekozen voor vaststelling van de EG-richtlijn, artikel 100A of artikel 130S? Op welke juridische gronden berust deze keuze? Op welke wijze denkt u een aanpassing van de richtlijn te kunnen realiseren ten einde deze beter te doen aansluiten bij het Nederlandse beleid ten aanzien van verpakkingsmiddelen? </vraag>
+      <vraag nummer="7">Wanneer wordt de richtlijn naar verwachting vastgesteld? </vraag>
+      <vraag nummer="8">Welke mogelijkheden bestaan er om na vaststelling van de richtlijn in afzonderlijke lid-staten een van de richtlijn afwijkend beleid te voeren? </vraag>
+      <vraag nummer="9">Wilt u deze Kamer, zodra vaststaat hoe de definitieve richtlijn komt te luiden, inlichten over de te nemen stappen in het Nederlandse verpakkingenbeleid? </vraag>
+      <vraag nummer="10">Wilt u deze Kamer dan tevens inlichten over wijzigingen voor het Nederlandse bedrijfsleven, voortvloeiende uit eventueel noodzakelijke beleidswijzigingen in Duitsland? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Zie Aanhangsel Handelingen nr. 102, Vergaderjaar 1991-1992</noot>
+         <noot nummer="2"> Zie De Volkskrant van 24 januari 1992 en NRC Handelsblad van 23 en 24 januari jl</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="7">
+      <antwoord nummer="1">Bij de beantwoording van vragen van dezelfde leden over de gevolgen voor Nederland van de door de Duitse regering ingevoerde terugnameplicht van geleverd transportverpakkingsmateriaal (Aanhangsel Handelingen nr. 102, Vergaderjaar 1991-1992) werd aangegeven dat in contacten met de Duitse regering getracht zou worden meer duidelijkheid te verkrijgen over deze gevolgen. Van Duitse zijde is gemeld dat men bekend was met enige aanloopproblemen bij de uitvoering van de verordening, maar dat Duitse en buitenlandse, waaronder de Nederlandse, bedrijven in gelijke mate de gevolgen daarvan ondervonden. Het Nederlandse bedrijfsleven heeft op de Duitse regelgeving ingespeeld en past zich wat betreft gebruik van soorten verpakkingsmaterialen en de verantwoordelijkheid voor haar verpakkingsmaterialen in de afvalfase aan. Bedrijven hebben zich aangesloten of zullen zich aansluiten bij de organisaties die in Duitsland zijn opgericht in het kader van de terugname– en officieuze versie betreft acht ik het thans niet opportuun op de gevolgen hiervan voor het Nederlandse convenant en de Duitse verordening in te gaan. Het moment, waarop de Commissie met een voorstel richting de Raad komt, is daarvoor geeigend </antwoord>
+      <antwoord nummer="5">Bij de bespreking over het tweede concept is door de Commissie aangegeven de richtlijn te willen baseren op artikel 100a. </antwoord>
+      <antwoord nummer="6">Zoals onder 4 aangegeven zal eerst het definitieve ontwerp van de richtlijn worden afgewacht alvorens te kunnen besluiten of en zo ja, welke stappen richting Brussel ondernomen zullen worden. </antwoord>
+      <antwoord nummer="7">Een concrete termijn is hiervoor niet aan te geven. </antwoord>
+      <antwoord nummer="8">Dit zal afhankelijk zijn van de rechtsgrondslag van de uiteindelijke richtlijn. Indien als basis voor de richtlijn wordt gekozen voor artikel 100a van het EEG-verdrag lijkt de mogelijkheid van afwijking niet aanwezig. Bij artikel 130s als basis is die mogelijkheid in beginsel wel aanwezig. </antwoord>
+      <antwoord nummer="9">Ja. </antwoord>
+      <antwoord nummer="10"/>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

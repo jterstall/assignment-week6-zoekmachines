@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19881989:0001792</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001792&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001792</item>
+         <item attribuut="Document-id">0000091391</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1988-1989 nummer 784</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Buurmeijer (P.v.d.A.) over mishandeling van arrestanten op Bonaire.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1988-1989 nummer 784</item>
+         <item attribuut="Jaargang">1988_1989</item>
+         <item attribuut="Vraagnummer">784</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Buurmeijer</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-07-18</item>
+         <item attribuut="Beantwoorder">
+            <persoon>De Koning</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-08-11</item>
+         <item attribuut="Beginpagina">1573</item>
+         <item attribuut="Eindpagina">1574</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 8 - 1 9 8 9 " typehandeling="" typedoc=""/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 8 - 1 9 8 9 ,  A a n h a n g s e l " filenaam="" issn-nummer="ISSN 921  - 7 3 9 8 " uitgever="SDU uitgeverij 's-Gravenhage 1989 "/>
+      <vraagdata vraagnummer="784" onderwerp="mishandeling van arrestanten op Bonaire." indiendatum="18 juli 1989)">
+         <vrager partij="PvdA" oorsprong="parlement">Buurmeijer</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="11 augustus 1989)">
+         <antwoorder functie="minister" ministerie="Nederlands-Antilliaanse en Arubaanse Zaken">D e Koning</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 ">Heeft u kennisgenomen van de  berichtgeving omtrent mishandelin- gen van arrestanten door de politie  op Bonaire?  </vraag>
+      <vraag nummer="2 ">Kunt u de bewering van de Antilliaanse  advocaat Nijkerk bevestigen, dat  lichamelijk en geestelijk geweld  tegen arrestanten  w o r d t gepleegd?  </vraag>
+      <vraag nummer="3 ">Zo ja, bent u bereid hiertegen  stappen te ondernemen bij de  Antilliaanse regering?  </vraag>
+      <vraag nummer="4 ">Zo neen, bent u bereid een nader  onderzoek in te stellen naar de  klachten van de advocaat?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1 ">Ja.  2  t / m 4  Het nagaan van de gegrondheid van  klachten, zoals geuit door de heer  Bijkerk, behoort primair tot de taak  van de ter zake bevoegde Antilli- aanse autoriteiten. Het Statuut voor  het Koninkrijk der Nederlanden legt  immers de zorg voor de verwezen- lijking in de landen van de funda- mentele rechten en vrijheden, de  rechtszekerheid en de deugdelijkheid  van bestuur in handen van de landen  zelf.  Van eventuele stappen van Konink- rijkszijde kan pas sprake zijn op het  moment, dat in het betrokken land  zelf geen redres van een ontoe- laatbare toestand mogelijk blijkt te  zijn.  Naar ik inmiddels heb begrepen, zal  er door de Antilliaanse autoriteiten  een onderzoek worden verricht naar  de juistheid van de klachten en is de  heer Bijkerk hiermee akkoord  gegaan.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

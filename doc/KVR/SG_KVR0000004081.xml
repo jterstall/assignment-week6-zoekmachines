@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0001570</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001570&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001570</item>
+         <item attribuut="Document-id">0000004081</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 356</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Castricum (PvdA) over het Zwitserse referendum over het verminderen van het goederenvervoer over de weg.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 356</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">356</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Castricum</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-02-23</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Maij-Weggen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-03-08</item>
+         <item attribuut="Beginpagina">723</item>
+         <item attribuut="Eindpagina">724</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="723" allpagenumbers="723" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's-Gravenhage 1994"/>
+      <vraagdata vraagnummer="356" onderwerp="het Zwitserse referendum over het verminderen van het goederenvervoer over de weg." indiendatum="1994-02-23">
+         <vrager partij="PvdA" oorsprong="parlement">Castricum</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-03-8">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">Maij-VUeggen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Kent u de uitslag van het Zwitserse referendum over het verminderen van het (doorgaande) goederenvervoer over de weg? </vraag>
+      <vraag nummer="2">Welke gevolgen kan de uitslag van deze volksraadpleging hebben voor het internationaal wegvervoer tussen landen van de Europese Unie? </vraag>
+      <vraag nummer="3">Betreurt u de inbreuk die de uitslag van het referendum kan betekenen op de overeenkomst die EG en Zwitserland tijdens het Nederlandse voorzitterschap sloten? Wat houdt die inbreuk precies in? </vraag>
+      <vraag nummer="4">Zo ja, hoe verhoudt deze treurnis zich tot het verwijt van uw Oostenrijkse collega, dat u in het kader van de toetredingsonderhandelingen tussen zijn land en de Europese Unie een soortgelijke overeenkomst met Oostenrijk wilt elimineren en daarmee een positieve uitkomst van bedoelde onderhandelingen op het spel zet? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1994-02-17" bron="' Zie Transport en Logistiek, nummer 7">' Zie Transport en Logistiek, nummer 7, 17 februari 1994</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja. De uitslag van deze volksraadpleging zal op korte termijn geen consequenties hebben omdat het verbod op transitovervoer over de weg pas over 10 jaar van kracht zal worden. Bovendien is tot 2005 de transito-overeenkomst tussen de EU en Zwitserland van kracht die wel transitovervoer over de weg mogelijk maakt. Echter op lange termijn betekent de uitslag van de volksraadpleging, dat het internationale wegvervoer dat Zwitserland transiteert via het spoor zou moeten verlopen. </antwoord>
+      <antwoord nummer="3">De uitslag van het referendum betreur ik. Hoewel ik promotie van spoorvervoer van harte toejuich (en met mijn eigen beleid ondersteun) vind ik de eenzijdige benadering die in het referendum is gekozen niet goed. Op zich is de inbreuk op de transito-overeenkomst waarschijnlijk te vermijden omdat die loopt tot 2005 en het referendum spreekt over een periode van inwerkingtreding van 10 jaar. Echter, de toonzetting van het referendum spoort niet met de toonzetting van het transitoverdrag, waardoor op langere termijn (na 2005) problemen in het verschiet liggen. Gedwongen overheveling van het gehele wegvervoer naar spoor (zoals het Zwitsers referendum stelt) acht ik dus geen goede oplossing. </antwoord>
+      <antwoord nummer="4">Inmiddels zijn de toetredingsonderhandelingen met Oostenrijk afgerond. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001368</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001368&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001368</item>
+         <item attribuut="Document-id">0000107143</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 336</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Dijkstal (VVD.) over acties tegen de apartheid in Zuid-Afrika.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 336</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">336</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Dijkstal</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-01-13</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Korthals Aftes</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-01-22</item>
+         <item attribuut="Beginpagina">671</item>
+         <item attribuut="Eindpagina">672</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 6 - 1 9 8 7 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="336" onderwerp="acties tegen de apartheid in Zuid-Afrika." indiendatum="13 januari 1987)">
+         <vrager partij="VVD" oorsprong="parlement">Dijkstal</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="22 januari 1987)">
+         <antwoorder functie="minister" ministerie="Justitie">K o r t h a l s Aftes</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1 ">Heeft de zich revolutionair anti-racis- tisch noemende actiegroep «RARA»  zich verantwoordelijk gesteld voor de  brandstichting bij de MAKRO-vesti- ging in Nuth in het kader van actie  tegen de apartheid in Zuid-Afrika?  </vraag>
+      <vraag nummer="2 ">Bij welke acties in Nederland, sinds 1  januari 1986 met bestrijding van de  apartheid als doel, is (mogelijk) de  strafwet overtreden?  </vraag>
+      <vraag nummer="3 ">Welke actiegroepen hebben zich  daaraan schuldig gemaakt c.q.  hebben zich daarvoor verantwoorde- lijk gesteld?  </vraag>
+      <vraag nummer="4 ">Ziet u aanleiding tot het nemen van  bijzondere maatregelen om toekom- stige acties te voorkomen? Zo ja,  welke?  </vraag>
+      <vraag nummer="5 ">Bent u van plan het opsporings- en  vervolgingsbeleid t.a.v. de daders  van deze acties te verscherpen?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1 ">Ja.  2 en 3  Sedert 1 januari 1986 zijn onder  meer verscheidene brandstichtingen  gepleegd, waarvoor de actiegroepen  «Nog meer Nachtschade» en  «RARA» zich verantwoordelijk  hebben gesteld.  4 en 5  Naar de in het voorgaande antwoord  aangeduide misdrijven  w o r d t een  intensief opsporingsonderzoek  ingesteld. Een reeks van brandstich- tingen, gericht tegen ondernemingen,  heeft aanleiding gegeven tot een  zodanig verdergaande intensivering  van het onderzoek dat van een  maximale inspanning kan worden  gesproken, gericht op de opheldering  van de bedoelde misdrijven en de  aanhouding van de daarvoor straf- rechtelijk verantwoordelijken.  Mijn ambtgenoot van Binnenlandse  Zaken en ik hebben inmiddels met  een vertegenwoordiging van de SHV  en Makro Nederland concrete  afspraken gemaakt over een geza- menlijke inspanning van de overheid  en de betrokken bedrijven, gericht op  vergroting van de veiligheid van deze  bedrijven, het daarin werkzame  personeel en de klanten.  Op lokaal niveau zullen de bedrijven  en de betrokken overheidsdiensten  - politie en brandweer - nadere  afspraken maken over de te nemen  maatregelen, die centraal zullen  worden gecoördineerd. De gemaakte  afspraken zullen periodiek worden  bijgesteld. Voorts zijn vertegenwoor- digers van ondernemersorganisaties  uitgenodigd voor een bespreking van  te nemen preventieve maatregelen  en de taakverdeling die daarbij zou  moeten gelden.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

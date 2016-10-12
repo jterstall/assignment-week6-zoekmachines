@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="gegeven. " aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19841985:0001260</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19841985:0001260&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19841985:0001260</item>
+         <item attribuut="Document-id">0000123232</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1984-1985 nummer 141</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Frinking (C.D.A.) over tenuitvoerlegging van de doodstraf in Turkije.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1984-1985 nummer 141</item>
+         <item attribuut="Jaargang">1984_1985</item>
+         <item attribuut="Vraagnummer">141</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Frinking</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1984-10-15</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1984-10-29</item>
+         <item attribuut="Beginpagina">279</item>
+         <item attribuut="Eindpagina">280</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1984-1985 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1984-1985, Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="141" onderwerp="tenuitvoerlegging van de doodstraf'in Turkije." indiendatum="15 oktober 1984)">
+         <vrager partij="CDA" oorsprong="parlement">Frinking</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1 ">Is het waar, dat op zondag 7 oktober  jl. in Turkije een doodvonnis ten  uitvoer is gebracht?  </vraag>
+      <vraag nummer="2 ">Is het waar, dat deze terechtstelling de  eerste is sinds juni 1983 en sinds  Turkije een burgerregering en een  nieuw parlement heeft?  </vraag>
+      <vraag nummer="3 ">Is het waar, dat de 26-jarige Koerd  Hidir Aslan kans loopt, binnenkort te  worden terechtgesteld?  </vraag>
+      <vraag nummer="4 ">Wil de regering bij de Turkse regering  haar zorg uitspreken over de hervatting  van de tenuitvoerlegging van de  doodstraf in Turkije en bepleiten dat  deze vonnissen niet meer worden  uitgevoerd, maar worden omgezet in  gevangenisstraf?  Antwoord  Antwoord van minister Van den Broek  (Buitenlandse Zaken). (Ontvangen 29  oktober 1984)  1 en 2  Het antwoord op deze beide vragen  luidt bevestigend.  </vraag>
+      <vraag nummer="3 ">Nadat reeds op 19 oktober jl. uit  publikatie van de desbetreffende wet  in het Turkse Staatsblad was gebleken  dat het doodvonnis was bekrachtigd  en derhalve moest worden geconclu- deerd dat met de mogelijkheid van  spoedige tenuitvoerlegging rekening  zou dienen te worden gehouden, is op  25 oktober  j l . door het semi-officiële  Turkse persagentschap «Anatolië»  bekend gemaakt, dat executie die dag  heeft plaatsgevonden.  </vraag>
+      <vraag nummer="4 ">Zoals inmiddels ook door de  w o o r d - voerder van mijn ministerie is mede- gedeeld, heeft de regering, in  overeenstemming met het traditioneel  door haar op humanitaire gronden  ingenomen afwijzende standpunt ten  aanzien van voltrekking van doodvon- nissen, een dringend beroep gedaan  op de regering te Ankara, niet tot  tenuitvoerlegging van dit vonnis over  te gaan.  Ook van de kant van enkele andere  westelijke regeringen zijn stappen  ondernomen ten einde te trachten,  executie te voorkomen.  Het moet dan ook zeer worden  betreurd, dat de Turkse autoriteiten  aan dit beroep geen gehoor hebben  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

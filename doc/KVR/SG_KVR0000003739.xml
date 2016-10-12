@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19931994:0001228</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001228&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001228</item>
+         <item attribuut="Document-id">0000003739</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 14</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Janmaat-Abee (CDA) over beloning en loopbaan-mogelijkheden van (gespecialiseerde) militair verpleegkundigen en (gespecialiseerde) burgerverpleegkundigen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 14</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">14</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Janmaat-Abee</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-09-03</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Ter Beek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-09-28</item>
+         <item attribuut="Beginpagina">27</item>
+         <item attribuut="Eindpagina">28</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="27" allpagenumbers="27" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="" onderwerp="" indiendatum="">
+         <vrager partij="CDA" oorsprong="parlement">Janmaat-Abee</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-09-28">
+         <antwoorder functie="minister" ministerie="Defensie">Ter Beek</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="14">Vragen van het lid Janmaat-Abee (CDA) over beloning en loopbaan-mogelijkheden van (gespecialiseerde) militair verpleegkundigen en (gespecialiseerde) burgerverpleegkundigen. (Ingezonden 3 september 1993) </vraag>
+      <vraag nummer="1">Bestaat er sinds januari 1992 een grote discrepantie in beloning en loopbaan-mogelijkheden tussen (gespecialiseerde) militair verpleegkundigen en (gespecialiseerde) burgerverpleegkundigen? </vraag>
+      <vraag nummer="2">Lopen militair verpleegkundigen ten opzichte van burgerverpleegkundigen ver uit de pas ten aanzien van functiewaardering en daaraan gekoppelde salarisschalen? Heeft een kantonrechter op 30 augustus 1990 een betaling conform Functie Waardering Gezondheidszorg (FWG) 50 of Bijzonder Besluit Rijks Ambtenaren (BBRA) 8 bevolen? </vraag>
+      <vraag nummer="3">Onderschrijft u de rapportage van de Krijgsmacht Hospitaal Organisatie (nr. BO 431/321/92) houdende een vergelijking en berekening met de functieschalen en de daarbij behorende salarisschalen zoals gebruikelijk in de gezondheidszorg FWG en BBRA? Waarom zijn sinds januari 1992 functiewaardering en bijbehorende salarisschalen opnieuw ter discussie gesteld zoals vermeld in de brief, 17 juni 1993 van de Directie Operatie Koninklijke Landmacht (DOKL)? Hoe is deze functieanalyse te rijmen met de uitspraak van de kantonrechter en rapportage van de Krijgsmacht Hospitaal Organisatie? </vraag>
+      <vraag nummer="5">Deelt u de mening, dat de behoefte aan gespecialiseerde verpleegkundigen, mede door de veranderde taakstelling van de krijgsmacht, sterk is toegenomen? Zo ja, waarom zijn de gedane aanbevelingen ten aanzien van het beter op elkaar afstemmen van (verplicht) te volgen aanvullende militaire (bij)scholingen en te volgen specialisaties nog niet geïmplementeerd? </vraag>
+      <vraag nummer="6">Kunt u toezeggen, dat op korte termijn de gedane toezeggingen en aanbevelingen alsnog uitgevoerd worden? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1 t/m6">In de rapportage van de Koninklijke landmacht van december 1992 is inderdaad een verschil in beloning en loopbaanmogelijkheden tussen gespecialiseerde militaire verpleegkundigen en gespecialiseerde burgerverpleegkundigen geconstateerd. Met de uitbreiding van de loopbaanmogelijkheden voor gespecialiseerde militaire verpleegkundigen is inmiddels een begin gemaakt. Zoals voorgesteld in de notitie van de directie Personeel Koninklijke landmacht van juni 1993 wordt momenteel door middel van een functiewaarderingsonderzoek onderzocht of de verschillen in beloning gerechtvaardigd zijn. Hierbij wordt uitgegaan van de aard van de functie en de feitelijke werkzaamheden. Dit onderzoek zal naar verwachting voor het einde van dit jaar worden afgerond De uitspraak die de kantonrechter op 30 augustus 1990 heeft gedaan over de betaling conform Functie Waardering Gezondheidszorg (FWG), had betrekking op een zichzelf staand geval De discussie was alleen gericht op de feitelijk aan betrokkene opgedragen en verrichte werkzaamheden. Daarbij is een vergelijking met het Bezoldigingsbesluit Burgerlijke Rijksambtenaren (BBRA) niet aan de orde geweest. Naar het zich laat aanzien zal de behoefte aan gespecialiseerde militaire verpleegkundigen toenemen. Daarom worden momenteel overtollige militairen omgeschoold tot verpleegkundigen </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

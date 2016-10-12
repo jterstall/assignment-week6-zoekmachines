@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001716</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001716&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001716</item>
+         <item attribuut="Document-id">0000020102</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 698</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Willems en Sipkes (beiden Groen Links) over een verzoek van de BVD aan ROA -ambtenaren om informatie over asielzoekers.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 698</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">698</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Willems</persoon>
+            <persoon partij="Groen Links">Sipkes</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-06-05</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Dales</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-07-06</item>
+         <item attribuut="Beginpagina">1459</item>
+         <item attribuut="Eindpagina">1460</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer. met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1459" allpagenumbers="1459" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="'s Gravenhage 1992"/>
+      <vraagdata vraagnummer="698" onderwerp="een verzoek van de BVD aan ROA - ambtenaren om informatie over asielzoekers." indiendatum="1992-06-5">
+         <vrager partij="Groen Links" oorsprong="parlement">Willems</vrager>
+         <vrager partij="Groen Links" oorsprong="parlement">Sipkes</vrager>
+         <vraagt-aan>ROA - ambtenaren om informatie</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-07-6">
+         <antwoorder functie="Minister" ministerie="Binnenlandse Zaken">Dales</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Heeft de BVD een ambtenaar van de gemeente Winsum, die belast is met de uitvoering van de ROA (Regeling Opvang Asielzoekers), en een vrijwilliger van Humanitas Opvang Asielzoekers benaderd met een verzoek om informatie over de heer W., een Palestijnse asielzoeker uit Libanon? <voetnoot nummer="1"/>Komt het vaker voor dat ROA-ambtenaren door de BVD gevraagd wordt als informant op te treden? </vraag>
+      <vraag nummer="3" voetnoot="2">Mogen ambtenaren hun medewerking aan de BVD weigeren? <voetnoot nummer="2"/> Zo ja, wordt hun dat vooraf medegedeeld? </vraag>
+      <vraag nummer="4">Wat is uw mening over de uitspraak van burgemeester Dees van Winsum «Wij moeten geen rol spelen omtrent informatievragen rond asielzoekers. Wij hebben een rol in de opvang en dat zou weleens tegenstrijdig kunnen zijn»? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> IKON radio. van 31 mei 1992 Zie ook de schnftelijke vragen van de leden Willems en Sipkes over contacten tussen de BVD en de heer W , Aanhangsel Handelingen nr. 149, vergaderjaar 1991-1992</noot>
+         <noot nummer="2"> Mededeling van een woordvoerster van het ministerie van Binnenlandse Zaken, gedaan in het IKON programma</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">De BVD heeft zich inderdaad met een verzoek om informatie tot de beide aangeduide personen gewend. 2 e n 3 Ingevolge de Wet op de inlichtingen– en veiligheidsdiensten is de BVD bevoegd zich te wenden tot een ieder die geacht wordt relevante gegevens te verstrekken. Dit is dus ook mogehjk ten aanzien van ROA-ambtenaren. Degene tot wie de BVD zich wendt is niet verplicht aan het verzoek om informatie te voldoen. Dergelijke verzoeken vinden dan ook altijd plaats op basis van vrijwilligheid. Op dit punt wordt van BVD-zijde in een gesprek nooit ruimte tot enig misverstand gelaten. </antwoord>
+      <antwoord nummer="4">Het verschaffen van informatie kan in sommige gevallen conflicteren met belangen van betrokkene, bijvoorbeeld uit hoofde van zijn werk, vanwege privè-redenen of anderszins. Dit is afhankelijk van de specifieke omstandigheden en ook de inzichten van betrokkene spelen hierin een rol. Daarom is hij het die uiteindelijk beoordeelt of hij ingaat op het verzoek van de BVD. Het is echter zeker niet zo dat een dergelijk conflict zich a priori voordoet bij ROA-ambtenaren. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

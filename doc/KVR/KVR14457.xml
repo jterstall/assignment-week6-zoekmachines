@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="6">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Pitstra (GroenLinks) aan de minister voor Grote Steden- en Integratiebeleid over het strategische partnerschap van de gemeente Den Haag met Microsoft. (Ingezonden 25 september 2001); Antwoord</item>
+         <item attribuut="Bestand">16Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR14457
+</item>
+         <item attribuut="Inhoud">Vragen over met name de privacy-aspecten van het strategisch partnerschap van gemeente Den Haag met Microsoft in het kader van de super-pilot voor elektronische overheidsdiensten.</item>
+         <item attribuut="Rubriek">Communicatie, media en informatievoorziening (Hard- en software) Handel en economie (Mededinging) Staats- en bestuursrecht (Gemeenten) Staats- en bestuursrecht (Privacy)</item>
+         <item attribuut="Trefwoorden">Gemeenten Informatietechnologie Mededinging Privacy</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2001-2002, nr. 128, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2010200240</item>
+         <item attribuut="Afkomstig_van">Grote Steden- en Integratiebeleid (GSI)</item>
+         <item attribuut="Indiener">
+            <persoon partij="GroenLinks">Pitstra</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2001-10-18</item>
+         <item attribuut="Datum_indiening">2001-09-25</item>
+         <item attribuut="Document-id">KVR14457</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2001–2002" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="263" allpagenumbers="263 264" vetnummer="2010200240" code="" lopendefooter="Tweede Kamer, vergaderjaar 2001–2002, Aanhangsel" filenaam="KVR14457" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2001"/>
+      <vraagdata vraagnummer="128" onderwerp="" indiendatum="2001-09-25">
+         <vrager partij="GroenLinks" oorsprong="parlement">Pitstra</vrager>
+         <vraagt-aan>de minister voor Grote Steden- en Integratiebeleid</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2001-10-18">
+         <antwoorder functie="minister" ministerie="Grote Steden- en Integratiebeleid">Van Boxtel</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1" voetnoot="1">Heeft u kennisgenomen van het «strategisch partnerschap» dat de gemeente Den Haag is aangegaan met Microsoft in het kader van een zogenaamde super-pilot voor elektronische overheidsdiensten dat het ministerie medefinanciert? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Op welke onderdelen van dit partnerschap is de rijksoverheid medeproducent, – financier dan wel – uitvoerder? </vraag>
+      <vraag nummer="3">Wat is uw oordeel over de keuze voor Microsoft, mede in het licht van de mogelijkheid dat fraude- en privacygevoelige informatie die burgers en overheid met elkaar uitwisselen hierdoor kwetsbaar kan worden, en gezien de slechte reputatie van Microsoft op het gebied van beveiliging? Is in dit kader gekeken naar ervaringen die elders met Microsoft zijn opgedaan, bijvoorbeeld in het Government Gatewayproject in Groot-Brittannië? </vraag>
+      <vraag nummer="4">Kunt u garanderen dat alle overheidssites toegankelijk blijven voor alle typen browsers en niet, door het gebruik van niet-compatibele technologie, hun algemene toegankelijkheid verliezen? Zullen in dit geval ook niet-standaard digitale certificaten gebruikt worden? Wat is uw oordeel daarover? </vraag>
+      <vraag nummer="5">Klopt het bericht dat indien een online-transactie plaatsvindt tussen een klant en een bedrijf, dat bedrijf de gegevens van de klant «online» krijgt via een persoonlijk «paspoort» dat opgeslagen is bij Microsoft? Is u bekend welke rol de zogenaamde «.NET» strategie, die onder meer inhoudt dat betalingen op het internet via Microsoft verwerkt worden, speelt in de overwegingen van Microsoft om met Den Haag in zee te gaan? </vraag>
+      <vraag nummer="6">Wat is uw oordeel over de positie die Microsoft verkrijgt in de internet-dienstverlening van de gemeente Den Haag? Moet er niet juist gestreefd worden naar een evenwichtig softwarepakket van verschillende ondernemingen, om zo een monopolie tegen te gaan? Zou de overheid niet veeleer aansluiting moeten hebben op de open-source-gemeenschap die goede en betrouwbare software ontwikkeld (unix – linux)? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" titel="Showcase Den Haag trofee voor Microsoft">AutomatiseringsGids van 8 juni 2001; «Showcase Den Haag trofee voor Microsoft» ondershands, aan bewindspersoon toegezonden</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="6">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">De rijksoverheid is geen partij in het partnerschap en dus ook geen medeproducent, -financier dan wel -uitvoerder in dit kader. Voor zover Den Haag activiteiten in het kader van het partnerschap inbrengt in het project super-pilot kan de rijksoverheid via co-financiering een rol als medefinancier spelen. Deze projecten moeten uiteraard wel passen binnen de randvoorwaarden voor co-financiering zoals vastgelegd in het convenant super-pilpots. </antwoord>
+      <antwoord nummer="3">De keuze voor Microsoft als strategisch partner is de verantwoordelijkheid van Den Haag. Een toetsing van de keuze van het bestuur van Den Haag is de verantwoordelijkheid van de gemeenteraad van Den Haag. </antwoord>
+      <antwoord nummer="4">Voor zover er sprake is van projecten in het kader van de super-pilots is in de beleidsregels van het bovenstaande convenant de volgende bepaling opgenomen: «De projecten dienen een voorbeeldwerking te hebben en toepasbaar te zijn in andere gemeenten en daarom dient bij de ontwikkeling en aanschaf van software te worden gestreefd naar platform-onafhankelijke oplossingen en open standaards. De oplossingen zijn toepasbaar op de meest relevante ICT-platforms zoals Novell, Unix en Windows NT/2000. De front-office functionaliteiten, zoals die via de web-interface worden aangeboden, worden ontwikkeld voor de gangbare webbrowsers. Deze browseronafhankelijkheid laat de klant/burger vrij in de keuze van zijn favoriete webbrowser/werkplekbesturingssysteem. Deze voorwaarde impliceert een goede toepassing van de W3C-standaarden en beperking in het gebruik van plug-ins». Vergelijkbare bepalingen worden door BZK ook bij andere projecten, voor zover van toepassing, gehanteerd. </antwoord>
+      <antwoord nummer="5">Indien Microsoft transacties tussen de gemeente Den Haag en burgers zou ondersteunen, is de Wet Bescherming Persoonsgegevens onverkort van toepassing. Het is mij niet bekend welke overwegingen bij Microsoft spelen om met Den Haag in zee te gaan. </antwoord>
+      <antwoord nummer="6">De keuze voor Microsoft als strategisch partner is de verantwoordelijkheid van Den Haag. Een toetsing van de keuze van het bestuur van Den Haag is de verantwoordelijkheid van de gemeenteraad van Den Haag. Voor evenwichtigheid in het softwarepakket zie het antwoord op vraag 4. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

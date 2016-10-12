@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001175</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001175&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001175</item>
+         <item attribuut="Document-id">0000027512</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 242 Herdruk</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Feenstra en K. Zijlstra (beiden P.v.d.A.) Willems (Groen Links), Tommel (D66) en Van Dis (S.G.P.) over de kerncentrales Dodewaard en Borssele.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 242 Herdruk</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">242 Herdruk</item>
+         <item attribuut="Indiener">
+            <persoon>Feenstra</persoon>
+            <persoon>Zijlstra K.</persoon>
+            <persoon>Willems</persoon>
+            <persoon>Tommel</persoon>
+            <persoon>Van Dis</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-12-05</item>
+         <item attribuut="Beantwoorder">
+            <persoon>De Vries</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-12-12</item>
+         <item attribuut="Beginpagina">487</item>
+         <item attribuut="Eindpagina">490</item>
+         <item attribuut="Omvang">4 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="487" allpagenumbers="487 488 489" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1991"/>
+      <vraagdata vraagnummer="242" onderwerp="de kerncentrales Dodewaard en Borssele." indiendatum="1990-12-5">
+         <vrager partij="" oorsprong="parlement">Feenstra</vrager>
+         <vrager partij="" oorsprong="parlement">Zijlstra K.</vrager>
+         <vrager partij="" oorsprong="parlement">Willems</vrager>
+         <vrager partij="" oorsprong="parlement">Tommel</vrager>
+         <vrager partij="" oorsprong="parlement">Van Dis</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-12-12">
+         <antwoorder functie="minister" ministerie="Sociale Zaken en Werkgelegenheid">De Vries</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="9">
+      <vraag nummer="1">Heeft het ECN in een recent rapport aanbevolen met de hoogste prioriteit aandacht te geven aan effecten, die kunnen optreden in de reactorkern van de kerncentrales van Dodewaard en Borssele bij de toediening van (koud en ongeboreerd) koelwater? </vraag>
+      <vraag nummer="2">Zijn de opstellers van dit rapport van mening, dat nadere analyses moeten aantonen, dat deze effecten al dan niet kunnen leiden tot een bescha– diging van de reactorkern? </vraag>
+      <vraag nummer="3">Verwijst deze aanbeveling, voortge– komen uit nader veiligheidson– derzoek naar aanleiding van het reactorongeval in de kerncentrale van Tsjernobyl, naar een type van ontwerpongevallen, waarbij effecten voor werknemers en bevolking niet kunnen worden uitgesloten? </vraag>
+      <vraag nummer="4">Bent u bekend met de conclusie van prof. Andriessen, dat de ontplof– fingskans van Dodewaard en Borssele klein kan zijn, maar dat bestaande analyses dit onvoldoende bewijzen'? Hebt u kennis genomen van het oordeel van de voorzitter van de Bezmningsgroep Energiebeleid over de sluiting van de kerncentrale(s) en van het argument, dat de kerncen– trale(s) moet(en) worden opgevat als een soort van gecontroleerde bom? </vraag>
+      <vraag nummer="6">Bent u voornemens, gegeven het feit dat de kans op de hierboven genoemde effecten momenteel niet bekend is en derhalve ook niet beoordeeld kan worden in het door het kabinet te voeren risicobeleid, de kerncentrales van Borssele en Dodewaard onmiddellijk danwel bij de volgende splijtstofwisseling te sluiten, in afwachting van nadere gegevens hierover en besluitvorming in deze Kamer? </vraag>
+      <vraag nummer="7">Kunt u deze Kamer een schriftelijke reactie doen toekomen, waarin op bovengenoemde publicaties, aanbe– velingen, conclusies en oordelen wordt ingegaan en de mogelijke betekenis van de genoemde veilig– heidsaspecten voor het functioneren van de Nederlandse kerncentrales worden aangegeven? </vraag>
+      <vraag nummer="8">Kan bij deze reactie ook een exemplaar van het bedoelde ECN-rapport en mogelijke andere, in dit kader relevant geachte publi– caties worden gevoegd? </vraag>
+      <vraag nummer="9">Kan in de reactie ook worden ingegaan op de verhouding tussen de strekking van deze recente publi– caties en hetgeen vermeld werd in de rapporten Herbezinning kernenergie, waarin werd vastgesteld dat in geen van de beschouwde ongevalssituaties de reactiviteit dermate zal toenemen, dat een snelle vermogenstoename kan optreden en dat de ontwerpen van Borssele en Dodewaard worden gekenmerkt door nucleaire eigen– schappen die inherente veiligheid geven? </vraag>
+      <vraag nummer="10">Wordt in het kader van de lopende veiligheids– en risico-analyse onder– zoeken (de zgn PSA– Probability Safety Assesment), die voor de kerncentrales Borssele en Dodewaard worden uitgevoerd, aandacht besteed aan de bovenge– noemde aspecten? Zo neen, kan daar alsnog in worden voorzien? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Energiespectrum juli/augustus 1990 ECN = Energie-onderzoekscentrum Nederland</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="6">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Ja. </antwoord>
+      <antwoord nummer="3">De aanbeveling verwijst naar een type ongevallen (binnen en buiten het ontwerp) waarvan er sommige Ja, deze reactie is bijgevoegd (zie bijlage) </antwoord>
+      <antwoord nummer="8">Ja. Ook is bijgevoegd een werkdo– cument van de IAEA vergadering 'an overview of reactivity initiated accidents'. Het geeft op dit ogenblik het beste overzicht van de stand van zaken.' Helaas is er nog geen defini– tieve versie waarin de opmerkingen van de vergaderingen zijn verwerkt. </antwoord>
+      <antwoord nummer="9">Ja. </antwoord>
+      <antwoord nummer="10" voetnoot="1">In de lopende PSA's worden bij de bepaling van begingebeurtenissen ook reactiviteitsstoringen beschouwd. Deze analyses hebben - conform de bij de project aanvang gebruikelijke aanpak - alleen betrekking op het vermogensbedrijf. Na voltooiing van deze project fase zullen ook nog andere bedrijfstoe– standen geanalyseerd worden. <voetnoot nummer="1"/> Ter inzage gelegd op de bibliotheek. Bijlage: Reactie naar aanleiding van publi– caties over reactiviteitsongevallen. 1. Studie Herbezinning Kernenergie In het kader van de herbezinning over kernenergie n.a.v. het Tsjer– nobyl ongeval, zijn volgens het actieplan «Veiligheid van kerncen– trales» studies gemaakt van bepaalde aspecten van de kerncen– trales in Borssele en Dodewaard. Een van de rapporten, uitgegeven door de Stuurgroep Project Herbezinning schappen praktisch uitgesloten is dat processtoringen leiden tot ernstige reactiviteitsongevallen. In het rapport is ook sprake van meer complexe storingen die nader in beschouwing te nemen zijn en waarvoor interna– tionaal inmiddels allerlei onderzoek gestart was. Het rapport vermeldt: «Gegeven de zeer geringe waarschijnlijkheid of zelfs het hypothetische karakter van de scenario's is hierbij sprake van een restrisico waarvoor in internationaal verband en dus ook in Nederland een lange onderzoektermijn te rechtvaar– digen is». Het rapport eindigt met de aanbeveling om onderzoek voort te zetten en buitenlands onderzoek te blijven volgen inzake meer complexe storingen en ongevallen. Het rapport «samenvatting project herbezinning kernenergie» (SPH-01-00) dat in de pers enige malen geciteerd is, is zeer beknopt en vermeldt deze verdere onderzoeken niet. 2. Advies Commissie Reactor– veiligheid (CRV) In maart 1988 werd door de toenmalige staatssecretaris van SZW en de minister van VROM advies gevraagd aan de Commissie Reactorveiligheid over het rapport SPH-03-08. In juli 1989 werd een advies uitgebracht. De Commissie kon zich verenigen met de analyse en de conclusies uit het SPH rapport ook voor wat betreft de verdere analyse van mogelijk complexe storingen en het volgen van de inter– nationale ontwikkelingen op dit terrein. Ook werd door de Commissie de aanbeveling gedaan in CRV behoefden de reeds uitge– voerde of aangevangen activiteiten geen wijziging, aldus het regerings– standpunt. De toen aangeduide activiteiten hadden met name betrekking op de Dodewaard centrale. 4. Internationale ontwikke– lingen In het najaar van 1987 en 1989 werden er door het Internationale Atoom Energie Agentschap (IAEA) in Wenen technische bijeenkomsten georganiseerd om ervaring uit te wisselen over reactiviteitsstoringen en –ongevallen. Door de KFD werd daaraan deelgenomen. De eerste vergadering vond nog plaats voor de publicatie van de SPH studie over reactiviteitsongevallen. Door de KFD werden de verrichte studies en analyses aldaar gerapporteerd. Ook op die bijeenkomst werd er over scenario's voor koud en ongeboreerd water injectie in de kern gesproken. Het gerapporteerde gaf echter geen aanleiding om direct acties te onder– nemen. Het is daarbij goed te vermelden dat deze kwestie in Nederland uitgebreid aan de orde was geweest in het begin 80er jaren. Met name de situatie van een pijpbreuk in de stoomgenerator van de Borssele centrale is uitgebreid besproken. Zelfs zijn er proeven uitgevoerd om het systeem gedrag te verifiëren. Bedieningsinstructies werden aangepast om te voorkomen dat per ongeluk een hoeveelheid koud en ongeboreerd water in de kern gepompt zou worden. Ook in de tweede vergadering in november centrale over berekeningen van de reactorkern besproken. 5. ECN rapport De KFD had reeds in 1988 aan het ECN gevraagd om suggesties aan te reiken voor verdere studies aan reactiviteitsongevallen. Een doornemen van de storingen in de databank van het Incident Reporting System (IRS) leverde geen bruikbare gegevens op. De rapportage in ECN-CX-90-038 volstond met een overzicht van reactiviteitseffecten en de beschouwing daarvan in ongevallen met kokend– en druk-waterreactoren en daarnaast een korte samenvatting van de tweede IAEA vergadering over reactiviteitsongevallen. Voor de KFD en de exploitanten geen nieuwe informatie. Slechts in de twee laatste bladzijden wordt opgesomd welke transienten en ongevallen (volgens kennis aanwezig bij de auteurs) voor de kerncentrales in Borssele en Dodewaard reeds waren beschouwd en welke situaties nog verder prioriteit in de aandacht verdienen. Er wordt daarbij weinig of geen onderbouwing gegeven en bovendien geven de auteurs er blijk van niet geheel bekend te zijn met de systemen van de kerncentrale en de getroffen voorzieningen en maatregelen. Voor de KFD verschafte deze ECN rapportage geen toegevoegde waarde aan reeds aanwezige kennis over reactiviteits– ongevallen, die gebaseerd is op de eerder bijgewoonde IAEA vergade– ringen. Kennis van de technische voorzieningen van de kerncentrales i.v.m. reactiviteitsbeheersing en de worden opgemerkt. Alle voor een opdrachtgever geproduceerde ECN rapporten worden door ECN als vertrouwelijk aangeduid. Dit geeft de opdrachtgever en niet het ECN de vrijheid om zelf te beslissen wat er mee moet kan gebeuren. KFD beschouwt dit rapport niet als vertrouwelijk. Dat moge blijken uit het feit dat een milieuorganisatie die enige maanden geleden om het rapport vroeg dit zondermeer toege– stuurd heeft gekregen. 6. Standpunt bij de conclusies van het ECN rapport Naar aanleiding van de conclusies in het ECN rapport om met prioriteit enige acties te ondernemen, heeft de KFD het volgende commentaar: 1. In Dodewaard is ter voorkoming van de injektie van koud noodkoel– water (dat altijd ongeboreerd is!) na een storing waarbij de reaktor niet zou afschakelen - op zich een buitengewoon onwaarschijnlijk gebeurtenis - een wijziging in de bediening van het drukverlagend systeem aangebracht. 2. Het laden van de splijtstofele– menten in de Dodewaard kern vindt alleen plaats indien de regelbladen in de kern zijn onder stringente bewaking van de subkritikaliteit. Dit scenario is dus niet relevant. Vroeger vond tijdens de herlading bij open vat wel een subkritikaliteitstest plaats. Dit wordt echter op grond van de SPH studie thans niet meer uitgevoerd (SPH-03-08 par.4.3.). 3. Het voor Borssele relevante scenario van koudwaterinjektie in de kern is reeds lang geleden (1982) uitgebreid geanalyseerd en geeft ook tot ernstige reactiviteits storingen. Geen verder aandachtspunt. 7. Huidige activiteiten van KFD op reactiviteits gebied Voor de Borssele centrale is de aandacht thans gericht op scenario's die uit een Franse PSA kwamen en waarover in september 1990 gerap– porteerd werd op een internationaal symposium. Het betreft hier boorzuurverdunningsscenario's tijdens de stilstand van een reactor die problemen zouden kunnen opleveren bij het opstarten. Verder is tussen KFD en de centrale een discussie gaande over de tempe– ratuur-coëfficiënt van de moderator (het koelwater) tijdens bijzondere situaties in de bedrijfsvoering. De KFD heeft bij ECN een studie lopen voor het beter karakteriseren van de z.g. Dopplercoëfficiënt van de splijtstof van de Dodewaard centrale. De grootte van deze coëfficiënt is bepalend voor het gedrag van de reactor tijdens reactiviteitsstoringen. 8. Eindbeschouwing Uit bovenstaande moge duidelijk zijn dat uitgevoerde reactiviteitsstudies voldoende waarborg geven dat er geen belangrijke veiligheidspro– blemen aanwezig zijn bij de kerncen– trales in Borssele en Dodewaard die om directe maatregelen vragen. Reactiviteitsstoringen zijn geen vergeten scenario's geweest en krijgen ook nu nog de aandacht die ze verdienen. Het is derhalve niet nodig verder in te gaan op het artikel van prof. Andriesse en de uitlatingen van de </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

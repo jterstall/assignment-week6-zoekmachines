@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001247</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001247&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001247</item>
+         <item attribuut="Document-id">0000035654</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 325</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Valk (P.v.d.A.) over een ter dood veroordeelde man in de Verenigde Staten.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 325</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">325</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Valk</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-01-16</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-02-06</item>
+         <item attribuut="Beginpagina">655</item>
+         <item attribuut="Eindpagina">656</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, mat de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="655" allpagenumbers="655" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN0921 - 7398" uitgever="SDU uitgeverij 's-Gravenhage 1990"/>
+      <vraagdata vraagnummer="325" onderwerp="een ter dood veroordeelde man in de Verenigde Staten." indiendatum="1990-01-16">
+         <vrager partij="PvdA" oorsprong="parlement">Valk</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-02-6">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">Van den Broek</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1">Is het u bekend, dat in de Verenigde Staten de ter dood veroordeelde Joe Giarrantano iedere dag een aanzegging van zijn executie kan krijgen, terwijl er gerede twijfel is gerezen over zijn schuld aan de moorden, waarvoor hij is veroor– deeld? </vraag>
+      <vraag nummer="2">Bent u bereid bij de Amerikaanse autoriteiten op gratie aan te dringen? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1">  e n 2 Volgens mijnerzijds terzake ingewonnen informaties zijn de rechtsmiddelen in de onderhavige aangelegenheid nog niet uitgeput. Betrokkene heeft namelijk de mogelijkheid zijn zaak voor te leggen aan het Supreme Court. Ik acht het niet gewenst, te treden in de desbe– treffende rechtsgang. Ik moge er overigens, voor zover nodig, aan herinneren dat de Neder– landse regering principieel gekant is tegen de doodstraf en in de daarvoor in aanmerking komende fora ijvert voor afschaffing. De Amerikaanse autoriteiten zijn volledig vertrouwd met dit Nederlandse standpunt. Ik kan evenwel verzekeren dat deze kwestie mijn aandacht zal behouden. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

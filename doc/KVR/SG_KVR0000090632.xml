@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="procedure. " aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19881989:0001033</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001033&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001033</item>
+         <item attribuut="Document-id">0000090632</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1988-1989 nummer 34</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Lilipaly en Rienks (beiden P.v.d.A.) over de voorbereiding van de werken voor het noordelijk deel van het Kanaal door Zuid-Beveland.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1988-1989 nummer 34</item>
+         <item attribuut="Jaargang">1988_1989</item>
+         <item attribuut="Vraagnummer">34</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Lilipaly</persoon>
+            <persoon partij="PvdA">Rienks</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1988-09-02</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Smit-Kroes</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1988-10-10</item>
+         <item attribuut="Beginpagina">67</item>
+         <item attribuut="Eindpagina">68</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1988-1989 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1988-1989, Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="34" onderwerp="de voorbereiding van de werken voor het noordelijk deel van het Kanaal door Zuid-Beveland." indiendatum="2 september 1988)">
+         <vrager partij="PvdA" oorsprong="parlement">Lilipaly</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Rienks</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1 ">Kunt u ten aanzien van de voorberei- ding van de werken voor het noordelijk  deel van het Kanaal door Zuid-Beve- land aangeven:  a. hoe, en tot in welk stadium, deze  voorbereidende werkzaamheden  gevorderd zijn;  b. hoe het tijdspad en de financiële  planning van het gehele project er op  dit moment uitzien;  c. in hoeverre, en waarom, de  ramingen* en het tijdspad ten  behoeve van deze werken afwijken  van de oorspronkelijke verwachtingen  c.q. bedoelingen?  </vraag>
+      <vraag nummer="2 ">Tot hoeveel meerkosten heeft de  «ervaring met nieuwe contractvormen  in het kader van de privatisering  ingenieursdiensten» geleid in  vergelijking met de kosten, die bij  een traditionele voorbereiding  gemaakt zouden zijn? Welke gevolgen  voor het te voeren beleid worden  hieruit getrokken?  Antwoord van minister Smit-Kroes  (Verkeer en Waterstaat). (Ontvangen  10 oktober 1988)  1a  Op 1 juli 1988 heeft aanbesteding  plaatsgevonden van een bestek ter  verbetering van het N-deel van KZB.  Op dit moment wordt nog onderhan- deld met de laagste inschrijver.  1b/c  Als gevolg van diverse kostenstijgin- gen worden de totale projectkosten  op dit moment hoger geraamd dan  enkele jaren geleden. Daardoor is het  nodig om, uitgaande van de beschik- bare financiële middelen, de bouw  van de nieuwe Vlakebruggen enkele  jaren uitte stellen. De toezegging dat  de sluizen bij Wemeldinge in 1993  buiten gebruik gesteld worden, wordt  gehandhaafd. Als er financiële  mogelijkheden zijn om het gehele  werk alsnog volgens planning uit te  voeren zullen die worden benut.  Deze vraag is pas te beantwoorden  na uitgebreide evaluatie van de hele  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

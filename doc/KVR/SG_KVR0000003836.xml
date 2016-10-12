@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19931994:0001325</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001325&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001325</item>
+         <item attribuut="Document-id">0000003836</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 111</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Beijlen-Geerts (PvdA) over het besluit van de Federatie van Bedrijfsverenigingen inzake de financiering van nieuwe elektrische rolstoelen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 111</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">111</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Beijlen-Geerts</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-10-22</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Wallage</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-11-08</item>
+         <item attribuut="Beginpagina">225</item>
+         <item attribuut="Eindpagina">226</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="225" allpagenumbers="225" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="111" onderwerp="het besluit van de Federatie van Bedrijfsverenigingen inzake de financiering van nieuwe elektrische rolstoelen." indiendatum="22oktober 1993">
+         <vrager partij="PvdA" oorsprong="parlement">Beijlen-Geerts</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-11-8">
+         <antwoorder functie="staatssecretaris" ministerie="Sociale Zaken en Werkgelegenheid">Wallage</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1" voetnoot="1">Heeft de Federatie van Bedrijfsverenigingen besloten om per 1 januari 1994 geen nieuwe elektrische rolstoelen meer te financieren en de vervoersvergoeding aan gebruikers van een scootermobiel te halveren? <voetnoot nummer="1"/>Moet hieruit de conclusie worden getrokken, dat bedrijfsverenigingen hun taak om voorzieningen te verstrekken niet of niet volledig uitvoeren tussen 1 januari 1994 en 1 april 1994? </vraag>
+      <vraag nummer="3">Wat is uw opvatting over deze handelwijze? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1993-10-19" bron=" De Zwolsche Courant"> De Zwolsche Courant, 19 oktober 1993</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Nee. De FBV heeft niet besloten om geen elektrische rolstoelen meer te financieren; dit bericht is foutief in de pers gekomen. Aanvankelijk heeft de FBV wel geadviseerd de vervoerskostenvergoedingen aan gebruikers van een scootermobiel te halveren, maar heeft dit standpunt gewijzigd (zie antwoord op vraag 3). </antwoord>
+      <antwoord nummer="2">Neen. </antwoord>
+      <antwoord nummer="3">De Federatie van Bedrijfsverenigingen (FBV) heeft de bedrijfsverenigingen geadviseerd per 1 januari 1994 een aantal maatregelen te treffen om de uitgaven in verband met rolstoelen in het kader van de AAW te beperken. In de publiciteit is met name accent gelegd op het voornemen de vervoersvergoedingen voor gehandicapten met een scootermobiel met ingang van 1 januari 1994 te halveren. Deze aangekondigde maatregei heeft mij nogal bevreemd. Derhalve heb ik aan de voorzitter van de FBV schriftelijk verzocht het voorgenomen besluit te heroverwegen. Inmiddels heeft de FBV dit standpunt genuanceerd en de algemene werking ingetrokken. De FBV heeft geconcludeerd dat ten onrechte de suggestie wordt gewekt als ware het besluit ingegeven vanuit bezuinigingsoverwegingen. Slechts de overweging dat de scootermobiel gelijk was te stellen aan de invalidemotorwagen heeft tot het besluit geleid Uit nadere door de Nieuwe Algemene Bedrijfsvereniging aangedragen feiten en overwegingen blijkt dat zoiets echter in algemene zin niet gesteld kan worden. De FBV zal de bedrijfsverenigingen derhalve adviseren elk geval op eigen merites te beoordelen, waarbij halvering van de taxikostenvergoeding geen automatisme is, zo heb ik van de FBV vernomen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

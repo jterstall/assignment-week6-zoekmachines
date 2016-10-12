@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="8">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Omtzigt (CDA) aan de minister van Sociale Zaken en Werkgelegenheid en de staatssecretaris van Financiën over een aantal aspecten van de operatie WALVIS. (Ingezonden 30 juli 2007); Antwoord</item>
+         <item attribuut="Bestand">18Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR29183
+</item>
+         <item attribuut="Inhoud">Vragen over de automatiserings- en testtrajecten en over de aanbesteding van de software voor WALVIS.</item>
+         <item attribuut="Rubriek">Belastingen (Belastingdiensten) Communicatie, media en informatievoorziening (Hard- en software) Sociale zekerheid (Sociale verzekeringspremies) Sociale zekerheid (Uitvoeringsinstellingen sociale verzekeringen)</item>
+         <item attribuut="Trefwoorden">Automatisering Belastingdienst Sociale verzekeringspremies Uitvoeringsinstellingen sociale verzekeringen</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2006-2007, nr. 2509, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2060722220</item>
+         <item attribuut="Afkomstig_van">Sociale Zaken en Werkgelegenheid (SZW) Financiën (FIN)</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Omtzigt</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2007-08-28</item>
+         <item attribuut="Datum_indiening">2007-07-30</item>
+         <item attribuut="Document-id">KVR29183</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2006–2007" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="5305" allpagenumbers="5305 5306" vetnummer="2060722220" code="0607tkkvr2509" lopendefooter="Tweede Kamer, vergaderjaar 2006–2007, Aanhangsel" filenaam="KVR29183" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2007"/>
+      <vraagdata vraagnummer="2509" onderwerp="" indiendatum="2007-07-30">
+         <vrager partij="CDA" oorsprong="parlement">Omtzigt</vrager>
+         <vraagt-aan>de minister van Sociale Zaken en Werkgelegenheid en de staatssecretaris van Financiën</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="28 augustus 2007), zie ook Aanhangsel Handelingen nr. 2395, vergaderjaar 2006–2007">
+         <antwoorder functie="minister" ministerie="Sociale Zaken en Werkgelegenheid">Donner</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="8">
+      <vraag nummer="1" voetnoot="1">Was er begin van dit jaar, een jaar na de invoering van de nieuwe polisadministratie, een eenduidige architectuur voor WALVIS? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Hoe vaak en wanneer zijn de systemen voor de polisadministratie en de toeslagen opnieuw ontworpen en aanbesteed? Kunt u de data van de aanbestedingen hierbij geven? </vraag>
+      <vraag nummer="3" voetnoot="2">Is er een ketentest gepland voor alle nieuw te ontwikkelen pakketten software, die gebruikt zullen worden voor het aanleveren van de herstelgegevens? Zo neen, loopt u dan niet hetzelfde risico als met de aanlevering van de oorspronkelijke gegevens? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="4">Worden bij de aanlevering van de herstelgegevens zowel de bestandsstructuur als de inhoud gecontroleerd? Zo neen, wanneer worden fouten over de inhoud dan teruggekoppeld en tot hoeveel vertraging zal dat leiden? </vraag>
+      <vraag nummer="5" voetnoot="3">Zijn alle partijen in de markt, die in contact wilden treden met UWV en Belastingdienst, ook in de gelegenheid geweest om bij het overleg aanwezig te zijn? <voetnoot nummer="3"/>
+      </vraag>
+      <vraag nummer="6">Zijn alle partijen het eens dat het gekozen traject uitvoerbaar en haalbaar is, ten minste op de punten van tijdsplanning en testen van de nieuwe software? </vraag>
+      <vraag nummer="7">Moeten partijen (uitzendbureaus), die nu al dubbel aanleveren, via zowel de niet-werkende POLIS en het werkende WeFlex-systeem, opnieuw, voor de derde keer, hun gegevens aanleveren, terwijl ze in bruikbare vorm in het WeFlex-systeem aanwezig zijn? </vraag>
+      <vraag nummer="8">Kunt u per ommegaande de halfjaarlijkse voortgangsrapportage SUB/WALVIS aan de Kamer doen toekomen, die vóór 1 juni 2007 de Kamer bereikt had moeten hebben (motie 29 529, nr. 17)? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="2007-07-27" bron=", Automatiseringsgids" titel="IT-ellende Walvis is topje van de ijsberg">«IT-ellende Walvis is topje van de ijsberg», Automatiseringsgids, 27 juli 2007</noot>
+         <noot nummer="2" titel="Deel loongegevens 2006 opnieuw nodig voor Toeslagen en ZVW-premie">Nieuwsbericht ministerie van Financiën, www.minfin.nl: «Deel loongegevens 2006 opnieuw nodig voor Toeslagen en ZVW-premie»</noot>
+         <noot nummer="3" datum="2007-07-26" bron="www.automatiseringsgids.nl" titel="Leveranciers salarissoftware boos over «oplossing» Belastingdienst-probleem">www.automatiseringsgids.nl, 26 juli 2007: «Leveranciers salarissoftware boos over «oplossing» Belastingdienst-probleem»</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="8">
+      <antwoord nummer="1">Wij nemen aan dat de vragensteller doelt op de loonaangifteketen in het kader van de Wet financiering sociale verzekeringen (Wfsv). Binnen de vooronderzoeken die zijn gedaan om te komen tot de loonaangifteketen is de architectuur van het gewenste bedrijfsproces uitgewerkt op basis van de globale ketenarchitectuur. Deze architectuur heeft de basis gevormd voor het de opzet en de bouw van de polisadministratie. In die zin is sprake van een eenduidige architectuur. </antwoord>
+      <antwoord nummer="2">De Polisadministratie is éénmaal een Europees aanbesteed, namelijk in het eerste kwartaal van 2003. De in november 2004 besloten heroverweging bij de ontwikkeling van de Polisadministratie van «Koninklijke weg» naar «Elektronische Basisvoorziening» heeft geleid tot een afgeslankt aangepast ontwerp waarvoor geen nieuwe aanbesteding nodig was. De Belastingdienst heeft de nieuwe automatiseringssystemen in het kader van Walvis/SUB in eigen beheer gebouwd. Aanbesteding is daardoor niet aan de orde is geweest. Evenals het toeslagensysteem zijn de Walvis/SUB-systemen eenmaal ontworpen. Voor de toeslagen loopt op dit moment een herontwerp van het systeem. De Belastingdienst heeft hierbij gekozen voor de bouw door een externe partner. De daarvoor in gang gezette tenderprocedure heeft ertoe geleid, dat op 2 augustus jl. een externe partner is gekozen voor de voorlopige gunning van het nieuwe systeem. De komende maanden zal samen met deze partner worden gewerkt aan het herontwerp van het toeslagensysteem. </antwoord>
+      <antwoord nummer="3">Voor de uitvraag van de loongegevens is een afzonderlijk proces ingericht door de Belastingdienst. Echter, voor de berichtstructuur, de wijze van aanlevering, het aanleverkanaal, de poort e.d. is aangesloten bij bestaande componenten die bewezen hebben goed te functioneren. De wijze van uitvraag van gegevens is tot stand gekomen in nauw overleg met marktpartijen. De keten na binnenkomst van de gegevens bij de Belastingdienst is kort. Na ontvangst van de gegevens vindt een beperkte controle plaats, waarna de gegevens worden opgenomen in één database. Vanaf 30 juli jl. bestaat voor de marktpartijen de mogelijkheid om het nieuwe jaarloonbericht 2006 te testen. Onder meer op juistheid van het gebruikte berichtenformaat en de juiste invulling van de verplicht in te vullen velden van het bericht. Eveneens vanaf 30 juli jl. vindt de test plaats van het interne automatiseringstraject binnen de Belastingdienst </antwoord>
+      <antwoord nummer="4">Bij aanlevering van de herstel-gegevens controleert de Belastingdienst zowel de bestandsstructuur als de inhoud van de berichten. Het aantal inhoudelijke controles is, zoals hiervoor is aangegeven, beperkt. Daarbij geconstateerde fouten worden zoveel mogelijk in telefonisch overleg met aanleveraars hersteld. De opzet is om op weekbasis aan de gegevensaanleveraar terug te koppelen. De vertraging die met het herstel gemoeid is, is vooral afhankelijk van de termijn die de aanleveraar nodig heeft om de fouten te herstellen. </antwoord>
+      <antwoord nummer="5">De marktpartijen betreffen ca 20.000 intermediairs, rond 600.000 inhoudingsplichtigen en een paar honderd software-ontwikkelaars. Gezien deze aantallen is het niet doenlijk om alle partijen te consulteren. Wel heeft de Belastingdienst ter voorbereiding van de uitvraag van de jaarloongegevens overleg gevoerd met VNO/NCW, MKB, vertegenwoordigers van belastingconsulenten, salarisservicebureaus, pakketleveranciers, pensioenfondsen, de uitzendbranche, enkele grote ondernemingen en enkele uitkeringsinstanties. Daarnaast zijn nog individuele gesprekken gevoerd met enkele marktpartijen. De specificaties voor de uit te vragen gegevens en de berichtspecificaties (berichtstructuur, kanaal van aanlevering e.d.) zijn besproken in het reguliere overleg dat de Belastingdienst voert met een representatief deel van de software ontwikkelaars. </antwoord>
+      <antwoord nummer="6">Op de geboden testmogelijkheden zijn geen negatieve reacties vanuit de markt gekomen. Vrijwel alle partijen hebben aangegeven dat de tijdsplanning van het traject tot aan de gewenste aanleverdatum van de gegevens (1 oktober aanstaande) krap is. Het beeld op dit moment is echter niet dat de aanleverdatum massaal niet gehaald gaat worden. De ontwikkelingen bij de software-ontwikkelaars en de 200 grootste aanleveraars van gegevens (samen goed voor ca 90% van de aan te leveren gegevens) worden individueel gevolgd. Aan deze partijen is gevraagd wanneer zij hun software gereed hebben c.q. wanneer zij denken de gegevens aan te kunnen leveren. Uit hun reacties blijkt dat de meeste aanleveraars verwachten tijdig gereed te zijn. Met partijen die aangeven niet vóór 1 oktober aanstaande te kunnen leveren zoekt de Belastingdienst naar een maatwerkoplossing. </antwoord>
+      <antwoord nummer="7">WeFlex is inderdaad een werkend systeem. Dit systeem staat echter op zichzelf en is niet bedoeld of geschikt om gegevens op jaarbasis samen te stellen. Zo beschikt WeFlex niet over de mogelijkheid om de tijdvakgegevens te cumuleren naar kalenderjaargegevens. Bovendien is WeFlex niet volledig. Niet alle betrokken werkgevers hebben Weflex gegevens aangeleverd: uitzendbureaus die lid zijn van de brancheorganisatie zijn op basis van vrijwilligheid aangesloten op WeFlex. </antwoord>
+      <antwoord nummer="8">Zoals tijdens het algemene overleg van 4 juli jl. is vastgesteld, ontmoet het geen bezwaar om de zesde halfjaarlijkse rapportage Samenwerking UWV en Belastingdienst (SUB) aan uw Kamer toe te sturen. Hierbij moet wel worden bedacht dat inhoud goeddeels achterhaald is, omdat de rapportage ziet op de periode 1 oktober 2006 tot 1 april 2007. Hierbij treft u haar aan. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"/>
+         <noot nummer="1">Ter inzage gelegd bij het Centraal Informatiepunt Tweede Kamer</noot>
+      </noten>
+   </antwoorden>
+</kvr>

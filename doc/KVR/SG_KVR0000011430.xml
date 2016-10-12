@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001126</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001126&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001126</item>
+         <item attribuut="Document-id">0000011430</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 195</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Verspaget (PvdA) over de schending van de mensenrechten in Soedan</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 195</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">195</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Verspaget</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-11-11</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-12-07</item>
+         <item attribuut="Beginpagina">403</item>
+         <item attribuut="Eindpagina">404</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="403" allpagenumbers="403" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="195" onderwerp="" indiendatum="">
+         <vrager partij="PvdA" oorsprong="parlement">Verspaget</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="7 december 1992).">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">Van den Broek</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1">Bent u op de hoogte van het feit dat het Europese Parlement zich in een gezamenlijke resolutie heeft uitgesproken tegen de voortdurende schending van de mensenrechten in Soedan en de EPS-ministers dringend heeft opgeroepen met krachtige middelen op te treden tegen het Soedanese regime?' </vraag>
+      <vraag nummer="2">Bent u bereid in EPS-verband gehoor te geven aan deze oproep? Zo ja, welke stappen zult u hiertoe ondernemen? Bent u tevens bereid aan te dringen op een speciale zitting van de Veiligheidsraad over Soedan en te pleiten voor de stationering van permanente VN-vertegenwoordigers in Soedan? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" titel="Europarlement hekelt schending mensenrechten in Soedan"> Zie Staatscourant van 30 oktober 1992: «Europarlement hekelt schending mensenrechten in Soedan»</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1">De in deze vraag bedoelde resolutie van het Europees Parlement is mij bekend. 2 e n 3 Hoewel de resolutie zich met betrekkmg tot de mensenrechtensituatie richt tot de Soedanese regering, moge voor wat betreft de inspanningen met name in het kader van de Europese Politieke Samenwerking op dit terrein, worden verwezen naar de recente beantwoording d.d. 20 november jl. van de door de leden Huiberts, Aarts en Ramlal gestelde vragen. Aangaande het vraagstuk van de voedseldistributie ten behoeve van de noodlijdende burgerbevolking kan worden vermeld dat op de Soedanese autoriteiten bij voortduring krachtige aandrang wordt uitgeoefend teneinde de verstrekking van voedsel mogelijk te maken. Met betrekking tot het vredesproces in Soedan zij in de eerste plaats vermeld dat op het ogenblik door Nigeria pogingen worden aangewend vrede te bewerkstelligen via onderhandelingen. Deze pogingen genieten ten principale de steun van de Twaalf. Vooropgesteld dat de Regering vanzelfsprekend de alom bestaande bezorgdheid over het voortduren van de oorlogssituatie in Zuid-Soedan deelt, ziet zij evenwel geen mogelijkheden voor een in vraag 3 beoogd initiatief - al dan niet in het kader van de Europese Politieke Samenwerking - dat op het ogenblik kans van slagen zou hebben. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="4">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19851986:0001390</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001390&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001390</item>
+         <item attribuut="Document-id">0000114950</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1985-1986 nummer 469</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van der Hek (P.v.d.A.) over de reorganisatie van de Stichting Nederlands Adviesbureau voor ingenieurswerken in het buitenland (NEDECO).</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1985-1986 nummer 469</item>
+         <item attribuut="Jaargang">1985_1986</item>
+         <item attribuut="Vraagnummer">469</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Van der Hek</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-01-07</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Smit-Kroes</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-02-25</item>
+         <item attribuut="Beginpagina">927</item>
+         <item attribuut="Eindpagina">928</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1985-1986 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="7" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 5 - 1 9 8 6 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="469" onderwerp="de reorganisatie van de Stichting Nederlands Adviesbu- reau voor ingenieurswerken in het buitenland (NEDECO)." indiendatum="7 januari 1986)">
+         <vrager partij="PvdA" oorsprong="parlement">Van der Hek</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="25 februari 1986)">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">S m i t - K r o e s</antwoorder>
+         <mede-antwoorder>de Minister van Economische Zaken</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 ">Is het waar, dat de Stichting Neder- lands Adviesbureau voor ingenieurs- werken in het buitenland (NEDECO)  onlangs op ingrijpende wijze is  gereorganiseerd en dat haar perso- neelsbestand aanzienlijk is ingekrom- pen?  </vraag>
+      <vraag nummer="2 ">Zijn de ministers over deze reorgani- satie tijdig ingelicht en hebben zij  daarbij overwogen, wat deze reorga- nisatie zou kunnen betekenen voor  NEDECO-activiteiten, waarbij de  regering financieel betrokken is?  </vraag>
+      <vraag nummer="3 ">Wat is het oordeel van de ministers  over het nut van NEDECO voor de  export van ingenieursdiensten en  voor de verwerving van opdrachten  voor bedrijven, die actief zijn in de  realisatie van infrastructurele  werken?  </vraag>
+      <vraag nummer="4 ">Zijn de ministers bereid, zich te  verstaan met het bestuur van  NEDECO om te voorkomen dat het  exportbelang, dat met NEDECO in  het geding is, niet nodeloos zal  worden geschaad?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1 ">Ja.  </antwoord>
+      <antwoord nummer="2 ">Ja, met dien verstande dat de  regering financieel niet betrokken is  bij de exploitatie van NEDECO-activi- teiten.  </antwoord>
+      <antwoord nummer="3 ">Het oordeel is positief. Daarnaast is  het ons streven verdergaande  samenwerking tussen ingenieusbu- reau's te bevorderen.  </antwoord>
+      <antwoord nummer="4 ">Naar ons oordeel is de reorganisatie,  die vooral betrekking heeft op een  rationalisering van het centrale  apparaat, een gevolg van de voor  1986 en volgende jaren gemaakte  nieuwe afspraken voor de samenwer- king tussen de in NEDECO verbonden  bedrijven en instellingen. De daarme- de samenhangende taakverschuivin- gen hebben naar ons oordeel geen  ongunstige invloed op het totaal van  het exportbelang dat binnen het  samenwerkingsverband in het geding  is.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

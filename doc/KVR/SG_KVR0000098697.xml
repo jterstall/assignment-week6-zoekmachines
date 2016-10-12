@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19871988:0000983</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0000983&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0000983</item>
+         <item attribuut="Document-id">0000098697</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1987-1988 nummer 46</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden De Leeuw en Kraaijeveld-Wouters (beiden C.D.A.) over de regeling inzake de uitbreiding van het aantal ambtenaren met bijzondere controletaken.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1987-1988 nummer 46</item>
+         <item attribuut="Jaargang">1987_1988</item>
+         <item attribuut="Vraagnummer">46</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">De Leeuw</persoon>
+            <persoon partij="CDA">Kraaijeveld-Wouters</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-09-24</item>
+         <item attribuut="Beantwoorder">
+            <persoon>De Graaf</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-10-12</item>
+         <item attribuut="Beginpagina">91</item>
+         <item attribuut="Eindpagina">92</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="" typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 7 - 1 9 8 8 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="46" onderwerp="de regeling inzake de uitbreiding van het aantal ambtenaren met bijzondere controletaken." indiendatum="2 4 september 1987)">
+         <vrager partij="CDA" oorsprong="parlement">De Leeuw</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Kraaijeveld-Wouters</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 ">Hebben de gemeenten nog nauwelijks  belangstelling getoond voor de  regeling en het bijbehorende extra  budget, dat ter beschikking is gesteld  o m te voorzien in een uitbreiding van  het aantal ambtenaren met bijzondere  controletaken?'  </vraag>
+      <vraag nummer="2 ">Kan ten aanzien van de gebruikmaking  van genoemde regeling en extra  budget een juiste stand van zaken  worden gegeven?  </vraag>
+      <vraag nummer="3 ">Is een en ander aanleiding voor u  o m  de regeling bij te stellen om het  beoogd effect ten aanzien van het  bestrijden van oneigenlijk gebruik en  misbruik to bereiken?  </vraag>
+      <vraag nummer="4 ">Is een en ander aanleiding voor u om  de verwachting ten aanzien van de  uiteindelijke besparing bij te stellen?  </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Zie Trouw van 21 september 1987 </noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

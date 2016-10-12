@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="5">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Cherribi (VVD) over het electronisch patiëntendossier. (Ingezonden 2 februari 1998); Antwoord</item>
+         <item attribuut="Bestand">16Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR6680
+</item>
+         <item attribuut="Inhoud">Vragen over de ontwikkeling van een elektronisch patiëntendossier door ZorgOnderzoek Nederland in relatie tot reeds bestaande systemen en standaards in het buitenland.</item>
+         <item attribuut="Rubriek">Communicatie, media en informatievoorziening (Hard- en software) Criminaliteit en openbare orde (Persoonsregistratie en identificatie) Gezondheidszorg (Patiënten)</item>
+         <item attribuut="Trefwoorden">Informatietechnologie Patiënten Persoonsregistratie</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 1997-1998, nr. 860, Tweede Kamer</item>
+         <item attribuut="Afkomstig_van">Volksgezondheid, Welzijn en Sport</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Cherribi</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1998-03-10</item>
+         <item attribuut="Datum_indiening">1998-02-02</item>
+         <item attribuut="Document-id">KVR6680</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1997–1998" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1761" allpagenumbers="1761 1762" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1997–1998, Aanhangsel" filenaam="KVR6680" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 1998"/>
+      <vraagdata vraagnummer="860" onderwerp="" indiendatum="1998-02-2">
+         <vrager partij="VVD" oorsprong="parlement">Cherribi</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1998-03-10">
+         <antwoorder functie="minister" ministerie="Volksgezondheid, Welzijn en Sport">Borst-Eilers</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1">Bent u ermee bekend dat het electronische patiëntendossier een kernbestanddeel is van het door ZorgOnderzoek Nederland gepresenteerde programmavoorstel «Informatie- en Communicatietechnologie in de Zorg»? </vraag>
+      <vraag nummer="2">Bent u bekend met de in Europees verband aanvaarde eisen voor electronische patiëntendossiers, zoals voorgeschreven door de Good European Health Record en de European Standardization Committee? </vraag>
+      <vraag nummer="3">Is het u bekend dat in Europa al een kant en klaar electronisch patiëntendossier «Diversified Health Systems» beschikbaar is dat aan al deze eisen voldoet? </vraag>
+      <vraag nummer="4">In hoeverre wordt bij het patïentendossier van ZorgOnderzoek Nederland met de in Europees verband aanvaarde standaard rekening gehouden? </vraag>
+      <vraag nummer="5">Ziet u t.a.v. het electronische patïentendossier redenen om in Nederland het wiel opnieuw uit te vinden? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1">Ja, ZorgOnderzoek Nederland voert onderzoekprogramma’s uit nadat ik met de programmavoorstellen heb ingestemd. In de nota Informatievoorziening in de Zorg (TK, 1979–1988, 25 669, nr. 2) ben ik uitgebreid ingegaan op het programmavoorstel van ZorgOnderzoek Nederland betreffende Informatie- en Communicatietechnologie in de Zorg. Het is mijn keuze dat het elektronisch patiëntendossier een kernbestanddeel is van dit programma. </antwoord>
+      <antwoord nummer="2">Ja, Good European Health Record was een project binnen het Derde Europese Kaderprogramma voor onderzoek en technologische ontwikkeling, en liep van 1992 tot 1995. Vervolgens is in het Vierde Kaderprogramma op resultaten van het Derde Kaderprogramma voort gebouwd. Het Comité Européen de Normalisation (CEN) ontwikkelde een Europese Voornorm op dit gebied: ENV 12265: Medical Informatics – Electronic health care record architecture. Het Nederlands Normalisatie-instituut moet nog een Nederlands standpunt formuleren over deze voornorm. De Erasmus Universiteit neemt in het Vierde Kaderprogramma deel aan het project EHCR ( Electronic healthcare records). Dit project beoogt standaarden te verspreiden en feed-back te krijgen van deskundige gebruikers. In de nota Informatievoorziening in de Zorg (TK, 1979–1988, 25 669, nr. 2) ben ik nader ingegaan op internationale standaardisatie en ontwikkelingen op dit gebied. </antwoord>
+      <antwoord nummer="3">Er bestaan geen kant en klare elektronische patiëntendossiers. Er bestaan wel softwarepakketten. Diversified Health Systems (DHS) is een van de vele softwareleveranciers die actief zijn op dit gebied. Het elektronisch patiëntendossier is geen softwarepakket, maar een verzameling van door verschillende zorgverleners bijgehouden deeldossiers, dat via de elektronische snelweg in samenhang geraadpleegd kan worden door allen die daartoe geautoriseerd zijn. </antwoord>
+      <antwoord nummer="4">Een van de belangrijkste principes van het programma van ZorgOnderzoek Nederland is dat wordt uitgegaan van wat aanwezig en beschikbaar is en dat daarop wordt voortgebouwd. Er wordt niet alleen rekening gehouden met allerhande beschikbare en relevante standaarden, maar bijvoorbeeld ook met de reeds aanwezige automatisering. </antwoord>
+      <antwoord nummer="5">Ten aanzien van het elektronisch patiëntendossier is het wiel nog niet uitgevonden. Het elektronisch patiëntendossier is ook niet zozeer iets dat zich laat uitvinden, als wel iets dat tot stand komt door werkwijzen en behoeften te onderzoeken, afspraken te maken en draagvlak te creëren. Bij de ontwikkeling van het elektronisch patiëntendossier in Nederland wordt rekening gehouden met internationale ontwikkelingen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

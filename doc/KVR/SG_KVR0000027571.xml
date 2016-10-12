@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001234</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001234&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001234</item>
+         <item attribuut="Document-id">0000027571</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 301</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden M. de Jong (C.D.A.) en De Pree (P.v.d.A.) over capaciteitsproblemen op intensive-care-afdelingen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 301</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">301</item>
+         <item attribuut="Indiener">
+            <persoon>de Jong M.</persoon>
+            <persoon>De Pree</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-12-12</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Simons</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-01-15</item>
+         <item attribuut="Beginpagina">607</item>
+         <item attribuut="Eindpagina">608</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="607" allpagenumbers="607" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1991"/>
+      <vraagdata vraagnummer="301" onderwerp="capaciteitsproblemen op intensive-care-afdelingen." indiendatum="1990-12-12">
+         <vrager partij="" oorsprong="parlement">de Jong M.</vrager>
+         <vrager partij="" oorsprong="parlement">De Pree</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="15 januari 1991), zie ook Aanhangsel Hande– lingen nr. 300, Vergaderjaar 1990-1991">
+         <antwoorder functie="staatssecretaris" ministerie="Welzijn, Volksgezondheid en Cultuur">Simons</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Komt er een onderzoek naar de recente dood van een jongetje na het doorrijden van de ambulance?' </vraag>
+      <vraag nummer="2">Deelt u de mening, dat het de taak is van de Centrale Post Ambulance– vervoer tijdig te informeren waar ruimte is op intensive– care-afdelingen en dit door te geven aan de chauffeur? </vraag>
+      <vraag nummer="3">Wordt deze Kamer op de hoogte gesteld van de bevindingen van het onderzoek van de Inspecteur voor de Volksgezondheid in Noord-Holland? </vraag>
+      <vraag nummer="4">Welke maatregelen denkt u te nemen, opdat in de toekomst geen onnodig tijdverlies zal optreden? Toelichting Deze vragen dienen ter aanvulling op de eerdere vragen terzake van het lid Kohnstamm, ingezonden 12 december 1990. </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1990-12-7" bron=" Zie o.a. het Binnenhof"> Zie o.a. het Binnenhof, 7 december 1990</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1 en 3">Dit onderzoek heeft reeds plaats gevonden en is uitgevoerd door de regionale inspecties van de Provincies Noord– en Zuid-Holland. Het naar aanleiding van het onderzoek geschreven rapport is vertrouwelijk van aard en met name opgesteld voor de direct betrok– kenen. </antwoord>
+      <antwoord nummer="2">Ja. </antwoord>
+      <antwoord nummer="4">Het op geautomatiseerde wijze koppelen van gegevens over beschikbare bedden voor intensive-care zowel binnen alsook tussen verschillende regio's kan leiden tot een meer optimaal gebruik van deze voorzieningen en dus tot minimalisering van het tijdverlies bij spoedeisend ambulancevervoer. Onder bij het ambulancevervoer betrokkenen lijkt in toenemende mate belangstelling te bestaan om tot maatregelen voor het opzetten van informatievoorziening als hierbe– doeld over te gaan. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

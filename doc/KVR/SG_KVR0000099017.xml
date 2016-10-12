@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19871988:0001303</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001303&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001303</item>
+         <item attribuut="Document-id">0000099017</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1987-1988 nummer 363</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid De Pree (P.v.d.A.) over glafenine-bevattende produkten.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1987-1988 nummer 363</item>
+         <item attribuut="Jaargang">1987_1988</item>
+         <item attribuut="Vraagnummer">363</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">De Pree</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-11-17</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Dees</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1988-02-29</item>
+         <item attribuut="Beginpagina">729</item>
+         <item attribuut="Eindpagina">730</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 7 - 1 9 8 8 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 7 - 1 9 8 8 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="363" onderwerp="" indiendatum="17 december 1987)">
+         <vrager partij="PvdA" oorsprong="parlement">De Pree</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="29 februari 1988)">
+         <antwoorder functie="" ministerie="Welzijn, Volksgezondheid en Cultuur"/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1 ">Hebt u kennis genomen van het  artikel over acute overgevoeligheids- reacties, veroorzaakt door genees- middelen? </vraag>
+      <vraag nummer="1 ">W a t is de voortgang in en eventueel  het resultaat van het daarin aangekon- digde nadere onderzoek van het  College ter beoordeling van Genees- middelen naar de balans tussen  werkzaamheid en schadelijkheid van  glafenine-bevattende produkten?  </vraag>
+      <vraag nummer="3 ">Meent u, dat op dit moment kan  worden volstaan met een uitgebreide  waarschuwing in de bijsluiter?  </vraag>
+      <vraag nummer="4 ">Zijn glafenine-bevattende geneesmid- delen vanwege hun bijwerkingen niet  geregistreerd in het Verenigd  Koninkrijk en de Scandinavische  landen?  </vraag>
+      <vraag nummer="5 ">Op grond waarvan is het besluit  genomen glafenine-bevattende  geneesmiddelen op de markt te  handhaven, nu afdoende is aange- toond, dat deze produkten schadelijke  bijwerkingen vertonen en voldoende  andere pijnstillende preparaten  beschikbaar zijn?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1 ">Ja.  2, 3 en 5  Het College ter beoordeling van  geneesmiddelen heeft de balans  tussen werkzaamheid en schadelijk- heid geëvalueerd op basis van de bij  het Bureau Bijwerkingen Geneesmid- delen gemelde bijwerkingen en mede  in relatie tot de balans werkzaamheid- schadelijkheid van andere pijnstillers.  Het College is daarbij tot de conclusie  gekomen dat voorshands volstaan  kan worden met een zeer duidelijke  waarschuwing in de produktinforma- tie. Daar glafenine-bevattende  produkten uitsluitend op recept  kunnen worden verkregen, zijn de  voorschrijvers door een mededeling  in de vakpers geïnformeerd over de  risico's van het voorschrijven van  glafenine-bevattende produkten.  Op dit moment wordt de extra  waarschuwing in de produktinforma- tie (bijsluiter) voldoende geacht. Het  College volgt de ontwikkeling m.b.t.  de schadelijkheid van glafenine-be- vattende produkten continu, teneinde  zonodig nadere maatregelen te  nemen.  </antwoord>
+      <antwoord nummer="4 ">In Engeland en Denemarken is geen  aanvraag voor de registratie van  Glifanan ingediend. In Zweden is wel  een aanvraag ingediend, doch deze is  tijdens de behandelingsprocedure  ingetrokken.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

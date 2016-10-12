@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="neen, waarom niet?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Dankers (CDA), Van Vliet (D66) en Blok (VVD) aan de staatssecretaris van Volksgezondheid, Welzijn en Sport over de positionering van regionale indicatieorganen (rio's). (Ingezonden 3 april 2001)</item>
+         <item attribuut="Bestand">12Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V000108960
+</item>
+         <item attribuut="Inhoud">Vragen over het voornemen om binnen een half jaar het Zorgindicatiebesluit zodanig te wijzigen dat de rio's zelfstandige bestuursorganen worden.</item>
+         <item attribuut="Rubriek">Gezondheidszorg (Overig) Gezondheidszorg (Zorgverzekeringen)</item>
+         <item attribuut="Trefwoorden">AWBZ Gezondheidszorg</item>
+         <item attribuut="Vindplaats">Kamervragen 2000-2001, vraagnr. 2000108960, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2000108960</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Dankers</persoon>
+            <persoon partij="D66">Van Vliet</persoon>
+            <persoon partij="VVD">Blok</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2001-04-03</item>
+         <item attribuut="Document-id">V000108960</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2000–2001" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 2000–2001, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2001"/>
+      <vraagdata vraagnummer="2000108960" onderwerp="" indiendatum="2001-04-3">
+         <vrager partij="CDA" oorsprong="parlement">Dankers</vrager>
+         <vrager partij="D66" oorsprong="parlement">Van Vliet</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Blok</vrager>
+         <vraagt-aan>de staatssecretaris van Volksgezondheid, Welzijn en Sport</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Bent u op de hoogte van het bericht «Volksgezondheid, Welzijn en Sport maakt van rio’s snel bestuursorganen»? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Bent u inderdaad voornemens om binnen een half jaar het Zorgindicatiebesluit zodanig te wijzigen dat de rio’s zelfstandige bestuursorganen worden? </vraag>
+      <vraag nummer="3">Bent u tevens voornemens bij dezelfde wijzigingen de aangenomen moties Van Vliet en Dankers te betrekken? Zo ja, op welke wijze? Zo </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="2"/>
+         <noot nummer="3"/>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="3"/>
+         <noot nummer="1">ZN Journaal 2001, nr. 12, p. 7</noot>
+         <noot nummer="2" documenttype="Kamerstuk" kamerstuk-id="24 036" documentnummer="205">Kamerstuk 24 036, nr. 205</noot>
+         <noot nummer="3" documenttype="Kamerstuk" kamerstuk-id="27 401" documentnummer="11">Kamerstuk 27 401, nr. 11</noot>
+      </noten>
+   </antwoorden>
+</kvr>

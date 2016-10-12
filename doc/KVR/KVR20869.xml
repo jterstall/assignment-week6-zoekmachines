@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="5">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Van Gent en Vendrik (beiden GroenLinks) aan de minister-president, minister van Algemene Zaken over de kandidaatstelling van de minister van Financiën. (Ingezonden 6 augustus 2004); Antwoord</item>
+         <item attribuut="Bestand">15Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR20869
+</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van bericht over een uitlating die minister Zalm (Fin) tijdens de ministerraad zou hebben gedaan over de kandidatuur van Neelie Kroes voor Europees commissaris namens Nederland: 'als Neelie het niet wordt, dan doe ik het'.</item>
+         <item attribuut="Rubriek">Internationale betrekkingen (Europese Unie) Staats- en bestuursrecht (Regering)</item>
+         <item attribuut="Trefwoorden">Europese Commissie Ministers</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2003-2004, nr. 2060, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2030419130</item>
+         <item attribuut="Afkomstig_van">Algemene Zaken (AZ)</item>
+         <item attribuut="Indiener">
+            <persoon partij="GroenLinks">Van Gent</persoon>
+            <persoon partij="GroenLinks">Vendrik</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2004-08-13</item>
+         <item attribuut="Datum_indiening">2004-08-06</item>
+         <item attribuut="Document-id">KVR20869</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2003–2004" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="4353" allpagenumbers="4353" vetnummer="2030419130" code="0304tkkvr2060" lopendefooter="Tweede Kamer, vergaderjaar 2003–2004, Aanhangsel" filenaam="KVR20869" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2004"/>
+      <vraagdata vraagnummer="2060" onderwerp="" indiendatum="6augustus 2004">
+         <vrager partij="GroenLinks" oorsprong="parlement">Van Gent</vrager>
+         <vrager partij="GroenLinks" oorsprong="parlement">Vendrik</vrager>
+         <vraagt-aan>de minister-president, minister van Algemene Zaken</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2004-08-13">
+         <antwoorder functie="minister-president" ministerie="Algemene Zaken">Balkenende</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Heeft u kennisgenomen van het bericht «Zalm: als Neelie het niet wordt, doe ik het»? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Klopt het dat de minister van Financiën zichzelf kandidaat heeft gesteld? Zo ja, hoe beoordeelde u deze kandidaatstelling? </vraag>
+      <vraag nummer="3">Acht u de minister van Financiën geschikt voor het ambt van Eurocommissaris? Was hij wellicht niet acceptabel vanwege de discussie binnen de Europese Unie over het stabiliteitspact? </vraag>
+      <vraag nummer="4">Deelt u de mening dat een minister eigenlijk niet tussentijds moet vertrekken? </vraag>
+      <vraag nummer="5">Is de minister van Financiën op zoek naar een andere baan? Zo ja, waarom? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="2004-08-4" bron="De Volkskrant">De Volkskrant, 4 augustus 2004</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Nee. </antwoord>
+      <antwoord nummer="3">Deze vragen zijn niet aan de orde nu de regering mw. Kroes heeft voorgedragen. </antwoord>
+      <antwoord nummer="4">Nee, niet in deze absolute zin gesteld. </antwoord>
+      <antwoord nummer="5">Nee. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

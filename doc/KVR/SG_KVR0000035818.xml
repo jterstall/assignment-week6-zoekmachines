@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="5">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001411</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001411&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001411</item>
+         <item attribuut="Document-id">0000035818</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 489</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Schutte (G.P.V.) over de geluidswal langs de A27 bij Meerkerk.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 489</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">489</item>
+         <item attribuut="Indiener">
+            <persoon partij="GPV">Schutte</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-03-15</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Maij-Weggen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-03-27</item>
+         <item attribuut="Beginpagina">985</item>
+         <item attribuut="Eindpagina">986</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="985" allpagenumbers="985" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="489" onderwerp="de geluidswal langs de A27 bij Meerkerk." indiendatum="1990-03-15">
+         <vrager partij="GPV" oorsprong="parlement">Schutte</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-03-27">
+         <antwoorder functie="minister" ministerie="Verkeer en Water– staat">Maij-Weggen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Hebt u kennis genomen van persbe– richten over het instorten van een deel van de geluidswal langs de A27 bij Meerkerk als gevolg van onoor– deelkundig beheer door Rijkswater– staat? <voetnoot nummer="1"/>Is Rijkswaterstaat door terzake méér deskundige streekbewoners gewaar– schuwd, dat het vroegtijdig snoeien van deze geluidswal zal kunnen leiden tot het voortijdig einde ervan? </vraag>
+      <vraag nummer="3">Is er bij Rijkswaterstaat wel voldoende deskundigheid in huis om een goed beheer te garanderen? </vraag>
+      <vraag nummer="4">Hoe groot bedraagt de schade? </vraag>
+      <vraag nummer="5">Is ook elders langs onze rijkswegen sprake van vergelijkbare situaties waardoor in de nabije toekomst nog meer schade valt te verwachten? </vraag>
+      <vraag nummer="6">Op welke wijze zal op korte termijn worden voorzien in de wettelijk verplichte geluidsafscherming en hoe zal hinder voor de omwonende worden voorkomen zolang er sprake is van een teloorgegane geluidswal? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1990-03-12" bron=" Algemeen Dagblad"> Algemeen Dagblad, 12 maart 1990</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1">Ja, ik heb vernomen dat een deel van de geluidswal langs de A27 bij Meerkerk is ingestort. Ik bestrijd echter dat dit het gevolg is van onoordeelkundig beheer van de betreffende wal door Rijkswaterstaat. </antwoord>
+      <antwoord nummer="2">Griendwerkers hebben ervoor gewaarschuwd dat door vroegtijdig snoeien de wal dood zou kunnen gaan (nadat de werkzaamheden reeds waren uitgevoerd). Overigens is er van de betreffende wal van 650 m aan de wegzijde circa 150 m gesnoeid door de aannemer, op zijn initiatief zonder dat Rijkswaterstaat is gewaarschuwd. Rijkswaterstaat heeft de snoeiwerkzaamheden terstond laten staken. In het contract dat met de aannemer is gesloten staat dat hij de eerste vijf jaar het scherm deugdelijk zal onderhouden en na vijf jaar een volwaardig scherm zal afleveren. Verder merk ik op dat de resterende 500 m niet is gesnoeid, maar dat ook dit deel van de wal is doodgegaan De vraag rijst dan ook of het door u bedoelde deel door het snoeien is afgestorven of dat er een andere, nog onbekende, oorzaak daaraan schuldig is. </antwoord>
+      <antwoord nummer="3">Bij Rijkswaterstaat zijn mensen met een zogenoemde groene achter– grond in dienst Bovendien wordt, waar noodzakelijk, kennis ingehuurd. Er zal ter plaatse van Meerkerk een nieuw scherm moeten komen, waarvan de kosten worden geraamd op ruim f 1 mln. </antwoord>
+      <antwoord nummer="5">Ook langs andere autosnelheden zijn vergelijkbare schermen neergezet. Daar doen zich vergelijkbare problemen voor. </antwoord>
+      <antwoord nummer="6">De volledige geluidswal is op dit moment nog niet teloor gegaan, maar slechts een deel. In de bovenste laag van een meter is een gat ontstaan van circa 80 m lang. Dat gat wordt tijdelijk dicht gemaakt. Aan het einde van het jaar zullen ter plaatse van Meerkerk de resten van het oude scherm worden verwijderd en zal een totaal nieuw scherm worden opgericht. Onderzocht wordt of dat eenzelfde type scherm zal zijn dan wel een ander. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

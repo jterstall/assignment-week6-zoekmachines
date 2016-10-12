@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19871988:0001019</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001019&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001019</item>
+         <item attribuut="Document-id">0000098733</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1987-1988 nummer 82</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Lankhorst (P.P.R.) over uitspraken van landsadvocaat mr. Bil m.b.t. asielaanvragers uit Afrikaanse landen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1987-1988 nummer 82</item>
+         <item attribuut="Jaargang">1987_1988</item>
+         <item attribuut="Vraagnummer">82</item>
+         <item attribuut="Indiener">
+            <persoon partij="PPR">Lankhorst</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-09-24</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Korte-van Hemel</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-10-28</item>
+         <item attribuut="Beginpagina">165</item>
+         <item attribuut="Eindpagina">166</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="" typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer,  m e t de daarop door  d e regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 7 - 1 9 8 8 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="82" onderwerp="" indiendatum="">
+         <vrager partij="PPR" oorsprong="parlement">Lankhorst</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2 8 oktober 1987)">
+         <antwoorder functie="" ministerie="Justitie"/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1 ">Hebt u kennisgenomen van de  uitspraken van de landsadvocaat mr.  Bil over asielaanvragers uit Afrikaanse  landen?'  </vraag>
+      <vraag nummer="2 ">Acht u het aanvaardbaar, dat  asielzoekers als groep door deze  landsadvocaat bestempeld worden  als «oplichters»?  </vraag>
+      <vraag nummer="3 ">Meent u, dat iemand met zulke  opvattingen zijn taak in rechtsgedin- gen namens de Staat nog langer  onbevooroordeeld en geloofwaardig  kan vervullen?  </vraag>
+      <vraag nummer="4 ">W i l t u er in het algemeen op toezien,  dat het cynisme, waar de landsadvo- caat mr.  J . L. de Wijkerslooth reeds  eerder voor waarschuwde, geen vast  bestanddeel wordt van ons vreemde- lingenbeleid? </vraag>
+      <vraag nummer="2 ">il.  </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Zie het Limburgs dagblad van 12 september </noot>
+         <noot nummer="2"> Zie de NRC van 11 mei 1987 </noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1 ">Ja.  </antwoord>
+      <antwoord nummer="2 ">De weergave in het artikel is onjuist.  In een gesprek na afloop van een  aantal kort gedingen met een  journalist van het Limburgs Dagblad  waarin de asielprocedure als geheel  ter sprake is geweest, is door de  desbetreffende advocaat meegedeeld  dat door een aantal asielzoekers van  een tweetal Afrikaanse nationaliteiten  asiel in Nederland is gevraagd, terwijl  deze in het bezit zijn van een verblijfs- titel in een ander Europees land. In  dit verband heeft de advocaat zich  afgevraagd of niet sprake was van  bedrog of oplichting. Het is dus niet  waar dat asielzoekers als groep door  een namens de Staat optredende  advocaat als «oplichters» zijn  aangemerkt. Een dergelijke aandui- ding zou vanzelfsprekend niet  aanvaardbaar zijn.  </antwoord>
+      <antwoord nummer="3 ">Gelet op het antwoord op vraag 2 is  beantwoording van deze vraag  overbodig.  </antwoord>
+      <antwoord nummer="4 ">Ja.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

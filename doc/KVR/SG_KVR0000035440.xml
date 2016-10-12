@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19891990:0001033</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001033&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001033</item>
+         <item attribuut="Document-id">0000035440</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 112</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden J. T. van den Berg (S.G.P.) en Eversdijk (C.D.A.) over tarieven voor kerktelefoonaansluitingen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 112</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">112</item>
+         <item attribuut="Indiener">
+            <persoon>J. T. van den Berg</persoon>
+            <persoon>Eversdijk</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-10-26</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Smit-Kroes</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-11-03</item>
+         <item attribuut="Beginpagina">231</item>
+         <item attribuut="Eindpagina">232</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="231" allpagenumbers="231" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 921 7398" uitgever="SDU uitgevenj 's Gravenhage 1989"/>
+      <vraagdata vraagnummer="112" onderwerp="tarieven voor kerktelefoonaan– sluitingen." indiendatum="1989-10-26">
+         <vrager partij="" oorsprong="parlement">J. T. van den Berg</vrager>
+         <vrager partij="" oorsprong="parlement">Eversdijk</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1989-11-3">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">Smit-Kroes</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Wordt een verhoging van de tarieven voor kerktelefoonaansluitingen overwogen? Zo ja, hoe groot is de verhoging?' </vraag>
+      <vraag nummer="2">Deelt u de mening, dat mensen die afhankelijk zijn van dit soorrt voorzie– ningen, zoals zieken, bejaarden en gehandicapten, door een drastische tariefsverhoging onevenredig zouden worden getroffen? </vraag>
+      <vraag nummer="3">Acht u dit in overeenstemming met de maatschappelijke en sociale functie van deze voorzieningen? </vraag>
+      <vraag nummer="4">Bent u bereid te bevorderen, dat gebruikers van kerktelefoonvoorzie– ningen niet zullen worden geconfron– teerd met ingrijpende tariefsverho– gingen? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Op grond van het Besluit Algemene Richtlijnen Telecommunicatie dient PTT mij één maand voor de algemene bekendmaking schriftelijk in kennis te stellen van een voorge– nomen tariefwijziging. Een dergelijke mededeling met betrekking tot de onderhavige dienst is tot op heden niet door mij ontvangen. </antwoord>
+      <antwoord nummer="2, 3 en 4">In het kader van het verrichten van niet rendabele deelactiviteiten dan wel bedrijfsvreemde lasten bij de uitvoering van de concessie, is in het kader van de behandeling van de Wet op de Telecommunicatievoorzie– ningen duidelijk aangegeven waar de grenzen liggen van datgene wat van de Koninklijke PTT Nederland N.V. verwacht mag worden. Voor rekening van de houder van de concessie blijven in verband daarmee uitsluitend de kosten van de diensten zoals deze naar aard en omvang bestonden op het moment van het van kracht worden van de Algemene Richtlijnen. Voor de kerktelefoon komt daar nog bij dat zoals reeds in de memorie van antwoord van de Wet op de Telecommunicatievoorzieningen werd aangegeven, PTT op grond van de Mediawet ten minste de kostprijs van het gebruik van PTT-lijnen in rekening dient te brengen'. In de genoemde passage werd ook reeds aangegeven dat PTT onder– zoekt wat de consequenties van deze verplichting zijn voor de tarieven. Dit onderzoek is nog niet afgerond, zodat op dit moment zeker nog geen besluiten ten aanzien van tariefsver– hogingen genomen zijn. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Zie kamerstuk nr. 20 369, nr. 6, verga– derjaar 1987-1988</noot>
+      </noten>
+   </antwoorden>
+</kvr>

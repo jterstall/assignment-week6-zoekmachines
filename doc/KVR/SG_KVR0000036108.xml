@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001701</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001701&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001701</item>
+         <item attribuut="Document-id">0000036108</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 777</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Blauw (V.V.D.) over nachtvorstschade in de land- en tuinbouw.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 777</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">777</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Blauw</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-06-05</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Braks</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-07-10</item>
+         <item attribuut="Beginpagina">1569</item>
+         <item attribuut="Eindpagina">1570</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1569" allpagenumbers="1569" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="777" onderwerp="nachtvorstschade in de land– en tuinbouw." indiendatum="1990-06-5">
+         <vrager partij="VVD" oorsprong="parlement">Blauw</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="10juli 1990">
+         <antwoorder functie="minister" ministerie="Landbouw, Natuurbeheer en Visserij">Braks</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Hebt u kennis genomen van de grote nachtvorstschade die dit voorjaar in de land– en tuinbouw is ontstaan? Welke omvang heeft die schade volgens de huidige stand? </vraag>
+      <vraag nummer="3">Herinnert u zich uw toezegging tijdens het mondeling overleg van 10 februari 1988' betreffende de onver– zekerbare risico's? </vraag>
+      <vraag nummer="4">Wat is de huidige stand van zaken met betrekking tot het toegezegde overleg tussen u, het Landbouw– schap en de grote verzekeraars over de vorming van een calamiteiten– fonds? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Kamerstuk 20 330, nr. 4</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja. In de periode van 24 tot 29 mei heeft de nachtvorst fors toegeslagen in het Noord-Oosten van het land. Op zand– en kleigronden valt de schade mee, op veen en veenkolo– niale gronden is naar schatting 75% van de percelen fabrieksaardappelen in meer of mindere mate aangetast. Hoe groot de uiteindelijke omvang van de schade zal zijn is vooral afhankelijk van het herstel van de plantengroei. Hoe snel dit herstel zal zijn is sterk afhankelijk van de weersomstandigheden gedurende de rest van het groeiseizoen. </antwoord>
+      <antwoord nummer="3">In dit overleg heb ik toegezegd overleg te zullen voeren met het agrarisch bedrijfsleven en de betrokken schadeverzekeringsmaat– schappijen over de mogelijkheden om een werkbare oplossing te vinden voor de dekking tegen niet verze– kerbare risico's. Ik heb daarbij aangegeven dat die risico's primair door het bedrijfsleven zelf gedragen dienen te worden. </antwoord>
+      <antwoord nummer="4">In december 1988 heeft nader overleg tussen het Ministerie, de betrokken verzekeraars en het agrarisch bedrijfsleven plaatsge– vonden. Geconcludeerd werd dat een verdeling van verzekerbare en niet-verzekerbare risico's gemaakt dient te worden aan de hand van een aantal criteria, zoals vermeld in Kamerstuk 20 330. Afgesproken is dat de concrete vraag welke risico's als verzekerbaar of als niet-verze– kerbaar beschouwd dienen te worden, in een afzonderlijke discussie hierover tussen het agrarisch bedrijfsleven en de verze– keraars beantwoord moet worden. Mijn informatie is dat deze discussie tussen de betrokken partijen nog niet is afgerond. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

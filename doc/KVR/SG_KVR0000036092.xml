@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001685</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001685&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001685</item>
+         <item attribuut="Document-id">0000036092</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 761</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Biesheuvel (C.D.A.) over electronisch huisarrest.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 761</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">761</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Biesheuvel</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-06-08</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Kosto</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-07-04</item>
+         <item attribuut="Beginpagina">1537</item>
+         <item attribuut="Eindpagina">1538</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1537" allpagenumbers="1537" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgevenj 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="761" onderwerp="e/ectronisch huisarrest." indiendatum="1990-06-8">
+         <vrager partij="CDA" oorsprong="parlement">Biesheuvel</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="4juli 1990">
+         <antwoorder functie="staatssecretaris" ministerie="Justitie">Kosto</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Hebt u kennis genomen van de resul– taten van het symposium op 1 juni 1990 inzake electronisch huisarrest, dat mede door het ministerie van Justitie is georganiseerd? </vraag>
+      <vraag nummer="2">Bent u met uw toespraak tijdens het symposium teruggekomen op eerdere uitspraken, waarin u hebt aangegeven mogelijkheden te zien voor electronisch huisarrest aan het eind van een gevangenisstraf? 2 t / m 4 In mijn toespraak heb ik laten doorklinken dat ik nog geen standpunt over experimenten met elektronisch huisarrest heb bepaald. Ik wacht op het advies van de overleg– en adviescommissie alterna– tieve sancties die de uitkomsten van de discussies die zijn gevoerd naar aanleiding van het rapport van de Commissie Elektronisch Toezicht Delinquenten zal wegen en mij daarover - naar verwacht dit najaar - zal adviseren. Bent u bereid experimenten met electronisch huisarrest toe te staan, nu gebleken is, dat betrokken beroepsorganisaties zich hierover positief hebben uitgelaten? </vraag>
+      <vraag nummer="4">Hoe ziet u electronisch huisarrest als vervanging van celstraf? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Haagsche Courant van 17 februari j.l</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1">Ja. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001523</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001523&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001523</item>
+         <item attribuut="Document-id">0000035930</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 601</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Van Rijn-Vellekoop en Van Gelder (beiden P.v.d.A.) over electronisch betalen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 601</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">601</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Van Rijn-Vellekoop</persoon>
+            <persoon partij="PvdA">Van Gelder</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-02-22</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Kok</persoon>
+            <persoon>Andriessen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-05-04</item>
+         <item attribuut="Beginpagina">1209</item>
+         <item attribuut="Eindpagina">1210</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1209" allpagenumbers="1209 1210" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="601" onderwerp="electronisch betalen." indiendatum="1990-02-22">
+         <vrager partij="PvdA" oorsprong="parlement">Van Rijn-Vellekoop</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Van Gelder</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="4 mei 1990), zie ook Aanhangsel Handelingen nr. 462, vergaderjaar 1989-1990.">
+         <antwoorder functie="minister" ministerie="Financiën">Kok</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Hebt u kennis genomen van de uitspraken van de voorzitter van het Vakcentrum Levensmiddelen over tariefafspraken tussen banken? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2" voetnoot="2">Herinnert u zich de opstelling van uw voorgangers, die tijdens het mondeling overleg over het elektro– nisch betalingsverkeer aangaven, dat ze alle vertrouwen hadden in het zelfsregulerende karakter van de sector? <voetnoot nummer="2"/>Deelt u de mening, gezien de nog steeds slepende onderhandelingen tussen banken en ondernemersorga– nisaties, dat de overheid hier geen rol behoeft te vervullen? Zo neen, welke stappen zult u zetten? </vraag>
+      <vraag nummer="4">Op welke wijze denkt u te voorkomen, dat de kosten voor het elektronisch betalingsverkeer voor de kleine ondernemer te hoog worden, zodat zij in een nadelige concurren– tiepositie komen? </vraag>
+      <vraag nummer="5">Is hier sprake van «misbruik van macht» van de banken? Zo ja, wat denkt u er aan te doen? Welke gevolgen zullen de nieuwe tarieven (al dan niet volgens afspraak) hebben voor de consument? Acht u deze verant– woord? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1990-02-20" bron=" De Volkskrant"> De Volkskrant, 20 februari 1990</noot>
+         <noot nummer="2"> Zie Kamerstuk 20 917 nr. 3, Vergaderjaar 1988-1989</noot>
+      </noten>
+   </vragen>
+   <toelichting>Deze vragen dienen ter aanvulling op de eerdere vragen terzake van het lid Schartman, ingezonden 21 februari </toelichting>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Wij hebben kennis genomen van het kennelijk door de vragenstellers bedoelde bericht in de Volkskrant van 20 februari jl. </antwoord>
+      <antwoord nummer="2">Ja. </antwoord>
+      <antwoord nummer="3" voetnoot="1">Ja. Terzake verwijzen wij naar de antwoorden op de vragen 3 en 5 van het Kamerlid Schartman.' In de eerste plaats benadrukken wij nogmaals dat het betalingsverkeer in algemene zin toegankelijk moet zijn voor een ieder. Dus ook voor de kleine ondernemer. Wij zijn van mening dat de grote diversiteit aan betaalvormen (contanten, gegaran– deerde betaalmiddelen, credit cards etcetera) bedoelde toegankelijkheid vooralsnog waarborgt. In de tweede plaats moet worden bedacht dat verchillen in betaalsituaties - onder ander qua plaats, bedrag, aard van de transactie, en tijdstip - meespelen bij de keuze van de meest geëigende betaalvorm. In de derde plats zal het aanvaarden van de diverse betaal– vormen - ongeacht of het chartaal geld of electronisch betalen betreft - door iedere ondernemer aan een kosten-batenanalyse worden onder– worpen. Daarbij zal naast aspecten als dienstbetoon, omzet, kosten(-reducties), veiligheid, aard van de branche en beschikbaarheid evenzeer de schaal van de onder– nemer worden gewogen. Inzoverre de schaal een rol speelt, lijkt het plausibel dat een grootschalige ondernemer eerder tot electronisch betalen overgaat dan een klein– schalige. In elk geval mag worden verwacht dat de gezamenlijke inspanning van banken en genoemde ondernemersorganisaties om de kosten van het electronisch betalingsverkeer zo laag mogelijk te houden, het electronisch betalen binnen het bereik van steeds meer ondernemers zal brengen. Terzake wordt ook verwezen naar het antwoord op vraag 3 van het Kamerlid Schartman. <voetnoot nummer="1"/> Gelet op het bovenstaande, alsook op de voorgaande antwoorden, menen wij concluderend dat, nu hier bedrijfs– economische afwegingen aan de Het voorgaande laat onverlet dat tarieven aan de orde kunnen zijn. Immers het aanbieden van betaal– diensten gaat, enerzijds, met kosten gepaard en vormt, anderzijds, voor gebruikers een wezenlijke dienstver– lening met de daarmee gepaard gaande baten. Wij achten het dan ook waarschijnlijk dat individuele banken in toenemende mate voor de diverse betaaldiensten tarieven zullen introduceren. Dezerzijds bestaat er op zich geen bezwaar tegen tarieven in het betalings– verkeer, zeker niet wanneer wordt gedacht dat taneven zullen bijdragen aan een betere kostendekking van het betalingsverkeer én dat tarieven sturend kunnen werken ter vermijding van kosten en bevording van een efficiënter gebruik van het betalingsverkeer. Er lijkt ons daarbij overigens alle ruimte om tarieven en tariefsstructuren in een concurren– tiële omgeving gestalte te geven. Het feit dat de individuele banken ter zake behoedzaam opereren wordt immers juist door concurrentie ingegeven. Voor de goede orde vestigen wij hier de aandacht op het feit dat het ingevolge de Wet toezicht krediet– wezen uitsluitend kredietinstellingen is töegestaan gelden (van het publiek) ter beschikking te verkrijgen. Uit dit wettelijke institutionele kader vloeit voort dat in principe alleen banken in staat zijn girale betalingen te verzorgen (zie ook paragraaf 2.3 van eerdergenoemde notitie). Aangezien een girale betaling veelal de «grens» van een individuele bank overschrijdt, wordt vanzelfsprekend terzake van het girale betalings– rekening te brengen tarieven. Ook thans leidt deelname aan het betaal– verkeer voor hen tot kosten, zij het dat deze veelal impliciet zijn (valutering, «handling», provisiere– geling in het kader van een rekening– courant, het aanhouden en bevei– ligen van kasmiddelen). Deze «betaalkosten» vormen onderdeel van de totale kosten van hun bedrijfsvoering en komen in de afnemersprijs tot uiting. Derhalve komen ook nu de kosten van het betalmgsverkeer op enigerlei wijze voor rekening van de eindgebruikers, c.q. particulieren. In dit opzicht leidt het aan de ondernemers in de detail– handel in rekening brengen van expliciete tarieven voor betaal– diensten niet tot een wezenlijk andere situatie. Ook expliciete tarieven vormen een kostencom– ponent die medebepalend is voor de prijszetting door de detailhandel. Wat per saldo de effecten zijn van expliciete tarieven op consumenten– prijzen valt niet aan te geven. Onder de veelheid van bepalende factoren in dezen kunnen worden genoemd: het netto-effect dat voor een detaillist gepaard gaat met de invoerïng van expliciete tarieven, dat op zijn beurt door vele factoren wordt beïnvloed (onder meer: de hoogte van het tarief, besparingen op kosten van andere betaalwijzen door substitutie-effecten, de mate waarin met electronische betaalmid– delen wordt betaald), de concurren– tieverhoudingen op de markt of het segment waar de desbetreffende detaillist werkzaam is en zijn concur– rentiepositie. In het licht van het voorgaande én aannemend dat een </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

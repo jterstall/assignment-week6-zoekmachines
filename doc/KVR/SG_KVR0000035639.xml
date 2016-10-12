@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001232</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001232&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001232</item>
+         <item attribuut="Document-id">0000035639</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 310</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Linschoten en Dijkstal (beiden V.V.D.) over de toekenning van extra toelagen aan ambtenaren van het ministerie van Welzijn, Volksgezondheid en Cultuur.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 310</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">310</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Linschoten</persoon>
+            <persoon partij="VVD">Dijkstal</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-01-12</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Dales</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-01-30</item>
+         <item attribuut="Beginpagina">625</item>
+         <item attribuut="Eindpagina">626</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="625" allpagenumbers="625" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgeverij s Gravenhage 1990"/>
+      <vraagdata vraagnummer="310" onderwerp="de toekenning van extra toelagen aan ambtenaren van het ministerie van Welzijn, Volksgezondheid en Cultuur." indiendatum="12januari 1990">
+         <vrager partij="VVD" oorsprong="parlement">Linschoten</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Dijkstal</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-01-30">
+         <antwoorder functie="minister" ministerie="Binnenlandse Zaken">Dales</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1">Hebt u kennis genomen van een artikel' over de toekenning van extra toelagen aan ambtenaren van het ministerie van Welzijn, Volks– gezondheid en Cultuur? </vraag>
+      <vraag nummer="2">Zo ja, zijn de daarin opgenomen constateringen feitelijk juist? </vraag>
+      <vraag nummer="3">Kunt u een overzicht geven van de arbeidsmarktknelpuntenregelingen met betrekking tot de toekenning van extra toelagen zoals deze op de overige ministeries worden gehan– teerd? Wordt deze arbeidsmarktknelpunten– regeling op de overige ministeries op eenzelfde wijze toegepast als op het ministerie van Welzijn, Volks– gezondheid en Cultuur? </vraag>
+      <vraag nummer="5">Welke beleidsmatige conclusie trekt u uit de wijze van toekenning van extra toelagen aan ambtenaren, zoals geschiedt op het ministerie van Welzijn, Volksgezondheid en Cultuur? Welke beleidsmatige conclusie trekt u uit het bovenstaande met betrekking tot de salarispositie van hogere ambtenaren? </vraag>
+      <vraag nummer="7" voetnoot="1">Onderschrijft u de stelling van secre– taris-generaal De Boer van Welzijn, Volksgezondheid en Cultuur <voetnoot nummer="1"/>, dat het beter ware geweest wanneer in het centrale overleg met de vakbonden gekomen was tot een verhoging van de salarisschalen? </vraag>
+      <vraag nummer="8">Bent u van mening, dat er als gevolg van de ontstane situatie sprake is van een zekere consternatie? Beschouwt u deze consternatie ook als «kinnesinne»? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1990-01-9" bron=" Vnj Nederland"> Vnj Nederland, 9 januari 1990</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="7">
+      <antwoord nummer="1">Ja </antwoord>
+      <antwoord nummer="2">In het artikel wordt gesproken van een groepsgewijze toekenning van extra toeiagen in verband met arbeidsmarktknelpunten. Dit is niet juist, zij het dat de aanwijzing van betrokkenen als arbeidsmarkt– knelpunt in een keer plaatsvond; de toekenning overigens heeft op indivi– duele basis plaatsgevonden. Voor het overige zijn de genoemde bedragen correct. </antwoord>
+      <antwoord nummer="3">De toekenning van arbeidsmarkttoe– lagen is geregeld in het Bezoldi– gingsbesluit burgerlijke rijksambte– naren 1984. De betreffende regeling en bijbeho– rende circulaires doe ik u in een bijlage toekomen.' Met betrekking tot de toekenning van arbeidsmarkt– toelagen is een evaluatie gaande, waarbij het Nederlands Economisch Instituut is ingeschakeld. </antwoord>
+      <antwoord nummer="4">De wijze van toepassing is een bevoegdheid van de departements– leiding. De wijze van toepassmg kan derhalve per ministerie verschillen. </antwoord>
+      <antwoord nummer="5">Vooralsnog geen; de reeds eerder in gang gezette evaluatie naar de toepassing in de rijksdienst kan informatie opleveren die wel aanleiding kan geven tot het trekken van beleidsmatige conclusies. </antwoord>
+      <antwoord nummer="6">De toekenning van toelagen aan hogere ambtenaren geeft aan dat op het hoger managementsniveau van WVC arbeidsmarktknelpunten voorkomen. Vooralsnog trek ik hieruit geen beleidsmatige conclusie ten aanzien van de salarispositie van hogere ambtenaren in het algemeen. </antwoord>
+      <antwoord nummer="7">De regeling die bij WVC is toegepast is bedoeld voor individuele arbeids– marktknelpunten. Een meer algemene arbeidsmarktproblematiek voor de overheid als werkgever kan noodzaken tot een verhoging van de salarisschalen. In het centrale arbeidsvoorwaardenoverleg voor 1989 werd daarom reeds een schalenmaatregel overeen gekomen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="4">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Algra (CDA) aan de minister van Binnenlandse Zaken en Koninkrijksrelaties over C2000. (Ingezonden 15 maart 2004); Antwoord</item>
+         <item attribuut="Bestand">18Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR19934
+</item>
+         <item attribuut="Inhoud">Vragen over berichten dat de interface voor het opnemen van gesprekken van het communicatiesysteem C2000 analoog en niet digitaal zou worden.</item>
+         <item attribuut="Rubriek">Communicatie, media en informatievoorziening (Telecommunicatie) Criminaliteit en openbare orde (Ongevallenpreventie en -hulpverlening) Criminaliteit en openbare orde (Politie) Gezondheidszorg (Maatschappelijke gezondheidszorg)</item>
+         <item attribuut="Trefwoorden">Ambulancevervoer Brandweer Politie Telecommunicatie</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2003-2004, nr. 1235, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2030410610</item>
+         <item attribuut="Afkomstig_van">Binnenlandse Zaken en Koninkrijksrelaties (BZK)</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Algra</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2004-04-02</item>
+         <item attribuut="Datum_indiening">2004-03-15</item>
+         <item attribuut="Document-id">KVR19934</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2003–2004" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="2613" allpagenumbers="2613 2614" vetnummer="2030410610" code="0304tkkvr1235" lopendefooter="Tweede Kamer, vergaderjaar 2003–2004, Aanhangsel" filenaam="KVR19934" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2004"/>
+      <vraagdata vraagnummer="1235" onderwerp="" indiendatum="15maart 2004">
+         <vrager partij="CDA" oorsprong="parlement">Algra</vrager>
+         <vraagt-aan>de minister van Binnenlandse Zaken en Koninkrijksrelaties</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2004-04-2">
+         <antwoorder functie="minister" ministerie="Binnenlandse Zaken en Koninkrijksrelaties">Remkes</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Is het waar dat de interface voor het opnemen van C2000-gesprekken analoog wordt? </vraag>
+      <vraag nummer="2">Zo ja, wat is de reden om het digitale C2000-netwerk te voorzien van analoge randapparatuur? </vraag>
+      <vraag nummer="3">Wat zijn de nadelen van het gebruik van analoge apparatuur? </vraag>
+      <vraag nummer="4">Welke maatregelen gaat u nemen om C2000 up to date toe te rusten? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Uw vragen betreffen de zogenaamde voicelogging ofwel spraakregistratie. Met een voiceloggingrecorder kunnen gesprekken die middels C2000 plaatsvinden worden opgenomen in de meldkamer. Hierbij zijn verschillende onderdelen van het C2000-systeem van belang: het radiobediensysteem, de voiceloggingrecorder en de interface. De voiceloggingrecorder is geen onderdeel van C2000. Het aanschaffen ervan is een verantwoordelijkheid van de regio. De interface biedt de mogelijkheid om een voicelogging recorder op het C2000-systeem aan te sluiten. De interface zorgt ervoor dat spraak via het radiobediensysteem wordt omgezet in informatie die door de voiceloggingrecorder kan worden opgenomen. De interface is inderdaad een analoge versie, omdat er in een aantal meldkamers nog gebruik wordt gemaakt van analoge voiceloggingrecorders. Deze analoge recorders kunnen slechts de informatie begrijpen die via een analoge interface wordt aangeboden. Om alle meldkamers de mogelijkheid te geven de gesprekken op te nemen is er voor een analoge interface gekozen. De regio’s die wel al een digitale voiceloggingrecorder hebben kunnen ook gebruik maken van de analoge interface. De digitale voiceloggingrecorder zet analoge signalen om naar digitale, zodat ook digitale recorders kunnen worden aangesloten op de analoge interface. Overigens is het de verwachting dat in de toekomst de analoge apparatuur wordt vervangen voor digitale. </antwoord>
+      <antwoord nummer="2">De toegepaste analoge interface kan niet worden gezien als randapparatuur. Het betreft hier een koppeling tussen systemen. Een analoge voiceloggingrecorder kan wel als randapparatuur worden beschouwd. In het C2000-netwerk zelf wordt op geen enkele wijze gebruik gemaakt van analoge technologie. Voicelogging of spraakregistratie is een al jaren toegepaste registratietechniek in de meldkamers. Dat wil dus zeggen dat in vrijwel alle meldkamers dergelijke apparaten aanwezig waren op het moment dat C2000 werd aangebracht. In sommige gevallen was de aanwezige registratieapparatuur op dat moment afgeschreven en werd door regio’s gelijktijdig met de installatie van C2000 in de meldkamer ook nieuwe (digitale) voiceloggingapparatuur aangeschaft. In andere meldkamers was de aanwezige (analoge) apparatuur echter nog niet afgeschreven en heeft de regio ervoor gekozen om deze apparatuur te gebruiken voor de spraakregistratie over C2000. De keuze voor een analoge interface is gebaseerd op deze praktische situatie. Een digitale interface zou regio’s hebben verplicht te investeren in digitale spraakregistratieapparatuur, terwijl de aanwezige apparatuur nog niet was afgeschreven en nog afdoende functioneerde. Het gaat hier overigens over een beslissing die aan de regio’s is. De signalen die worden afgegeven door een analoge interface vormden bovendien geen enkel probleem voor meldkamers die wel beschikten over digitale voiceloggingrecorders. </antwoord>
+      <antwoord nummer="3">De nadelen van de analoge apparatuur zijn: • Het betreft een omvangrijk apparaat; • Het apparaat is in aanschaf duur en kent daardoor een lange afschrijvingstermijn; • De toegepaste technologie is aan het einde van haar levenscyclus. De meeste spraakregistratie vindt tegenwoordig digitaal plaats (vergelijk bijvoorbeeld de CD en de mp3-bestanden met het cassettebandje) Toepassing van analoge spraakregistratieapparatuur via de analoge interface heeft geen enkele invloed op het functioneren van het C2000-netwerk en leidt evenmin tot een verminderde spraakkwaliteit van de gesprekken die worden opgenomen. Een digitale voiceloggingrecorder heeft een aantal specifieke functionaliteiten, waardoor een digitale recorder te prefereren is boven een analoge. Deze zijn: • Het apparaat biedt meer en snellere zoekfuncties; • De beveiliging kan beter worden inricht; • Gegevens (bijvoorbeeld locatie, tijdstip en beelden) kunnen worden gekoppeld aan het geluid. </antwoord>
+      <antwoord nummer="4">In het C2000-netwerk is de laatste stand van zaken op het terrein van de Tetra-technologie toegepast. Het netwerk is gebaseerd op het zogenaamde Voice over IP-protocol en voldoet daarmee aan de eis van toekomstvastheid. Het spreekt voor zich dat de software van C2000 met regelmaat zal worden opgewaardeerd als functionaliteiten beschikbaar komen, waarvan is vastgesteld dat deze bijdragen aan de werkprocessen van de hulpverleningsdiensten. Met de leverancier zijn in dat kader sluitende afspraken gemaakt. De vervanging van de analoge spraakregistratie apparatuur van regio’s is een verantwoordelijkheid van de regio’s. In dat kader adviseer ik regio’s, gelet op de uitfasering van deze technologie, bij het verstrijken van de afschrijvingstermijn van nog aanwezige analoge apparatuur, bij de vervanging te kiezen voor digitale apparatuur. Op termijn zal worden bezien of het zinvol is om ook de interface aan te passen. De interface wordt als onderdeel van C2000 ter beschikking gesteld door de Projectdirectie C2000 en voldoet aan C2000-specificaties. Het ligt voor de hand in ieder geval de interface aan te passen zodat alle regio’s gebruik maken van de digitale spraakregistratieapparatuur. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

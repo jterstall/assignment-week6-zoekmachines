@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001251</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001251&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001251</item>
+         <item attribuut="Document-id">0000107026</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 219</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Oomen-Ruijten (C.D.A.), De Pree (P.v.d.A.) en Van Heemskerck Pillis-Duvekot (V.V.D.), over het stationsgebouw te Echt.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 219</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">219</item>
+         <item attribuut="Indiener">
+            <persoon>Oomen-Ruijten</persoon>
+            <persoon>De Pree</persoon>
+            <persoon>Van Heemskerck Pillis-Duvekot</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-09-18</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Brinkman</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-12-05</item>
+         <item attribuut="Beginpagina">439</item>
+         <item attribuut="Eindpagina">440</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 6 - 1 9 8 7 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="219" onderwerp="het stationsgebouw te Echt." indiendatum="18 september 1986)">
+         <vrager partij="" oorsprong="parlement">Oomen-Ruijten</vrager>
+         <vrager partij="" oorsprong="parlement">De Pree</vrager>
+         <vrager partij="" oorsprong="parlement">Van Heemskerck Pillis-Duvekot</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="5 december 1986)">
+         <antwoorder functie="minister" ministerie="Welzijn, Volksgezondheid en Cultuur">B r i n k m a n</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1 ">Is het de minister bekend dat de  Nederlandse Spoorwegen plannen  heeft om het stationsgebouw te Echt  te slopen?  </vraag>
+      <vraag nummer="2 ">Is het de minister bekend, dat dit  pand van grote culturele en histori- sche waarde is en dat er na de  restauratie door combinatie met een  woon- of kantoorfunctie een zeer  bruikbaar gebouw ontstaat, dat ook  financieel exploitabel zou zijn?  </vraag>
+      <vraag nummer="3 ">Ziet de minister mogelijkheden om  sloop van dit pand te voorkomen? Zo  ja, is hij bereid te bemiddelen, dat dit  karakteristieke «waterstaatsstation»  behouden kan blijven?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1 ">Ja.  </antwoord>
+      <antwoord nummer="2 ">Of dit pand van grote culturele en  historische waarde is, kan ik niet  beoordelen. Ik zal het oordeel van de  Monumentenraad over de waarde  van dit stationsgebouw vragen.  Van particuliere zijde is onder mijn  aandacht gebracht, dat zich naar het  oordeel van die zijde mogelijkheden  als door de vragenstellers worden  aangegeven, zouden voordoen. Een  vraag, die zich daarbij voordoet, is of  er middelen kunnen worden gevonden  om de restauratie/verbouw van het  gebouw voor het beoogde doel te  financieren.  </antwoord>
+      <antwoord nummer="3 ">Deze vraag kan niet zonder meer in  positieve zin worden beantwoord. De  Minister van Verkeer en Waterstaat  is in deze de eerste verantwoordelijke.  Ik wijs er voorts op, dat het niet een  op grond van de Monumentenwet  beschermd object betreft.  Wel heb ik in die zin de bereidheid  o m terzake te bemiddelen, dat ik aan  de Ministervan Verkeer en Waterstaat  zal verzoeken te bevorderen dat de  voorgenomen sloop van het gebouw  wordt uitgesteld tot een zodanig  tijdstip, dat de Monumentenraad zich  een oordeel over de waarde van het  gebouw heeft gevormd.  Op basis van het advies van de  Monumentenraad zou ik eventueel  kunnen besluiten het gebouw onder  de bescherming van de Monumenten- wet te plaatsen. In de tussentijd kan  door alle betrokkenen, waaronder het  gemeentebestuur van Echt, worden  onderzocht of van particuliere zijde  aangedragen oplossingen voor  behoud kunnen worden verwezenlijkt.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

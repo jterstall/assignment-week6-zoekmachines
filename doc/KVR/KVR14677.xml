@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Rietkerk en Eurlings (beiden CDA) aan de ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Justitie over sms-bombardementen op gestolen mobieltjes. (Ingezonden 29 oktober 2001); Antwoord</item>
+         <item attribuut="Bestand">14Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR14677
+</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van een artikel in De Telegraaf van 25 oktober 2001 over sms-bombardementen van de politie op gestolen mobiele telefoons, waarbij de operator voor de kosten moet opdraaien.</item>
+         <item attribuut="Rubriek">Communicatie, media en informatievoorziening (Telecommunicatie) Criminaliteit en openbare orde (Politie)</item>
+         <item attribuut="Trefwoorden">Diefstal Mobiele telefonie Politie</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2001-2002, nr. 318, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2010201610</item>
+         <item attribuut="Afkomstig_van">Binnenlandse Zaken en Koninkrijksrelaties (BZK) Justitie (JUS)</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Rietkerk</persoon>
+            <persoon partij="CDA">Eurlings</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2001-11-28</item>
+         <item attribuut="Datum_indiening">2001-10-29</item>
+         <item attribuut="Document-id">KVR14677</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2001–2002" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="663" allpagenumbers="663" vetnummer="2010201610" code="" lopendefooter="Tweede Kamer, vergaderjaar 2001–2002, Aanhangsel" filenaam="KVR14677" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2001"/>
+      <vraagdata vraagnummer="318" onderwerp="" indiendatum="2001-10-29">
+         <vrager partij="CDA" oorsprong="parlement">Rietkerk</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Eurlings</vrager>
+         <vraagt-aan>de ministers van Binnenlandse Zaken en Koninkrijksrelaties en van Justitie</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2001-11-28">
+         <antwoorder functie="minister" ministerie="Binnenlandse Zaken en Koninkrijksrelaties">De Vries</antwoorder>
+         <mede-antwoorder>de minister van Justitie</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1" voetnoot="1">Kent u het bericht «Politie moet stoppen met sms-bommen»? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Bent u van mening, dat het bestoken van gestolen mobiele telefoons met sms-bombardementen door de politie een goed idee is, dat in andere regio’s navolging verdient? </vraag>
+      <vraag nummer="3">Wat zijn de kosten van dergelijke sms-bombardementen? </vraag>
+      <vraag nummer="4">Draait de operator (in dit geval KPN) op voor de kosten? </vraag>
+      <vraag nummer="5">Hoe kan de operator in de kosten tegemoet gekomen worden? </vraag>
+      <vraag nummer="6">Werken andere operators mee aan dergelijke sms-bombardementen? </vraag>
+      <vraag nummer="7">Bent u bereid in overleg te treden met de operators over het meewerken aan sms-bombardementen en de kosten die daarmee gemoeid zijn? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="2001-10-25" bron="De Telegraaf">De Telegraaf, 25 oktober 2001</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2, 6 en 7">De resultaten van de proef in Amsterdam met de SMS bombardementen zijn zeer positief. Het aantal straatroven is met de helft verminderd. Straatroof waarbij diefstal van de GSM het doel is, is gedaald van 75% naar ruim 40%. Aan de proef in Amsterdam werkt alleen KPN mee. In het Nationaal Platform Criminaliteitsbeheersing is besloten de proef in Amsterdam een landelijk vervolg te geven. Begin december is onder de vlag van het Nationaal Platform Criminaliteitsbeheersing een overleg gepland met alle GSM- aanbieders over de uitvoering van een dergelijke landelijke aanpak. Daarbij zal uiteraard ook gekeken worden naar de kosten die hiermee gemoeid zijn. </antwoord>
+      <antwoord nummer="3">De kosten voor het SMS-bombardement zijn onder te verdelen naar kosten voor de politie en kosten voor de provider, in dit geval KPN. De kosten voor de politie hebben betrekking op aanschaf en ontwikkeling van software voor meervoudig sms’en (eenmalig f 5 000,-) en kosten voor het verzenden van sms berichten (gemiddeld ongeveer f 4 000,- per maand). De provider rekent per analyse per dag f 16,80. Gemiddeld wordt per dag opdracht gegeven voor de analyse van 5 nieuwe nummers over een periode van twee dagen, hetgeen neerkomt op een bedrag van f 168,- per dag. </antwoord>
+      <antwoord nummer="4 en 5">Tot 1 november heeft KPN de kosten voor de individuele bevragingen voor haar rekening genomen. Vanaf 1 november worden de kosten van individuele bevragingen betaald door Justitie. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

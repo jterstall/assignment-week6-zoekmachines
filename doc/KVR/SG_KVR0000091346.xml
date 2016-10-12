@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19881989:0001747</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001747&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001747</item>
+         <item attribuut="Document-id">0000091346</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1988-1989 nummer 739</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Verspaget (PvdA.) over kankerverwekkend asbest in vloerbedekking.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1988-1989 nummer 739</item>
+         <item attribuut="Jaargang">1988_1989</item>
+         <item attribuut="Vraagnummer">739</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Verspaget</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-06-06</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Nijpels</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-07-18</item>
+         <item attribuut="Beginpagina">1485</item>
+         <item attribuut="Eindpagina">1486</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 8 - 1 9 8 9 " typehandeling="" typedoc=""/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 8 - 1 9 8 9 , Aanhangsel " filenaam="" issn-nummer="ISSN 921 • 7398 " uitgever="SDU uitgeverij 's-Gravenhage 1989 "/>
+      <vraagdata vraagnummer="739" onderwerp="kankerverwekkend asbest in vloerbedekking." indiendatum="6 juni 1989)">
+         <vrager partij="PvdA" oorsprong="parlement">Verspaget</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="18 juli 1989)">
+         <antwoorder functie="" ministerie="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer"/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1 ">Hebt u kennis genomen van de  berichten, waarin werd aangegeven,  dat de onderste laag van de vloerbe- dekking Novilon kankerverwekkend  asbest zou bevatten? </vraag>
+      <vraag nummer="1 ">Is de fabrikant van Novilon de  produktie van deze vloerbedekking  pas begonnen, toen het gevaar van  het gebruik van asbest al bekend  was?  </vraag>
+      <vraag nummer="3 ">Welke stappen gaat u ondernemen  teneinde de huishoudens waar  Novilon in gebruik is voor te lichten  over de gevaren hiervan? Overweegt  u een saneringsactie? Zullen de  kosten hiervan op de fabrikant  worden verhaald?  </vraag>
+      <vraag nummer="4 ">Overweegt u een verbod op de  verkoopvan Novilon?  </vraag>
+      <vraag nummer="5 ">Wanneer wordt het gebruik van  asbest in Nederland verbonden?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1 ">Ja.  </antwoord>
+      <antwoord nummer="2 ">De fabrikant van Novilon heeft  asbest in deze vloerbedekking  toegepast in de periode 1970 - 1980. In 1983 is het gebruik van  asbest in deze (niet hechtgebonden)  vorm verboden bij het Asbestbesluit  Warenwet. Rond 1970 verschenen  er in Nederland publikaties over het  vermogen van asbestvezels om  kanker te verwekken. Het ontstaan  van asbestose door (hoge concen- traties) asbestvezels was al langer  bekend.  </antwoord>
+      <antwoord nummer="3 ">Blootstelling aan asbest uit de vloer- bedekking zal alleen optreden  wanneer deze beschadigd of  versleten is. In dergelijke gevallen  w o r d t verwijdering geadviseerd.  De ministeries van VROM,  W V C en  SZW beraden zich op een veilige  verwijderingsmethode. Hierover zal  op korte termijn duidelijkheid  bestaan. Daarna zal - zo nodig in  samenwerking met consumentenor- ganisaties - een voorlichtingsaktie  worden gestart.  Een saneringsaktie wordt niet  overwogen, en er zullen dus geen  kosten worden gemaakt.  Neen (zie ook antwoord 2).  </antwoord>
+      <antwoord nummer="5 ">De Staatssecretaris van SZW heeft  in december 1988 aan de Kamer  laten weten een verbod op het be- en verwerken van asbest te  overwegen, en daarover advies te  zullen vragen aan de sociale  partners. Voorlopig zal ik daarom de  akties van de Staatssecretaris van  SZW afwachten.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

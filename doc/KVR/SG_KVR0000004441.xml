@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0001930</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001930&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001930</item>
+         <item attribuut="Document-id">0000004441</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 716</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van lid Van der Vlies (SGP) over euthanasieartsen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 716</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">716</item>
+         <item attribuut="Indiener">
+            <persoon partij="SGP">Van der Vlies</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-08-09</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Kosto</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-08-12</item>
+         <item attribuut="Beginpagina">1451</item>
+         <item attribuut="Eindpagina">1452</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1451" allpagenumbers="1451" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="'s-Gravenhage 1994"/>
+      <vraagdata vraagnummer="716" onderwerp="euthanasieartsen." indiendatum="1994-08-9">
+         <vrager partij="SGP" oorsprong="parlement">Van der Vlies</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-08-12">
+         <antwoorder functie="minister" ministerie="Justitie">Kosto</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Hebt u kennis genomen van het interview, dat de voormalige secretaris-generaal van het ministerie van Justitie, mr G. J. van Dinter, heeft afgestaan aan NRC Handelsblad (3 augustus jl.)? </vraag>
+      <vraag nummer="2">Kunt u bevestigen, dat het bekend is dat «rondreizende euthanasieartsen» levensbeëindigende hulp bieden aan ernstig zieke patiënten, waarmee die artsen verder nog geen enkele relatie hadden? Om hoeveel artsen en om hoeveel euthanasiegevallen gaat het? Op welke gronden heeft het Openbaar Ministerie deze gevallen niet in behandeling genomen? </vraag>
+      <vraag nummer="4">Is naar uw oordeel een beroep op een zich voordoende overmachtssituatie toereikend en verantwoord in het geval een arts en een patiënt elkaar slechts sinds kort kennen of is zulk een beroep op overmacht inderdaad een discutabele zaak? en inspecties volksgezondheid ook metterdaad in te zetten? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1">Ja. 2 t / m 5 De in deze vragen aan de orde gestelde aangelegenheid heeft mij aanleiding gegeven de vergadering van procureurs-generaal te verzoeken ter zake een onderzoek in te stellen. Voorts heb ik de vergadering verzocht mij zo spoedig mogelijk van de uitkomsten van dit onderzoek in kennis te stellen. Tevens is het Staatstoezicht op de Volksgezondheid verzocht om haar bevindingen terzake te rapporteren. Zodra het bericht van de vergadering van procureurs-generaal, alsmede de bovengenoemde rapportage zijn ontvangen, zal de Kamer van een en ander in kennis worden gesteld en zullen de onderhavige vragen nader worden beantwoord. Welke middelen staan u ten dienste om aan de hierboven gesignaleerde praktijken een halt toe te roepen en bent u bereid deze middelen via O.M. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

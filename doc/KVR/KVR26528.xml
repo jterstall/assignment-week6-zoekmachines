@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="6">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Gerkens (SP) aan de minister voor Bestuurlijke Vernieuwing en Koninkrijksrelaties over het Open Document Format (ODF). (Ingezonden 21 september 2006); Antwoord</item>
+         <item attribuut="Bestand">14Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR26528
+</item>
+         <item attribuut="Inhoud">Overheden in verschillende landen hebben gekozen voor de invoering van het door ISO erkende open standaard ODF. Daarnaast blijkt Microsoft ODF als conversiemogelijkheid in zijn Office pakket in te bouwen. Waarom heeft de Nederlandse overheid nog niet voor ODF gekozen. Hiermee zou ook de invoering bij bedrijven een impuls krijgen.</item>
+         <item attribuut="Rubriek">Communicatie, media en informatievoorziening (Hard- en software)</item>
+         <item attribuut="Trefwoorden">Overheid Software</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2006-2007, nr. 118, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2060700110</item>
+         <item attribuut="Afkomstig_van">Economische Zaken (EZ)</item>
+         <item attribuut="Indiener">
+            <persoon partij="SP">Gerkens</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2006-10-17</item>
+         <item attribuut="Datum_indiening">2006-09-21</item>
+         <item attribuut="Document-id">KVR26528</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2006–2007" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="249" allpagenumbers="249" vetnummer="2060700110" code="0607tkkvr118" lopendefooter="Tweede Kamer, vergaderjaar 2006–2007, Aanhangsel" filenaam="KVR26528" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2006"/>
+      <vraagdata vraagnummer="118" onderwerp="" indiendatum="2006-09-21">
+         <vrager partij="SP" oorsprong="parlement">Gerkens</vrager>
+         <vraagt-aan>de minister voor Bestuurlijke Vernieuwing en Koninkrijksrelaties</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2006-10-17">
+         <antwoorder functie="minister" ministerie="Economische Zaken">Wijn</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1" voetnoot="1">Waarom heeft de overheid nog niet gekozen voor de invoering van het door ISO erkende open standaard ODF? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Bent u ervan op de hoogte dat in Denemarken, België en Frankrijk de overheid inmiddels wel gekozen heeft voor de invoering van ODF als standaard? </vraag>
+      <vraag nummer="3">Bent u op de hoogte van het feit dat Microsoft ODF als conversiemogelijkheid in zijn Office pakket inbouwt? </vraag>
+      <vraag nummer="4">Is het waar dat het ministerie van Binnenlandse Zaken en Koninkrijksrelaties de mogelijkheden onderzoekt om ODF als standaard op te nemen? </vraag>
+      <vraag nummer="5">Is het waar dat de nog relatieve onbekendheid bij bedrijven de invoering tegenhoudt? Zo ja, zou niet juist het invoeren van ODF als standaard een impuls kunnen geven aan ODF? Zo neen, waarom niet? </vraag>
+      <vraag nummer="6">Deelt u de mening dat de overheid voortvarend aan de slag gaat met de invoering van OS conform de motie-Vendrik c.s.? Zo ja kunt u uw antwoord toelichten? Zo neen, hoe gaat u de motie wel uitvoeren? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="2"/>
+         <noot nummer="1" weblink="http://www.computable.nl/nieuws.htm?id=1702272">http://www.computable.nl/nieuws.htm?id=1702272</noot>
+         <noot nummer="2" documenttype="Kamerstuk" kamerstuk-id="28 600 XIII" documentnummer="30" documentjaargang="2002-2003">Kamerstuk 28 600 XIII, nr. 30, vergaderjaar 2002–2003</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="6">
+      <antwoord nummer="1">ODF is binnen ISO «under development», dat wil zeggen dat zij formeel als ISO-norm nog niet is erkend en gepubliceerd. Wel zal binnenkort bij het Forum Standaardisatie het verzoek worden ingediend om ODF als standaard voor de overheid te onderzoeken en te testen, zodra deze door ISO is erkend. </antwoord>
+      <antwoord nummer="2">Ja. Naar ik heb vernomen zijn dit principe-besluiten, waarvan de implementatie afhangt van de definitieve goedkeuring van ODF door ISO en/of van nadere test- en onderzoeksresultaten. Zie ook het antwoord op vraag 1. </antwoord>
+      <antwoord nummer="3">Ja. Microsoft heeft een open source project gefinancierd om te komen tot een ODF converter voor Microsoft Office. Deze converter stelt gebruikers in staat om ODF documenten te openen, te bewerken en te bewaren. Microsoft zal de ODF converter eerst grondig laten testen. </antwoord>
+      <antwoord nummer="4">Zie het antwoord op vraag 1. </antwoord>
+      <antwoord nummer="5">Een eventuele relatieve onbekendheid bij bedrijven speelt op dit moment geen rol. Afhankelijk van de resultaten van de in antwoord 1 genoemde indiening zal ik een beslissing nemen over de eventuele invoering van de standaard. Als besloten wordt ODF overheidsbreed in te voeren zal dit naar verwachting een impuls kunnen geven aan ODF. </antwoord>
+      <antwoord nummer="6">Ja. Verwezen wordt naar de tekst van de oplegbrief waarvan deze Kamervragen en antwoorden een bijlage vormen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

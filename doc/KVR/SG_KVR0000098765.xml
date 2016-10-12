@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19871988:0001051</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001051&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001051</item>
+         <item attribuut="Document-id">0000098765</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1987-1988 nummer 114</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Nypels (D66) Müller-van Ast (P.v.d.A.) en Lansink (C.D.A.) over falende hartkleppen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1987-1988 nummer 114</item>
+         <item attribuut="Jaargang">1987_1988</item>
+         <item attribuut="Vraagnummer">114</item>
+         <item attribuut="Indiener">
+            <persoon>Nypels</persoon>
+            <persoon>Müller-van Ast</persoon>
+            <persoon>Lansink</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-07-03</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Dees</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-11-10</item>
+         <item attribuut="Beginpagina">227</item>
+         <item attribuut="Eindpagina">228</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 7 - 1 9 8 8 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="2" allpagenumbers="2" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 7 - 1 9 8 8 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="114" onderwerp="falende hartkleppen." indiendatum="3 juli 1987)">
+         <vrager partij="" oorsprong="parlement">Nypels</vrager>
+         <vrager partij="" oorsprong="parlement">Müller-van Ast</vrager>
+         <vrager partij="" oorsprong="parlement">Lansink</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1 ">Herinnert de staatssecretaris zich de  schriftelijke vragen over falende  hartkleppen?'  </vraag>
+      <vraag nummer="2 ">Heeft de staatssecretaris kennis  genomen van een artikel, waarin  melding  w o r d t gemaakt van slacht- offers als gevolg van een acuut  optredend defect aan hun kunststof  hartkleppen? </vraag>
+      <vraag nummer="2 "/>
+      <vraag nummer="3 ">Heeft de staatssecretaris kennis  genomen van een door het Karolinska  Ziekenhuis te Stockholm gemaakte  inventarisatie van geïmplanteerde  Björk Shiley hartklepprotheses van  het type convex-concave? Zo ja,  heeft hij kennis genomen van de  schokkende uitkomst, die deze  inventarisatie te zien gaf ten aanzien  van een bepaalde subgroep van deze  klepprothese, t.w. de 31 MBRCB?  </vraag>
+      <vraag nummer="4 ">Is hij bereid zijn antwoord op vraag 3  van bovenbedoelde vragen te  herzien, met dien verstande dat hij  alsnog een inventarisatie laat maken,  hoeveel Björk Shiley hartklepprothe- ses in Nederland bij patiënten zijn  geïmplanteerd en hoeveel zogenaam- de strutbreuken zich onder vorenbe- doelde groep patiënten hebben  voorgedaan?  </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="2"> Zie de Telegraaf van 25 juni 1987 </noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

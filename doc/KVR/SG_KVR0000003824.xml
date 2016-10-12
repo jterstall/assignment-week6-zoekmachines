@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19931994:0001313</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001313&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001313</item>
+         <item attribuut="Document-id">0000003824</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 99</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Leerling (RPF) over het Verdrag over de conventionele bewapening in Europa.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 99</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">99</item>
+         <item attribuut="Indiener">
+            <persoon partij="RPF">Leerling</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-10-08</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Kooijmans</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-11-03</item>
+         <item attribuut="Beginpagina">199</item>
+         <item attribuut="Eindpagina">200</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="199" allpagenumbers="199" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat s Gravenhage 1993"/>
+      <vraagdata vraagnummer="" onderwerp="" indiendatum="">
+         <vrager partij="RPF" oorsprong="parlement">Leerling</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-11-3">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">Kooijmans</antwoorder>
+         <mede-antwoorder>de minister van Defensie</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="99">Vragen van het lid Leerling (RPF) over het Verdrag over de conventionele bewapening in Europa. (Ingezonden 8 oktober 1993) </vraag>
+      <vraag nummer="1" voetnoot="1">Wil de Russische regering een herziening van het Verdrag over de conventionele bewapening in Europa (CFE-Verdrag)? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Zo ja, in hoeverre deelt u het standpunt van de Russische regering nl. dat het CFE-Verdrag gewijzigd moet worden vanwege de politiek-militaire problemen op de Kaukasus en de wens van Polen, Hongarije en Tsjechië lid te willen worden van de NAVO? In hoeverre moet dit voorstel worden gezien als een concessie aan de Russische legerleiding in ruil voor de steun van het leger aan president Jeltsin in de strijd tegen de aanhangers van Roetskoj en Chasboelatov? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1993-10-7" bron=" De Volkskrant"> De Volkskrant, 7 oktober 1993</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja, de Russische regering heeft zich uitgesproken voor opschorting van de werking van het artikel in het CSE-verdrag inzake de regionale plafonds op de flanken van het toepassingsgebied, de zogenoemde flankregel. </antwoord>
+      <antwoord nummer="2">Deze Russische wens is, aldus de brief van President Jeltsin, ingegeven door veiligheidspolitieke en sociale overwegingen. In de Russische visie vereisen de destabiliserende ontwikkelingen aan de Russische zuidflank een militaire aanwezigheid die het regionale plafond te boven gaat. Opheffing van het regionale plafond zou bovendien verlichting geven van de militaire huisvestingsproblemen. De Russische regering heeft geen verband gelegd tussen het opschorsing van de werking van genoemde bepaling en de wens van Polen, Hongarije en Tsjechië lid te worden van de NAVO. Naar onze mening verdient de wens van de Russische Federatie serieuze aandacht. Het geëigende forum om te onderzoeken in hoeverre aan het Russische verlangen tegemoet kan worden gekomen, is de Joint Consultative Group in Wenen. In de Nederlandse visie zou dienen te worden getracht een oplossmg te vinden binnen het verdrag. Bij een verdragswijziging bestaat inmmers het risico dat ook andere landen aanpassingen zullen voorstellen, waardoor de reducties (die in november 1995 moeten zijn voltooid) in gevaar kunnen worden gebracht. Van de kant van de Russische Federatie - en niet alleen van militaire zijde - is reeds geruime tijd onvrede geuit over de beperkingen die uit de flankregel voortvloeien. Reeds verscheidene malen is dit onderwerp door de Russische vertegenwoordiger in de Joint Consultative Group ter sprake gebracht. Of het recente besluit om prioriteit aan dit onderwerp toe te kennen, al dan niet los staat van de recente politieke ontwikkelingen in de Russische Federatie, onttrekt zich aan onze waarneming. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

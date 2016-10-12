@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001483</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001483&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001483</item>
+         <item attribuut="Document-id">0000011787</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 553</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid E.G. Terpstra (VVD) over veiligheid van avond-en nachtdienstfunctionarissen in zorginstellingen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 553</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">553</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">E.G. Terpstra</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-04-15</item>
+         <item attribuut="Beantwoorder">
+            <persoon>d'Ancona</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-05-12</item>
+         <item attribuut="Beginpagina">1133</item>
+         <item attribuut="Eindpagina">1134</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1133" allpagenumbers="1133" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="553" onderwerp="veiligheid van avond– en nachtdienstfunctionarissen in zorginstellingen." indiendatum="1993-04-15">
+         <vrager partij="VVD" oorsprong="parlement">E.G. Terpstra</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-05-12">
+         <antwoorder functie="minister" ministerie="Welzijn, Volksgezondheid en Cultuur">d'Ancona</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Kent u het rapport «Zorg voor veiligheid/veiligheid voor zorg», waarin wordt geconcludeerd dat tijdens de avond– en nachtdienst de veiligheid van veel avond– en (met name) nachtdienstfunctionarissen van verzorgingstehuizen en daarmee ook die van de bewoners onvoldoende wordt gewaarborgd? </vraag>
+      <vraag nummer="2">Hebt u tevens kennisgenomen van de conclusie van het rapport, dat 44% van de avond– en nachtdienstfunctionarissen zich onveilig voelen, onder andere door het ontbreken van alarmmogelijkheden naar buiten? </vraag>
+      <vraag nummer="3">Hoe oordeelt u over de conclusie in het rapport, dat naast de grote verantwoordelijkheid in deze van bestuur en directie van een verzorgingstehuis, het ook een taak is van de overheid om de veiligheid van avond– en nachtdienstfunctionarissen in zorginstellingen (en daarmee van bewoners/cliënten/patiënten) te vergroten? Welke maatregelen bent u van plan te nemen? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Ja. </antwoord>
+      <antwoord nummer="3">Met genoemde conclusie ben ik het eens, zij het dat mljn taak daarbij voornamelijk een voorwaardenscheppende is. </antwoord>
+      <antwoord nummer="4">Voor wat betreft de bejaardenoorden met een bijzondere functie, die onder mijn rechtstreekse verantwoordelijkheid vallen, zal ik via de mspectie een inventarisatie laten maken van de veiligheidssituatie, met name wat betreft de aanwezigheid van alarmmogelijkheden naar buiten. Op basis van deze inventarisatie zal ik bevorderen dat daar waar nodig de betreffende technologische aanpassingen worden gerealiseerd. Wat betreft de bejaardenoorden die onder provinciale of grootstedelijke verantwoordelijkheid vallen, zal ik in het overleg met het IPO aandacht voor de veiligheidssituatie in bejaardenoorden vragen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

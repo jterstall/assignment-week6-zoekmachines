@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19851986:0001750</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001750&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001750</item>
+         <item attribuut="Document-id">0000115310</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1985-1986 nummer 830</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Beckers-de Bruijn (P.P.R.) over het vliegveld Goose Bay als vestigingsplaats voor een nieuw Tactical  Fighter Weapons Training Base.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1985-1986 nummer 830</item>
+         <item attribuut="Jaargang">1985_1986</item>
+         <item attribuut="Vraagnummer">830</item>
+         <item attribuut="Indiener">
+            <persoon partij="PPR">Beckers-de Bruijn</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-05-21</item>
+         <item attribuut="Beantwoorder">
+            <persoon>De Ruiter</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-06-17</item>
+         <item attribuut="Beginpagina">1649</item>
+         <item attribuut="Eindpagina">1650</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1985-1986 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 5 - 1 9 8 6 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="830" onderwerp="" indiendatum="">
+         <vrager partij="PPR" oorsprong="parlement">Beckers-de Bruijn</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="17 juni 1986)">
+         <antwoorder functie="minister" ministerie="Defensie">De Ruiter</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 ">Hebt u kennisgenomen van de kritiek  van vertegenwoordigers van het  Innu-volk, op de plannen van de  NAVO om het vliegveld Goose Bay  aan te wijzen als vestigingsplaats  voor een nieuw Tactical Fighter  Weapons Training Base?  </vraag>
+      <vraag nummer="2 ">Deelt u de mening, dat uitvoering van  deze plannen zal leiden tot een  verstoring van de leefwijze van het  Innu-volk?  </vraag>
+      <vraag nummer="3 ">Wat is het standpunt van Nederland  inzake deze NAVO-plannen?  </vraag>
+      <vraag nummer="4 ">Bent u bereid binnen de NAVO er op  aan te dringen niet Goose Bay als  vestigingsplaats aan te wijzen?  Zie Trouw van 13 mei il.  2, 3 en 4  Nederland ondersteunt de Navo-plan- nen voor een Navo Tactical Fighter  Weapon Training Centre uit operatio- nele en financiële overwegingen. Een  beslissing over de plaats van vestiging  van een dergelijk trainingscentrum  is nog niet genomen. Het Canadese  vliegveld Goose Bay is één van de  mogelijke locaties. Het is aan de  Canadese overheid te oordelen over  de mogelijke gevolgen van vestiging  van zo'n centrum voor de plaatselijke  bevolking. Er is voor mij geen  aanleiding binnen de Navo aan te  dringen op het uitsluiten van Goose  Bay als mogelijke vestigingsplaats  voor een Navo Tactical Fighter  Weapon Training Centre.  Een beslissing over de plaats van  vestiging staat los van het overleg  tussen de Nederlandse en Canadese  overheid over de mogelijkheid het bij  Goose Bay al aanwezige laagvliegge- bied te benutten voor een deei van  de door de Koninklijke Luchtmacht te  houden laagvliegoefeningen. Mocht  dit overleg ertoe leiden dat de  luchtmacht dit gebied kan benutten  dan zal een daarover op te stellen  overeenkomst tussen Canada en  Nederland de Staten-Generaal ter  goedkeuring worden aangeboden.  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1 ">Ja.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

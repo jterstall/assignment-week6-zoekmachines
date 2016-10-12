@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Ja. " aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19841985:0002076</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19841985:0002076&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19841985:0002076</item>
+         <item attribuut="Document-id">0000124048</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1984-1985 nummer 955</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Janmaat-Abee, Kraaijeveld-Wouters, Hermes, Weijers, Andela-Baur en Oomen-Ruijten (allen C.D.A.) over de bekostiging van het vervoer van gehandicapte leerlingen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1984-1985 nummer 955</item>
+         <item attribuut="Jaargang">1984_1985</item>
+         <item attribuut="Vraagnummer">955</item>
+         <item attribuut="Indiener">
+            <persoon>Janmaat-Abee</persoon>
+            <persoon>Kraaijveld-Wouters</persoon>
+            <persoon>Hermes</persoon>
+            <persoon>Weijers</persoon>
+            <persoon>Andela-Baur</persoon>
+            <persoon>Oomen-Ruijten</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1985-05-20</item>
+         <item attribuut="Beantwoorder">
+            <persoon>De Graaf</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1985-06-25</item>
+         <item attribuut="Beginpagina">1889</item>
+         <item attribuut="Eindpagina">1890</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1984-1985 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1984-1985, Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="955" onderwerp="de bekostiging van het vervoer van gehandicapte leerlingen." indiendatum="20 mei 1985)">
+         <vrager partij="" oorsprong="parlement">Janmaat-Abee</vrager>
+         <vrager partij="" oorsprong="parlement">Kraaijveld-Wouters</vrager>
+         <vrager partij="" oorsprong="parlement">Hermes</vrager>
+         <vrager partij="" oorsprong="parlement">Weijers</vrager>
+         <vrager partij="" oorsprong="parlement">Andela-Baur</vrager>
+         <vrager partij="" oorsprong="parlement">Oomen-Ruijten</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 ">Hebben de bewindslieden kennis  genomen van de uitspraak van de  Centrale Raad van Beroep dd. 1 mei  1984 en de daarop geënte besluiten  ter zake van de bekostiging van het  vervoer van gehandicapte leerlingen  in het regulier basisonderwijs,  voortgezet onderwijs en het hoger  onderwijs?  </vraag>
+      <vraag nummer="2 ">Welke stappen zijn de bewindslieden  op zeer korte termijn bereid te nemen  teneinde te voorkomen dat op 1  augustus 1985 een onaanvaardbare  leemte in de noodzakelijke bekostiging  van dit vervoer zal ontstaan?  Ik heb onlangs overleg gevoerd met  de uitvoeringsorganen. Daaruit kwam  naar voren dat met name de Nieuwe  Algemene Bedrijfsvereniging afwij- zend stond tegenover een voortzetting  van het oude beleid zonder dat  daaraan een besluit ten grondslag zou  liggen. Ten behoeve daarvan is een  concept-besluit en een adviesaanvrage  aan de SVr opgesteld, welke ik in  afschrift medezend. </vraag>
+      <vraag nummer="1 " voetnoot="1">Kortheidshalve moge ik daarnaar  verwijzen.  <voetnoot nummer="1"/> Nedergelegd op de Bibliotheek.  Antwoord  Antwoord van Staatssecretaris De  Graaf (Sociale Zaken en Werkgelegen- heid), mede namens de Minister van  Onderwijs en Wetenschappen en de  Staatssecretaris van Welzijn, Volksge- zondheid en Cultuur. (Ontvangen 25  juni 1985)  </vraag>
+      <vraag nummer="1 "/>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

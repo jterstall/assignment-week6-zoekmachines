@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Remkes (VVD) aan de staatssecretaris van Financiën over de uitspraak van de rechtbank te Leeuwarden betreffende de computersystemen van de Belastingdienst. (Ingezonden 25 januari 2008); Antwoord</item>
+         <item attribuut="Bestand">13Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR31052
+</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van een uitspraak van de Rechtbank Leeuwarden, 18 december 2007, nr. AWB07/563, waarin een belastingplichtige in het gelijk werd gesteld omdat niet kon worden aangetoond dat de aanslag op de voorgeschreven wijze en op het juiste adres was bekendgemaakt. Indiener vraagt zich af of deze informatie niet beschikbaar zou moeten zijn in de computersystemen van de Belastingdienst. Zo nee, wat is daarvan de oorzaak en zouden die systemen niet moeten worden aangepast.</item>
+         <item attribuut="Rubriek">Belastingen (Belastingdiensten) Communicatie, media en informatievoorziening (Hard- en software)</item>
+         <item attribuut="Trefwoorden">Belastingdienst Informatietechnologie</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2007-2008, nr. 1488, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070809800</item>
+         <item attribuut="Afkomstig_van">Financiën (FIN)</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Remkes</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2008-02-28</item>
+         <item attribuut="Datum_indiening">2008-01-25</item>
+         <item attribuut="Document-id">KVR31052</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="3185" allpagenumbers="3185" vetnummer="2070809800" code="0708tkkvr1488" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Aanhangsel" filenaam="KVR31052" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="1488" onderwerp="" indiendatum="2008-01-25">
+         <vrager partij="VVD" oorsprong="parlement">Remkes</vrager>
+         <vraagt-aan>de staatssecretaris van Financiën</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2008-02-28">
+         <antwoorder functie="staatssecretaris" ministerie="Financiën">De Jager</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Heeft u kennisgenomen van een recente uitspraak <voetnoot nummer="1"/>van de rechtbank in Leeuwarden waarin een belastingplichtige die beroep had ingesteld tegen het in rekening brengen van de kosten van betekening van een dwangbevel, in het gelijk werd gesteld op grond van het feit dat de ontvanger niet aannemelijk heeft kunnen maken dat de aanslag op de wettelijk voorgeschreven wijze en aan het juiste adres bekend is gemaakt en dat belastingplichtige schriftelijk is aangemaand? </vraag>
+      <vraag nummer="2">Is de ter zake doende informatie niet aanwezig in de geautomatiseerde systemen van de Belastingdienst? Zo neen, wat is daarvan de oorzaak? </vraag>
+      <vraag nummer="3">Is deze uitspraak voor u aanleiding de desbetreffende computersystemen aan te passen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="2007-12-18" bron="Rechtbank Leeuwarden EK">Rechtbank Leeuwarden EK, 18 december 2007, nr. AWB07/563</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2 en 3">De Belastingdienst beschikt over informatie aan de hand waarvan aannemelijk kan worden gemaakt dat en op welke datum de verzending van een aanslagbiljet heeft plaatsgevonden alsmede aan welk adres het aanslagbiljet was gericht. Hetzelfde geldt voor de verzending van een aanmaning. In de zaak die heeft geleid tot de in vraag 1 bedoelde uitspraak, heeft de ontvanger verzuimd deze informatie over te leggen. In het beroep dat inmiddels tegen de uitspraak is ingesteld, zal de bedoelde informatie alsnog in de procedure worden ingebracht. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

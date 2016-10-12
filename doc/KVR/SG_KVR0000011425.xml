@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="4">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001121</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001121&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001121</item>
+         <item attribuut="Document-id">0000011425</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 190</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Schutte (GPV) over gokverslaving.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 190</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">190</item>
+         <item attribuut="Indiener">
+            <persoon partij="GPV">Schutte</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-11-04</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Andriessen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-12-02</item>
+         <item attribuut="Beginpagina">393</item>
+         <item attribuut="Eindpagina">394</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="393" allpagenumbers="393" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="'s Gravenhage 1992"/>
+      <vraagdata vraagnummer="190" onderwerp="gokverslaving." indiendatum="1992-11-4">
+         <vrager partij="GPV" oorsprong="parlement">Schutte</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-12-2">
+         <antwoorder functie="minister" ministerie="Economische Zaken">Andriessen</antwoorder>
+         <mede-antwoorder>de staatssecretaris van Justitie</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Wordt een wijziging van de Wet op de kansspelen overwogen op grond waarvan kan worden opgetreden tegen speelautomaten waarmee in korte tijd grote verliezen kunnen worden geleden?' </vraag>
+      <vraag nummer="2">Deelt u het standpunt, dat een dergelijke wijziging zal moeten worden benut teneinde ook de kansen op gokverslaving maximaal terug te dringen? </vraag>
+      <vraag nummer="3">Onderschrijft u, dat de mate waarin het beleid ten aanzien van speelautomaten zal bijdragen aan beperking van gokverslaving niet geheel afhankelijk dient te zijn van het bereiken van overeenstemming met horeca– en automatenexploitanten, maar dat gemeentebesturen de mogelijkheid dienen te hebben daarin een eigen op de situatie in de gemeente toegesneden beleid te voeren? </vraag>
+      <vraag nummer="4">Bent u van oordeel, dat eventuele nadere regelgeving op landelijk niveau niet zal mogen afdoen aan het recht en de verantwoordelijkheid van gemeentebesturen verdergaande beperkingen te stellen aan de plaatsing van speelautomaten indien zij dit in het belang van de strijd tegen gokverslaving noodzakelijk achten? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Een wijziging van de Wet op de kansspelen zelf wordt niet overwogen. Wel ben ik voornemens te bevorderen dat de huidige voorschriften voor kansspelautomaten die zijn opgenomen in het Speelautomatenbesluit (Stb. 1986, 589) worden gewijzigd. Deze wijziging strekt ertoe de huidige keuringspraktijk te stroomlijnen. Voorts wordt beoogd als onderdeel van deze wijziging een norm in te voeren waarmede de zogenaamde piekmachines zullen worden tegengegaan. Het gaat hierbij om machines die gedurende een korte periode veel uitbetalen en daarna gedurende een langere periode weinig uitbetalen. </antwoord>
+      <antwoord nummer="2">Een wijziging van de voorschriften waaraan speelautomaten moeten voldoen, zal moeten worden gezien in het licht van de overwegingen die destijds geleid hebben tot de legalisering van gelduitkerende speelautomaten. Een van deze uitgangspunten was het voorkomen van benadeling van zwakkere groeperingen door al te grote verliezen. In dit kader past een beleid gericht op het voorkomen c.q terugdringen van gokverslaving. </antwoord>
+      <antwoord nummer="3" voetnoot="1">Bij het beleid gericht op voorkoming c.q. terugdringing van gokverslaving heeft de overheid een eigen verantwoordelijkheid. Bij de beantwoording van de vragen van het lid der Tweede Kamer, de heer Van Leijenhorst <voetnoot nummer="1"/> is reeds medegedeeld dat de gemeenten een belangrijke rol hebben bij de preventie van gokproblemen en bij de hulpverlening aan gokverslaafden Kortheidshalve volsta ik hier met een verwijzing naar die beantwoording. Wel wil ik erop wijzen dat de horeca– en automatenexploitanten in het algemeen constructief meewerken aan maatregelen gericht op het terugdringen en voorkomen van gokverslaving. </antwoord>
+      <antwoord nummer="4" voetnoot="2">Eerder is reeds medegedeeld dat geen nadere regeling dient plaats te vinden van de bevoegdheden van gemeenten indien daarvoor geen dringende noodzaak bestaat <voetnoot nummer="2"/>. Ik heb daarbij ook mijn voorkeur uitgesproken voor convenanten tussen gemeenten, horeca en speelautomatenbranche, waarmee een op de lokale situatie toegesneden pakket van maatregelen kan worden gerealiseerd Bij de evaluatie van het speelautomatenbeleid die op 17 </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

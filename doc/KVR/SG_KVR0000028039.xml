@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001702</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001702&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001702</item>
+         <item attribuut="Document-id">0000028039</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 766</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Dijkstal en Korthals (beiden VVD) over verlof voor criminelen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 766</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">766</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Dijkstal</persoon>
+            <persoon partij="VVD">Korthals</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-06-11</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Hirsch Ballin</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-07-22</item>
+         <item attribuut="Beginpagina">1563</item>
+         <item attribuut="Eindpagina">1564</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1563" allpagenumbers="1563" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeveri] Plantijnstraat 's Gravenhage 1991"/>
+      <vraagdata vraagnummer="766" onderwerp="verlof voor criminelen." indiendatum="1991-06-11">
+         <vrager partij="VVD" oorsprong="parlement">Dijkstal</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Korthals</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1991-07-22">
+         <antwoorder functie="minister" ministerie="Justitie">Hirsch Ballin</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1">Op welk wijze is het besluit tot stand gekomen om de tot 12 jaar wegens overtreding van de Opiumwet in eerste instantie veroordeelde S. wegens familie-omstandigheden een dag verlof te geven waarvan hij tot op heden niet is teruggekeerd? </vraag>
+      <vraag nummer="2">Waren er aanwijzingen, dat hij mogelijkerwijs zou ontvluchten? Zo ja, welke rol heeft die informatie bij de besluitvorming gespeeld? </vraag>
+      <vraag nummer="3">Zijn er maatregelen van enigerlei aard genomen teneinde te voorkomen dat S. van zijn verlof gebruik zou maken om te vluchten? Zo neen, waarom niet? </vraag>
+      <vraag nummer="4">Wat is uw oordeel over dit voorval? </vraag>
+      <vraag nummer="5">Is de heer A. in februari van dit jaar veroordeeld tot 7 jaar gevangenis– straf wegens handel in verdovende middelen en vervolgens geplaatst in de open inrichting «De Kruisberg» te Doetinchem, waaruit hij op 2 mei jl. ontsnapt is? </vraag>
+      <vraag nummer="6">Waarom is deze veroordeelde in een open inrichting geplaatst? Ziet u aanleiding om het beleid en/of de regelgeving ten aanzien van verlof voor criminelen die tot hoge gevan– genisstraffen, in eerste instantie dan wel definitief, zijn veroordeeld, aan te passen? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1 en 2">Op 3 juni 1991 heeft S. een verzoek om schorsing van de voorlopige hechtenis ingediend bij het gerechtshof te 's-Gravenhage, in verband met het overlijden van zijn halfbroer. Het openbaar ministerie heeft wegens concrete, van de politie ontvangen aanwijzingen dat S. zou trachten te ontvluchten, ten aanzien van dit verzoek een negatief advies uitgebracht. Het gerechtshof heeft dit advies niet opgevolgd en bij uitspraak van 4 juni 1991 de voorlopige hechtenis van S. geschorst voor één dag. </antwoord>
+      <antwoord nummer="3">Neen. Het Hof heeft in zijn schor– singsbeslissing geen beperkende maatregelen opgenomen. </antwoord>
+      <antwoord nummer="4">Ik beschouw dit als een zeer betreu– renswaardig en ernstig voorval. </antwoord>
+      <antwoord nummer="5 en 6">Betrokkene is in een half-open inrichting geplaatst in het kader van de tenuitvoerlegging van het restant van een aan hem opgelegde gevan– genisstraf van 15 maanden. Verzuimd is om bij de daaraan ten grondslag liggende selectie en plaatsingsbeslissing de omstan– digheid te betrekken dat tegen betrokkene nog een strafzaak aanhangig was, die - zoals ook is gebleken - kon uitmonden in een veroordeling tot een langdurige vrijheidsstraf. Dit verzuim is terug te voeren op procedurefouten, c.q. communicatiestoornissen bij de met de feitelijke plaatsing belaste personen. Ik betreur deze gang van zaken in hoge mate en heb maatregelen doen treffen om zodanige misslagen in de toekomst te voorkomen. </antwoord>
+      <antwoord nummer="7">Ik zie in het gebeurde aanleiding een commissie in te stellen die tot taak zal krijgen uit het oogpunt van effec– tieve executie van aan zware crimi– nelen opgelegde straffen, de wetgeving inzake schorsing en de praktijk van de uitvoering daarvan te analyseren. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

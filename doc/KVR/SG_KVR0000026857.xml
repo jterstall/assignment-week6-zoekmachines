@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0000520</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0000520&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0000520</item>
+         <item attribuut="Document-id">0000026857</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Eerste Kamer 1990-1991 nummer 377</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Eerste Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Vermeend (P.v.d.A.) en Reitsma (C.D.A.) over een mogelijke tegenvaller bij de inkomstenbelasting.</item>
+         <item attribuut="titel">Aanhangsel Eerste Kamer 1990-1991 nummer 377</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">377</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Vermeend</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-02-06</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van Amelsvoort</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-02-08</item>
+         <item attribuut="Beginpagina">25</item>
+         <item attribuut="Eindpagina">25</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Katner der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="25" allpagenumbers="25" vetnummer="" code="" lopendefooter="Eerste Kamer, vergaderjaar 1990-1991, 21 800 IX B, nr. 161b" filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="377" onderwerp="een mogelijke tegenvaller bij de inkomstenbelasting." indiendatum="1991-02-6">
+         <vrager partij="PvdA" oorsprong="parlement">Vermeend</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1991-02-8">
+         <antwoorder functie="staatssecretaris" ministerie="Financiën">Van Amelsvoort</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1">Hebt u kennisgenomen van de stelling van de directeur van het NCW, dat door het traag functio– neren van de belastingdienst naar schatting tussen de f 2 mld. en f 3,5 mld. aan belastingen te laat wordt geïnd en dat er als gevolg daarvan geen sprake zal zijn van een tegen– valler bij de inkomstenbelasting? </vraag>
+      <vraag nummer="2">Wat is uw oordeel over deze stelling? NCW = Nederlands Christelijk Werkgevers– verbond </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1">Ja. Hiervan hadden er 902.440 betrekking op het jaar 1990 zelf, de overige hadden betrekking op oudere jaren. In het jaar 1989 waren de aantallen respectievelijk 1.153.570en 885.543, met een totaalbedrag van 6,8 miljard gulden. Dat betekent dat in 1990 meer voorlopige aanslagen en tot een hoger totaalbedrag zijn opgelegd dan in 1989. Als gevolg van de invoering van de zgn. Oort-wetgeving zijn met ingang van 1990 ongeveer 200.000 personen minder aan de inkomstenbelasting onderworpen. Derhalve waren eerder minder dan meer aanslagen te verwachten geweest. Tenslotte merk ik op dat ook het aantal definitieve aanslagen in 1990 hoger was dan in 1989: 5.713.900 tegenover 5.429.210. Gezien de feitelijke resultaten en de systematiek van het opleggen van voorlopige aanslagen. kan ik de stelling van het NCW absoluut niet onderschrijven. Het NCW gaat er blijkens perspubli– caties van uit dat de Belastingdienst in 1990 ruim 300.000 voorlopige aanslagen inkomstenbelasting minder heeft opgelegd dan in 1989. Deze veronderstelling is niet juist. In 1990 zijn 1.182.654 voorlopige aanslagen tot een netto-totaalbedrag van 7,3 miljard gulden opgelegd. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

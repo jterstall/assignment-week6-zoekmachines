@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0000061</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0000061&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0000061</item>
+         <item attribuut="Document-id">0000105836</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Eerste Kamer 1986-1987 nummer 21</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Eerste Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de heer Waltmans (P.P.R.) inzake ervaringen van Nederlandse verkeersdeelnemers met de Belgische politie.</item>
+         <item attribuut="titel">Aanhangsel Eerste Kamer 1986-1987 nummer 21</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">21</item>
+         <item attribuut="Indiener">
+            <persoon>Waltmans</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-11-11</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-01-19</item>
+         <item attribuut="Beginpagina">41</item>
+         <item attribuut="Eindpagina">42</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 6 - 1 9 8 7 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen door de leden der Kamer gesteld overeenkomstig artikel 83 van het  antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Eerste Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="21" onderwerp="" indiendatum="op 11 november 1986)">
+         <vrager partij="" oorsprong="parlement">Waltmans</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="op 19 januari 1987).">
+         <antwoorder functie="" ministerie="Ontvangen op 19 januari 1987"/>
+         <mede-antwoorder>de heer Korthals Altes, m i n i s t e r v a n Justitie (Ontvangen op 19 januari 1987)</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1 " voetnoot="1">Hebben de ministers kennis genomen  */an berichten over onaangename  ervaringen van Nederlandse verkeers- deelnemers met politionele autoritei- ten in België <voetnoot nummer="1"/>?  </vraag>
+      <vraag nummer="2 ">Zijn de bewindslieden bereid zich te  verstaan met de Belgische regering  om enige uniformiteit op dit terrein  binnen de Benelux te bereiken?  </vraag>
+      <vraag nummer="3 ">Zijn zij tevens bereid in het kader van  de Europese Gemeenschap deze  problematiek aan de orde te stellen?  behandeld dan overige verkeersdeel- nemers.  Onder die omstandigheden bestaat  er naar ons oordeel geen aanleiding  voor bespreking in Benelux- en/of  EG-kader.  </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Boeten bij de Belgen-Kampioen-november  1986, pp. 12/13. </noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1 ">Ja.  2 en 3  Over deze kwestie heeft Harer  Majesteits ambassade te Brussel zich  gewend tot de Belgische Rijkswacht.  Gebleken is dat Nederlandse  automobilisten door de Belgische  Rijkswacht niet anders worden  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

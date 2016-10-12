@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001222</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001222&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001222</item>
+         <item attribuut="Document-id">0000106997</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 188</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van Heemskerck Pillis-Duvekot (V.V.D.) over fraude door kantinepersoneel van kazernes.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 188</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">188</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Van Heemskerck Pillis-Duvekot</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-10-30</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van Houwelingen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-11-25</item>
+         <item attribuut="Beginpagina">377</item>
+         <item attribuut="Eindpagina">378</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 6 - 1 9 8 7 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="" filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="188" onderwerp="fraude door kantinepersoneel van kazernes." indiendatum="30 oktober 1986)">
+         <vrager partij="VVD" oorsprong="parlement">Van Heemskerck Pillis-Duvekot</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="staatssecretaris" ministerie="Defensie">V a n H o u w e l i n g e n</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1 ">Heeft de commandant van de  Johannes Postkazerne op de gecon- stateerde fraude door het kantineper- soneel gereageerd met «de Neder- landse Jan moet toch wel erg slordig  met zijn centen omspringen?» </vraag>
+      <vraag nummer="1 "/>
+      <vraag nummer="2 ">Meent dezelfde commandant dat de  fraude meevalt, omdat hij zegt:  «Bovendien is een deel van dat geld  binnengehaald als statiegeld, dat  door de soldaten niet is geïnd.  Juridisch is dat niet strafbaar»?  </vraag>
+      <vraag nummer="3 ">Zijn reeds herhaaldelijk gedurende  meerdere jaren op- en aanmerkingen  gemaakt door bezoekers van de  betreffende kantine over de «slordig- heid» van het personeel met betrek- king tot afrekenen?  </vraag>
+      <vraag nummer="4 ">Is pas een onderzoek ingesteld nadat  een officiële klacht door een dienst- plichtige was ingediend?  </vraag>
+      <vraag nummer="5 ">W o r d t in zeer veel kantines een extra  bedrag boven op de consumpties  geheven of een speciale bijdrage  gevraagd om andere activiteiten te  financieren?  Indien vraag 5 bevestigend beant- woord  w o r d t is de staatssecretaris  dan van mening dat «Jan Soldaat»  niets te verwijten valt in deze?  </vraag>
+      <vraag nummer="7 ">Is nog in andere kazernes een  officiële klacht ingediend?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1 ">Ja.  In het aangehaalde citaat geeft de  commandant geen waardeoordeel  over de fraude omvang.  </antwoord>
+      <antwoord nummer="3 ">Een dergelijke klacht is niet ontvan- gen.  </antwoord>
+      <antwoord nummer="4 ">Neen. De commandant heeft op  grond van vermoedens van een  mogelijke fraude eerst intern een  onderzoek laten uitvoeren. Na een  officiële klacht heeft de Koninklijke  marechaussee een onderzoek  ingesteld.  5 en 6  Incidenteel kan in kantines die door  de kantinedienst worden beheerd,  een bedrag worden gevraagd dat  hoger ligt dan de centraal vastgestel- de prijzen. Dat is alleen mogelijk na  overleg tussen de kazerne-comman- dant, het onderdeelsoverlegorgaan  en de kantinedienst. Het is een  algemene regel, die ook in deze  incidentele gevallen wordt gevolgd,  dat in de kantines de te betalen  prijzen op een prijslijst worden  aangegeven.  </antwoord>
+      <antwoord nummer="7 ">Neen.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

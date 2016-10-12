@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="4">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Van Dijken en Smits (beiden PvdA) aan de staatssecretaris van Volksgezondheid, Welzijn en Sport over een mogelijk minder frequent patroon van thuiszorg. (Ingezonden 13 januari 2004); Antwoord</item>
+         <item attribuut="Bestand">17Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR19278
+</item>
+         <item attribuut="Inhoud">Vragen over het huidige systeem van eigen bijdragen, waarbij zij die (bijvoorbeeld vanwege minimuminkomen) minder uren thuishulp gebruiken dezelfde relatief hoge eigen bijdrage moeten betalen als degenen die meer uren hulp per week krijgen.</item>
+         <item attribuut="Rubriek">Inkomen en rechtspositie (Inkomens) Welzijn (Gezinsverzorging)</item>
+         <item attribuut="Trefwoorden">Besteedbaar inkomen Eigen bijdrage Thuiszorg</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2003-2004, nr. 650, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2030405850</item>
+         <item attribuut="Afkomstig_van">Volksgezondheid, Welzijn en Sport (VWS)</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Van Dijken</persoon>
+            <persoon partij="PvdA">Smits</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2004-01-20</item>
+         <item attribuut="Datum_indiening">2004-01-13</item>
+         <item attribuut="Document-id">KVR19278</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2003–2004" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1383" allpagenumbers="1383" vetnummer="2030405850" code="0304tkkvr650" lopendefooter="Tweede Kamer, vergaderjaar 2003–2004, Aanhangsel" filenaam="KVR19278" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2004"/>
+      <vraagdata vraagnummer="650" onderwerp="" indiendatum="2004-01-13">
+         <vrager partij="PvdA" oorsprong="parlement">Van Dijken</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Smits</vrager>
+         <vraagt-aan>de staatssecretaris van Volksgezondheid, Welzijn en Sport</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2004-01-20">
+         <antwoorder functie="staatssecretaris" ministerie="Volksgezondheid, Welzijn en Sport">Ross-van Dorp</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Is het u bekend dat gebruikers van thuiszorg niet altijd elke week hulp ontvangen, maar ook volgens een minder frequent patroon, bijvoorbeeld eenmaal per twee weken enkele uurtjes, of volgens een patroon dat niet per se uitgaat van een vast aantal uren hulp per week? </vraag>
+      <vraag nummer="2">Vindt u het juist dat thuiszorggebruikers met minimale inkomens, die eenmaal in de twee weken een gering aantal uren hulp ontvangen, daardoor relatief hogere eigen bijdragen moeten betalen omdat het systeem gebaseerd is op een maximale eigen bijdrage per week? </vraag>
+      <vraag nummer="3">Vindt u het juist dat mensen die weinig uren thuiszorg gebruiken, bijvoorbeeld omdat ze erin slagen veel hulp te krijgen van familie en bekenden, al snel de maximale eigen bijdrage moeten betalen van bijna 18 euro per maand, dat wil zeggen dat deze mensen net zoveel betalen als zij die meer uren hulp per week krijgen? </vraag>
+      <vraag nummer="4">Bent u bereid in de regeling eigen bijdrage de mogelijkheid te openen een maximale eigen bijdrage per week in te voeren? Zo neen, waarom niet? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">De eigen bijdrage wordt gebaseerd op een zorgperiode van vier weken. Zorggebruikers met een minimum inkomen betalen maximaal een eigen bijdrage van € 16 per periode van vier weken. Wanneer een client in die periode maar één uur zorg heeft gekregen, dan betaalt de betreffende client één keer het uurtarief van € 11,80. Heeft de client slechts een half uur zorg in die periode ontvangen, dan betaalt deze de helft van het uurtarief, namelijk € 5,90. Ik zie geen reden om cliënten die niet iedere week zorg ontvangen anders te behandelen voor wat betreft de eigen bijdrage. </antwoord>
+      <antwoord nummer="3">De daadwerkelijk te betalen eigen bijdrage wordt gebaseerd op het aantal uren zorg die de cliënt ontvangt en houdt dus wel degelijk rekening met cliënten veel of weinig zorg gebruiken. Zie ook vraag 2. </antwoord>
+      <antwoord nummer="4">De maximale eigen bijdrage is afgestemd op het verzamelinkomen van de betreffende zorggebruikers. Door uit te gaan van het maximum per vier weken wordt op een goede manier aangesloten bij hun maandelijkse inkomsten. Dit leidt tot een nauwkeurige en rechtvaardige draagkrachtmeting, omdat de draagkracht over een langere periode wordt gemeten. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

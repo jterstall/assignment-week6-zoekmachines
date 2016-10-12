@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001305</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001305&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001305</item>
+         <item attribuut="Document-id">0000019691</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 292</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Beckers-de Bruijn (Groen Links) over de toediening van BST aan Koeien.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 292</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">292</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Beckers-de Bruijn</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-12-11</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Gabor</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-01-14</item>
+         <item attribuut="Beginpagina">597</item>
+         <item attribuut="Eindpagina">598</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="597" allpagenumbers="597" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 - 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="292" onderwerp="do toediening van BST aan Koeien." indiendatum="1991-12-11">
+         <vrager partij="Groen Links" oorsprong="parlement">Beckers-de Bruijn</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-01-14">
+         <antwoorder functie="staatssecretaris" ministerie="Landbouw, Natuurbeheer en Visserij">Gabor</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Hebt u kennisgenomen van berichten, dat toediening van BST aan koeien schadelijk is voor de gezondheid van de dieren? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Worden de gegevens van het betreffende onderzoek gebruikt bij de besluitvorming over toelating van BST in de Verenigde Staten en in de EG? </vraag>
+      <vraag nummer="3">Deelt u de mening, dat deze gegevens een extra en doorslaggevend argument vormen tegen de toelating van de toediening van BST? </vraag>
+      <vraag nummer="4">Zult u zich blijven inzetten om toelating van BST in de EG tegen te gaan en het Duitse voorbeeld volgen om in ieder geval BST in Nederland niet toe te laten? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1991-12-7" bron=" Agrarisch Dagblad"> Agrarisch Dagblad, 7 december 1991</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja. Bij de deskundigen van de Europese Commissie was het in het krante-artikel genoemde rapport niet bekend. Omtrent de status van het rapport in de Verenigde Staten kon tot op heden nog geen duidelijkheid worden verkregen. </antwoord>
+      <antwoord nummer="3">Een oordeel over het feit of de gegevens uit het genoemde rapport van belang zijn bij de toelating van BST, kan eerst worden gegeven na een evaluatie van het volledige rapport. </antwoord>
+      <antwoord nummer="4">Ik zal mij er onverminderd in EG-verband voor blijven inzetten de toelating van BST tegen te gaan. Hangende het voorstel van de Commissie de registratie en het gebruikvan BSTtotS! december 1993 te verbieden hebben de lidstaten zich onderling verplicht de status quo te handhaven inzake de toestemming om BST op de markt te brengen en te gebruiken. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

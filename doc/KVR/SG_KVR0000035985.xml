@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001578</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001578&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001578</item>
+         <item attribuut="Document-id">0000035985</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 655</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Leerling (R.P.F.) over christenen in de Volksrepubliek Chinba.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 655</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">655</item>
+         <item attribuut="Indiener">
+            <persoon partij="RPF">Leerling</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-05-02</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-05-30</item>
+         <item attribuut="Beginpagina">1319</item>
+         <item attribuut="Eindpagina">1320</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990 Aanhangsel van de Handelingen" typehandeling="Vergaderjaar 1989-1990 Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="SDU uitgevenj 's-Gravenhage 1990 Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel 1319" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgevenj 's-Gravenhage 1990 Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel 1319"/>
+      <vraagdata vraagnummer="vastgelegde" onderwerp="christenen in de Volksrepubliek Chinba." indiendatum="1990-05-2">
+         <vrager partij="RPF" oorsprong="parlement">Leerling</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-05-30">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">Van den Broek</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Hebt u kennis genomen van berichten over nieuwe vervolging van christenen in de Volksrepubliek China? </vraag>
+      <vraag nummer="2">Kunt u de betreffende berichten bevestigen? Zo ja, bent u bereid bij de regering van de Volksrepubliek protest aan te tekenen? </vraag>
+      <vraag nummer="3">Wilt u zich beijveren, dat de in beslag genomen bijbels en andere waardevolle zaken aan de betref– fende kerkelijke gemeente worden teruggegeven? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Informatieblad Kruistochten nr. 218</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1">Ja. 2 e n 3 De betreffende berichten kunnen niet worden bevestigd. De Neder– landse regering zal er echter in bilaterale contacten bij de Chinese autoriteiten op aandringen, dat de in art. 35 van de Chinese grondwet </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

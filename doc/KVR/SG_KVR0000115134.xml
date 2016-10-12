@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19851986:0001574</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001574&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001574</item>
+         <item attribuut="Document-id">0000115134</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1985-1986 nummer 653</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van Es (P.S.P.) over de voorgenomen uitzetting van een Marokkaan.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1985-1986 nummer 653</item>
+         <item attribuut="Jaargang">1985_1986</item>
+         <item attribuut="Vraagnummer">653</item>
+         <item attribuut="Indiener">
+            <persoon partij="PSP">Van Es</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-02-26</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Korte-van Hemel</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-04-24</item>
+         <item attribuut="Beginpagina">1297</item>
+         <item attribuut="Eindpagina">1298</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1985-1986 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 5 - 1 9 8 6 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="653" onderwerp="de voorgenomen uitzetting van een Marokkaan." indiendatum="26 februari 1986)">
+         <vrager partij="PSP" oorsprong="parlement">Van Es</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1 ">Zal de Marokkaan Y.M. binnenkort  het land uitgezet worden en zal aan  het herzieningsverzoek van het  besluit tot weigering van een  verblijfsvergunning geen schorsende  werking worden verleend?  </vraag>
+      <vraag nummer="2 ">Behoort Y.M. tot één van de indieners  van de 522 remigratieprojecten over  de verwezenlijking waarvan de  regering nog steeds geen definitief  besluit heeft genomen?  </vraag>
+      <vraag nummer="3 ">Hebben ziekte èn onzekerheid over  de voortgang van het door Y.M.  ingediende remigratie-project ertoe  geleid dat hij zijn verblijf in Marokko  heeft moeten verlengen tot twee jaar  en drie maanden?  </vraag>
+      <vraag nummer="4 ">Bent u bereid alsnog schorsende  werking te verlenen aan het herzie- ningsverzoek?  </vraag>
+      <vraag nummer="5 ">Bent u bereid Y.M. in Nederland te  laten verblijven in afwachting van een  definitieve beslissing over de  uitvoering van de 522 remigratie-pro- jecten?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="2 ">Ja.  </antwoord>
+      <antwoord nummer="3 ">Het is niet aannemelijk geworden dat  de in de vraag genoemde oorzaken  aanleiding zijn geweest voor het  langdurig verblijf in Marokko. Y.M.  heeft van augustus 1983 tot juni  1985 gewerkt in het textielbedrijf van  zijn oom, in welk bedrijf hij zich met  financiële steun van de Nederlandse  overheid heeft willen inkopen.  Hieraan kan nog worden toegevoegd  dat betrokkene drie maanden na  aankomst in Marokko door de  vreemdelingendienst van zijn  voormalige woonplaats is gewezen  op de consequenties van het vestigen  van zijn hoofdverblijf in Marokko.  5.  Verblijf in Nederland in verband met  de afwikkeling van de besluitvorming  rond de 522 terugkeerprojecten is  niet nodig. Ik zie dan ook geen reden,  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

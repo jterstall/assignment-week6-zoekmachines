@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001201</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001201&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001201</item>
+         <item attribuut="Document-id">0000011505</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 270</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Te Veldhuis (VVD) over warmte/krachtkoppelingsinstallaties.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 270</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">270</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Te Veldhuis</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-10-25</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Alders</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-01-06</item>
+         <item attribuut="Beginpagina">553</item>
+         <item attribuut="Eindpagina">554</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="553" allpagenumbers="553" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="270" onderwerp="warmte/krachtkoppelingsinstallaties." indiendatum="1992-11-25">
+         <vrager partij="VVD" oorsprong="parlement">Te Veldhuis</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="6 januari 1993), zie ook Aanhangsel Handelingen nr. 216, Vergaderjaar 1992-1993">
+         <antwoorder functie="minister" ministerie="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer">Alders</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Bent u het ermee eens dat warmte/krachtkoppelingsinstallaties een belangrijk voordeel hebben qua energie-rendement en qua uitstoot van broeikasgassen vergeleken met conventionele centrales?' In hoeverre weegt dit voordeel op tegen het nadeel, dat de toename van klemschalige warmte/krachtkoppelingsinstallaties leidt tot een sterke toename van de emissies van verzurende stikstofoxiden? </vraag>
+      <vraag nummer="3">Welk probleem heeft voor het kabinet een grotere prioriteit: het tegengaan van de verzuring of het tegengaan van de emissie van broeikasgassen? </vraag>
+      <vraag nummer="4">Bestaan er milieuvriendelijke alternatieven voor kleinschalige warmte/krachtkoppelingsinstallaties? Zo ja, zijn deze, qua economische rendabiliteit gelijkwaardig? Worden deze reeds toegepast? </vraag>
+      <vraag nummer="5">Is het uit milieu-perspectief wenselijk, dat extra subsidiegelden ter beschikking worden gesteld voor bednjven die warmte/krachtinstallaties willen plaatsen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1992-11-7" bron=" Haarlems Dagblad"> Haarlems Dagblad, 7 november 1992</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1">Ja. In het milieu-effect-rapport ten behoeve van het Tweede Structuurschema Elektriciteitsvoorziening zijn berekeningen uitgevoerd die bevestigen dat gasgestookte en efficiënte gecombineerde opwekking van warmte en kracht een belangrijk rendementsvoordeel heeft ten opzichte van gescheiden opwekking. </antwoord>
+      <antwoord nummer="2">Kleinschalige WKK via gasmotoren heeft inderdaad als nadeel een relatief hoge emissie van verzurende stikstofoxyden. Er is echter nog steeds perspectief op betere prestaties, zowel wat betreft de N0 x -emissie als het rendement. Hierbij dient bedacht te worden dat de gasmotor onder invloed van diverse stimuleringsprogramma's sinds 1987 een zeer aanzienlijke ontwikkeling heeft doorgemaakt en nu veel schoner en efficiënter is dan destijds. Op dit moment wordt de relatief hoge N0 x -emissie van gasmotoren niet als een belemmering gezien. De verdere ontwikkeling van kleinschalige WKK, afgezet tegen de alternatieven centrale opwekking en grootschalige WKK, zal wel nauwlettend worden gevolgd. </antwoord>
+      <antwoord nummer="3">Voor wat betreft gasmotoren is de tegenstelling, die in de vraag wordt gesuggereerd, nog niet aan de orde. Een keuze voor het een of het ander is daarom niet opportuun. </antwoord>
+      <antwoord nummer="4">Een rendabel alternatief voor gasmotoren is thans nog niet voorhanden. Potentiële alternatieven, die nog in de ontwikkelingsfase verkeren, zijn brandstofcellen en bepaalde typen kleine gasturbines of gasmotoren voorzien van een katalysator. In hoeverre deze alternatieven in de toekomst kansrijk zullen zijn, hangt niet alleen af van de economische rentabiliteit, maar ook van de milieuvoordelen die met deze alternatieven bereikt kunnen worden. Verder heeft, indien er sprake is van een geconcentreerde warmtevraag, het alternatief van meer grootschalige WKK (STEG) de voorkeur boven meerdere kleinere WKK-installaties. </antwoord>
+      <antwoord nummer="5">Ja, gelet op zowel het milieu– als energieperspectief heeft de Minister van Economische Zaken voor dit jaar extra geld ter beschikking gesteld, zodat het stuwmeer van subsidie-aanvragen weggewerkt wordt. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

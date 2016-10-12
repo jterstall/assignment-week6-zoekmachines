@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19931994:0001469</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001469&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001469</item>
+         <item attribuut="Document-id">0000003980</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 255</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Schutte (GPV) over Duitse automobilisten met een rijverbod.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 255</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">255</item>
+         <item attribuut="Indiener">
+            <persoon partij="GPV">Schutte</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-12-17</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Maij-Weggen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-01-18</item>
+         <item attribuut="Beginpagina">517</item>
+         <item attribuut="Eindpagina">518</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="517" allpagenumbers="517" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN09?1 739B" uitgever=""/>
+      <vraagdata vraagnummer="255" onderwerp="Duitse automobilisten met een rijverbod." indiendatum="1993-12-17">
+         <vrager partij="GPV" oorsprong="parlement">Schutte</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="18januari 1994">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">Maij-Weggen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Kent u het bericht <voetnoot nummer="1"/>, als zouden rijschoolhouders en particulieren een netwerk hebben opgebouwd in de provincies Gelderland en Limburg teneinde Duitse automobilisten die een rijverbod is opgelegd, tegen betaling te voorzien van een fictief adres, waardoor zij aan een Nederlands rijvaardigheidsbewijs kunnen komen? Kan op de/e wijze het Wegenverkeersreglement worden ontdoken, dat juist zou moeten voorzien in het beëindigen van dit soort praktijken? Zo ja, komt dit rRgelmatig voor? </vraag>
+      <vraag nummer="3">Kunnen de betrokken rijschoolhouders met hun activiteiten de verkeersveiligheid in zowel Nederland als Duitsland in gevaar brengen? </vraag>
+      <vraag nummer="4">Kan, voordat het rij-examen wordt afgenomen, in Duitsland worden geinformeerd of de betrokken persoon met de Duitse nationaliteit in Duitsland een rijverbod heeft gekregen? Zo ja, kan de betrokken persoon dan ook in Nederland de mogelijkheid worden ontnomen alsnog een rijbewijs te verkrijgen? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1" voetnoot="1">Ja. Er zijn evenwel onvoldoende concrete bewijzen voorhanden om te kunnen spreken over een specifiek netwerk. In zoverre kan sprake zijn van ontriuiking van het Wegenverkeersreglement dat daar wordt bepaald dat degene aan wie een rijbewijs wordt afgegeven in Nederland dient te wonen en dat zulks bovendien reeds enige tijd het geval moet zijn. Dit voorschrift is gebaseerd op een EG-richtlijn. Voor de desbetreffende teksten wordt verwezen naar de relevante passages uit de toelichting (bijgevoegd). <voetnoot nummer="1"/>Aanvankeltjk was het EG voorschrift in het Wegenverkeersreglement, dat veel Duitsers die in eigen land met een ontzegging van de rijbevoegdheid geconfronteerd werden, de pas werd afgesneden. Maar het lijkt er inmiddels op dat sommigen van hen bereid lijken eerst 185 dagen te wachten teneinde aan de 184 dagen norm van artikel 102 van het Wegenverkeersreglement te kunnen voldoen (zie toelichting). Thans wordt nagegaan in hoeverre er inderdaad weer sprake is van een wezenlijk opleven van het Duitse rijbewijstoerisme. Voorts wordt onderzocht hoe dit kan worden voorkomen. Wanneer daaromtrent meer inzicht verkregen is kunnen maatregelen getroffen worden. </antwoord>
+      <antwoord nummer="3">Door hun activiteiten kunnen betrokken rijschoolhouders in de hand werken dat personen in het verkeer komen aan wier medische geschiktheid getwijfeld kan worden. Dergelijke activiteiten acht ik zeer ongewenst. Naar aanleiding van de ter zake gestelde vraag merk ik op dat, aangezien het gaat om personen die normaliter in Duitsland verblijven en dus daar aan het wegverkeer deelnemen, eventuele verkeersrisico's zich voornamelijk in dat land znllen voordoen. Dat neemt natunrlijk niet weg dat er sprake is van een zeer ongewenste situatie. </antwoord>
+      <antwoord nummer="4">De door de vragensteller geopperde mogelijkheid wordt inderdaad bestudeerd. Hierover is overleg met het Bundesverkehrsministerium gaande. Naar verwachting zal voor een afdoende maatregel in die richting een wijziging van het Wegenverkeersreglement nodig zijn. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

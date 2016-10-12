@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001214</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001214&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001214</item>
+         <item attribuut="Document-id">0000106989</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 180</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid De Pree (P.v.d.A.) over het woningwaarderingstelsel.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 180</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">180</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">De Pree</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-10-17</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Heerma</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-11-24</item>
+         <item attribuut="Beginpagina">363</item>
+         <item attribuut="Eindpagina">364</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 6 - 1 9 8 7 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="180" onderwerp="het woningwaarderingstelsel." indiendatum="17 oktober 1986)">
+         <vrager partij="PvdA" oorsprong="parlement">De Pree</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1 ">Is het waar dat in het woningwaar- deringstelsel wordt uitgegaan van  een minimum aantal punten van 40?  </vraag>
+      <vraag nummer="2 ">Zo ja, kan dit tot gevolg hebben dat  een bewoner van een woning met  minder dan  4 0 kwaliteitspunten  wordt geconfronteerd met, naast de  trendmatige huurverhoging, een  harmonisatiehuurverhoging, doordat  de huurprijs niet wordt gedeeld door  het werkelijke puntenaantal (minder  dan 40) maar door het minimumaantal  ( = 4 0 ) ?  </vraag>
+      <vraag nummer="3 ">Betekent dit dat feitelijk zeer slechte  woningen waarvan de kwaliteit  achterloopt bij de huurprijs, behan- deld worden alsof de huurprijs  achterloopt bij de kwaliteit?  </vraag>
+      <vraag nummer="4 ">Zo ja, vindt u dit terecht?  </vraag>
+      <vraag nummer="5 ">Op welke wijze kan hieraan een einde  worden gemaakt?  </vraag>
+      <vraag nummer="1 ">Ja.  </vraag>
+      <vraag nummer="2 ">De mogelijkheid bestaat dat een  woning met minder dan  4 0 punten in  aanmerking komt voor huurharmoni- satie. Dit zal zich echter alleen  voordoen als de huurprijs op  3 0 juni  1 986 lager ligt dan  f 1 1 8 per maand  en er geen gebreken of onderhouds- tekortkomingen in de woning  aanwezig zijn. Een minimale huur van  dit niveau is - mits de woning in  redelijke staat van onderhoud  verkeert - alleszins redelijk en uit  exploitatie-oogpunt noodzakelijk.  3, 4 en 5  Neen. De huurder die een woning  bewoont die in slechte staat van  onderhoud verkeert kan op goede  gronden bezwaar maken tegen de  voorgestelde huurverhoging. Dit  heeft dan tot gevolg dat de huurver- hoging geen doorgang vindt en de  huurprijs op het overeengekomen  huurniveau  w o r d t bevroren. In  bepaalde gevallen is het zelfs  mogelijk dat de huurprijs op grond  van de onderhoudstoestand wordt  verlaagd.  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

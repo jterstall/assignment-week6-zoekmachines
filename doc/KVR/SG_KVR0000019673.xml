@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="bronbelasting te verrekenen?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001287</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001287&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001287</item>
+         <item attribuut="Document-id">0000019673</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 274</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Kersten en Vermeend (beiden PvdA) over een belastingverdrag tussen Nederland en sommige ontwikkelingslanden.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 274</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">274</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Kersten</persoon>
+            <persoon partij="PvdA">Vermeend</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-12-13</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van Amelsvoort</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-01-07</item>
+         <item attribuut="Beginpagina">557</item>
+         <item attribuut="Eindpagina">558</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteid door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="557" allpagenumbers="557" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="274" onderwerp="een belastingverdrag tussen Nederland en sommige ontwikkelingslanden." indiendatum="1991-12-13">
+         <vrager partij="PvdA" oorsprong="parlement">Kersten</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Vermeend</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1">Hebt u kennis genomen van het artikel van Mulder en van 't Hooft?' Kunt u aangeven met welke ontwikkelingslanden Nederland een belastingverdrag is overeengekomen met tax-sparing credits ten aanzien van dividenden, interesten en royalty's? </vraag>
+      <vraag nummer="3">Deelt u de analyse van de in vraag 1 genoemde auteurs, n.l.: «Indien de Nederlandse overheid daadwerkelijk het voornemen heeft om de in de verdragen met sommige ontwikkelingslanden overeengekomen tax-sparing credits enig effect te doen sorteren, dan zou de tax-sparing moeten worden gecombineerd met brutoverrekeningen»? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> WFR weekblad 1991/5986, 21 november1991</noot>
+      </noten>
+   </antwoorden>
+   <mededeling mededeler="Van Amelsvoort" functie="staatssecretaris" afdeling="Financiën" mededelingdatum="1992-01-7">Mededeling van staatssecretaris Van Amelsvoort (Financiën), mede namens de minister van Ontwikkelingssamenwerking. (Ontvangen 7 januari 1992) Hierbij bericht ik u, mede namens de minister voor Ontwikkelingssamenwerking, dat het niet mogelijk blijkt de vragen die de leden van de Tweede Kamer der Staten-Generaal, Kersten en Vermeend, overeenkomstig artikel 121 van het Reglement van Orde hebben ingediend, binnen de gestelde termijn van drie weken te beantwoorden, omdat het interdepartementale overleg met de Minister voor Ontwikkelingssamenwerking nog niet is afgerond. Ik streef ernaar u de antwoorden zo spoedig mogelijk en in ieder geval binnen zes weken na ontvangst van uw bovenvermelde brief te doen toekomen. Kunt u een indicatie geven van de omvang van de belastingverliezen die zullen optreden wanneer de brutomethode gehanteerd zou worden om buitenlandse </mededeling>
+</kvr>

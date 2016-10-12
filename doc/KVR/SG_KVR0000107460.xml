@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001685</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001685&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001685</item>
+         <item attribuut="Document-id">0000107460</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 652</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van der Burg (C.D.A.) over het niet-optreden van agenten als getuigen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 652</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">652</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Van der Burg</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-02-13</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Korthals Altes</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-05-01</item>
+         <item attribuut="Beginpagina">1297</item>
+         <item attribuut="Eindpagina">1298</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 6 - 1 9 8 7 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="652" onderwerp="het niet-optreden van agenten als getuigen." indiendatum="13 februari 1987)">
+         <vrager partij="CDA" oorsprong="parlement">Van der Burg</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1 mei 1987) Dienstvoorschriften en werkafspraken kunnen per korps verschillen. In Amsterdam is het gebruikelijk dat een dagvaardiing als getuige via de afdeling Algemene Zaken van het korps terecht komt bij het dienston- derdeel waar de betrokkene werkzaam is. Volgens dienstvoorschrift w o r d t betrokkene opgedragen ter terechtzit- ting te verschijnen. Indien het tijdstip van verschijnen buiten diensttijd valt, wordt dit in vrije tijd gecompenseerd. Mocht een getuige verlof hebben gevraagd, dan wordt per zaak beoordeeld of dit kan worden verleend. Indien een politieambtenaar onverhoopt niet in de gelegenheid is ter terechtzitting te verschijnen, dan wordt de dagvaarding teruggestuurd met de vraag of de zitting op een andere dag kan plaatsvinden. Voor het Korps Rijkspolitie bevatten de dienstvoorschriften terzake geen bepaling. Deze voorschriften zijn aan herziening toe. Bezien zal worden, of daarbij ook een passage kan worden opgenomen betreffende de melding aan de directe chef van een dagvaar- ding als getuige.">
+         <antwoorder functie="" ministerie="Justitie"/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1 ">Hebben de ministers kennis genomen  van het artikel in Trouw van 31  januari  j l . over agenten, die vaak niet  optreden als getuigen?  </vraag>
+      <vraag nummer="2 ">Is er reden om aan te nemen, dat dit  niet-optreden te maken heeft met  eventuele angst voor nadelige  gevolgen?  </vraag>
+      <vraag nummer="3 ">Bestaan er dienstvoorschriften dan  wel werkafspraken, dat  agenten hun chef in kennis  moeten stellen van het feit,  dat zij als getuige gedagvaard zijn?  Zo neen, waarom niet?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1 ">Ja.  </antwoord>
+      <antwoord nummer="2 ">Uit ingewonnen ambtsberichten blijkt  dat het niet ter terechtzitting verschij- nen van de betrokken politieambtena- ren van de gemeentepolitie van  Amsterdam op een misverstand  berustte, daar beiden niet waren  gedagvaard.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

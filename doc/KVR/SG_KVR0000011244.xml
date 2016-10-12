@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0000940</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0000940&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0000940</item>
+         <item attribuut="Document-id">0000011244</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 8</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Franssen (VVD) over de financiële situatie van de stichting Rotterdam School of Management.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 8</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">8</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Franssen</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-08-28</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Ritzen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-09-17</item>
+         <item attribuut="Beginpagina">17</item>
+         <item attribuut="Eindpagina">18</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="17" allpagenumbers="17" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="" onderwerp="" indiendatum="">
+         <vrager partij="VVD" oorsprong="parlement">Franssen</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="17 september 1992) Uit informatie, verkregen van het college van bestuur van de Erasmus Universiteit Rotterdam (EUR), blijkt.">
+         <antwoorder functie="minister" ministerie="Onderwijs en Wetenschappen">Ritzen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="10">
+      <vraag nummer="8">Vragen van het lid Franssen (VVD) over de financië/e situatie van de stichting Rotterdam School of Management. (Ingezonden 28 augustus 1992) </vraag>
+      <vraag nummer="1" voetnoot="1">Hebt u kennis genomen van berichten <voetnoot nummer="1"/> over de financiële situatie van de stichting Rotterdam School of Management? </vraag>
+      <vraag nummer="2">Is u eerder op enigerlei wijze ter ore gekomen, dat de stichting Rotterdam School of Management financiële problemen heeft? Zo ja, op welk moment? Hebt u iets met die informatie gedaan? Zo ja, wat? Zo nee, waarom niet? </vraag>
+      <vraag nummer="3">Draagt u kennis c.q. bent u in bezit van het vertrouwelijke rapport van accountant Paardekooper &amp; Hoffman over de financiële situatie van de in de vorige vragen genoemde stichting? Zo ja, wilt u dit rapport ter (vertrouwelijke) kennisneming van deze Kamer brengen? </vraag>
+      <vraag nummer="4">Zijn de tekorten bij de voornoemde stichting in ieder geval ontstaan door te ruime en onterechte declaraties door een verliesgevend onderwijsproject op Curagao en door een mislukt gastcollege-project in Oost-Europa? Zijn er nog andere oorzaken? Kon het tekort mede oplopen doordat de MBA opleidmg een stichting is die niet wettelijk verplicht is inzage te geven in de boeken? </vraag>
+      <vraag nummer="6">Zijn de declaraties naar uw oordeel te ruim en soms onterecht? Was/is de overheid op enigerlei wijze betrokken bij het onderwijsproject op Curagao en bij het gastcollege-project in Oost-Europa? </vraag>
+      <vraag nummer="8">Worden over de in vraag 7 genoemde projecten opmerkingen gemaakt in de rapportage van accountant Paardekooper &amp; Hoffman? Zo ja, welke conclusies trekt u hieruit? Geven deze opmerkingen aanleiding tot het instellen van een nader onderzoek? Zo neen, waarom niet? </vraag>
+      <vraag nummer="9">Bestaat het risico, dat financiële tekorten bij deze post-doctorale opleidmgen worden gecompenseerd door gelden aan te wenden die voor het onderwijs in de eerste fase van het wetenschappelijk onderwijs zijn bestemd? Zijn deze middelen geoormerkt? Is in dit geval van compensatie sprake (geweest)? Was u hiervan op de hoogte? Zo ja, wanneer? Heeft die kennis u tot enige actie aanleiding gegeven? Zo ja, tot welke? Zo neen, waarom niet? 10 Hebt u inzicht in de mate waarin bij instellingen voor wetenschappelijk of hoger beroepsonderwijs, en/of onder verantwoordelijkheid van deze instellingen stichtingen bestaan die op enigerlei wijze een onderwijs– en/of onderzoektaak verrichten? Zo neen, wilt u die gegevens verzamelen en aan de Kamer overleggen? </vraag>
+      <vraag nummer="11">Zijn in de wet afdoende waarborgen gecreëerd, dat het bestaan en het functioneren van stichtingen (of andere rechtspersonen) als hier bedoeld niet op enigerlei wijze ten kosten gaat van het onderwijs in de eerste fase van het hoger beroepsonderwijs respectievelijk het wetenschappelijk onderwijs? Zo ja, hoe? Zo nee, hoe denkt u hierin dan veranderingen aan te brengen? </vraag>
+      <vraag nummer="12">Acht u redenen aanwezig om het Openbaar Ministerie te verzoeken om op grond van art. BW 2:297 een onderzoek in te stellen bij de stichting Rotterdam School of Management? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1992-08-25" bron=" NRC"> NRC, 25 augustus 1992</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="3">Neen. </antwoord>
+      <antwoord nummer="4, 5, 6 en 8">Mijn verantwoordelijkheid in deze beperkt zich tot de rechtmatigheid en doelmatigheid van de middelen die de rijksoverheid aan de EUR verstrekt. (zie ook antwoorden bij vragen 9, 10 en 11). </antwoord>
+      <antwoord nummer="7">Het Kabinet van de Nederlandse Antillen heeft ten behoeve van een, onder auspiciën van de stichting CEMI op de Nederlandse Antillen verzorgde MBA-opleiding een startsubsidie en een aanvullende subsidie verleend. RSM was op contractuele basis betrokken bij de onderwijsactiviteiten van deze MBA-opleiding. De EUR is hierbij overigens niet betrokken. Het «MBA-programme for Centraal Europe» is mede tot stand gekomen met behulp van een PSO-subsidie (via NUFFIC). De EUR heeft met behulp van deze subsidie betalingen verricht aan de RSM voor door de RSM verrichte diensten. </antwoord>
+      <antwoord nummer="10">Uit de jaarrekeningen van de instellingen dient te blijken of er een financiële betrokkenheid van de instellingen bestaat bij rechtspersonen die (semi-)universitaire taken uitvoeren (Richtlijnen verslag en begroting w.o. 1991). 9 e n  11 De wet (art. 179, derde lid, WWO en art. 138, eerste lid, WHBO) verzet zich ertegen, dat middelen uit de eerste geldstroom structureel </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

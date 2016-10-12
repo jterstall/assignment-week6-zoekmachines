@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0000041</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0000041&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0000041</item>
+         <item attribuut="Document-id">0000105816</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Eerste Kamer 1986-1987 nummer 1</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Eerste Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de heer IJmkers (C.P.N.) inzake de ontwikkelingssamenwerking met Pakistan.</item>
+         <item attribuut="titel">Aanhangsel Eerste Kamer 1986-1987 nummer 1</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">1</item>
+         <item attribuut="Indiener">
+            <persoon>IJmkers</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-08-19</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Bukman</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-09-23</item>
+         <item attribuut="Beginpagina">1</item>
+         <item attribuut="Eindpagina">2</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 6 - 1 9 8 7 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen door de leden der Kamer gesteld overeenkomstig artikel 83 van het  antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Eerste Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="1" onderwerp="" indiendatum="">
+         <vrager partij="" oorsprong="parlement">IJmkers</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="op 23 september 1986)">
+         <antwoorder functie="de" ministerie="Ontvangen op 23 september 1986">heer B u k m a n , minister voor Ontwikkelingssamen- werking.</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 ">Heeft de minister er van kennis  genomen, dat tijdens recente  demonstraties in Pakistan voor meer  democratische rechten doden zijn  gevallen en duizenden politieke  tegenstanders van het bewind zijn  gearresteerd?  </vraag>
+      <vraag nummer="2 ">Heeft de minister kennis genomen  van het verlangen van de oppositie  naar democratische verkiezingen met  deelname van oude en nieuwe  politieke partijen?  </vraag>
+      <vraag nummer="3 ">Is de minister van mening dat in  Pakistan mensenrechten worden  geschonden en dat er geen aanwijzin- gen zijn dat hierin op korte termijn  verandering komt?  </vraag>
+      <vraag nummer="4 ">Overweegt de minister derhalve  maatregelen met betrekking tot de  bijzondere ontwikkelingssamenwer- king met Pakistan te nemen en zo ja,  welke?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1 ">Ja.  </antwoord>
+      <antwoord nummer="2 ">Ja.  In de afgelopen jaren is zowel door  de Minister van Buitenlandse Zaken  als door mijn voorgangster meerma- len bezorgdheid uitgesproken met  betrekking  t o t de mensenrechtensitu- atie in Pakistan. Ik deel deze bezorgd- heid.  </antwoord>
+      <antwoord nummer="4 ">Maatregelen met betrekking tot de  bijzondere ontwikkelingssamenwer- king met Pakistan worden door mij  niet overwogen. Wel zal ik gebruik  maken van voorkomende gelegenhe- den om aan de Pakistaanse overheid  het belang dat de Nederlandse  regering hecht aan mensenrechten,  ook in het kader van ontwikkelingssa- menwerking, over te brengen.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

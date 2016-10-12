@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Procureurs-Generaal?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19931994:0001434</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001434&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001434</item>
+         <item attribuut="Document-id">0000003945</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 220</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Wolffensperger (D66) over de Epese incestzaken.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 220</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">220</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Wolffensperger</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-12-02</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Hirsch Ballin</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-12-29</item>
+         <item attribuut="Beginpagina">445</item>
+         <item attribuut="Eindpagina">446</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="445" allpagenumbers="445" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1994"/>
+      <vraagdata vraagnummer="220" onderwerp="de Epese incestzaken." indiendatum="1993-12-2">
+         <vrager partij="D66" oorsprong="parlement">Wolffensperger</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1">Worden door de voorgenomen beëindiging van het politieonderzoek in de Epese incestzaken minstens vijftien verdachten van verkrachting, mishandeling en betrokkenheid bij moord op kinderen tegen wie aangifte is gedaan danwel die als verdachten uit de verklaringen van de aangeefsters naar voren komen, niet vervolgd? </vraag>
+      <vraag nummer="3"/>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+   <mededeling mededeler="Hirsch Ballin" functie="minister" afdeling="Justitie" mededelingdatum="1993-12-29">Mededeling van minister Hirsch Ballin (Justitie). (Ontvangen 29 december 1993) Met verwijzing naar uw brief van 3 december 1993, deel ik u mee dat de vragen van de leden van uw Kamer over de Epese incestzaken niet binnen de gebruikelijke termijn kan worden beantwoord, omdat ik nog niet beschik over alle benodigde inlichtingen van de procureur-generaal te Arnhem. Ik streef ernaar u voor 14 januari 1994 mijn antwoord te doen toekomen. Wat zijn de overwegingen geweest om niet tot verdere vervolging over te gaan? 3 Is genoemde beslissing onderwerp van overleg geweest in de vergadering van </mededeling>
+</kvr>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19851986:0001295</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001295&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001295</item>
+         <item attribuut="Document-id">0000114855</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1985-1986 nummer 375</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Toussaint en Wallage (P.v.d.A.) over het niet bereiken van een akkoord over de tarieven in academische ziekenhuizen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1985-1986 nummer 375</item>
+         <item attribuut="Jaargang">1985_1986</item>
+         <item attribuut="Vraagnummer">375</item>
+         <item attribuut="Indiener">
+            <persoon>Toussaint</persoon>
+            <persoon>Wallage</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1985-09-09</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Deetman</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-01-22</item>
+         <item attribuut="Beginpagina">739</item>
+         <item attribuut="Eindpagina">740</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1985-1986 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 5 - 1 9 8 6 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="375" onderwerp="het niet bereiken van een akkoord over de tarieven in academische ziekenhuizen" indiendatum="9 september 1985)">
+         <vrager partij="" oorsprong="parlement">Toussaint</vrager>
+         <vrager partij="" oorsprong="parlement">Wallage</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="22 januari 1986)">
+         <antwoorder functie="minister" ministerie="Onderwijs en Wetenschappen">Deetman</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 ">Berust het bericht op waarheid dat  de organisatie van particuliere  ziektekostenverzekeraars (KLOZ) de  officier van justitie te Utrecht heeft  laten weten, er niet in te zijn geslaagd  met de Landelijke Specialisten  Vereniging (LSV) een akkoord over  de tarieven in academische ziekenhui- zen te bereiken?  </vraag>
+      <vraag nummer="2 ">Ziet u - zo de eerste vraag bevestigend  wordt beantwoord - samenhang met  de tariefstelling van medische  specialisten buiten de academische  ziekenhuizen en, zo ja, welke?  </vraag>
+      <vraag nummer="3 ">Welke maatregelen denkt u terzake  te treffen?  Toelichting  Zie Trouw dd. 3 september jl.  Er is een samenhang in die zin dat  door zelfstandig declarerende  medische specialisten in het acade- misch ziekenhuis voor de tariefstelling  voor particuliere patiënten dezelfde  uitgangspunten worden gehanteerd  als door vrij gevestigde medische  specialisten in de overige ziekenhui- zen.  </vraag>
+      <vraag nummer="3 ">Beide ondertekenaars zijn niet  rechtstreeks bij de aangelegenheid  betrokken en het treffen van maatre- gelen is derhalve niet aan de orde.  Het is primair aan de betrokken  partijen om hierover voorstellen te  doen aan het Centraal orgaan  tarieven gezondheidszorg, conform  de in de Wet tarieven gezondheids- zorg aangegeven procedures. Wel  kan worden opgemerkt dat de  Minister van Onderwijs en Weten- schappen blijft streven naar spoedige  invoering van de definitieve fase van  de honoreringsregeling voor medi- sche specialisten in academische  ziekenhuizen, waardoor het zelfstan- dig declaratierecht komt te vervallen.  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1 ">Ja.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

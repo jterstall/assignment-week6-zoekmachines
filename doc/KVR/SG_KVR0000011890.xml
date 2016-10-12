@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001586</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001586&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001586</item>
+         <item attribuut="Document-id">0000011890</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 656</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Eisma (D66), Van Vlijmen (CDA), E. G. Terpstra (VVD), Melkert (PvdA) en Sipkes (GroenLinks) over arrestaties in Tibet.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 656</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">656</item>
+         <item attribuut="Indiener">
+            <persoon>Eisma</persoon>
+<persoon>E. G. Terpstra</persoon>
+<persoon>Melkert</persoon>
+<persoon>Sipkes</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-05-26</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Kooijmans</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-06-16</item>
+         <item attribuut="Beginpagina">1339</item>
+         <item attribuut="Eindpagina">1340</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1339" allpagenumbers="1339" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Ptantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="656" onderwerp="arrestaties in Tibet." indiendatum="1993-05-26">
+         <vrager partij="" oorsprong="parlement">Eisma</vrager>
+<vrager partij="" oorsprong="parlement">E. G. Terpstra</vrager>
+<vrager partij="" oorsprong="parlement">Melkert</vrager>
+<vrager partij="" oorsprong="parlement">Sipkes</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-06-16">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">Kooijmans</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1">Zijn er, voorafgaand aan een bezoek van EG-ambassadeurs aan Tibet, een aantal arrestaties verricht? Zo ja, hoeveel? Was ons land vertegenwoordigd in de EG-delegatie? Op welke wijze is het programma als gevolg van deze arrestaties aangepast? Kunt u de Kamer een verslag van dit bezoek doen toekomen? Hoeveel slachtoffers waren er bij protestdemonstraties in Lhasa op 24 mei jl. te betreuren? </vraag>
+      <vraag nummer="4">Op welke wijze zult u bij de Chinese autoriteiten aandringen op vrijlating van de in vraag 1 en 2 genoemde gevangenen? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja. Voor zover bekend hebben inderdaad voorafgaand aan bedoeld bezoek enkele arrestaties plaatsgevonden, waarbij het zou gaan om een tweetal personen van wie de namen bekend zijn. Een derde gearresteerde werd, naar verluidt, inmiddels in vrijheid gesteld. Hoewel er aanwijzingen zijn dat sprake is geweest van een groter aantal aanhoudingen, wordt vooralsnog niet beschikt over enigerlei nadere bijzonderheden. </antwoord>
+      <antwoord nummer="2" voetnoot="1">De Nederlandse Ambassadeur te Peking maakte deel uit van de delegatie. Een verslag van de onderhavige reis, dat in EPS-kader wordt voorbereid, wordt nog ingewacht. Na ontvangst daarvan zal ik de Kamer gaarne in het bezit stellen van dit rapport. De tekst van een op 1 juni jl. door de Twaalf uitgegeven verklaring inzake Tibet, welke reeds, als gebruikelijk, aan de Voorzitter van de vaste commissie voor Buitenlandse Zaken van de Kamer is toegegaan bij dezerzijdse brief d.d. 1 juni jl. , is volledigheidshalve nogmaals bijgevoegd. <voetnoot nummer="1"/>
+      </antwoord>
+      <antwoord nummer="3">Alhier wordt niet beschikt over informaties terzake. Uit bijgaande verklaring moge blijken dat van de kant van de Europese Gemeenschap en haar lidstaten, waaronder Nederland, bij de Chinese autoriteiten zowel is aangedrongen op opheldering inzak de arrestaties in kwestie als op onmiddellijke invrijheidstelling van de gearresteerden. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Ter inzage gelegd bij de afdeling Parlementaire Documentatie</noot>
+      </noten>
+   </antwoorden>
+</kvr>

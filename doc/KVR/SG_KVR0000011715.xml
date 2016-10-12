@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001411</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001411&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001411</item>
+         <item attribuut="Document-id">0000011715</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 481</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Kamp, Dees, Franssen en Linschoten (allen VVD) over de zogenaamde «februari-brief» van de Ziekenfondsraad inzake een financiële tegenvaller</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 481</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">481</item>
+         <item attribuut="Indiener">
+            <persoon>Kamp</persoon>
+            <persoon>Dees</persoon>
+            <persoon>Franssen</persoon>
+            <persoon>Linschoten</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-02-18</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Simons</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-04-08</item>
+         <item attribuut="Beginpagina">983</item>
+         <item attribuut="Eindpagina">984</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="983" allpagenumbers="983 984" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="481" onderwerp="de zogenaamde «februari-brief» van de Ziekenfondsraad inzake een financiële tegenvaller" indiendatum="18februari 1993">
+         <vrager partij="" oorsprong="parlement">Kamp</vrager>
+         <vrager partij="" oorsprong="parlement">Dees</vrager>
+         <vrager partij="" oorsprong="parlement">Franssen</vrager>
+         <vrager partij="" oorsprong="parlement">Linschoten</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-04-8">
+         <antwoorder functie="staatssecretaris" ministerie="Welzijn, Volksgezondheid en Cultuur">Simons</antwoorder>
+         <mede-antwoorder>de minlster en staatssecretaris van Sociale Zaken en Werkgelegenheid</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1" voetnoot="1">Kloppen de berichten <voetnoot nummer="1"/> dat de Ziekenfondsraad (ZFR) binnenkort in de zogenaamde «februari-brief» uw aandacht zal vragen voor een financiële tegenvaller van meer dan 1 miljard gulden, voor een zeer groot gedeelte ten laste komend van de AWBZ en dat de inkomensafhankelijke AWBZ-premie derhalve met 0,2% zou moeten worden verhoogd? </vraag>
+      <vraag nummer="2">Zo ja, hoe verhoudt dit zich dan met uw besluit van 17 december 1992 waarin u de AWBZ-premie voor 1993 op 7,5% vaststelde in plaats van de door de ZFR geadviseerde 7,4%, omdat er sprake zou zijn van ramingsverschillen en van een kabinetsbeleid om binnen de macrovoorwaarden inzake de koopkracht zoveel mogelijk prioriteit te geven aan behoud en versterking van werkgelegenheid? </vraag>
+      <vraag nummer="3">Vindt deze financiële tegenvaller zijn oorzaak in de forse kostenstijgingen ten gevolge van de overheveling van geneesmiddelen, kunst– en hulpmiddelen en psychiatrische hulp naar de AWBZ en het niet volledig toepassen van de inflatiecorrectie? </vraag>
+      <vraag nummer="4">Deelt u inmiddels de visie van vragenstellers dat de overheveling van voorzieningen zoals geneesmiddelen naar de AWBZ heeft geleid tot een forse aanzuigende werking? </vraag>
+      <vraag nummer="5" voetnoot="2">Bent u inmiddels tot het inzicht gekomen dat het ontbreken van eigen risico's het verzekeringseffect alleen maar vergroot? Zal in verband daarmee het gevraagde wetsvoorstel terzake binnenkort worden ingediend? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="6">Bent u alsnog bereid om, gelet op de enorme financiële gevolgen van de overheveling van geneesmiddelen naar de AWBZ, deze ongedaan te maken? </vraag>
+      <vraag nummer="7">Wanneer komt uw definitieve standpunt over eigen betalingen ten aanzien van kunst– en hulpmiddelen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1993-02-17" bron=" NRC Handelsblad van 16 februari jl. De Volkskrant, Oe Telegraaf, Algemeen Dagblad en Trouw"> NRC Handelsblad van 16 februari jl. De Volkskrant, Oe Telegraaf, Algemeen Dagblad en Trouw, 17 februari 1993</noot>
+         <noot nummer="2"> Aangenomen motie Kamp/Dees, Kamerstuk 22 808, nr 8 Herdruk</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1 en 2">De berichten stemmen in grote lijnen overeen met het advies dat ik inmiddels officieel heb ontvangen. Dit advies, met inbegrip van de daarin opgenomen notie omtrent de procentuele AWBZ-premie, is gericht op 1992en 1993. Het verschil tussen de AWBZ-premie 1993, waartoe de ZFR in september adviseerde (7,4%), en de premie voor 1993 zoals deze in december werd vastgesteld (7,5%) voert voornamelijk terug op de gehanteerde veronderstellingen inzake de ontwikkeling van het premieplichtig inkomen. De ZFR ging in september uit van het relatief optimistische beeld zoals opgenomen in de MEV van het CPB. In zijn jongste advies is de ZFR hierop teruggekomen. Ten tijde van de premievaststelling was het beeld van de premieplichtige inkomens reeds bijgesteld. </antwoord>
+      <antwoord nummer="3 en 4">Tegenvallende kostenstijgingen doen zich inderdaad voor in de genoemde sectoren, overigens daar niet alleen. Met de analyse van de oorzaken is inmiddels een begin gemaakt. Zonder al te zeer op de uitkomsten van die analyse vooruit te lopen is op onderdelen op dit moment wel een voorlopige indruk te geven. De gehele kostenontwikkeling bij de onderhavige voorzieningen kan zeker niet alleen worden toegeschreven, zelfs niet in de eerste plaats, aan factoren die verband houden met de stijging bij de zogenaamde bijlage 6 middelen (niet-geclusterd). Nadere analyse moet uitwijzen of de stijgmgen bij particulier-georiënteerde AWBZ-verzekerden sterker zijn dan bij ziekenfonds-georiënteerde verzekerden, waarbij onderzocht moet worden of dit komt door: a. de sterkere ontwikkeling die altijd al in de particuliere sector aanwezig was; b. het in de vraag bedoelde verzekeringseffect; c. een statistisch effect, inhoudende dat vroeger niet waargenomen consumptie binnen het eigen risico nu onder de AWBZ zichtbaar wordt. Het FOZ 1994 zal een dergelijke analyse bevatten. In het antwoord op de vragen 1 en 2 is aangegeven dat de Ziekenfondsraad zich in zijn oktoberraming in 1992 baseerde op het relatief gunstige beeld, zoals dat was opgenomen in de MEV. Tevens baseerde de Ziekenfondsraad zich op ramingen van de premieplichtige inkomens, waarin geen beleid voor het ramingsjaar was opgenomen. Het niet (volledig) toepassen van de inflatiecorrectie is een voorbeeld van beleid dat in werkelijkheid wel is toegepast. Andere voorbeelden zijn de verhoging van de belastingvrije som en de verhoging van het huurwaardeforfait. </antwoord>
+      <antwoord nummer="5 en 7">Zoals in de nota «Modernisering zorgsector, weloverwogen verder» is aangegeven is het kabinet voorstander van versterking van de rol van eigen betalingen onder het ten algemene geldende argument toepassing van eigen risico's door alle verzekeraars mogelijk te maken. Daarbij zij aangetekend dat in de AWBZ eerst een werkelijk tot wasdom komen van eigen risico's verwacht mag worden wanneer verdere beleidsmatige stappen zijn genomen betreffende de omvang van het AWBZ-verstrekkingenpakket, een goed werkend systeem van risicodragende budgettering van verzekeraars, en verzekeraars over instrumenten beschikken om de eigen exploitatie te beïnvloeden. Het standpunt inzake de eigen betalingen bij hulpmiddelen wordt meegenomen in een beleidsbrief over dit onderwerp, die de Kamer op korte termijn zal worden aangeboden. </antwoord>
+      <antwoord nummer="6">Neen. Zoals is aangegeven in het antwoord op de vragen 3 en 4 is het onjuist om het leeuwedeel van de financiële tegenvaller, die uit de cijfers van de Ziekenfondsraad naar voren komt, toe te schrijven aan de overheveling naar de AWBZ. Daarbij is het nog niet invoeren van eigen risico's veeleer toe te schrïjven aan de deels onvermijdelijke onvolkomenheden van het invoeringstraject dan aan principiële onjuistheid van de overheveling naar de AWBZ. De doelstellingen van de stelselwijziging worden dezerzijds nog immer onderschreven. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

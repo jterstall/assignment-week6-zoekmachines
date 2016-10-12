@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001545</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001545&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001545</item>
+         <item attribuut="Document-id">0000107320</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 513</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Wallage (P.v.d.A.) over de prijzen van CBS gegevens.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 513</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">513</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Wallage</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-02-18</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Deetman</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-03-18</item>
+         <item attribuut="Beginpagina">1019</item>
+         <item attribuut="Eindpagina">1020</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1986-1987 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="513" onderwerp="de prijzen van CBS gegevens." indiendatum="18 februari 1987)">
+         <vrager partij="PvdA" oorsprong="parlement">Wallage</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="18 maart 1987)">
+         <antwoorder functie="" ministerie="Onderwijs en Wetenschappen"/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1 ">Heeft de minister kennis genomen  van de antwoorden van de Minister  van Economische Zaken op schrifte  lijke vragen' over de prijzen van CBS  gegevens?  </vraag>
+      <vraag nummer="2 ">Deelt de minister de zorg dat  wetenschappelijk onderzoek op  terreinen waar met de beschikbare  CBS gegevens kan worden gewerkt,  w o r d t geremd of minder goed  wordt gedaan dan mogelijk zou zijn,  alleen omdat de bewuste gegevens  tegen veel hogere prijzen dan de  kosten van een kopie van de standaard  magneetband aan de universiteiten  worden doorberekend?  </vraag>
+      <vraag nummer="3 ">Is de minister bereid zich ervoor in te  zetten dat er afspraken komen tussen  het CBS en de instellingen voor  wetenschappelijk onderwijs, zodanig  dat vakgroepen tegen een voor hen  betaalbaar tarief over die gegevens  kunnen beschikken?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1 ">De bedoelde antwoorden zijn door de  M i n i s t e r v a n Economische Zaken  mede namens mij gegeven.  </antwoord>
+      <antwoord nummer="2 ">Deze zorg deel ik niet. Met verwijzing  naar de eerder gegeven antwoorden  herhaal ik dat de basisgedachte van  prijsstelling voor het ter beschikking  stellen van  m i c r o - d a t a b e s t a n d e n is  dat kosten beter zichtbaar worden.  </antwoord>
+      <antwoord nummer="3 ">Op dit moment zie ik geen aanleiding  specifieke afspraken hieromtrent  tussen het CBS en de instellingen te  bevorderen. Overigens is van de zijde  van het CBS gemeld dat er contacten  zijn tussen het CBS aan de ene kant  en representatieve vertegenwoordi- gingen van de onderzoekswereld aan  de andere kant. In die contacten  worden de consequenties van de  nieuwe situaties besproken.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="geweest?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Arib (PvdA) aan de staatssecretaris van Volksgezondheid, Welzijn en Sport over wachtlijsten voor verzorgingshuizen. (Ingezonden 29 juni 2001)</item>
+         <item attribuut="Bestand">12Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V000112950
+</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van een bericht in de Volkskrant van 19 juni 2001 dat staatssecretaris Vliegenthart (VWS) naar aanleiding van de uitkomst van het onderzoek van de Stichting Meander in Groningen met verzekeraars en andere partijen alle wachtlijsten voor verzorgingshuizen in Nederland wil laten onderzoeken.</item>
+         <item attribuut="Rubriek">Gezondheidszorg (Patiënten) Gezondheidszorg (Zorginstellingen)</item>
+         <item attribuut="Trefwoorden">Verzorgingshuizen</item>
+         <item attribuut="Vindplaats">Kamervragen 2000-2001, vraagnr. 2000112950, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2000112950</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Arib</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2001-06-29</item>
+         <item attribuut="Document-id">V000112950</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2000–2001" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 2000–2001, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2001"/>
+      <vraagdata vraagnummer="2000112950" onderwerp="" indiendatum="2001-06-29">
+         <vrager partij="PvdA" oorsprong="parlement">Arib</vrager>
+         <vraagt-aan>de staatssecretaris van Volksgezondheid, Welzijn en Sport</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Klopt de berichtgeving <voetnoot nummer="1"/>als zou u in de uitkomst van het onderzoek van de Stichting Meander in Groningen aanleiding zien om met verzekeraars en andere partijen alle wachtlijsten voor verzorgingshuizen in Nederland te gaan onderzoeken? Zo ja, wat houdt dat onderzoek in, en op welke termijn kunnen hiervan de uitkomsten worden verwacht? </vraag>
+      <vraag nummer="2">Deelt u de mening dat het Gronings onderzoek de vraag oproept of de wachtlijsten voor thuiszorg en verpleeg- en verzorgingshuizen de daadwerkelijke vraag naar zorg en de juiste urgentie weergeven? Zo ja, bent u bereid voor de gehele sector verpleging en verzorging een onderzoek te doen naar de juiste indicaties van mensen op de wachtlijsten? Zo neen, waarom niet? </vraag>
+      <vraag nummer="3">Ziet u in het onderzoek aanleiding om een methode te ontwikkelen die leidt tot een regelmatige opschoning van de wachtlijsten (administratief én inhoudelijk; d.w.z. het afchecken van eventuele wijzigingen in de zorgbehoefte t.o.v. de indicatiestelling)? Zo ja, aan welke methode denkt u hierbij? Zo neen, hoe wilt u voorkomen dat – bij gewijzigde zorgbehoefte – mensen onterecht met een bepaalde urgentie op de wachtlijst staan? </vraag>
+      <vraag nummer="4">Is het gegeven de invoering van een onafhankelijke indicatiestelling in de sector verpleging en verzorging, op dit moment nog steeds mogelijk uit voorzorg op de wachtlijst te komen? Zo neen, kunt u uitleggen waarom dat in Groningen wel het geval is </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" datum="2001-06-19" bron="De Volkskrant">De Volkskrant, 19 juni 2001</noot>
+      </noten>
+   </antwoorden>
+</kvr>

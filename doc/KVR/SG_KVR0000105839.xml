@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0000064</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0000064&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0000064</item>
+         <item attribuut="Document-id">0000105839</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Eerste Kamer 1986-1987 nummer 24</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Eerste Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de heren Waltmans (P.P.R.), Eijsink (C.D.A.) en Postma (C.D.A.) inzake een protest van de ambassadeur van België en de Nederlandse Taalunie tegen uitlatingen in het tijdschrift «Dutch Heights»</item>
+         <item attribuut="titel">Aanhangsel Eerste Kamer 1986-1987 nummer 24</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">24</item>
+         <item attribuut="Indiener">
+            <persoon>Waltmans</persoon>
+            <persoon>Eijsink</persoon>
+            <persoon>Postma</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-01-20</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Brinkman</persoon>
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">99-99-9999</item>
+         <item attribuut="Beginpagina">47</item>
+         <item attribuut="Eindpagina">48</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="1" vergaderjaar="Vergaderjaar  1 9 8 6 - 1 9 8 7 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen door de leden der Kamer gesteld overeenkomstig artikel 83 van het  antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Eerste Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="Vragen" onderwerp="" indiendatum="">
+         <vrager partij="" oorsprong="parlement">Waltmans</vrager>
+         <vrager partij="" oorsprong="parlement">Eijsink</vrager>
+         <vrager partij="" oorsprong="parlement">Postma</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder>de heer V a n den B r o e k , minister van Buitenlandse Zaken</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1 "/>
+      <vraag nummer="2 ">Acht u het protest gerechtvaardigd  in het licht van de door Nederland en  België onderschreven doelstellingen  van de Nederlandse Taalunie?  Bent u bereid officieel afstand te  nemen van genoemde uitlatingen?  </vraag>
+      <vraag nummer="4 ">Bent u bereid maatregelen te nemen  om herhaling te voorkomen?  </vraag>
+      <vraag nummer="5 ">Erkent u dat de afwijzing van een  gezamenlijk Nederlands-Vlaams  Cultureel tijdschrift door de minister  van Welzijn, Volksgezondheid en  Cultuur niet  z o n goede zaak blijkt te  zijn?  </vraag>
+      <vraag nummer="6 ">Bent u bereid wanneer u «Dutch  Heights» gaat evalueren de mogelijk- heid van een gezamenlijk Nederlands- Vlaams Culturee, tijdschrift opnieuw  in overweging te nemen?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1 ">Ja.  </antwoord>
+      <antwoord nummer="2 ">Ja.  3 en 4  In een brief dd. 12 januari jl. aan de  ambassadeur van België alhier heeft  de Staatssecretaris van Buitenlandse  Zaken medegedeeld de publikatie  van de gewraakte tekst te betreuren  en er bij de redactieraad van het  tijdschrift op te zullen aandringen dat  in het volgende nummer een uitvoerig  artikel wordt opgenomen over de  Nederlandse Taalunie, in het kader  waarvan de positie van het Nederlands  in beide landen duidelijk wordt  omschreven. Dit laatste is inmiddels  toegezegd.  Overigens reken ik, bij de vele  positieve reacties die het eerste  nummer van «Dutch Heights» heeft  gekregen, deze «slip of the pen» tot  de kinderziekten die inherent zijn aan  een nieuw tijdschrift met een in  belangrijke mate geprivatiseerde  werkstructuur.  beleid voor het buitenland is het doel  van het blad bekendheid te geven  aan de Nederlandse cultuur, die  uiteraard meer omvat dan taal en  letteren. Het behoeft geen betoog  dat aan een Vlaamse deelneming bij  de uitvoering van dit nationale beleid  met name problemen van politieke  afstemming en verantwoordelijkheid  zijn verbonden, waarvoor geen kader  aanwezig is.  Ik ben echter bereid om bij de  evaluatie van «Dutch Heights»  opnieuw de mogelijkheid te overwe- gen van een gezamenlijk Nederlands- Vlaams tijdschrift.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

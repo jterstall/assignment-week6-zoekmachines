@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0001926</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001926&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001926</item>
+         <item attribuut="Document-id">0000004437</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 712</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Dittrich (D66) over verblijfsvergunningen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 712</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">712</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Dittrich</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-07-14</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Kosto</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-08-10</item>
+         <item attribuut="Beginpagina">1443</item>
+         <item attribuut="Eindpagina">1444</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1443" allpagenumbers="1443" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="'s-Gravenhage 1994"/>
+      <vraagdata vraagnummer="712" onderwerp="verblijfsvergunningen." indiendatum="14juli 1994">
+         <vrager partij="D66" oorsprong="parlement">Dittrich</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="10 augustus 1994).">
+         <antwoorder functie="minister" ministerie="Justitie">Kosto</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1" voetnoot="1">Worden er regelmatig aan illegalen verblijfsvergunningen op humanitaire gronden verstrekt? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Zo ja, om hoeveel van deze vergunningen gaat het in 1992, 1993 en 1994? Worden de volgende criterla gehanteerd om een individuele verblijfsvergunningsaanvraag van een illegaal te beoordelen: - «wit» arbeidsverleden van meer dan 6 jaar in Nederland; - geen crimineel verleden; - niet eerder uitgezet; - band met Nederland of worden er nog andere criteria gehanteerd, die een meer algemene werking kunnen hebben? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1" voetnoot="1 1"> t/m  4 De uitgangspunten voor de beoordeling van deze zaken heb ik uiteengezet in mijn antwoord van 31 JLI|I 1992 op schriftelijke vragen van het lid van de Tweede Kamer, de heer Wolffensperger. In mijn brief van 11 januari 1993 <voetnoot nummer="1"/> over het illegalenbeleid heb ik in onderdeel 7 eveneens aandacht besteed aan dit onderwerp. Op basis van deze uitgangspunten zijn tot maart 1993 in totaal 1379 aanvragen om verblijf beoordeeld, waarvan er 679 zijn ingewilligd en 700 afgewezen. Sindsdien worden deze gevallen individueel beoordeeld op basis van de algemene toelatingsgrond «klemmende redenen van humanitaire aard» en niet meer apart in de statistieken opgenomen. <voetnoot nummer="1"/> Kamerstuk22981, nr. 1. Is hier sprake van beleid? Zo ja, waarom wordt dat niet openbaar gemaakt? </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> NRCSjuli 1994</noot>
+      </noten>
+   </antwoorden>
+</kvr>

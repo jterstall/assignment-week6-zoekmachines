@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Wijn (CDA) aan de ministers van Financiën en van Justitie over de veiligheid van elektronisch bankieren. (Ingezonden 6 september 2000); Antwoord</item>
+         <item attribuut="Bestand">15Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR12399
+</item>
+         <item attribuut="Inhoud">Betreft het programma 'Hackers' op RTL4 over telebankieren bij ABN AMRO. Deze vragen dienen ter aanvulling op eerdere vragen terzake van de leden Bakker, Giskes en Dittrich, ingezonden 6 september 2000 (Aanhangsel van de Handelingen II, 2000-2001, 60).</item>
+         <item attribuut="Rubriek">Bedrijfsleven en industrie (Bank- en verzekeringswezen) Communicatie, media en informatievoorziening (Netwerken) Criminaliteit en openbare orde (Informatiebeveiliging) Geld (Betalingsverkeer)</item>
+         <item attribuut="Trefwoorden">Bankwezen Computernetwerken Elektronisch betalingsverkeer Gegevensbeveiliging</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2000-2001, nr. 70, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2990015400</item>
+         <item attribuut="Afkomstig_van">Financiën (FIN)</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Wijn</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2000-10-05</item>
+         <item attribuut="Datum_indiening">2000-09-06</item>
+         <item attribuut="Document-id">KVR12399</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2000–2001" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="143" allpagenumbers="143 144" vetnummer="2990015400" code="" lopendefooter="Tweede Kamer, vergaderjaar 2000–2001, Aanhangsel" filenaam="KVR12399" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2000"/>
+      <vraagdata vraagnummer="70" onderwerp="" indiendatum="2000-09-6">
+         <vrager partij="CDA" oorsprong="parlement">Wijn</vrager>
+         <vraagt-aan>de ministers van Financiën en van Justitie</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2000-10-5">
+         <antwoorder functie="minister" ministerie="Financiën">Zalm</antwoorder>
+         <mede-antwoorder>de minister van Justitie</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1">Heeft u kennisgenomen van de uitzending van het programma «Hackers», d.d. 3 september op RTL4? </vraag>
+      <vraag nummer="2">Welke rol ziet u voor de overheid weggelegd in deze zaak? </vraag>
+      <vraag nummer="3">Klopt het dat dit niet het eerste incident was waarbij de veiligheid en betrouwbaarheid van het internet ter discussie stond? </vraag>
+      <vraag nummer="4">Welke incidenten zijn u bekend? </vraag>
+      <vraag nummer="5">Hoe is hierop door de overheid gereageerd? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <toelichting>Deze vragen dienen ter aanvulling op eerdere vragen terzake van de leden Bakker, Giskes en Dittrich, ingezonden 6 september 2000. </toelichting>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Het kabinet kan zich in algemene zin vinden in de opvatting dat gebruikers die handelen conform de gebruiksinstructies welke krachtens contractvoorwaarden van toepassing zijn, gevrijwaard dienen te blijven van schade die het onbedoelde gevolg is van een inbreuk op de inrichting van het betreffende product of systeem. In de concrete situatie die aan de vraag ten grondslag ligt kan geconstateerd worden dat de klanten nader zijn geïnformeerd over de elektronische inbraak, de mogelijkheden om deze te voorkomen en de mogelijkheid om de in te zenden betaalopdracht te controleren. Daarnaast heeft de ABN AMRO Bank bekengemaakt dat indien gebruikers, ondanks zorgvuldig gebruik van HomeNet en van hun computer, toch het slachtoffer zouden worden van een elektronische inbraak zoals door RTL 4 werd gedemonstreerd, de bank de eventueel daardoor ontstane schade voor zijn rekening zal nemen. De maatregelen die de ABN AMRO Bank heeft genomen sluiten daarmee goed aan op bijvoorbeeld de stellingname van de Consumentenbond, welke in meer brede zin beoogde te voorkomen dat de rekeninghouders schade zouden kunnen lopen. Voorts verwijs ik nog naar het antwoord op vraag 5 van de kamerleden Bakker, Giskes en Dittrich over de veiligheid van elektronisch bankieren. </antwoord>
+      <antwoord nummer="3 en 4">Uiteraard zijn er meerdere incidenten geweest waarbij de veiligheid en betrouwbaarheid van het internet een issue was. De media hebben hierover uitvoerig bericht. Denk bijvoorbeeld aan het ILOVEYOU-virus, de Denial of Service attacks bij CNN en Yahoo, misbruik van creditcardgegevens etcetera. Het Openbaar Ministerie (OM) heeft aangegeven dat momenteel door de overheid nog geen systematisch overzicht wordt bijgehouden van incidenten, waarbij de veiligheid en betrouwbaarheid ter discussie stond. In de registraties van opsporingsdiensten en openbaar ministerie zijn dergelijke incidenten niet als afzonderlijke categorie opgenomen. Internetfraude bijvoorbeeld is geen specifiek delict, maar een verzamelbegrip waar vele vormen van crimineel handelen kunnen worden ondergebracht. In feite gaat het om traditionele delicten in een nieuw jasje. Het onderzoek naar de kwetsbaarheid van internet (KWINT), dat momenteel door het ministerie van Verkeer en Waterstaat wordt uitgevoerd, neemt de registratie van incidenten reeds mee in het verdere onderzoek. </antwoord>
+      <antwoord nummer="5">De Stuurgroep Informatietechnologie en Criminaliteit van het Nationaal Platform Criminaliteitsbeheersing heeft verder het initiatief genomen om een Nationaal Informatiecentrum Informatiebeveiliging op te richten. De website (www.informatiebeveiliging.nl) van dit centrum geeft voorlichting en levert informatie op het gebied van informatiebeveiliging om het bewustzijn en de weerbaarheid van bedrijven, instellingen en overheid te vergroten, zodat ICT-criminaliteit en ander misbruik effectief wordt voorkomen of teruggedrongen. De site richt zich op (business)managers, informatiebeveiligingsspecialisten, ICT-professionals en andere geïnteresseerden uit bedrijfsleven en publieke sector. Daarnaast is binnen het Korps Landelijke Politiediensten een project Digitaal Rechercheren ingericht dat zich bezighoudt met surveillance op het Internet, onderzoek en ontwikkeling van methoden en technieken van digitaal rechercheonderzoek, en digitaal rechercheonderzoek zelf naar misdrijven waarbij ICT een belangrijke rol heeft gespeeld. Zie in dit verband ook het antwoord op vraag 6 van de kamerleden Bakker, Giskes en Dittrich over de veiligheid van elektronisch bankieren. Tot slot heeft de Ministerraad de minister voor GSI gevraagd om, naar aanleiding van de virusproblematiek, een notitie op te stellen waarin de aanpak van informatiebeveiliging in een breder kader wordt geplaatst teneinde de samenhang in de diverse activiteiten binnen de Rijksoverheid te bevorderen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

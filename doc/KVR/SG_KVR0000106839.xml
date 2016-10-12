@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="2">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001064</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001064&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001064</item>
+         <item attribuut="Document-id">0000106839</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 31</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Van Erp en De Grave (beiden V.V.D.) over «geld terug»-acties.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 31</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">31</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Van Erp</persoon>
+            <persoon partij="VVD">De Grave</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-09-03</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Koning</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-10-01</item>
+         <item attribuut="Beginpagina">61</item>
+         <item attribuut="Eindpagina">62</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 6 - 1 9 8 7 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="31" onderwerp="«geld terug»-acties." indiendatum="3 september 1986)">
+         <vrager partij="VVD" oorsprong="parlement">Van Erp</vrager>
+         <vrager partij="VVD" oorsprong="parlement">De Grave</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1 oktober 1986)">
+         <antwoorder functie="Staatssecretaris" ministerie="Financiën">Koning</antwoorder>
+         <mede-antwoorder>de Staatssecretaris van Economische Zaken, de heer Evenhuis</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1 ">Hebben de bewindslieden kennis  genomen van de brief van de  Consumentenbond inzake een maas  in de fiscale wetgeving wat betreft  het hand over hand toenemende  verschijnsel van zogeheten «geld  terug»-acties?  </vraag>
+      <vraag nummer="2 ">Zijn de bewindslieden bereid zo  spoedig mogelijk maatregelen te  nemen teneinde aan dit oneigenlijk  gebruik van de fiscale regelgeving  een einde te maken?  Zie Eindhovens Dagblad d.d. 29  augustus 1986.  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1 ">Ja. Het artikel in de Consumentengids  van september 1986 over geld-terug- acties betreft de regeling voor  zegelsystemen, die is opgenomen in  artikel  2 0 van het Uitvoeringsbesluit  omzetbelasting 1968. Op grond  daarvan kunnen ondernemers die  gratis zegels verstrekken die bij  inwisseling recht geven op een  bedrag aan geld, op de door hen  verschuldigde omzetbelasting in  mindering brengen de omzetbelasting  over het bedrag van de door hen  verstrekte zegels. Hierbij is niet van  belang of de zegels daadwerkelijk  worden ingewisseld. Voor bij  aankoop van goederen verstrekte  waardebonnen heeft de Hoge Raad  bij arrest van 25 september 1985,  BNB  1 9 8 5 / 3 3 4 , beslist dat die  waardebonnen een soortgelijke  functie vervullen als de in artikel  2 0  van genoemd besluit bedoelde  zegels. Hoewel het arrest is gewezen  in een zaak waarbij de fabrikant  slechts aanspraak maakte op een  vermindering over het bedrag van de  daadwerkelijk bij hem ingewisselde  waardebonnen, is gebleken dat dit  arrest thans wordt aangegrepen om  een vermindering te verkrijgen over  het bedrag van de verstrekte waarde- bonnen, ook al worden deze niet  ingewisseld. Uit de ter beschikking  staande gegevens blijkt, dat in een  aantal gevallen de belastingverminde  ring hoger is dan het bedrag dat  wordt uitbetaald op ingewisselde  waardebonnen.  </antwoord>
+      <antwoord nummer="2 ">In verband met het vorenstaande zal  worden bevorderd dat het Uitvoe- ringsbesluit omzetbelasting 1968 op  korte termijn in die zin  w o r d t gewijzigd  dat voor waardebonnen als vorenbe- doeld de vermindering slechts wordt  verleend tot het omzetbelastingbe- drag over de daadwerkelijk ingewis- selde waardebonnen. Het gaat er dus  om het «oneigenlijk» gebruik van de  fiscale wetgeving tegen te gaan,  doch niet de mogelijkheid voor het  houden van «geld-terug-acties».  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Biesheuvel en Wolters (beiden CDA) over de Maaskades. (Ingezonden 9 mei 1996); Antwoord</item>
+         <item attribuut="Bestand">14Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR3161
+</item>
+         <item attribuut="Rubriek">Verkeer, vervoer en waterstaat (Waterkeringen)</item>
+         <item attribuut="Trefwoorden">Dijken Limburg</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 1995-1996, nr. 1202, Tweede Kamer</item>
+         <item attribuut="Afkomstig_van">Verkeer en Waterstaat</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Biesheuvel</persoon>
+            <persoon partij="CDA">Wolters</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1996-05-30</item>
+         <item attribuut="Datum_indiening">1996-05-09</item>
+         <item attribuut="Document-id">KVR3161</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1995–1996" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="2443" allpagenumbers="2443" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1995–1996, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 1996"/>
+      <vraagdata vraagnummer="1202" onderwerp="" indiendatum="1996-05-9">
+         <vrager partij="CDA" oorsprong="parlement">Biesheuvel</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Wolters</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1996-05-30">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">Jorrtisma-Lebbink</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Kunt u op korte termijn de Tweede Kamer informeren over de uitkomst van het overleg, dat u op 7 mei jl. gehad heeft met een delegatie van Gedeputeerde Staten en van Limburgse Waterschappen over de kosten van de Maaskades? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Gaat een onafhankelijke derde onderzoeken waar de oorzaak ligt van het tekort bij de aanleg van de Maaskades? Betekent dit dat hierover verschil van mening blijft tussen u en de provincie Limburg? </vraag>
+      <vraag nummer="3">Komt door het aangekondigd onderzoek het tijdig gereed hebben van de kades in Limburg niet in gevaar? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1996-05-8" bron="Zie o.a. het Limburgs Dagblad">Zie o.a. het Limburgs Dagblad, 8 mei 1996</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1 en 2">Het verschil van mening tussen mij en de provincie Limburg betreft de vraag of het al dan niet redelijk is om de maximale rijksbijdrage in de goed overleg heb ik met de provincie en de betrokken waterschappen afgesproken om een onafhankelijke derde hiernaar een onderzoek uit te laten voeren. Momenteel vindt overleg plaats over de formulering van de onderzoeksvraag en over de in te schakelen onderzoekssituatie. Zodra hierover duidelijkheid is, zal ik de Tweede Kamer nader informeren. </antwoord>
+      <antwoord nummer="3">Het voornemen is om de resultaten van het onderzoek op een zodanig tijdstip beschikbaar te hebben, dat het mogelijk is verdere kades nog onder de werking van de Deltawet Grote rivieren te realiseren. Het spreekt vanzelf dat wanneer het onderzoek niet leidt tot een verhoging van de maximale rijksbijdrage, realisatie van verdere kades primair afhankelijk is van de bereidheid van de regio om ook zelf in de kadekosten bij te dragen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

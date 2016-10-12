@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="rechtelijke maatregelen te treffen?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001422</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001422&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001422</item>
+         <item attribuut="Document-id">0000027759</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 487</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Leerling (R.P.F.) over euthanasie in een Rooms-katholiek verpleeghuis.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 487</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">487</item>
+         <item attribuut="Indiener">
+            <persoon partij="RPF">Leerling</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-03-05</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Hirsch Ballin</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-04-08</item>
+         <item attribuut="Beginpagina">987</item>
+         <item attribuut="Eindpagina">988</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="987" allpagenumbers="987" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="SDU uitgeverij 's-Gravenhage 1591"/>
+      <vraagdata vraagnummer="487" onderwerp="euthanasie in een Rooms– katholiek verpleeghuis." indiendatum="1991-03-5">
+         <vrager partij="RPF" oorsprong="parlement">Leerling</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Hebt u kennis genomen van het bericht, dat het Rooms-katholiek verpleeghuis «De Vreugdehof» in Amsterdam de mogelijkheid om tot euthanasie over te gaan gaat invoeren? <voetnoot nummer="1"/>Deelt u het standpunt, dat de totstandkoming van een «meldings– procedure euthanasie» hiervan de directe aanleiding is? </vraag>
+      <vraag nummer="4"/>
+      <vraag nummer="5"/>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" datum="1991-03-1" bron=" Zie Katholiek Nieuwsblad"> Zie Katholiek Nieuwsblad, 1 maart 1991</noot>
+      </noten>
+   </antwoorden>
+   <mededeling mededeler="Hirsch Ballin" functie="minister" afdeling="Justitie" mededelingdatum="1991-04-8">Mededeling van minister Hirsch Ballin (Justitie). (Ontvangen 8 april 1991). Met verwijziging naar uw brief van 6 maart 1991, deel ik u mee dat de vragen van het lid van uw Kamer Leerling over euthanasie in een Rooms-Katholiek verpleeghuis niet binnen de gebruikelijke termijn kunnen worden beantwoord, omdat ik nog niet beschik over alle benodigde inlichtingen. Ik streef ernaar u voor 19 april 1991 mijn antwoord te doen toekomen. Acht u het gevaar van precedent– werking aanwezig? 4 Wordt met deze praktijk vooruitge– lopen op eventuele wetgeving, die de rechtsnorm van de artikelen 293 en 294 Wetboek van Strafrecht beter toepasbaar maakt? 5 Bent u bereid een onderzoek terzake in dit verpleeghuis in te stellen en zo nodig het Openbaar Ministerie opdracht te geven daartegen straf– </mededeling>
+</kvr>

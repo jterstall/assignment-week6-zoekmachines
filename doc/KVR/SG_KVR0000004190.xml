@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0001679</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001679&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001679</item>
+         <item attribuut="Document-id">0000004190</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 465</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Rempt-Halmmans de Jongh (VVD) en Groenman (D66) over het collegeprogramma van Urk.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 465</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">465</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Rempt-Halmmans de Jongh</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-04-13</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van Thijn</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-04-27</item>
+         <item attribuut="Beginpagina">943</item>
+         <item attribuut="Eindpagina">944</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="943" allpagenumbers="943" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 • 7398" uitgever="Sdu Uitgeverij Ptantijnstraat 's-Gravenhage 1994"/>
+      <vraagdata vraagnummer="465" onderwerp="het collegeprogramma van Urk." indiendatum="13april 1994">
+         <vrager partij="VVD" oorsprong="parlement">Rempt-Halmmans de Jongh</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-04-27">
+         <antwoorder functie="minister" ministerie="Binnenlandse Zaken">Van Thijn</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1" voetnoot="1">Kent u het bericht <voetnoot nummer="1"/>, als zou in het collegeprogramma van Urk het volgende zijn opgenomen: «De unieke piaats van het huwelijk is in het personeelsbeleid uitgangspunt. Alternatieve samenlevingsvormen zijn daarmee niet gelijk te stellen»? </vraag>
+      <vraag nummer="2">Indien genoemde passage tot gevolg heeft dat ongehuwd samenwonenden niet in dienst van de gemeente Urk kunnen treden of ontslagen zullen worden, deelt u dan de opvatting, dat deze passage in strijd is met artikel 1637ij lid 7 van het Burgerlijk Wetboek? Zo ja, zult u actie ondernemen om te voorkomen dat dit beleidsvoornemen waardoor betrokkenen gedwongen zouden worden naar de rechter te gaan tot daadwerkelijk beleid zal worden? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="2"/>
+         <noot nummer="1" datum="1994-04-8" bron=" Teletekst,"> Teletekst,, 8 april 1994</noot>
+         <noot nummer="2"> Zoals ook eerder staatssecretans Wallage van Onderwijs en Wetenschappen (mede namens staatssecretaris Ter Veld van Sociale Zaken en Werkgelegenheid) in antwoord op mondelinge vragen van het lid Groenman (22 oktober 1993)</noot>
+         <noot nummer="3" titel="dat het hebben van een huwelijksrelatie geen argument mag zijn voor het al of niet aangaan of beëindiging van een arbeidsovereen– komst">te kennen heeft gegeven «dat het hebben van een huwelijksrelatie geen argument mag zijn voor het al of niet aangaan of beëindiging van een arbeidsovereen– komst»</noot>
+         <noot nummer="3"> Handelingen II, 1991-1992, nr. 5</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Het bericht is mij inderdaad bekend. In de vergadering van de gemeenteraad van 12 april is het concept gemeentelijk beleidsplan 1994-1998 echter in handen gegeven van het college van BenW voor ambtelijke toetsing, opstellen prioriteiten en financiële vertaling. Tevens is besloten dat het college het plan met deelplannen in de juni-vergadering van de raad ter vaststelling aan zal bieden. </antwoord>
+      <antwoord nummer="2">Het niet indienstnemen of ontslaan van ongehuwd samenwonenden zou in strijd zijn met artikel 1 van de Grondwet en artikel 1a, lid 5 van de Wet gelijke behandeling van mannen en vrouwen c.q. artikel 1637ij, lid 7 van het Burgerlijk Wetboek. </antwoord>
+      <antwoord nummer="3">Zoals onder 1 is aangegeven is thans nog geen sprake van een beleidsvoornemen ter zake. Ik vertrouw erop dat er ook geen met Grondwet en wet strijdig gemeentelijk beleidsvoornemen tot stand zal komen. Afschrift van de onderhavige vragen en antwoorden heb ik aan het coilege van BenW van Urk gezonden. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="dam? " aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19881989:0001445</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001445&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001445</item>
+         <item attribuut="Document-id">0000091044</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1988-1989 nummer 441</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Te Veldhuis (V.V.D.) over de zeedagenregeling voor vissers.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1988-1989 nummer 441</item>
+         <item attribuut="Jaargang">1988_1989</item>
+         <item attribuut="Vraagnummer">441</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Te Veldhuis</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-01-19</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Braks</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-04-07</item>
+         <item attribuut="Beginpagina">885</item>
+         <item attribuut="Eindpagina">886</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1988-1989 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1988-1989, Aanhangsel " filenaam="" issn-nummer="ISSN 0921 7398 " uitgever="SDU uitgeverij 's-Gravenhage 1989 "/>
+      <vraagdata vraagnummer="441" onderwerp="de zeedagenregeling voor vissers." indiendatum="19 januari 1989)">
+         <vrager partij="VVD" oorsprong="parlement">Te Veldhuis</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1 ">Herinnert u zich uw afwijzende besluit  op het verzoek van de gemeente  Oostburg, van 17 april en 3 september  1987, om de zogeheten «zeedagen- regeling» voor de vissershaven in  Breskens te wijzigen c.q. te versoe- pelen in verband met de aldaar  bestaande getijde-, c.q. laagwaterpro- blematiek?  </vraag>
+      <vraag nummer="2 ">Is u bekend, dat de economische  politierechter in Middelburg twee  vissers formeel schuldig heeft  verklaard wegens overtreding van de  zeedagenregeling, maar hun geen  straf heeft opgelegd omdat zij door  de lage waterstand hun thuishaven  Breskens niet konden bereiken, en  omdat u voor vissers uit de (vergelijk- bare) getijdehaven Stellendam wél  een versoepeling van de zeedagenre- geling had toegestaan?'  Antwoord  Antwoord van minister Braks  (Landbouw en Visserij). (Ontvangen  7 april 1989)  </vraag>
+      <vraag nummer="1 ">Ja.  </vraag>
+      <vraag nummer="2 ">Ja.  </vraag>
+      <vraag nummer="3 ">Nee.  Ik wijs er daarbij op dat alle havens in  Nederland in principe getijdehavens  zijn. Immers, eb en vloed zijn geen  plaatselijk verschijnsel. Het bijzondere  van de haven in Stellendam is dat  daar voornamelijk met grotere  vissersvaartuigen wordt gehavend.  De haven is voor deze vissersvaartui- gen slechts bij hoog water bereikbaar  via een vaargeul. Bij laag water kan  in deze haven met deze vaartuigen in  het geheel niet worden aangeland.  De Breskense vloot bestaat voor het  overgrote deel uit kleinere vaartuigen  voor welke de haven zowel bij hoog  als laag water bereikbaar is.  Bent u op grond van de in vraag 2  bedoelde vonnissen alsnog bereid,  voor de getijdehaven Breskens een  vergelijkbare regeling, c.q. ontheffing  van de zeedagenregeling, te treffen  als die voor de getijdehaven Stellen- </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

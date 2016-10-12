@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="kunnen geven. " aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19841985:0001817</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19841985:0001817&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19841985:0001817</item>
+         <item attribuut="Document-id">0000123789</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1984-1985 nummer 697</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Knol (P.v.d.A.) over het niet beantwoorden van een door vragensteller eerder ingediende vraag.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1984-1985 nummer 697</item>
+         <item attribuut="Jaargang">1984_1985</item>
+         <item attribuut="Vraagnummer">697</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Knol</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1985-03-22</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1985-04-10</item>
+         <item attribuut="Beginpagina">1379</item>
+         <item attribuut="Eindpagina">1379</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1984-1985 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1984-1985, Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="697" onderwerp="het niet beantwoorden van een door vragensteller eerder ingediende vraag." indiendatum="22 maart 1985)">
+         <vrager partij="PvdA" oorsprong="parlement">Knol</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1 " voetnoot="1">Waarom hebt u vraag 2 van een  eerder door vragensteller ingediende  serie schriftelijke vragen niet beant- woord <voetnoot nummer="1"/>?  In welke verhouding staat het feit, dat  betrokkene zijn reisplannen heeft  gewijzigd en voorlopig van een  bezoek aan Nederland afziet, tot het  niet beantwoorden van eerder  genoemde vraag 2?  </vraag>
+      <vraag nummer="3 ">Bent u bereid bedoelde vraag alsnog  te beantwoorden en, zo neen, waarom  niet?  ' Zie Aanhangsel Handelingen, nr. 599.  Antwoord  Antwoord van minister Van den  Broek (Buitenlandse Zaken). (Ontvan- gen 10 april 1985)  1 t/m 3  Met mijn antwoord op de eerdere  vragen van de Heer Knol heb ik niet  anders bedoeld dan aan te geven dat  er, gezien de wijzigingen in de  plannen van Mylya Lubis, geen  aanleiding bestond voor Nederlandse  bemoeienis, als in de vragen bedoeld.  Van het door de Heer Knol in vraag 2  veronderstelde verband is dan ook  geen sprake.  698  Vragen van de leden Beckers-de  Bruijn en Lankhorst (beiden P.P.R.)  over wettelijke regelingen inzake  totaalweigeraars. (Ingezonden 7  maart 1985)  </vraag>
+      <vraag nummer="1 " voetnoot="1">Waarom heeft het door u aangekon- digde wetsvoorstel <voetnoot nummer="1"/> inzake totaal- weigeraars deze Kamer nog altijd  niet bereikt?  </vraag>
+      <vraag nummer="2 ">Kan deze Kamer de indiening nog  voor het a.s. paasreces tegemoet  zien?  ' Zie memorie van toelichting begroting  Defensie 1985 (18 600 X, nr. 2), blz. 24 en blz.  47.  Antwoord  Antwoord van minister De Ruiter  (Defensie). (Ontvangen 10 april 1985)  </vraag>
+      <vraag nummer="1 ">Naar verwachting zal ik de Kamer in  of direct na het Paasreces mijn visie  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="4">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001760</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001760&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001760</item>
+         <item attribuut="Document-id">0000020146</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 742</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Kamp (VVD) over een nieuwe brug over de Lek bij Vianen</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 742</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">742</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Kamp</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-07-14</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Maij-Weggen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-07-24</item>
+         <item attribuut="Beginpagina">1549</item>
+         <item attribuut="Eindpagina">1550</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1549" allpagenumbers="1549" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="'s Gravenhage 1992"/>
+      <vraagdata vraagnummer="742" onderwerp="een nieuwe brug over de Lek bij Vianen" indiendatum="14juli 1992">
+         <vrager partij="VVD" oorsprong="parlement">Kamp</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-07-24">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">Maij-Weggen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Is het u bekend, dat L.M.M. Oorschot uit Vibnen als civiel ingenieur aan de Technische Universiteit Delft op 25 juni 1992 met lof is afgestudeerd op het onderwerp «Een nieuwe boogbrug over de Lek bij Vianen (Rijksweg A2) op de bestaande fundering»? </vraag>
+      <vraag nummer="2">Deelt u de visie dat met dit ontwerp: - een veel minder groot beslag wordt gelegd op de uiterwaarden dan met alternatieven van Rijkswaterstaat, waaronder het bouwen van een nieuwe brug naast de bestaande brug, het geval zal zijn; - bestaande uit 2 x 3 rijstroken, vluchtstroken en 2 fietspaden, de brug voldoende capaciteit zou hebben om de verwachte toekomstige autonome groei van 30% van het autoverkeer filevrij te verwerken? </vraag>
+      <vraag nummer="3">Is het technisch mogelijk en verantwoord deze boogbrug in een fabriekshal te bouwen en als nieuwe brug in te varen waardoor de rijksweg A2 te zijner tijd maar een zeer korte tijd (een weekend) afgesloten hoeft te worden? Bent u bereid dit technische ontwerp van een kostenbatenanalyse te voorzien waarbij ook rekening wordt gehouden met de mogelijkheid om de bestaande brug ergens anders te plaatsen, zodat het als alternatief bij de besluitvorming over uw definitieve keuze een rol kan spelen? </vraag>
+      <vraag nummer="5">Zo nee, waarom? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja, bij de Bouwdienst van de Rijkswaterstaat is dit ontwerp bekend. </antwoord>
+      <antwoord nummer="2">Met het bedoelde alternatieve ontwerp wordt een minder groot beslag gelegd op de uiterwaarden dan het geval zal zijn bij de thans gekozen variant. Deze variant bestaat uit een nieuwe brug (voor het N/Z-verkeer) met behoud van de bestaande brug (voor het Z/N-verkeer). De thans gekozen variant volgt uit een projectstudie. Uit deze studie blijkt dat in 2010 een verkeersgroei wordt verwacht van 50% ten opzichte van 1986. Het voorgestelde alternatieve ontwerp biedt onvoldoende capaciteit op éèn brug om het verwachte verkeer filevrij af te wikkelen, alsmede onvoldoende ruimte om de noodzakelijke weefvakken voor de aansluiting ten noorden en ten zuiden van de brug te realiseren. </antwoord>
+      <antwoord nummer="3">Technisch is het mogelijk een brug van het onderhavige ontwerp in een fabriekshal te bouwen en in te varen. De aanbruggen zullen bij dit ontwerp ook vervangen moeten worden. In dit ontwerp is niet speciaal aandacht geschonken aan de tijd die daarmee gemoeid is. De stagnaties voor het wegverkeer zullen dan ook zeker langer zijn dan een weekend. </antwoord>
+      <antwoord nummer="4 en 5">Gelet op het antwoord op vraag 2 acht ik dit niet opportuun. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="vallen?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19941995:0000022</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000022&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000022</item>
+         <item attribuut="Document-id">0000000022</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Eerste Kamer 1994-1995 nummer 8</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Eerste Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Boorsma en Van Muijen (beiden CDA) inzake Wet Toezicht Kredietwezen.</item>
+         <item attribuut="titel">Aanhangsel Eerste Kamer 1994-1995 nummer 8</item>
+         <item attribuut="Jaargang">1994_1995</item>
+         <item attribuut="Vraagnummer">8</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Boorsma</persoon>
+            <persoon partij="CDA">Van Muijen</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-11-15</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Zalm</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-12-20</item>
+         <item attribuut="Beginpagina">15</item>
+         <item attribuut="Eindpagina">16</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Eerste Kamer der Staten-Generaal" kamer="1" vergaderjaar="Vergaderjaar 1994-1995" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen door de leden der Kamer gesteld overeenkomstig artikel schriftelijk gegeven antwoorden"/>
+      <footer firstpaginanummer="15" allpagenumbers="15" vetnummer="" code="" lopendefooter="Eerste Kamer, vergaderjaar 1994-1995, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 738x" uitgever="Sdu Uitgeverij Plantijnstraat s Gravenhage 1994"/>
+      <vraagdata vraagnummer="" onderwerp="" indiendatum="">
+         <vrager partij="CDA" oorsprong="parlement">Boorsma</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Van Muijen</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="8">Vragen van de leden Boorsma en Van Muijen (beiden CDA) inzake Wet Toezicht Kredietwezen. </vraag>
+      <vraag nummer="1">Is het U bekend dat enkele gemeentelijke kredietbanken activiteiten hebben welke overeenkomen met die van de zgn. algemene banken? Kent U het artikel van prof. Van Manen in het Financieel Dagblad van 5 oktober jl. waarin hij zijn zorg uitspreekt over uitlatingen van de betrokken staatssecretaris van Binnenlandse Zaken dat een debacle zoals bij de Groninger Kredietbank zich ook bij een andere gemeentelijke kredietbank kan voordoen? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+   <mededeling mededeler="heer Zalm, minister van Financiën." functie="de" afdeling="Ontvangen 20 december 1994" mededelingdatum="1994-12-20">Mededeling van de heer Zalm, minister van Financiën. (Ontvangen 20 december 1994) De afstemming met de diverse betrokkenen van de antwoorden op de vragen, gesteld door de leden Boorsrna en Van Muijen van de CDA-fractie die mij werden toegezonden bij brief van 22 november 1994, onder nummer 1451, vergt meer tijd dan gedacht. Het streven is er op gericht om medio januari 1995 de antwoorden naar de Eerste Kamer te verzenden. Ziet U daarin aanleiding om de Wet Toezicht Kredietwezen te wijzigen in die zin dat bedoelde gemeentelijke kredietbanken onder het toezicht van De Nederlandsche Bankte laten </mededeling>
+</kvr>

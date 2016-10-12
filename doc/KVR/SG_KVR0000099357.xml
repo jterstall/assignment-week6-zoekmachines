@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19871988:0001643</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001643&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001643</item>
+         <item attribuut="Document-id">0000099357</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1987-1988 nummer 700</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Leerling (R.P.F.) over een propagandablad voor drugsgebruik.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1987-1988 nummer 700</item>
+         <item attribuut="Jaargang">1987_1988</item>
+         <item attribuut="Vraagnummer">700</item>
+         <item attribuut="Indiener">
+            <persoon partij="RPF">Leerling</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1988-06-03</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Korthals Altes</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1988-07-04</item>
+         <item attribuut="Beginpagina">1407</item>
+         <item attribuut="Eindpagina">1408</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="" typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer,  m e t  d e daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="" filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="700" onderwerp="een propagandablad'voor drugsgebruik." indiendatum="3 juni 1988)">
+         <vrager partij="RPF" oorsprong="parlement">Leerling</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie="Justitie"/>
+         <mede-antwoorder>de staatssecretaris van Justitie</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1 ">Ontvangen gevangenisbibliotheken  het «Highest Magazine»?  </vraag>
+      <vraag nummer="2 ">A c h t u het verantwoord, gelet op het  streven naar drugsvrije gevangenis- sen, een propagandablad voor  drugsgebruik in de gevangenis toe te  laten?  </vraag>
+      <vraag nummer="3 ">Bent u bereid, dit tijdschrift voor  zover het zich in de collectie van de  gevangenisbibliotheken bevindt,  daaruit te verwijderen? Zo neen,  waarom niet?  2 en 3  In de brief van de staatssecretaris  van Justitie van 7 april 1987 (kamer- stuk 18 174, nr. 9) inzake de versla- vingsproblematiek in de inrichtingen  van het gevangeniswezen, is een  uiteenzetting gegeven over het beleid  ter zake, dat onder meer erop is  gericht het gebruik van en de handel  in verdovende middelen binnen de  penitentiaire inrichtingen terug te  dringen. Gelet op dit beleid past het  niet dat periodieken als Highest  Magazine, welke min of meer in  positieve zin schrijven over drugsge- bruik en in advertenties namen en  adressen vermelden van gelegenhe- den waar drugs kunnen  w o r d e n  verkregen, deel uitmaken van de  tijdschriftencollectie in de inrichtin- gen. De staatssecretaris van Justitie  heeft de directeuren van de peniten- tiaire inrichtingen hiervan in kennis  gesteld.  Zijn voor het beginnen van een  «coffeeshop» diploma's noch  vergunningen noodzakelijk? Zo ja,  past dit in een beleid het drugsgebruik  terug te dringen?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1 ">Het blad «Highest Magazine»  w o r d t ongevraagd en kosteloos aan  penitentiaire inrichtingen toege- zonden.  Bij de vestiging van «coffee-shops»  is het vestigings- en vergunningen- beleid van de lokale overheden van  toepassing. Het is ter beoordeling  van het openbaar ministerie in  overleg met de gemeentelijke  autoriteiten of, in geval van overtre- ding van de  w e t in genoemde  gelegenheden, justitieel dient te  worden opgetreden dan wel de  verleende vergunningen moeten  worden ingetrokken.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

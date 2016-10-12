@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19881989:0001400</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001400&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001400</item>
+         <item attribuut="Document-id">0000090999</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1988-1989 nummer 396</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Beckers-de Bruijn (P.P.R.) over de gevolgen van het verbouwen van koolzaad.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1988-1989 nummer 396</item>
+         <item attribuut="Jaargang">1988_1989</item>
+         <item attribuut="Vraagnummer">396</item>
+         <item attribuut="Indiener">
+            <persoon partij="PPR">Beckers-de Bruijn</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-02-06</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Braks</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-03-28</item>
+         <item attribuut="Beginpagina">795</item>
+         <item attribuut="Eindpagina">796</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 8 - 1 9 8 9 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 8 - 1 9 8 9 ,  A a n h a n g s e l " filenaam="" issn-nummer="ISSN 0921 7398 " uitgever="SOU uitgeverij 's Gravenhage 1989 "/>
+      <vraagdata vraagnummer="396" onderwerp="de gevolgen van het verbouwen van koolzaad." indiendatum="6 februari 1989)">
+         <vrager partij="PPR" oorsprong="parlement">Beckers-de Bruijn</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="28 maart 1989)">
+         <antwoorder functie="minister" ministerie="Landbouw en Visserij">Braks</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 ">Hebt u kennis genomen van berichten,  dat de verbouw van zogenaamde  «dubbel-nul» koolzaadrassen een  ernstige bedreiging vormt voor reeën  en hazen? </vraag>
+      <vraag nummer="1 "/>
+      <vraag nummer="2 ">Acht u deze bezorgdheid, gegrond  op ervaring en onderzoek uit Oosten- rijk en de Bondsrepubliek, terecht?  Welke gevolgen verwacht u voor  reeën, hazen en andere dieren in de  gebieden waar veel koolzaad  verbouwd wordt?  </vraag>
+      <vraag nummer="3 ">Bent u voornemens maatregelen te  nemen, opdat deze effecten voorko- men worden? Zo ja, welke? Overweegt  u daarbij ook de EG-subsidie op het  verbouwen van deze rassen ter  discussie te stellen?  </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Zie Grasduinen, januari 1989 en De Jager,  nr. 22, 1988 </noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1 ">Ja.  </antwoord>
+      <antwoord nummer="2 ">Rond 1986 verschenen in de  buitenlandse pers de eerste berichten  over sterfte onder reeën en hazen die  het gevolg zou zijn van de consumptie  van koolzaadgewassen van zoge- naamde dubbel-nulrassen. Sedert- dien heeft met name in West-Duits- land en Oostenrijk onderzoek  plaatsgevonden naar de effecten van  de consumptie van deze gewassen  door genoemde wildsoorten. Bij het  onderzochte valwild onder reeën was  niet duidelijk of en in hoeverre de  sterfte was veroorzaakt door het eten  van dubbel-nulkoolzaad. Het onder- zoek heeft wel duidelijk gemaakt, dat  het eten van dubbel-nulkoolzaad bij  hazen geen schadelijke effecten  heeft. Van sterfte onder andere  diersoorten is tot nu toe niet gebleken.  </antwoord>
+      <antwoord nummer="3 ">In het buitenland wordt het onderzoek  naar de effecten bij reewild voortge- zet. Op grond van de resultaten  daarvan zullen eventueel maatregelen  genomen worden. In dit stadium acht  ik, gelet op het in antwoord 2  gestelde, het prematuur aan het  gebruik van dubbel-nulkoolzaad  beperkingen te stellen.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

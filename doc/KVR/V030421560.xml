@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="toelichten?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Verburg en Mosterd (beiden CDA) aan de minister van Sociale Zaken en Werkgelegenheid over gemeentelijke inkomensondersteuning van AOW'ers. (Ingezonden 17 september 2004)</item>
+         <item attribuut="Bestand">15Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V030421560
+</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van een bericht van het Nibud over het feit dat AOW'ers lang niet rond kunnen komen van hun uitkering.</item>
+         <item attribuut="Rubriek">Sociale zekerheid (Ouderdomsvoorzieningen en pensioenen (AOW)) Welzijn (Ouderen)</item>
+         <item attribuut="Trefwoorden">AOW Besteedbaar inkomen</item>
+         <item attribuut="Vindplaats">Kamervragen 2003-2004, vraagnr. 2030421560, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2030421560</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Verburg</persoon>
+            <persoon partij="CDA">Mosterd</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2004-09-17</item>
+         <item attribuut="Document-id">V030421560</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2003–2004" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0304tkkvl2030421560" lopendefooter="Tweede Kamer, vergaderjaar 2003–2004, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2004"/>
+      <vraagdata vraagnummer="2030421560" onderwerp="" indiendatum="2004-09-17">
+         <vrager partij="CDA" oorsprong="parlement">Verburg</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Mosterd</vrager>
+         <vraagt-aan>de minister van Sociale Zaken en Werkgelegenheid</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1 2">Hebt u kennisgenomen van het artikel «AOW’er kan lang niet rondkomen» <voetnoot nummer="1"/>dat gebaseerd is op een Nibud-onderzoek? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="2" voetnoot="3">Herinnert u zich de beantwoording van de Kamervragen waarin u antwoordt dat de koopkracht van AOW’ers en AOW’ers met een klein pensioen in 2004 niet achteruit gaat? <voetnoot nummer="3"/>
+      </vraag>
+      <vraag nummer="3">Acht u de uitkomsten van dit Nibud-onderzoek in lijn met de beantwoording van de onder vraag 2 bedoelde Kamervragen? Kunt u dit uitleggen? </vraag>
+      <vraag nummer="4">Op welke wijze kunt u bevorderen dat gemeenten de mogelijkheden van inkomensondersteuning voor ouderen volledig benutten, inclusief belastingteruggave? </vraag>
+      <vraag nummer="5">Bent u van oordeel dat gemeenten voldoende middelen hebben om de inkomensondersteunende maatregelen voor ouderen goed uit te voeren? Kunt u dit met cijfers </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" datum="2004-09-15" bron="Stentor">Stentor, 15 september 2004</noot>
+         <noot nummer="2" datum="2004-09-10" bron="Nibud-persbericht">Nibud-persbericht, 10 september 2004</noot>
+         <noot nummer="3" documenttype="Kamervragen">Aanhangsel Handelingen, nrs. 1811 en 2216, vergaderjaar 2003–2004.</noot>
+      </noten>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Reitsma (CDA) over de elektronische handtekening bij belastingaangifte per diskette. (Ingezonden 29 juni 1998); Antwoord</item>
+         <item attribuut="Bestand">14Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR7443
+</item>
+         <item attribuut="Rubriek">Belastingen (Belastingdiensten) Belastingen (Overig)</item>
+         <item attribuut="Trefwoorden">Belastingen Legitimatie</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 1997-1998, nr. 1482, Tweede Kamer</item>
+         <item attribuut="Afkomstig_van">Financiën</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Reitsma</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1998-07-09</item>
+         <item attribuut="Datum_indiening">1998-06-29</item>
+         <item attribuut="Document-id">KVR7443</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1997–1998" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="3043" allpagenumbers="3043" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1997–1998, Aanhangsel" filenaam="KVR7443" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 1998"/>
+      <vraagdata vraagnummer="1482" onderwerp="" indiendatum="1998-06-29">
+         <vrager partij="CDA" oorsprong="parlement">Reitsma</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1998-07-9">
+         <antwoorder functie="staatssecretaris" ministerie="Financiën">Vermeend</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1">Is het waar dat bij duizenden digitale aangiften (via Internet dan wel via diskette) de fiscus de elektronische handtekening van de belastingplichtigen niet kon lezen? </vraag>
+      <vraag nummer="2">Zo ja, wanneer werd het de Belastingdienst duidelijk dat de elektronische handtekeningen onleesbaar waren? Wanneer heeft de Belastingdienst dit gemeld aan de klanten? Bent u het eens met een van uw ambtenaren dat de Belastingdienst de klanten te laat heeft gewezen op de gerezen problemen? </vraag>
+      <vraag nummer="3">Hoe konden deze problemen ontstaan? Hoe denkt u deze problemen in de toekomst te voorkomen? </vraag>
+      <vraag nummer="4">Wat zijn de consequenties indien particulieren, die hun belastingaangifte 1997 digitaal hebben gedaan, niet binnen twee weken alsnog hun «echte» en hun «elektronische» handtekening naar de fiscus opsturen? Worden deze aangiften dan vernietigd? </vraag>
+      <vraag nummer="5">Zo ja, draaien belastingplichtigen op deze wijze dan op voor de problemen van de fiscus? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Nee. </antwoord>
+      <antwoord nummer="2 t/m 4">Door de Belastingdienst zijn over het belastingjaar 1997 meer dan 1 mln elektronische aangiften ontvangen. Deze aangiften komen binnen per modem of per diskette. Er is nog geen mogelijkheid om de aangifte via Internet te doen. Al deze binnengekomen aangiften worden gccontroleerd op de aanwezigheid van een correcte (bij de Belastingdienst bekende door de belastingplichtige opgegeven) elektronische handtekening. Hiermee wordt vastgesteld dat de aangifte afkomstig is van de belastingplichtige. Indien de elektronische handtekening ontbreekt of afwijkt van de bij de Belastingdienst gedeponeerde handtekening ontvangt de belastingplichtige een brief met het verzoek alsnog de (juiste) pincode te deponeren. Dit heeft zich in circa 10% van de gevallen voorgedaan. In een aantal daarvan (minder dan 10%) is deze brief op een zodanig laat tijdstip verzonden dat de belastingplichtige niet meer tijdig kon voldoen aan het verzoek om alsnog een pincode op te geven. De oorzaak hiervan ligt in een onvoldoende sluitende bewaking van de afspraken over de verzending van deze productie. Het toezicht daarop is inmiddels aangescherpt. Nadat dit probleem op 18 juni werd gemeld is uiteraard een herstelactie gestart. Inmiddels zijn alle betrokken belastingplichtigen per brief geïnformeerd over de te late verzending van de eerdergenoemde brief. In de laatste brief is een nieuwe termijn van 2 weken gegeven voor het inzenden van de pincode. Daarmee wordt zoveel mogelijk voorkomen dat aangiften, waarbij de identiteit van de aangever niet is vast te stellen, moeten worden verwijderd en de betrokken belastingplichtigen opnieuw aangifte moeten doen. Indien de belastingplichtigen geen gebruik maken van deze mogelijkheid dan wordt de aangifte verwijderd uit het bestand omdat dan geen zekerheid bestaat over de identiteit van de inzender. </antwoord>
+      <antwoord nummer="5">Uit het voorgaande kan worden afgeleid dat door de inmiddels uitgevoerde herstelactie voorkomen is dat belastingplichtigen nadeel ondervinden. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

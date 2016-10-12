@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001274</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001274&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001274</item>
+         <item attribuut="Document-id">0000027611</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 341</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Scheltema-de Nie en Ybema (beiden D66) over het verstrekken van gegevens door Girotel.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 341</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">341</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Scheltema-de Nie</persoon>
+            <persoon partij="D66">Ybema</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-11-14</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Hirsch Baliin</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-01-28</item>
+         <item attribuut="Beginpagina">691</item>
+         <item attribuut="Eindpagina">692</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="691" allpagenumbers="691" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1991"/>
+      <vraagdata vraagnummer="341" onderwerp="het verstrekken van gegevens door Girotel." indiendatum="1990-11-14">
+         <vrager partij="D66" oorsprong="parlement">Scheltema-de Nie</vrager>
+         <vrager partij="D66" oorsprong="parlement">Ybema</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1991-01-28">
+         <antwoorder functie="minister" ministerie="Justitie">Hirsch Baliin</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="2">Hebt u kennis genomen van het feit, dat Girotel' de mogelijkheid blijkt te bieden namen en adressen van rekeninghouders op te sporen? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="2">Deelt u de mening, dat genoemde gegevensverstrekking in strijd is met de wettelijke privacybescherming, in het bijzonder met artikel 14 van de Wet Persoonsregistraties? </vraag>
+      <vraag nummer="3">Bent u bereid, de Registratiekamer hierover advies te vragen teneinde aanpassing van het Girotel-systeem te bevorderen? Bent u bereid de Registratiekamer eveneens te vragen na te gaan of de Postbank als houder van het Girotel-systeem voldaan heeft aan de wettelijke verplichtingen ingevolge de artikelen 24 en 25 van de Wet Persoonsregistraties? </vraag>
+      <vraag nummer="5">Deelt u de mening, dat thans gevreesd moet worden voor de toename van chequefraude? ' Girotel is het automatische betalings– </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="2" datum="1990-11-13" bron=" De Volkskrant"> De Volkskrant, 13 november 1990</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Girotel geeft aan de hand van het opgegeven rekeningnummer automatisch de naam en woonplaats van de rekeninghouder. Deze voorziening is bedoeld als middel tot bevordering van een correct en snel betalingsverkeer. Zoals uit de berichtgeving in de pers blijkt, is het echter mogelijk met behulp van de verstrekte gegevens uit andere infor– matiebronnen de ontbrekende adres– gegevens te achterhalen en hiervan in bepaalde gevallen misbruik te maken. De Postbank beraadt zich dan ook op maatregelen die, voor zover mogelijk, de dienstverlening ten behoeve van haar cliënten in stand laten, doch eventueel misbruik als in de pers gesignaleerd zullen voorkomen. </antwoord>
+      <antwoord nummer="2, 3 en 4">Artikel 14 van de Wet persoonsregis– traties heeft alleen betrekking op het verstrekken van bestanden met persoonsgegevens. Een dergelijke verstrekking is hier niet aan de orde. Overigens acht ik het niet mijn taak een oordeel te geven over de vraag hoe ten aanzien van persoonsregis– traties als de onderhavige toepassing wordt gegeven aan de Wet persoonsregistraties, noch om daarover het advies te vragen van de Registratiekamer. ledere belangheb– bende is bevoegd om zich terzake tot de Registratiekamer te wenden; ook kan deze besluiten om uit eigen beweging een onderzoek in te stellen. Mij is inmiddels gebleken, dat de Registratiekamer in de publi– citeit rond deze kwestie aanleiding heeft gevonden om van deze laatste bevoegdheid gebruik te maken. </antwoord>
+      <antwoord nummer="5">Indien een giropas in handen raakt van kwaadwillenden, zou kennis omtrent het woonadres van de gebruiker er toe kunnen leiden dat men ook in het bezit tracht te komen van de bijbehorende betaalkaarten, of omgekeerd, met het oogmerk om daarvan vervolgens onrechtmatig gebruik te kunnen maken. Om die reden wordt het adres tegenwoordig ook niet meer op de betaalkaarten vermeld. Ik beschik echter niet over concrete aanwijzingen dat van Girotel thans in dit opzicht misbruik wordt gemaakt. In het licht van de eerder bedoelde door de Postbank te nemen maatregelen lijkt voor de in de vraag bedoelde vrees nog minder aanleiding te bestaan. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

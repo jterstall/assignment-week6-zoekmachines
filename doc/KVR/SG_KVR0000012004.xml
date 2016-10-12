@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001700</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001700&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001700</item>
+         <item attribuut="Document-id">0000012004</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 770</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Lankhorst (GroenLinks), Laning-Boersema (CDA), Vliegenthart PvdA), Dijkstal (VVD), Versnel-Schmitz (D66) en Leerling (RPF) over ritueel misbruik van kinderen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 770</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">770</item>
+         <item attribuut="Indiener">
+            <persoon>Lankhorst</persoon>
+            <persoon>Laning-Boersema</persoon>
+            <persoon>Vliegenthart</persoon>
+            <persoon>Dijkstal</persoon>
+            <persoon>Leerling</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-06-29</item>
+         <item attribuut="Beantwoorder">
+            <persoon>D'Ancona</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-07-20</item>
+         <item attribuut="Beginpagina">1571</item>
+         <item attribuut="Eindpagina">1572</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1571" allpagenumbers="1571 1572" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="770" onderwerp="ritueel misbruik van kinderen." indiendatum="29juni 1993">
+         <vrager partij="" oorsprong="parlement">Lankhorst</vrager>
+         <vrager partij="" oorsprong="parlement">Laning-Boersema</vrager>
+         <vrager partij="" oorsprong="parlement">Vliegenthart</vrager>
+         <vrager partij="" oorsprong="parlement">Dijkstal</vrager>
+         <vrager partij="" oorsprong="parlement">Leerling</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-07-20">
+         <antwoorder functie="minister" ministerie="Welzijn, Volksgezondheid en Cultuur">D'Ancona</antwoorder>
+         <mede-antwoorder>de staatssecretaris van Justitie</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Wanneer heeft de Inspectie voor de Jeugdhulpverlening voor het eerst gerapporteerd over gevallen van ritueel misbruik van kinderen? Wanneer is het ministerie van Justitie op dit ernstige vraagstuk gestoten? </vraag>
+      <vraag nummer="2" voetnoot="1">Welke acties zijn tot nu toe ondernomen om meer inzicht in de ernst en omvang van dit fenomeen te verkrijgen? Staan er na de t v uitzending <voetnoot nummer="1"/> nieuwe acties op stapel? Zo ja, welke? </vraag>
+      <vraag nummer="3">Wat is uw mening over het door deskundigen voorgestelde landelijke meldpunt voor onderzoek en opsporing naar ritueel misbruik van kinderen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1993-06-28" bron=" Nova"> Nova, 28 juni 1993</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">De Inspectie Jeugdhulpverlening heeft in een signalement, 17 september 1992 aan de ministervan WVC en de staatssecretaris van Justitie voor het eerst gerapporteerd over door instellingen van jeugdhulpverlening gedane meldmgen van rituele mishandeling bij jeugdigen. Tot aan augustus 1992 zijn bij de inspectie signalen binnengekomen met betrekking tot 11 jeugdigen in de provincies Noord-Holland en Utrecht. Al eerder, in 1990, signaleerde een directeur van een gezmsvoogdij mstellmg bij het ministerie van Justitie dat de instelling op een geval was gestuit dat op rituele kindermishandeling zou kunnen duiden. </antwoord>
+      <antwoord nummer="2">Na het verschijnen van het signalement van de Inspectie jeugdhulpverlening is overleg gevoerd tussen het ministerie van Justitie en de Inspectie Jeugdhulpverlening en afgesproken te trachten via de eigen kanalen meer zicht op het fenomeen te krijgen. De Inspectie zou bij de instellingen voor jeugdhulpverlening in geheel Nederland inventariseren welke de aard en omvang van ritueel misbruik van jeugdigen is. Het NIZW heeft op verzoek van de VOG aangeboden om op korte termijn voor en met het betrokken veld van de jeugdhulpverlenmg een praktische handleiding te maken ten behoeve van ondersteuning in de instellingen met betrekking tot deze problematiek. Wat betreft Justitie werd bij twee politiekorpsen en bij de Centrale Recherche Informatiedienst nagegaan wat op dit vlak in het kader van opspormg bekend was. Als voorlopige conclusie leverde dit op, dat signalen over ritueel misbruik bekend waren bij een aantal korpsen, maar dat tot dan toe nog nooit harde bewijzen waren gevonden. Vervolgens zijn alle raden voor de kinderbescherming en een selectie van de gezinsvoogdij– en voogdij-instellingen benaderd met de vraag of men op het verschijnsel was gestuit. Op verzoek van het mmisterie van Justitie heeft de Inspectie Jeugdhulpverlening door haar geïnventariseerde gegevens (geanonimiseerd) verstrekt. Aangezien beide inventarisaties in begmsel geen voor politie en openbaar ministerie bruikbare informatie opleverden is naar een andere benadering gezocht om het probleem te onderzoeken. Medio juni is door de staatssecretans van Justitie besloten tot het instellen van een werkgroep met als taak het definiëren en in kaart brengen van de problematiek, het onderzoeken welke problemen zich voordoen bij aangifte van ntueel misbruik bij politie en justitie en het zonodig formuleren </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

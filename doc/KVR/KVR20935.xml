@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Koenders (PvdA) aan de ministers van Buitenlandse Zaken, van Defensie en van Binnenlandse Zaken en Koninkrijksrelaties over de informatievergaring en de beoordeling daarvan in de aanloop van de oorlog in Irak. (Ingezonden 14 juli 2004); Antwoord</item>
+         <item attribuut="Bestand">20Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR20935
+</item>
+         <item attribuut="Inhoud">Vragen over het verzamelen en interpreteren van informatie door de Australische en Amerikaanse inlichtingendiensten in de aanloop van de oorlog in Irak.</item>
+         <item attribuut="Rubriek">Criminaliteit en openbare orde (Bijzondere opsporings- en inspectiediensten) Internationale betrekkingen (Overig) Veiligheidsbeleid en defensie (Militair materieel) Veiligheidsbeleid en defensie (Oorlogen en conflicten)</item>
+         <item attribuut="Trefwoorden">Inlichtingen- en veiligheidsdiensten Irak Oorlogen Wapens</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2003-2004, nr. 2120, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2030417940</item>
+         <item attribuut="Afkomstig_van">Defensie (DEF)</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Koenders</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2004-08-23</item>
+         <item attribuut="Datum_indiening">2004-07-14</item>
+         <item attribuut="Document-id">KVR20935</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2003–2004" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="4479" allpagenumbers="4479 4480" vetnummer="2030417940" code="0304tkkvr2120" lopendefooter="Tweede Kamer, vergaderjaar 2003–2004, Aanhangsel" filenaam="KVR20935" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2004"/>
+      <vraagdata vraagnummer="2120" onderwerp="" indiendatum="2004-07-14">
+         <vrager partij="PvdA" oorsprong="parlement">Koenders</vrager>
+         <vraagt-aan>de ministers van Buitenlandse Zaken, van Defensie en van Binnenlandse Zaken en Koninkrijksrelaties</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2004-08-23">
+         <antwoorder functie="minister" ministerie="Defensie">Kamp</antwoorder>
+         <mede-antwoorder>de ministers van Buitenlandse Zaken en van Binnenlandse Zaken en Koninkrijksrelaties</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1" voetnoot="1 2">Wat is uw oordeel ten aanzien van de analyse zoals gegeven wordt in de Financial Times <voetnoot nummer="1"/>en de New York Times <voetnoot nummer="2"/>met betrekking tot de informatievergaring en beoordeling in de aanloop van de oorlog in Irak? </vraag>
+      <vraag nummer="2" voetnoot="3">Wat is uw uitgebreide oordeel ten aanzien van de in het artikel in de Financial Times genoemde Australische en de recente Amerikaanse analyse <voetnoot nummer="3"/>en wat is uw oordeel over de kwaliteit en omvang van de informatie van deze landen? </vraag>
+      <vraag nummer="3">Wat is uw oordeel over de aard van de inlichtingenvergaring in deze twee landen en tot op welke hoogte zijn de genoemde inlichtingen met Nederland gedeeld? </vraag>
+      <vraag nummer="4">In hoeverre heeft het gebruik van via de inlichtingendiensten van de Verenigde Staten, het Verenigd Koninkrijk en Australië verkregen informatie mede de basis gevormd voor uitlatingen in de Kamerdebatten over de dreiging van massavernietigingswapens door Irak in 2002 en 2003? </vraag>
+      <vraag nummer="5">Hoe verhouden deze onderzoeksuitkomsten zich met de wijze waarop Nederland met buitenlandse informatie is omgegaan en de wijze waarop de oordeelsvorming van het kabinet tot stand is gekomen? </vraag>
+      <vraag nummer="6" voetnoot="4">Hoe beoordeelt u de uitlatingen van Cees Wiebes dat «if you call sharing a one-way street, then there is sharing» <voetnoot nummer="4"/>en dat verschillende Europese regeringen hun onvrede hebben geuit over de wijze van informatie-uitwisseling met de Verenigde Staten en het Verenigd Koninkrijk, en heeft dit de Nederlandse inlichtingenverzameling en oordeelsvorming op enige wijze gehinderd? Zo neen, waarom niet? </vraag>
+      <vraag nummer="7">Bespeurt u verbeteringen in de wijze waarop de inlichtingendiensten van verschillende landen en specifiek de Europese landen onderling samenwerken? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="2004-07-7" bron="Financial Times" titel="The human factor">Financial Times, 7 juli 2004: «The human factor»</noot>
+         <noot nummer="2" datum="2004-07-6" bron="New York Times" titel="U.S. panel to assail CIA over omissions">New York Times, 6 juli 2004: «U.S. panel to assail CIA over omissions»</noot>
+         <noot nummer="3" titel="Report on the US Intelligence Community’s Prewar Inteligence Assessment on Iraq">«Report on the US Intelligence Community’s Prewar Inteligence Assessment on Iraq», www.intelligence.senate.gov</noot>
+         <noot nummer="4" datum="2004-07-7" bron="Financial Times" titel="The human factor">Financial Times, 7 juli 2004: «The human factor»</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1 t/m 3">De regering onthoudt zich van een beoordeling op grond van de genoemde krantenartikelen over de inlichtingenvergaring in de Verenigde Staten en het Verenigd Koninkrijk. Zowel de VS als het VK hebben in de aanloop naar de oorlog in Irak inlichtingenmateriaal openbaar gemaakt, waarvan de regering heeft kennisgenomen.De regering heeft ook op vertrouwelijke basis van de VS en het VK inlichtingen ontvangen. Over de aard van inlichtingen die op deze basis worden ontvangen, kan de regering evenwel geen mededelingen doen. </antwoord>
+      <antwoord nummer="4 en 5">De regering heeft zich in haar oordeelsvorming primair laten leiden door de openbare rapportages van Unmovic, Unscom en het IAEA.Voor zover inlichtingen van buitenlandse inlichtingendiensten bij de oordeelsvorming zijn betrokken, is dat alleen gebeurd nadat deze inlichtingen zijn getoetst door Nederlandse inlichtingen- en veiligheidsdiensten.Zoals u eerder is bericht, is deze toetsing over het algemeen nuancerend van aard geweest (zie TK 23 432, nr.94 en nr. 166). </antwoord>
+      <antwoord nummer="6">De regering is niet bekend met uitlatingen van Europese regeringen als zouden zij ontevreden zijn over de bereidheid van de Verenigde Staten en het Verenigd Koninkrijk om inlichtingen uit te wisselen. </antwoord>
+      <antwoord nummer="7">Ja.Sinds de terreuraanslagen op de VS van 11 september 2001 zijn verscheidene initiatieven genomen ter intensivering van de samenwerking tussen inlichtingen- en veiligheidsdiensten, zowel multilateraal als bilateraal. Ook in EU-verband is de inlichtingensamenwerking versterkt. Voorts heeft de deelneming van Nederlandse eenheden aan uiteenlopende crisisbeheersingsoperaties geleid tot verbetering van de samenwerking met inlichtingen- en veiligheidsdiensten van andere landen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19891990:0001152</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001152&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001152</item>
+         <item attribuut="Document-id">0000035559</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 230</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vraag van de leden Stoffelen en Vos (beiden P.v.d.A.) over een naar Turkije teruggekeerde politiek vluchteling.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 230</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">230</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Stoffelen</persoon>
+            <persoon partij="PvdA">Vos</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-12-07</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-12-28</item>
+         <item attribuut="Beginpagina">465</item>
+         <item attribuut="Eindpagina">466</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="465" allpagenumbers="465" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="230" onderwerp="een naar Turkije teruggekeerde politiek vluch– teling." indiendatum="1989-12-7">
+         <vrager partij="PvdA" oorsprong="parlement">Stoffelen</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Vos</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="1">
+      <vraag nummer="1">Op welke wijze verhoudt zich de zinsnede in uw brief van 24 november jl. aan de voorzitter van de vaste Commissie voor buitenlandse zaken: «Als politiek vluchteling had de heer Ulusoy op Nederlands grondgebied recht op bescherming binnen de Nederlandse rechtsorde. Nu hij - een Turks onderdaan - evenwel vrijwillig is teruggekeerd naar Turkije, zijn er geen termen meer aanwezig voor directe bemoeienis van de Nederlandse overheid», met de verplichtingen, die voortvloeien uit het lidmaatschap van zowel Turkije als Nederland van de Raad van Europa en het ondertekend en geratificeerd hebben van de Europese Conventie voor de Rechten van de Mens met bijbehorende protocollen door beide landen? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

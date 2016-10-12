@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0000944</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0000944&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0000944</item>
+         <item attribuut="Document-id">0000011248</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 12</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Van Leijenhorst en Bijleveld-Schouten (beiden CDA) over noodhulp aan Somalië.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 12</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">12</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Van Leijenhorst</persoon>
+            <persoon partij="CDA">Bijleveld-Schouten</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-09-01</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Pronk</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-09-18</item>
+         <item attribuut="Beginpagina">27</item>
+         <item attribuut="Eindpagina">28</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="27" allpagenumbers="27" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="'s Gravenhage 1992"/>
+      <vraagdata vraagnummer="" onderwerp="" indiendatum="">
+         <vrager partij="CDA" oorsprong="parlement">Van Leijenhorst</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Bijleveld-Schouten</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-09-18">
+         <antwoorder functie="minister" ministerie="Ontwikkelingssamenwerking">Pronk</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="12">Vragen vari de leden Van Leijenhorst en Bijleveld-Schouten (beiden CDA) over noodhulp aan Somalië. (Ingezonden 1 september 1992) </vraag>
+      <vraag nummer="1">Bent u er van op de hoogte, dat in het EG-budget voor Ontwikkelingssamenwerking met Afrika (Lome II en III) rond 230 miljoen gulden is gereserveerd voor project– en programmahulp voor Somalië? Heeft de EG deze gelden bevroren omdat het onmogelijk zou zijn, gezien de situatie in Somalië, op dit moment structurele hulpprojecten op te zetten? wegens het ontbreken van een wettige regering, het Lomé IV-verdrag niet heeft geratificeerd? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1 en 2">Ja. Het betreft 113 miljoen Ecu aan nog niet vastgelegde middelen uit de landenprogramma's voor Somalië van het 5e en 6e EOF (respectievelijk Lomé II en III), waarvoor o.a. in verband met de veiligheidssituatie en het ontbreken van een wettig gezag geen bestemming in de vorm van financieel/technische hulp kon worden gevonden. –opslagplaatsen. Ik heb van harte met dit voorstel ingestemd. Op 7 september jl. heeft de Raad het Commissievoorstel aangenomen. </antwoord>
+      <antwoord nummer="5">Het is verdragsrechtelijk onmogelijk om middelen uit het 7e EOF voor Somalië te bestemmen, zolang dat land de Vierde Lomé-overeenkomst niet heeft geratificeerd. Ik teken hierbij echter aan dat Somalië, naast de voor dit land resterende middelen uit het vijfde en zesde EOF, tevens in aanmerking komt voor EG-voedselhulp, die immers uit de EG-begroting wordt gefinancierd. Sinds januari 1992 heeft de EG in totaal 185.000 ton voedsel aan Somalië toegewezen. Acht u het, gezien de enorme nood in Somalië, niet zeer wrang, dat deze voor Somalië gereserveerde gelden niet voor noodhulp aldaar worden gebruikt? </antwoord>
+      <antwoord nummer="4">Bent u bereid zich in EG-verband tot het uiterste in te spannen een substantiëel deel van de gereserveerde gelden vrij te maken voor noodhulp aan Somalië? Welke aktie denkt u hiertoe te ondernemen? </antwoord>
+      <antwoord nummer="5">Bent u bereid te bewerkstelligen, dat Somalië gebruik kan maken van de noodhulpvoorziening in Lome IV, ondanks het feit dat Somalië, In januari 1992 is ^eds begonnen met herallocatie \an deze restmiddelen voor noodhulpacties. Op die manier kon, binnen de beperkte mogelijkheden die de lokale veiligheidssituatie bood, tot en met augustus 1992 voor 15 miljoen Ecu aan EG-noodhulp aan Somalië worden verstrekt. Op 3 september jl. heeft de Commissie voorgesteld om een deel van de restmiddelen tevens te gebruiken voor een bijdrage ter waarde van 20 miljoen Ecu ter financiering van een Belgisch bataljon, dat in VN-kader belast zal worden met beveiliging van voedselhulpkonvooien, van voedseldistributie en van </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

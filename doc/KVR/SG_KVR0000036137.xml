@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001730</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001730&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001730</item>
+         <item attribuut="Document-id">0000036137</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 806</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Verspaget, Van Traa (beiden P.v.d.A) en Van Es (Groen Links) over een groep statenloze zigeuners.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 806</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">806</item>
+         <item attribuut="Indiener">
+            <persoon>Verspaget</persoon>
+            <persoon>Van Traa</persoon>
+            <persoon>Van Es</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-06-07</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Hirsch Ballin</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-07-19</item>
+         <item attribuut="Beginpagina">1629</item>
+         <item attribuut="Eindpagina">1630</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1629" allpagenumbers="1629" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgevenj 's Gravenhage 1989"/>
+      <vraagdata vraagnummer="806" onderwerp="een groep statenloze zigeuners." indiendatum="1990-06-7">
+         <vrager partij="" oorsprong="parlement">Verspaget</vrager>
+         <vrager partij="" oorsprong="parlement">Van Traa</vrager>
+         <vrager partij="" oorsprong="parlement">Van Es</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-07-19">
+         <antwoorder functie="minister" ministerie="Justitie">Hirsch Ballin</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="9">
+      <vraag nummer="1">Welke afwegingen hebben een rol gespeeld bij het weigeren van de toegang tot Nederland aan een groep van ± 250 zigeuners bij Vaals?' </vraag>
+      <vraag nummer="2">Is door personen uit deze groep asiel of een visum aangevraagd voor Nederland? Hoeveel statenloze zigeuners verblijven thans naar schatting in de BRD, respectievelijk in de EG? Dienen zij, naar de meing van de regering een verblijfstitel te krijgen? </vraag>
+      <vraag nummer="4">Welke pogingen zijn door Nederland de afgelopen tien jaren in het werk gesteld teneinde deze groep een permanente verblijfstitel in een van de EG-landen te geven? </vraag>
+      <vraag nummer="5">Welke pogingen zijn door Nederland de afgelopen tien jaar in de Raad van Europa ondernomen teneinde voor deze groep een permanente verblijfstitel te bereiken? </vraag>
+      <vraag nummer="6">Erkent u, dat de specifieke positie van de zigeuners in de EG vraagt om een specifieke oplossing voor het probleem der statenloosheid, zoals het onder deze groep Europeanen voorkomt? </vraag>
+      <vraag nummer="7">Bent u bereid in de EG en in de Raad van Europa het probleem van de statenloze zigeuners in de aange– sloten landen (opnieuw) aan de orde te steilen, uitgaande van de bereidheid van de deelnemende landen naar rato van hun bevolkings– aantal een deel van de statenloze zigeuners op te nemen en van een permanente verblijfstitel te voorzien? </vraag>
+      <vraag nummer="8">Bent u bereid voor te stellen, èén en ander te concretiseren in een formeel verdrag? </vraag>
+      <vraag nummer="9">Bent u bereid bij de BRD aan te dringen op een heroverweging van het eerdere besluit de 250 zigeuners een verblijfsvergunning te weigeren? </vraag>
+      <vraag nummer="10">Bent u bereid het Hoge Commissa– riaat voor de Vluchtelingen te verzoeken, in deze kwestie te bemid– delen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1990-06-5" bron=" o.a. De Volkskrant"> o.a. De Volkskrant, 5 juni 1990</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Een vreemdeling die verzoekt Nederland te mogen inreizen, dient te voldoen aan de voorwaarden neergelegd in de artikelen 6 en 8, eerste lid, van de Vreemdelingenwet. Een van de voorwaarden voor het hebben van toegang, is dat de vreemdeling in het bezit dient te zijn van een geldig grensoverschrijdings– document. Van de onderhavige groep vreemdelingen was niemand in het bezit van een dergelijk document. Daarom kon aan geen van hen toegang tot Nederland worden verleend. </antwoord>
+      <antwoord nummer="2">Neen. </antwoord>
+      <antwoord nummer="3">Het aantal staatloze zigeuners, dat thans in de Bondsrepubüek Duitsland verblijft, wordt geschat op 8 a 10.000. Naar schatting verblijven in Nederland ongeveer 3700 zigeuners. Niet bekend is of zij allen als staatloos dienen te worden aange– merkt. Niet bekend is hoeveel staatloze zigeuners in de overige lidstaten van de EEG verblijven. De Nederlandse regering is van oordeel dat het verschijnsel van staat– loosheid zoveel mogelijk dient te worden teruggedrongen. Deze opvatting strookt met de bepalingen van het op 28 september 1954 te New York gesloten verdrag betreffende de status van staatlozen (Trb. 1955, 42 en 1957, 22) waarbij Nederland partij is. Met name is van belang artikel 31 van het verdrag dat uitzetting verbiedt van staatlozen die rechtmatig verblijven op het grond– gebied van een der partijen. Ook de Bondsrepubliek Duitsland is partij bij dit verdrag. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

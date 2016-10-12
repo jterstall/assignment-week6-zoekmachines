@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="2">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19851986:0001875</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001875&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001875</item>
+         <item attribuut="Document-id">0000115435</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1985-1986 nummer 954</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Konings en Rienks (beiden P.v.d.A.) over de toelatingseisen voor het HBO.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1985-1986 nummer 954</item>
+         <item attribuut="Jaargang">1985_1986</item>
+         <item attribuut="Vraagnummer">954</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Konings</persoon>
+            <persoon partij="PvdA">Rienks</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-01-28</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Ginjaar-Maas</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-08-11</item>
+         <item attribuut="Beginpagina">1899</item>
+         <item attribuut="Eindpagina">1900</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1985-1986 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 5 - 1 9 8 6 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="954" onderwerp="de toelatingseisen voor het HBO." indiendatum="28 januari 1986)">
+         <vrager partij="PvdA" oorsprong="parlement">Konings</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Rienks</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="11 augustus 1986)">
+         <antwoorder functie="staatssecretaris" ministerie="Onderwijs en Wetenschappen">Ginjaar-Maas</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1 ">Kunt u bevestigen, dat een HAVO-di- ploma en een VHBO-diploma met  gelijk vakkenpakket dezelfde toela- tingsrechten geven tot het HBO?  </vraag>
+      <vraag nummer="2 ">Bent u bereid, dit nog eens onder de  aandacht te brengen van de voorlich- tingsbureaus van de Koninklijke  Landmacht, waar men VHBO-abitu- riënten als niet toelaatbaar tot  HBO-opleidingen kwalificeert, zulks  in tegenstelling tot HAVO-abituriën- ten met hetzelfde pakket?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1 ">Als een van de vooropleidingseisen  tot het hoger beroepsonderwijs is in  artikel 24, eerste lid onder b van de  Wet op het hoger beroepsonderwijs  opgenomen het diploma Middelbaar  Beroepsonderwijs, driejarige cursus.  Hieronder is dus ook het VHBO-diplo- ma begrepen.  De bezitter van het diploma VHBO  heeft derhalve dezelfde toelaatbaar- heidsmogelijkheden tot de opleidin- vooralsnog het met uitzondering van  de opleidingen in het hoger econo- misch onderwijs (heo). Dit in verband  met het feit, dat in het vakkenpakket  van de VHBO geen economisch-ad- ministratieve vakken zijn opgenomen.  Dit is wel het geval met ingang van  het schooljaar 1985-1986. Een VHBO- diploma kan ook overigens niet  hetzelfde vakkenpakket bevatten als  een havo-diploma, omdat het  vakkenpakket van de VHBO altijd één  beroepsgericht vak bevat.  </antwoord>
+      <antwoord nummer="2 ">Ik ga ervan uit dat de vraagstellers in  deze vraag de opleiding voor officier  (van speciale diensten) bij de  krijgsmacht bedoelen.  Naar aanleiding van een aangemeld  geval is namens mij contact opgeno- men met het voorlichtingsbureau van  de Koninklijke Landmacht te Rotter- dam en met het hoofd van de  afdeling Personeelszaken van het  Ministerie van Defensie, waarbij de  gelijkwaardigheid van het VHBO-di- ploma onder de aandacht werd  gebracht. Dat laatste is geschied bij  brief van 7 augustus 1984, kenmerk  VO/LMB/MBO/2A-489385.  Inmiddels heeft terzake op initiatief  van het Ministerie van Defensie  overleg plaatsgevonden tussen  ambtenaren van de desbetreffende  onderwijsafdeling van mijn ministerie  en van de afdeling opleidingen van  het Ministerie van Defensie. Bij het  Ministerie van Defensie wordt op dit  moment onderzocht tot welke  personele categorieën VHBO-gedi- plomeerden kunnen worden toegela- ten.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

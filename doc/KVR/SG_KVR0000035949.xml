@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="4">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001542</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001542&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001542</item>
+         <item attribuut="Document-id">0000035949</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 619</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Willems (Groen Links) over subsidiëring van oud-papier-inzamelacties.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 619</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">619</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Willems</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-04-19</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Alders</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-05-10</item>
+         <item attribuut="Beginpagina">1245</item>
+         <item attribuut="Eindpagina">1246</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1245" allpagenumbers="1245" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgeverij 's Grawenhage 1990"/>
+      <vraagdata vraagnummer="619" onderwerp="subsidiëring van oud-papier-inzamelacties." indiendatum="1990-04-19">
+         <vrager partij="Groen Links" oorsprong="parlement">Willems</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-05-10">
+         <antwoorder functie="minister" ministerie="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer">Alders</antwoorder>
+         <mede-antwoorder>de staatssecretaris van Binnenlandse Zaken</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Hebt u kennis genomen van het advies van de VNG aan haar leden, de subsidiëring van oud-papier– inzamelakties stop te zetten? </vraag>
+      <vraag nummer="2">Vindt u dit advies, gelet op de kostenstijging, die het gevolg zal zijn van een grotere hoeveelheid op te halen en te verwerken papierafval, in het belang van een goed gemeen– telijk financieel beleid? </vraag>
+      <vraag nummer="3">Vindt u een dergelijk advies in overeenstemming met het door u nagestreefde optimale preventie– en hergebruikbeleid? </vraag>
+      <vraag nummer="4">Bent u bereid, gezien de hierboven genoemde bezwaren, bij de VNG aan te dringen op intrekking van dit advies? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Neen. Door een groot aantal gemeenten wordt het systeem van de bodem– prijsgarantie gehanteerd. Dit systeem houdt in dat gemeenten inzamelende verenigingen, etc. de garantie geven dat wanneer de prijs van oud papier beneden een bepaald vastgesteld garantiebedrag komt, de gemeente het verschil tussen oudpa– pierprijs en bodemgarantie bijpast. Het gaat in dit systeem niet om een structurele vorm van subsidie, maar om een tijdelijke milieupremie die bij lage prijzen de inzamelstructuur moet waarborgen. Uit een enquête van de Vereniging van Nederlandse Papier– en Kartonfabrieken is gebleken, dat in 1989 ruim 75% van de gemeenten in ons land dit systeem toepasten. In 1988 hebben 217 gemeenten, die daarover in het kader van genoemde enquête gegevens verstrekten, in totaal ruim 3 miljoen gulden aan premies betaald, dit is gemiddeld f 31 per 1000 kilo. De stortkosten in die gemeenten bedroegen gemiddeld ca. f 95 per 1000 kilo en de verbran– dingskosten f 131. </antwoord>
+      <antwoord nummer="3">Neen. De inzameling en verwerking van oud papier heeft van oudsher aan het hergebruik bijgedragen. In 1986 werd 55% van het ingezamelde papier hergebruikt. Dit percentage is nog steeds stijgende. Het bij de beantwoording van vraag 2 beschreven systeem heeft aan dit hoge hergebruik bijgedragen. </antwoord>
+      <antwoord nummer="4">Ja. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="produceren?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Kortenhorst (CDA) en Bakker (D66) aan de minister van Defensie over Apaches. (Ingezonden 16 februari 2005)</item>
+         <item attribuut="Bestand">16Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V040508590
+</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van een ANP-bericht van 11 februari 2005 over de inzet van de Apache-eenheid in Irak en Afghanistan in relatie tot de voorgenomen reductie van het aantal Apaches.</item>
+         <item attribuut="Rubriek">Veiligheidsbeleid en defensie (Militair materieel) Veiligheidsbeleid en defensie (NAVO) Verkeer, vervoer en waterstaat (Luchtvaart)</item>
+         <item attribuut="Trefwoorden">Afghanistan Irak Militaire vliegtuigen NAVO</item>
+         <item attribuut="Vindplaats">Kamervragen 2004-2005, vraagnr. 2040508590, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2040508590</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Kortenhorst</persoon>
+            <persoon partij="D66">Bakker</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2005-02-16</item>
+         <item attribuut="Document-id">V040508590</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2004–2005" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0405tkkvl2040508590" lopendefooter="Tweede Kamer, vergaderjaar 2004–2005, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2005"/>
+      <vraagdata vraagnummer="2040508590" onderwerp="" indiendatum="2005-02-16">
+         <vrager partij="CDA" oorsprong="parlement">Kortenhorst</vrager>
+         <vrager partij="D66" oorsprong="parlement">Bakker</vrager>
+         <vraagt-aan>de minister van Defensie</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1" voetnoot="1">Deelt u de opvatting dat «de uiterste inspanning die de Apache-eenheid in twee gelijktijdige operaties in Afghanistan en Irak heeft moeten leveren» <voetnoot nummer="1"/>in belangrijke mate heeft bijgedragen aan het succes van deze operaties? </vraag>
+      <vraag nummer="2">Wat kan over het belang van de taken van de Apache-eenheid in Irak afgeleid worden uit het besluit tot verlenging met een maand van de inzet van de Apaches, ondanks eerdere berichten dat verlenging niet mogelijk was omdat de eenheid tot het uiterste was ingezet? </vraag>
+      <vraag nummer="3">Op welke wijze voorziet ISAF in de vervanging van de Nederlandse Apaches in Afghanistan na eind maart 2005? Is de behoefte die de NAVO inmiddels geformuleerd heeft aan F-16’s beïnvloed door een gebrek aan gevechtshelikopters? Kunnen F-16’s de taken van de Apaches ten behoeve van ISAF volledig overnemen? </vraag>
+      <vraag nummer="4">Indien voor een bijdrage in Afghanistan zowel Apaches als F-16’s beschikbaar zouden zijn voor het op zich kennen van beveiligings-, ondersteunings- en waarnemingstaken vanuit de lucht, welk systeem zou dan verkozen worden? Wat zijn de operationele sterktes en zwaktes van de beide systemen in vergelijking met elkaar? </vraag>
+      <vraag nummer="5">In hoeverre is bij het thans beoogde aantal van 24 Apaches rekening gehouden met vredes- en gevechtsverliezen? Acht u de kans daarop groter, gezien de toegenomen inzet van de Apaches? </vraag>
+      <vraag nummer="6" voetnoot="2">In hoeverre is de toegenomen inzet van Nederlandse missies in crisisgebieden voor waarnemings- en vooral beveiligingstaken te beschouwen als een additionele taak ten opzichte van de eigenlijke taken in het kader van luchtmobiel optreden waar destijds 30Apaches voor werden gekocht? Is het zo dat ten tijde van de discussies over de aanschaf het aantal van 30 helikopters als laag werd beoordeeld? Onderschrijft u <voetnoot nummer="2"/>nog steeds de stelling dat een voorgenomen reductie van 20% van het aantal Apaches geen gevolgen zal hebben voor de inzetbaarheid van de krijgsmacht? Hoe verhoudt zich dat bovendien tot uw uitspraak, gedaan tijdens de laatste begrotingsbehandeling, dat met deze reductie het aantal gelijktijdig uit te voeren Apache-operaties van twee naar één afneemt? </vraag>
+      <vraag nummer="7">Bent u, mede gezien de dollarkoers, nog optimistisch over de beoogde verkoopopbrengsten van de vijf Apaches aan de VS? In hoeverre verwacht u dat de VS slechts geringe belangstelling voor Nederlandse tweedehands helikopters zullen hebben, omdat dit wellicht zal betekenen dat de industrie in de VS dan minder nieuwe helikopters zal </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" datum="2005-02-11" bron="ANP-bericht">ANP-bericht, 11 februari 2005</noot>
+         <noot nummer="2" documenttype="Kamerstuk" kamerstuk-id="27 925" documentnummer="155">Kamerstuk 27 925, nr. 155, brief van de ministers van Buitenlandse Zaken, van Defensie en voor Ontwikkelingssamenwerking, dd 23 december 2004</noot>
+      </noten>
+   </antwoorden>
+</kvr>

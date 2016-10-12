@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001602</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001602&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001602</item>
+         <item attribuut="Document-id">0000019988</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 584</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Van der Vlies en Van Dis (SGP) over een onderlinge ruzie tussen de ministers van Buitenlandse Zaken en voor Ontwikkelingssamenwerking.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 584</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">584</item>
+         <item attribuut="Indiener">
+            <persoon>Van der Vlies</persoon>
+            <persoon>Van Dis</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-05-06</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Lubbers</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-05-13</item>
+         <item attribuut="Beginpagina">1229</item>
+         <item attribuut="Eindpagina">1230</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1229" allpagenumbers="1229" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's-Gravenhage 1992"/>
+      <vraagdata vraagnummer="584" onderwerp="een onderlinge ruzie tussen de ministers van Bu/tenlandse Zaken en voor On twikkelingssamen werking." indiendatum="1992-05-6">
+         <vrager partij="" oorsprong="parlement">Van der Vlies</vrager>
+         <vrager partij="" oorsprong="parlement">Van Dis</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-05-13">
+         <antwoorder functie="minister-president" ministerie="Algemene Zaken">Lubbers</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Hebt u kennis genomen van de uitlatingen van de minister van Buitenlandse Zaken over de positie van de minister voor Ontwikkelingssamenwerking en diens begroting?' </vraag>
+      <vraag nummer="2" voetnoot="2">Hebt u voorts kennis genomen van de reactie hierop van de minister voor Ontwikkelingssamenwerking die het optreden van zijn collega betitelde als «not done»? <voetnoot nummer="2"/>Acht u het «done» dat de genoemde bewindslieden hun controverses en meningsverschillen in het openbaar tot uitdrukking brengen? </vraag>
+      <vraag nummer="4">Erkent u, dat u als voorzitter van de raad van ministers op het punt van de bevordering van de eenheid van het beleid een bijzondere verantwoordelijkheid hebt? </vraag>
+      <vraag nummer="5">Erkent u, dat de handelswijze van de twee genoemde bewindslieden de geloofwaardigheid van het kabinet schade heeft berokkend, en het kabinet daarmee opnieuw in diskrediet is gebracht? Bent u bereid beide bewindslieden mede daarom tot de orde te roepen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1992-04-8" bron=" Handelingen Eerste Kamer der Staten-Generaal dd."> Handelingen Eerste Kamer der Staten-Generaal dd., 8 april 1992</noot>
+         <noot nummer="2" datum="1992-05-4" bron=" Zie o.a. Volkskrant dd"> Zie o.a. Volkskrant dd, 4 mei 1992</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Ja. 3/4/5/6. Ik heb de beide ministers verzocht in hun publieke uitlatingen de eenheid van algemeen regeringsbeleid te respecteren. Ten aanzien van een eventuele herverkaveling van ministeriële resp. departementale verantwoordelijkheden is afgesproken deze op de agenda te zetten van de vraagstukken die in het verlengde van de zogenaamde Commissie-Deetman tot bestuurlijke vernieuwing zullen leiden. In het kader van de beantwoording wordt tevens verwezen naar de beantwoording van de vragen van Weisglas en Terpstra door de ministers Van den Broek en Pronk. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

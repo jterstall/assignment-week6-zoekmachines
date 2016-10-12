@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001739</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001739&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001739</item>
+         <item attribuut="Document-id">0000028076</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 803</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Te Veldhuis (VVD) over het schoonmaken van vervuilde gronden.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 803</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">803</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Te Veldhuis</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-07-16</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Alders</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-08-16</item>
+         <item attribuut="Beginpagina">1637</item>
+         <item attribuut="Eindpagina">1638</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1637" allpagenumbers="1637 1638" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="'s Gravenhage 1991"/>
+      <vraagdata vraagnummer="803" onderwerp="het schoonmaken van vervuilde gronden." indiendatum="16 juli 1991).">
+         <vrager partij="VVD" oorsprong="parlement">Te Veldhuis</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1991-08-16">
+         <antwoorder functie="minister" ministerie="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer">Alders</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1">Hebt u kennis genomen van het bericht «Gedwongen import vuile grond»? </vraag>
+      <vraag nummer="2">Is het waar dat «ter nauwer nood 10% van het totale bodemsanerings– budget van  f 2 7 0 miljoen in 1991 wordt besteed voor het daadwer– kelijk schoonmaken van vervuilde grond»; dat «30 miljoen gulden naar ambtelijke begeleiding gaat»; en dat «de rest wordt besteed aan laborato– riumonderzoek, het slaan van damwandjes, het afdekken van vuile grond met folie, en aan het transport van de vuile grond naar een opslag– plaats, waar het onbewerkt blijft iiggen»? </vraag>
+      <vraag nummer="3" voetnoot="2">Zo ja, hoe zijn die gegevens en getallen dan te rijmen met uw stellige mededeling <voetnoot nummer="2"/> dat al meer dan 50% van het beschikbare saneringsveld wordt besteed aan daadwerkelijke schoonmaak van vuile grond? </vraag>
+      <vraag nummer="4">Kunt u een overzicht verschaffen van de concrete bestedingen van de bodemsaneringsbudgetten in de jaren 1989/1990, verdeeld over de in vraag 2 aangegeven categorieën. en mutatis mutandis, ook met betrekking tot de geraamde uitgaven in 1991? </vraag>
+      <vraag nummer="5">Wat vindt u van de bewering in het artikel, dat «het een zotte situatie is dat de som van de salarissen van ambtenaren, die zich met vuile grond bezighouden, het bedrag overstijgt dat rechtstreeks wordt besteed aan reiniging van grond»? </vraag>
+      <vraag nummer="6">Vindt u het bevredigend, dat «12 grote Nederlandse grondreinigings– bedrijven de afgelopen 3 jaren circa 400000 ton vuile grond hebben geïmporteerd uit het buitenland om in Nederland schoon te maken, omdat de Nederlandse overheid te weinig grond ter reiniging aanbiedt», teneinde aldus hun «omvangrijke» investeringen in apparatuur draaiende te houden»? </vraag>
+      <vraag nummer="7">Lijkt het u niet verstandig om opnieuw en serieus met de Neder– landse Vereniging van Procesmatige Grondreinigingsbedrijven en met de andere overheden (IPO en VNG) te overleggen hoe tot een fundamen– telere aanpak van de daadwerkelijke schoonmaak van vuile grond kan worden gekomen, daarbij mede gelet op de wenselijkheid en de noodzaak om in Nederland voldoende kennis en omvang van reinigingstechnieken te behouden en verder te ontwik– kelen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1991-06-26" bron=" Het Parool"> Het Parool, 26 juni 1991</noot>
+         <noot nummer="2"> UCV Handelingen nr. 14, Vergaderjaar 1990-1991</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja. 2/4/5 Ten behoeve van de uitvoering van de Interimwet bodemsanering is in 1991 in totaal f226,2 miljoen aan rijksmiddelen beschikbaar. In 1989 en 1990 bedroeg de rijksbijdrage respectievelijk f 214,0 en f 196,1 miljoen. Deze bedragen zijn exclusief de verplichte gemeentelijke bijdrage (drempelbedrag + 10%vande totale kosten per geval van bodem– verontreiniging) en de apparaatskos– tenvergoeding die aan de provincies ter beschikking wordt gesteld ten behoeve van de voorbereiding en uitvoering van het bodemsanerings– programma. Het totaal van de door gemeenten te verstrekken bijdragen kan, overeenkomstig het kabinets– standpunt inzake het Tien jaren– scenario bodemsanering en bedrijfs– terreinen' jaarlijks worden geraamd op ca. f 50 miljoen; de apparaatskos– tenvergoedmg bedraagt jaarlijks ca. f 10,5 miljoen. Volgens opgave van kosten per project. De overige gelden worden besteed aan de noodzakelijke voorbereiding (onderzoek) en de uitvoering van de sanering van ernstige gevallen van bodemverontreiniging, zoals omschreven in de Leidraad bodem– bescherming. </antwoord>
+      <antwoord nummer="3" voetnoot="3">Van de door de heer Te Veldhuis gesuggereerde stellige mededeling mijnerzijds is geen sprake geweest. Tijdens de UCV van 19 november 1990 over onder andere de sanering van waterbodems <voetnoot nummer="3"/> heeft de heer Te Veldhuis aangegeven dat het streven van de WD erop is gericht dat 50% van de bij bodemsanering vrijko– mende grond wordt gereinigd, mede in verband met de noodzakelijk geachte ontwikkeling van nieuwe reinigingstechnieken, en de daartoe benodigde investeringen. In mijn reactie op deze en andere kanttekeningen van de leden der Tweede Kamer heb ik er op gewezen dat het aanbod van te reinigen grond en baggerspecie veel groter is dan hetgeen in het kader van de bodem– saneringsoperatie door de overheid wordt aangeboden Ik heb daarbij met betrekking tot verontreinigde waterbodems gewezen op de in het kader van onderhoudswerkzaam– heden vrijkomende verontreinigde baggerspecie. Deze hoeveelheden bieden belangrijke marktperspec– tieven voor de grondreiniging. 6/7 Mede gelet op mijn antwoord op vraag 3 ben ik van mening dat het aanbod van verontreinigde grond veel groter is dan de hoeveelheid die de Nederlandse overheid ter toepassing van de Afvalstoffenwet, grondreiniging en toepassing of hergebruik van gereinigde grond kan worden bevorderd. De provincie is in dezen het bevoegd gezag. !k heb de NVPG geadviseerd met het SCG hierover in overleg te treden. In het bestuur van het SCG zijn vertegen– woordigers van zowel de provincie als mijn ministerie vertegen– woordigd. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="2"> In dit bedrag zijn toezeggingen in het kader van de projectfinanciering opgenomen voor de periode tot 1 -6-91. Het vermelde bedrag is derhalve een minimum– bedrag</noot>
+         <noot nummer="3"> UCV, vergaderjaar 1990-1991, Hande– lingen nr. 14</noot>
+      </noten>
+   </antwoorden>
+</kvr>

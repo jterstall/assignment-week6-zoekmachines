@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001562</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001562&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001562</item>
+         <item attribuut="Document-id">0000027899</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 626</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Willems (Groen Links) over een Kwik bevattend artikel ter voorkoming van een tennisarm.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 626</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">626</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Willems</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-05-28</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Alders</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-06-07</item>
+         <item attribuut="Beginpagina">1277</item>
+         <item attribuut="Eindpagina">1278</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1277" allpagenumbers="1277" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="SDU uitgeverij 's-Gravenhage 1991"/>
+      <vraagdata vraagnummer="626" onderwerp="een Kwik bevattend artikel ter voorkoming van een tennisarm." indiendatum="1991-05-28">
+         <vrager partij="Groen Links" oorsprong="parlement">Willems</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1991-06-7">
+         <antwoorder functie="minister" ministerie="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer">Alders</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Is het u bekend, dat een artikel op de markt is gebracht gericht op de voorkoming van een tennisarm, dat 30 gram Kwik bevat? </vraag>
+      <vraag nummer="2">Deelt u de mening, dat het risico bestaat dat dit kwik op enig moment in het milieu terechtkomt, en dat op deze wijze het beleid gericht op terugdringing van het gebruik en het in het milieu komen van kwik teniet– gedaan kan worden? </vraag>
+      <vraag nummer="3">Bent u bereid gebruik te maken van uw bevoegdheid op grond van de Wet rmlieugevaarlijke stoffen of de Afvalstoffenwet om de invoer en verkoop van het betreffende artikel (middels een spoedprocedure) te verbieden?' dat het kwik in het milieu terechtkomt? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1991-04-25" bron=" o.a. bepleit door de Vereniging Milieude fensie in een brief aan de minister van Volksgezondheid. Ruimtelijke Ordening en Milieubeheer"> o.a. bepleit door de Vereniging Milieude fensie in een brief aan de minister van Volksgezondheid. Ruimtelijke Ordening en Milieubeheer, 25 april 1991</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1" voetnoot="1"> tot  en  met  5 Ja. Voor meer informatie over mijn beleid inzake kwikhoudende schok– absorberende armbanden verwijs ik kortheidshalve naar de inhoud van mijn brief van 31 mei 1991 aan de Vereniging Milieudefensie terzake, waarvan u afschrift hebt ontvangen.' <voetnoot nummer="1"/> Ter inzage gelegd op de bibliotheek. Zult u een dergelijk verbod ook in de EG bepleiten? </antwoord>
+      <antwoord nummer="5">Bent u bereid er bij de importeur op aan te dringen om reeds verkochte exemplaren terug te nemen, of andere maatregelen te nemen opdat zo veel mogelijk voorkomen wordt </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

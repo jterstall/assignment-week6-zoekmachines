@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001038</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001038&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001038</item>
+         <item attribuut="Document-id">0000019424</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 27</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Linschoten (VVD) over de besluitvorming rond ziekteverzuim en arbeidsongeschiktheid.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 27</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">27</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Linschoten</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-08-13</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Lubbers</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-09-26</item>
+         <item attribuut="Beginpagina">55</item>
+         <item attribuut="Eindpagina">56</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992 Aanhangsel van de Handelingen" typehandeling="Vergaderjaar 1991-1992 Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Gravenhagei99i Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel 55" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverii Plantiinstraat _ .. »*»„.•  _ ^ , ^ „ Gravenhagei99i Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel 55"/>
+      <vraagdata vraagnummer="27" onderwerp="de besluitvorming rond ziekteverzuim en arbeidsonge– schiktheid." indiendatum="1991-08-13">
+         <vrager partij="VVD" oorsprong="parlement">Linschoten</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="26 september 1991) 1,2 Het antwoord op deze vragen was vervat in de brief aan de Tweede Kamer van de minister en de staats– secretaris van Sociale Zaken en Werkgelegenheid van 27 augustus j.l.">
+         <antwoorder functie="minister-president" ministerie="Algemene Zaken">Lubbers</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1">Kunnen de minister-president en de minister van Financiën aangeven wat er nog overeind staat van de besluit– vorming van het kabinet van 13 tot 14 juli jl. rond ziekteverzuim en arbeidsongeschiktheid, nu de minister van Financiën, met klaarblij– kelijke instemming van de minister-president, heeft aange– kondigd het kabinetsberaad dienaan– gaande te zullen heropenen? </vraag>
+      <vraag nummer="2">Kunnen de bewindslieden de in vraag 1 gewenste informatie per ommegaande aan deze Kamer mededelen? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="2"/>
+      </noten>
+   </antwoorden>
+</kvr>

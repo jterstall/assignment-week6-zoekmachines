@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="beantwoording zorg dragen." aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0001770</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001770&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001770</item>
+         <item attribuut="Document-id">0000004281</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 556</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Schutte (GPV) over een convenant tussen de gemeente Tilburg en zestien coffeeshops inzake de verkoop van soft-drugs.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 556</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">556</item>
+         <item attribuut="Indiener">
+            <persoon partij="GPV">Schutte</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-05-19</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Kosto</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-06-13</item>
+         <item attribuut="Beginpagina">1129</item>
+         <item attribuut="Eindpagina">1130</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1129" allpagenumbers="1129" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's-Gravenhage 1994"/>
+      <vraagdata vraagnummer="556" onderwerp="een convenant tussen de gemeente Tilburg en zestien coffeeshops inzake de verkoop van soft-drugs." indiendatum="1994-05-19">
+         <vrager partij="GPV" oorsprong="parlement">Schutte</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Heeft de gemeente Tilburg een convenant gesloten met zestien coffeeshops, waarbij de verkoop van soft-drugs onder voorwaarden wordt toegestaan? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Is een dergelijk convenant verbindend nu de Opiumwet de handel in soft-drugs verbiedt? </vraag>
+      <vraag nummer="3">Is het openbaar ministerie op enigerlei wijze betrokken geweest bij de totstandkoming van het convenant? </vraag>
+      <vraag nummer="4">Deelt u het standpunt, dat het convenant op geen enkele wijze afbreuk kan doen aan het recht en de plicht van het openbaar ministerie op te treden tegen coffeeshops, telkens als daartoe naar haar oordeel aanleiding bestaat, zulks conform de conclusies en aanbevelingen van de werkgroep-Cremers? </vraag>
+      <vraag nummer="5">Hoe denkt u te voorkomen, dat convenanten zoals in Tilburg gesloten de weg effenen voor legalisering van de handel in soft-drugs? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1994-05-3" bron=" Trouw"> Trouw, 3 mei 1994</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+   <mededeling mededeler="Kosto" functie="minister" afdeling="Justitie" mededelingdatum="1994-06-13">Mededeling van minister Kosto (Justitie). (Ontvangen 13 juni 1994) In antwoord op uw brief bericht ik u dat het tot mijn spijt niet mogelijk is gebleken de door het lid van de Tweede Kamer dhr. Schutte gestelde vragen binnen de daarvoor gestelde termijn te beantwoorden, aangezien ik de gevraagde ambtsberichten nog niet heb ontvangen. Na ontvangst van de ambtsberichten zal ik zo spoedig mogelijk voor </mededeling>
+</kvr>

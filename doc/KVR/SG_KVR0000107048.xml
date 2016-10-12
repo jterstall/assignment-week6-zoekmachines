@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001273</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001273&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001273</item>
+         <item attribuut="Document-id">0000107048</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 241</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Knol (P.v.d.A.), Moret-de Jong (C.D.A.), Terpstra (V.V.D.), Tommel (D66), Van Dis (S.G.P.), Beckers-de Bruijn (P.P.R.), Van Es (P.S.P.), Schutte (G.P.V.) en Leerling (R.P.F.) over een Indonesische militaire actie in Irian Jaya.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 241</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">241</item>
+         <item attribuut="Indiener">
+            <persoon>Knol</persoon>
+            <persoon>Moret-de Jong</persoon>
+            <persoon>Terpstra</persoon>
+            <persoon>Tommel</persoon>
+            <persoon>Van Dis</persoon>
+            <persoon>Beckers-de Bruijn</persoon>
+            <persoon>Van Es</persoon>
+            <persoon>Schutte</persoon>
+            <persoon>Leerling</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-11-19</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-12-15</item>
+         <item attribuut="Beginpagina">481</item>
+         <item attribuut="Eindpagina">482</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 6 - 1 9 8 7 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="241" onderwerp="een Indonesische militaire actie in Irian Jaya." indiendatum="19 november 1986)">
+         <vrager partij="" oorsprong="parlement">Knol</vrager>
+         <vrager partij="" oorsprong="parlement">Moret-de Jong</vrager>
+         <vrager partij="" oorsprong="parlement">Terpstra</vrager>
+         <vrager partij="" oorsprong="parlement">Tommel</vrager>
+         <vrager partij="" oorsprong="parlement">Van Dis</vrager>
+         <vrager partij="" oorsprong="parlement">Beckers-de Bruijn</vrager>
+         <vrager partij="" oorsprong="parlement">Van Es</vrager>
+         <vrager partij="" oorsprong="parlement">Schutte</vrager>
+         <vrager partij="" oorsprong="parlement">Leerling</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="1">
+      <vraag nummer="1 ">W a t is waar van een door generaal  Benni Murdani op basis van een  operatieplan, gedateerd 1 augustus  1S86, grootscheeps ingezette  militaire actie in Irian Jaya, uit te  voeren in fasen gedurende de  maanden september  t / m november  1986?  informatie bevestigen. De afgelopen  maanden en ook recentelijk nog werd  West Irian door verschillende  Westerse waarnemers bezocht,  onder wie een correspondent van  een internationaal persagentschap en  vertegenwoordigers van Hr. Ms.  Ambassade in Jakarta. Ook uit hun  observaties is niets gebleken dat op  de uitvoering c.q. voorbereiding van  grootscheepse militaire activiteiten  wees.  Indien sprake is van een dergelijke  militaire actie, met welk doel  w o r d t  die dan gevoerd?  W a t voor gevolgen  kan deze actie ook op langere  termijn, gezien de toch al niet zo  goede verhouding tussen de Papoea's  en het Indonesische leger, hebben  voor de bevolking van Irian Jaya?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

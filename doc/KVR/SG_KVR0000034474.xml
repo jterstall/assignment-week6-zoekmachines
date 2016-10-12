@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0000067</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0000067&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0000067</item>
+         <item attribuut="Document-id">0000034474</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Eerste Kamer 1989-1990 nummer 30</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Eerste Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de heer Borgman en mevrouw Van Kuilenburg-Lodder (beiden P.v.d.A.) inzake bestrijding van geluidshinder.</item>
+         <item attribuut="titel">Aanhangsel Eerste Kamer 1989-1990 nummer 30</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">30</item>
+         <item attribuut="Indiener">
+            <persoon>Borgman</persoon>
+            <persoon>Van Kuilenburg-Lodder</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-07-06</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Alders</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-08-16</item>
+         <item attribuut="Beginpagina">59</item>
+         <item attribuut="Eindpagina">60</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Eerste Kamer der Staten-Generaal" kamer="1" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen door de leden der Kamer gesteld overeenkomstig artikel schriftelijk gegeven antwoorden"/>
+      <footer firstpaginanummer="59" allpagenumbers="59 60" vetnummer="" code="" lopendefooter="Eerste Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgeverij 's Grauenhage 1990"/>
+      <vraagdata vraagnummer="" onderwerp="" indiendatum="">
+         <vrager partij="" oorsprong="parlement">Borgman</vrager>
+         <vrager partij="" oorsprong="parlement">Van Kuilenburg-Lodder</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-08-16">
+         <antwoorder functie="de" ministerie="Ontvangen 16 augustus 1990">heer Alders, minister van Volkshuisvesting, Ruimtelijke Ordening en Milieu– beheer.</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="30">Vragen van de heer Borgman en mevrouw Van Kuilenburg-Lodder (beiden P.v.d.A.) inzake bestrijding van geluidshinder. (Ingezonden 3 juli 1990) Inleiding In het beleidsdebat in de Eerste Kamer op 20 juni j.l. betreffende het Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Miheu beheer is namens de P.v.d.A.-fractie de geluidshinder ten gevolge van het verkeer aan de orde gesteld. Daarbij werd de verlaging van het budget ter bestnjding van geluidshinder door het vorige kabinet wederom bekriti– seerd. Met name omdat gebleken is dat de gevelisolatie van woningen, waarbij geluidshinder optreedt, bijvoorbeeld in de regio Midden– Holland, onaanvaardbaar lang op zich zal laten wachten. Bij gevels van woningen, die volgens de geldende wettelijke normen duidelijk te zwaar belast zijn, zal het nog 20 tot 30 jaar duren voordat er sprake van is dat deze projecten aan de beurt zijn. De minister heeft op een expliciet gestelde vraag de post Bestrïjding Geluidshinder in verband met boven– staande problematiek weer te verhogen negatief geantwoord. Als motivering is daarbij gegeven dat elke verschuiving, die hij als minister van milieu op zijn begroting aanbrengt, ten koste gaat van bodemsanering of andere zaken. Al zei hij daarmee geen verschui– vingen te kunnen aanbrengen ten gunste van de bestrijding geluids– hinder toch verwees hij daarbij naar het maken van betere verkeers– plannen. Uit het verslag Wijziging hoofdstuk XI ter beantwoording van de leden van de vaste commissie van VROM van de Tweede Kamer dd. 22/6 en uit krantenberichten (Volks– krant 26/6: «Ministerie van milieu geeft te weinig uit»; Algemeen Dagblad: «Alders geeft te weinig uit.») blijkt echter een paar dagen later dat de begrotingspost Bestrijding Geluidshinder in 1990 voor een groot deel niet besteed zal worden. Tevens blijkt dat een deel van deze middelen zal worden overgeheveld naar andere zaken (bijv. tegenvallers in de volkshuis– vesting). </vraag>
+      <vraag nummer="1">Waarom heeft de minister in het debat op 20 juni j.l. niet het één en ander meegedeeld van wat hij 22 juni d.a.v. schriftelijk aan de Tweede Kamer heeft bekend gemaakt? </vraag>
+      <vraag nummer="2">Nu uit de beantwoording op 20 juni minimaal geheel andere conclusies getrokken kunnen worden dan uit de antwoorden van 22 juni ligt de vraag voor de hand of de minister alsnog bereid is beter toe te lichten waarom de post Bestrijding Geluidshinder in feite nu nog verder dreigt te worden «uitgekleed». </vraag>
+      <vraag nummer="3">Waarom besteedt de minister, mede gezien de financiële ruimte in 1990 in betreffende begrotingspost, niet meer aandacht aan de noodzaak tot een snellere sanering volgens de eigen wettelijke normen? </vraag>
+      <vraag nummer="4">Indien er door bepaalde gemeenten of regio's niet voldoende goede projecten worden ingediend, krijgen gemeenten of regio's met veel saneringsprojecten dan meer mogelijkheden om in een meer aanvaardbare periode te saneren? Is er op deze manier een mogelijkheid om noodzakelijke projecten te behoeden voor een sanering pas ver in de volgende eeuw? </vraag>
+      <vraag nummer="5">Kan de minister een duidelijk overzicht geven van begroting en besteding van de post Bestrijding Geluidshinder van het laatst bekende jaar, met name ook ten aanzien van de projecten gevelisolatie? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">In de begroting 1990 is voor het artikel 0512 «Bestrijding Geluid– hinder» een bedrag beschikbaar van f95,3 mln aan verplichtingenruimte en f 92,9 mln aan kasruimte. Deze bedragen zijn bij eerste suppletoire wet met f 1 mln verlaagd tot respec– tievelijk f94,3 mln en f 91,9 mln. Deze verlaging is een onderdeel van een generiek over de milieu-uitgaven van VROM verdeelde bezuiniging ter compensatie van overschrijdingen Formeel is het onjuist om begro– tingsmutaties, zoals op 22 juni met de Tweede Kamer besproken, op een eerder moment met de Eerste Kamer te bespreken. Overigens was er geen aanleiding de begrotingsmutaties op 20 juni te noemen, omdat de eerste suppletoire wet afgezien van de compensatie voor 1989 hier verder los van staat. </antwoord>
+      <antwoord nummer="2">Afgezien van het feit, dat naar mijn mening geen verschillende conclusies uit mijn antwoorden van 20 en 22 juni kunnen worden getrokken, is er evenmin sprake van, dat de post Bestrijding Geluidhinder zou worden «uitgekleed». Immers een verlaging van artikel 0512 anders dan de compensatie voor een overschrijding in 1989 is niet aan de orde. f 94,5 mln voor het jaar 1989. De uiteindelijk gerealiseerde bedragen in 1989 zijn respectievelijk f 103,0 mln en f 93,8 mln. De ontwerpbe– groting en realisatie liggen dicht bij elkaar; op kasbasis is zelfs sprake van een geringe overschrijding rekening houdend met de circa drie miljoen gulden die aan bezuinigingen in 1989 op dit artikel is geëffec– tueerd. Voor het onderdeel geveliso– latie was in 1989 een kasbedrag van f25,8 mln beschikbaar (zie Meerjaren Saneringsprogramma Geluidhinderbestrijding 1989-1993). Dit bedrag is geheel uitbetaald volgens de budgetsystematiek aan de in het Meerjaren Saneringspro– gramma Geluidhinderbestrijding genoemde budgethouders. Afgezien van bestuurlijke factoren bij de zonering en sanering van indu– strielawaai is het tempo van sanering, zowel ingeval industrie– als verkeerslawaai afhankelijk van de financiële ruimte hiervoor. Hoewel gelet op de aanvankelijke planning, de sanering van met name wegverkeerslawaai een veel langere periode zal belopen, laat de financie– ringsmogelijkheid gelet ook op de andere milieutaken die moeten worden vervuld, geen bekorting van die periode toe. Dit is ook in overeenstemming met het gestelde in het NMP (blz. 150), dat continu– ering van de uitvoering van de geluidhinderbestrijding aankondigt, maar niet een versnelling van de sanering behelst. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

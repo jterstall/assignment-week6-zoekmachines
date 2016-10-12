@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001786</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001786&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001786</item>
+         <item attribuut="Document-id">0000020172</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 767</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Dijkstal, Linschoten en Van Hoof (allen VVD) over een verplichte baan als alternatieve straf.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 767</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">767</item>
+         <item attribuut="Indiener">
+            <persoon>Dijkstal</persoon>
+            <persoon>Linschoten</persoon>
+            <persoon>Van Hoof</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-07-08</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Kosto</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-08-04</item>
+         <item attribuut="Beginpagina">1599</item>
+         <item attribuut="Eindpagina">1600</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1599" allpagenumbers="1599" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="767" onderwerp="een verplichte baan als alternatieve straf." indiendatum="1992-07-8">
+         <vrager partij="" oorsprong="parlement">Dijkstal</vrager>
+         <vrager partij="" oorsprong="parlement">Linschoten</vrager>
+         <vrager partij="" oorsprong="parlement">Van Hoof</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-08-4">
+         <antwoorder functie="staatssecretaris" ministerie="Justitie">Kosto</antwoorder>
+         <mede-antwoorder>de staatssecretaris van Sociale Zaken en Werkgelegenheid</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1">Hebt u kennisgenomen van het bericht' dat veroordeelde criminele jongeren, bij wijze van experiment, dit najaar als alternatieve straf een verplichte baan kan worden opgelegd in plaats van gevangenisstraf? Is dit bericht juist? </vraag>
+      <vraag nummer="2">Bent u van mening dat het aanbieden van een baan gezien kan worden als een vorm van (alternatieve) bestraffing? </vraag>
+      <vraag nummer="3">Bent u van mening dat het onwenselijk is om de suggestie te wekken dat het krijgen van een baan een vorm van bestraffing zou zijn? </vraag>
+      <vraag nummer="4">Wordt het experiment beperkt tot veroordeelde allochtone jongeren? Zo ja, waarom? In hoeverre bestaat er met dit voorgenomen experiment gevaar voor verdringing op de arbeidsmarkt van werkloze, niet-criminele jongeren? </vraag>
+      <vraag nummer="6">Kunt u de Kamer inlichten over de exacte strekking van het betreffende experiment?  Algemeen Dagblad dd. 3 juli 1992. </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"/>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ik heb kennisgenomen van een bericht in het Algemeen Dagblad d.d. 3 juli jongstleden, volgens welke veroordeelde criminele allochtone jongeren een baan zou worden opgelegd als straf. Ik kan u meedelen dat deze berichtgeving een nogal vertekende weergave van de werkelijkheid geeft. </antwoord>
+      <antwoord nummer="6">Naar ik heb begrepen moet het kranteartikel in verband worden gebracht met een onlangs gestart overleg tussen de Gemeente Utrecht, de Politie, het Openbaar Ministerie, het N.C.B. en het ministerie van Justitie om te bezien op welke wijze de criminaliteit onder Marokkaanse jongeren in Utrecht beter dan tot nu toe bestreden en voorkomen kan worden. Daarbij wordt onder meer gedacht aan de inschakeling van leden van de Marokkaanse gemeenschap. Deze zouden kunnen helpen bij het bemiddelen tussen ouders en kinderen, maar ook bij het onderhouden van contacten met bijvoorbeeld onderwijs, hulpverleningsorganisaties, de politie en justitiële organisaties als een vorm van justitie-gebonden vrijwilligerswerk. Het is thans nog niet te overzien hoe dit project in concreto vorm zal krijgen en welke invloed dit zal hebben op de aard en inhoud van de bestraffing. 2 , 3 , 4 , 5 Op grond van de bovengegeven antwoorden acht ik beantwoording van de tussenliggende vragen niet aan de orde. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

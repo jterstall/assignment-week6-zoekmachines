@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="relevant. " aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19871988:0001609</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001609&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001609</item>
+         <item attribuut="Document-id">0000099323</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1987-1988 nummer 666</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van der Vlies (S.G.P.) over de aanwezigheid van bewindslieden bij de voetbalwedstrijd Nederland-West-Duitsland.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1987-1988 nummer 666</item>
+         <item attribuut="Jaargang">1987_1988</item>
+         <item attribuut="Vraagnummer">666</item>
+         <item attribuut="Indiener">
+            <persoon partij="SGP">Van der Vlies</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1988-06-22</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Lubbers</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1988-06-22</item>
+         <item attribuut="Beginpagina">1339</item>
+         <item attribuut="Eindpagina">1340</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1987-1988 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1987-1988, Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="666" onderwerp="" indiendatum="">
+         <vrager partij="SGP" oorsprong="parlement">Van der Vlies</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1 " voetnoot="1">Waren gisteren 9 bewindslieden  aanwezig bij de voetbalwedstrijd  Nederland-West-Duitsland te  Hamburg? <voetnoot nummer="1"/> Zo neen, hoeveel waren  het dan wel?  </vraag>
+      <vraag nummer="2 ">Waren die bewindslieden ambtshalve  aanwezig of was sprake van een  zuivere privé-aangelegenheid?  </vraag>
+      <vraag nummer="3 ">Indien sprake mocht zijn van ambts- halve aanwezigheid, waaruit bestond  die dan voor ieder van de in Hamburg  aanwezige bewindslieden?  </vraag>
+      <vraag nummer="4 ">Indien de aanwezigheid van de  betrokken ministers en staatssecreta- rissen ambtshalve vereist was, kan  dan aan de Kamer een overzicht  worden gegeven van de kosten, die  voor de reis Hamburg-Den Haag vv  zijn gemaakt? Zijn in dit kader door  de betrokken bewindslieden nog  andere kosten gemaakt, die uiteinde- lijk ten laste komen van de staat?  </vraag>
+      <vraag nummer="5 ">Mag deze Kamerervan uitgaan dat  indien sprake mocht zijn van een  zuivere privé-belangstelling, het  uitstapje naar Hamburg ook geheel  voor eigen rekening van de betrokke- nen komt?  Antwoord  Antwoord van minister-president  Lubbers (Minister van Algemene  Zaken). (Ontvangen 22 juni 1988)  1 t/m 4  De gevolmachtigde minister van  Aruba, de staatssecretarissen Dees,  Evenhuis en Van Houwelingen en een  zevental leden van de Tweede Kamer  hebben gebruik gemaakt van de  mogelijkheid om met een militair  vliegtuig naar Hamburg te vliegen  voor het bijwonen (op uitnodiging  van de KNVB) van de voetbalwedstrijd  Nederland-B.R. Duitsland.  Ten behoeve van het bijhouden van  de vliegvaardigheid moeten militaire  vliegers, vlieguren maken. De vlucht  van het militaire toestel past in dit  schema en heeft dus geen extra  kosten veroorzaakt.  </vraag>
+      <vraag nummer="5 ">Het in deze vraag gestelde is, gezien  de beantwoording onder 1 t/m 4 niet  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

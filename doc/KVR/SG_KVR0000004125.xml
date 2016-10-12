@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="vragen noodzakelijk." aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0001614</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001614&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001614</item>
+         <item attribuut="Document-id">0000004125</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 400</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Van Hoof en E.G. Terpstra (beiden VVD) over de Europese aanbesteding van voorzieningen voor gehandicapten.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 400</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">400</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Van Hoof</persoon>
+            <persoon>Terpstra E.G.</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-03-07</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Wallage</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-03-29</item>
+         <item attribuut="Beginpagina">813</item>
+         <item attribuut="Eindpagina">814</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="813" allpagenumbers="813" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgeverij Planti|nstraat 's-Gravenhage 1994"/>
+      <vraagdata vraagnummer="400" onderwerp="de Europese aanbesteding van voorzieningen voor gehandicapten." indiendatum="1994-03-7">
+         <vrager partij="VVD" oorsprong="parlement">Van Hoof</vrager>
+         <vrager partij="" oorsprong="parlement">Terpstra E.G.</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Is de constatering van de VNG juist, als zouden niet alle gemeenten die daartoe wettelijk verplicht zijn de aanschaf van voorzieningen voor gehandicapten Europees hebben aanbesteed? <voetnoot nummer="1"/>Zo ja, hoeveel gemeenten betreft het? </vraag>
+      <vraag nummer="3">Zal de Europese Commissie eerdaags contact opnemen met de Nederlandse staat in verband met schendingen van de Europese regels? Heeft dit reeds plaatsgevonden? Zo ja, wat was daarbij uw inzet? Tot welk resultaat heeft dat geleid? </vraag>
+      <vraag nummer="4">In hoeverre kan een en ander gevolgen hebben voor de door gemeenten reeds gedane aanschaffingen zonder Europese aanbesteding, respectievelijk voor die gemeenten die thans nog moeten overgaan tot aanbesteding en aanschaf? Verwacht u, tegen de achtergrond van het voorgaande dat er per 1 april a.s. voldoende voorzieningen voor gehandicapten zijn? Zo ja, waarop is die verwachting gebaseerd? Zo neen, welke maatregelen bent u voornemens te nemen? </vraag>
+      <vraag nummer="6">In hoeverre kan de gewenste kwaliteit van de voorzieningen worden gewaarborgd, indien de inschrijving en levering plaatsvinden door niet– Nederlandse bedrijven? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Ng, 25februari 1994, blz. 11</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+   <mededeling mededeler="Wallage" functie="staatssecretaris" afdeling="Sociale Zaken en Werkgelegenheid" mededelingdatum="1994-03-29">Mededeling van staatssecretaris Wallage (Sociale Zaken en Werkgelegenheid). (Ontvangen 29 maart 1994) Refererend aan uw brief van 8 maart 1994 verzoek ik u om uitstel van beantwoording van de door de leden Van Hoof en E.G. Terpstra gestelde vragen. Op 23 maart 1994 heb ik via het ministerie van Economische Zaken een telex van de Europese Commissie ontvangen met vragen betreffende de Europese aanbesteding van gehandicaptenvoorzieningen in het kader van de Wet voorzieningen gehandicapten. Voor beantwoording van deze vragen is nader onderzoek en overleg met betrokken partijen nodig. Derhalve is enig uitstel voor de beantwoording van de door de leden Van Hoof en E.G. Terpstra gestelde </mededeling>
+</kvr>

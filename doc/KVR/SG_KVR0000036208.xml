@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001801</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001801&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001801</item>
+         <item attribuut="Document-id">0000036208</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 877</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Nuis en Eisma (beiden D66) over de Rijksarchieven.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 877</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">877</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Nuis</persoon>
+            <persoon partij="D66">Eisma</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-07-10</item>
+         <item attribuut="Beantwoorder">
+            <persoon>D 'Ancona</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-09-03</item>
+         <item attribuut="Beginpagina">1773</item>
+         <item attribuut="Eindpagina">1774</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1773" allpagenumbers="1773 1774" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="877" onderwerp="de Rijksarchieven." indiendatum="10juli 1990">
+         <vrager partij="D66" oorsprong="parlement">Nuis</vrager>
+         <vrager partij="D66" oorsprong="parlement">Eisma</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="3 september 1990). Zie ook Aanhangsel Hande– lingen nr. 863, vergaderjaar 1989-1990.">
+         <antwoorder functie="minister" ministerie="Welzijn, Volksgezondheid en Cultuur">D'Ancona</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1">Welke afweging hebt u gemaakt alvorens over te gaan tot een verbod tot copiëren van archiefbescheiden uit banden, zoals vermeld in de toelichting op de bijlage bij de «Regeling tarieven Rijksarchief– dienst»? Is er onderzoek verricht naar technische mogelijkheden om het verbod op het copiëren van archief– bescheiden uit gebonden banden te voorkomen binnen de grenzen van een goed beheer, behoud en conser– vering van de desbetreffende banden? Zo ja, welke alternatieven voor de gebruikelijke wijze van copiëren zijn daarbij onderzocht? </vraag>
+      <vraag nummer="3">Zijn er na uw maatregel in alle rijks– archiefbewaarplaatsen faciliteiten aanwezig ten behoeve van het (mechanisch) produceren van archi– valia conform de bepalingen van de archiefwet van 1962 en de daaruit afgeleide besluiten? Zo neen, hoe denkt u de negatieve gevolgen voor het wetenschappelijk onderzoek in de rijksarchieven tot een minimum terug te brengen? </vraag>
+      <vraag nummer="4">Bent u bereid om, indien het onver– hoopt niet mogelijk zou zijn om copiëren uit «gebonden archief– delen» opnieuw mogelijk te maken, het tarief voor het maken van reader– prints van niet op film staande stukken (f3,75 voor microfilm– opname en afdruk) voor weten– schappelijk onderzoek terug te brengen tot het pnjsmveau van fotokopiën dat gold vóór de invoermg van de «Regelmg tarieven Rijksarchiefdienst» op 1 mei 1990? </vraag>
+      <vraag nummer="5">Welke maatregelen tot behoud en conservering van de archivalia berustend in de Rijksarchieven denkt u te treffen ten einde de belemme– ringen voor omvangrijk (wetenschap– pelijk) onderzoek te beperken? </vraag>
+      <vraag nummer="6">Zijn gebruikers (bezoekers) van de Rijksarchieven gehoord alvorens deze regeling af te kondigen? Zo neen, bent u bereid hen alsnog te horen en op grond van die bevin– dingen de regeling aan te passen? </vraag>
+      <vraag nummer="7">Bent u bereid het verbod op fotoco– piëren uit banden en waar mogelijk van stukken van vóór 1600 te herzien en de daaruit voortvloeiende winst waar mogelijk per rijksarchief te bestemmen voor de aanschaf van middelen om archivalia in de desbe– treffende archieven zelf te conser– veren? </vraag>
+      <vraag nummer="8">Hebben de afzonderlijke Rijksar– chieven elk de beschikking over een installatie om bijvoorbeeld papierrot bij reeds aangetaste archivalia tegen te gaan? Zo neen, bent u bereid binnen uw begroting - of binnen de begroting van de diverse Rijksar– chieven uit de inkomsten uit fotocopiën - hiervoor gelden vrij te maken? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Het verbod tot het fotokopiëren van de in de toelichting op de bijlage bij de «Regeling tarieven Rijksarchief– dienst» genoemde bescheiden dient tot het behoud daarvan. Voorkomen moet worden dat archiefbescheiden vanwege hun materiële staat niet meer aan een ieder ter inzage kunnen worden gegeven, waardoor het in artikel 7, tweede lid van de Archiefwet 1962 neergelegde recht tot raadpleging van archiefbe– scheiden aan betekenis verliest. </antwoord>
+      <antwoord nummer="2">De Rijksarchiefdienst voert reeds een aantal jaren een actief substitutie– beleid, waarbij originele bescheiden op nieuwe informatiedragers worden overgezet. Prioriteit ligt hierbij zowel bij de vanuit conserveringsoogpunt kwetsbare bestanden als bij de meest geraadpleegde bescheiden. Hierbij wordt voornamelijk gebruik gemaakt van de mogelijkheden van de microfilm of –fiche, maar ook de fotografie, bijvoorbeeld voor kaarten en charters. Bij de gemeentelijke archiefdienst van Utrecht wordt, met financiële steun van WVC en mede begeleid door de Rijksarchiefdienst, een proefproject met de beeldplaat als substituut voor originele bescheiden uitgevoerd. Onderzoek naar andere kopieermo– gelijkheden heeft vooralsnog uitge– over faciliteiten, hetzij in huis hetzij door samenwerking met een ander rijksarchief of met commerciële fotografen ter plaatse. Uit of van archiefbescheiden kunnen andere reprodukties dan fotokopieën worden vervaardigd, bijvoorbeeld in de vorm van micro-foto's, reader– prints of foto's. Voorts kunnen bezoekers met daartoe door hen meegebrachte apparatuur repro– dukties maken, mits met toestemming van de rijksarchivaris of een door hen aangewezen ambtenaar (art. 8 van het Bezoekers– reglement Rijksarchiefdienst). </antwoord>
+      <antwoord nummer="4">Neen, het in de vraag genoemde tarief dekt de personele en materiële kosten van het op microfilm zetten van archiefbescheiden en het vervolgens maken van een reader– printafdruk van de door de aanvrager aangegeven bladzijde Daarvoor geldt nu een tarief van f 3,75 per afdruk A4 of folio. Voor de invoering van de nieuwe tariefregeling gold hiervoor niet een tarief, maar moest apart betaald worden voor het vervaardigen van een microfilm van een heel inventarisnummer en voor het maken van een reader-print– afdruk. Verder merk ik op dat het prijsniveau fotokopieën geen verband houdt tnet het prijsniveau van de reader-print– afdruk. leder rijksarchief stelt in zijn jaarlijkse activiteitenplan een onderdeel vervanging van originele bescheiden door microfilm, –fiche of fotografische reproduktie op. In 1988 bedroeg de jaarproduktie ruim stand gekomen na overleg met het Convent van Rijksarchivarissen en de Landelijke Kring van Gemeente– en Streekarchivarissen. Neen. Aangezien de tarieven kosten– dekkend zijn, is er geen sprake van winst. De inkomsten uit reprodukties worden dan ook in mindering gebracht op de uitgaven voor het maken van die reprodukties. </antwoord>
+      <antwoord nummer="8">Voor het herstellen van bepaalde vormen van schade aan papier beschikt de Rijksarchiefdienst over aanvezelapparatuur. Verder vindt conservering/restauratie nog handmatig plaats. In het kader van het Deltaplan Cultuurbehoud is door het Algemeen Rijksarchief in samenwerking met de Koninklijke Bibliotheek, het proefjaar massa-conservering in uitvoering genomen. Onderdeel hiervan wordt gevormd door een aantal proefpro– jecten, waarbij in samenwerking met het bedrijfsleven, machinale methodes op hun bruikbaarheid voor de conserveringsproblematiek van het verzuurde papier getest zullen worden. De hiervoor benodigde middelen worden deels door mijn collega van Onderwijs en Weten– schappen deels door mijn ministerie gedragen. Met mijn collega van Economische Zaken vindt nog overleg plaats over medefinanciering van de proefprojecten bij de bedrijven. Mochten de resultaten van dien aard zijn dat tot aanschaf van dergelijke apparatuur moet worden overgegaan, dan zal binnen de mogelijkheden van het Deltaplan Cultuurbehoud naar een middelenop– </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

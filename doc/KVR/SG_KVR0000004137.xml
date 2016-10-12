@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="4">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0001626</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001626&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001626</item>
+         <item attribuut="Document-id">0000004137</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 412</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Scheltema-de Nie (D66) over het gebruik van stemmachines.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 412</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">412</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Scheltema-de Nie</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-03-18</item>
+         <item attribuut="Beantwoorder">
+            <persoon>De Graaff-Nauta</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-03-29</item>
+         <item attribuut="Beginpagina">837</item>
+         <item attribuut="Eindpagina">838</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="837" allpagenumbers="837" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1994"/>
+      <vraagdata vraagnummer="412" onderwerp="het gebruik van stemmmachines." indiendatum="1994-03-18">
+         <vrager partij="D66" oorsprong="parlement">Scheltema-de Nie</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-03-29">
+         <antwoorder functie="staatssecretaris" ministerie="Bmnenlandse Zaken">De Graaff-Nauta</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Hebt u een brief ontvangen van de Vereniging van Nederlandse Gemeenten over de problemen bij het gebruik van stemmachines bij de Tweede Kamerverkiezingen? </vraag>
+      <vraag nummer="2" voetnoot="1">Bent u bereid zo spoedig mogelijk na 22 maart a.s. <voetnoot nummer="1"/> de Kamer te informeren over het aantal gemeenten dat geen gebruik zal kunnen maken van de stemmachines waarover zij thans beschikken? </vraag>
+      <vraag nummer="3">Kunnen de problemen die daardoor ontstaan - omdat gemeenten moeten terugvallen op het gebruik van stembiljetten en stembussen –tijdig opgelost worden? Zo ja, hoe? </vraag>
+      <vraag nummer="4">Bent u bereid maatregelen te treffen om in de toekomst problemen te voorkomen? Zo ja, aan wat voor soort oplossingen wordt daarbij gedacht? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Op 22 maart wordt duidelijk hoeveel partijen er aan de Tweede Kamerverkiezingen zullen deelnemen</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Op 15 maart jl. ontving ik een brief van de Vereniging van Nederlandse Gemeenten over dit onderwerp met het verzoek op zeer korte termijn te overleggen over mogelijke oplossingen. Dit overleg heeft op 21 maart plaatsgevonden. </antwoord>
+      <antwoord nummer="2">De kandidaatstellmg op 22 maart voor de komende Tweede-Kamerverkiezing heeft uitgewezen dat in alle kieskringen het aantal ingediende kandidatenlijsten zodanig is dat geen gebruik kan worden gemaakt van het oude in 1979 goedgekeurde type stemmachine. Dit betreft in totaal ongeveer 900 stemmachines in 44 gemeenten. Voor de overige gemeenten die stemmachines gebruiken, ontstaan geen problemen, omdat het stempaneel van deze nieuwere stemmachine groot genoeg is om alle kandidatenlijsten daarop overeenkomstig de voorschriften te vermelden. </antwoord>
+      <antwoord nummer="3">Het in de betreffende gemeenten ontstane probleem kan op verschillende manieren worden opgelost. In de eerste plaats kan besloten worden voor deze verkiezing terug te vallen op het stemmen door middel van stembiljetten. Blijkens mijn informatie is het mogelijk tijdig in een eventuele behoefte aan stembiljetten, stemhokjes en stembussen te voorzien. In de tweede plaats kunnen gemeenten besluiten om vervroegd de oude stemmachines te vervangen door nieuwe stemmachines. Er zijn nieuwe stemmachines leverbaar. In de derde plaats kan gebruik worden gemaakt van de door de fabrikant van de oude stemmachine aangeboden oplossing om door koppeling twee van die machines tot een te combineren. Gelet op het positieve advies dat de Kiesraad over deze oplossing heeft uitgebracht en het oordeel van TNO ter zake heb ik daaraan op basis van artikel J 14 van de Kieswet voor eenmalig gebruik bij de komende Tweede-Kamerverkiezing goedkeuring verleend. Het is aan de gemeentebesturen om te beslissen voor welke oplossing zij kiezen. </antwoord>
+      <antwoord nummer="4 en 5">Zoals ook bij de parlementaire behandeling van de herziene Kieswet in 1989 al naar voren kwam kan van een limitering van het aantal in te het grote aantal thans aan de verkiezing deelnemende partijen, ook los van de problematiek van de stemmachines, de vraag aan of en, zo ja, hoe de thans in de Kieswet opgenomen voorzieningen tot het tegengaan van lichtvaardige kandidaatstellingen (waarborgsom, ondersteuningsverklaringen) aanscherping verdienen. Ik zal de Kiesraad vragen mij hierover te adviseren. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

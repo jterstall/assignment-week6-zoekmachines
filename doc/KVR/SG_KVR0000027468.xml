@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001131</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001131&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001131</item>
+         <item attribuut="Document-id">0000027468</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 198</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Rosenmöller (Groen Links) over levering van granaten door Eurometaal.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 198</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">198</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Rosenmöller</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-09-14</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Hirsch Ballin</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-11-27</item>
+         <item attribuut="Beginpagina">399</item>
+         <item attribuut="Eindpagina">400</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="399" allpagenumbers="399" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="198" onderwerp="levering van granaten door Eurometaal." indiendatum="1990-09-14">
+         <vrager partij="Groen Links" oorsprong="parlement">Rosenmöller</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="27 november 1990), zie ook Aanhangsel Handelingen nr. 49 en 123 verga– derjaar 1990-1991.">
+         <antwoorder functie="minister" ministerie="Justitie">Hirsch Ballin</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1" voetnoot="1">Heeft de officier van Justitie te Haarlem besloten geen gerechtelijk vooronderzoek en eventueel straf– rechtelijke vervolging in te stellen naar de (mogelijke) levering van granaten door het Zaanse bedrijf Eurometaal aan Iraktussen mei 1982 en mei 1983, waarbij gebruik gemaakt werd van de route België— Spanje-Jordanië en een Spaans, Belgisch en Nederlands bedrijf werden gebruikt als tussenpersonen, omdat deze zaak op het moment van beslissing al verjaard was, ondanks het feit dat de genoemde route onderdeel uitmaakte van het onderzoek van de ECD in november 1989? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Deelt u de mening, dat er voldoende tijd moet zijn geweest om te beslissen of de «Jordanië-levering» aan het gerechtelijk vooronderzoek zou worden toegevoegd, omdat de ECD deze route reeds had onder– zocht? </vraag>
+      <vraag nummer="3">Vindt u, dat er sprake is van nalatigheid in het optreden van de officier van Justitie te Haarlem in dezen? Welke stappen denkt u te ondernemen in zijn richting? Waarom is tijdens het gerechtelijk vooronderzoek naar de levering van granaten door Eurometaal niet besloten dit onderzoek uit te breiden naar de betrokkenheid van het bedrijf Franerex bij de levering door Eurometaal en de in het artikel genoemde levering van fosforgra– naten door het Franse bedrijf Luchaire? Wordt dit alsnog overwogen door het OM? </vraag>
+      <vraag nummer="5">Waarom heeft de officier van Justitie te Haarlem besloten geen gerech– telijk vooronderzoek in te stellen naar de levering van granaten door Eurometaal via Griekenland en Libië naar Iran (en mogelijk Irak) in de periode 1983-1987? </vraag>
+      <vraag nummer="23"/>
+      <vraag nummer="6">Heeft de ECD in november 1988 de Griekenlandroute in het onderzoek betrokken? Zo ja, waren de resul– taten van dit onderzoek bij de officier van Justitie bekend? Wilt u alsnog dit gerechtelijk vooron– derzoek starten? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Zie Vrij Nederland, 8 september 1 990</noot>
+         <noot nummer="2"> Het betrof een leverïng, waarvoor het Itali– aanse bedrijf Erber, betrokken bij de levering, zich al heeft moeten verant– woorden voor de Italiaanse justitiêle autori– teiten</noot>
+         <noot nummer="3"> Zie Vrij Nederland, 1 5 september 1 990</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1 en 2">Uit inlichtingen verstrekt door het openbaar ministerie is gebleken dat op 4 november 1988 een gerech– telijk vooronderzoek werd ingesteld terzake van export van strategische goederen door Eurometaal N.V. te Zaandam, betrekking hebbend op leveranties door genoemd bedrijf langs de route Oostenrijk-lran, gepleegd in de periode van 18 oktober 1985 tot 19 augustus 1987. Op basis van gegevens die naar voren kwam uit het onderzoek van de omvangrijke administratie die in dit kader onder Eurometaal in beslag was genomen, is op 20 november 1989 het gerechtelijk vooronderzoek uitgebreid tot leveranties van granaatlichamen via België en Spanje, gepleegd in de periode van 9 juni 1982 tot 11 april 1983. Op 13 augustus 1990 is het gerechtelijk vooronderzoek gesloten. Op 25 september 1990 is aan Eurometaal een kennisgeving van verdere vervolging uitgereikt. In die kennis– geving zijn de transacties via België, voor zover het recht tot strafver– volging niet reeds was verjaard, buiten beschouwing gelaten. Dit is geschied in verband met het lange tijdsverloop en de algemene noodzaak om in fraudezaken van een dergelijke omvang keuzes te maken, zowel bij de aanvang van opspo– de betrokkenheid van het bedrïjf Franerex onder de loupe genomen. Het betreft hier een toeleveringsbe– drijf dat geen partij was bij de door Eurometaal en een Belgisch bedrijf gesloten overeenkomsten. De grondslag voor strafvervolging van het bedrijf Franerex in de onder– havige kwestie ontbreekt derhalve. </antwoord>
+      <antwoord nummer="5, 6 en 7">Uit het onderzoek van de onder Eurometaal in beslag genomen administratie is tevens gebleken van leveranties naar Griekenland, waarvan het vermoeden bestond dat deze in andere landen terecht waren gekomen dan het in de vergunning genoemde land. Het gerechtelijk vooronderzoek is niet tot die trans– acties uitgebreid, omdat uit medede– lingen van de Economische Controle Dienst naar voren kwam dat de Griekse autoriteiten geen medewerking wilden verlenen aan een rogatoire commissie. Een beslissing om het vooronderzoek desondanks in die richting uit te breiden, zou een onevenredige vertraging van de verdere strafver– volging van Eurometaal hebben veroorzaakt. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

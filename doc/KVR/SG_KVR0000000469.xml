@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19941995:0000469</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000469&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000469</item>
+         <item attribuut="Document-id">0000000469</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1994-1995 nummer 135</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Sipkes (GroenLinks) over de werkwijze van de marechaussee.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1994-1995 nummer 135</item>
+         <item attribuut="Jaargang">1994_1995</item>
+         <item attribuut="Vraagnummer">135</item>
+         <item attribuut="Indiener">
+            <persoon partij="GroenLinks">Sipkes</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-09-29</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Schmitz</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-11-01</item>
+         <item attribuut="Beginpagina">271</item>
+         <item attribuut="Eindpagina">272</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1994-1995" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="271" allpagenumbers="271" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1994-1995, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="'s Gravenhage 1994"/>
+      <vraagdata vraagnummer="135" onderwerp="de werkwijze van de marechaussee." indiendatum="1994-09-29">
+         <vrager partij="GroenLinks" oorsprong="parlement">Sipkes</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-11-1">
+         <antwoorder functie="staatssecretaris" ministerie="Justitie">Schmitz</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="1">
+      <vraag nummer="1">Kent u de beschuldigingen, geuit door rechtshulpverleners, dat zo'n veertigtal asielzoekers met door de marechaussee verstrekte valse paspoortkopieën is uitgezet? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"/>
+      </noten>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1">Ja. De commandant van de Koninklijke Marechaussee heeft daarop de desbetreffende Procureur-Generaal verzocht een onderzoek door de rijksrecherche te laten instellen. Ik wacht de resultaten van dit onderzoek af. wordt zorgvuldig genomen. Ik deel de zorg van de vice-president van de rechtbank hierover dan ook niet. </antwoord>
+      <antwoord nummer="4">Gezien het bovenstaande zie ik van mijn kant geen reden voor een nader onderzoek bij de Koninklijke Marechaussee. Over de resultaten van het onder punt 1 genoemde onderzoek van de rijksrecherche zal ik u tezijnertijd berichten. Kent u tevens de kritische uitlatingen van de vice-president van de Amsterdamse rechtbank ten aanzien van het opmaken van onzorgvuldige processen-verbaal door de marechaussee? </antwoord>
+      <antwoord nummer="3">Deelt u de zorg van de vice-president over de macht van de marechaussee bij de controle van grensdocumenten bij zogenoemde «risicovluchten» uit Westafrikaanse landen? </antwoord>
+      <antwoord nummer="4" voetnoot="1">Bent u bereid een grondig onderzoek in te stellen naar de werkwijze van de marechaussee en de Kamer daarover te informeren? <voetnoot nummer="1"/> Het Parool van 24 september 1994. Ja. Inmiddels is het personeel van de Koninklijke Marechaussee door het op Schiphol als voorpost gevestigde bureau van de Immigratie– en Naturalisatiedienst geïnstrueerd over de eisen die aan de processen-verbaal onder de nieuwe vreemdelingenwetgeving worden gesteld. </antwoord>
+      <antwoord nummer="3">Het is de taak van de Koninklijke Marechaussee te controleren op de aanwezigheid en juistheid van de vereiste documenten. Bij twijfel wordt het document door het bureau falsificaten aan een nader onderzoek onderworpen. Op basis van dit onderzoek wordt door het hoofd doorlaatpost van de Koninklijke Marechaussee een beslissing genomen over de toelating van de betreffende passagier. In het geval van een negatieve beslissing wordt advies ingewonnen bij het Bureau Schiphol van de Immigratie– en Naturalisatiedienst. De beslissing </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

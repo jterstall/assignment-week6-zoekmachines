@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="experimenten op het gebied van " aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19851986:0000989</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0000989&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0000989</item>
+         <item attribuut="Document-id">0000114549</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1985-1986 nummer 71</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Rempt-Halmmans de Jongh (V.V.D.) over het uitzenden door de VARA van een anti-colportagespot</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1985-1986 nummer 71</item>
+         <item attribuut="Jaargang">1985_1986</item>
+         <item attribuut="Vraagnummer">71</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Rempt-Halmmans de Jongh</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1985-05-23</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van Zeil</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1985-10-10</item>
+         <item attribuut="Beginpagina">143</item>
+         <item attribuut="Eindpagina">144</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1985-1986 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 5 - 1 9 8 6 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="71" onderwerp="het uitzenden door de VARA van een anti-colporta- gespot." indiendatum="23 mei 1984)">
+         <vrager partij="VVD" oorsprong="parlement">Rempt-Halmmans de Jongh</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1 ">Is het waar, dat het Konsumenten  Kontakt, in samenwerking met de  VARA, ondanks de waarschuwing van  de staatssecretaris, de contraspot  betreffende colportage opnieuw heeft  uitgezonden?  consumentenvoorlichting op t.v., van  respectievelijk de Consumentenbond  en het Konsumenten Kontakt, alsmede  het onderzoeksrapport van het  Instituut voor Psychologisch Markton- derzoek met betrekking tot deze  experimenten. </vraag>
+      <vraag nummer="1 ">' Bijlagen ter inzage gelegd op de Bibliotheek.  Zo ja, moet daaruit worden opgemaakt,  dat het weerwoord van de zijde van  het Konsumenten Kontakt betreffende  het uitdelen van de «gele kaart» voor  deze spot, de staatssecretaris van zijn  ongelijk heeft overtuigd?  </vraag>
+      <vraag nummer="3 ">Wat is, indien de staatssecretaris de  vorige vraag ontkennend beantwoordt,  dan zijn volgende stap in deze  kwestie?  Nader antwoord van staatssecretaris  (Ontvangen 10 oktober 1985)  Onder verwijzing naar mijn antwoord  op de vraag van het lid uwer Kamer  mevrouw Rempt-Halmmans de Jongh  over het uitzenden door de VARA van  een anti-colportagespot (Handelingen  TK, 1983-1984, aanhangsel 916, bied ik  u mijn eindoordeel aan over een  tweetal door mij gesubsidieerde  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

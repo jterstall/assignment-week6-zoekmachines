@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="wordt onthouden?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19931994:0001340</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001340&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001340</item>
+         <item attribuut="Document-id">0000003851</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 126</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van der Vlies (SGP) over embryo-splitsing.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 126</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">126</item>
+         <item attribuut="Indiener">
+            <persoon partij="SGP">Van der Vlies</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-10-20</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Hirsch Ballin</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-11-15</item>
+         <item attribuut="Beginpagina">255</item>
+         <item attribuut="Eindpagina">256</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="255" allpagenumbers="255" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="126" onderwerp="embryo-splitsing." indiendatum="1993-10-20">
+         <vrager partij="SGP" oorsprong="parlement">Van der Vlies</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Kent u het voornemen van het Academisch ziekenhuis Maastricht om binnenkort over te gaan tot embryo-splitsing?' </vraag>
+      <vraag nummer="2">Ontbreekt voor deze behandeling nog een wettelijke toestemming? </vraag>
+      <vraag nummer="4" voetnoot="2"/>
+      <vraag nummer="5"/>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" datum="1993-10-19" bron=" Trouw dd."> Trouw dd., 19 oktober 1993</noot>
+         <noot nummer="2"> Kamerstuk 23 016, vergaderjaar 1992-1993</noot>
+      </noten>
+   </antwoorden>
+   <mededeling mededeler="Hirsch Ballin" functie="minister" afdeling="Justitie" mededelingdatum="1993-11-15">Mededeling van minister Hirsch Ballin (Justitie) (Ontvangen 15 november 1993) De antwoorden op bovengenoemde vragen zullen u niet binnen de gestelde termijn van drie weken kunnen bereiken in verband met het feit dat het onderzoek naar de vergunningverlening voor de toepassing van in vitro fertilisatie in combinatie met pre-implantatiediagnostiek nog niet is afgerond Op welke basis wil het ziekenhuis overgaan tot een dergehjke behandeling? Is daarvoor een vergunning op grond van artikel 18 Wet ziekenhuisvoorzieningen vereist? 4 Hoe verhoudt het voornemen zich tot de stellingname van de regering in het wetsvoorstel Medische experimenten met embryo's? 2 5 Wilt u bevorderen, dat aan genoemde behandeling toestemming </mededeling>
+</kvr>

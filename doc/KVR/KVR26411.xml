@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Eijsink, Koenders en Samsom (allen PvdA) aan de ministers van Defensie en van Verkeer en Waterstaat over gebrekkige vliegtuigen. (Ingezonden 8 augustus 2006); Antwoord</item>
+         <item attribuut="Bestand">20Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR26411
+</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van bericht over Jaarbericht 2005 van de Inspectie Verkeer &amp; Waterstaat in het TV-programma Twee Vandaag (5 augustus 2006) over gebrekkig onderhoud aan door de NAVO gehuurde toestellen. Indieners willen weten welke acties de NAVO en Defensie hebben ondernomen naar aanleiding van eerdere berichten, om de veiligheid van (ingehuurde) vliegtuigen te garanderen. Welke eisen gelden voor de luchtvaartmaatschappijen van wie de toestellen worden gehuurd en hoe worden de vliegtuigen geïnspecteerd?</item>
+         <item attribuut="Rubriek">Veiligheidsbeleid en defensie (Militair materieel) Verkeer, vervoer en waterstaat (Vliegveiligheid)</item>
+         <item attribuut="Trefwoorden">Militaire vliegtuigen Vliegveiligheid</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2006-2007, nr. 24, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2050617470</item>
+         <item attribuut="Afkomstig_van">Defensie (DEF)</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Eijsink</persoon>
+            <persoon partij="PvdA">Koenders</persoon>
+            <persoon partij="PvdA">Samsom</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2006-09-27</item>
+         <item attribuut="Datum_indiening">2006-08-08</item>
+         <item attribuut="Document-id">KVR26411</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2006–2007" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="47" allpagenumbers="47 48" vetnummer="2050617470" code="0607tkkvr24" lopendefooter="Tweede Kamer, vergaderjaar 2006–2007, Aanhangsel" filenaam="KVR26411" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2006"/>
+      <vraagdata vraagnummer="24" onderwerp="" indiendatum="2006-08-8">
+         <vrager partij="PvdA" oorsprong="parlement">Eijsink</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Koenders</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Samsom</vrager>
+         <vraagt-aan>de ministers van Defensie en van Verkeer en Waterstaat</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2006-09-27">
+         <antwoorder functie="minister" ministerie="Defensie">Kamp</antwoorder>
+         <mede-antwoorder>de minister van Verkeer en Waterstaat</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="10">
+      <vraag nummer="1" voetnoot="1">Bent u bekend met het Jaarbericht 2005 van de Inspectie Verkeer &amp; Waterstaat waaruit het programma Twee Vandaag heeft geciteerd? <voetnoot nummer="1"/>Kunt u aangeven welke concrete actie de NAVO en Defensie naar aanleiding van deze en eerdere berichten over gebrekkig onderhoud van door de NAVO ingehuurde toestellen hebben ondernomen om de veiligheid en het onderhoud van (ingehuurde) toestellen in de toekomst te garanderen? </vraag>
+      <vraag nummer="2">Waarom worden de in het Jaarbericht genoemde maatschappijen gebruikt? Zijn er contracten afgesloten door Defensie of de NAVO? Wat is de aard van deze contracten? </vraag>
+      <vraag nummer="3">Kunt u aangeven of eerst de transportcapaciteit van Defensie, dan wel de NAVO zelf ten volle wordt ingezet alvorens wordt besloten toestellen van derden in te huren? Zo neen, waarom niet? </vraag>
+      <vraag nummer="4">Heeft de NAVO eigen standaarden waaraan de luchtvaartmaatschappijen moeten voldoen? Hoe verhouden deze eisen zich tot de Nederlandse eisen? </vraag>
+      <vraag nummer="5">Om hoeveel vluchten per jaar gaat het en welke goederen worden ermee vervoerd? </vraag>
+      <vraag nummer="6">Welke concrete afspraken zijn er gemaakt met de NAVO om er zorg voor te dragen dat ingehuurde vliegtuigen voldoen aan de Nederlandse wet- en regelgeving voor de luchtvaart? Welke afspraken gelden voor landen buiten Nederland? Zijn die afspraken strenger of minder streng dan in Nederland? </vraag>
+      <vraag nummer="7">Kan de minister van Defensie aangeven wat de Militaire Luchtvaart Autoriteit (MLA) over 2005 heeft gerapporteerd met betrekking tot de voor Defensie uitgevoerde vluchten door externe partijen? Wanneer kan de Kamer een rapport van de MLA tegemoet zien over 2005? </vraag>
+      <vraag nummer="8">Welke afspraken zijn gemaakt tussen de MLA en de inspectie van Verkeer &amp; Waterstaat over verantwoordelijkheden? </vraag>
+      <vraag nummer="9">Wordt op elk vliegtuig een inspectie uitgevoerd voorafgaand aan het gebruik door Defensie? Zo ja, hoeveel vliegtuigen zijn er door Defensie afgekeurd voor gebruik voor vervoer van mensen en materieel van Defensie? Zo neen, waarom niet? Welk percentage wordt dan wel geïnspecteerd? </vraag>
+      <vraag nummer="10">Kunt u een overzicht geven van alle incidenten en ongevallen, naar aard en omvang, met toestellen die zijn ingehuurd om Nederlands Defensiepersoneel en materieel te vervoeren gedurende de afgelopen vijf jaar? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="2006-08-5" bron="Twee Vandaag">Twee Vandaag, 5 augustus 2006</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="8">
+      <antwoord nummer="1">Over de bevindingen van de Inspectie Verkeer en Waterstaat (IVW) is vanaf medio 2005 intensief contact geweest tussen IVW en Defensie. Defensie heeft direct maatregelen genomen om de situatie te verbeteren. Zo heeft de Militaire Luchtvaartautoriteit structureel toegang verkregen tot databases (SAFA en ICAO) waarin relevante inspectiegegevens zijn opgenomen. Ook wordt regelmatig met de IVW overlegd over luchtvaartmaatschappijen die naar de inzichten van de IVW niet geheel voldoen aan de eisen. Daarnaast geeft de IVW- op verzoek van Defensie- verhoogde aandacht en inzet aan toestellen van het type Ilyushin 76 die (Il-76) worden ingehuurd. Ten slotte is aan de Navo bekend gesteld dat niet in alle gevallen de door Defensie via Navo-contracten ingehuurde partners aan de ICAO-normen voldeden. Met de Navo is overleg gaande over deze problematiek. </antwoord>
+      <antwoord nummer="2 en 3">Voor de invulling van een behoefte aan luchttransport binnen Defensie wordt in eerste instantie altijd bezien of defensiemiddelen beschikbaar zijn. Is dat niet het geval, dan wordt in tweede instantie bezien of bondgenootschappelijke middelen beschikbaar zijn. Hiervoor wordt onder meer een beroep gedaan op het European Airlift Center, een planningseenheid van een aantal Europese Navo-partners op de Vliegbasis Eindhoven. Indien geen bondgenootschappelijke capaciteit beschikbaar is, kan worden overgegaan tot inhuur van transportmiddelen van civiele maatschappijen. Daarbij kan gebruik worden gemaakt van afroepcontracten die de Navo heeft afgesloten of van separate overeenkomsten van de Defensie Verkeer- en Vervoerorganisatie (DVVO). Voor het transport van grote volumes vracht naar risicovolle gebieden en naar vliegvelden die in primitieve staat verkeren, is slechts een beperkt aantal maatschappijen beschikbaar. </antwoord>
+      <antwoord nummer="4 en 6">Defensie hanteert bij de inhuur van civiel luchttransport de internationaal als standaard gehanteerde normen van de International Civil Aviation Organisation (ICAO). De toetsing op de naleving van ICAO-normen is een verantwoordelijkheid van de nationale civiele luchtvaartautoriteiten, die binnen Nederland voor civiele vliegtuigen wordt uitgeoefend door de IVW. Naar aanleiding van de bevindingen van IVW heeft Nederland de Navo gewezen op het feit dat in sommige gevallen de Navo-contractpartners tijdens het uitvoeren van een opdracht niet aan de ICAO-normen voldeden. Defensie zal, in samenwerking met Verkeer en Waterstaat, de informatievoorziening over deze gevallen aan de Navo verbeteren. De Navo heeft de waarborging van de contractuele veiligheidseisen verscherpt. </antwoord>
+      <antwoord nummer="5">In 2005 zijn 684 vluchten uitgevoerd met ingehuurde toestellen. Hierbij zijn 274 vluchten uitgevoerd met toestellen van het type IL-76. In 2006 zijn tot 1 augustus 310 vluchten uitgevoerd met ingehuurde toestellen, waarvan 96 met toestellen van het type Il-76. De vracht betrof militair materieel benodigd voor de operatie in Afghanistan en de humanitaire hulpverlening aan Pakistan. </antwoord>
+      <antwoord nummer="7">De MLA heeft op 7 juli 2005 in een nota rapport uitgebracht aan de minister van Defensie. In deze nota staan aanbevelingen ter verbetering van de situatie met betrekking tot inhuur van externe partijen. De bij de beantwoording van vraag 1 genoemde acties zijn hier onder meer het resultaat van. </antwoord>
+      <antwoord nummer="8">De IVW is verantwoordelijk voor het toezicht op de civiele luchtvaart in Nederland en voert in dit verband ook inspecties uit aan de civiele toestellen die door Defensie worden ingehuurd wanneer deze gebruik maken van Nederlandse luchthavens. De MLA voert het toezicht uit op de Nederlandse militaire luchtvaart. De MLA rekent het tot haar verantwoordelijkheid er op toe te zien dat Defensie in beginsel geen civiele toestellen inhuurt die op de zwarte lijst van de EU zijn vermeld. Voorts heeft de MLA personeel opgeleid om als (civiel) inspecteur deel te kunnen nemen aan de IVW inspectieteams. </antwoord>
+      <antwoord nummer="9">Inspecties op burgerluchtvaartuigen worden met gerichte steekproeven uitgevoerd door de IVW. De selectie wordt gemaakt op basis van ervaring en risicoanalyse. Mede op verzoek van Defensie geeft de IVW verhoogde aandacht en inzet bij toestellen van het type IL-76. In 2005 heeft Defensie 684 vluchten ingehuurd, waarbij in 512 gevallen Nederlandse luchthavens voor aankomst en vertrek gebruikt zijn. Voor de IVW, die een landing en een start op een luchthaven als één vlucht registreert, waren er derhalve ongeveer 256 vluchten voor Defensie via Nederlandse luchthavens. De IVW heeft 33 inspecties uitgevoerd, waarvan 29 toestellen van het type IL-76 betroffen. In 18 gevallen zijn bij geïnspecteerde toestellen ernstige onvolkomenheden geconstateerd. Hierbij zijn in totaal 53 bevindingen gedaan die een actie vereisten van de luchtvaartmaatschappij voor het toestel mocht vertrekken. In alle gevallen kon de vlucht met vertraging alsnog worden uitgevoerd. In 2006 heeft defensie tot 1 augustus 310 vluchten ingehuurd, waarvan 180 via Nederland. Voor de IVW komt dit overeen met ongeveer 90 vluchten, waarbij drie inspecties zijn uitgevoerd. In twee gevallen zijn onvolkomenheden geconstateerd die een actie vereisten van de luchtvaartmaatschappij voor het toestel mocht vertrekken. In beide gevallen konden de toestellen nadat de opmerkingen van de IVW hadden geleid tot de benodigde aanpassingen, hun reis hervatten. Het van kracht worden van de zwarte lijst van de EU en het feit dat Defensie in beginsel geen civiele toestellen inhuurt die op die lijst zijn vermeld, gecombineerd met de verdere ontwikkeling van risico-analysemethodes, maken dat de IVW gerichter inspecties kan uitvoeren, zodat met minder inspecties kan worden volstaan dan voorheen. </antwoord>
+      <antwoord nummer="10">Binnen Defensie zijn geen incidenten of ongevallen bekend met toestellen, ingehuurd om Nederlands Defensiepersoneel en -materieel te vervoeren, behoudens het ongeval met de door ISAF ingehuurde helikopter van 26 juli 2006 in Afghanistan waarbij twee Nederlandse militairen zijn verongelukt. De maatschappij die deze vlucht uitvoerde staat niet op de zwarte lijst van de EU. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

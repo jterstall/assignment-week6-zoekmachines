@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19891990:0001221</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001221&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001221</item>
+         <item attribuut="Document-id">0000035628</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 299</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Franssen (V.V.D.) en Van Gelder (P.v.d.A.) over onderwijs en het Comenius-project.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 299</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">299</item>
+         <item attribuut="Indiener">
+            <persoon>Franssen</persoon>
+            <persoon>Van Gelder</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-12-22</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Wallage</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-01-25</item>
+         <item attribuut="Beginpagina">603</item>
+         <item attribuut="Eindpagina">604</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen door de leden der Kamer, met de daarop door de regering gegeven antwoorden."/>
+      <footer firstpaginanummer="603" allpagenumbers="603" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDLJ uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="299" onderwerp="onderwijs en het Comenius– project." indiendatum="1989-12-22">
+         <vrager partij="" oorsprong="parlement">Franssen</vrager>
+         <vrager partij="" oorsprong="parlement">Van Gelder</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-01-25">
+         <antwoorder functie="staatssecretaris" ministerie="Onderwijs en Weten– schappen">Wallage</antwoorder>
+         <mede-antwoorder>de staats– secretaris van Financiën</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1">Heeft circa 95% van de scholen voor basis– en speciaal onderwijs zich reeds voor het Comenius-project en de geselecteerde Comenius– apparatuur aangemeld? </vraag>
+      <vraag nummer="2">Is de definitieve Comenius-configu– ratie vastgesteld op een intern geheugen van 2 MB en een vaste schijf van 40 MB, terwijl voorlopig nog sprake is van respectievelijk 1 MB en 20  MB? Wat houdt de grote belangstelling van de scholen in voor het leverings– schema? Wie beslist daarover? Dreigt er geen demotivatie bij de scholen? </vraag>
+      <vraag nummer="4">Levert het voor de software-ontwik– keling en voor de opslagmethodiek problemen op dat de interne geheu– gencapaciteiten verschillen? Gaat het Rijks Inkoop Bureau na de intekeningsronde praten met Philips, Tulip en Olivetti? Hoe verhoudt zich dit voornemen tot de brief van 14 juli 1989 van uw ambtsvoorganger (20 632 nr. 7), waaruit blijkt dat de keuze op Philips apparatuur is gevallen? </vraag>
+      <vraag nummer="6">Hebt u kennis genomen van het aanbod door het Rijks Inkoop Bureau in de RIB-krant van oktober jl.: «RIB maakt zich sterk voor standaard computer in het hele onderwijs»? </vraag>
+      <vraag nummer="7">Hoort het tot de taak van het RIB om voor het onderwijs een standaard te stellen of vindt u dat dit tot de competentie van anderen behoort? Zo ja, tot wiens competentie dan? Zo nee, waarom niet? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja. Van de 9550 scholen voor primair onderwijs hebben zich 9250 aangemeld voor deelname. Hieruit blijkt de zeer grote belangstelling voor dit project. </antwoord>
+      <antwoord nummer="2">Neen Bij de apparaten in het kader van het COMENIUS-project die door mij worden verstrekt zullen alle computers een intern geheugen van tenminste 2 MB en een harde schijf geheugen van 40 MB bevatten. In besprekingen met Philips en PRINT bleek dat de kwalitatieve baten ruimschoots opwegen tegen de meerprijs voor de leveringen in 1990. </antwoord>
+      <antwoord nummer="3">De belangstelling van de scholen over de jaren is niet in overeen– stemming met de beschikbare budgettaire ruimte en de opleidings– en ondersteuningscapaciteit. De stuurgroep COMENIUS, waarin de besturenorganisaties en het departement vertegenwoordigd zijn, zal rekening houdend met een aantal randvoorwaarden een advies terzake het leverschema opstellen op basis waarvan ik zal beslissen. Om mogelijke optredende demoti– vatie te voorkomen, zal ik met inachtneming van mijn beperkte budgettaire mogelijkheden en de beschikbare opleidings– en nascho– lingscapaciteit trachten zoveel als mogelijk de wensen van de scholen te honoreren. Het aantal scholen dat op een ander tijdstip geleverd krijgt zal ik minimaliseren. Ja. </antwoord>
+      <antwoord nummer="7">In een projectmatige opzet stelt de minister van Onderwijs na zorgvuldig overleg met het onderwijsveld speci– ficaties op, die vervolgens als standaard dienen. Apparatuur die door de minister wordt verstrekt, dan wel met een doelsubsidie wordt aangeschaft, voldoet aan deze standaard. Het RIB stelt niet de standaard voor het onderwijs. Wel heeft het RIB het onderwijsveld willen attenderen op de voordelen die door een standaard bereikt kunnen worden, ook buiten het basisonderwijs, speciaal onderwijs en voortgezet speciaal onderwijs. Als voorbeeld is daarvoor aandacht gevraagd voor de resul– taten die in het COMENIUS-project bereikt worden. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

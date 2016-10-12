@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0000971</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0000971&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0000971</item>
+         <item attribuut="Document-id">0000011275</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 39</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Sipkes (GroenLinks) over verstekelingen aan boord van het vrachtschip Daniella.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 39</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">39</item>
+         <item attribuut="Indiener">
+            <persoon partij="GroenLinks">Sipkes</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-09-17</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Kosto</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-10-02</item>
+         <item attribuut="Beginpagina">85</item>
+         <item attribuut="Eindpagina">86</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="85" allpagenumbers="85" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="" onderwerp="" indiendatum="">
+         <vrager partij="GroenLinks" oorsprong="parlement">Sipkes</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="39">Vragen van het lid Sipkes (Groen Links) over verstekelingen aan boord van het vrachtschip Daniella. (Ingezonden 17 september 1992) </vraag>
+      <vraag nummer="1">Is aan boord van het vrachtschip Daniella uit Rotterdam een achttal verstekelingen aangetroffen? Is een viertal van deze verstekelingen inmiddels naar hun land van herkomst teruggezonden? </vraag>
+      <vraag nummer="3">Wordt er een strafrechtelijk onderzoek ingesteld naar aanleiding van de klachten van de verstekelingen over mogelijke mishandelingen door de kapitein van de Daniella? </vraag>
+      <vraag nummer="4">Zal bij dat onderzoek tevens de mogelijke vermissing van twee verstekelingen worden betrokken, gezien de verklaring dat men met z'n tienen aan boord is gegaan? </vraag>
+      <vraag nummer="5">Krijgen de vier nog in Nederland verblijvende verstekelingen toegang tot de asielprocedure alsmede rechtsbijstand? </vraag>
+      <vraag nummer="6">Bent u bereid deze verstekelingen in ieder geval hangende het strafrechtelijk onderzoek toe te staan in Nederland te blijven? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="5 en 6">Geen van de 4 verstekelingen heeft een verzoek om toelating als vluchteling of een verzoek om een vergunning tot verblijf ingediend. De 4 verstekelingen zijn op 17 september 1992 niet teruggebracht aan boord van het die dag uit Nederland richting Nigeria vertrokken m.s. Daniella, omdat dat niet verantwoord werd geacht vanwege de gebeurtenissen die zich eerder mogelijk aan boord hebben afgespeeld. Onderzoek naar hun herkomst is nodig, aangezien de 4 verstekelingen hebben verklaard niet over een (geldig) reisdocument te beschikken en nog niet is komen vast te staan uit welk land zij afkomstig zijn. Zij zijn met toepassing van artikel 7A van de Vreemdelingenwet ondergebracht in het Grenshospitium, omdat aan hen de toegang tot ons land is geweigerd. Het staat hun vrij een beroep te doen op de hun wettelijk toekomende rechtsbijstand (die zij daar inmiddels hebben gekregen). Zolang de 4 verstekelingen in het Grenshospitium verblijven zijn zij in ieder geval ter beschikking van het Openbaar Ministerie ten behoeve van het strafrechtelijke onderzoek tegen de gezagvoerder van het m.s. Daniella. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

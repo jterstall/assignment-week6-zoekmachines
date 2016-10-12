@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001198</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001198&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001198</item>
+         <item attribuut="Document-id">0000106973</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 165</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Dijkstal en Kamp (beiden V.V.D.) over uitlatingen van de directeur-generaal Welzijn.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 165</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">165</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Dijkstal</persoon>
+            <persoon partij="VVD">Kamp</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-10-19</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Brinkman</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-11-19</item>
+         <item attribuut="Beginpagina">331</item>
+         <item attribuut="Eindpagina">332</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 6 - 1 9 8 7 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="165" onderwerp="uitlatin- gen van de directeur-generaal Welzijn." indiendatum="16 oktober 1986)">
+         <vrager partij="VVD" oorsprong="parlement">Dijkstal</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Kamp</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1 ">Heeft de minister kennis genomen  van de uitlatingen van de directeur- generaal Welzijn, de heer A.  J .  Gijsbers, die als volgt luiden: «In de  y  dertig jaar dat ik met welzijn bezig  ben, gaan we door het diepste dal,  dat ik tot nu toe heb meegemaakt»  en «het afmaken (van het karwei)  door Lubbers II is een dubbelzinnig  begrip»?'  </vraag>
+      <vraag nummer="2 ">Kan de minister bevestigen, dat deze  uitlatingen zijn gedaan?  </vraag>
+      <vraag nummer="3 ">Deelt de minister de opvattingen van  de heer Gijsbers?  </vraag>
+      <vraag nummer="4 ">Deelt de minister de mening van zijn  ambtgenoot, de minister van Defen- sie, dat ambtenaren worden geacht  zich te onthouden van het openbaren  van gedachten of gevoelens, indien  daarmee de goede vervulling van hun  functie of de goede functionering van  de openbare dienst, voor zover deze  in verband staat met hun functiever- vulling, niet in redelijkheid zou zijn  verzekerd evenals diens opvatting,  dat, wanneer toezeggingen van  loyale uitvoering van het beleid  vergezeld gaan van uitingen van  twijfel over de juistheid van dat  beleid, de geloofwaardigheid van die  toezeggingen niet wordt bevorderd,  zoals uitgesproken in deze Kamer op  14 oktober jl.?  </vraag>
+      <vraag nummer="5 ">Acht de minister het juist, dat nauw  bij het te voeren beleid betrokken  ambtenaren zich in commentariëren- de zin uiten over het te voeren beleid,  zonder de gevolgen te trekken van  hun afwijkende opvattingen?  </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Zie Volkskrant van 10 oktober 1986 </noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

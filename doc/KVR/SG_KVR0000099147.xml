@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="2">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19871988:0001433</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001433&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001433</item>
+         <item attribuut="Document-id">0000099147</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1987-1988 nummer 490</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Van Vlijmen, De Hoop Scheffer en Gualthérie van Weezel (allen C.D.A.) over het gebruik van chemische wapens tegen de bevolking van Halabja.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1987-1988 nummer 490</item>
+         <item attribuut="Jaargang">1987_1988</item>
+         <item attribuut="Vraagnummer">490</item>
+         <item attribuut="Indiener">
+            <persoon>Van Vlijmen</persoon>
+            <persoon>De Hoop Scheffer</persoon>
+            <persoon>Gualthérie van Weezel</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1988-03-28</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1988-04-18</item>
+         <item attribuut="Beginpagina">983</item>
+         <item attribuut="Eindpagina">984</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 7 - 1 9 8 8 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 7 - 1 9 8 8 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="490" onderwerp="het gebruik van chemische wapens tegen de bevolking van Halabja." indiendatum="28 maart 1988)">
+         <vrager partij="" oorsprong="parlement">Van Vlijmen</vrager>
+         <vrager partij="" oorsprong="parlement">De Hoop Scheffer</vrager>
+         <vrager partij="" oorsprong="parlement">Gualthérie van Weezel</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="18 april 1988)">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">V a n d e n Broek</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1 ">Bent u voornemens, al dan niet in  EPS-verband, diplomatieke stappen  te ondernemen naar aanleiding van  de berichten over het gebruik van  chemische wapens tegen de bevol- king van Halabja?')  </vraag>
+      <vraag nummer="2 ">Is deze massamoord reeds in de  Veiligheidsraad van de Verenigde  Naties aanhangig?  </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Zie NRC Handelsblad van 18 en 22 maart  en de Volkskrant van 23 maart il </noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1 ">Naar aanleiding van de berichten  over het gebruik van chemische  wapens tegen de bevolking van  Halabja zijn van Nederlandse zijde  zowel in multilateraal als bilateraal  kader verscheidene activiteiten  ontwikkeld. In EPS-kader is door  Nederland het initiatief genomen tot  een stap, 24 maart jl., namens de  Twaalf bij de Secretaris-Generaal van  de Verenigde Naties, bij welke  gelegenheid andermaal tot uitdruk- king is gebracht dat het gebruik van  chemische wapens scherp wordt  veroordeeld.  Zowel in de vorm van een door  mijn ministerie uitgegeven verklaring,  alsook langs diplomatieke  w e g is er  tegenover de Iraakse regering blijk  van gegeven, dat de Nederlandse  Regering met afschuw heeft kennis- genomen van de berichten over  hernieuwd gebruik van chemische  wapens en het bijzonder ernstig acht  dat deze blijkbaar voornamelijk zijn  ingezet tegen de burgerbevolking.  De Nederlandse vertegenwoordiger  in de Geneefse Ontwapeningsconfe- rentie (CD) heeft zich eveneens in  deze zin uitgesproken. Ook is  namens de Westelijke CD-landen,  waaronder Nederland, het onderhavi- ge gebruik van chemische wapens  scherp veroordeeld.  </antwoord>
+      <antwoord nummer="2 ">Tot op heden is deze kwestie nog  niet formeel in de Veiligheidsraad  aan de orde geweest.  W e l heeft de  Secretaris-Generaal van de VN op  verzoek van de Iraanse regering een  tweetal experts op het gebied van  chemische wapens voor onderzoek  naar Teheran gezonden. Irak heeft  inmiddels eveneens verzocht om een  bezoek van VN-experts aan Bagdad.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

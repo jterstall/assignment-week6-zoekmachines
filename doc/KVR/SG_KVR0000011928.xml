@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001624</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001624&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001624</item>
+         <item attribuut="Document-id">0000011928</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 694</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Feenstra (PvdA) over ondergrondse gasopslag.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 694</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">694</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Feenstra</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-06-07</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Andriessen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-06-29</item>
+         <item attribuut="Beginpagina">1417</item>
+         <item attribuut="Eindpagina">1418</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1417" allpagenumbers="1417" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aünhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="'s Gravenhage 1993"/>
+      <vraagdata vraagnummer="694" onderwerp="ondergrondse gasops/ag." indiendatum="1993-06-7">
+         <vrager partij="PvdA" oorsprong="parlement">Feenstra</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="29juni 1993">
+         <antwoorder functie="minister" ministerie="Economische Zaken">Andriessen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1">Willen andere maatschappijen, evenals de NAM, in het Drentse Langelo een ondergrondse opslag voor aardgas realiseren, om ook in perioden van maximale afname aan de binnenlandse vraag naar aardgas te kunnen voldoen? Zou met dit doel realisatie van dergelijke projecten dichter bij een concentratie van afnemers niet meer voor de hand liggen? </vraag>
+      <vraag nummer="3">Heeft het realiseren van een extra aardgasopslag ook, of primair een functie in het kader van het aardgasexportbeleid? </vraag>
+      <vraag nummer="4">Op hoeveel locaties zou binnen Nederland een dergelijke ondergrondse aardgasopslag te realiseren zijn? </vraag>
+      <vraag nummer="5">Zijn bij deze mogelijke locaties ook aardschokken geregistreerd? Zo ja, beïnvloeden dergelijke schokken ook de geschiktheid van deze locaties voor de aanleg van een ondergrondse aardgasopslag? </vraag>
+      <vraag nummer="6">Op basis van welke argumenten heeft de NAM een keuze gemaakt voor de aanleg bij Langelo? </vraag>
+      <vraag nummer="7">Acht u de aanleg van een ondergrondse aardgasopslag passend binnen een gebied dat de aanduiding van Ecologische Hoofdstructuur draagt? Toelichting Deze vragen dienen ter aanvullmg op vragen terzake van de leden Tommel en Nuis, ingezonden 4 juni jl. </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="2"/>
+         <noot nummer="1"/>
+         <noot nummer="1"> Zie Tweede Structuurschema Elektriciteitsvoorziening, Deel 3, hoofdstuk 3.4 en 3.5, Kamerstuk 22 606, nr. 5</noot>
+         <noot nummer="2"> De aanleg van een ondergrondse aardgasopslag vergt bovengronds 25 hectare ruimtebeslag, 10 a 15 meter hoge installaties en gebouwen en een 100 meter hoge affakkelpijp</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Mij zijn geen plannen bekend van andere maatschappijen, die opslag van aardgas in Nederland overwegen. De ideale plaats voor aardgasopslag is een plaats die zo dicht mogelijk bij de eindverbruiker ligt. In de praktijk moet echter rekening worden gehouden met andere criteria als: geologische mogelijkheden, ruimtelijke ordening, milieu en natuur, gaskwaliteit, aansluiting op transportnet, en andere. De noodzaak tot het aanleggen van ondergrondse gasopslag komt voort uit het feit, dat de gewenste beschikbaarheid van gas achterblijft bij de produktiemogelijkheid. De gewenste beschikbaarheid wordt bepaald door de binnenlandse gasvraag en de bestaande contractuele exportverplichtingen. De produktiemogelijkheid wordt bepaald door de inkoopcontracten (waaronder import) en de capaciteit van het Groningen-veld. </antwoord>
+      <antwoord nummer="4">In beginsel kan ieder gasveld in aanmerking komen om te worden gebruikt voor gasopslag. Er zijn echter grote onderlinge verschillen tussen de velden, gelet op de diverse criteria, zoals genoemd in het antwoord op vraag 2, die bij de beoordeling van de geschiktheid een rol spelen. </antwoord>
+      <antwoord nummer="5" voetnoot="1">De Epicentra van aardbevingen in Nederland t/m 1990 zijn systematisch gerangschikt in de catalogus aardbevingen in Nederland van het KNMI (Houtgast, september 1991). De epicentra van enkele van deze bevingen liggen in gebieden met gasvelden, maar dateren dan soms van ver voor de gaswinning. Dergelijke schokken beïnvloeden niet de geschiktheid van deze velden voor ondergrondse opslag. Zie hiervoor ook het antwoord op vraag 5 van de Kamerleden Tommel en Nuis <voetnoot nummer="1"/> dat ik een dezer dagen aan de Kamer heb gezonden. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="3"> Aanhangsel Handelingen nummer 591, vergaderjaar 1992-1993</noot>
+      </noten>
+   </antwoorden>
+</kvr>

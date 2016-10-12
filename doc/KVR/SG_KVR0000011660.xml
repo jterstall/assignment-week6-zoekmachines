@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001356</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001356&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001356</item>
+         <item attribuut="Document-id">0000011660</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 426</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Blauw (VVD) over officiële verzuringscijfers.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 426</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">426</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Blauw</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-02-26</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Alders</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-03-22</item>
+         <item attribuut="Beginpagina">873</item>
+         <item attribuut="Eindpagina">874</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="873" allpagenumbers="873 874" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="426" onderwerp="officiële verzuringscijfers." indiendatum="1993-02-26">
+         <vrager partij="VVD" oorsprong="parlement">Blauw</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-03-22">
+         <antwoorder functie="minister" ministerie="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer">Alders</antwoorder>
+         <mede-antwoorder>de minister van Landbouw, Natuurbeheer en Visserij</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Hebt u kennis genomen van het artikel «Officiële verzuringscijfers onjuist»? <voetnoot nummer="1"/>Waren de cijfers die doorslag gaven bij het toekennen van een Hinderwetvergunning inderdaad verouderd? Zo ja, waren ambtenaren van het RIVM en VROM van dit feit op de hoogte? Zo neen, op basis van welke wetenschap hebben de ambtenaren die in het artikel worden geciteerd hun uitspraken dan gedaan? </vraag>
+      <vraag nummer="3">Hoeveel vergunningen zijn aangevochten, geweigerd, ingetrokken en vernietigd op basis van achterhaalde getallen? </vraag>
+      <vraag nummer="4">Kan de Kamer kennisnemen van geactualiseerde gegevens waarm rekening is gehouden met injecteren en afvoeren van mest voordat deze moet oordelen over de zogenaamde Noodwet? </vraag>
+      <vraag nummer="5">Indien de cijfers «op zijn vroegst duidelijk worden in de loop van dit jaar» welke gevolgen heeft dat dan voor het voorgenomen beleid op grond van de Noodwet en de derde fase mestbeleid? Is het waar dat de oude cijfers van het RIVM niet openbaar waren en louter waren bedoeld om er algemeen beleid op te baseren? Zo ja, hoe was het mogelijk dat deze gegevens bekend zijn geworden? </vraag>
+      <vraag nummer="7">Acht u het juist dat de intensieve veehouderij zulke verstrekkende investeringen moet doen terwijl het beleid slechts gebaseerd is op aannames en vuistregels in plaats van objectieve criteria? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Zie Boerderij 23 februari J.I., blz. 8 en 9</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja, daarvan is kennis genomen. Het is niet juist om van verouderde cijfers te spreken; cijfers van 1989 voor depositie op geheel Nederland wijken slechts beperkt af van die voor 1991. De cijfers die door de Raad van State worden gehanteerd bij het toetsen van een Hinderwetvergunning zijn de beste cijfers die op dit moment beschikbaar zijn. Ze geven gemiddelde deposities op 5 km x 5 km schaal, maar ze zijn niet primair berekend voor gebruik op bedrijfsniveau. Ze hebben betrekking op het jaar 1989 en zijn afkomstig uit de in 1991 afgeronde tweede fase van het Additioneel Programma Verzuringsonderzoek. Dit omvangrijke onderzoeksprogramma werd gecoördineerd door het RIVM en begeleid vanuit VROM en LNV. </antwoord>
+      <antwoord nummer="3">Het totaalcijfer van het aantal vergunningen dat is aangevochten, geweigerd of ingetrokken op basis van de momenteel in gebruik zijnde versie van de cijfers van het RIVM is niet beschikbaar Omdat deze procedures onder de bevoegdheid van de betreffende vergunningverlener (de gemeenten) vallen zijn deze cijfers daar beschikbaar. Bij beroepsprocedures worden de depositiecijfers van het RIVM sinds vorig jaar gebruikt; de eerste adviezen in deze zin werden naar schatting ongeveer een half jaar geleden openbaar gemaakt door de Raad van State. Vanaf dat moment is een toenemend aantal gemeenten gebruik gaan maken van de RIVM-cijfers. Sinds oktober 1992 zijn 169 beroepszaken over veehouderijen binnengekomen waarvan naar schatting ruim 50% betrekking had op ammoniak (niet altijd persé m.b.t. achtergrond depositie van ammoniak). </antwoord>
+      <antwoord nummer="4">De Interimwet ammoniak en veehouderij ligt op dit moment bij de Raad van State en zal naar verwachting voor de zomer aan de doorgevoerd. Uit de Evaluatie Ammoniakbeleid en uit cijfers uit jaarrapportages van het RIVM (gebaseerd op metingen van het Landelijk Meetnet), blijkt dat de depositie per zogenaamd verzuringsgebied in de periode 1989-1991 nog slechts weinig is veranderd. In deze rapporten is Nederland verdeeld in 20 verzurïngsgebieden, die dus groter zijn dan 5 km x 5 km grids. In sommige gevallen is de depositie met maximaal ca. 10% afgenomen. Door een verdere introductie van emissie-arme aanwendingstechnieken, emissie-arme stallen, mestopslag, aanpassingen van veevoeding en mestverwerking zijn in de komende jaren nog aanzienlijke emissiereducties te behalen. Daarmee zullen ook de deposities afnemen. van 2400 zuurequivalenten per hectare per jaar in het jaar 2000 gehaald kan worden, wordt daarmee overschreden. Op basis hiervan kan gesteld worden dat het gat tussen het doel en de huidige situatie nog zó groot is dat verstrekkende investeringen in alle gevallen noodzakelijk zijn. In de Interimwet ammoniak en veehouderij spelen de depositiecijfers van het RIVM geen rol omdat hierbij geen rekening gehouden hoeft te worden met de achtergronddepositie van ammoniak. Bij do totstandkoming van de Nota derde fase mestbeleid wordt uitgegaan van de uitkomsten van de evaluatie van het ammoniakbeleid. Gezien het gehanteerde schaalniveau bij het generieke mest– en ammoniakbeleid hebben eventuele nieuwe depositiegegevens op 5 km x 5 km schaal geen directe gevolgen voor de verdere ontwikkeling van dit beleid. </antwoord>
+      <antwoord nummer="6">Het is onjuist dat de cijfers niet </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19941995:0000435</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000435&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000435</item>
+         <item attribuut="Document-id">0000000435</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1994-1995 nummer 101</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van der Ploeg (PvdA) over het Trading System Amsterdam.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1994-1995 nummer 101</item>
+         <item attribuut="Jaargang">1994_1995</item>
+         <item attribuut="Vraagnummer">101</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Van der Ploeg</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-09-27</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Wijers</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-10-20</item>
+         <item attribuut="Beginpagina">201</item>
+         <item attribuut="Eindpagina">202</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1994-1995" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door da regering gegeven antwoorden"/>
+      <footer firstpaginanummer="201" allpagenumbers="201" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1994-1995, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's-Gravenhage 1994"/>
+      <vraagdata vraagnummer="101" onderwerp="het Trading System Amsterdam." indiendatum="1994-09-27">
+         <vrager partij="PvdA" oorsprong="parlement">Van der Ploeg</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-10-20">
+         <antwoorder functie="minister" ministerie="Economische Zaken">Wijers</antwoorder>
+         <mede-antwoorder>de minister van Financiën</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Heeft het nieuwe handelssysteem van de Amsterdamse effectenbeurs (Trading System Amsterdam) het voordeel dat pre-trade informatie beschikbaar is, maar hiernaast het kenmerk dat per fonds slechts één hoekman (specialist) optreedt wanneer het om relatief kleine transacties onder de wholesale-grens gaat? Is dit laatste niet in strijd met de Wet Economische Mededinging? </vraag>
+      <vraag nummer="2">Bent u bereid zo spoedig mogelijk maatregelen te treffen om een onbelemmerde concurrentie tussen hoeklieden te bewerkstelligen en dit kartel te ontbinden? </vraag>
+      <vraag nummer="3">Hoe denkt u tot een verlaging van tarieven te komen die de internationale concurrentiepositie van de Amsterdamse effectenbeurs waarborgt? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Het nieuwe handelssyteem van de Amsterdamse effectenbeurs heeft inderdaad het voordeel dat pre-trade informatie beschikbaar is en heeft hiernaast het kenmerk dat per fonds slechts één hoekman (specialist) optreedt wanneer het om transacties onder de zo genoemde wholesale-grens gaat. Over de vraag of het laatstgenoemde in strijd is met de Wet economische mededinging (WEM) kan ik het volgende opmerken: Op 20 september 1994 heeft een aantal «market makers» - werkzaam op de European Options Exchange te Amsterdam - mij verzocht ondermeer het principe van één hoekman per fonds te toetsen aan de WEM. Om mijn standpunt te kunnen bepalen over dit verzoek heb ik aan de Vereniging voor de Effectenhandel (VvdE) nadere informatie gevraagd. Mede aan de hand van de aldus verkregen informatie zal ik mij - samen met de medebetrokken ministervan Financiën - beraden over de beantwoording van genoemd verzoek. doorgevoerd door de VvdE - hangt af of de minister van Financiën en ik bepaalde maatregelen - met toepassing van de WEM - nemen. </antwoord>
+      <antwoord nummer="3">Eén van de vragen die bij de onder 1 en 2 bedoeide standpuntbepaling aan de orde komen betreft de tariefstelling - vervat in het Courtagereglement van de VvdE - welke geldt voor de activiteiten van hoeklieden binnen de Amsterdamse effectenbeurs. Van de standpuntbepaling over het onder 1 genoemde verzoek - en dus over de vernieuwingen, welke met ingang van 1 oktober jl. zijn </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

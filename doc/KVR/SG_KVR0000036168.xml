@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001761</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001761&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001761</item>
+         <item attribuut="Document-id">0000036168</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 837</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Korthals (V.V.D.) over een actie bij het vervoer van erts in de binnenvaart.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 837</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">837</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Korthals</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-07-19</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Andriessen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-08-03</item>
+         <item attribuut="Beginpagina">1691</item>
+         <item attribuut="Eindpagina">1692</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1691" allpagenumbers="1691" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="837" onderwerp="een actie bij het vervoer van erts in de binnenvaart." indiendatum="1990-07-19">
+         <vrager partij="VVD" oorsprong="parlement">Korthals</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-08-3">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat a.i.">Andriessen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Hebt u kennis genomen van publi– caties <voetnoot nummer="1"/>, volgens welke eeri groepje schippers een Belgische collega heeft verhinderd vervoer van erts te verrichten tussen de Maasvlakte en Zwijndrecht? </vraag>
+      <vraag nummer="2" voetnoot="2">Is het waar, dat dit vervoer op grond van de Akte van Mannheim en de WGB <voetnoot nummer="2"/> vrij tot stand kan komen indien daarvoor een buitenlandse vervoerondernemer wordt gecon– tracteerd? </vraag>
+      <vraag nummer="3">Op welke wijze denkt u ertoe bij te dragen, dat de uitvoering van op legitieme wijze tot stand gekomen vervoercontracten niet wordt verhinderd door acties van indivi– duele schippers? </vraag>
+      <vraag nummer="4">Deelt u de mening, dat dergelijke acties een negatief effect hebben op het streven de binnenvaart meer in te schakelen in het goederenvervoer, zoals wordt beoogd in de verkeers– en vervoersplannen van de regering? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Publicaties: - Weekblad Schutttevaer d.d. Ujuli 1990 -Scheepvaartkrant d.d. lOjuli 1990</noot>
+         <noot nummer="2"> WGB = Wet Goederenvervoer Binnen– scheepvaart</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja. Ja, indien daarvoor binnenschepen worden gecontracteerd van onder– danen van andere staten dan Nederland en van rechtspersonen, opgericht naar buitenlands recht (artikel 2, derde lid, Wet Goederen– vervoer Binnenscheepvaart). </antwoord>
+      <antwoord nummer="3">Het ligt in de rede dat het betrokken bedrijfsleven over dit vervoer in eerste instantie zelf overleg voert. Naar ik vernomen heb, zal dat ook op korte termijn gebeuren. Op de resul– taten van dit overleg wil ik niet vooruit lopen. </antwoord>
+      <antwoord nummer="4">Een dergelijke actie kan het beeld van de binnenvaart negatief beïnvloeden, hetgeen ik een ongewenste zaak acht. Het nadelig effect van een dergelijke actie moeten we niet overschatten: de binnenvaart kiest op velerlei wijze juist steeds sterker een klantvriende– lijke opstelling, waardoor zij een grotere rol zal krijgen in het goede– renvervoer, zoals wordt beoogd in de verkeers– en vervoerplannen van de regering. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19871988:0001050</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001050&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001050</item>
+         <item attribuut="Document-id">0000098764</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1987-1988 nummer 113</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Oomen-Ruijten (C.D.A.), Franssen (V.V.D.), van Otterloo (P.v.d.A.) en Nypels (D66) over de BVG-problematiek.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1987-1988 nummer 113</item>
+         <item attribuut="Jaargang">1987_1988</item>
+         <item attribuut="Vraagnummer">113</item>
+         <item attribuut="Indiener">
+            <persoon>Oomen-Ruiten</persoon>
+            <persoon>Franssen</persoon>
+            <persoon>vanOtterloo</persoon>
+            <persoon>Nypels</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-10-09</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Dees</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-11-10</item>
+         <item attribuut="Beginpagina">225</item>
+         <item attribuut="Eindpagina">226</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="" typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 7 - 1 9 8 8 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="113" onderwerp="de BVG-problematiek." indiendatum="9 oktober 1987)">
+         <vrager partij="" oorsprong="parlement">Oomen-Ruiten</vrager>
+         <vrager partij="" oorsprong="parlement">Franssen</vrager>
+         <vrager partij="" oorsprong="parlement">vanOtterloo</vrager>
+         <vrager partij="" oorsprong="parlement">Nypels</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="10 november 1987)">
+         <antwoorder functie="staatssecretaris" ministerie="Welzijn, Volksgezondheid en Cultuur">D e e s</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1 ">Herinnert u zich uw toezegging in het  mondeling overleg van 20 januari  j l . ,  overleg te voeren over een onthef - fingsbeschikking ex artikel  4 7 , lid 3  Ziekenfondswet ter oplossing van de  BVG-problematiek van de medewer- kers-fysiotherapie? </vraag>
+      <vraag nummer="1 "/>
+      <vraag nummer="2 ">W a t is de stand van zaken nu?  Het verslag van het mondeling  overleg is gepubliceerd als kamerstuk  19 700  X V I , nr. 133. Het betreft hier  de opstelling van de Bedrijfsvereni- ging voor de Gezondheid, Geestelijke  en Maatschappelijke Belangen  terzake van de betaling van sociale  premies door de zgn. praktijkmede- werkers.  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1 ">Ja. Ik teken hierbij overigens aan dat  mijn toezegging inhield dat ik overleg  zou voeren met de fysiotherapeuten- organisaties en de Vereniging van  Nederlandse Ziekenfondsen over de  problematiek rond de positie van  medewerkers in fysiotherapeuten- praktijken.  Tijdens dit overleg zou besproken  worden of een oplossing bereikt kon  worden via de modelovereenkomst  ziekenfonds-fysiotherapeut of een  eventuele wijziging van deze model- overeenkomst, terwijl tevens de  gesuggereerde aanpassing van de  ontheffingsbeschikking op grond van  artikel  4 7 , derde lid, van de Zieken- foindswet aan de orde zou worden  gesteld.  </antwoord>
+      <antwoord nummer="2 ">Inmiddels heeft het overleg met alle  betrokken fysiotherapeutenorganisa- ties en de Vereniging van Nederlandse  Ziekenfondsen plaatsgevonden. Naar  aanleiding van dit overleg beraad ik  mij thans over een standpunt. Ik zal  mijn standpunt over enkele weken  aan de Kamer mededelen.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

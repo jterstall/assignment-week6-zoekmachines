@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="berichten." aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0000042</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0000042&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0000042</item>
+         <item attribuut="Document-id">0000026379</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Eerste Kamer 1990-1991 nummer 4</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Eerste Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de heer Schuurman (R.P.F.) inzake de wenselijkheid om een «Adviescommissie Ethiek en Biotechnologie bij planten» in te stellen.</item>
+         <item attribuut="titel">Aanhangsel Eerste Kamer 1990-1991 nummer 4</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">4</item>
+         <item attribuut="Indiener">
+            <persoon>Schuurman</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-08-20</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Bukman</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-10-15</item>
+         <item attribuut="Beginpagina">7</item>
+         <item attribuut="Eindpagina">8</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Eerste Kamer der Staten-Generaal" kamer="1" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen door de leden der Kamer gesteld overeenkomstig artikel schriftelijk gegeven antwoorden"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Eerste Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeveni 's Gravenhage 1 990"/>
+      <vraagdata vraagnummer="Vragen" onderwerp="" indiendatum="1990-08-20">
+         <vrager partij="" oorsprong="parlement">Schuurman</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1">Herinners de minister zich dat hij tijdens het beleidsdebat over zaken rakende het Ministerie van Landbouw, Natuurbeheer en Visserij op 29 mei jl. aan de R.P.F.-fractie heeft toegezegd na te gaan of het gewenst is een Adviescommissie Ethiek en Biotechnoligie bij planten in te stellen in navolging van een eerder ingestelde Adviescommissie Ethiek en Biotechnologie bij dieren? (Handelingen Eerste Kamer, 1990, p. 24-984). Toelichting: Indien onder ethiek van de biotechnologie wordt verstaan de systematische reflectie op biotech– nologie in het licht van normen en waarden, valt ook de risico-analyse onder de ethische bezinning. </vraag>
+      <vraag nummer="2">Heeft de minister kennis genomen van het recente rapport van de Vakgroep Fytopathologie van de Landbouwuniversiteit te Wageningen: Mogelijke gevaren van transgene planten voor wilde planten - Een bijdrage tot de risico-analyse? </vraag>
+      <vraag nummer="3">Geven de ernstige conclusies van het bovengenoemde rapport alsmede de beperking van de risico-analyses tot genetische manipulatie van slechts enkele gewassen, ondanks voorde– lelen van genetische gemanipuleerde oogstgewassen, geen extra reden om alsnog de bovengenoemde adviescommissie in te stellen? </vraag>
+      <vraag nummer="4">Zou een analyse van de probleem– velden van de genetische manipu– latie van planten, alsmede het geven van een aanzet voor een ethisch toetsingskader niet het antwoord kunnen zijn op actiegroepen, zoals «Ziedende Bintjes», «Zinderende Zonnebloem» en «De Woedende Escorts», die tot nu toe serieus klein– schalige veldproeven onmogelijk maakten? </vraag>
+      <vraag nummer="5">Zou de minister vanwege mogelijke gevolgen van transgene planten voor het milieu willen overwegen om de gesuggereerde Adviescommissie in samenwerking met het ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer in te stellen? </vraag>
+      <vraag nummer="6">Wil de minister bovendien bevor– deren dat - eventueel via richtlijnen van de in te stellen Adviescommissie - in internationaal verband afspraken worden gemaakt over wat wel of niet aanvaardbaar is bij transgene planten? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+   <mededeling mededeler="heer Bukman, minister van Landbouw, Natuur– beheer en Visserij." functie="de" afdeling="Ontvangen 15 oktober 1990" mededelingdatum="1990-10-15">Mededeling van de heer Bukman, minister van Landbouw, Natuur– beheer en Visserij. (Ontvangen 15 oktober 1990) De bij brief aan mij toegezonden vragen van het lid van de Eerste Kamer der Staten-Generaal, de heer Schuurman, inzake Ethiek en Biotechnologie bij planten kunnen tot mijn spijt niet binnen de daarvoor geldende termijn worden beant– woord. De reden van het uitstel is de noodzakelijke inwinning van ambts– </mededeling>
+</kvr>

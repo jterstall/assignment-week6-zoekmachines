@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="belastingschuld indienen?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Van As en Nawijn (beiden LPF) aan de staatssecretaris van Financiën over de wijziging van de Leidraad invordering 1990. (Ingezonden 17 januari 2005)</item>
+         <item attribuut="Bestand">16Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V040506430
+</item>
+         <item attribuut="Inhoud">Vragen over een recente wijziging van de praktijk van de Belastingdienst, waarbij voor meestal kleine ondernemers in het midden- en kleinbedrijf met een belastingschuld die zelf een afbetalingsregeling voorstellen, een faillissementsaanvraag wordt ingediend.</item>
+         <item attribuut="Rubriek">Bedrijfsleven en industrie (Midden- en kleinbedrijf) Belastingen (Algemeen) Burgerlijk recht en burgerlijk procesrecht (Faillissementsrecht)</item>
+         <item attribuut="Trefwoorden">Belastingen Faillissementen Midden- en kleinbedrijf</item>
+         <item attribuut="Vindplaats">Kamervragen 2004-2005, vraagnr. 2040506430, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2040506430</item>
+         <item attribuut="Indiener">
+            <persoon partij="LPF">Van As</persoon>
+            <persoon partij="LPF">Nawijn</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2005-01-17</item>
+         <item attribuut="Document-id">V040506430</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2004–2005" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0405tkkvl2040506430" lopendefooter="Tweede Kamer, vergaderjaar 2004–2005, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2005"/>
+      <vraagdata vraagnummer="2040506430" onderwerp="" indiendatum="2005-01-17">
+         <vrager partij="LPF" oorsprong="parlement">Van As</vrager>
+         <vrager partij="LPF" oorsprong="parlement">Nawijn</vrager>
+         <vraagt-aan>de staatssecretaris van Financiën</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="10">
+      <vraag nummer="1">Bent u bekend met de recente wijziging van de praktijk van de Belastingdienst, waarbij voor meestal kleine ondernemers in het midden- en klein bedrijf met een belastingschuld die zelf een afbetalingsregeling voorstellen, een faillissementsaanvraag wordt ingediend? </vraag>
+      <vraag nummer="2" voetnoot="1">Is het waar dat deze praktijk is ingegeven door wijziging en/of aanscherping van de Leidraad Invordering 1990? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="3">Is de aanleiding tot deze aanscherping en/of wijziging van de Leidraad de zogenaamde «Vinkenslagaffaire» geweest? Zo neen, wat was dan de aanleiding voor deze wijziging? </vraag>
+      <vraag nummer="4">Heeft de wijziging en/of aanscherping van de Leidraad Invordering al geleid tot aanvragen tot faillietverklaring van ondernemers? Zo ja, in hoeveel gevallen? Zo neen, in hoeveel gevallen is akkoord gegaan met een door de ondernemer voorgestelde betalingsregeling? </vraag>
+      <vraag nummer="5">Hoe rijmt u deze verandering van de werkwijze van de Belastingdienst met het uitgangspunt van het kabinet om juist de kleine ondernemers te ondersteunen in deze tijden van economische recessie? </vraag>
+      <vraag nummer="6">Is het waar dat op de grond van de Leidraad Invordering het belang van werknemers die na een faillissement worden ontslagen niet expliciet wordt meegewogen? Zo neen, waarom niet? </vraag>
+      <vraag nummer="7" voetnoot="2">Is het waar dat de Leidraad Invordering voor «gewone» aanslagen – die dus geen conserverend inkomen bevatten – geen uitstel van betaling voor meer dan 12maanden kent? <voetnoot nummer="2"/>Zo neen, onder welke voorwaarden kan uitstel van betaling voor langer dan 12 maanden worden verleend? </vraag>
+      <vraag nummer="8">Wat zijn de criteria op basis waarvan het ministerie van Financiën een verzoek van een Ontvanger tot toestemming voor een faillietverklaring goedkeurt? Waar zijn deze criteria gepubliceerd? </vraag>
+      <vraag nummer="9">Bent u bereid de gewijzigde Leidraad Invordering aan de Tweede Kamer der Staten-Generaal over te leggen? </vraag>
+      <vraag nummer="10">Op welke wijze denkt u tegemoet te komen aan de kleine ondernemers die in moeilijk vaarwater zijn gekomen en zelf een verantwoorde regeling voor afbetaling van hun </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1">Besluit van 23 december 2004, nr. CPP2004/2905M, Stcrt. 251, hierna: Leidraad Invordering</noot>
+         <noot nummer="2">Punt J.43 Leidraad Invordering</noot>
+      </noten>
+   </antwoorden>
+</kvr>

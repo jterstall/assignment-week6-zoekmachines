@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001064</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001064&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001064</item>
+         <item attribuut="Document-id">0000011368</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 133</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Middel (PvdA) over het project van de Arbeidsinspectie Overijssel, Oostelijk Gelderland en de Noordoostpolder ten aanzien van vakantiewerkers.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 133</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">133</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Middel</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-10-12</item>
+         <item attribuut="Beantwoorder">
+            <persoon>De Vries</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-11-11</item>
+         <item attribuut="Beginpagina">277</item>
+         <item attribuut="Eindpagina">278</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="277" allpagenumbers="277" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="133" onderwerp="het project van de Arbeidsinspectie Overijssel, Oostelijk Gelderland en de Noordoostpolder ten aanzien van vakantiewerkers." indiendatum="1992-10-12">
+         <vrager partij="PvdA" oorsprong="parlement">Middel</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-11-11">
+         <antwoorder functie="minister" ministerie="Sociale Zaken en Werkgelegenheid">De Vries</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Kent u de resultaten van het project van de Arbeidsinspectie in Overijssel, Oostelijk Gelderland en de Noordoostpolder ten aanzien van vakantiewerkers?' Moesten in 45 gevallen de werkzaamheden wegens de daaraan verbonden gevaren worden gestaakt? Zo ja, bent u van mening, dat het zeer onwenselijk is dat zo'n groep jonge werknemers blijkbaar gevaarlijk werk verricht? </vraag>
+      <vraag nummer="3">Hebben in andere districten van de Arbeidsinspectie vergelijkbare projecten plaatsgevonden? Zo ja, wat waren de resultaten hiervan? </vraag>
+      <vraag nummer="4">Bent u bereid te stimuleren dat de aanpak van de Arbeidsinspectie Overijssel, Oostelijk Gelderland en de Noordoostpolder wordt uitgebreid naar alle districten van de Arbeidsinspectie? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" titel="Werkgevers onderschatten gevaren van vakantiewerk"> De Telegraaf van 1 oktober1992: «Vakantiewerk vaak riskant»; De Staatscourant nr. 190: «Werkgevers onderschatten gevaren van vakantiewerk»</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja. In de vakantieperiode zijn in dit district van de Arbeidsinspectie bedrijven gecontroleerd op mogelijk gevaarlijk vakantiewerk. Het project bestond niet alleen uit inspecteren. In het voorjaar is ook veel aan voorlichting gedaan, in het bijzonder gericht op uitzendbureaus. </antwoord>
+      <antwoord nummer="2">Het was niet zo dat de werkzaamheden werden gestaakt, maar dat het de werkgever verboden werd deze werkzaamheden te laten verrichten door jeugdige werknemers. Het ging daarbij om het werken met gevaarlijke machines, het werken met gevaarlijke stoffen, het werken onder een te hoog geluidsniveau, machinegebonden arbeid, tillen van zware lasten en valgevaar. In alle gevallen waren de werkgevers bereid zelf de betreffende werkzaamheden te doen beëindigen en bleek ook bij hercontrole dat het verboden werk niet meer door jeugdigen werd gedaan. Het moge duidelijk zijn dat ik van mening ben dat de verbodsbepalingen betreffende gevaarlijk, ongezonde, arbeid van het Arbeidsbesluit Jeugdigen dienen te worden nageleefd. </antwoord>
+      <antwoord nummer="3">De afgelopen jaren zijn er ook in andere districten van de Arbeidsinspectie inspectieprojecten tijdens de schoolvakantie uitgevoerd. Het betrof hierbij projecten gericht op de voedings– en genotmiddelenindustrie (uitgevoerd in 1989) en op de horeca (uitgevoerd in 1991 en 1992). Bij de uitvoering van deze projecten werden 142 overtredingen geconstateerd van de verbodsbepalingen van het Arbeidsbesluit Jeugdigen en 225 overtredingen van de werk– en rusttijdbepalingen voor jeugdigen. Verder werd in 13 gevallen het arbeidsverbod voor kinderen overtreden. </antwoord>
+      <antwoord nummer="4">Enige tijd geleden is reeds besloten om in de vakantieperiode 1993 extra aandacht te besteden aan het vakantiewerk van jeugdigen. Daartoe zal een tweedaagse landelijke inspectie plaatsvinden, waar alle districten van de Arbeidsinspectie aan deelnemen. Hierbij zal in ± 4000 industriële bedrijven controle plaatsvinden op de naleving van de verbodsbepalingen van het Arbeidsbesluit Jeugdigen. Voorafgaand aan deze landelijke inspectie zal specifiek aandacht besteed worden aan het geven van informatie naar uitzendorganisaties en onderwijsinstellingen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

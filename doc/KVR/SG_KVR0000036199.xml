@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001792</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001792&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001792</item>
+         <item attribuut="Document-id">0000036199</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 868</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Leerling (R.P.F.), Van der Vlies (S.G.P.) en Schutte (G.P.V.) over het huwelijk.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 868</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">868</item>
+         <item attribuut="Indiener">
+            <persoon>Leerling</persoon>
+            <persoon>Van der Vlies</persoon>
+            <persoon>Schutte</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-07-06</item>
+         <item attribuut="Beantwoorder">
+            <persoon>D 'Ancona</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-08-27</item>
+         <item attribuut="Beginpagina">1753</item>
+         <item attribuut="Eindpagina">1754</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1753" allpagenumbers="1753" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="868" onderwerp="het huwelijk." indiendatum="1990-07-6">
+         <vrager partij="" oorsprong="parlement">Leerling</vrager>
+         <vrager partij="" oorsprong="parlement">Van der Vlies</vrager>
+         <vrager partij="" oorsprong="parlement">Schutte</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-08-27">
+         <antwoorder functie="minister" ministerie="Welzijn, Volksgezondheid en Cultuur">d'Ancona</antwoorder>
+         <mede-antwoorder>de minister van Justitie</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Heeft de minister van Welzijn, Volks– gezondheid en Cultuur gezegd, dat het huwelijk niet de meest ideale regeling is voor een relatie tussen twee mensen en dat er betere wette– lijke regelingen moeten komen om relaties over en weer te ordenen? </vraag>
+      <vraag nummer="2">Vertolkte de minister van Welzijn, Volksgezondheid en Cultuur hierbij het kabinetsstandpunt? Zo neen, waarom heeft zij door dergelijke uitspraken onduidelijkheid doen ontstaan over het regeringsbeleid met betrekking tot dit belangrijke punt? </vraag>
+      <vraag nummer="3">Kan de minister van Justitie verze– keren, dat generlei voornemens bestaan die afbreuk kunnen doen aan de specifieke positie die het huwelijk ingevolge het Burgerlijk Wetboek inneemt? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Neen. Het betrof hier het verwoorden van een persoonlijke opvatting. Met het uitspreken daarvan is geenszins onduidelijkheid ontstaan over het regeringsbeleid met betrekking tot het huwelijk. Ik heb met deze uitspraak willen reageren op de wens vanuit de groep homoseksuele mannen en lesbische vrouwen om relaties te kunnen laten registreren. In deze zelfde speech heb ik m.b.t. dit onderwerp ook gezegd (ik citeer): 'lk vind het een stap terug als het bestaande burgerlijk huwelijk wordt openge– steld voor anderen dan heterosek– suelen, zolang de ideale regelingen waaruit te kiezen valt er nog niet zijn.' Ik schuif het burgerlijk huwelijk dus niet zonder meer opzij, maar vind wel dat er regelingen moeten komen, die voor relaties anders dan het burgerlijk huwelijk waar nodig rechtsgevolgen regelen. De minister van Justitie heeft generlei voornemen de specifieke positie die het huwelijk op grond van het Burgerlijk Wetboek inneemt aan te tasten. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

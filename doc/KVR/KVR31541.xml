@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="8">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Gerkens (SP) aan de minister van Binnenlandse Zaken en Koninkrijksrelaties over de nieuwe digitale samenwerkingsomgeving van Rijksweb. (Ingezonden 13 maart 2008); Antwoord</item>
+         <item attribuut="Bestand">19Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR31541
+</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding bericht (Automatiseringgids) dat de minister van BZK besloten heeft om een nieuwe samenwerkingsomgeving voor Rijksweb te laten inrichten. Indiener wil weten wat er mis was met de oude samenwerkingsomgeving, Viadesk, en hoeveel gebruik er wordt gemaakt van Rijksweb. Voor hoeveel gebruikers gaat Sogeti een licentie verschaffen? [Rijksweb levert een samenhangend pakket van diensten (digitale hulpmiddelen) voor rijksbrede samenwerking. De klanten van Rijksweb zijn de departementen (en hun agentschappen voor zover aangesloten op de Haagse Ring), de Hoge Colleges van Staat, de Nationale Ombudsman en het kabinet der koningin. Bron: www.e-overheid.nl].</item>
+         <item attribuut="Rubriek">Communicatie, media en informatievoorziening (Netwerken) Staats- en bestuursrecht (Rijksoverheid)</item>
+         <item attribuut="Trefwoorden">Netwerken Overheid</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2007-2008, nr. 1943, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070814550</item>
+         <item attribuut="Afkomstig_van">Binnenlandse Zaken en Koninkrijksrelaties (BZK)</item>
+         <item attribuut="Indiener">
+            <persoon partij="SP">Gerkens</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2008-04-07</item>
+         <item attribuut="Datum_indiening">2008-03-13</item>
+         <item attribuut="Document-id">KVR31541</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="3969" allpagenumbers="3969 3970" vetnummer="2070814550" code="0708tkkvr1943" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Aanhangsel" filenaam="KVR31541" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="1943" onderwerp="" indiendatum="2008-03-13">
+         <vrager partij="SP" oorsprong="parlement">Gerkens</vrager>
+         <vraagt-aan>de minister van Binnenlandse Zaken en Koninkrijksrelaties</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2008-04-7">
+         <antwoorder functie="minister" ministerie="Binnenlandse Zaken en Koninkrijksrelaties">Ter Horst</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="8">
+      <vraag nummer="1" voetnoot="1">Wat heeft u er toe doen besluiten om een nieuwe samenwerkingsomgeving voor Rijksweb te laten inrichten? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Wat was er mis met de oude samenwerkingsomgeving van Rijksweb, te weten die van Viadesk? Voor welk probleem is de nieuwe samenwerkingsomgeving een oplossing? Welke applicaties kunnen niet in de oude omgeving gedraaid worden? </vraag>
+      <vraag nummer="3">Wat is het huidige feitelijke gebruik van Viadesk? Hoeveel gebruikers raadplegen Rijksweb per ministerie per dag? Kunt u dit voor alle onderdelen van Rijksweb aangeven? Zo neen, waarom niet? </vraag>
+      <vraag nummer="4">Hoeveel projecten en applicaties worden via Viadesk ontsloten? Hoeveel projecten hiervan zijn er nu actief in de zin dat ze de afgelopen maand zijn gebruikt? Wat zijn de gemiddelde totale kosten per project? </vraag>
+      <vraag nummer="5">Hoe vaak worden de verschillende onderdelen van de informatiesite van Rijksweb door gebruikers geraadpleegd? Kunt u dit per ministerie uitsplitsen? Zo neen, waarom niet? </vraag>
+      <vraag nummer="6">Voor hoeveel gebruikers gaat Sogeti een licentie verschaffen? </vraag>
+      <vraag nummer="7">Kunt u, zoals het actieplan «Open in verbinding» vraagt, uitleggen waarom er niet voor een geheel «open source» oplossing is gekozen? </vraag>
+      <vraag nummer="8">Wat zijn de investeringen in RYX en Rijksweb tot nu toe geweest? Wat is het gemiddelde per jaar, onderverdeeld naar de verschillende onderdelen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" weblink="http://automatiseringgids.sdu.nl/ag/nieuws/nieuws/toon_nieuwsbericht.jsp?di=400438">http://automatiseringgids.sdu.nl/ag/nieuws/nieuws/toon_nieuwsbericht.jsp?di=400438</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="8">
+      <antwoord nummer="1">De reden om te besluiten een nieuwe samenwerkomgeving in te richten is gelegen in het feit dat het contract met de huidige leverancier binnenkort expireert. Verlenging is niet mogelijk op grond van Europese aanbestedingsregelgeving. Er is van dit moment gebruik gemaakt om in te zetten op de vraag naar meer en rijkere samenwerkingsfunctionaliteiten, ter ondersteuning van interdepartementale samenwerking, dan thans beschikbaar zijn, zoals Instant Messaging, Web Conferencing, Wiki’s en Blogs. </antwoord>
+      <antwoord nummer="2">De huidige Viadesk toepassing voor samenwerkruimtes wordt door Rijksweb tot tevredenheid van haar klanten ingezet. De aanleiding voor de aanbesteding is bij het antwoord op vraag 1 aangegeven en is dus niet gelegen in ontevredenheid met het huidige product. Er is geen sprake van applicaties die niet in de oude omgeving gedraaid kunnen worden: de samenwerkfunctionaliteit van Viadesk is een op zichzelf staande functionaliteit en wordt gebruikt voor het (interdepartementaal) delen van informatie, documenten etc. Het is geen platform van waaruit andere applicaties (anders dan de functionaliteiten binnen Viadesk) ontsloten worden. </antwoord>
+      <antwoord nummer="3">Rijksweb gebruikt Viadesk alleen voor het beschikbaar stellen van samenwerkruimtes: virtuele projectomgevingen waar gebruikers informatie en kennis kunnen uitwisselen over de grenzen van de departementen heen. Momenteel zijn er 534 van deze samenwerkruimtes (projecten) actief, waarvan er 492 binnen de Rijksoverheid en 42 extern (samenwerking met organisaties buiten de Rijksoverheid). De applicatie wordt gebruikt door ca 9000 gebruikers. Inzicht in het gebruik van Rijkswebvoorzieningen treft u aan bij het antwoord op vraag 5. </antwoord>
+      <antwoord nummer="4">Het antwoord op vraag drie geeft inzicht in het gebruik van Viadesk. Hoeveel projecten daadwerkelijk actief zijn met het gebruik van de samenwerkfunctionaliteit in een bepaalde periode, wordt niet gemeten. De gemiddelde totale kosten van de samenwerkruimte per project hangt af van het aantal deelnemers in zo’n project. Tot 100 deelnemers bedragen de kosten € 65 per gebruiker per jaar, daarboven € 55. </antwoord>
+      <antwoord nummer="5" voetnoot="5 5 9 5 9 4 6 4 5 4 2 3 1 9">Rijksweb is een infrastructuur van en voor de departementen en biedt een portaalfunctie naar een grote hoeveelheid applicaties en content die binnen maar ook buiten de Rijksoverheid staat. De vraag hoe vaak alle te onderscheiden onderdelen gebruikt worden is dan ook niet te beantwoorden. Wel kan bijvoorbeeld aangegeven worden hoe vaak de algemene Rijksweb pagina’s (dus niet de achterliggende applicaties) worden geraadpleegd. In 2007 zijn in totaal 20.000.000 pagina’s van de centrale omgeving geraadpleegd. Dit staat nog even los van de decentrale applicaties die via de centrale portal benaderd kunnen worden. Enkele voorbeelden van applicaties die via het centrale deel gebruikt worden: – Van de fiscale informatie (Kluwer) worden 300.000 pagina’s per maand geraadpleegd – De Rijksweb infrastructuur zorgt voor de afhandeling van het interdepartementale mailverkeer en op die manier worden ca. 500.000 berichten per maand bezorgd. Onderstaande tabel is de uitsplitsing van de 20.000.000 raadplegingen van de algemene Rijksweb pagina’s per departement. Organi- satie % bezoek Organi- satie % bezoek Bel. Dienst 15 BZK <voetnoot nummer="5"/>Justitie 14 VWS <voetnoot nummer="5"/>VenW <voetnoot nummer="9"/>Def. <voetnoot nummer="5"/>EZ <voetnoot nummer="9"/>SZW <voetnoot nummer="4"/>Fin. <voetnoot nummer="6"/>LNV <voetnoot nummer="4"/>ICTU <voetnoot nummer="5"/>VROM <voetnoot nummer="4"/>AZ <voetnoot nummer="2"/>OCW <voetnoot nummer="3"/>BZ <voetnoot nummer="1"/>Overigen <voetnoot nummer="9"/>
+      </antwoord>
+      <antwoord nummer="6">De licentie afspraken met de leverancier zijn gebaseerd op daadwerkelijk gebruik: er worden alleen licenties afgenomen die gebruikt worden. Het contract biedt de mogelijkheid om alle Rijksambtenaren en de organisaties waarmee wordt samengewerkt, te ondersteunen. </antwoord>
+      <antwoord nummer="7">Het doel van de aanbesteding was om een leverancier te selecteren die de gevraagde functionaliteit kan leveren. Er is dus niet om een product gevraagd. De rol van de leverancier hierbij is het optreden als systemintegrator: ervoor zorgen dat de gevraagde functionaliteit kan worden geboden, waarbij de leverancier dus de productkeuzes maakt en de diverse producten integreert tot een samenhangend geheel. In het programma van eisen is alle ruimte geboden om een aanbieding te doen met Open Source producten; het gebruik van open standaarden is in het programma van eisen als eis opgenomen. Zowel in de offerteaanvraag als het programma van eisen wordt gevraagd om open source producten en er zijn eisen opgenomen die de leverancier verplicht pro-actief op zoek te gaan naar open source producten die vergelijkbare functionaliteit kunnen bieden. Het programma OSOSS heeft het programma van eisen vooraf getoetst op de doelstelling van het actieplan Nederland Open in Verbinding. Er zijn echter geen inschrijvingen geweest die een open source oplossingen aangeboden hebben. Rijksweb heeft een open source oplossing dus niet kunnen meewegen in het gunningproces. </antwoord>
+      <antwoord nummer="8">De gemiddelde investeringen vanaf 2003 zijn in onderstaande tabel opgenomen. Jaar Investe- ring (in mln euro») Jaar Investe- ring (in mln euro») 2003 6,5 2006 7,8 2004 4,0 2007 6,1 2005 11,1 Rijksweb is een meerjarig programma waarbinnen ontwikkeling en beheer van specifieke componenten (basisinfrastructuur, toepassingen, applicaties) worden uitgevoerd op basis van vooraf ingediende en goedgekeurde projectvoorstellen. De begroting is opgebouwd uit twee posten: – ontwikkeling en beheer basisvoorziening – innovatie: wordt jaarlijks opnieuw vastgesteld, En verder is er: – maatwerk per departement: wordt verrekend per opdracht op basis van nacalculatie. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

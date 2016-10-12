@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="onderzoek naar te doen?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Vendrik (GroenLinks) aan de staatssecretaris van Volksgezondheid, Welzijn en Sport over zorgzwaartepakketten. (Ingezonden 24 september 2007)</item>
+         <item attribuut="Bestand">11Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V070800410
+</item>
+         <item attribuut="Inhoud">Vragen over de financieringssystematiek van de zorgzwaartepakketten. Met de vragenlijst is zo te manipuleren dat het zorgkantoor meer geld kan krijgen (Zorgvisie, 14 septmber 2007).</item>
+         <item attribuut="Rubriek">Gezondheidszorg (Zorgverzekeringen)</item>
+         <item attribuut="Trefwoorden">AWBZ</item>
+         <item attribuut="Vindplaats">Kamervragen 2007-2008, vraagnr. 2070800410, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070800410</item>
+         <item attribuut="Indiener">
+            <persoon partij="GroenLinks">Vendrik</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2007-09-24</item>
+         <item attribuut="Document-id">V070800410</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0708tkkvl2070800410" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2007"/>
+      <vraagdata vraagnummer="2070800410" onderwerp="" indiendatum="2007-09-24">
+         <vrager partij="GroenLinks" oorsprong="parlement">Vendrik</vrager>
+         <vraagt-aan>de staatssecretaris van Volksgezondheid, Welzijn en Sport</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Hebt u kennisgenomen van het bericht «Zzp-systematiek deugt niet»? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Hoe beoordeelt u de conclusie dat de 54 vragen van de zorgzwaartepakketten-score te veel op elkaar lijken, en dat er zo twintig weggelaten kunnen worden? </vraag>
+      <vraag nummer="3">Hoe beoordeelt u de conclusie dat de uitkomsten gemakkelijk te manipuleren zijn en dat de vragen zo beantwoord kunnen worden dat er zo veel mogelijk geld van het zorgkantoor wordt verkregen? </vraag>
+      <vraag nummer="4">Wat vindt u van de stelling dat de systemen van zorgzwaartefinanciering in de Verenigde Staten, Canada, Finland en Zwitserland beter werken? Heeft u kennisgenomen van deze financieringssystemen, alvorens te komen tot het huidige systeem van zorgzwaartepakketten? Zo ja, wat is de reden dat er in Nederland is gekozen voor een ander systeem? Zo neen, bent u bereid daar alsnog </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" datum="2007-09-14" bron="Zorgvisie">Zorgvisie, 14 september 2007</noot>
+      </noten>
+   </antwoorden>
+</kvr>

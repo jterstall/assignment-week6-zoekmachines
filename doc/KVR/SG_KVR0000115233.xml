@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="2">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19851986:0001673</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001673&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001673</item>
+         <item attribuut="Document-id">0000115233</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1985-1986 nummer 752</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van Es (P.S.P.) over de namen van de bedrijven, aan wie de eerste opdrachten zijn verleend voor de faciliteiten op de vliegbasis Woensdrecht.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1985-1986 nummer 752</item>
+         <item attribuut="Jaargang">1985_1986</item>
+         <item attribuut="Vraagnummer">752</item>
+         <item attribuut="Indiener">
+            <persoon partij="PSP">Van Es</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-04-17</item>
+         <item attribuut="Beantwoorder">
+            <persoon>De Ruiter</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-05-29</item>
+         <item attribuut="Beginpagina">1495</item>
+         <item attribuut="Eindpagina">1496</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1985-1986 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 5 - 1 9 8 6 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="752" onderwerp="de namen van de bedrijven, aan wie de eerste opdrachten zijn verleend voor de faciliteiten op de vliegbasis Woensdrecht." indiendatum="17 april 1986)">
+         <vrager partij="PSP" oorsprong="parlement">Van Es</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="29 mei 1986)">
+         <antwoorder functie="minister" ministerie="Defensie">De Ruiter</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1 ">Is de minister bereid de namen  bekend te maken van de bedrijven,  aan wie, alleen of in combinatie, de  eerste opdrachten zijn verleend voor  de faciliteiten op de vliegbasis  Woensdrecht die verband houden  met de plaatsing van kruisvluchtwa- pens?  </vraag>
+      <vraag nummer="2 ">Zo neen, waarom niet? Indien de  minister zich beroept op artikel 68  van de Grondwet, kan de minister dat  dan nader toelichten?  lid 8 onder meer gesteld dat ontheffing  van de informatieverstrekking  mogelijk is als de particuliere  ondernemer door bekendmaking  schade zou lijden in zijn legitieme  handelsbelangen. Indien de betrokken  ondernemer hierop aanspraak doet  gelden, is zijn formele toestemming  nodig voor openbaarmaking. In het  onderhavige geval hebben de  betrokken ondernemers voor mij  aannemelijk gemaakt dat zij door  bekendmaking in hun belangen  zouden kunnen worden geschaad,  zodat ik op grond van de gebruikelijke  gedragsregels niet tot bekendmaking  overga.  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1 ">Neen.  </antwoord>
+      <antwoord nummer="2 ">Over het algemeen wordt dit soort  informatie niet verstrekt indien de  betrokken bedrijven daardoor  onevenredig kunnen worden bena- deeld. Deze gedragsregel is ook  internationaal erkend in het commer- ciële verkeer, bijvoorbeeld in de zgn.  GATT-regeling inzake overheidsop- </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

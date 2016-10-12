@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19871988:0001694</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001694&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001694</item>
+         <item attribuut="Document-id">0000099408</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1987-1988 nummer 751</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Lankhorst (P.P.R.) over bodemonderzoeken in de gemeenten Terneuzen en Tiel.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1987-1988 nummer 751</item>
+         <item attribuut="Jaargang">1987_1988</item>
+         <item attribuut="Vraagnummer">751</item>
+         <item attribuut="Indiener">
+            <persoon partij="PPR">Lankhorst</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1988-05-20</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Nijpels</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1988-07-20</item>
+         <item attribuut="Beginpagina">1511</item>
+         <item attribuut="Eindpagina">1512</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 7 - 1 9 8 8 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 7 - 1 9 8 8 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="751" onderwerp="bodemonderzoeken in de gemeenten Terneuzen en Tiel." indiendatum="2 0 mei 1988)">
+         <vrager partij="PPR" oorsprong="parlement">Lankhorst</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1 ">Op welke wijze bent u door de  provincie Zeeland ingelicht en  betrokken bij de jongste bodemonder- zoeken op tien lokaties in de gemeen- ten Terneuzen en Axel?  </vraag>
+      <vraag nummer="2 ">Kunt u bevestigen, dat er op tenminste  vijf lokaties sprake is van ernstige  bodemverontreiniging en van  verontreiniging van het grondwater  en dat er alle reden is, zo snel  mogelijk tot sanering over te gaan?  </vraag>
+      <vraag nummer="3 ">Bent u ervan op de hoogte, dat de  provincie Dow-Chemical en NSM  aansprakelijk acht voor de verontrei- niging op drie lokaties, te weten de  Noorddijk te Hoek, Quaak in Axel, en  de Kleine Huissenpolder?  </vraag>
+      <vraag nummer="4 ">Hebt u, gelet op de voorkomende  chemische afvalstoffen, ook aanwij- zingen over de mogelijke aansprake- lijkheid van Dow-Chemical en NSM  met betrekking tot de verontreiniging  op de vuilstortplaatsen Bontepolder  en Othene te Terneuzen?  </vraag>
+      <vraag nummer="5 ">Deelt u de mening, dat, indien door  de provincie geen overeenstemming  bereikt kan worden met Dow-Chemi- cal en NSM over een totale sanering  van de vijf nu bekende lokaties op  kosten van de beide bedrijven, er alle  aanleiding is hen in rechte aan te  spreken?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="3 ">Ingevolge artikel 21 van de Interimwet  bodemsanering beoordeelt de  minister wie voor de saneringskosten  aansprakelijk kan of kunnen worden  gesteld. Bij deze beoordeling  w o r d t  onder meer gebruik gemaakt van in  opdracht van de provincie uitgevoerd  bodemonderzoek, waaruit vaak de  herkomst van de aangetroffen  verontreinigende stoffen kan worden  afgeleid.  Bij de provincie Zeeland zijn van de  in de vraag genoemde locaties  slechts van de laatstgenoemde  onderzoeksresultaten bekend.  Uitsluitend ten aanzien van deze  locatie stelt zij dat er afvalstoffen van  Dow-Chemical zijn aangetroffen.  </antwoord>
+      <antwoord nummer="4 ">In antwoord op vraag 3 heb ik  aangegeven dat aan de aansprakelijk- heidsvraag bodemonderzoek  voorafgaat. Gedeputeerde Staten  van Zeeland zijn voornemens op  beide locaties een nader bodemon- derzoek in te stellen.  </antwoord>
+      <antwoord nummer="5 ">Indien een veroorzakend bedrijf niet  bereid is gevolg te geven aan een  provinciaal verzoek tot vrijwillige  sanering, zal ik in alle gevallen met  enige kans op succes trachten een  saneringsbevel op te leggen dan wel  de saneringskosten te verhalen.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="4">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van Dam (PvdA) aan de minister voor Bestuurlijke Vernieuwing en Koninkrijksrelaties over het versturen van persoonsgegevens per post. (Ingezonden 3 oktober 2003); Antwoord</item>
+         <item attribuut="Bestand">15Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR18808
+</item>
+         <item attribuut="Inhoud">Gevraagd wordt waarom gemeenten persoonsgegevens van burgers ongecodeerd per cd-rom of diskette naar het Ministerie van BKZ sturen, terwijl die gegevens relatief eenvoudig te beveiligen zijn door middel van codering. Deze vragen dienen ter aanvulling op eerdere vragen terzake van het lid Van Dam, ingezonden 19 juni 2003.</item>
+         <item attribuut="Rubriek">Communicatie, media en informatievoorziening (Post) Criminaliteit en openbare orde (Informatiebeveiliging) Criminaliteit en openbare orde (Persoonsregistratie en identificatie) Staats- en bestuursrecht (Privacy)</item>
+         <item attribuut="Trefwoorden">Gegevensbeveiliging Persoonsregistratie Posterijen Privacy</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2003-2004, nr. 246, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2030400870</item>
+         <item attribuut="Afkomstig_van">Bestuurlijke Vernieuwing en Koninkrijksrelaties (BVK)</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Van Dam</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2003-11-03</item>
+         <item attribuut="Datum_indiening">2003-10-03</item>
+         <item attribuut="Document-id">KVR18808</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2003–2004" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="527" allpagenumbers="527 528" vetnummer="2030400870" code="0304tkkvr246" lopendefooter="Tweede Kamer, vergaderjaar 2003–2004, Aanhangsel" filenaam="KVR18808" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2003"/>
+      <vraagdata vraagnummer="246" onderwerp="" indiendatum="2003-10-3">
+         <vrager partij="PvdA" oorsprong="parlement">Van Dam</vrager>
+         <vraagt-aan>de minister voor Bestuurlijke Vernieuwing en Koninkrijksrelaties</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2003-11-3">
+         <antwoorder functie="minister" ministerie="Bestuurlijke Vernieuwing en Koninkrijksrelaties">De Graaf</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Bent u ervan op de hoogte dat het coderen van gegevens op een cd-rom of diskette relatief eenvoudig is te realiseren? </vraag>
+      <vraag nummer="2">Bent u zich ervan bewust dat dit de kans dat gegevens in handen van derden vallen, aanzienlijk verkleint? </vraag>
+      <vraag nummer="3">Waarom versturen gemeenten persoonsgegevens van burgers ongecodeerd per cd-rom of diskette naar het ministerie van BZK, bovenstaande vragen in ogenschouw nemend? </vraag>
+      <vraag nummer="4">Deelt u de mening dat er een groot verschil is tussen het verzenden van verzamelingen persoonsgegevens per cd-rom en diskettes en het verzenden van individuele poststukken, bijvoorbeeld met betrekking tot de risico’s? Kunt u dit toelichten? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <toelichting>Deze vragen dienen ter aanvulling op eerdere vragen terzake van het lid Van Dam, Aanhangsel Handelingen nr. 1781, vergaderjaar 2002–2003. </toelichting>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Ja, in die zin dat het niet zozeer de kans verkleint dat de gegevens in verkeerde handen vallen, maar wel de kans dat eenmaal in verkeerde handen gevallen gegevens te begrijpen en dus te gebruiken zijn. U zie ook het antwoord op de volgende vragen. </antwoord>
+      <antwoord nummer="3">Weliswaar komt het voor dat gemeenten een set persoonsgegevens op cd-rom’s of diskettes aan het ministerie van Binnenlandse Zaken en Koninkrijksrelaties verzenden, maar dit wil niet zeggen dat deze gegevens zondermeer leesbaar zijn. De gegevens zijn gecodeerd aan de hand van coderingstabellen. Om de gegevens te kunnen interpreteren dient gebruik gemaakt te worden van een coderingsstelsel dat is opgenomen in de GBA-applicaties. Deze applicaties worden gebruikt door de gemeenten en de afnemers van GBA-gegevens. Voor derden zijn de gegevens dan ook niet zonder meer te ontcijferen. Zoals in de beantwoording op de eerder gestelde vragen (Aanhangsel Handelingen nr. 1781, vergaderjaar 2002–2003, door u ontvangen op 25 augustus 2003) is aangegeven voldoet de verstrekking van persoonsgegevens op cd-rom of diskette in verband met de initiële vulling van de Landelijk Raadpleegbare Deelverzameling (LRD) van de Gemeentelijke Basisadministratie Persoonsgegevens (GBA) aan de eisen die daaraan in de GBA-regelgeving worden gesteld. De gemeenten hebben de persoonsgegevens gestuurd zonder daarbij gebruik te maken van de meest recente vorm van encryptie. Dit omdat de van toepassing zijnde wet- en regelgeving (Wet GBA, Logisch Ontwerp GBA) dat nog niet toestaat en de op die wet en regelgeving gebaseerde systemen derhalve ook nog niet voorzien zijn van de mogelijkheden om in bedoelde gevallen gebruik te maken van deze vormen van encryptie. De mogelijkheden om wet- en regelgeving daarop aan te passen en aansluitend daaraan ook de geautomatiseerde systemen aan te passen zijn in onderzoek. </antwoord>
+      <antwoord nummer="4">De vraag doelt wellicht op het risico van een mogelijke schending van de privacy van degenen van wie er gegevens op een cd-rom of diskette zijn opgenomen. Van een mogelijke schending van die privacy zou sprake zijn, wanneer een onbevoegde op deze wijze over privacygevoelige gegevens zou komen te beschikken. Ik acht dat risico niet groot. In de eerste plaats worden de gegevens met aangetekende post verzonden. Voorts worden de gegevens, zoals bij antwoord 3 beschreven, zo gecodeerd dat ze voor derden niet zonder meer zijn te ontcijferen. Het versturen van persoonsgegevens van meerdere personen tegelijk is hierdoor mijn inziens geen groter risico dan het verzenden van individuele, op naam gestelde en niet gecodeerde, poststukken. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

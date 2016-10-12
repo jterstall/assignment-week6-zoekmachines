@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001383</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001383&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001383</item>
+         <item attribuut="Document-id">0000019769</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 369</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Wolffensperger en Nuis (beiden D66) over het onderwijs in OC's en AZC's.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 369</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">369</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Wolffensperger</persoon>
+            <persoon partij="D66">Nuis</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-11-14</item>
+         <item attribuut="Beantwoorder">
+            <persoon>d'Ancona</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-02-10</item>
+         <item attribuut="Beginpagina">785</item>
+         <item attribuut="Eindpagina">786</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="785" allpagenumbers="785" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="'s Gravenhage 1992"/>
+      <vraagdata vraagnummer="369" onderwerp="het onderwijs in OC's en AZC's." indiendatum="1991-11-14">
+         <vrager partij="D66" oorsprong="parlement">Wolffensperger</vrager>
+         <vrager partij="D66" oorsprong="parlement">Nuis</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="10februari 1992">
+         <antwoorder functie="minister" ministerie="Welzijn, Volksgezondheld en Cultuur">d'Ancona</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Krijgt het AZC Luttelgeest per 1 januari a.s. de status van OC, waarbij de basisschool die onlangs in het AZC is geopend, in stand gehouden wordt? <voetnoot nummer="1"/>Welke gevolgen zal deze verandering van status hebben voor het basisonderwijs in Luttelgeest alsmede voor de (rechts)positie van het aangetrokken personeel? </vraag>
+      <vraag nummer="3">Wilt u deze Kamer in de toegezegde regeringsnotitie over de herziening van de asielprocedure, die onder meer betreft de vormgeving van het opvangbeleid van asielzoekers, informeren over het door u voorgestane beleid ten aanzien van het onderwijs in OC's en AZC's? </vraag>
+      <vraag nummer="4">Wilt u hierin tevens aangeven wat de gevolgen zijn van de door u gemaakte keuzes voor de oprichting van OC's voor het bestaande basisonderwijs aan (kinderen van) asielzoekers en voor de (rechts)positie van het onderwijzend personeel? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1991-10-14" bron=" De Noordoostpolder van 10 oktober jl, NRC Handelsblad van 11 oktober jl. en Trouw"> De Noordoostpolder van 10 oktober jl, NRC Handelsblad van 11 oktober jl. en Trouw, 14 oktober 1991</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja. Het onderwijs zal bij de omzetting van een AZC in een OC worden gecontinueerd. Het gevolg zal zijn dat met name het onderwijsprogramma aangepast zal moeten worden aan de doelgroep die in het OC verblijft. Het streven is erop gericht om in de OC's te voorkomen dat er discontinuïteit optreedt in de aantallen leerplichtige kinderen en de daarmee samenhangende formatieplaatsen. Rechtspositionele problemen voor het personeel kunnen daarmee worden beperkt. </antwoord>
+      <antwoord nummer="3">De regermgsnotitie is op 15 november 1991 naar de voorzitter van de Tweede Kamer der Staten-Generaal gezonden (Kamerstuk 22 146, nr. 22). In de notitie wordt kort ingegaan op het onderwijs in de AZC's. In de regeringsnotitie is ten aanzien van de OC's alleen ingegaan op activiteiten die gericht zijn op de terugkeer Over de onderwijsvoorzieningen is nog geen uitspraak gedaan. Mijn standpunt ten aanzien van een onderwijsvoorziening bij OC's is dat ook de leerplichtige asielzoekers-leerlingen die in een OC verblijven onderwijs moeten kunnen volgen. Ik besef dat het verzorgen van adequaat onderwijs voor deze heterogene, snel wisselende groep leerlingen een aangepast en op de individuele leerling toegesneden programma zal vragen. </antwoord>
+      <antwoord nummer="4">Zie het antwoord op vraag 2 en 3. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

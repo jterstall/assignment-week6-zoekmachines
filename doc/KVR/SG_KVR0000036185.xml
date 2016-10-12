@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001778</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001778&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001778</item>
+         <item attribuut="Document-id">0000036185</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 854</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Willems en Lankhorst (beiden Groen Links) over het Rijkswegenknooppunt De Baars.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 854</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">854</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Willems</persoon>
+            <persoon partij="Groen Links">Lankhorst</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-04-24</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Alders</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-08-17</item>
+         <item attribuut="Beginpagina">1725</item>
+         <item attribuut="Eindpagina">1726</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1725" allpagenumbers="1725" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uttgeveri) 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="'854" onderwerp="het Rijkswegenknooppunt De Baars." indiendatum="1990-04-24">
+         <vrager partij="Groen Links" oorsprong="parlement">Willems</vrager>
+         <vrager partij="Groen Links" oorsprong="parlement">Lankhorst</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="17 augustus 1990), zie ook Aanhangsel Hande– lingen nr. 638, vergaderjaar 1989-1990.">
+         <antwoorder functie="minister" ministerie="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer">Alders</antwoorder>
+         <mede-antwoorder>de minister van Verkeer en Waterstaat</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Overweegt u geen MER-procedure voor de aanleg en uitbreiding van het rijkswegenknooppunt De Baars (A  58/A 65)? </vraag>
+      <vraag nummer="2">Hoe verhoudt zich deze opvatting met de bepalingen uit het Besluit MER van  20  mei  1987,  Stb.  1987, 278, dat ook een ingrijpende recon– structie of uitbreiding van een autosnelweg MER-plichtig is? </vraag>
+      <vraag nummer="3">Deelt u de mening, dat het onder– havige project een wijziging betekent van het vastgestelde Structuur– schema Verkeer &amp; Vervoer, mede gelet op de relatie met de voorge– nomen Noord-Oost-tangent rond Tilburg, en daarom de voorge– schreven PKB-wijzigingsprocedure behoeft? Is uw opvatting, dat de Noord– Oost-tangent geen MER-plichtige activiteit is, hoofdzakelijk gebaseerd op het gegeven, dat de betreffende autoweg een lengte van minder dan 5 km zal hebben? Hoe verdraagt zich deze stellingname met de opvatting van de Europese Commissie, door u onderschreven in uw antwoord aan de Europese Commissie d.d. 20 juni j.l. , dat de tracé-lengte geen relevant gegeven is voor het vaststellen van de MER-plichtigheid? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"/>
+         <noot nummer="2"/>
+         <noot nummer="3">' Voor nadere jurisprudentie hiervoor zij verwezen naar de uitspraak van de President van de Rechtbank 's-Gravenhage, 6 okt 1988 inzake aansluiting BAB 61 op de A 73</noot>
+         <noot nummer="2" datum="23 febr 1990" bron=" Zie o.a. brief VROM aan de Vereniging Behoud Moerenburg, d d"> Zie o.a. brief VROM aan de Vereniging Behoud Moerenburg, d d, 23 febr 1990</noot>
+         <noot nummer="3"> Zie Aanhangsel Handelingen nr. 750, Vergaderjaar 1988-1989</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Neen, het betreft een project van beperkte omvang, zijnde de voltooiing van een bestaand knooppunt door de aanleg van 2 verbindingswegen met een breedte van één rijstrook. Deze moeten plaat– selijk noodzakelijkerwijs los van het bestaande profiel gelegd worden. </antwoord>
+      <antwoord nummer="2">De opvatting verwoord in vraag 1 is gebaseerd op de bepalingen uit het Besluit milieu-effectrapportage (20 mei 1987, Stb. 1987, 278). Ik moge u verwijzen naar de Nota van Toelichting van het Besluit, blz. 28 en 29. Voor een reconstructie, uitbreiding of wijziging anderszins van wegen, geldt de m.e.r.-plicht alleen als er sprake is van de aanleg van een geheel nieuw weglichaam, los van het bestaande profiel of van de ombouw van een autoweg tot autosnelweg. Van m.e.r.-plicht zijn uitgesloten plaatselijke kunstwerken als bruggen en tunnels met hun uitsluitmgen, die noodzakelijkerwijs los van het bestaande profiel moeten worden gesitueerd. </antwoord>
+      <antwoord nummer="3">Neen, het betreft het volledig maken van een bestaand knooppunt in het hoofdwegennet. </antwoord>
+      <antwoord nummer="4">Er zij opgemerkt dat de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer geen beslissingsbevoegdheid heeft terzake van de vraag of een bepaalde activiteit al dan niet m.e.r.-plichtig is. Het bevoegd gezag moet dit zelf bepalen. Het Besluit m.e.r. (Bijlage, onderdeel C 1.2.) stelt voor de m.e.r.-plicht voor wegen, die niet door Rijkswater staat worden beheerd, een aantal vereisten: - het moet gaan om de aanleg van een auto(snel)weg of andere weg, voor zover de laatste vier of meer rijstroken omvat; - de wet moet een tracélengte van vijf kilometer of meer hebben buiten de bebouwde kom; - het tracè of plan moet door het provinciaal bestuur worden vastge– steld. De aanleg van de Noord– Oosttangent voldoet niet aan alle bovenstaande vereisten, zodat er formeel geen sprake is van m.e.r.-plicht. Dit is niet hoofdzakelijk gebaseerd op de kilometerdrempel, beheer en Visserij te geven aanwijzing milieu-effectrapportage op grond van artikel 41 d van de Wet algemene bepalingen milieuhygiëne aan de gemeenten Tilburg en Berkel– Enschot terzake van aanleg van de Noord-oosttangent. Voor het vaststellen van deze weg in de betemmingsplannen van Berkel– Enschot en Tilburg zal nu eerst een milieu-effectrapport opgesteld moeten worden. Basis van deze aanwijzing zijn de verwachte belangrijke gevolgen voor het milieu en het spoedeisende karakter. De Noord-oosttangent is een weg die volgens de bepalingen in de Europese Richtlijn onder de m.e.r.-plicht moet vallen. Met de publikatie van deze aanwijzing m.e.r. in de Staats– courant, is de herziening van het Besluit m.e.r. op het onderdeel wegen aangekondigd en tevens is gemeld dat tot deze herziening van kracht is, in voorkomende gevallen (dat wil zeggen voor activiteiten die onder Bijlage I van de Europese Richtlijn vallen en thans niet onder het Besluit m.e.r. vallen) ook een aanwijzing m.e.r.-plicht gegeven kan worden. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

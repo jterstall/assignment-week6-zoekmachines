@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001026</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001026&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001026</item>
+         <item attribuut="Document-id">0000011330</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 94</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Willems en Brouwer (beiden GroenLinks) over het BVD-rapport inzake de vermeende contacten tussen een functionaris van de Amsterdamse politie en de Surinaamse legerleiding.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 94</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">94</item>
+         <item attribuut="Indiener">
+            <persoon partij="GroenLinks">Willems</persoon>
+            <persoon partij="GroenLinks">Brouwer</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-09-29</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Dales</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-10-26</item>
+         <item attribuut="Beginpagina">199</item>
+         <item attribuut="Eindpagina">200</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="199" allpagenumbers="199" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="" onderwerp="" indiendatum="">
+         <vrager partij="GroenLinks" oorsprong="parlement">Willems</vrager>
+         <vrager partij="GroenLinks" oorsprong="parlement">Brouwer</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="26oktober 1992">
+         <antwoorder functie="minister" ministerie="Binnenlandse Zaken">Dales</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="94">Vragen van de leden Willems en Brouwer (beiden Groen Links) over het BVD-rapport inzake de vermeende contacten tussen een functionaris van de Amsterdamse politie en de Surinaamse legerleiding. (Ingezonden 29 september 1992) </vraag>
+      <vraag nummer="1">Kent u de brief van 21 september jl. van de Surinaamse minister van Defensie, S. Gilds, aan de Centrale van Middelbaar en Hogere Functionarissen, waarin wordt gesteld «Dat de heer drs. E.A.R. Sinister gedurende zijn verblijf in Suriname in de periode 21 juni tot 24juli 1990 hetzij informeel noch formeel enige lezingen voor het personeel van het Nationaal leger heeft verzorgd»?' </vraag>
+      <vraag nummer="2">Erkent u, dat er op dit punt een tegenstrijdigheid is tussen de brief van de heer Gilds en het rapport terzake van de BVD? </vraag>
+      <vraag nummer="3">Bent u zich ervan bewust, dat er nog meer verifieerbare feitelijke onjuistheden in het BVD-rapport staan? </vraag>
+      <vraag nummer="4">Vormt u de inhoud van de brief van de heer Gilds voor u aanleiding de BVD zijn werk ten aanzien van de heer Sinester te laten overdoen? Is een en ander voldoende reden de antwoorden op onze eerder gestelde vragen te herzien? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1992-09-26" bron=" Zie ook de Volkskrant"> Zie ook de Volkskrant, 26 september 1992</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1"> t/m  5 Van de door u genoemde brief heb ik geen kennis genomen. In mijn verkeer met het parlement is het niet mijn gewoonte mijn oordeel te baseren op krante-artikelen. Daarom heb ik stappen doen ondernemen om, via het Ministerie van Buitenlandse Zaken, bij de Surinaamse regering opheldering te krijgen over de inhoud en eventuele verdere bijzonderheden van de bewuste brief. Los hiervan kan ik u mededelen dat de aan het ambtsbericht ten grondslag liggende operationele informatie bestaat uit een complex van waargenomen gedragingen. Hierop is de conclusie in het ambtsbericht gebaseerd. Inmiddels heeft betrokkene bij de Nationale ombudsman geklaagd dat de conclusie in het ambtsbericht onjuist zou zijn. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

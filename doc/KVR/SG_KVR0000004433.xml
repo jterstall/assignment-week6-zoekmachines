@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0001922</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001922&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001922</item>
+         <item attribuut="Document-id">0000004433</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 708</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Marijnissen (SP) over huurwoningen binnen de geluidszone van de vliegbasis Volkel.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 708</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">708</item>
+         <item attribuut="Indiener">
+            <persoon partij="SP">Marijnissen</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-07-19</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Frinking</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-08-09</item>
+         <item attribuut="Beginpagina">1435</item>
+         <item attribuut="Eindpagina">1436</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1435" allpagenumbers="1435" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="'s-Gravenhage 1994"/>
+      <vraagdata vraagnummer="708" onderwerp="huurwoningen binnen de geluidszone van de vliegbasis Volkel." indiendatum="19juli 1994">
+         <vrager partij="SP" oorsprong="parlement">Marijnissen</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-08-9">
+         <antwoorder functie="staatssecretaris" ministerie="Defensie">Frinking</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1">Is het u bekend, dat de Stichting Volkshuisvesting Uden weigert huurwoningen binnen de geluidszone van de vliegbasis Volkel te isoleren, en in plaats daarvan woningen wil vervangen door nieuwbouw en hierbij isolatiesubsidie gebruiken van het ministerie van Defensie? Kiest het merendeel van de bewoners voor behoud en isolatie van de huidige woningen in plaats van voor sloop en nieuwbouw? </vraag>
+      <vraag nummer="3">Waarom kiest de Stichting Volkshuisvesting Uden voor sloop/nieuwbouw en niet voor isolatie van de bestaande woningen? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1">Het is mij bekend dat de Stichting Volkshuisvesting Uden (SVU) in overleg met alle betrokken partijen ten aanzien van een achttal woningen in het dorp Volkel de voorkeur geeft aan vervangende nieuwbouw ter plaatse in plaats van het aanbrengen van geluidwerende voorzieningen aan de bestaande woningen. Deze keuze is mogelijk binnen het geluidisolatieprogramma zoals dat door het Ministerie van Defensie op basis van de geluidszonering ingevolge de Luchtvaartwet wordt gevoerd. Hierbij worden de gelden die het Ministerie van Defensie zou moeten besteden voor het aanbrengen van geluidwerende voorzieningen ter beschikking gesteld als bijdrage in de vervangende nieuwbouw. 2 e n 3 De SVU heeft naar mijn informatie na overleg met alle betrokkenen gekozen voor vervangende nieuwbouw in plaats van isolatie van de bestaande woningen ter verhoging van het woongenot van haar huurders. Hierbij worden nieuwe woningen gerealiseerd die ook op langere termijn voldoen aan de gewijzigde woningwensen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19891990:0001123</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001123&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001123</item>
+         <item attribuut="Document-id">0000035530</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 201</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Eversdijk (C.D.A.), Lilipaly(P.v.d.A.), Te Veldhuis (V.V.D.) en Van der Vlies (S.G.P.) over een commerciële huurprijs voor beoefenaren van de gemene weide visserij.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 201</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">201</item>
+         <item attribuut="Indiener">
+            <persoon>Eversdijk</persoon>
+            <persoon>Lilipaly</persoon>
+            <persoon>Te Veldhuis</persoon>
+            <persoon>Van der Vlies</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-10-26</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Braks</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-12-15</item>
+         <item attribuut="Beginpagina">407</item>
+         <item attribuut="Eindpagina">408</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="407" allpagenumbers="407" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's-Gravenhage 1989"/>
+      <vraagdata vraagnummer="201" onderwerp="een commerciële huurprijs voor beoefenaren van de gemene weide visserij." indiendatum="26oktober 1989">
+         <vrager partij="" oorsprong="parlement">Eversdijk</vrager>
+         <vrager partij="" oorsprong="parlement">Lilipaly</vrager>
+         <vrager partij="" oorsprong="parlement">Te Veldhuis</vrager>
+         <vrager partij="" oorsprong="parlement">Van der Vlies</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1989-12-15">
+         <antwoorder functie="minister" ministerie="Landbouw, Natuurbeheer en Visserij">Braks</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Is het Besluit van 2 juni 1989, inhou– dende invoering van artikel 7, tweede lid onder c, van de Visse– rijwet 1963 (Besluit beperking vrije visserij kustwateren) de rechtsbasis voor invoering van een commerciële huurprijs voor beoefenaren van de gemene weide visserij in de kustwa– teren? </vraag>
+      <vraag nummer="2">Zo ja, waarom hebt u in het overleg met de vaste Commissie voor de Visserij op 3 november 1988 de indruk gewekt, dat er al eerder een rechtsbasis zou bestaan?' </vraag>
+      <vraag nummer="3">Welke andere conclusie kan men, gelet op de memorie van toelichting, trekken dan dat de invoering van de genoemde AMvB bedoeld is om te voorkomen, dat de andere takken dan de mossel– en oestervisserij vrij zouden zijn op deze percelen te vissen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="2" titel="of het mogelijk is huur te vragen voor niet-afgebakende percelen. dus voor de vrije visserijen, zowel in de kokkel– als de garna– lensector">' De minister ging in dat mondeling overleg niet in op de vraag van de heer Eversdijk «of het mogelijk is huur te vragen voor niet-afgebakende percelen. dus voor de vrije visserijen, zowel in de kokkel– als de garna– lensector». Zie Kamerstuk 20 800 XIV nr. 45, verqaderjaar 1988-1989</noot>
+         <noot nummer="2" titel="gelet op de specifieke vorm van schelp– diervisserij, alsmede om beheerstechnische redenen wordt slechts een huurovereen– komst gesloten voor het visrecht, uitsluitend voor zover dit betreft het kweken van mosselen of oesters en het vissen van schelpdieren en zeesterren"> Zie de toelichting op de AMvB: - «gelet op de specifieke vorm van schelp– diervisserij, alsmede om beheerstechnische redenen wordt slechts een huurovereen– komst gesloten voor het visrecht, uitsluitend voor zover dit betreft het kweken van mosselen of oesters en het vissen van schelpdieren en zeesterren» en -«in bovengenoemde gebieden vindt geen verhuur van mossel– en oesterpercelen plaats, zodat geen beperking van de vrije visserij ter bescherming van huurders van het visrecht behoeft plaats te vinden</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">  e n 2 Op grond van artikel 7, eerste lid, van de Visserijwet 1963 is het verboden in de kustwateren te vissen voorzover een ander rechthebbende op het visrecht van dat water is. Rechthebbende op het visrecht in de kustwateren is in beginsel de Staat. De Staat heeft het visrecht voor wat betreft de oestercultuur en mossel– cultuur verhuurd. Voor zover geen verhuur van het visrecht heeft plaatsgevonden, is de visserij in de kustwateren ingevolge het derde lid van dit artikel, behoudens in de gevallen bij algemene maatregel van bestuur bepaald, vrij. Om te voorkomen dat de andere takken van visserij die vrij uitgeoefend zouden kunnen worden op voor de oester– en mosselcultuur verhuurde percelen, hinder kunnen toebrengen aan de oester– en mosselcultuur, is een algemene maatregel van bestuur als bedoeld in artikel 7, derde lid, van de Visserijwet 1963 tot stand gekomen, het Besluit beperking vrije visserij kustwateren (Stb. 1989, 314). Op grond van dit besluit is voor alle visserijen in de kustwateren waar de Staat rechthebbende op het visrecht is, met uitzondering van de visserij met de hengel, de peur en het spieringtuig, een privaatrechte– lijke vergunning vereist. Als eigenaar van de kustwateren, en derhalve rechthebbende op het visrecht aldaar, kan de Staat op vergoeding vragen voor het gebruik van het visrecht. Tegen vooral deze laatste achter– grond is ook het in vraag 2 bedoelde overleg gevoerd. Overigens moge ik er op wijzen dat ook in de binnenvis– serïj huurovereenkomsten ten aanzien van gemene weide visserijen worden aangegaan. Zo wordt bijvoorbeeld in het Lauwersmeer het aalvisrecht aan meerdere huurders tegelijk verhuurd. </antwoord>
+      <antwoord nummer="3">Het besluit beperking vrije visserij kustwateren (Stb. 1989, 314) is inderdaad bedoeld om te voorkomen dat de andere takken van visserij die vrij uitgeoefend zouden kunnen worden op voor de oester– en mosselcultuur verhuurde percelen, hinder kunnen toebrengen aan de oester– en de mosselcultuur. Het feit echter dat het besluit is getroffen ter voorkoming van hinder aan de oester– en mosselcultuur, wil nog niet zeggen dat voor de vergun– ningen die op basis van dit besluit worden verleend geen veigoeding kan worden gevraagd. Van het voornemen om een dergelijke vergoeding te vragen voor deze vergunningen is overigens in de nota van toelichting bij de algemene maatregel van bestuur gewag gemaakt. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

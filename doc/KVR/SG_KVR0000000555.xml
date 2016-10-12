@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="toekomen." aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19941995:0000555</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000555&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000555</item>
+         <item attribuut="Document-id">0000000555</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1994-1995 nummer 222</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Van 't Riet en Augusteijn-Esser (beiden D66) over kerosinelozingen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1994-1995 nummer 222</item>
+         <item attribuut="Jaargang">1994_1995</item>
+         <item attribuut="Vraagnummer">222</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Van 't Riet</persoon>
+            <persoon partij="D66">Augusteijn-Esser</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-11-03</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Jorritsma-Lebbink</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-11-03</item>
+         <item attribuut="Beginpagina">445</item>
+         <item attribuut="Eindpagina">446</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1994-1995" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="445" allpagenumbers="445" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1994-1995, Aanhangsel" filenaam="" issn-nummer="ISSN0921 -7398" uitgever="Sdu Uitgeveri] Plantijnstraat 's Gravenhage 1994"/>
+      <vraagdata vraagnummer="222" onderwerp="kerosinelozingen." indiendatum="1994-11-3">
+         <vrager partij="D66" oorsprong="parlement">Van 't Riet</vrager>
+         <vrager partij="D66" oorsprong="parlement">Augusteijn-Esser</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="9">
+      <vraag nummer="1" voetnoot="1">Bent u bekend met de recente lozing van kerosine door een NAVO-tank-vliegtuig boven het DSM-complex? <voetnoot nummer="1"/>Kent u de gevaren van kerosinelozingen boven chemisch-industriële complexen? </vraag>
+      <vraag nummer="3">Welke regels gelden ten aanzien van het vliegen over chemisch-industriële complexen en het lozen van kerosine boven dergelijke complexen zowel voor civiele als militaire toestellen? </vraag>
+      <vraag nummer="4">Bent u bereid een onderzoek in te stellen (zoals gevraagd door de AWACS-commissie) naar kerosinelozingen en de mogelijke nadelige gevolgen daarvan? </vraag>
+      <vraag nummer="5" voetnoot="1">Zijn er maatregelen te verwachten om het lozen van kerosine boven industriële complexen tegen te gaan? <voetnoot nummer="1"/> De Limburger 29 oktober 1994 en Limburgs dagblad 29 oktober 1994. Aanvullende vragen Aanvullende vragen van het lid Rosenmöller (GroenLmks) over kerosinelozingen. (Ingezonden 3 november 1994) </vraag>
+      <vraag nummer="1">Is er kort geleden een AWACS-Boeing in zo grote moeilijkheden gekomen, dat het allerhoogste alarmsignaal is afgegeven en dat er 10.000 liter kerosine is geloosd op een relatief gering hoogte boven het chemieconcern DSM in Geleen? Heeft de luchtverkeersbeveiliging gelijk, dat het toestel in acute nood verkeerde of heeft NAVO-kolonel Fehrenbach het gelijk aan zijn kant als hij zegt dat er geen acuut gevaar was en de noodsignalen bij de standaardprocedure behoren? Als dit laatste het geval is, waarom had de AWACS-Boeing dan geen tijd om de kerosine boven zee of op grote hoogte te lozen? </vraag>
+      <vraag nummer="3">Wat zijn de mogelijke gevaren van kerosinelozingen op deze geringe hoogte boven een dergelijk chemie-complex? Wat zijn de gevaren van dergelijke kerosinelozingen boven dichtbevolkte gebieden? Waarom is de bevolking niet onmiddellijk en voldoende geïnformeerd over dit bijna-ongeluk? </vraag>
+      <vraag nummer="5">Maakt het gebruik van een nieuwe Oost-West baan van Maastricht Airport een dergelijke noodsituatie met een AWACS-toestel nog gevaarlijker? </vraag>
+      <vraag nummer="6">Zullen de Boeings van de basis Geilenkirchen het DSM-complex voortaan mijden? </vraag>
+      <vraag nummer="7">Bent u bereid dit incident nader te onderzoeken en maatregelen te nemen opdat herhaling kan worden voorkomen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1994-11-3" bron=" Zie NRC 2 november 1994 en Volkskrant"> Zie NRC 2 november 1994 en Volkskrant, 3 november 1994</noot>
+      </noten>
+   </vragen>
+   <toelichting>Deze vragen dienen ter aanvulling op de eerdere vragen ter zake van de leden Van 't Riet en Augusteijn-Esser, ingezonden 3 november jl. bereid in dit overleg garanties te vragen om dit soort incidenten te voorkomen, b.v. door zowel veiligheidsprocedures als bestaande vliegroutes te herzien? Toelichting: Deze vragen dienen ter aanvulling op de eerdere vragen ter zake van die leden Van 't Riet en Augusteijn-Esser en van Rosenmöller, beiden ingezonden 3 november jl. Mededeling Mededeling van minister Jorritsma-Lebbink (Verkeer en Waterstaat), mede namens de ministers van Defensie en van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer. (Ontvangen 28 november 1994) Hierbij bericht ik u, mede namens mijn ambtgenoten van Defensie en van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, dat beantwoording van de vragen over kerosinelozingen boven het DSM-complex van respectievelijk de leden Van 't Riet, Augusteijn-Esser, Rosenmöller en Hoekema, vanwege de interdepartementale afstemming niet mogelijk is binnen de gestelde termijn. Ik hoop u binnen twee weken een antwoord te kunnen doen </toelichting>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+   <mededeling mededeler="Jorritsma-Lebbink" functie="minister" afdeling="Verkeer en Waterstaat" mededelingdatum="1994-11-28">Mededeling van minister Jorritsma-Lebbink (Verkeer en Waterstaat), mede namens de ministers van Defensie en van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer. (Ontvangen 28 november 1994) Hierbij bericht ik u, mede namens mijn ambtgenoten van Defensie en van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, dat beantwoording van de vragen over kerosinelozingen boven het DSM-complex van respectievelijk de leden Van 't Riet, Augusteijn-Esser, Rosenmöller en Hoekema, vanwege de interdepartementale afstemming niet mogelijk is binnen de gestelde termijn. Ik hoop u binnen twee weken een antwoord te kunnen doen </mededeling>
+</kvr>

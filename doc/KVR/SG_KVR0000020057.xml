@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001671</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001671&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001671</item>
+         <item attribuut="Document-id">0000020057</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 653</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van Heemskerck Pillis-Duvekot (VVD) over het besluit van de Verenigde Staten af te zien van de Midlife Update van de F-16.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 653</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">653</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Van Heemskerck Pillis-Duvekot</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-06-16</item>
+         <item attribuut="Beantwoorder">
+            <persoon>baron van Voorst tot Voorst</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-06-17</item>
+         <item attribuut="Beginpagina">1369</item>
+         <item attribuut="Eindpagina">1370</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1369" allpagenumbers="1369" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's-Gravenhage 1992"/>
+      <vraagdata vraagnummer="653" onderwerp="het besluit van de Verenigde Staten af te zien van de Midlife Update van de F– 16." indiendatum="16juni 1992">
+         <vrager partij="VVD" oorsprong="parlement">Van Heemskerck Pillis-Duvekot</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-06-17">
+         <antwoorder functie="staatssecretaris" ministerie="Defensie">baron van Voorst tot Voorst</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="1">
+      <vraag nummer="1">Hebt u kennis genomen van een artikel' inzake het besluit van de Verenigde Staten af te zien van de Midlife Update van de F-16? Zo ja, wat is het gevolg hiervan voor het Nederlandse F-16 bestand? Is hierover politiek overleg geweest tussen de Nederlandse en de Amerikaanse regering? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1992-06-11" bron=" De Telegraaf"> De Telegraaf, 11 juni 1992</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja. De Amerikaanse autoriteiten hebben geen besluit genomen af te zien van de «Midlife Update» (MLU) van de F-16. Ik heb echter signalen opgevangen dat binnen de Amerikaanse overheid wordt overwogen het MLU-programma in zijn oorspronkelijke vorm te beëindigen. De aanwijzingen zijn van dien aard dat ik bezorgd ben over de kansen dat de MLU in zijn volledige, oorspronkelijke opzet kan worden ontwikkeld en geproduceerd. Zou geen MLU-programma worden uitgevoerd, dan zal de F-16 rond de eeuwwisseling in een aantal opzichten niet aan de dan te stellen eisen kunnen voldoen. </antwoord>
+      <antwoord nummer="3">In januari 1992 heb ik, mede namens bewindslieden van de Europese F-16-landen, met Deputy-Secretary Atwood afspraken gemaakt over industriële aspecten van het MLU-programma. Ik heb toen tevens gewezen op het politieke belang van het instandhouden van het consortium van F-16-landen. Minister Ter Beek heeft onlangs, eveneens in overleg met Europese partners, het belang van de voortzetting van de MLU-ontwikkeling besproken met minister Cheney. Ik vertrouw er daarom op dat in de Verenigde Staten op politiek niveau aan de toekomst van het programma voldoende aandacht wordt gegeven en dat aan de belangen van de Europese partners in dit programma het juiste gewicht wordt toegekend. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

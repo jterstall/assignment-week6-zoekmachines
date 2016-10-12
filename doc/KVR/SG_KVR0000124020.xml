@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="enquête en in welk stadium? " aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19841985:0002048</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19841985:0002048&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19841985:0002048</item>
+         <item attribuut="Document-id">0000124020</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1984-1985 nummer 927</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Lankhorst en Beckers-de Bruijn (beiden P.P.R.) over de besluitvorming inzake de vestigingsplaatsen van nieuw te bouwen kerncentrales.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1984-1985 nummer 927</item>
+         <item attribuut="Jaargang">1984_1985</item>
+         <item attribuut="Vraagnummer">927</item>
+         <item attribuut="Indiener">
+            <persoon partij="PPR">Lankhorst</persoon>
+            <persoon partij="PPR">Beckers-de Bruijn</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1985-05-20</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Winsemius</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1985-06-18</item>
+         <item attribuut="Beginpagina">1833</item>
+         <item attribuut="Eindpagina">1834</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1984-1985 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1984-1985, Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="927" onderwerp="de besluitvorming inzake de vestigings- plaatsen van nieuw te bouwen kerncentrales" indiendatum="20 mei 1985)">
+         <vrager partij="PPR" oorsprong="parlement">Lankhorst</vrager>
+         <vrager partij="PPR" oorsprong="parlement">Beckers-de Bruijn</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1 ">Moet uit het feit dat U nog vóór de  parlementaire behandeling van het  beleidsvoornemen met betrekking tot  het standpunt over de electriciteits- voorziening in de jaren '90 een  enquête houdt onder de deelnemers  van de Brede Maatschappelijke  Discussie over de vestigingsplaatskeu- ze van nieuw te bouwen kerncentrales,  opgemaakt worden dat u geen  waarde hecht aan het democratisch  besluitvormingsproces?  </vraag>
+      <vraag nummer="2 ">Hoe bent u in dit stadium van de  besluitvorming op de gedachte  gekomen aan de deelnemers van de  Brede Maatschappelijke Discussie, die  in grote meerderheid het gebruik van  kernenergie hebben afgewezen, te  vragen een keuzeplaats voor vestiging  van een nieuwe kerncentrale aan te  geven? Wat beoogt u daarmee?  Zullen de deelnemers aan de Brede  Maatschappelijke Discussie ook  betrokken worden bij de uitwerking  van standpunten over die electriciteits- voorziening waar zij wel in grote  meerderheid voorstander van zijn?  Antwoord  Antwoord van Minister Winsemius  (Volkshuisvesting, Ruimtelijke  Ordening en Milieubeheer). (Ontvan- gen 18 juni 1985)  1 t/m 5  Zoals in het begeleidend schrijven  van de enquête staat is deze (per  abuis op departementaal papier)  opgesteld door een stagiair bij het  ministerie en is zij volledig onder zijn  verantwoordelijkheid ondernomen. In  verband hiermede behoeven de  gestelde vragen verder geen beant- woording.  Hoeveel deelnemers hebben de  enquête vóór de inzendingstermijn  van 8 mei '85 volledig ingevuld?  </vraag>
+      <vraag nummer="4 ">Op welke wijze denkt u gebruik te  maken van de resultaten van de  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

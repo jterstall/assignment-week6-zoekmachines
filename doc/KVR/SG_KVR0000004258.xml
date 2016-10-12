@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0001747</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001747&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001747</item>
+         <item attribuut="Document-id">0000004258</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 533</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Aanvullende vragen van het lid Verspaget (PvdA) over cacao-substituten in chocoladeprodukten.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 533</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">533</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Verspaget</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-05-16</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Dankert</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-06-03</item>
+         <item attribuut="Beginpagina">1083</item>
+         <item attribuut="Eindpagina">1084</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1083" allpagenumbers="1083" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="'s Gravenhage 1994"/>
+      <vraagdata vraagnummer="533" onderwerp="cacao-substituten in chocoladeprodukten," indiendatum="1994-05-16">
+         <vrager partij="PvdA" oorsprong="parlement">Verspaget</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-06-3">
+         <antwoorder functie="staatssecretaris" ministerie="Buitenlandse Zaken">Dankert</antwoorder>
+         <mede-antwoorder>de ministers van Buitenlandse Zaken en voor Ontwikkelingssamenwerking</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Heeft het Europese Hof concurrentievervalsing binnen de Europese Unie gelegaliseerd, door de vrije handel toe te staan van chocoladeprodukten uit de drie EU-lidstaten (Groot-Brittannië, lerland en Denemarken) waar het vooralsnog is toegestaan om 5% cacao-substituten te verwerken in deze produkten? </vraag>
+      <vraag nummer="2">Heeft de Europese Commissie een ontwerp «Chocolade-richtlijn» opgesteld, die het binnen de gehele EU mogelijk maakt om cacao-substituten in chocoladeprodukten te verwerken? Zo ja, wat is de inhoud van deze richtlijn? Wat is de stand van zaken bij de besluitvorming? Welke zijn de reacties van het Europees Parlement en de verschillende lidstaten? Dreigen bij aanvaarding van zo'n richtlijn de Verenigde Staten de EU in deze te volgen? </vraag>
+      <vraag nummer="3">Welke mogelijkheden zijn er om bij de noodzakelijke harmonisatie van Europese regelgeving op dit punt de belangen te respecteren van de consumenten, die recht hebben op «zuivere» chocolade en de cacao-exporterende (ontwikkelings)landen, voor wie een scherpe daling van de prijzen op de wereldmarkt dreigt? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <toelichting>Deze vragen dienen ter aanvulling op de eerdere vragen ter zake van de leden Van Oijk, Tommel en Leerling, ingezonden 11 mei 1994. </toelichting>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">In 1973 keurde de Raad richtlijn 73/241 goed betreffende de onderlinge aanpassing van de wettelijke voorschriften van de lidstaten inzake voor menselijke voeding bestemde cacao– en chocoladeprodukten. Het betrof een regeling waarbij hij lerland, het Verenigd Koninkrijk en Denemarken voorlopig bleef toestaan cacaobotervervangende vetten in chocolade te verwerken. Deze regeling betekent, bijvoorbeeld, dat een produkt dat in het VK als «chocolade» wordt verkocht, ook al bevat het cacaobotervervangende vetten, als zodanig nu reeds in het vrije handelsverkeer binnen de Europese Unie kan worden gebracht. Er is hier dus sprake van vrije concurrentie op ongelijke maar juridisch gelegitimeerde voorwaarden. </antwoord>
+      <antwoord nummer="2">De Europese Commissie heeft nog geen ontwerp-vervangingsrichtlijn «cacao– en chocoladeprodukten» vastgesteld en aan de Raad en het Europees Parlement aangeboden. Dit ontwerp verkeert nog in het voorbereidingsstadium binnen DG III (Industrie) van de Commissie. Derhalve hebben de verschillende lidstaten en het Europees Parlement nog geen reactie daarop kunnen geven. Bij aanvaarding van een eventueel besluit dat harmonisatie op 5% cacao substituten toestaat, bestaat de kans dat de Verenigde Staten een zelfde maatregel zullen nemen. </antwoord>
+      <antwoord nummer="3">De huidige Nederlandse wetgeving houdt rekening met door vragensteller genoemde belangen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

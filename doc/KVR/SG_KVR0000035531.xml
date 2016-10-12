@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19891990:0001124</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001124&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001124</item>
+         <item attribuut="Document-id">0000035531</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 202</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Achttienribbe-Buijs (P.v.d.A.) over verontreiniging van vliegbases ten gevolge van het weglekken van vliegtuigbrandstof.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 202</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">202</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Achttienribbe-Buijs</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-11-09</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van Voorst tot Voorst</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-12-15</item>
+         <item attribuut="Beginpagina">409</item>
+         <item attribuut="Eindpagina">410</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="409" allpagenumbers="409 410" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uttgevenj 's-Gravenhage 1989"/>
+      <vraagdata vraagnummer="202" onderwerp="verontreiniging van vliegbases ten gevolge van het weglekken van vliegtuigbrandstof." indiendatum="1989-11-9">
+         <vrager partij="PvdA" oorsprong="parlement">Achttienribbe-Buijs</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1989-12-15">
+         <antwoorder functie="staatssecretaris" ministerie="Defensie">Van Voorst tot Voorst</antwoorder>
+         <mede-antwoorder>de minister van Volks– huisvesting, Ruimtelijke Ordening en Milieubeheer</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1">Kunt u meedelen waarom het drieën– eenhalf jaar heeft moeten duren voordat met de uitvoering van het plan, opgesteid in 1986 voor de sanering van de bodem en het grondwater op de vliegbasis Volkel kon worden begonnen? </vraag>
+      <vraag nummer="2">Is deze vertraging in belangrijke mate de oorzaak van de verontrei– niging bij Pol-Noord, zoals die in april 1989 opnieuw is geconsta– teerd? Mag uit de vertraging in de besluit– vorming worden geconstateerd, dat u in belangrijke mate verantwoor– delijk kunt worden gesteld voor de calamiteit, die zich opnieuw op de vliegbasis Volkel heeft voorgedaan?' </vraag>
+      <vraag nummer="4">Kunt u meer duidelijkheid verschaffen over de aard van de inspecties, respectievelijk de perio– dieke controles, zoals die op de vliegbasis Volkel en bij vergelijkbare installaties op de andere vliegbases hebben plaatsgevonden? Zo ja, kan dan worden aangegeven waarom de verontreiniging als gevolg van het weglekken van kerosine op de vlieg– basis Volkel tijdens deze periodieke controles niet eerder is geconsta– teerd? Kunt u aangeven welke contacten er met het waterschap De Maaskant hebben plaatsgevonden, nadat dit waterschap op 9 januari 1986 had aangedrongen op het nemen van maatregelen tegen de waterveront– reinigingen, ontstaan door het weglekken van kerosine? </vraag>
+      <vraag nummer="6" voetnoot="2">Kunt u deze Kamer op de hoogte stellen van de stand van zaken van het onderzoek van de Koninklijke Marechaussee? <voetnoot nummer="2"/> Indien het onderzoek inmiddels is afgerond, kunt u deze Kamer dan mededelen wie aansprakelijk kan worden gesteld voor de ontstane schade? </vraag>
+      <vraag nummer="7">Waarom hebt u deze Kamer in de beantwoording van eerdere vragen terzake  niet op de hoogte gesteld van het resultaat van een oriënterend onderzoek, dat in 1984 door de Dienst, Gebouwen, Werken en Terreinen is verricht? Bent u bereid dit alsnog te doen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="3"/>
+         <noot nummer="1" datum="1989-10-25" bron=" Zie NRC Handelsblad van 21 oktober jl. en het Eindhovens Dagblad"> Zie NRC Handelsblad van 21 oktober jl. en het Eindhovens Dagblad, 25 oktober 1989</noot>
+         <noot nummer="2"> De Koninklijke Marechaussee is een straf– rechtelijk onderzoek begonnen naar de lekkage van vliegtuigbrandstof Dat onderzoek schijnt zich te richten op de mogelijke overtreding van de Hinderwet, de Wet verontreiniging oppervlaktewateren en de Wet bodembescherming</noot>
+         <noot nummer="3"> Zie Aanhangsel Handelingen nr. 118, vergaderjaar 1989-1990</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1 en 7">In de beantwoording van eerdere vragen (Aanhangsel Handelingen nr. 118, vergaderjaar 1989-1990) is met de vermelding van maatregelen op grond van het oriënterend onderzoek, dat begin 1984 werd gehouden, kenbaar gemaakt dat dit onderzoek een lokale verontreiniging van de bodem met inbegrip van het grondwater aan het licht had gebracht. De belangrijkste resultaten van dit onderzoek zijn de volgende: - op het terrein (ongeveer 120 x 70 meter) is op het grondwater een drijflaag aanwezig, bestaande uit kerosine en kerosine-wateremulsies, variërend van enkele millimeters tot 80 centimeter; - het grondwater daaronder is tot op een diepte van 8 meter verontreinigd met aromaten en alkanen. - de verontreiniging van het grond– water vormt geen acute bedreiging voor de drinkwatervoorziening in het bijzonder en de volksgezondheid in het algemeen. Op basis hiervan werd een voort– gezet onderzoek gehouden ten behoeve van het opstellen van de plannen voor de sanering. Daarbij was bekend dat de opslaginstallaties op de Nederlandse vliegbasis in het kader van het NAVO-infrastructuur– fonds binnen afzienbare tijd zouden worden vervangen. Tegen die achter– grond is besloten de sanering van de kunnen uitbreiden. De periodieke onderzoeken zijn gericht op een goede staat van onderhoud van ondergrondse tanks en leidingen. Daartoe worden eenmaal per jaar de tanks en de leidingen leeggepompt en buiten gebruik gesteld totdat, bijvoorbeeld door nieuwe coating, zij weer geschikt zijn voor gebruik. Wanneer tijdens deze onderzoeken, waarbij de KIWA-richtlijnen worden gehanteerd, blijkt dat de installatie niet meer aan de eisen voldoet en een bodemver– ontreiniging wordt vermoed, wordt een oriënterend onderzoek verricht. Dit globale onderzoek is gericht op aard van de verontreiniging; een nader onderzoek geeft duidelijkheid omtrent de omvang van de verontrei– niging. Zonodig wordt dit onderzoek gevolgd door een saneringson– derzoek, dat moet leiden tot een saneringsplan. Het mankement in april jl . is aan het licht gekomen toen tijdens een controle van de Koninklijke Marechaussee kerosine-sporen in een watergang werden geconstateerd. Een dergelijk voorval kan niet in alle gevallen worden voorkomen door periodieke onderzoeken. </antwoord>
+      <antwoord nummer="5"/>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

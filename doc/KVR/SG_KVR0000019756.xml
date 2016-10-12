@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001370</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001370&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001370</item>
+         <item attribuut="Document-id">0000019756</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 356</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Lankhorst (Groen Links) over aanleg van het gedeelte Schoondijke-Sluis van Rijksweg 58 volgens tracé K01.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 356</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">356</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Lankhorst</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-01-23</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Maij-Weggen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-02-04</item>
+         <item attribuut="Beginpagina">759</item>
+         <item attribuut="Eindpagina">760</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="759" allpagenumbers="759" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat s Gravenhage 1992"/>
+      <vraagdata vraagnummer="356" onderwerp="aanleg van het gedeelte Schoondijke-Sluis van Rijksweg 58 volgens tracé K01." indiendatum="1992-01-23">
+         <vrager partij="Groen Links" oorsprong="parlement">Lankhorst</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-02-4">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">Maij-Weggen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Hebt u besloten tot aanleg van het gedeelte Schoondijke-Sluis van Rijksweg 58 volgens tracé K01? </vraag>
+      <vraag nummer="2">Op welke gronden is bij dit besluit afgeweken van het advies van de Raad van de Waterstaat, dat met het oog op de bescherming van het woon– en leefmilieu tracé K01 afwees? Hebt u bij dit besluit te kennen gegeven, dat lagere overheden instemmen met variant K01? </vraag>
+      <vraag nummer="4">Is het u bekend, dat zowel de gemeente Oostburg als provinciale commissies aan de Raad van de Waterstaat een advies tegen tracé K01 hebben uitgebracht? </vraag>
+      <vraag nummer="5">Zijn bij u adviezen binnengekomen die wél pleiten voor aanleg van dit weggedeelte volgens tracé K01 ? Zo ja, welke? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1">Ja, zij het dat het uiteindelijk vastgestelde tracé ten opzichte van de oorspronkelijke variant iets van de bebouwing af is verlegd. </antwoord>
+      <antwoord nummer="2">De tracévaststelling is conform het advies van de Raad van de Waterstaat en het aan het advies van de Raad ten grondslag liggende rapport van de Commissie van Overleg voor de Wegen. Ik citeer uit het rapport van de COW. «Zij (de COW) heeft met genoegen vastgesteld dat met de thans ontworpen verschuiving van het tracé van variant KO-1 kan worden gesproken van een tracering, waarvan naar haar gevoelen kan worden gesteld, dat deze in redelijkheid niet meer op overwegende bezwaren van de bewoners van de aan de Oude Haven gelegen woningen behoeft te stuiten», einde citaat. Ten overvloede, de varianten KO-2 en KO-3 werden door de COW en de Raad van de Waterstaat onaanvaardbaar gevonden vanwege de aantasting van het open polderlandschap. </antwoord>
+      <antwoord nummer="3" voetnoot="1">Ik heb in mijn tracébesluit gesteld dat het gekozen tracè voor de gemeente en de provincie aanvaardbaar is. Uit een inmiddels van de gemeente ontvangen brief schrijft de gemeente mij zich te kunnen vinden in het tracébesluit (zie bijlage). <voetnoot nummer="1"/>
+      </antwoord>
+      <antwoord nummer="4">In de oorspronkelijke reactie van de gemeente werd een rondweg noodzakelijk gevonden maar kon zij niet tot een oordeel over de meest gewenste variant komen. Voor het huidige standpunt van de gemeente verwijs ik u naar mijn antwoord onder 3. De provincie heeft in haar reactie een lichte voorkeur voor variant KO-3 uitgesproken ten opzichte van KO-1 en KO-2. </antwoord>
+      <antwoord nummer="5">In het kader van de tracé/m.e.r.-procedure dient een onderscheid te worden gemaakt tussen de reacties en de adviezen. Adviezen over het MER zijn ontvangen van de Commissie voor de milieu-effectrapportage en de Directeur Landbouw, Natuur en Openluchtrecreatie. De Commissie MER pleegt uitsluitend te adviseren of het MER voldoende informatie voor de besluitvorming bevat. De directeur LNO sprak een voorkeur uit voor KO-1. Mijn adviesorgaan, de Raad van de Waterstaat adviseerde eveneens voor KO-1 en volgde daarmee het rapport van de Commissie van Overleg voor de Wegen. Alle adviezen die een duidelijke voorkeur voor een variant bevatten, spraken zich derhalve uit voor KO-1. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Ter inzage gelegd op de bibliotheek</noot>
+      </noten>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001121</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001121&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001121</item>
+         <item attribuut="Document-id">0000019507</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 109 Herdruk</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Brouwer (Groen Links) over het terugkopen van twee gestolen schilderijen van het crimineel circuit.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 109 Herdruk</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">109 Herdruk</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Brouwer</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-09-06</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Hirsch Ballin</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-10-29</item>
+         <item attribuut="Beginpagina">223</item>
+         <item attribuut="Eindpagina">224</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="223" allpagenumbers="223" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1991"/>
+      <vraagdata vraagnummer="109" onderwerp="" indiendatum="">
+         <vrager partij="Groen Links" oorsprong="parlement">Brouwer</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="29 oktober 1991), zie ook Aanhangsel, nr. 35, Vergaderjaar 1991-1992 Antwoord op vragen Brouwer">
+         <antwoorder functie="Minister" ministerie="Justitie">Hirsch Ballin</antwoorder>
+         <mede-antwoorder>de minister van Binnenlandse Zaken</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="8">
+      <vraag nummer="1">Vragen van het lid Brouwer (Groen Links) over het terugkopen van twee gestolen schilderijen van het chmineel circuit. (Ingezonden 6 september 1991) </vraag>
+      <vraag nummer="1" voetnoot="2">Hebben het Openbaar Ministerie, de Leerdamse politie en een verzeke– ringsmaatschappij geld betaald om twee gestolen schilderijen, één van Frans Hals en één van Jacob van Ruijsdael, terug te kopen? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="2">Is de politie via informatie uit het criminele circuit in contact gekomen met degenen die de gestolen schil– derijen in hun bezit hadden en «te koop» aanboden? Is er op enigerlei wijze sprake geweest van infiltratie in dit circuit van de kant van de politie? </vraag>
+      <vraag nummer="3">Mag de conclusie worden getrokken, dat het Openbaar ministerie en politie schilderijen hebben gekocht van aanbieders die ten minste verdacht zouden kunnen worden van heling? </vraag>
+      <vraag nummer="4">Zo neen, heeft de actie verdere aanwijzingen opgeleverd over dader(s) en heler(s)? </vraag>
+      <vraag nummer="5" voetnoot="2">Is er voorafgaand aan de actie overleg geweest met u beiden? Zo ja, welke beleidslijn hebt u gevolgd in deze kwestie? Zo neen, wat is uw oordeel over het optreden van de Leerdamse politie en het Openbaar ministerie? <voetnoot nummer="2"/> Dagbladen van 3 september jl. Vragen van de leden Valk en Van Nieuwenhoven (beiden PvdA) over het terugkopen van twee gestolen schilderijen van het criminele circuit. (Ingezonden 6 september 1991) </vraag>
+      <vraag nummer="1">Moet uit de berichten, dat de politie in Leerdam in overleg met Justitie en een verzekeringsmaatschappij gestolen schilderijen van Frans Hals en Jacob van Ruysdael van het criminele circuit heeft teruggekocht aangenomen worden, dat in dat geval sprake is van het betalen van een vorm van losgeld?' </vraag>
+      <vraag nummer="2">Indien gestolen doeken op deze manier worden teruggekocht, zal dat dan juist geen aanmoediging zijn voor het plegen van museum– en kunstdiefstallen? Bent u van mening, dat er op geen enkele wijze medewerking kan worden verleend aan het terugkopen van geroofde kunst? Bent u bereid eraan mee te werken dat dat in de toekomst voorkomen wordt? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <toelichting>Deze vragen dienen ter aanvulling op de eerdere vragen terzake van het lid Brouwer, ingezonden 5 september 1991. </toelichting>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Neen. Een verzekeringsmaatschappij heeft een bedrag aan «bewaar– kosten» betaald, waarna de schilde– rijen zijn terugbezorgd. Bij de politie in Amsterdam kwam juli/augustus van dit jaar een mededeling binnen van een informant uit het criminele circuit dat de schilderijen terugbezorgd konden worden indien een bedrag aan «bewaarkosten» zou worden betaald. Deze informatie is niet verkregen door infiltratie door de politie in het criminele circuit. </antwoord>
+      <antwoord nummer="3">Neen. </antwoord>
+      <antwoord nummer="4">Neen, tot op heden heeft de actie geen verdere aanwijzingen opgeleverd over dader(s) en heler(s). Het opsporingsonderzoek is nog in gang. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> i.v.m. het aubsievelijk niet afdrukken van de vragen van de leden Valk en Van Nieuwenhoven</noot>
+      </noten>
+   </antwoorden>
+</kvr>

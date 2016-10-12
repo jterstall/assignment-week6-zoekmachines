@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001044</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001044&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001044</item>
+         <item attribuut="Document-id">0000106819</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 11</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Te Veldhuis (V.V.D.) over de verplaatsing van mosselactiviteiten naar het buitenland.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 11</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">11</item>
+         <item attribuut="Indiener">
+            <persoon>Te VEldhuis</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-08-28</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Braks</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-09-23</item>
+         <item attribuut="Beginpagina">21</item>
+         <item attribuut="Eindpagina">22</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1986-1987 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 ,  A a n h a n g s e l 21 " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="11" onderwerp="de verplaatsing van mosselactiviteiten naar het buiten- land." indiendatum="2 8 augustus 1986)">
+         <vrager partij="" oorsprong="parlement">Te VEldhuis</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="23 september 1986)">
+         <antwoorder functie="" ministerie="Landbouw en Visserij"/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 ">Heeft de minister ervan kennis  genomen dat de voorzitter van de  Verenigde Mosselhandel te Yerseke,  op de mosseldag op 23 augustus  j l .  heeft gezegd dat «de overheden in  Duitsland en Denemarken klaar staan  om de Zeeuwse kwekers, vissers èn  verwerkingsbedrijven van mosselen  in hun deel van de Waddenzee te  ontvangen, als de Nederlandse  overheid niet snel méér mosselperce- len in Nederland beschikbaar stelt»?  </vraag>
+      <vraag nummer="2 ">Deelt de minister de zorg, dat de  mosselbranche wellicht inderdaad  een al dan niet aanmerkelijk deel van  zijn werkzaamheden naar het  buitenland zal verleggen? Zo ja,  welke nadelige economische en  werkgelegenheidsgevolgen kan deze  verplaatsing hebben?  </vraag>
+      <vraag nummer="3 ">Zo neen, waarop grondt de minister  dat?  </vraag>
+      <vraag nummer="4 ">Is de minister van mening, dat een  verdere ontwikkeling van de mossel- branche in Nederland mogelijk en  wenselijk is en is zijn beleid er  daarom mede op gericht, op korte  termijn nieuwe mosselpercelen  beschikbaar te stellen? Zo ja, waar  dan (bijvoorbeeld Oosterschelde;  Waddenzee; eventueel Grevelinoen)?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1 ">Ja.  2 en 3  De activiteiten van enkele mosselbe- drijven in Duitse en Deense kustwa- teren betekenen geen verlegging van  een aanmerkelijk deel van de  werkzaamheden van de mosselbran- che naar het buitenland. Met behoud  van de bedrijfsomvang in Nederland  hebben deze bedrijven uitbreiding  gegeven aan hun activiteiten door  het in ontwikkeling brengen van  cultures in eerdergenoemde wateren.  Ik deel derhalve de zorg die de  voorzitter van de Verenigde Mossel- handel te Yerseke heeft uitgesproken  niet.  </antwoord>
+      <antwoord nummer="4 ">Aan de wensen van het bedrijfsleven  tot verdere ontwikkeling van de  mosselbranche kan slechts uitvoering  worden gegeven voor zover daartoe  binnen de Nederlandse wateren in  kweektechnisch en planologisch  opzicht mogelijkheden zijn. De  mogelijkheid van uitbreiding van het  areaal mosselpercelen in de Ooster- schelde, het Grevelingenmeer en de  Waddenzee wordt daarnaast ook  beperkt door andere gebruiksfuncties.  Over de uitbreiding van het kweeka- reaal in de Waddenzee zal pas een  besluit kunnen worden genomen na  afsluiting van het onderzoek van het  Rijksinstituut voor Natuuronderzoek  naar de effecten van de mosselcultuur  op het ecosysteem in de Waddenzee.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

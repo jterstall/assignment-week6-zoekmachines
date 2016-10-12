@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Valk en Feenstra (beiden PvdA) over een proef met lange vrachtwagencombinaties. (Ingezonden 1 september 1998); Antwoord</item>
+         <item attribuut="Bestand">13Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR8367
+</item>
+         <item attribuut="Rubriek">Verkeer, vervoer en waterstaat (Motorrijtuigen) Verkeer, vervoer en waterstaat (Verkeersveiligheid)</item>
+         <item attribuut="Trefwoorden">Verkeersveiligheid Vrachtwagens</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 1998-1999, nr. 486, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2979815840</item>
+         <item attribuut="Afkomstig_van">Verkeer en Waterstaat</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Valk</persoon>
+            <persoon partij="PvdA">Feenstra</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1998-12-16</item>
+         <item attribuut="Datum_indiening">1998-09-01</item>
+         <item attribuut="Document-id">KVR8367</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1998–1999" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="991" allpagenumbers="991" vetnummer="2979815840" code="" lopendefooter="Tweede Kamer, vergaderjaar 1998–1999, Aanhangsel" filenaam="KVR8367" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 1998"/>
+      <vraagdata vraagnummer="486" onderwerp="" indiendatum="1998-09-1">
+         <vrager partij="PvdA" oorsprong="parlement">Valk</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Feenstra</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Is de voorgenomen proef met lange vrachtwagencombinaties beperkt en uitgesteld? <voetnoot nummer="1"/>Zo ja, wat is daarvan de oorzaak? </vraag>
+      <vraag nummer="2">Welke eisen waren oorspronkelijk gesteld aan deze proef? Welke eisen zijn blijkbaar onlangs aangescherpt? Wat vormde voor uw ministerie de argumentatie voor deze aanscherping? </vraag>
+      <vraag nummer="3">Heeft het terugbrengen van het aantal deelnemers ook consequenties voor de waarde van de proef? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1998-07-30" bron="Nieuwsblad Transport">Nieuwsblad Transport, 30 juli 1998</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

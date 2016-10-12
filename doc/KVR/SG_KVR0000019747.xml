@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="1">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001361</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001361&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001361</item>
+         <item attribuut="Document-id">0000019747</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 347</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Melkert (PvdA) over de uitgifte van een staatslening in ECU.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 347</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">347</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Melkert</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-01-10</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Kok</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-01-31</item>
+         <item attribuut="Beginpagina">741</item>
+         <item attribuut="Eindpagina">742</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="741" allpagenumbers="741" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="'s Gravenhage 1992"/>
+      <vraagdata vraagnummer="347" onderwerp="de uitgifte van een staatslening in ECU." indiendatum="1992-01-10">
+         <vrager partij="PvdA" oorsprong="parlement">Melkert</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-01-31">
+         <antwoorder functie="minister" ministerie="Financiën">Kok</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="1">
+      <vraag nummer="1">Herinnert u zich uw reactie op de suggestie uit de PvdA-fractie, de uitgifte van staatsleningen in ECU te bevorderen? 1 2 Wat weerhoudt U thans van uitgifte van een staatslening in ECU, mede gelet op recente rendementen op staatsobligaties in ECU uitgegeven door Frankrijk respectievelijk het Verenigd Koninkrijk? b\z. 25-1548. </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" titel="Daar is in principe niets op tegen Wel moet rekening worden gehouden met de gevolgen die dat heeft in termen van rentelasten."> Minister Kok op 19 november 1991 tijdens de begrotingsbehandeling Financiën: «Daar is in principe niets op tegen Wel moet rekening worden gehouden met de gevolgen die dat heeft in termen van rentelasten.» Handelingen II nr 9,</noot>
+         <noot nummer="2" datum="1992-01-7" bron=" De Volkskrant"> De Volkskrant, 7 januari 1992</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1">Ja. In aansluiting op hetgeen ik eerder in de Kamer heb gezegd, wil ik nogmaals benadrukken dat ik geen principiële bezwaren heb tegen het uitgeven van staatsleningen in ecu's. Uiteraard komt er een moment tussen nu en de aanvang van de derde fase van de EMU, op 1 januari 1997 of uiterlijk op 1 januari 1999, dat de Staat der Nederlanden zal overgaan tot het lenen in ecu's. Op dit moment acht ik de tijd evenwel nog niet rijp om tot een ecu-emissie over te gaan. Tijdens de behandeling van de begroting van Financiën, heb ik gewezen op het feit dat een belangrijke factor waarmee rekening gehouden moet worden de gevolgen van een ecu-lening voor de rentelasten van de Staat zijn. Ten aanzien van dit punt kan het volgende worden opgemerkt. De rente op ecu-obligaties is als regel hoger dan de rente op guldensobligaties. Het is pas sinds kort dat de ecu-rente zich op het niveau van de guldensrente bevindt. Indien daarbij ook de emissiekosten worden betrokken, is het uitgeven van een ecu-lening, in ieder geval vooralsnog, niet aantrekkelijk. Voorts mag een eventuele ecu-emissie niet ten koste gaan van de liquiditeit en de aantrekkelijkheid van de guldensmarkt. Bedacht zij immers dat de Staat voorlopig ook van de guldensmarkt afhankelijk zal blijven: de ecu-markt is nog niet zodanig ontwikkeld dat deze de gehele financieringsbehoefte van de Staat, ca 20 mrd ecu, zonder problemen kan absorberen. Daarom heeft het mijn voorkeur mij vooralsnog te beperken tot de uitgifte van guldensobligaties. Dat de guldensobligaties nog niets van hun aantrekkingskracht hebben verloren blijkt overigens uit het succes van de laatste staatsleningen die in één week tijd meer dan 14 mrd gulden hebben opgebracht. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

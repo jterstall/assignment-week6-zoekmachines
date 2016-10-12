@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0001769</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001769&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001769</item>
+         <item attribuut="Document-id">0000004280</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 555</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden De Graaf en Dittrich (beiden D66) over uitspraken rond criminaliteit en migratie.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 555</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">555</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">De Graaf</persoon>
+            <persoon partij="D66">Dittrich</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-06-01</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Kosto</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-06-13</item>
+         <item attribuut="Beginpagina">1127</item>
+         <item attribuut="Eindpagina">1128</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1127" allpagenumbers="1127" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 • 7398" uitgever="'s-Gravenhage 1994"/>
+      <vraagdata vraagnummer="555" onderwerp="uitspraken rond criminaliteit en migratie." indiendatum="1994-06-1">
+         <vrager partij="D66" oorsprong="parlement">De Graaf</vrager>
+         <vrager partij="D66" oorsprong="parlement">Dittrich</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="13juni 1994">
+         <antwoorder functie="minister" ministerie="Justitie">Kosto</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Heeft het hoofd van de directie Criminaliteitspreventie van uw ministerie gezegd: «Ik vind het niet zo gek als iemand bang is als hij 's avonds bij een bushalte een Marokkaan ziet staan. Ik vind dat rationeel gedrag.» <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Bent u van oordeel, dat publieke uitspraken als in vraag 1 weergegeven, bijdragen aan gevoelens van onveiligheid en angst, juist ten opzichte van allochtonen? </vraag>
+      <vraag nummer="3">Bestaat er een «onweerlegbaar verband» tussen de gestegen criminaliteit en immigratie, zoals betrokkene stelt? Zo ja, waaruit bestaat dit verband? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1994-05-28" bron=" Leidsch Dagblad, GPD"> Leidsch Dagblad, GPD, 28 mei 1994</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">De uitspraak is de geparafraseerde weergave van een reactie op de tijdens een paneldiscussie voor een publiek van genodigden geponeerde stelling dat iemand die zich door de aanwezigheid van een gekleurde Nederlander in een bepaalde situatie onveilig voelt, daarmee blijk geeft van een verwerpelijke instelling. </antwoord>
+      <antwoord nummer="2">Het relativeren van bovengenoemde stelling tijdens een discussiebijeenkomst in besloten kring lijkt mij niet bij te dragen aan angstgevoelens ten opzichte van allochtonen. Uiteraard heeft betrokkene daarmee niet willen beweren dat er aanleiding zou zijn om angstgevoelens te koesteren voor allochtonen. </antwoord>
+      <antwoord nummer="3">Hoewel voorkomen moetworden dat negatieve stereotypen over allochtonen worden bevestigd, is de laatste jaren in een aantal wetenschappelijke publikaties aandacht besteed aan de oververtegenwoordiging van jongemannen van allochtone afkomst onder de plegers van bepaalde vormen van criminaliteit. Hierover is o.a. gerapporteerd in de Integrale Veiligheidsrapportage (Achtergrondstudies 2, Onveiligheid en Allochtonen– de Stand van Zaken), Ministerie van Binnenlandse Zaken en in het rapport van de Commissie Jeugdcriminaliteit (met de Neus op de Feiten, bijlage 2, Over de oorzaken van de criminaliteit van allochtone jongeren). </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

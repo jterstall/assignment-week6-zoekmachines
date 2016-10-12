@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19881989:0001272</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001272&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001272</item>
+         <item attribuut="Document-id">0000090871</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1988-1989 nummer 268</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Feenstra (P.v.d.A.) over de aanleg van de RW19/A4.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1988-1989 nummer 268</item>
+         <item attribuut="Jaargang">1988_1989</item>
+         <item attribuut="Vraagnummer">268</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Feenstra</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-01-10</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Smit-Kroes</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-01-31</item>
+         <item attribuut="Beginpagina">539</item>
+         <item attribuut="Eindpagina">540</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 198$-198a " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 8 - 1 9 8 9 ,  A a n h a n g s e l " filenaam="" issn-nummer="ISSN 0921 • 7398 " uitgever="SDU uitgeverij 's-Gravenhage 1989 "/>
+      <vraagdata vraagnummer="268" onderwerp="de aanleg van de RW19/A4." indiendatum="10januari 1989)">
+         <vrager partij="PvdA" oorsprong="parlement">Feenstra</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="31 januari 1989)">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">S m i t - K r o e s</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1 ">Zijn de minister bekend de beide  aanvragen die de hoofdingenieur-di- recteur van Rijkswaterstaat Directie  Zuid-Holland bij de gemeente  Schipluiden heeft ingediend voor  - het slaan van een damwand ten  behoeve van de aanleg van een  aquaduct voor de RW1 9/A4 onder  de Gaag,  - de aanleg van een gedeelte van de  RW1 9/A4 tussen Den Duider en de  Gaagweg?  </vraag>
+      <vraag nummer="2 ">Is de minister ook van mening dat,  waar inzake de eventuele aanleg van  R W 1 9 / A 4 noch de Reconstructie- commissie Midden Delfland noch  deze Kamer tot een eindoordeel zijn  gekomen, met de uitvoering van  bovengenoemde werken de ruimte  voor discussie en vrije standpuntbe- paling van zowel de Reconstructie- commissie als de Kamer feitelijk  w o r d t belast en beperkt?  </vraag>
+      <vraag nummer="3 ">Zijn, tegen deze achtergrond, de  beide aanvragen van de Provinciale  Directie Rijkswaterstaat Zuid-Holland  op zijn minst te vroegtijdig gedaan,  en zo ja, op welke wijze zal de  minister hierin corrigerend optreden?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1 ">Ja.  </antwoord>
+      <antwoord nummer="2 ">De aanvragen hebben betrekking op  het uitvoeren van werken voor een  gedeelte van de  A 4 (Prinses Beatrix- laan/Rijswijk-Kruithuisweg/Schiplui- den) waarover overeenstemming  bestaat tussen het Rijk, de Provincie  Zuid-Holland, de Reconstructie-com- missie Midden-Delfland en de  betrokken Gemeenten Rijswijk en  Schipluiden. De Kamer dient zich  nog altijd uit te spreken over het  aansluitende deel naar de Beneluxtun- nel; het gebruik maken van de te  verlenen vergunningen staat de  oordeelsvorming van de Kamer niet  in de weg.  </antwoord>
+      <antwoord nummer="3 ">De aanvragen zijn derhalve niet  vroegtijdig gedaan, zodat er mijner- zijds geen behoefte bestaat  o m  corrigerend op te treden.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

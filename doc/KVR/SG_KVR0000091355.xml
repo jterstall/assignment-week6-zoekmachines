@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19881989:0001756</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001756&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001756</item>
+         <item attribuut="Document-id">0000091355</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1988-1989 nummer 748</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Verspaget en Van Rijn-Vellekoop (beiden P.v.d.A.) over emissie-eisen voor electriciteitscentrales.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1988-1989 nummer 748</item>
+         <item attribuut="Jaargang">1988_1989</item>
+         <item attribuut="Vraagnummer">748</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Verspaget</persoon>
+            <persoon partij="PvdA">Van Rijn-Vellekoop</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-06-26</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Nijpels</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-07-18</item>
+         <item attribuut="Beginpagina">1503</item>
+         <item attribuut="Eindpagina">1504</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 8 - 1 9 8 9 " typehandeling="" typedoc=""/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 8 - 1 9 8 9 ,  A a n h a n g s e l " filenaam="" issn-nummer="ISSN 921 7398 " uitgever="SDU uitgeverij 's Gravenhage i 989 "/>
+      <vraagdata vraagnummer="748" onderwerp="emissie-eisen voor electriciteitscentrales." indiendatum="2 6 juni 1989)">
+         <vrager partij="PvdA" oorsprong="parlement">Verspaget</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Van Rijn-Vellekoop</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="18 juli 1989)">
+         <antwoorder functie="" ministerie="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer"/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="8">
+      <vraag nummer="1 ">Hebt u kennis genomen van de ter  inzage gelegde beschikking op de  vergunningaannvrage voor de  Hemwegcentrale van het provinciaal  bestuur van Noord-Holland?  </vraag>
+      <vraag nummer="2 " voetnoot="1">A c h t u deze vergunning in overeen- stemming met het verzoek in de  motie Van Rijn-Vellekoop en Oomen- Ruijten <voetnoot nummer="1"/>, op korte termijn te komen  t o t een neerwaartse bijstelling van  het Besluit emissie-eisen stookinstall- ties WLV ook voor nieuw te bouwen  centrales?  </vraag>
+      <vraag nummer="3 " voetnoot="3">Is voor N0 X  slechts een lagere  streefwaarde tot  2 0 0  m g / m <voetnoot nummer="3"/> geformu- leerd en niet als voorwaarde gesteld?  W a t is uw mening hierover?  </vraag>
+      <vraag nummer="4 ">A c h t u het tot stand komen van een  overeenkomst ten aanzien van de  emissie-eisen grote stookinstallaties  nog steeds een reële en wenselijke  mogelijkheid, of houdt u vast aan uw  voorkeur voor een wijziging van de  A M v B , overeenkomstig de uitspraak  van deze Kamer?  </vraag>
+      <vraag nummer="5 " voetnoot="3">W o r d t in de te sluiten overeenkomst  en/of de te wijzigen AMvB de  maximale uitstook van NO. en SO2  per elektriciteitscentrale bepaald op  maximaal 200  m g / m <voetnoot nummer="3"/>, zoals dat in de  Bondsrepubliek BRD reeds praktijk  is? Zo neen,  w a a r o m niet?  </vraag>
+      <vraag nummer="6 ">Treedt deze overeenkomst of deze  wijziging van de  A M v B op een tijdstip  in werking, dat toepassing nog  mogelijk zal zijn op de nieuw te  bouwen Hemwegcentrale?  </vraag>
+      <vraag nummer="7 ">Hoe kan worden voorkomen, dat  tengevolge van storingen gedurende  2 4 0 uur/jaar, zonder reiniging 1000  t o n extra SO2  w o r d t  g e ë m i t t e e r d ?  </vraag>
+      <vraag nummer="8 ">Duurt het niet onaanvaardbaar lang,  voordat de maatregelen ter bestrijding  van de emissie van electriciteitscen- trales tot de norm van de Duitse  Lander, waarover in de Tussentijdse  Evaluatie Verzuring van  d e c e m b e r  '87 wordt gesproken , in regelgeving  worden omgezet?  </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="2">Zie Kamerstuk  2 0 8 0 0 XI, nr. 65  Zie Kamerstuk 18 225, nr. 22 </noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="7">
+      <antwoord nummer="1 ">Ja.  </antwoord>
+      <antwoord nummer="2 " voetnoot="3 3 3">In de gewijzigde motie van de leden  Van Rijn-Vellekoop en Oomen- Ruijten (Kamerstuk 20 800-XI, nr.  65) werd verzocht op korte termijn  met de wettelijke eisen voor stookin- stallaties aan te sluiten bij de in de  Bondsrepubliek Duitsland geldende  eisen en, vooruitlopend daarop  overleg te plegen  o m tot de  gewenste aanscherping van de  emissie-eisen voor nieuwe centrales  te komen.  Met betrekking tot de beschikking  van het provinciaal bestuur van  Noord-Holland op de vergunningaan- vrage voor de Hemweg-centrale is  het tweede deel van die motie  relevant. Ik ben van oordeel dat de  beschikking daarmee geheel in  overeenstemming is, aangezien  daarbij ook de toezegging is  betrokken die door de UNA bij brief  van  2 4 februari 1989 is gedaan, naar  aanleiding van de bemiddeling  dezerzijds tussen Sep, UNA en de  provincie. Toegezegd werd  ondermeer dat UNA zich zal  inspannen voor  N O x  een emissie- niveau van 200  m g / m <voetnoot nummer="3"/> zo dicht  mogelijk te benaderen.  Daarmee wordt zeer zeker aange- sloten bij de Duitse regelgeving  waar, rekening houdend met de  interpretatie die is gegeven van de  zogenaamde «Dynamisierungs»- clausule, een emissie-eis geldt van  200  m g / m <voetnoot nummer="3"/>. Voor SO2 geldt in de  Bondsrepubliek, evenals in  Nederland, een wettelijke eis van  4 0 0  m g / m <voetnoot nummer="3"/>. Ook met de praktijk in  de Bondsrepubliek dat in een aantal  gevallen aanzienlijk lagere emissies  worden bereikt, is de situatie bij de  Hemweg-centrale in lijn, door het  voorziene hoge gemiddelde ontzwa- velingsrendement en de te  verwachten kwaliteit van de te  gebruiken kolen.  Reductie (SCR) is te realiseren.  </antwoord>
+      <antwoord nummer="4 ">Het overleg dat tussen vertegen- woordigers van de Sep, de  provincies en het ministerie van  Volkshuisvesting, Ruimtelijke  Ordening en Milieubeheer is gevoerd  over een overeenkomst ten aanzien  van de SO2 en  N 0 X  emissies van  centrales, heeft niet tot een voor alle  drie partijen aanvaardbare overeen- komst geleid.  Mijn voorkeur gaat daarom thans  geheel uit naar een wijziging van het  besluit emissie-eisen stookinstal- laties  W L V .  </antwoord>
+      <antwoord nummer="5 ">Bij de wijziging van het genoemde  besluit zal nieuwe aansluiting worden  gezocht bij de in de Bondsrepubliek  Duitsland in de praktijk voorkomende  emissiewaarden, met dien verstande  dat op grond van de bij de beant- woording van vraag 3 vermelde  overwegingen, een benadering van  een emissieniveau van  2 0 0  m g / m </antwoord>
+      <antwoord nummer="3 " voetnoot="3">wordt voorgestaan. Volledigheids- halve  w o r d t nog opgemerkt dat in de  BRD de wettelijke emissie-eis voor  SO2  4 0 0  m g / m <voetnoot nummer="3"/> bedraagt en er dus  niet van een algemeen aangehouden  emissiemaximum van  2 0 0  m g / m </antwoord>
+      <antwoord nummer="3 ">sprake is.  </antwoord>
+      <antwoord nummer="6 " voetnoot="3">Het ligt niet in de bedoeling met  bedoeld wijzigingsbesluit veran- dering te brengen in de afspraken  die, na bemiddeling dezerzijds, zijn  gemaakt ten aanzien van de  Hemweg-eenheid 8, tussen de Sep,  UNA en het college van gedepu- teerde staten van de provincie  Noord-Holland.  het in regelgeving omzetten van  maatregelen ter bestrijding van de  emissies van elektriciteitscentrales  tot de norm van de Duitse Lander. Er  was in die notitie een nader met de  Sep overeen te komen (extra)  emissiereductie aan de orde. Die  reductie werd geformuleerd als een  in  2 0 0 0 extra vermeden hoeveelheid  SO2 en  N O x  ten opzichte van  hetgeen bij de uitsluitende  toepassing van de eisen volgens het  Besluit emissie-eisen stookinstal- laties WLV zou zijn uitgeworpen. De  omvang van die extra bestreden  hoeveelheden wordt voor SO2  berekend uitgaande van een  optimaal gebruik van de voorge- schreven ontzwavelingsinstallaties en  voor  N 0 X  uitgaande van voorzie- ningen waarmee benadering van het  emissieniveau van 200  m g / m <voetnoot nummer="3"/> uit de  Duitse regelgeving, mogelijk is.  Voor het overleg over de desbetref- fende overeenkomst is het overleg  over een verdergaande reductie in de  plaats gekomen, waar in het  antwoord op vraag 4 melding van is  gemaakt.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

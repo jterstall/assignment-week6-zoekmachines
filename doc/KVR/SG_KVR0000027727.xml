@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="spoedig mogelijk plaatshebben." aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001390</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001390&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001390</item>
+         <item attribuut="Document-id">0000027727</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 456</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden K. Zijlstra, Stemerdink, Feenstra, en Valk (allen P.v.d.A.) over de Hoge Flux Reactor te Petten.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 456</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">456</item>
+         <item attribuut="Indiener">
+            <persoon>K. Zijlstra</persoon>
+            <persoon>Stemerdink</persoon>
+            <persoon>Feenstra</persoon>
+            <persoon>Valk</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-03-01</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Andriessen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-03-20</item>
+         <item attribuut="Beginpagina">925</item>
+         <item attribuut="Eindpagina">926</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="925" allpagenumbers="925" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="" uitgever="SDU uitgeverij 's Gravenhage 1991"/>
+      <vraagdata vraagnummer="456" onderwerp="de Hoge Flux Reactor te Petten." indiendatum="1991-03-1">
+         <vrager partij="" oorsprong="parlement">K. Zijlstra</vrager>
+         <vrager partij="" oorsprong="parlement">Stemerdink</vrager>
+         <vrager partij="" oorsprong="parlement">Feenstra</vrager>
+         <vrager partij="" oorsprong="parlement">Valk</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="12">
+      <vraag nummer="1">Zijn gegevens uit het «Directory of nuclear research reactors» van de International Atomic Energy Agency (IAEA) van 1989 over de Hoge Flux Reactor juist?' </vraag>
+      <vraag nummer="2">Kan, ervan uitgaand dat gedurende ongeveer 2 jaar geen uitgewerkte brandstof kon worden afgevoerd, geconcludeerd worden, dat minstens 2 x 1 0 x 7 = 140 splijtstofele– menten oftewel 140 x ca. 0,4 kg = ca. 56 kg. uitgewerkte splijtstofele– menten met hoogverrijkt uranium in het opslagbassin aanwezig moet zijn, de voorraad aan het begin van de periode en eventuele splijtstof van de ander onderzoeksreactoren niet meegerekend? Zo neen, welke is dan de juiste berekening? Hoeveel splijt– stofelementen bevinden zich gemiddeld in voorraad? </vraag>
+      <vraag nummer="3" voetnoot="2">Bedraagt de «spent fuel maximum capacity» 120 elementen? <voetnoot nummer="2"/> Zo ja, moet daaruit geconcludeerd worden, dat volgens het IAEA de maximale opbergcapaciteit is overschreden of is n.a.v. het beëindigen van de terug– zendmogelijkheden naar de VS besloten de capaciteit door het plaatsen van compact– of andere rekken te vergroten? </vraag>
+      <vraag nummer="4">Zal, bij voortgaand bedrijf van de HFR aan het eind van 1991 de door het IAEA in 1989 aangegeven «maximum capacity» met een percentage naderend tot 100 worden overschreden? Zo ja, welke gevolgen moeten daaraan worden verbonden? </vraag>
+      <vraag nummer="5">Wat is in de vergunning(en) opgenomen over de maximumop– slagcapaciteit en, indien geen maximum is genoemd, welke zijn daarvoor de redenen, gegeven het feit, dat in de vergunning voor de kerncentrales Dodewaard en Borssele wel een maximum is gesteld aan het aantal gebruikte brandstofelementen in het opslag bassin? </vraag>
+      <vraag nummer="6">Kan de tekst van de relevante vergunning(en) en bijbehorende documentatie aan deze Kamer worden overgelegd? </vraag>
+      <vraag nummer="7" voetnoot="3">Door welke vergunning wordt de lozing van radioactief afvalwater gedekt? Is, krachtens de verleende vergunning <voetnoot nummer="3"/>, reeds bestraalde splijtstof naar Dounreay verzonden? Zo neen, wordt verzending voor einde maart 1991 overwogen? </vraag>
+      <vraag nummer="8">Is op enig moment door de exploitant van de HFR overwogen om over te gaan tot compactopslag danwel een andere vorm van extra opslag in de HFR? Zo ja, wanneer is daarover contact opgenomen met de betreffende bewindslieden, wat is daarop geantwoord en welke voorwaarden zijn gesteld? </vraag>
+      <vraag nummer="9" voetnoot="4">Welke mogelijkheden om de HFR verder te exploiteren, indien het opslagbassin vol raakt, worden onderzocht? Welke alternatieven worden in dit verband bedoeld met antwoord 2 op de eerdere vragen terzake van vragenstellers? <voetnoot nummer="4"/>
+      </vraag>
+      <vraag nummer="10">Onderschrijft u het «draftdocument» van de in augustus-september 1990 gehouden vierde Non Proliferatie– verdrag-toetsingsconferentie, waarin het gebruik van laag in plaats van hoog verrijkt uranium door onder– zoeksreactoren wordt aanbevolen? Zo ja, bent u bereid, er bij de Europese Commissie op aan te dringen dat de HFR wordt omgezet van hoog naar laag verrijkt uranium, teneinde het proliferatiegevaar zo veel mogelijk te beperken? </vraag>
+      <vraag nummer="11" voetnoot="5">Kan de veiligheidsstudie over de HFR <voetnoot nummer="5"/>, die als basis moet dienen voor een eventuele zonering, aan deze Kamer worden overgelegd? Is deze studie voor advies aan de Commissie Reactor Veiligheid toegezonden? Zo neen, waarom niet? </vraag>
+      <vraag nummer="12">Hoe beoordeelt u het op verzoek van het stadsbestuur van Berlijn door het Öko-lnstitut te Darmstadt verrichte </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="2"> Zie punt 4.18 in genoemd stuk</noot>
+         <noot nummer="3" titel="Overzicht over 1990 van verleende vergunningen voor het vervoer van splijtstoffen"> Zie de brief van de minister van VROM van 22 februari jl : «Overzicht over 1990 van verleende vergunningen voor het vervoer van splijtstoffen», Kamerstuk 20 607, nr. 12</noot>
+         <noot nummer="4"> Aanhangsel Handelingen nr 327, verga– derjaar 1990-1991</noot>
+         <noot nummer="5"> Zoals door de minister van VROM tijdens de UCV Kernongevallen op 15 oktober 1990 aangeduid</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+   <mededeling mededeler="Andriessen" functie="minister" afdeling="Economische Zaken" mededelingdatum="1991-03-20">Mededeling van minister Andriessen (Economische Zaken), mede namens de ministers van Sociale Zaken en Werkgelegenheid, van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Buitenlandse Zaken. (Ontvangen 20 maart 1991) Hierbij deel ik u ook namens de ministers van Sociale Zaken en Werkgelegenheid, van Volkshuis– vesting, Ruimtelijke Ordening en Mllieubeheer en van Buitenlandse Zaken mede dat het, vanwege het feit dat informatie bij de Europese Commissie moet worden ingewonnen, niet mogelijk is u binnen de gestelde termijn de antwoorden te doen toekomen op de vragen van de leden Zijlstra, Stemerdink, Feenstra en Valk welke mij werden toegezonden bij brief van 4 maart jl. De beantwoording zal zo </mededeling>
+</kvr>

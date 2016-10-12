@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0001860</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001860&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001860</item>
+         <item attribuut="Document-id">0000004371</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 646</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Verspaget (PvdA) over Roma in Tsjechië.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 646</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">646</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Verspaget</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-06-24</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Kooijmans</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-07-13</item>
+         <item attribuut="Beginpagina">1311</item>
+         <item attribuut="Eindpagina">1312</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1311" allpagenumbers="1311" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgeveri) Plantijnstraat 's Gravenhage 1994"/>
+      <vraagdata vraagnummer="646" onderwerp="Roma in Tsjechë." indiendatum="1994-06-24">
+         <vrager partij="PvdA" oorsprong="parlement">Verspaget</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-07-13">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">Kooijmans</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="1">
+      <vraag nummer="1">Zullen als gevolg van recente beslissingen van de Tsjechische regering tienduizenden Roma statenloos worden? Bent u bereid, conform uw toezegging, 5 april 1994  deze kwestie andermaal bij de Tsjechische regering aan de orde te stellen en - indien dit onvoldoende effect sorteert - aktie te ondernemen binnen het kader van de CVSE of de Raad van Europa, danwel de VN-Commissie voor de Rechten van de Mens? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"/>
+         <noot nummer="2"/>
+         <noot nummer="1" datum="1994-06-21" bron=" Zie Romnews van het Roma National Congress, nr. 6"> Zie Romnews van het Roma National Congress, nr. 6, 21 juni 1994</noot>
+         <noot nummer="2"> Aanhangsel (nr. 414 (1993/94) Handelingen)</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Als gevolg van de nieuwe Tsjechische nationaliteitswetgeving zal het naar alle waarschijnlijkheid voor een aanzienlijke groep Roma, ingezetenen van deTsjechische Republiek, niet mogelijk blijken de Tsjechische nationaliteit te verkrijgen. Desondanks doet een dreiging van statenloosheid voor bovengenoemde Roma zich niet voor. Na de deling van Tsjecho-Slowakije verkregen zij, op grond van de nieuwe Slowaakse nationaliteitswetgeving, in overgrote meerderheid automatisch de Slowaakse nationaliteit. Het probleem van statenloosheid lijkt zich derhalve te beperken tot enkele individuele gevallen, van oorsprong afkomstig uit een van de omringende landen. Overigens heeft de Tsjechische regering op 28 juni 1994 bepaald dat de Roma, die er niet in zullen zijn geslaagd de Tsjechische nationaliteit te verwerven, toch hun sociale uitkeringen zullen behouden. Voorts hebben de Tsjechische autoriteiten het eenvoudiger gemaakt voor bedoelde Roma een permanente verblijfsvergunning in de Tsjechische Republiek te krijgen. </antwoord>
+      <antwoord nummer="2">Mede gezien de tegemoetkomende houding van de Tsjechische regering bij hetvinden van praktische oplossingen voor de met de nationaliteitskwestie samenhangende problemen, acht ik bilaterale stappen op dit moment niet opportuun. Onderhavige kwestie zal in multilateraal verband nauwlettend worden gevolgd. Indien ontwikkelingen daartoe aanleiding geven kan alsnog worden overwogen deze problematiek in het kader van de Raad van Europa alsook de CVSE aan de orde te stellen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

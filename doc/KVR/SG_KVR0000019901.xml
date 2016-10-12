@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001515</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001515&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001515</item>
+         <item attribuut="Document-id">0000019901</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 498</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Kohnstamm (D66) over het vermelden van de ontslagdiagnose van patiënten op de rekening.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 498</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">498</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Kohnstamm</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-03-05</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Simons</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-03-31</item>
+         <item attribuut="Beginpagina">1047</item>
+         <item attribuut="Eindpagina">1048</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1047" allpagenumbers="1047" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="498" onderwerp="het vermelden van de ontslagdiagnose van patiënten op de rekening." indiendatum="1992-03-5">
+         <vrager partij="D66" oorsprong="parlement">Kohnstamm</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-03-31">
+         <antwoorder functie="staatssecretaris" ministerie="Welzijn, Volksgezondheid en Cultuur">Simons</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Is in het kader van het «Vijf partijenaccoord» (VPA) afgesproken, dat medische specialisten de ontslagdiagnose van patiënten op de rekening dienen te vermelden? </vraag>
+      <vraag nummer="2">Zo ja, is het u bekend met welk doel deze afspraak is gemaakt? </vraag>
+      <vraag nummer="3">Hoe verhoudt deze afspraak zich tot het nieuw voorgestelde artikel 1653-Lvan het Burgerlijk Wetboek onder artikel I in het wetsvoorstel' op de geneeskundige behandelingsovereenkomst (WGBO), dat zegt dat de hulpverlener zorg draagt, «dat aan anderen dan de patiënt geen inlichtingen over de patiënt (..) worden verstrekt dan met toestemming van de patiënt»? Hoe beoordeelt u deze verhouding? </vraag>
+      <vraag nummer="4">Bestaat de mogelijkheid om die toestemming ook te bedingen via de overeenkomst tussen de verzekeraar en de verzekerde? Zo ja, in hoeverre is er dan nog sprake van reeële vrijheid van verzekerden om die toestemming te weigeren en desalniettemin in Nederland tegen ziektekosten verzekerd te blijven? Op welke wijze zal gewaarborgd worden dat de hier bedoelde gegevens - na verkregen toestemming - niet tevens gebruikt zullen kunnen worden door eventuele met de ziektekosteverzekeraar verbonden of samenwerkende (verzekerings)maatschappijen op het terrein van bijvoorbeeld financiering en arbeidsongeschiktheid? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Kamerstuk 21 561</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja. Tot deze afspraak zijn partijen gekomen daar de ontslagdiagnose het meest precieze en betrouwbare gegeven is, op grond waarvan informatie verkregen kan worden over de doelmatigheid en de kwaliteit van medisch handelen. Bij de aanvang van een opname is vaak nog niet duidelijk wat de daadwerkelijke diagnose is, na afloop van de opname echter staat in de regel de definitieve diagnose vast. Door het kennen van de ontslagdiagnosecode kunnen onderlinge vergelijkingen inzake behandelingen worden gemaakt. Op grond daarvan kunnen bijvoorbeeld regionale gegevens vergeleken worden met landelijke cijfers of kunnen specialistenmaatschappen onderling op bepaalde onderdelen worden vergeleken. Op deze wijze kan bijgedragen worden aan een meer gepast gebruik van voorzieningen. </antwoord>
+      <antwoord nummer="3 en 4">Onderhavige bepaling stelt met zoveel woorden dat de beperking ten aanzien van de verstrekking van gegevens niet geldt indien de hulpverlener tot het geven van inlichtingen bij of krachtens een andere wet verplicht is. In voorliggende casus kan gesteld worden dat de ZFW (artikel 44 in relatie tot artikel 13) tot een dergelijke verplichting voor de hulpverlener noopt. In de memotïe van toelichting bij het wetsvoorstel behandelingovereenkomst is ter zake dan ook het volgende opgemerkt. «Ingevolge de derde volzin van het eerste lid (van artikel 1653 I) geldt geen geheimhoudingsplicht voor zover het verstrekken van inlichtingen of bescheiden omtrent de patiënt aan een derde bij of krachtens een andere wet wordt voorgeschreven. Te denken valt aan artikel 44, derde lid van de Ziekenfondswet, dat onder meer voorschrijft dat een medewerkersovereenkomst in ieder geval bepalingen bevat betreffende de verplichting tot het verstrekken van gegevens ten behoeve van controle door het ziekenfonds op te verrichten dan wel verrichte prestaties en op de juistheid van de daarvoor in rekening gebrachte gehouden aan te geven met welk doel dergelijke gegevens verzameld worden. In geval zij de gegevens voor een ander doel wensen aan te wenden, dienen zij daarvoor uitdrukkelijke toestemming van hun verzekerden te verkrijgen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

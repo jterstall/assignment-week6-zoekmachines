@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19871988:0001022</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001022&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001022</item>
+         <item attribuut="Document-id">0000098736</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1987-1988 nummer 85</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Melkert en Van Traa (beiden P.v.d.A.) over de klacht van een Turkse vrouw tegen Nederland in het kader van het verdrag inzake uitbanning van rassendiscriminatie.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1987-1988 nummer 85</item>
+         <item attribuut="Jaargang">1987_1988</item>
+         <item attribuut="Vraagnummer">85</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Melkert</persoon>
+            <persoon partij="PvdA">Van Traa</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-10-02</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-10-29</item>
+         <item attribuut="Beginpagina">171</item>
+         <item attribuut="Eindpagina">172</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="" typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 7 - 1 9 8 8 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="85" onderwerp="de klacht van een Turkse vrouw tegen Nederland in het kader van het verdrag inzake uitbanning van rassendiscriminatie:" indiendatum="2 oktober 1987)">
+         <vrager partij="PvdA" oorsprong="parlement">Melkert</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Van Traa</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1 ">Heeft de regering gereageerd op de  klacht van een Turkse vrouw tegen  Nederland, die door de VN-commissie  tot bestrijding van rassendiscriminatie  ontvankelijk was verklaard?  </vraag>
+      <vraag nummer="2 ">Zo ja, hoe luidt deze reactie?  </vraag>
+      <vraag nummer="3 ">W i l de regering deze Kamer op de  hoogte houden van de verdere  stappen in deze procedure?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="4 ">Neen.  Zijn andere klachten tegen Nederland  aanhangig gemaakt in het kader van  het individuele klachtrecht over het  niet naleven van het verdrag inzake  uitbanning van rassendiscriminatie?  T o e l i c h t i n g  Zie De Volkskrant van  3 0 april  j l .  Voor de bij de commissie in te  dienen reactie was een termijn van  drie maanden vastgesteld.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

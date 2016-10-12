@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="7">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Gerkens (SP) aan de minister van Economische Zaken en de staatssecretaris van Financiën over de DigiD. (Ingezonden 19 april 2006); Antwoord</item>
+         <item attribuut="Bestand">15Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR25610
+</item>
+         <item attribuut="Inhoud">Vragen over bericht (http://www.nu.nl/news) dat de beveiliging van de digitale identificatiemethode van de overheid, DigiD, niet voldoende is om de belastingaangifte mee te ondertekenen. Het Genootschap voor Informatiebeveiligers (GvIB) is van mening dat hiermee eventuele problemen op de burger worden afgewenteld. Indiener wil weten of er de reactie van de Belastingdienst, dat er geen fraudegevallen met DigiD bekend zijn, op feiten berust. Zijn er fraudegevallen bekend bij de andere diensten die gebruik maken van DigiD? Er zouden experimenten lopen met aanvullende beveiliging via SMS.</item>
+         <item attribuut="Rubriek">Communicatie, media en informatievoorziening (Netwerken) Communicatie, media en informatievoorziening (Overig) Consument (Algemeen) Criminaliteit en openbare orde (Persoonsregistratie en identificatie) Staats- en bestuursrecht (Rijksoverheid)</item>
+         <item attribuut="Trefwoorden">Consumenten Legitimatie Netwerken Overheid Voorlichting</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2005-2006, nr. 1477, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2050612010</item>
+         <item attribuut="Afkomstig_van">Economische Zaken (EZ) Financiën (FIN)</item>
+         <item attribuut="Indiener">
+            <persoon partij="SP">Gerkens</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2006-05-17</item>
+         <item attribuut="Datum_indiening">2006-04-19</item>
+         <item attribuut="Document-id">KVR25610</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2005–2006" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="3151" allpagenumbers="3151 3152" vetnummer="2050612010" code="0506tkkvr1477" lopendefooter="Tweede Kamer, vergaderjaar 2005–2006, Aanhangsel" filenaam="KVR25610" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2006"/>
+      <vraagdata vraagnummer="1477" onderwerp="" indiendatum="2006-04-19">
+         <vrager partij="SP" oorsprong="parlement">Gerkens</vrager>
+         <vraagt-aan>de minister van Economische Zaken en de staatssecretaris van Financiën</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2006-05-17">
+         <antwoorder functie="minister" ministerie="Bestuurlijke Vernieuwing en Koninkrijksrelaties">Pechtold</antwoorder>
+         <mede-antwoorder>de minister van Economische Zaken en de staatssecretaris van Financiën</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1" voetnoot="1">Wat is uw mening over het bericht dat de beveiliging van DigiD niet voldoende is? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Deelt u de mening van het Genootschap van Informatiebeveiligers dat hiermee eventuele problemen op de burger worden afgewenteld? Zo neen, waarom niet? </vraag>
+      <vraag nummer="3">Waarom heeft u gekozen voor een methode met alleen een wachtwoord? Heeft u de toename van keylogging meegewogen in uw besluit om alleen met een wachtwoord te werken? Zo ja, waarom trekt u de conclusie dat de methode dan toch veilig is voor alle overheidsdiensten? Zo neen, waarom niet? </vraag>
+      <vraag nummer="4">Is het waar dat er geen gevallen van fraude bekend zijn bij de Belastingdienst? Zo neen, hoeveel gevallen zijn er wel bekend? Zijn er gevallen van fraude bekend bij andere diensten waarbij gebruik wordt gemaakt van DigiD? Zo ja, hoeveel? </vraag>
+      <vraag nummer="5">Deelt u de conclusie dat werken met DigiD verantwoord is? Zo ja, waarom? Zo neen, waarom niet? </vraag>
+      <vraag nummer="6">Verwacht u fraudegevallen in de toekomst? Zo neen, waarom experimenteert DigiD dan nu met aanvullende beveiliging via SMS? Zo ja, wat gaat u doen om de beveiliging te verbeteren? </vraag>
+      <vraag nummer="7">Wat gaat u doen om overheidsdiensten beter te beveiligen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" weblink="http://www.nu.nl/news/713339/50/%27Beveiliging_DigiD_te_zwak_voor_belastingaangifte%27.html">http://www.nu.nl/news/713339/50/%27Beveiliging_DigiD_te_zwak_voor_belastingaangifte%27.html</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="7">
+      <antwoord nummer="1">DigiD werkt met verschillende authenticatiemiddelen voor een drietal betrouwbaarheidsniveaus: basis, midden, hoog. Op elk niveau worden beveiligingsmaatregelen genomen die daarvoor nodig zijn, zowel in technische zin als via instructies naar de gebruiker. Sinds 2005 is het basisniveau – gebruikersnaam met wachtwoord – operationeel. Voor het middenniveau loopt een pilot met sms-authenticatie. Het hoogste niveau zal ingevuld worden na de invoering van de elektronische handtekening op de elektronische Nationale Identiteitskaart (eNIK). Een overheidsorganisatie bepaalt zelf welk betrouwbaarheidsniveau van DigiD passend is bij de dienst die zij elektronisch aanbiedt. Hoe hoger de betrouwbaarheidseisen die worden gesteld aan een elektronische transactie, hoe hoger het gewenste beveiligingsniveau. Voor de meeste contacten met de overheid kan worden volstaan met de betrouwbaarheidseisen basis en midden. Op termijn zal DigiD alle drie de betrouwbaarheidsniveaus bieden. </antwoord>
+      <antwoord nummer="2">Neen. Het gewenste betrouwbaarheidsniveau hangt van het type dienstverlening af. Hierbij wordt rekening gehouden met zowel het risicoprofiel van de desbetreffende overheidsdienst als met wat gebruikelijk is in het maatschappelijk verkeer. Zowel de aanbieder van de dienst als de gebruiker draagt daarbij een zekere verantwoordelijkheid net zoals dat het geval is met niet-elektronische transacties. Om mensen te informeren over de risico’s bij het gebruik van digitale middelen, heeft het ministerie van Economische Zaken samen met een aantal maatschappelijke organisaties en bedrijven het initiatief genomen voor een landelijke publiekscampagne «Digibewust». </antwoord>
+      <antwoord nummer="3">Zoals reeds in vraag 1 is aangegeven, kent DigiD meer betrouwbaarheidsniveaus dan alleen een methode met wachtwoord. Ook zijn maatregelen genomen om risico’s te voorkomen. Daarnaast besteedt GovCert aandacht aan de bestrijding van allerlei vormen van ICT gerelateerde veiligheidsincidenten, waaronder keylogging en phishing. </antwoord>
+      <antwoord nummer="4">Op dit moment zijn geen fraudegevallen bekend met DigiD bij de Belastingdienst. Ook voor overige diensten zijn geen fraudegevallen bekend. </antwoord>
+      <antwoord nummer="5">Ja, het werken met DigiD is verantwoord. Zie de beantwoording van vraag 1 t/m 4. </antwoord>
+      <antwoord nummer="6">Fraudegevallen vallen nooit volledig uit te sluiten, zowel bij elektronische als bij niet-elektronische dienstverlening. Authenticatie met SMS past binnen het voor DigiD voorziene groeimodel naar ondersteuning van diensten met een hoger risicoprofiel. De verschillende betrouwbaarheidsniveaus worden gefaseerd operationeel. Het nemen van maatregelen om misbruik te voorkomen wordt derhalve aangepakt als een continu proces. </antwoord>
+      <antwoord nummer="7">Zie voorgaande beantwoording. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

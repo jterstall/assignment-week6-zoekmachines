@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="van de Tweede Kamer te voldoen?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Van Dam (PvdA), Aptroot (VVD) en Vendrik (GroenLinks) aan de minister van Economische Zaken over de distributie van televisie door KPN via Digitenne en haar vaste netwerk. (Ingezonden 6 april 2005)</item>
+         <item attribuut="Bestand">14Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V040512080
+</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van bericht (Trouw 31 maart 2005) over aankodiging KPN dat zij een groot deel van haar netwerk van ADSL2+ gaat voorzien, waarmee dit bedrijf ook televisie kan gaan distribueren. Eerder heeft minister Brinkhorst (EZ) gemeld (tevens wens van de Kamer, zie Kamerstuk 24095, nr. 170), dat een belangrijke reden om in te stemmen met een vergroting van het belang van KPN in Digitenne, dat KPN geen TV-programm's via haar andere infrastructuur distribueert.</item>
+         <item attribuut="Rubriek">Communicatie, media en informatievoorziening (Radio en televisie) Handel en economie (Mededinging)</item>
+         <item attribuut="Trefwoorden">Informatietechnologie Kabelnetten Mededinging Netwerken Telecommunicatie Televisie</item>
+         <item attribuut="Vindplaats">Kamervragen 2004-2005, vraagnr. 2040512080, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2040512080</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Van Dam</persoon>
+            <persoon partij="VVD">Aptroot</persoon>
+            <persoon partij="GroenLinks">Vendrik</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2005-04-06</item>
+         <item attribuut="Document-id">V040512080</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2004–2005" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0405tkkvl2040512080" lopendefooter="Tweede Kamer, vergaderjaar 2004–2005, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2005"/>
+      <vraagdata vraagnummer="2040512080" onderwerp="" indiendatum="2005-04-6">
+         <vrager partij="PvdA" oorsprong="parlement">Van Dam</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Aptroot</vrager>
+         <vrager partij="GroenLinks" oorsprong="parlement">Vendrik</vrager>
+         <vraagt-aan>de minister van Economische Zaken</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Bent u er van op de hoogte dat KPN heeft aangekondigd dat zij vanaf eind 2005 een groot deel van haar vaste netwerk van adsl2+ zal voorzien, waarmee dit bedrijf ook televisie kan gaan distribueren? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Herinnert u zich dat u onder andere in het algemeen overleg van 2 juni </vraag>
+      <vraag nummer="2004" voetnoot="2">
+         <voetnoot nummer="2"/>hebt gemeld dat een belangrijke overweging was om in te stemmen met een vergroting van het belang van KPN in Digitenne, dat KPN geen televisieprogramma’s via haar andere infrastructuur distribueert? </vraag>
+      <vraag nummer="3" voetnoot="3">Herinnert u zich dat voor de Tweede Kamer <voetnoot nummer="3"/>een belangrijke voorwaarde was om in te stemmen met een vergroting van het belang van KPN in Digitenne, dat KPN geen televisieprogramma’s via haar andere infrastructuur distribueert? </vraag>
+      <vraag nummer="4">Worden er voorbereidingen getroffen om het belang van KPN in Digitenne te verminderen indien KPN inderdaad televisie gaat distribueren via adsl2+, om zodoende aan de voorwaarden </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" datum="2005-03-31" bron="Trouw">Trouw, 31 maart 2005</noot>
+         <noot nummer="2" documenttype="Kamerstuk" kamerstuk-id="24 095" documentnummer="170">Kamerstuk 24 095, nr. 170</noot>
+         <noot nummer="3">zie noot 2</noot>
+      </noten>
+   </antwoorden>
+</kvr>

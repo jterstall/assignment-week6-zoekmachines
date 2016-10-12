@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="initiatief op te zetten. " aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19841985:0002247</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19841985:0002247&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19841985:0002247</item>
+         <item attribuut="Document-id">0000124219</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1984-1985 nummer 1124</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Van Erp en Blauw (beiden V.V.D.) over het voornemen voor het opzetten van een tuinbouwbedrijf door de gemeente Eindhoven.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1984-1985 nummer 1124</item>
+         <item attribuut="Jaargang">1984_1985</item>
+         <item attribuut="Vraagnummer">1124</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Van Erp</persoon>
+            <persoon partij="VVD">Blauw</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1985-05-15</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Braks</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1985-08-12</item>
+         <item attribuut="Beginpagina">2225</item>
+         <item attribuut="Eindpagina">2226</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1984-1985 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="" filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="1124" onderwerp="het voornemen voor het opzetten van een tuinbouwbedrijf door de gemeente Eindhoven." indiendatum="15 mei 1985)">
+         <vrager partij="VVD" oorsprong="parlement">Van Erp</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Blauw</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 ">Hebben de bewindslieden kennis  genomen van het besluit van de  gemeente Eindhoven, een tuinbouw- onderneming te beginnen'?  </vraag>
+      <vraag nummer="2 " voetnoot="1">Delen de bewindslieden de mening,  dat genoemde gemeente zich daarmee  zou begeven op een terrein dat in  ieder geval niet door een overheids!i- chaam dient te worden betreden?  Zijn de bewindslieden bereid, vermeld  besluit ter vernietiging voor te dragen  aan de Kroon?  <voetnoot nummer="1"/> Zie het Eindhovens Dagblad van 14 mei  1985.  In het algemeen dient de overheid  zich op dit terrein terughoudend op te  stellen. In het kader van gemeentelijke  werkgelegenheidsbeleid kan het  evenwel mogelijk zijn door oprichting  van een bedrijf bepaalde scholingspro- gramma's te ondersteunen, mits  hierdoor geen concurrentievervalsing  ontstaat. In dit geval voert de gemeente  Eindhoven overleg met het betrokken  bedrijfsleven, de Noordbrabantse  Christelijke Boerenbond en het  Rijkslandbouwcentrum om te komen  tot een voor alle partijen aanvaardbare  formule. De gemeente Eindhoven  verwacht dat dit niet voor eind  augustus 1985 tot uitsluitsel zal  leiden. Na de besluitvorming zal  worden nagegaan hoe deze zich  verhoudt tot het beleid van de  rijksoverheid.  </vraag>
+      <vraag nummer="3 ">Gelet op het bovenstaande, neen.  Antwoord  Antwoord van Minister Braks (Land- bouw en Visserij) mede namens de  staatssecretaris van Economische  Zaken, de heer Van Zeil. (Ontvangen  12 augustus 1985)  </vraag>
+      <vraag nummer="1 ">Ja, het genoemde besluit betreft  vooralsnog het pachtvrij maken van  een perceel met de bedoeling het  mogelijk te maken een dergelijk  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

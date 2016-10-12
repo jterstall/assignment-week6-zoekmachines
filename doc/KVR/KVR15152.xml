@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid De Wit (SP) aan de staatssecretaris van Sociale Zaken en Werkgelegenheid, dhr. Hoogervorst, over het SER-plan WAO. (Ingezonden 19 februari 2002); Antwoord</item>
+         <item attribuut="Bestand">12Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR15152
+</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van een bericht op Teletekst dat staatssecretaris Hoogervorst (SZW) niet langer wil wachten op het SER-advies en het op voorhand verwerpt vanwege kritiek van het CPB.</item>
+         <item attribuut="Rubriek">Sociale zekerheid (Arbeidsongeschiktheidsvoorzieningen (Ziektewet, WAO, AAW, IOAW, IOAZ))</item>
+         <item attribuut="Trefwoorden">WAO</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2001-2002, nr. 700, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2010206230</item>
+         <item attribuut="Afkomstig_van">Sociale Zaken en Werkgelegenheid (SZW)</item>
+         <item attribuut="Indiener">
+            <persoon partij="SP">De Wit</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2002-02-27</item>
+         <item attribuut="Datum_indiening">2002-02-19</item>
+         <item attribuut="Document-id">KVR15152</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2001–2002" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1471" allpagenumbers="1471" vetnummer="2010206230" code="" lopendefooter="Tweede Kamer, vergaderjaar 2001–2002, Aanhangsel" filenaam="KVR15152" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2002"/>
+      <vraagdata vraagnummer="700" onderwerp="" indiendatum="2002-02-19">
+         <vrager partij="SP" oorsprong="parlement">De Wit</vrager>
+         <vraagt-aan>de staatssecretaris van Sociale Zaken en Werkgelegenheid, dhr. Hoogervorst,</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2002-02-27">
+         <antwoorder functie="staatssecretaris" ministerie="Sociale Zaken en Werkgelegenheid">Hoogervorst</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Kent u het bericht «Hoogervorst verwerpt SER-plan WAO»? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Kunt u bevestigen dat u niet langer wilt wachten op het SER-advies? </vraag>
+      <vraag nummer="3">Klopt het dat u het SER-advies op voorhand verwerpt nu het CPB kritisch is? </vraag>
+      <vraag nummer="4">Vertolkt u in dezen het kabinetsstandpunt? </vraag>
+      <vraag nummer="5">Wat gaat er gebeuren? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="2002-02-14" bron="Teletekst p. 110">Teletekst p. 110, 14 februari 2002</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2 t/m 5">Het kabinet zal, met verwijzing naar mijn brief van 27 februari over dit onderwerp, na ommekomst van het definitieve SER-advies zijn standpunt bepalen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0001571</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001571&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001571</item>
+         <item attribuut="Document-id">0000004082</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 357</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Melkert en Van Gijzel (beiden PvdA) over de carpoolwisselstrook op de A-1.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 357</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">357</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Melkert</persoon>
+            <persoon partij="PvdA">Van Gijzel</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-02-18</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Maij-Weggen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-03-09</item>
+         <item attribuut="Beginpagina">725</item>
+         <item attribuut="Eindpagina">726</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="725" allpagenumbers="725" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 -7398" uitgever="Sdu Uitgeverij Plantijnstraat 's-Gravenhage 1994"/>
+      <vraagdata vraagnummer="357" onderwerp="de carpoolwisselstrook op de A-1." indiendatum="ISfebruari 1994">
+         <vrager partij="PvdA" oorsprong="parlement">Melkert</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Van Gijzel</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-03-9">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">Maij-Weggen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Wanneer kan de Kamer de tussentijdse evaluatie van het gebruik van de carpoolwisselstrook op de A-1 tegemoet zien? </vraag>
+      <vraag nummer="2">Is onze indruk juist, dat tot op heden van een aanzienlijk onderbenutte capaciteit van de wisselstrook en bijgevolg voortdurende (spits)filevorming op de A-1 sprake is? </vraag>
+      <vraag nummer="3">Acht u het mogelijk ter stimulering van de carpoolmentaliteit voorlopig de wisselstrook open te stellen voor personenauto's met minimaal twee inzittenden? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">De tussentijdse evaluatie zal naar verwachting in de loop van maart beschikbaar zijn voor de Tweede Kamer. In de eerste weken na openstelling van de carpoolwisselstrook A1/A6 lag de gemiddelde intensiteit in de drukke spitsuren tussen de 220 a 300 motorvoertuigen per uur. Inmiddels heeft zich een toename voorgedaan tot 250 a 360 motorvoertuigen per uur: een groei van +15% a +20%. Deze groei zet geleidelijk door. De duur van de ochtendfiles op de A1, 't Gooi richting Amsterdam, is licht verminderd ten opzichte van dezelfde periode 1992. De files op de A6, Almere richting Amsterdam, zijn behoudens specifieke situaties (verkeersongevallen) zowel wat betreft de duur als de lengte verminderd. De files in de avondspits op de A1 en A9 zijn na de openstelling van de strook nagenoeg verdwenen. Dit komt mede omdat de spreiding van het verkeer over de avonduren gelijkmatiger is. </antwoord>
+      <antwoord nummer="3">Thans geldt dat indien de carpoolstrook ook voor personenauto's met minimaal twee inzittenden wordt opengesteld, de capaciteit van de strook meteen voor het overgrote deel is benut. Het gaat dan om de carpoolers die nu op de gewone A1 rijden. Bij een kleine groei van het aantal carpoolers is de kans op file op de strook dan al heel groot. Daardoor zou het belangrijkste pluspunt van de strook, te weten een betrouwbare reistijd en reistijdwinst voor carpoolers verloren gaan, terwijl het profijt op de A1 niet erg groot is. Dit zou de bereidheid om te gaan carpoolen niet meer ten goede komen. We wachten de evaluatie af om te zien of deze conclusie nog steeds moet worden getrokken. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

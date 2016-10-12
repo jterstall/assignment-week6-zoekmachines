@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19871988:0001610</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001610&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001610</item>
+         <item attribuut="Document-id">0000099324</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1987-1988 nummer 667</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van Es (P.S.P.) over uitspraken van de Surinaamse premier inzake de opvang van vluchtelingen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1987-1988 nummer 667</item>
+         <item attribuut="Jaargang">1987_1988</item>
+         <item attribuut="Vraagnummer">667</item>
+         <item attribuut="Indiener">
+            <persoon partij="PSP">Van Es</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1988-05-17</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Korte-van Hemel</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1988-06-22</item>
+         <item attribuut="Beginpagina">1341</item>
+         <item attribuut="Eindpagina">1342</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 7 - 1 9 8 8 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="" filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="667" onderwerp="uitspraken van de Surinaamse premier'inzake de opvang van vluchtelingen." indiendatum="17 mei 1988)">
+         <vrager partij="PSP" oorsprong="parlement">Van Es</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="22 juni 1988) 1 en 2 Naar het voorkomt heeft de Surinaam- se Vice-President vooral uitdrukking willen geven aan gevoelens van onbehagen over het naar het oordeel van de regering te Paramaribo onbevredigende resultaat van het met Nederland gevoerde overleg. W i j zijn dan ook niet geneigd, hieraan gevolgen te verbinden voor w a t betreft een geleidelijke uitzetting van in Nederland verblijvende Surinamers aan wie geen verblijf hier te lande is toegestaan. Een verband, als in de onderhavige vragen verondersteld, tussen het Nederlandse vreemdelingenbeleid enerzijds en het overleg met de Surinaamse regering inzake de hulprelatie anderzijds ontbreekt naar ons oordeel. 3 Overleg over een geschikte datum is nog niet afgerond. 4 De in de vorige vraag bedoelde overeenkomst heeft geen betrekking op de verwijdering uit Nederland van hier te lande niet rechtmatig verblij- vende Surinamers.">
+         <antwoorder functie="" ministerie="Justitie"/>
+         <mede-antwoorder>de minister van Buitenlandse Zaken</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1 ">Welke gevolgen verbindt u aan de  uitspraken van de Surinaamse  premier Arron, dat de Surinaamse  regering geen kans ziet vluchtelingen  uit Nederland en Frans-Guyana op te  vangen, zolang de Nederlandse  regering het economisch herstelplan  voor Suriname afwijst? </vraag>
+      <vraag nummer="1 "/>
+      <vraag nummer="2 ">Deelt u de mening, dat de ongeveer  5 0 0 0 Surinamers, die tot op heden in  Nederland werden gedoogd niet het  slachtoffer mogen worden van de  jongste controverse tussen de  Nederlandse en de Surinaamse  regering met betrekking tot het  herstel van de ontwikkelingshulprela- tie tussen beide landen?  </vraag>
+      <vraag nummer="3 ">Wanneer zal de eerste bespreking  plaatsvinden in het kader van de  Overeenkomst inzake de binnenkomst  en het verblijf van wederzijdse  onderdanen tussen Nederland en  Suriuname? </vraag>
+      <vraag nummer="2 "/>
+      <vraag nummer="4 ">Bent u bereid uitzetting van Surina- mers achterwege te laten totdat de in  vraag 3 bedoelde bespreking heeft  plaatsgevonden?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="3 ">Overleg over een geschikte datum is  nog niet afgerond.  </antwoord>
+      <antwoord nummer="4 ">De in de vorige vraag bedoelde  overeenkomst heeft geen betrekking  op de verwijdering uit Nederland van  hier te lande niet rechtmatig verblij- vende Surinamers.  </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Zie de Volkskrant van 16 mei 1988 </noot>
+         <noot nummer="2"> Zie uw brief van 28 april jl kamerstuk  20 361 nr. 6. </noot>
+      </noten>
+   </antwoorden>
+</kvr>

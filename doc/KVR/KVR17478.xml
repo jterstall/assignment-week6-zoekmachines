@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Wilders en Rijpstra (beiden VVD) aan de minister van Volksgezondheid, Welzijn en Sport over de mysterieuze longziekte «Severe Acute Respiratory Syndrome» (SARS). (Ingezonden 18 maart 2003); Antwoord</item>
+         <item attribuut="Bestand">13Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR17478
+</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van het bericht 'Negen doden door longontsteking' in de Volkskrant van 17 maart 2003.</item>
+         <item attribuut="Rubriek">Gezondheidszorg (Ziekten en ziektepreventie)</item>
+         <item attribuut="Trefwoorden">Infectieziekten</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2002-2003, nr. 1020, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2020308910</item>
+         <item attribuut="Afkomstig_van">Volksgezondheid, Welzijn en Sport (VWS)</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Wilders</persoon>
+            <persoon partij="VVD">Rijpstra</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2003-03-28</item>
+         <item attribuut="Datum_indiening">2003-03-18</item>
+         <item attribuut="Document-id">KVR17478</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2002–2003" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="2131" allpagenumbers="2131" vetnummer="2020308910" code="" lopendefooter="Tweede Kamer, vergaderjaar 2002–2003, Aanhangsel" filenaam="KVR17478" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2003"/>
+      <vraagdata vraagnummer="1020" onderwerp="" indiendatum="2003-03-18">
+         <vrager partij="VVD" oorsprong="parlement">Wilders</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Rijpstra</vrager>
+         <vraagt-aan>de minister van Volksgezondheid, Welzijn en Sport</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="28 maart 2003) Hierbij deel ik u mee dat ik de vragen van de Kamerleden Wilders en Rijpstra (beiden VVD) over de mysterieuze longziekte «Severe Acute Respiratory Syndrome» (SARS) heb beantwoord in mijn brief van 17 maart 2003">
+         <antwoorder functie="staatssecretaris" ministerie="Volksgezondheid, Welzijn en Sport">Ross-van Dorp</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Bent u bekend met het bericht «Negen doden door longontsteking»? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Is het waar dat wereldwijd negen mensen aan SARS zijn overleden? Hoeveel mensen worden wereldwijd verdacht van het hebben van de aandoening en hoeveel daarvan in Europa? Welke landen betreft het? </vraag>
+      <vraag nummer="3" voetnoot="2">Zijn in Nederland verdachte gevallen gesignaleerd? Is het waar dat de GG&amp;GD op Schiphol heeft opgeroepen voor extra waakzaamheid nu er ook mensen met ziekteverschijnselen in Duitsland, Zwitserland en Slovenië zijn gesignaleerd? <voetnoot nummer="2"/>Welke symptomen kenmerken de ziekte? Is het waar dat de ziekte zich wereldwijd via de lucht verspreidt? </vraag>
+      <vraag nummer="4">Is het waar dat vooralsnog geen enkel medicijn de ziekte kan stoppen? Deelt u de mening dat de ziekte daarmee een wereldwijde bedreiging voor de gezondheid vormt? Hoe groot is de bedreiging voor de volksgezondheid in Nederland? </vraag>
+      <vraag nummer="5">Welke maatregelen onderneemt de overheid op dit moment om te voorkomen dat de ziekte zich ook in Nederland verspreidt? Bent u bereid deze vragen binnen één dag te beantwoorden? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="2003-03-17" bron="Volkskrant">Volkskrant, 17 maart 2003</noot>
+         <noot nummer="2" datum="2003-03-17" bron="NOS Teletekst pagina 103">NOS Teletekst pagina 103, 17 maart 2003</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" documenttype="Kamerstuk" kamerstuk-id="28 827" documentnummer="1">Kamerstuk 28 827, nr. 1</noot>
+      </noten>
+   </antwoorden>
+</kvr>

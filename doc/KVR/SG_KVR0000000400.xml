@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19941995:0000400</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000400&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000400</item>
+         <item attribuut="Document-id">0000000400</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1994-1995 nummer 66</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Aanvullende vragen van het lid Huys (PvdA) over Gene Pharming.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1994-1995 nummer 66</item>
+         <item attribuut="Jaargang">1994_1995</item>
+         <item attribuut="Vraagnummer">66</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Huys</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-09-20</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van Aartsen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-10-12</item>
+         <item attribuut="Beginpagina">131</item>
+         <item attribuut="Eindpagina">132</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1994-1995" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="131" allpagenumbers="131" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1994-1995, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 • 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's-Gravenhage 1994"/>
+      <vraagdata vraagnummer="" onderwerp="" indiendatum="">
+         <vrager partij="PvdA" oorsprong="parlement">Huys</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="66">Aanvullende vragen van het lid Huys (PvdA) over Gene Pharming. (Ingezonden 20 september 1994) </vraag>
+      <vraag nummer="1">Is Gene Pharming voor haar project «Weefselspecifieke expressie van genen in de melkklier van genetisch gemodificeerde runderen» alleen maar vergunningplichtig vanwege de betrokkenheid van ID-DLO? Zou het verbreken van het contract tussen Gene Pharming Europe en ID-DLO eerstgenoemde bedrijf verder ontslaan van vergunningplicht in het vervolgtraject van het onderzoeksproject? </vraag>
+      <vraag nummer="3">Acht u dit een gewenste ontwikkeling? </vraag>
+      <vraag nummer="4">Wanneer kan de Kamer de Algemene Maatregel van Bestuur in het kader van de Gezondheids– en Welzijnswet tegemoet zien waarin de algemene vergunningplicht voor dit type onderzoek wordt geregeld? Toelichting Deze vragen dienen ter aanvulling op de eerdere vragen terzake van het lid Poppe, ingezonden 15 september jl. en van het lid M. B. Vos, ingezonden 19 september jl. </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="3">Neen. </antwoord>
+      <antwoord nummer="4">Een ontwerp van de Algemene Maatregel van Bestuur is op 30 september in de Ministerraad behandeld met het oog op het vragen van advies aan de Raad van State. De Ministerraad heeft ingestemd met het vragen van een spoedadvies aan de Raad van State. Het tijdstip waarop de Algemene Maatregel van Bestuur aan het parlement kan worden voorgelegd is mede afhankelijk van de adviestermijn van de Raad van State. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

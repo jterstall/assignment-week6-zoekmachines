@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001346</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001346&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001346</item>
+         <item attribuut="Document-id">0000019732</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 332</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Willems (Groen Links) over subsidie-aanvragen voor woningisolatie.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 332</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">332</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Willems</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-12-20</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Andriessen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-01-28</item>
+         <item attribuut="Beginpagina">707</item>
+         <item attribuut="Eindpagina">708</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="707" allpagenumbers="707 708" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="332" onderwerp="subsidie-aanvragen voor woningiso/atie." indiendatum="1991-12-20">
+         <vrager partij="Groen Links" oorsprong="parlement">Willems</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-01-28">
+         <antwoorder functie="minister" ministerie="Economische Zaken">Andriessen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1">Zullen veel in 1991 in het kader van de Subsidieregeling energiebesparing en stromingsenergie gedane subsidie-aanvragen voor woningisolatie worden doorgeschoven naar 1992?' Om hoeveel aanvragen gaat het? Hoeveel geld is hiermee gemoeid? Op welk moment in het najaar van 1991 was het budget voor dat jaar uitgeput? </vraag>
+      <vraag nummer="2">Is op grond van de ervaring, die in 1991 met deze regeling is opgedaan en die met het voorgaande Nationaal Isolatieprogramma, bestaande uit een snelle groei na het aanvangsjaar, een voorspelling te geven over (de toename van) het beroep op de regeling voor woningisolatie in 1992? </vraag>
+      <vraag nummer="3">Verwacht u, dat door het schrappen van het subsidiebudget voor naoorlogse huurwoningen uit de VROM-begroting voor 1992 het beroep op de EZ-subsidieregeling zal toenemen? </vraag>
+      <vraag nummer="4" voetnoot="2 2">Op welk moment zal naar verwachting het budget voor woningisolatie in 1992 zijn uitgeput? Wordt op uw ministerie gewerkt aan noodmaatregelen, bestaande uit het verlagen van een vast subsidiepercentage naar een vast bedrag per m <voetnoot nummer="2"/> per maatregel, teneinde het moment waarop volgend jaar het subsidiebudget voor woningisolatie zal zijn uitgeput, nog enigszins uit te stellen? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="6" voetnoot="2">Deelt u de mening, dat een subsidieregeling, die werkt met een vast bedrag per m <voetnoot nummer="2"/> per maatregel in de praktijk eerder tot stimulering van de toepassing van een lage dan van een hoge isolatiewaarde zal leiden, en daarmee afbreuk doet aan de intentie van de subsidieregeling, bestaande uit het bereiken van een zo hoog mogelijke isolatiegraad? </vraag>
+      <vraag nummer="7" voetnoot="3">Hebt u kennis genomen van de voorspelling van het Centraal Bureau voor de Statistiek, dat de uitstoot van kooldioxide door de verbranding van fossiele brandstoffen in 1991 fors zal toenemen? <voetnoot nummer="3"/>
+      </vraag>
+      <vraag nummer="8">Geven deze CBS-cijfers en de te verwachten snelle uitputting van het subsidiebudget 1992 u aanleiding tot aanvullende maatregelen om te verzekeren dat de beleidsdoelstellingen op het gebied van energiebesparing en CO^-emissie worden gehaald? Deelt u de mening, dat verslechtering van de subsidie-voorwaarden voor woningisolatie het halen van die doelstellingen (nog) moeilijker maakt? Bent u bereid te overwegen (een deel van) de voorziene verlaging van het gastarief voor kleinverbruikers per 1 januari 1992, of in ieder geval per 1 juli 1992, niet door te laten gaan en de opbrengst daarvan te gebruiken voor verhoging van het budget voor woningisolatie? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1991-12-14" bron=" De Telegraaf"> De Telegraaf, 14 december 1991</noot>
+         <noot nummer="2"> Dienst Investeringsrekening, Infobulletin 4 (1991), pag. 9</noot>
+         <noot nummer="3" titel="Het jaar 1991 in cijfers"> CBS, «Het jaar 1991 in cijfers»</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="6">
+      <antwoord nummer="1">Het gaat om naar verwachting ± 2500 aanvragen en een subsidiebedrag van ± f 6 a 10 mln. (50%  EZ en  50% energiedistributiebedrijven); nog niet alle opgaven van de energiedistributiebedrijven zijn thans ontvangen. Het budget was op 27 november 1991 uitgeput. </antwoord>
+      <antwoord nummer="2">De isolatieregeling is in de loop van 1990 van start gegaan. Op aanvragen gedaan in 1990 is voor circa f 72 mln. aan toezeggingen gedaan (exclusief HR-ketels). Geëxtrapoleerd naar een heel jaar zouden de toezeggingen voor isolatie </antwoord>
+      <antwoord nummer="4">Het is op dit moment niet mogelijk het moment van uitputting van het budget voor woningisolatie in 1992 te voorspellen. Het voor 1992 beschikbare budget bedraagt f 130 mln. (f 65 mln. EZ en f 65  mln. energiedistributiebedrijven). Daarnaast is in 1991 een verplichtingenruimte van circa f 16 mln. onbesteed gebleven. Overeenkomstig de procedure die in 1991 is gevolgd kan deze ruimte worden toegevoegd aan het budget van het lopende jaar. Het voorstel daartoe zal verwerkt worden in de suppletore begroting van EZ naar aanleiding van de Voorjaarsnota 1992. </antwoord>
+      <antwoord nummer="5">Met ingang van 1 januari jl. is de isolatieregeling gewijzigd. Voor de categorieën muur–, dak–, en vloerisolatie en dubbelglas (samen goed voor ± 90% van het budget) wordt voortaan een vast subsidiebedrag per vierkante meter van de voorziening gegeven in plaats van een percentage van de investering. De subsidiebedragen zijn vastgesteld op basis van gemiddelde investeringskosten en besparingen per voorziening. Het gemiddelde subsidiepercentage zal iets lager zijn dan voorheen. Daardoor wordt de verhouding tussen de subsidie en de daarmee te bereiken energiebesparing verbeterd en kan tevens een groter aantal projecten worden gesubsidieerd. Het betreft overigens geen noodmaatregel; de voorbereiding is </antwoord>
+      <antwoord nummer="8">De CBS-cijfers op zich geven geen aanleiding om nu aanvullende maatregelen te nemen. Immers in de jaren 1989 en 1990 is het in termen van aantal graaddagen ten opzichte van de normale temperatuur uitzonderlijk warm geweest. In 1991 is de temperatuur daarentegen weer vrijwel normaal geweest. Het energlegebruik ten behoeve van verwarming is daardoor in 1991 ten opzichte van 1989en 1990weer gestegen naar zijn structurele niveau. Deze stijging komt vrijwel overeen met de stijging die de CBS-cijfers laten zien van CCh-emissies uit hoofde van verbranding. Als gevolg van verschillende berekeningsmethodieken voor de emissie van CCh (zie bijvoorbeeld Nota Klimaatverandering, Kamerstuk 22 232, nrs. 1-2) is er een verschil in niveaus tussen de CBS-cijfers en het niveau van de CCh-doelstellingen. Het referentieniveau van de C02-doelstellingen is het gemiddelde zal iets lager zijn dan voorheen. Daardoor kan een groter aantal pro– jecten worden gesubsidieerd en dus meer energiebesparing worden ge– realiseerd. </antwoord>
+      <antwoord nummer="9">De gaspnjs voor kleinverbruikers wordt tweemaal per jaar vastgesteld op basis van het door mij goedge– keurde contract tussen Gasunie en Vegin, overeenkomstig de prijsont– wikkeling van huisbrandolie. Dit contract weerspiegelt de uit– gangspunten van het gasprijsbeleid, waarbij het marktwaardebeginsel centraal staat. Het niet door laten gaan van uit dit contract voortvloei– ende gasprijsverhoging c.q. verla– ging, voor welk doel dan ook, staat haaks op deze uitgangspunten. Het niet door laten gaan van de in– middels doorgevoerde verlaging per 1 januari 1992 of de mogelijke verla– ging per 1 juli 1992 is dus niet in overeenstemming met het gevoerde beleid. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

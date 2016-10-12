@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001482</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001482&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001482</item>
+         <item attribuut="Document-id">0000011786</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 552</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Sipkes en Rosenmöller (beiden Groenlinks) over een mogelijke betrokkenheid van westerse landen bij de opbouw van de Iraakse Wapenindustrie'.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 552</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">552</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groenlinks">Sipkes</persoon>
+            <persoon partij="Groenlinks">Rosenmöller</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-04-22</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Kooijmans</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-05-12</item>
+         <item attribuut="Beginpagina">1131</item>
+         <item attribuut="Eindpagina">1132</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de lerien der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1131" allpagenumbers="1131" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="552" onderwerp="een mogelijke betrokkenheid van westerse landen bij de opbouw van de Iraakse Wapenindustrie'." indiendatum="1993-04-22">
+         <vrager partij="Groenlinks" oorsprong="parlement">Sipkes</vrager>
+         <vrager partij="Groenlinks" oorsprong="parlement">Rosenmöller</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-05-12">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">Kooijmans</antwoorder>
+         <mede-antwoorder>de staatssecretaris van Economische Zaken</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Kent u de berichten over betrokkenheid van westerse landen bij de opbouw van de Iraakse wapenindustrie, en met name van de produktiecapaciteit voor chemische wapens? </vraag>
+      <vraag nummer="2">Hebben de VN contact opgenomen met de Nederlandse overheid over de bevindingen van de inspectieteams in Irak? </vraag>
+      <vraag nummer="3">Wijzen de bevindingen op een eventuele betrokkenheid van het Nederlandse bedrijfsleven bij de opbouw van de Iraakse wapenindustrie? </vraag>
+      <vraag nummer="4">Is door de VN naar aanleiding van de bevindingen van de inspectieteams nadere informatie gevraagd aan de Nederlandse overheid? Bent u bereid alle hierover beschikbare informatie aan de Kamer te zenden? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> De Volkskrant van 21 april jl</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Berichten van deze strekking zijn ons bekend. 2 e n 4 De Speciale Commissie van de Verenigde Naties (UNSCOM), belast met de uitvoering van Veiligheidsraadsresoluties 687 (1991), 707 (1991) en 715 (1991), rapporteert regelmatig aan de Veiligheidsraad over haar bevindingen ten aanzien van de vermetiging van de Iraakse massavernietigingswapens en ballistische raketten. Ten behoeve van een zo volledig mogelijke inventarisatie van het Iraakse potentieel aan massavernietigingswapens, heeft UNSCOM een aantal VN-lidstaten gevraagd haar te assisteren bij het achterhalen en identificeren van leveranties aan Iraakse staatsorganisaties van in dit verband relevante componenten en stoffen. In het kader van deze samenwerking - die van de kant van de betrokken VN-lidstaten op vrijwillige basis plaatsvindt - hebben Nederland en UNSCOM enkele malen gegevens uitgewisseld over leveranties van Nederlandse bedrijven aan Iraakse afnemers. UNSCOM heeft Nederland weliswaar laten weten dat enkele goederen afkomstig van Nederlandse bedrijven zijn aangetroffen op de door haar geïnspecteerde locaties in Irak, doch het onderzoek in Nederland op basis van de verstrekte informatie heeft tot op heden uitgewezen dat het hierbij uitsluitend gaat om goederen die op het moment van levering niet waren onderworpen aan een vergunningplicht. </antwoord>
+      <antwoord nummer="5">Om redenen de Kamer bekend, pleegt de Regering geen informatie te verstrekken over transacties van bedrijven. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

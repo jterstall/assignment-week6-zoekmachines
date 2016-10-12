@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19871988:0001555</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001555&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001555</item>
+         <item attribuut="Document-id">0000099269</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1987-1988 nummer 612</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Wallage (P.v.d.A.) en Franssen (V.V.D) over WSW-ers werkzaam bij instellingen van wetenschappelijk en hoger onderwijs.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1987-1988 nummer 612</item>
+         <item attribuut="Jaargang">1987_1988</item>
+         <item attribuut="Vraagnummer">612</item>
+         <item attribuut="Indiener">
+            <persoon>Wallage</persoon>
+            <persoon>Franssen</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1988-01-22</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Deetman</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1988-06-09</item>
+         <item attribuut="Beginpagina">1229</item>
+         <item attribuut="Eindpagina">1230</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="" typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="" filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="612" onderwerp="" indiendatum="">
+         <vrager partij="" oorsprong="parlement">Wallage</vrager>
+         <vrager partij="" oorsprong="parlement">Franssen</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1 ">Bent u bereid de instellingen van  hoger onderwijs te verzoeken op te  geven, hoeveel personen door  werkverbanden hoofdarbeiders  (uitvoerende  W S W - o r g a n e n bij  gemeentelijke sociale diensten)  aangesteld zijn bij instellingen van  wetenschappelijk en hoger onderwijs?  </vraag>
+      <vraag nummer="2 ">Is hun aanstelling aan een termijn  gebonden of gaat het hier in beginsel  om aanstellingen tot de pensioenge- rechtigde leeftijd?  </vraag>
+      <vraag nummer="3 ">W o r d e n maatregelen overwogen om  instellingen aan te sporen deze  W S W - e r s na verloop van een  bepaalde tijd in vaste dienst te  nemen?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="3 ">Er is in algemene zin beleid in  voorbereiding bij het ministerie van  Sociale Zaken en Werkgelegenheid  om de doorstroming vanuit  W S W - dienstbetrekkingen naar dienstbetrek- kingen daarbuiten te bevorderen.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

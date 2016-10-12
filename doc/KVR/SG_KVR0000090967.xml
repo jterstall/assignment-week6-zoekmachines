@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19881989:0001368</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001368&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001368</item>
+         <item attribuut="Document-id">0000090967</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1988-1989 nummer 364</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Blaauw, van Heemskerck-Pillis Duvekot (beiden V.V.D.) en Eisma (D66) over de komende verkiezingen in Paraguay.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1988-1989 nummer 364</item>
+         <item attribuut="Jaargang">1988_1989</item>
+         <item attribuut="Vraagnummer">364</item>
+         <item attribuut="Indiener">
+            <persoon>Blaauw</persoon>
+            <persoon>van Heemskerck-Pillis Duvekot</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-02-15</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-03-10</item>
+         <item attribuut="Beginpagina">733</item>
+         <item attribuut="Eindpagina">734</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1988-1989 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 8 - 1 9 8 9 , Aanhangsel " filenaam="" issn-nummer="ISSN 0921 7398 " uitgever="SDU uitgeverij 's Gravenhage 1989 "/>
+      <vraagdata vraagnummer="364" onderwerp="de komende verkiezingen in Paraguay." indiendatum="15 februari 1989)">
+         <vrager partij="" oorsprong="parlement">Blaauw</vrager>
+         <vrager partij="" oorsprong="parlement">van Heemskerck-Pillis Duvekot</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="10 maart 1989)">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">V a n d e n Broek</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 ">Hebt u kennis genomen van het feit,  dat de fungerend president in  Paraguay verkiezingen heeft uitge- schreven voor het presidentschap op  1 mei a.s.?  </vraag>
+      <vraag nummer="2 ">Deelt u de mening, dat wel een erg  korte tijd rest om deze verkiezingen  voor te bereiden, in het bijzonder  gezien het feit dat er geen democra- tische traditie bestaat in Paraguay?  </vraag>
+      <vraag nummer="3 ">Bent u bekend met het feit, dat de  kieswet en de kiezersregistratie in  Paraguay op dit moment onvoldoende  zijn om open en democratische  verkiezingen te waarborgen?  </vraag>
+      <vraag nummer="4 ">Bent u bereid, zowel bilateraal met  Paraguay zelve, maar ook via het  EPS-verband, uw zorgen naar voren  te brengen en te verzoeken om de  verkiezingen later in het jaar te  houden, zodat de voorbereiding  voldoende kan zijn en de nodige  regels kunnen worden aangepast?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1 ">Ja  2 en 3  De onderhavige termijn is in overeen^  stemming met artikel 179 van de  Paraguese Grondwet. Volgens de mij  ter beschikking staande gegegens  zou de nieuwe Paraguese President  zich willen houden aan hetgeen in de  grondwet is bepaald en voorts bereid  zijn de bepalingen van de kieswet op  enige punten te wijzigen en soepel  toe te passen. Naar verluidt vindt  over de komende verkiezingen  contact plaats tussen de regering te  Asunción en de oppositiepartijen.  </antwoord>
+      <antwoord nummer="4 ">Op 9 februari  j l . hebben de Twaalf bij  monde van de Ambassadeur van het  Voorzitterschap tegenover de  Paraguese regering de wens uitge- sproken dat deze de nodige voorwaar- den zal scheppen om een werkelijk  democratisch proces tot stand te  brengen. Ik kan de verzekering geven  dat de verdere ontwikkelingen mijn  bijzondere aandacht zullen behouden.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

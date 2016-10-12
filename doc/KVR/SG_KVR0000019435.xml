@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001049</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001049&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001049</item>
+         <item attribuut="Document-id">0000019435</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 37</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van Erp (VVD) over het vermelden van prijzen inclusief BTW op folders, stellingen en facturen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 37</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">37</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Van Erp</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-08-22</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Andriessen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-09-30</item>
+         <item attribuut="Beginpagina">75</item>
+         <item attribuut="Eindpagina">76</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="75" allpagenumbers="75" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1991"/>
+      <vraagdata vraagnummer="" onderwerp="" indiendatum="">
+         <vrager partij="VVD" oorsprong="parlement">Van Erp</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1991-09-30">
+         <antwoorder functie="minister" ministerie="Economische Zaken">Andriessen</antwoorder>
+         <mede-antwoorder>de staatssecretaris van Financiën</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="37">Vragen van het lid Van Erp (WD) over het vermelden van prijzen inclusief BTW op folders, stellingen en facturen. (Ingezonden 22 augustus 1991) </vraag>
+      <vraag nummer="1">Herinnert u zich de resultaten van het overleg met SHV Holdmgs over de vermelding van prijzen inclusief BTW op folders, stellingen en facturen, zoals verwoord in kamerstuk 18 786 nr. 14? Is het u bekend, dat de Makro zich nimmer aan deze afspraak heeft gehouden? </vraag>
+      <vraag nummer="3">Wilt u bevorderen dat ook de Makro evenals alle andere detaillisten zich houdt aan artikel 38 van de Wet op de omzetbelasting? </vraag>
+      <vraag nummer="4">Deelt u de opvatting dat wetten er niet alleen zijn voor de kleintjes maar ook voor de groten? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja. In genoemd Kamerstuk heeft de staatssecretaris van Economische Zaken tevens aangegeven, dat nader overleg met Makro en SHV Holdmgs over de effectuering van de in het voorjaar van 1987 gemaakte afspraken niet de gewenste resul– taten heeft opgeleverd, onder meer niet inzake de prijsvermelding inclusief BTW. De staatssecretaris heeft daarbij het standpunt ingenomen dat hij verder overleg vruchteloos achtte. </antwoord>
+      <antwoord nummer="3">In het mondeling overleg met de Vaste Commissie voor het Midden– en Kleinbedrijf op 2 maart 1989 (Kamerstuk 18786, nr. 16) heeft de staatssecretaris van Financiën aangegeven dat het zeer twijfel– achtig is of gesteld kan worden dat Makro artikel 38 van de Wet op de omzetbelasting 1968 overtreedt. Hij was evenwel bereid om in overleg te treden met de Minister van Justitie over de vraag of er, gelet op de wetsgeschiedenis, mogelijkheden zijn om op dit punt toch tot strafver– volging tegen Makro over te gaan. Bij brief van 30 oktober 1990 (Kamerstuk 18 786, nr. 20) heeft de staatssecretaris van Financiën de Vaste Commissie voor het Midden– en Kleinbedrijf in kennis gesteld van de brief van de Minister van Justitie van 19 september 1990, waarin deze onder meer aangeeft het wenselijk te achten dat over de vraag of Makro artikel 38 van de Wet op de omzet– belasting 1968 al dan niet overtreedt duidelijkheid komt, zo mogelijk door een uitspraak van de strafrechter. De strafrechtelijke proefprocedure tegen Makro is thans in voorbe– reiding. Hiermee wordt tegemoetge– komen aan de in de vraag vervatte wens te bevorderen dat, zo artikel 38 van de Wet op de omzetbelasting 1968 hier van toepassing is, ook Makro Zelfbedieningsgroothandel CV zich aan dit artikel van de wet houdt </antwoord>
+      <antwoord nummer="4">Dit spreekt voor zich. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

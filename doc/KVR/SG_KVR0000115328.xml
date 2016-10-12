@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19851986:0001768</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001768&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001768</item>
+         <item attribuut="Document-id">0000115328</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1985-1986 nummer 847</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van Es over de gebeurtenissen te Kedichem.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1985-1986 nummer 847</item>
+         <item attribuut="Jaargang">1985_1986</item>
+         <item attribuut="Vraagnummer">847</item>
+         <item attribuut="Indiener">
+            <persoon>Van Es</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-04-14</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Korthals Altes</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-06-24</item>
+         <item attribuut="Beginpagina">1685</item>
+         <item attribuut="Eindpagina">1686</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1985-1986 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 5 - 1 9 8 6 , Aanhangsel 1685 " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="847" onderwerp="de gebeurtenissen te Kedichem." indiendatum="14 april 1986)">
+         <vrager partij="" oorsprong="parlement">Van Es</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie="Justitie"/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1 ">Wilt u in het gevraagde verslag over  het politie- en justitiebeleid inzake de  gebeurtenissen te Kedichem op 29  maart het optreden ten aanzien van  ieder van de 72 arrestanten door de  politie en het openbaar ministerie  toetsen aan de inhoud van de  artikelen 27 lid 1, 29, 57, 58 en 61 Sv?  </vraag>
+      <vraag nummer="2 ">Wat is uw oordeel over het weigeren  van de toegang aan advocaten tot  hun cliënten in het complex Nieuwer- sluis op zondag 30 maart?  Deze vragen worden gesteld ter  aanvulling op een eerdere vraag van  het lid Lankhorst.  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1 ">De procureur-generaal bij het  gerechtshof te 's-Gravenhage heeft  mij meegedeeld dat op zondag 30  maart 1986 de in het Militair Peniten- tiair Centrum te Nieuwersluis  ondergebrachte arrestanten inder- daad geen bezoek van een advocaat  hebben ontvangen. De arrestanten  waren ondergebracht in het R-pavil- joen van voornoemd Penitentiair  huishoudelijk reglement, waarin in  deel 3, art. 29 de vrije toegang van  advocaten en reclasseringsambtena- ren in principe is gewaarborgd.  Volgens lid 3 van art. 29 is de vrije  toegang evenwel uitgezonderd o.a.  op zon- en feestdagen. Op grond  hiervan zijn op zondag 30 maart  1986 geen advocaten toegelaten.  Daarnaast bestonden praktische  problemen, zoals de geringe perso- neelsbezetting en een gebrek aan  spreekkamers.  Op zondag 30 maart 1986 is noch  door advocaten, noch door personeel  of directie van Nieuwersluis contact  opgenomen met de bevoegde officier  van justitie.  Wel is op de avond van 30 maart  1986 aan de te Leerdam aanwezige  officieren van justitie door advocaten  medegedeeld dat zij, in het algemeen,  moeizaam toegang kregen tot  verdachten. Hierop heeft het openbaar  ministerie stappen ondernomen om  de toegang van advocaten tot  verdachten op verschillende politiebu- reaus in de omgeving van Leerdam  zoveel als mogelijk te waarborgen.  Genoemde procureur-generaal acht  het te billijken dat de bijzondere  omstandigheden in deze zaak tijdens  de inverzekeringstelling geen  uitzondering op het regime mogelijk  maakten, waardoor toelating van de  raadslieden tijdens de inverzekering- stelling in het Penitentiair Centrum te  Nieuwersluis in het desbetreffende  weekeinde niet kon worden verzekerd.  Ik acht dit oordeel verantwoord.  </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Zie Aanhangsel 766. </noot>
+      </noten>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001043</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001043&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001043</item>
+         <item attribuut="Document-id">0000027380</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 111</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Korthals-Altes en Weisglas (beiden V.V.D.) over het ontslaan van een aantal verdachten uit voorlopige hechtenis.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 111</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">111</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Korthals-Altes</persoon>
+            <persoon partij="VVD">Weisglas</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-10-25</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Hirsch Ballin</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-10-31</item>
+         <item attribuut="Beginpagina">225</item>
+         <item attribuut="Eindpagina">226</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="225" allpagenumbers="225" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgevenj 's-Gravenhage 1990"/>
+      <vraagdata vraagnummer="111" onderwerp="het ontslaan van een aantal verdachten uit voorlopige hechtenis." indiendatum="1990-10-25">
+         <vrager partij="VVD" oorsprong="parlement">Korthals-Altes</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Weisglas</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-10-31">
+         <antwoorder functie="minister" ministerie="Justitie">Hirsch Ballin</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1">Herinnert u zich, dat u in antwoord op de aan u op 16 oktober jl. gestelde mondelinge vragen heeft geantwoord: «... Die brief is niet binnengekomen bij de rechter– commissaris, ze is in ieder geval niet voor ontvangst afgestempeld door het commissariaat van de rechter– commissaris. De behandelend officier van justitie heeft mij gemeld dat toen hij aan de hand van het dossier de dagvaarding opstelde, hij daarin geen brief van de raadsman heeft aangetroffen...», (op een vraag van de eerste vragensteller), alsmede «... Die brief is nog niet boven water gekomen...», (op een vraag van de tweede vragensteller)? </vraag>
+      <vraag nummer="2">Hebt u inmiddels kennis genomen van kranteberichten volgens welke een vice-president van de arrondis– sementsrechtbank te Amsterdam zou hebben verklaard, dat de brief wel degelijk door de betrokken rechter– commissaris was ontvangen en door deze bij het voor de officier van justitie bestemde dossier was gevoegd? </vraag>
+      <vraag nummer="3">Wilt u, voor zover u na uw noodza– kerlijkerwijs vluchtig onderzoek direct voorafgaande aan de monde– linge beantwoording van de op 16 oktober jl. gestelde vragen nog geen nader onderzoek mocht hebben ingesteld, zulks alsnog doen en deze Kamer inlichten omtrent de bevin– dingen waartoe nader onderzoek u heeft geleid? </vraag>
+      <vraag nummer="4">Bent u niet van oordeel dat, indien de vice-president van de Amster– damse rechtbank correct is geciteerd het aanzien van de rechterlijke macht - zowel de zittende als de staande magistratuur - niet is gediend met dergelijke mededelingen? </vraag>
+      <vraag nummer="5">Wilt u in overleg treden met de vergadering van rechtbankpresi– denten en de vergadering van procu– reurs-generaal teneinde te bevor– deren, dat leden van de rechterlijke macht zich in de publiciteit onthouden van het geven van indivi– duele visies op de toedracht in geval van procedurefouten en volstaan met het op de hoogte stellen van de minister zelf opdat deze deze Kamer al dan niet desgevraagd kan inlichten? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Ja. Direct na de beantwoording van de vragen in uw Kamer op 16 oktober j.l. heb ik de procureur-generaal bij het gerechtshof te Amsterdam en de Directeur Gerechtelijke Onder– steuning aldaar om nadere inlich– tingen verzocht over de feitelijke toedracht in deze zaken. Zodra ik deze heb ontvangen, zal ik uw Kamer nader berichten. </antwoord>
+      <antwoord nummer="4 en 5">De door vragenstellers bedoelde vice-president van de rechtbank te Amsterdam heeft mijn departement meegedeeld dat hij in de onder vraag 2 genoemde kranteberichten niet correct is geciteerd. In het bijzonder betreft dit de kwalificatie van onjuiste informatieverstrekking aan uw Kamer mijnerzijds. Voor medede– lingen van de zijde van de zittende magistratuur draag ik overigens als minister van justitie geen verant– woordelijkheid; de rechterlijke macht is onafhankelijk. Voor het in overleg treden met de vergadering van rechtbankpresidenten zie ik dan ook geen grond. De informatieverstrekking door het openbaar ministerie vindt plaats binnen het kader van de Wet openbaarheid van bestuur en de op die wet gebaseerde circulaire van mijn ambtsvoorganger dd 26-5-1987, Stcrt. 1987, nr. 10. Bovendien hebben de procureurs– generaal bij de gerechtshoven zeer onlangs (16 augustus 1990) nadere richtlijnen inzake informatiever– strekking en voorlichting door politie en het openbaar ministerie aan de </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

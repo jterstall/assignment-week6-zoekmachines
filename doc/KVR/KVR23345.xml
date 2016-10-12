@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="5">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Gerkens (SP) aan de ministers van Justitie en van Economische Zaken over mogelijke aanval op het netwerk van het ministerie van Economische Zaken. (Ingezonden 1 juni 2005); Antwoord</item>
+         <item attribuut="Bestand">17Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR23345
+</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van bericht over aanvallen op het netwerk van het Ministerie van EZ, in aanvulling op antwoorden op eerdere vragen van zelfde Kamerlid over 'dDOS'-aanval op overheidswebsite (Aanhangsel van de Handelingen, 2004-2005, nr. 383).</item>
+         <item attribuut="Rubriek">Communicatie, media en informatievoorziening (Netwerken) Criminaliteit en openbare orde (Criminaliteitsbestrijding en -preventie) Staats- en bestuursrecht (Ministeries)</item>
+         <item attribuut="Trefwoorden">Computercriminaliteit Economische Zaken (ministerie) Gegevensbeveiliging Internet Netwerken</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2004-2005, nr. 1942, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2040515670</item>
+         <item attribuut="Afkomstig_van">Economische Zaken (EZ)</item>
+         <item attribuut="Indiener">
+            <persoon partij="SP">Gerkens</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2005-06-30</item>
+         <item attribuut="Datum_indiening">2005-06-01</item>
+         <item attribuut="Document-id">KVR23345</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2004–2005" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="4135" allpagenumbers="4135" vetnummer="2040515670" code="0405tkkvr1942" lopendefooter="Tweede Kamer, vergaderjaar 2004–2005, Aanhangsel" filenaam="KVR23345" issn-nummer="ISSN 0921- 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2005"/>
+      <vraagdata vraagnummer="1942" onderwerp="" indiendatum="1juni 2005">
+         <vrager partij="SP" oorsprong="parlement">Gerkens</vrager>
+         <vraagt-aan>de ministers van Justitie en van Economische Zaken</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2005-06-30">
+         <antwoorder functie="minister" ministerie="Economische Zaken">Brinkhorst</antwoorder>
+         <mede-antwoorder>de minister van Justitie</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Is het waar dat er op 26 en op 29 mei jl. twee grote aanvallen op het netwerk van het ministerie van Economische Zaken hebben plaatsgevonden? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2" voetnoot="2">Hoe beziet u, in dit licht, uw antwoord op eerdere Kamervragen <voetnoot nummer="2"/>waarin u aangeeft dat wat u betreft bij hacking het uitgangspunt geldt dat men zichzelf afdoende moet beschermen? Staat u nog steeds achter dit standpunt? </vraag>
+      <vraag nummer="3">Deelt u de mening dat deze aanval op het netwerk van het ministerie van Economische Zaken voorkomen, adequater aangepakt of voorzien had kunnen worden? Zo ja, waarom? Zo neen, waarom niet? </vraag>
+      <vraag nummer="4">Is de reden van de dDos-aanval u bekend? </vraag>
+      <vraag nummer="5">Kunt u aangeven op welke wijze de opsporing en de vervolging van de veroorzaker(s) van de dDos-aanval wordt aangepakt? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1">www.webwereld.nl</noot>
+         <noot nummer="2" documenttype="Kamervragen" documentnummer="383" documentjaargang="2004-2005">Aanhangsel Handelingen, nr. 383, vergaderjaar 2004–2005.</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1">Ja, tevens hebben aanvallen op 30 mei en 2 juni plaatsgevonden. </antwoord>
+      <antwoord nummer="2">Ja, waarbij ik aanteken dat dit niet volledig mijn standpunt weergeeft. In aanvulling hierop heb ik namelijk aangegeven dat hiermee bepaald niet is gezegd dat de overheid als strafrechtelijke handhaver geen rol zou hebben. Het strafrecht heeft een complementaire rol in de gevallen waar de uitoefening van eigen verantwoordelijkheid niet kan of redelijkerwijs niet kan worden gevraagd. Dat is aan de orde bij flagrante normschendingen die grote schade toebrengen aan de belangen van burger en samenleving, bij stelselmatig gepleegde vormen van fraude en bij extreme (brutale, grove) manieren van werken. Wanneer dat speelt, kan vanzelfsprekend een beroep worden gedaan op politie en justitie. Tot slot wordt de beveiliging verbeterd door actieve voorlichting. </antwoord>
+      <antwoord nummer="3">Het voorkomen of voorzien van dit soort aanvallen is niet mogelijk. Door preventief maatregelen te treffen kan de schade beperkt worden gehouden. EZ had de nodige maatregelen geïmplementeerd. Daarnaast is door snel en adequaat handelen de omvang van de gevolgen beperkt gebleven. «Slechts» een slechte digitale bereikbaarheid was het gevolg gedurende de aanvallen. </antwoord>
+      <antwoord nummer="4">Neen, het is (nog) onbekend waarom deze aanval heeft plaatsgevonden en wie deze aanval heeft uitgevoerd. </antwoord>
+      <antwoord nummer="5">Er is aangifte gedaan bij de politie. Tevens is het NHTCC (National High Tech Crime Center) op de hoogte gebracht. De politie is inmiddels een onderzoek gestart. Dit onderzoek vindt plaats onder leiding van het Haagse openbaar Ministerie. Daarbij wordt gebruik gemaakt van de beschikbare lokale en landelijke expertise op het gebied van computercriminaliteit bij zowel politie als justitie. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

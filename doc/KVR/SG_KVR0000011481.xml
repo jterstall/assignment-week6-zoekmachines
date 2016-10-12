@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001177</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001177&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001177</item>
+         <item attribuut="Document-id">0000011481</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 246</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden De Cloe en Vliegenthart (beiden PvdA) over bekostiging Hollander Gravenschool.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 246</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">246</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">De Cloe</persoon>
+            <persoon partij="PvdA">Vliegenthart</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-12-10</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Wallage</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-12-22</item>
+         <item attribuut="Beginpagina">505</item>
+         <item attribuut="Eindpagina">506</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="505" allpagenumbers="505" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="246" onderwerp="bekostiging Hollander Gravenschool." indiendatum="10december 1992">
+         <vrager partij="PvdA" oorsprong="parlement">De Cloe</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Vliegenthart</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-12-22">
+         <antwoorder functie="staatssecretaris" ministerie="Onderwijs en Wetenschappen">Wallage</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1" voetnoot="1 2">Heeft de Monicastichting u gesommeerd de bekostiging van de school Hollander Graven met onmiddellijke ingang voort te zetten? <voetnoot nummer="1"/>Hoe verhoudt zich een voortgezette bekostiging van de Hollander Gravenschool met de mededeling dat per 1 november 1992 geen sprake zou zijn van dubbele bekostiging van de onderwijsvoorziening voor de leerlingen van de Hollander Gravenschool? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="3">Kunt u de laatste stand van zaken ten aanzien van de Huize Alexandra/Hollander Gravenschool weergeven? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1992-11-26" bron=" Twentsche Courant dd"> Twentsche Courant dd, 26 november 1992</noot>
+         <noot nummer="2"> Brief staatssecretaris Wallage dd. 16 oktober 1992 aan de vaste Commissie voor Onderwijs en Wetenschappen</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Nadat mij zeer onlangs is gebleken dat de bestuursoverdracht toch niet heeft kunnen plaatsvinden ben ik genoodzaakt, mede op verzoek van de Monicastichting terug te komen op mijn voornemen zoals verwoord in mijn brief van 16 oktober jl., </antwoord>
+      <antwoord nummer="1" voetnoot="2"> om de dubbele bekostiging vanaf dat tijdstip te beëindigen. Op 25 november 1992 heb ik de VBKO hiervan op de hoogte gesteld. <voetnoot nummer="2"/>
+      </antwoord>
+      <antwoord nummer="2">De mededeling in mijn hiervoor vermelde brief aan de Tweede Kamer, dat per 1 november 1992 niet langer sprake zou zijn van dubbele bekostiging, was gebaseerd op de veronderstelling dat per genoemde datum de bestuursoverdracht door het passeren van de notariële akte een feit zou zijn. Nu de overdracht formeel niet heeft plaatsgevonden ontbreekt de juridische grondslag om de bekostiging aan de Monicastichting stop te zetten. Overigens heeft de dubbele bekostiging een beperkte omvang, omdat het schoolgebouw sinds 1 augustus 1992 reeds bij de Aloysiusstichting in gebruik is en een deel van het personeel inmiddels een andere functie heeft. </antwoord>
+      <antwoord nummer="3">Bij de totstandkoming van de noodvoorziening van de Hollander Graven-school zijn tussen de staatssecretaris van Justitie en mij afspraken gemaakt over de verdeling van kosten. Het ministerie van Justitie zou de bekostiging van de noodlokalen voor zijn rekening nemen. Mijn departement zou de verantwoordelijkheid dragen voor de materiële– en personele lasten. Concreet betekent dit dat het ministerie van Justitie thans f 78 395 heeft bijgedragen voor de noodlokalen en f 4 800 voor bemiddeling van de heer H. Redemeijer. Het ministerie van Onderwijs en Wetenschappen heeft thans een voorschot verleend van f 170 000 ten behoeve van materiële voorzieningen en f 277 500 voor personeel. Met de Aloysiusstichting is afgesproken dat definitieve afrekening zal plaatsvinden aan de hand van een accountantsverklaring. Deze heeft nog niet plaatsgevonden. In het kader van het sociaal plan zal het ministerie van Justitie de kosten voor outplacement voor de ex-werknemers van de Hollander Graven-school voor zijn rekening nemen tot maximaal f 175 000. In dit verband dient nog te worden bezien of en in hoeverre de individuele personeelsleden voor outplacement in aanmerking komen. Ik wacht de voorstellen van de Monicastichting hierover af. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Ter inzage gelegd bij de vaste Commissie voor Onderwijs en Wetenschappen onder nr. 0  e n W 92-967</noot>
+         <noot nummer="2"> Ter inzage gelegd bij de afdeling Parlementaire Documentatie</noot>
+      </noten>
+   </antwoorden>
+</kvr>

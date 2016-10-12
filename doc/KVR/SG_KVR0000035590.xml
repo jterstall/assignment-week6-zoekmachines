@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Nader antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19891990:0001183</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001183&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001183</item>
+         <item attribuut="Document-id">0000035590</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 261</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Verspaget (P.v.d.A.) over het verwijderen van asbesthoudende vloerbedekking.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 261</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">261</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Verspaget</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-10-06</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Alders</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-01-12</item>
+         <item attribuut="Beginpagina">527</item>
+         <item attribuut="Eindpagina">528</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="527" allpagenumbers="527" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="261" onderwerp="het verwijderen van asbesthoudende vloerbedekking." indiendatum="6 oktober 1989).">
+         <vrager partij="PvdA" oorsprong="parlement">Verspaget</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="12januari 1990) Met verwijzing naar het antwoord van mijn ambtsvoorganger op schrif– telijke vragen van het kamerlid Verspaget van 6 oktober 1989' doe ik u hierbij toekomen het rapport «Soorten en hoeveelheden asbest– houdende vloerbedekking». 2 In dit rapport wordt een - zo volledig mogelijk - overzicht gegeven van fabrikanten en merknamen van asbesthoudende vloerbedekking. Het lijkt niet waarschijnlijk dat er meer fabrikanten en merknamen dan de hier genoemde bekend zullen worden.">
+         <antwoorder functie="" ministerie="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer"/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1" voetnoot="1">Kunt u op korte termijn een overzicht verschafifen van fabrikanten en merknamen van asbesthoudende vloerbedekking, gezien het gevaar voor de volksgezondheid bij eigen– handige verwijdering? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2" voetnoot="2">Erkent u het in het NCIV-vakwerk opgenomen artikel naarvoren gebrachte probleem, dat de kosten van professionele verwijdering van asbesthoudende vloerbedekking per woning kan oplopen tot enkele duizenden guldens? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="3">Erkent u, dat uw advies om de asbesthoudende vloerbedekking te laten liggen op problemen stuit in geval van verhuizing, omdat zowel de verhuurder als een nieuwe huurder het recht hebben, bij het verlaten van de woning, van een huurder te eisen, dat de asbesthou– dende vloerbedekking wordt verwijderd? </vraag>
+      <vraag nummer="4">Wie moet in zo'n geval voor de kosten opdraaien? </vraag>
+      <vraag nummer="5">Bent u bereid te onderzoeken, of deze kosten op de fabrikant verhaald kunnen worden? Zo neen, waarom niet? Bent u bereid op korte termijn de Nederlandse bevolking te infor– meren, bijvoorbeeld via Postbus 51, over de gevaren van asbesthoudende vloerbedekking en de mogelijke noodzaak van professionele verwij– dering? Zo neen, waarom niet? </vraag>
+      <vraag nummer="7">Op welke wijze zal, na verwijdering uit de woningen, het asbesthou– dende materiaal onschadelijk worden gemaakt? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Zie Aanhangsel Handelingen nr. 740, vergaderjaar 1988-1989</noot>
+         <noot nummer="2"> Zie NCIV vakwerk no. 15 1989</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Aanhangsel Handelingen nr 83, Verga– derjaar 1989-1990</noot>
+         <noot nummer="2"> Ter inzage gelegd op de bibliotheek</noot>
+      </noten>
+   </antwoorden>
+</kvr>

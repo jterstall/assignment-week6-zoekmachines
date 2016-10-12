@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="van de Amerikaanse luchtmacht?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19891990:0001366</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001366&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001366</item>
+         <item attribuut="Document-id">0000035773</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 444</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van Es over het invliegen van materiaal t.b.v de Amerikaanse kruisvluchtwapeneenheid.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 444</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">444</item>
+         <item attribuut="Indiener">
+            <persoon>Van Es</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-10-22</item>
+         <item attribuut="Beantwoorder">
+            <persoon>-</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-03-14</item>
+         <item attribuut="Beginpagina">893</item>
+         <item attribuut="Eindpagina">894</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="893" allpagenumbers="893" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="444" onderwerp="het invliegen van materiaal t.b.v de Amerikaanse kruisvluchtwapen– eenheid." indiendatum="1987-10-22">
+         <vrager partij="" oorsprong="parlement">Van Es</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Heeft een Amerikaans transport– vliegtuig van het type C5 Galaxy op woensdag 21 oktober materiaal aangevoerd voor de vliegbasis Woensdrecht ten behoeve van de daar gelegerde Amerikaanse kruis– vluchtwapeneenheid? </vraag>
+      <vraag nummer="2">Wat is de aard van het «rollend materieel», dat het vliegtuig volgens een woordvoerder van het ministerie van Defensie vervoerde en wat is de aard van het gebruik, waar het voor is bestemd? </vraag>
+      <vraag nummer="4"/>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+   <mededeling mededeler="" functie="" afdeling="14 maart 1990" mededelingdatum="">Deze vragen worden van de lijst van nog te beantwoorden vragen afgevoerd, aangezien beantwoording door de ministers van Buitenlandse Zaken en van Defensie niet meer nodig wordt geacht. (14 maart 1990) Delen de bewindslieden de mening dat zeker na het tot stand komen van het INF-akkoord en het gevolg daarvan voor Nederland, namelijk het afzien van plaatsing van kruisra– ketten op Woensdrecht, op zijn minst een zo groot mogelijke openbaarheid aan de dag dient te worden gelegd met betrekking tot activiteiten op de vliegbasis? 4 Willen de bewindslieden ook overigens alle informatie verstrekken met betrekking tot deze landing op de vliegbasis Woensdrecht van één van de grootste transportvliegtuigen </mededeling>
+</kvr>

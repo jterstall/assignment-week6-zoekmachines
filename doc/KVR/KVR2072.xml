@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="4">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van 't Riet (D66) over een systeem van rekeningrijden. (Ingezonden 12 oktober 1995); Antwoord</item>
+         <item attribuut="Bestand">15Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR2072
+</item>
+         <item attribuut="Rubriek">Belastingen (Overig) Verkeer, vervoer en waterstaat (Wegen)</item>
+         <item attribuut="Trefwoorden">Bestemmingsheffingen Infrastructuur Verkeer Wegen</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 1995-1996, nr. 154, Tweede Kamer</item>
+         <item attribuut="Afkomstig_van">Verkeer en Waterstaat (VW)</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Van 't Riet</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1995-10-30</item>
+         <item attribuut="Datum_indiening">1995-10-12</item>
+         <item attribuut="Document-id">KVR2072</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1995–1996" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="311" allpagenumbers="311" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1995–1996, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgeverij Plantijnstraat ’s-Gravenhage 1995"/>
+      <vraagdata vraagnummer="154" onderwerp="" indiendatum="1995-10-12">
+         <vrager partij="D66" oorsprong="parlement">Van 't Riet</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1995-10-30">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">Jorritsma-Lebbink</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Bent u op de hoogte van de door Philips verkregen opdracht voor ontwikkeling en installatie van een systeem van rekeningrijden in Singapore? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Betekent dit, dat er nu een Nederlands bedrijf is met voldoende know-how en straks ook praktijkervaring om het technische aspect van rekeningrijden uit te voeren? </vraag>
+      <vraag nummer="3">Is door deze kennis versnelde uitvoering van het rekeningrijden in Nederland mogelijk? </vraag>
+      <vraag nummer="4">Bent u bereid Philips en andere Nederlandse bedrijven met kennis op dit gebied te betrekken bij het ontwikkelen van rekeningrijden in Nederland? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1">NRC, dinsdag 10 oktober</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja, ik ben ervan op de hoogte dat een consortium van bedrijven, onder aanvoering van Philips Singapore en waarvan verder deel uitmaken Mitsubishi Heavy Industries, Miyoshi Electronics en CEI, een opdracht heeft verkregen voor levering en exploitatie van een systeem van rekening rijden voor Singapore. </antwoord>
+      <antwoord nummer="2">Binnen het consortium waaraan Philips Singapore leiding geeft, wordt de gecompliceerde technologie voor de communicatie, voertuigdetectie en handhaving ingebracht door het Mitsubishi concern. Philips Singapore is voornamelijk verantwoordelijk voor de systeemintegratie. Noch Philips Singapore, noch Nederlandse onderdelen van het Philips-concern zijn echter in Europa actief op het gebied van rekening rijden. Zij doen niet mee aan de technische proeven in Duitsland en Engeland; zij hebben niet meegedaan aan levering van systemen in Italie¨, Frankrijk en Noorwegen en zij zijn niet actief betrokken bij de standaardisatie van rekening rijden in CEN. </antwoord>
+      <antwoord nummer="3">Nee, bij het schrijven van de brief over «Contouren invoering rekening rijden» was ik op de hoogte van de ontwikkelingen rond rekening rijden in Singapore; de inhoud van de brief is mede gebaseerd op de gang van zaken in Singapore (methode van aanbesteding, doorlooptijden, etc.). Medewerkers van Verkeer en Waterstaat hebben aan het begin van het jaar op uitnodiging van Singapore een bezoek gebracht aan de proefopstelling aldaar. Aan een systeem van rekening rijden worden in Singapore overigens ook afwijkende eisen gesteld ten opzichte van die in Europa. Deze verschillen hebben onder meer te maken met klimaatsverschillen, het in Singapore ontbreken van de noodzaak van afstemming van systemen met omliggende landen en de afwijkende keuze van golflengte (Singapore gebruikt 2,45 GHz, terwijl de (Europese) CEPT in Europa de 5,8 GHz band heeft gereserveerd voor rekening rijden). </antwoord>
+      <antwoord nummer="4">Het is mijn voornemen om het bedrijfsleven en dus ook het Nederlandse bedrijfsleven te betrekken bij het rekening rijden in Nederland. Dat zal gebeuren binnen de regels van Europese aanbesteding. Bedrijven die mij het «beste» aanbod doen komen voor de levering van rekening rijden systemen in aanmerking; daarbij kan en mag ik geen voorkeursbehandeling geven op grond van het enkele feit dat een aanbiedend bedrijf een «Nederlands bedrijf» is. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

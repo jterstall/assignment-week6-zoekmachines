@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0001612</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001612&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001612</item>
+         <item attribuut="Document-id">0000004123</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 398</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Janmaat-Abee (CDA) over elementaire medische kennis bij touringcar-chauffeurs.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 398</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">398</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Janmaat-Abee</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-03-21</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Maij-Weggen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-03-28</item>
+         <item attribuut="Beginpagina">809</item>
+         <item attribuut="Eindpagina">810</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="809" allpagenumbers="809" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1994"/>
+      <vraagdata vraagnummer="398" onderwerp="elementaire medische kennis bij touringcar-chauffeurs." indiendatum="1994-03-21">
+         <vrager partij="CDA" oorsprong="parlement">Janmaat-Abee</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Is het u bekend dat touringcar-chauffeurs niet hoeven te beschikken over elementaire medische kennis, zoals een EHBO-diploma en certificaat hartreanimatie? Acht u dit verantwoord gezien de doelgroep die busmaatschappijen veelal vervoeren? </vraag>
+      <vraag nummer="3">Wilt u bevorderen, dat touringcar-chauffeurs naast goede sociale vaardigheden en vakbekwaamheid ook moeten beschikken over een EHBO-diploma en certificaat hartreanimatie? Wilt u dit voorstel doen aan de stichting keurmerk Busbedrijf? </vraag>
+      <vraag nummer="4">Bent u bereid overleg te voeren met het Nederlandse Rode Kruis en met de Nederlandse Hartstichting om kennis en ervaring alsmede trainingsbudgetten aan te wenden om touringcar-chauffeurs op te leiden? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1,2en3">Chauffeurs in het personenvervoer per bus dienen in het bezit te zijn van het wettelijk verplichte chauffeursdiploma personenvervoer. Voor het behalen van dit diploma is kennis van een tiental hoofdregels inzake EHBO noodzakelijk. Vervolgens kunnen de chauffeurs in het besloten busvervoer op vrijwillige basis een certificaat touringcar-chauffeur behalen. Alvorens aan het examen voor dit certificaat deel te mogen nemen, wordt kennis van EHBO en hartreanimatie verplicht gesteld. De animo om aan deze cursussen deel te nemen is zeer aanzienlijk. Enige honderden touringcarchauffeurs behalen jaarlijks dit certificaat. </antwoord>
+      <antwoord nummer="4">De bedrijfstak besloten busvervoer– waaronder begrepen de stichting keurmerk Busbedrijf - besteedt reeds veel aandacht aan dit onderwerp en stimuleert dat zijn chauffeurs deze kennis opdoen. Ik zal de bedrijfstak verzoeken om in samenwerking met het Nederlandse Rode Kruis en de Nederlandse Hartstichting te bezien in hoeverre het niveau van de kennis ter zake voldoende is. Mijn verdere directe betrokkenheid daarbij lijkt mij niet noodzakelijk. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="namens de minister van" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19941995:0000543</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000543&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000543</item>
+         <item attribuut="Document-id">0000000543</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1994-1995 nummer 209</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Oudkerk en Dijksman (beiden PvdA) over bij de operatie van een drugskoerier aangetroffen drugs.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1994-1995 nummer 209</item>
+         <item attribuut="Jaargang">1994_1995</item>
+         <item attribuut="Vraagnummer">209</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Oudkerk</persoon>
+            <persoon partij="PvdA">Dijksman</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-11-01</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Sorgdrager</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-11-28</item>
+         <item attribuut="Beginpagina">419</item>
+         <item attribuut="Eindpagina">420</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1994-1995" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="419" allpagenumbers="419" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1994-1995, Aanhangsel" filenaam="" issn-nummer="ISSN0921 -7398" uitgever="s Gravenhage 1994"/>
+      <vraagdata vraagnummer="209" onderwerp="bij de operatie van een drugskoerier aangetroffen drugs." indiendatum="1994-11-1">
+         <vrager partij="PvdA" oorsprong="parlement">Oudkerk</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Dijksman</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Kent u het bericht <voetnoot nummer="1"/> als zouden ziekenhuizen verplicht zijn de drugs die bij de operatie van een drugskoerier worden aangetroffen terug te geven aan die koerier? Volksgezondheid, Welzijn en Sport mee dat de vragen van de leden van uw Kamer Oudkerk en Dijksman over bij de operatie van een drugskoerier aangetroffen drugs niet binnen de gebruikelijke termijn kunnen worden beantwoord, omdat ik nog niet beschik over alle benodigde inlichtingen. Ik streef ernaar u binnen twee weken mijn antwoord te doen toekomen. Brengt het beroepsgeheim van de arts mee dat deze in de maag van een drugskoerier aangetroffen drugs weer aan de koerier meegeeft? </vraag>
+      <vraag nummer="3">Is er overleg geweest tussen uw ministeries om te komen tot een protocol voor dit soort situaties? </vraag>
+      <vraag nummer="4">Wilt u in overleg met de beroepsgroep de totstandkoming van een protocol bevorderen?  DeTelegraaf van 28 oktober 1994. </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"/>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+   <mededeling mededeler="Sorgdrager" functie="minister" afdeling="Justitie" mededelingdatum="1994-11-28">Mededeling van minister Sorgdrager (Justitie), mede namens de minister van Volksgezondheid, Welzijn en Sport. (Ontvangen 28 november 1994) Met verwijzing naar uw brief van 2 november 1994, deel ik u mede </mededeling>
+</kvr>

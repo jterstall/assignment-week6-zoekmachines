@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="4">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Dijksma (PvdA) aan de minister van Verkeer en Waterstaat over het uitstel van de proef met de OV-chipkaart in de Hoekse Waard. (Ingezonden 7 april 2005); Antwoord</item>
+         <item attribuut="Bestand">16Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR22900
+</item>
+         <item attribuut="Inhoud">Door computerproblemen loopt de proef met de OV-chipkaart in de Hoekse Waard vertraging op.</item>
+         <item attribuut="Rubriek">Geld- en kapitaalmarkt (Betalingsverkeer) Verkeer, vervoer en waterstaat (Openbaar vervoer)</item>
+         <item attribuut="Trefwoorden">Chipkaarten Openbaar vervoer</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2004-2005, nr. 1539, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2040512290</item>
+         <item attribuut="Afkomstig_van">Verkeer en Waterstaat (VW)</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Dijksma</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2005-04-26</item>
+         <item attribuut="Datum_indiening">2005-04-07</item>
+         <item attribuut="Document-id">KVR22900</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2004–2005" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="3283" allpagenumbers="3283" vetnummer="2040512290" code="0405tkkvr1539" lopendefooter="Tweede Kamer, vergaderjaar 2004–2005, Aanhangsel" filenaam="KVR22900" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2005"/>
+      <vraagdata vraagnummer="1539" onderwerp="" indiendatum="7april 2005">
+         <vrager partij="PvdA" oorsprong="parlement">Dijksma</vrager>
+         <vraagt-aan>de minister van Verkeer en Waterstaat</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2005-04-26">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">Peijs</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Bent u bekend met het bericht over de problemen rond de proef met de OV-chipkaart in de Hoekse Waard? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Was deze problematiek u al bekend ten tijde van het Algemeen Overleg van 30 maart 2005 over de OV-chipkaart? Zo ja, waarom hebt u dit dan niet in het Algemeen Overleg gemeld? </vraag>
+      <vraag nummer="3">Wat zijn de consequenties van deze vertraging met de proef in Rotterdam voor het «go/no-go-besluit» dat u in september 2005 wilt nemen? </vraag>
+      <vraag nummer="4">Wat is de aard en wat is de ernst van de softwareproblematiek? Had dit niet kunnen worden voorzien? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="2005-04-6" bron="De Volkskrant" titel="Introductie OV-chipkaart stuit op computermalheur">De Volkskrant, 6 april 2005: «Introductie OV-chipkaart stuit op computermalheur»</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Mij was bekend dat de bedrijven ervoor hebben gekozen de launch anders in te richten. De bedrijven hebben mij meegedeeld dat zij het nog een te groot risico vinden om reizigers met het systeem te laten reizen. Ik heb dit in het Algemeen Overleg van 30 maart aan de Tweede Kamer gemeld. Over de exacte problemen rond de software was ik niet geïnformeerd. </antwoord>
+      <antwoord nummer="3">Ik heb met de bedrijven afspraken gemaakt over de onderzoeksresultaten die zij moeten opleveren alvorens ik het «go/no go-besluit» neem. De bedrijven bezien nu of ze de afspraken die ik met ze heb gemaakt binnen de gestelde termijnen kunnen nakomen. Op basis daarvan zal ik mij beraden over de gevolgen ervan. </antwoord>
+      <antwoord nummer="4">Bij navraag rond de berichten in de Volkskrant hebben de launchbedrijven mij meegedeeld dat de problemen op het gebied van de software niet liggen in fundamentele ontwerpfouten van de software, maar veeleer in omissies (zogenaamde «bugs») die één voor één verwijderd moeten worden alvorens de klant met het systeem kan gaan reizen. Nee, anders hadden de bedrijven het anders ingepland. Ik vind het echter belangrijk dat de bedrijven niet over één nacht ijs gaan. In het traject nemen zij nu de tijd om de problemen uit de software te halen alvorens de reizigers met het systeem te laten reizen. Overigens bij projecten op deze schaal is het geen onbekend verschijnsel dat met name in de testfase fouten (de «bugs») uit de software gehaald moeten worden. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

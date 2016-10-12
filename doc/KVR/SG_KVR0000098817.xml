@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19871988:0001103</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001103&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001103</item>
+         <item attribuut="Document-id">0000098817</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1987-1988 nummer 166</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Melkert en Herfkens (beiden P.v.d.A.) over een beleidsdocument inzake het Structurele Aanpassings Programma van de Wereldbank.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1987-1988 nummer 166</item>
+         <item attribuut="Jaargang">1987_1988</item>
+         <item attribuut="Vraagnummer">166</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Melkert</persoon>
+            <persoon partij="PvdA">Herfkens</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-11-12</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Bukman</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-11-30</item>
+         <item attribuut="Beginpagina">331</item>
+         <item attribuut="Eindpagina">332</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="" typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 7 - 1 9 8 8 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="166" onderwerp="een beleidsdocument inzake het Structu- rele Aanpass/ngs Programma van de Wereldbank." indiendatum="12 november 1987)">
+         <vrager partij="PvdA" oorsprong="parlement">Melkert</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Herfkens</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="3 0 november 1987)">
+         <antwoorder functie="" ministerie="Ontwikkelingssamenwerking"/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1 ">Is onlangs in de CoCos' een beleids- document besproken inzake het  Structurele Aanpassings Programma  van de Wereldbank?  </vraag>
+      <vraag nummer="2 ">W a t is de status van dit document?  </vraag>
+      <vraag nummer="3 ">Kan dit document aan deze Kamer  worden gezonden? Zo neen, waarom  niet?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1 ">Op 29 september  j l . werd in de  COCOS een door Ontwikkelingssa- menwerking opgestelde beleidsaan- tekening inzake structurele aanpas- sing en armoedebestrijding bespro- ken.  2 en 3  De bedoelde beleidsaantekening is  gemaakt met het doel een gezamenlijk  interdepartementaal standpunt te  bereiken in het beraad in de COCOS.  Dit beraad heeft geleid tot een aantal  conclusies die u hierbij aantreft. </antwoord>
+      <antwoord nummer="1 "/>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> COCOS = Coördinatie Commissie voor  Ontwikkelingssamenwerking </noot>
+      </noten>
+   </antwoorden>
+</kvr>

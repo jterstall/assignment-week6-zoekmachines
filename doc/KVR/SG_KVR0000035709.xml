@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Nader antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19891990:0001302</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001302&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001302</item>
+         <item attribuut="Document-id">0000035709</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 380</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Willems (Groen Links) over de produktie van PVC.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 380</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">380</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Willems</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-11-17</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Alders</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-03-07</item>
+         <item attribuut="Beginpagina">765</item>
+         <item attribuut="Eindpagina">766</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="765" allpagenumbers="765" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="380" onderwerp="de produktie van PVC." indiendatum="1989-11-17">
+         <vrager partij="Groen Links" oorsprong="parlement">Willems</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Bent u op de hoogte van het voornemen van AKZO en Shell de produktiecapaciteit van hun joint venture ROVIN uit te breiden van 215 000 ton PVC naar 300 000 ton per jaar?' </vraag>
+      <vraag nummer="2" voetnoot="2 2">Deelt u de mening, dat deze voorge– nomen verhoging van de produktie– capaciteit op gespannen voet staat met het kabinetsbeleid, dat gericht is op het beperken van het aanbod van chloor-houdende afvalstoffen voor verbranding in afvalverwerkingsin– stallaties? <voetnoot nummer="2"/>Deelt u de mening, dat het in ieder geval niet wenselijk is de voorge– nomen capaciteitsuitbreiding doorgang te laten vinden, zolang het onderzoek naar het verband tussen de aanwezigheid van chloridehou– dende afvalstoffen en dioxine– vorniing bij verbranding nog niet is afgerond? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="4" voetnoot="3">Bent u bereid al het mogelijke in het werk te stellen teneinde de betrokken onderneming te doen afzien van de geplande expansie, zolang het onderzoek naar en de discussie over de milieu-aspecten van PVC nog niet zijn afgerond? Hebben milieu-overwegingen een rol gespeeld bij het besluit van DSM om de produktie van PVC af te stoten? <voetnoot nummer="3"/>
+      </vraag>
+      <vraag nummer="6">Zijn er inmiddels al resultaten bekend van het onderzoek naar PVC-beperkende maatregelen, zoals het inzetten van heffingen ter ontmoediging van de produktie en/of de toepassing van chloorbevattende materialen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="2"/>
+         <noot nummer="1"> Shell-Venster, nov.-dec. '89, pag. 27</noot>
+         <noot nummer="2"> Zoals aangekondigd in Kamerstuk 18319, nr. 8, antwoord 35</noot>
+         <noot nummer="3" datum="1989-11-16" bron=" De Volkskrant"> De Volkskrant, 16 november 1989</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

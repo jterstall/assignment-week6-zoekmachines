@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0001536</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001536&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001536</item>
+         <item attribuut="Document-id">0000004047</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 322</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Leerling (RPF) over lasersystemen die de ogen van vijandelijke soldaten verblinden.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 322</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">322</item>
+         <item attribuut="Indiener">
+            <persoon partij="RPF">Leerling</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-02-02</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Ter Beek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-02-21</item>
+         <item attribuut="Beginpagina">653</item>
+         <item attribuut="Eindpagina">654</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="653" allpagenumbers="653" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="'s Gravenhage 1994"/>
+      <vraagdata vraagnummer="322" onderwerp="lasersystemen die de ogen van vijandelijke soldaten verblinden." indiendatum="1994-02-2">
+         <vrager partij="RPF" oorsprong="parlement">Leerling</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Zijn of worden lasersystemen ontwikkeld (Cobra– en Dazersystemen en Stingray-systeem) om de ogen van vijandelijke soldaten te verblinden? Hoe oordeelt u over de uitspraak van een woordvoerder van het Britse ministerie van Defensie dat «there is a reasonable, legitimate use for them as dazzling devices»? <voetnoot nummer="1"/> Moet een dergelijke definitie van wat «redelijk» en «gerechtvaardigd» is niet met klem worden afgewezen? </vraag>
+      <vraag nummer="3">Oefenen Nederlandse militairen in NAVO-verband met dergelijke systemen? Zo ja, waar in welke omstandigheden? </vraag>
+      <vraag nummer="4">In hoeverre steunt u de pogingen van het Rode Kruis om in VN-kader een verbod te laten uitvaardigen op het ontwikkelen, bezit en gebruik van deze systemen? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="3">Neen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

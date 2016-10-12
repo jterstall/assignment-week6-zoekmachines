@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0001781</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001781&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001781</item>
+         <item attribuut="Document-id">0000004292</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 567</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Schutte (GPV) en Van der Vlies (SGP) over een sterfgeval na bezoek aan een houseparty.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 567</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">567</item>
+         <item attribuut="Indiener">
+            <persoon>Schutte</persoon>
+            <persoon>Van der Vlies</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-05-19</item>
+         <item attribuut="Beantwoorder">
+            <persoon>d'Ancona</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-06-16</item>
+         <item attribuut="Beginpagina">1151</item>
+         <item attribuut="Eindpagina">1152</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1151" allpagenumbers="1151" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's-Gravenhage 1994"/>
+      <vraagdata vraagnummer="567" onderwerp="een sterfgeval na bezoek aan een houseparty." indiendatum="1994-05-19">
+         <vrager partij="" oorsprong="parlement">Schutte</vrager>
+         <vrager partij="" oorsprong="parlement">Van der Vlies</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="16juni 1994">
+         <antwoorder functie="minister" ministerie="Welzijn, Volksgezondheid en Cultuur">d'Ancona</antwoorder>
+         <mede-antwoorder>de minister van Justitie</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1">Is op 14 mei een jongeman overleden na bezoek aan een houseparty in Almelo? </vraag>
+      <vraag nummer="2" voetnoot="1">Is het waar, dat bezoekers van houseparties m Almelo zich al vaker onder doktersbehandeling hebben moeten stellen of versuft op straat zijn aangetroffen? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="3">Hadden recente andere sterfgevallen in Den Haag en Zoetermeer ook te maken met het bezoeken van houseparties en/of het gebruik van drugs? </vraag>
+      <vraag nummer="4" voetnoot="2">Herinnert u zich, dat de staatssecretans van WVC ten tijde van de behandeling van het onderdeel Volksgezondheid van de begroting 1994 nog van mening was, dat er in het algemeen geen sprake was van onaanvaardbare risico's met betrekking tot het gebruik van drugs op houseparties? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="5">Deelt u de mening, dat dit standpunt zeker na de recente gebeurtenissen niet kan worden volgehouden en dat in aansluiting op maatregelen van de lokale overheden ook landelijke maatregelen nodig zijn, in het bijzonder ten aanzien van de handel in en het gebruik van drugs? Zo ja, welke maatregelen bent u voornemens te treffen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1994-05-17" bron=" De Volkskrant"> De Volkskrant, 17 mei 1994</noot>
+         <noot nummer="2"> Naar aanleiding van vragen van de eden Van der Vlies en E. van Middelkoop, Handelingen 1993-1994, blz. 36-2822</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja. Er is een jonge man overleden na een bezoek aan een discotheek waar op de bewuste avond een houseparty georganiseerd werd. Ja. In 1993 is er bij de politie een tweetal meldingen binnengekomen die inhielden dat er mensen onwel waren geworden bij een houseparty in dezelfde discotheek. De vermoedelijke oorzaak was volgens het ambulancepersoneel het gebruik van XTC. Dit is vervolgens overigens niet met zekerheid vastgesteki. </antwoord>
+      <antwoord nummer="3">Thans beschikken wij niet over de informatie om deze vraag te kunnen beantwoorden. Er is sectie verricht op de overledene in Almelo. Dit heeft uitgewezen dat er sprake is van vergiftiging van het centraal zenuwstelsel die veroorzaakt kan zijn door een overdosis XTC. Om een en ander met zekerheid vast te stellen heeft het Arrondissementsparket te Almelo een toxicologisch onderzoek van de maaginhoud van het slachtoffer gelast. Voorts heeft de minister van WVC het Staatstoezicht verzocht een onderzoek in te stellen naar de sterfgevallen in Den Haag en Zoetermeer. Zodra meer informatie beschikbaar is, zult u hierover nader worden bericht. </antwoord>
+      <antwoord nummer="4">Ja. </antwoord>
+      <antwoord nummer="5" voetnoot="1">Hoewel niet is komen vast te staan dat de doodsoorzaak in het onderhavige geval en de andere ons bekende dodelijke gevallen direkt het gevolg zijn van het gebruik van XTC, achten wij het verontrustend dat het gebruik van dit middel kennelijk plaatsvindt onder risicovolle omstandigheden die ontstaan tijdens deze houseparties. Onlangs is door de minister van WVC een notitie naar de Tweede Kamer gestuurd waarin maatregelen op het terrein van preventie en voorlichting aangekondigd zijn. <voetnoot nummer="1"/> Justitie concentreert zich op onderzoek naar de produktie van XTC in ons land en de handel daarin. De opsporing heeft hoge prioriteit voor Justitie; daar waar handel en gebruik samen gaan tijdens deze houseparties, kan de burgemeester zoals in verscheidene gemeenten reeds is gebeurd, beperkende maatregelen opleggen </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

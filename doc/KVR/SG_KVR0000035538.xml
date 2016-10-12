@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19891990:0001131</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001131&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001131</item>
+         <item attribuut="Document-id">0000035538</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 209</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Vriens-Auerbach en Frissen (beiden C.D.A.) over de vergoeding voor thuiszorg van een comateuze patiënt.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 209</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">209</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Vriens-Auerbach</persoon>
+            <persoon partij="CDA">Frissen</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-12-13</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Ter Veld</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-12-20</item>
+         <item attribuut="Beginpagina">423</item>
+         <item attribuut="Eindpagina">424</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="423" allpagenumbers="423" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="209" onderwerp="de vergoeding voor thuiszorg van een comateuze patiënt." indiendatum="1989-12-13">
+         <vrager partij="CDA" oorsprong="parlement">Vriens-Auerbach</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Frissen</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1989-12-20">
+         <antwoorder functie="staatssecretaris" ministerie="Sociale Zaken en Werkgele– genheid">Ter Veld</antwoorder>
+         <mede-antwoorder>de staats– secretaris van Welzijn, Volksgezond– heid en Cultuur</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Zijn de berichten juist, dat de GMD en de Federatie van Bedrijfsvereni– gingen reeds in juli 1989 aan het ministerie van Sociale Zaken en Werkgelegenheid hebben medege– deeld, dat sondevoeding bij thuisver– pleging ten onrechte wordt beschouwd als dieetvoorziening en niet meer zal worden vergoed door deze instanties? <voetnoot nummer="1"/>Is mmiddels overleg gevoerd over de hierdoor ontstane problematiek tussen ambtenaren van uw minis– teries? Zo ja, heeft dit overleg resultaat gehad? </vraag>
+      <vraag nummer="3">Hoeveel vergoedingen zijn er krachtens de AAW tot nu toe verleend? Hoeveel herbeoordelingen, leidend tot beëindiging van de vergoeding terzake krachtens de AAW tussen nu en zes maanden, hebben inmiddels plaatsgevonden? </vraag>
+      <vraag nummer="4">Is de regering voornemens overgangsmaatregelen te treffen in het kader van de Algemene Arbeids– ongeschiktheidswet wanneer de wetgeving niet tijdig zal zijn aangepast? Zo ja, welke? Kan deze Kamer binnenkort uitvoerig worden ingelicht over het voorge– nomen beleid met betrekking tot AAW-voorzieningen, onder meer in relatie tot de sociale ziektekostenver– zekeringen? Deze vragen dienen ter aanvulling op de eerdere vragen terzake van het lid Nijhuis, ingezonden 12 december jl. </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> o.a. De Volkskrant van 8 december 1989 GMD = Gemeenschappelijke medische dienst</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Ja. Het ambtelijk overleg heeft ertoe geleid dat op basis van het advies van de Voedmgsraad de staatssecre– taris van Sociale Zaken en Werkgele– genheid op korte termijn een advies– aanvrage zal richten aan de Sociale Verzekeringsraad teneinde een struc– turele regeling in het kader van de AAW te treffen. </antwoord>
+      <antwoord nummer="3">De verkregen informatie duidt op enige honderden gevallen. Het aantal herbeoordelingen is niet bekend. Ik heb mij tot de uitvoeringsorganen gewend om te bevorderen dat de bestaande uitvoeringspraktijk wordt voortgezet. </antwoord>
+      <antwoord nummer="5">Deze toezegging kan thans nog niet worden gedaan, omdat vooralsnog eerst het advies van de Sociale Verzekeringsraad over de afbakening AAW-voorzieningen met andere voorzieningen wordt afgewacht. Daarna wordt eerst uitwerking gegeven aan de motie De Leeuw– Buurmeijer, inzake voorzieningen voor boven-65-jarigen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

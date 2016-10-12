@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0001592</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001592&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001592</item>
+         <item attribuut="Document-id">0000004103</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 378</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid De Hoop Scheffer (CDA) over economische migranten.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 378</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">378</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">De Hoop Scheffer</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-03-14</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Kok</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-03-18</item>
+         <item attribuut="Beginpagina">769</item>
+         <item attribuut="Eindpagina">770</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="769" allpagenumbers="769 0" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="'s-Gravenhage 1994"/>
+      <vraagdata vraagnummer="378" onderwerp="economische migranten." indiendatum="1994-03-14">
+         <vrager partij="CDA" oorsprong="parlement">De Hoop Scheffer</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="18 maart 1994}">
+         <antwoorder functie="minister" ministerie="Financiën">Kok</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Herinnert u zich uw op 5 maart tijdens het NAR-congres te Maastricht gedane uitspraken inzake de wenselijkheid van Europese quota-regelingen voor economische migranten? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Hoe verhouden deze uitspraken zich tot het kabinetsbeleid, dat imrners uitgaat van een restrictief toelatingsbeleid? </vraag>
+      <vraag nummer="3">Deelt u nog steeds de opvatting van de staatssecretaris van Justitie, dat Nederland geen immigratieland is? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1994-03-10" bron=" Algemeen Dagblad"> Algemeen Dagblad, 10 maart 1994</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja. «voor andere migranten zouden kunnen denken aan quota-regelingen, eventueel met voorwaarden voor de tijdelijkheid van het verblijf, ingebed in bredere Europese afspraken». Dit om illegale immigratie tegen te gaan en het restrictief toelatingsbeleid juist beterte kunnen handhaven. </antwoord>
+      <antwoord nummer="3">Nederland kent de laatste jaren een immigratiesaldo van zo'n 60.000 mensen. Het kabinetsbeleid is niet gericht op het bereiken van een bepaald immigratiesaldo. Een restrictief toelatingsbeleid krijgt vorm door regels te stellen. Tijdens het NAR-congres te Maastricht heb ik er op gewezen dat naast regels voor asielzoekers en voor gezinsvorming en hereniging we </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

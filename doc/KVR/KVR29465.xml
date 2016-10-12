@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Duyvendak (GroenLinks) aan de staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties over beroepsmogelijkheden met betrekking tot goedkeuring van stemcomputers. (Ingezonden 4 september 2007); Antwoord</item>
+         <item attribuut="Bestand">15Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR29465
+</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding plaatsing brief staatssecretaris BZK inzake haar beslissing op bezwaar inzake de goedkeuring van Nedap stemcomputers op website stichting 'Wij vertrouwen stemcomputers niet'. Indiener vraagt of de staatssecretaris de mening deelt dat het argument van genoemde stichting, dat de goedkeuringen voor de stemcomputers slechts kort voor de verkiezingen zijn afgegeven en dat daarmee de bezwaar- en beroepsmogelijkheden worden beperkt, geen doel treft. Wat zijn de gevolgen, als er, mede als gevolg van de brief, enkele dagen voor de verkiezingen bij de voorzieningenrechter een voorlopige voorziening tegen de goedkeuring van de te gebruiken stemmachines wordt aangevraagd?</item>
+         <item attribuut="Rubriek">Communicatie, media en informatievoorziening (Hard- en software) Staats- en bestuursrecht (Grondrechten) Staats- en bestuursrecht (Kiesrecht)</item>
+         <item attribuut="Trefwoorden">Hardware Klachtrecht Verkiezingen</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2007-2008, nr. 59, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2060724450</item>
+         <item attribuut="Afkomstig_van">Binnenlandse Zaken en Koninkrijksrelaties (BZK)</item>
+         <item attribuut="Indiener">
+            <persoon partij="GroenLinks">Duyvendak</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2007-09-24</item>
+         <item attribuut="Datum_indiening">2007-09-04</item>
+         <item attribuut="Document-id">KVR29465</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="127" allpagenumbers="127" vetnummer="2060724450" code="0708tkkvr59" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Aanhangsel" filenaam="KVR29465" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2007"/>
+      <vraagdata vraagnummer="59" onderwerp="" indiendatum="2007-09-4">
+         <vrager partij="GroenLinks" oorsprong="parlement">Duyvendak</vrager>
+         <vraagt-aan>de staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2007-09-24">
+         <antwoorder functie="staatssecretaris" ministerie="Binnenlandse Zaken en Koninkrijksrelaties">Bijleveld-Schouten</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Hebt u kennisgenomen van de publicatie van uw brief inzake uw beslissing op bezwaar inzake de goedkeuring van Nedap stemcomputers op de website van de stichting «Wij vertrouwen stemcomputers niet»? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Is het waar dat u de mening deelt dat het argument van de stichting «Wij vertrouwen stemcomputers niet», dat de goedkeuringen voor stemcomputers slechts kort voor de verkiezingen zijn afgegeven en dat daarmee de bezwaar- en beroepsmogelijkheden worden beperkt, geen doel treffen? </vraag>
+      <vraag nummer="3">Wat kunnen de gevolgen zijn als mede naar aanleiding van uw schrijven enkele dagen voor de verkiezingen bij de voorzieningenrechter een voorlopige voorziening tegen de goedkeuring van de te gebruiken stemmethode wordt aangevraagd? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" weblink="http://www.wijvertrouwen stemcomputersniet.nl/images/6/65/20070710_besluit_op_bezwaar.pdf">http://www.wijvertrouwen stemcomputersniet.nl/images/6/65/20070710_besluit_op_bezwaar.pdf</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Ja, dit staat zo in mijn beslissing op bezwaar. </antwoord>
+      <antwoord nummer="3">Het is niet zinvol te speculeren over mogelijke uitspraken van de rechter. Overigens is het duidelijk dat als aan een type stemmachine de goedkeuring komt te ontvallen, dat type stemmachine niet bij een verkiezing zoals bedoeld in de Kieswet (dat wil zeggen de verkiezingen voor gemeenteraden, leden van Provinciale Staten, leden van de Tweede Kamer der Staten-Generaal en leden van het Europees Parlement) kan worden gebruikt. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

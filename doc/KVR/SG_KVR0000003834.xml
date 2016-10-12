@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19931994:0001323</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001323&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001323</item>
+         <item attribuut="Document-id">0000003834</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 109</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Lankhorst (Groen Links) over de tarieven van de NS.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 109</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">109</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Lankhorst</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-10-28</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Maij-Weggen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-11-08</item>
+         <item attribuut="Beginpagina">221</item>
+         <item attribuut="Eindpagina">222</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="221" allpagenumbers="221" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="109" onderwerp="de tarieven van de NS." indiendatum="1993-10-28">
+         <vrager partij="Groen Links" oorsprong="parlement">Lankhorst</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-11-8">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">Maij-Weggen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="1">
+      <vraag nummer="1">Kent u de berichten als zouden de Nederlandse Spoorwegen in concept-plannen voor haar nieuwe reizigersbedrijf rekenen met verhogingen van de spitstarieven met 20 tot 30% in de komende jaren?' </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1" voetnoot="2">Ja, die berichten heb ik in de dagbladen gelezen. Ik gan er vanuit dat de NS zich bij de differentiatie van de tarieven laat leiden c.q. beperken door de draagkracht van de markt. Hoe verhouden deze berichten zich tot uw geruststellende woorden tijdens het debat over de verzelfstandiging van de NS, dat «de NS ook heel goed begrijpen dat het vanzelf spreekt dat de tarieven niet te hoog mogen zijn»? <voetnoot nummer="2"/>
+      </antwoord>
+      <antwoord nummer="3">Deelt u de mening, dat dergelijke berichten wederom schadelijk zijn voor het vertrouwen bij het publiek dat de verzelfstandiging van de NS niet zal leiden tot buitensporige tariefstijgingen? </antwoord>
+      <antwoord nummer="4" voetnoot="1 2">Bent u bereid de Nederlandse Spoorwegen hierop te wijzen of op een andere manier opnieuw duidelijk te maken dat het publiek niet voor buitensporige tariefstijgingen in de komende jaren hoeft te vrezen? <voetnoot nummer="1"/> Algemeen Dagblad 22 oktober 1993 en De Volkskrant 27 oktober 1993 <voetnoot nummer="2"/> Handelingen TK 1993-1994, 5-221. Voorzover ik uit genoemde krantenberichten heb begrepen vormen deze zaken onderdeel van een totaal beleid waarover binnen de Nederlandse Spoorwegen nog besluitvorming moet plaatsvinden. </antwoord>
+      <antwoord nummer="4">Tegen de achtergrond dat de NS in de komende jaren verantwoordelijk wordt voor de tariefstelling en de communicatie daarover is het aan de NS de relatie met de reiziger te onderhouden. Hier ligt geen taak meer voor de minister van Verkeer en Waterstaat. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

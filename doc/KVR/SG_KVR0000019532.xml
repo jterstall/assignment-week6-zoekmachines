@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001146</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001146&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001146</item>
+         <item attribuut="Document-id">0000019532</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 133</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Wiebenga (VVD) over een zestienjarig meisje dat door de Sovjet-autoriteiten wordt verhinderd zich bij haar ouders in Nederland te voegen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 133</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">133</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Wiebenga</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-09-27</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Kok</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-11-07</item>
+         <item attribuut="Beginpagina">271</item>
+         <item attribuut="Eindpagina">272</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="271" allpagenumbers="271" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1991"/>
+      <vraagdata vraagnummer="133" onderwerp="een zestienjarig meisje dat door de Sovjet-autoriteiten wordt verhinderd zich bij haar ouders in Nederland te voegen." indiendatum="1991-09-27">
+         <vrager partij="VVD" oorsprong="parlement">Wiebenga</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="7 november 1991), zie ook Aanhangsel Handelingen, nr. 83, Vergaderjaar 1991-1992">
+         <antwoorder functie="minister" ministerie="Buiten– landse Zaken a.i.">Kok</antwoorder>
+         <mede-antwoorder>de staatssecretaris van Justitie</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Kent u berichten als zou het zestien– jarig meisje Olga Bondarenko, wonende te Minsk, door de Sovjet– autoriteiten stelselmatig en zonder opgaaf van redenen worden verhinderd zich te voegen bij haar ouders, die in Nederland verblijven als volledig erkend vluchteling?' </vraag>
+      <vraag nummer="2">Erkent u, dat dit in flagrante strijd is met de slotacte van Helsinki alsmede met het in de mensenrechtenver– dragen opgenomen recht op gezins– hereniging? </vraag>
+      <vraag nummer="3">Erkent u, dat in een geval als dit natuurlijk niet het staatsbelang van de Sovjet-Unie mag prevaleren, maar dat het belang van het kind voorgaat? </vraag>
+      <vraag nummer="4">Is de regering bereid - en wel ten spoedigste - de Sovjet-autoriteiten erop te wijzen, dat deze schandelijke handelwijze onmiddellijk moet worden beëindigd, door aan het meisje de benodigde uitreispapieren te verschaffen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Zie o.m. schriftelijke vragen van het lid van het Europese Parlement mevrouw J Larive van 22 augustus jl</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1 en 4">Deze kwestie heeft reeds geruime tijd onze actieve aandacht. Meermalen is er bij de Sowjet– autoriteiten op aangedrongen, Olga Bondarenko toestemming te verlenen om zich bij haar ouders te voegen. Ook tijdens de onlangs te Moskou gehouden CVSE-conferentie over de Menselijke Dimensie is deze kwestie aan de orde gesteld tegenover de Sowjet-delegatie. De indruk bestaat dat de recente ontwikkelingen in de Sowjet-Unie, waardoor een aantal bevoegdheden van de centrale autoriteiten is overgeheveld naar de republieken, van invloed zijn op de behandeling van deze zaak. Om die reden is inmiddels ook bij de autoriteiten van Wit-Rusland aangedrongen op het verlenen van een uitreisvergunning aan Olga Bondarenko. De Neder– landse bemoeienissen terzake zullen uiteraard onverminderd worden voortgezet. Inderdaad wordt in de Slotakte van Helsinki een positieve benadering ten aanzien van gezinshereniging aanbe– volen, evenals in het Slotdocument van Wenen. Bovendien is hier ook het recht om zijn of haar land te verlaten in het geding. </antwoord>
+      <antwoord nummer="3"/>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

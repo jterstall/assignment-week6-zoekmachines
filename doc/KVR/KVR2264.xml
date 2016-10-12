@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Rosenmöller (GroenLinks) over misbruik van de WSW. (Ingezonden 15 november 1995); Antwoord</item>
+         <item attribuut="Bestand">14Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR2264
+</item>
+         <item attribuut="Inhoud">Betreft een artikel over mogelijke misbruik door DSM van de Wet Sociale Werkvoorziening.</item>
+         <item attribuut="Rubriek">Sociale zekerheid (Arbeidsongeschiktheidsvoorzieningen (Ziektewet, WAO, AAW, IOAW, IOAZ)) Sociale zekerheid (Bijstand (ABW, RWW, Wet Sociale Werkvoorziening))</item>
+         <item attribuut="Trefwoorden">Sociale werkvoorziening</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 1995-1996, nr. 332, Tweede Kamer</item>
+         <item attribuut="Afkomstig_van">Sociale Zaken en Werkgelegenheid</item>
+         <item attribuut="Indiener">
+            <persoon partij="GroenLinks">Rosenmöller</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1995-12-11</item>
+         <item attribuut="Datum_indiening">1995-11-15</item>
+         <item attribuut="Document-id">KVR2264</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1995–1996" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="675" allpagenumbers="675" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1995–1996, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgeverij Plantijnstraat ’s-Gravenhage 1995"/>
+      <vraagdata vraagnummer="332" onderwerp="" indiendatum="1995-11-15">
+         <vrager partij="GroenLinks" oorsprong="parlement">Rosenmöller</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1995-12-11">
+         <antwoorder functie="minister" ministerie="Sociale Zaken en Werkgelegenheid">Melkert</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Kent u het artikel «De WSW is het afvoerriool van DSM»? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Kan gesproken worden van misbruik van de WSW ten gunst van DSM? Zo neen, waarom niet? </vraag>
+      <vraag nummer="3">Komt dergelijk misbruik, voor zover uw ministerie bekend, ook elders voor? </vraag>
+      <vraag nummer="4">Bent u voornemens maatregelen te treffen om dergelijk misbruik tegen te gaan? Zo ja, welke? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1">De Limburger van 11 november 1995 WSW = Wet Sociale Werkvoorziening</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2" voetnoot="1 2">Tot en met het vergoedingsjaar 1992 is geen misbruik van de WSW bij de betreffende Bestuurlijke Eenheid geconstateerd. Wel geconstateerde tekortkomingen hebben geleid tot een reactie in het kader van het toezicht. Het (reguliere) toetsingsonderzoek over het vergoedingsjaar 1993, dat uitgevoerd wordt door de rijksconsulent sociale zekerheid, is nog niet afgerond. Hierbij zal worden gehandeld conform het beleid, zoals neergelegd in de nota «Uitgangspunten en normering toetsings- en maatregelenbeleid», aan u kenbaar gemaakt middels brief van 17 juli 1992 <voetnoot nummer="1"/>en aangevuld middels nota 16 juli 1993 <voetnoot nummer="2"/>. Overigens merk ik op dat sinds de invoering van het experiment Budgetfinanciering, Decentralisatie, Deregulering (BDD) het toezicht van de rijksoverheid zich beperkt tot een rechtmatige en doeltreffende uitvoering van de wet door de gemeenten. Ten aanzien van de toelatingsprocedure tot de sociale werkvoorziening betekent dit dat wordt vastgesteld of aan de wettelijke verplichtingen is voldaan. Er vindt geen beoordeling plaats van de inhoudelijke indicatiestelling. De inhoudelijke indicatiestelling is een verantwoordelijkheid van de gemeenten. </antwoord>
+      <antwoord nummer="3 en 4">Uit het antwoord op de vorige vraag blijkt dat niet is vastgesteld dat er sprake zou zijn van misbruik. Dit is evenmin het geval bij andere bestuurlijke eenheden. Overigens zijn de voornemens m.b.t. de herziening van de WSW aan u bekend gemaakt in de notitie stroomlijning voor gesubsidieerde arbeid. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1" documenttype="Kamerstuk" kamerstuk-id="22 300 XV" documentnummer="92">Kamerstuk 22 300 XV, nr. 92</noot>
+         <noot nummer="2" documenttype="Kamerstuk" kamerstuk-id="22 800 XV" documentnummer="82">Kamerstuk 22 800 XV, nr. 82</noot>
+      </noten>
+   </antwoorden>
+</kvr>

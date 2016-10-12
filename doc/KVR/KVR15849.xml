@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Te Veldhuis en Voûte-Droste (beiden VVD) aan de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer over een noodwet Kerncentrale Borssele. (Ingezonden 30 mei 2002); Antwoord</item>
+         <item attribuut="Bestand">13Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR15849
+</item>
+         <item attribuut="Inhoud">Vragen over het voornemen van minister Pronk (VROM) tot een noodwet om de kerncentrale Borssele op 1 januari 2004 te kunnen sluiten.</item>
+         <item attribuut="Rubriek">Energie, water en grondstoffen (Kernenergie)</item>
+         <item attribuut="Trefwoorden">Kerncentrales</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2001-2002, nr. 1305, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2010210830</item>
+         <item attribuut="Afkomstig_van">Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer (VROM)</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Te Veldhuis</persoon>
+            <persoon partij="VVD">Voûte-Droste</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2002-06-20</item>
+         <item attribuut="Datum_indiening">2002-05-30</item>
+         <item attribuut="Document-id">KVR15849</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2001–2002" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="2759" allpagenumbers="2759" vetnummer="2010210830" code="" lopendefooter="Tweede Kamer, vergaderjaar 2001–2002, Aanhangsel" filenaam="KVR15849" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2002"/>
+      <vraagdata vraagnummer="1305" onderwerp="" indiendatum="2002-05-30">
+         <vrager partij="VVD" oorsprong="parlement">Te Veldhuis</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Voûte-Droste</vrager>
+         <vraagt-aan>de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2002-06-20">
+         <antwoorder functie="minister" ministerie="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer">Pronk</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Is het waar dat u een «noodwet» c.q. lex specialis hebt voorbereid om de Kerncentrale Borssele per 1 januari 2004 te (kunnen) sluiten? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Is de realiteit van de nieuwe politieke verhoudingen voor u (g)een reden om in uw huidige demissionaire positie af te zien van het daadwerkelijk indienen van een dergelijke politieke «noodwet»? </vraag>
+      <vraag nummer="3">Is – naast de nieuwe politieke realiteit van Nederland – het besluit van Finland om over te gaan tot de bouw van een geheel nieuwe kerncentrale een indicatie voor de herwaardering van kernenergie, mede omdat kernenergie een aanzienlijke reductie van CO -uitstoot oplevert en daarmee een vermindering van het broeikaseffect en de klimaatverandering? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="2"/>
+         <noot nummer="1" datum="2002-05-24" bron="PZC">PZC, 24 mei 2002</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Helaas wel. </antwoord>
+      <antwoord nummer="3">Het besluit van Finland vormt geen reden tot wijziging van het huidige beleid. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

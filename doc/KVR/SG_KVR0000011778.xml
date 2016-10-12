@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001474</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001474&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001474</item>
+         <item attribuut="Document-id">0000011778</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 544</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Schriftelijke vragen van het lid Schutte (GPV) over het aantal aangiften van fraude met bijstandsuitkeringen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 544</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">544</item>
+         <item attribuut="Indiener">
+            <persoon partij="GPV">Schutte</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-04-14</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Hirsch Ballin</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-05-06</item>
+         <item attribuut="Beginpagina">1113</item>
+         <item attribuut="Eindpagina">1116</item>
+         <item attribuut="Omvang">4 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1113" allpagenumbers="1113 1114 1115" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="544" onderwerp="het aantal aangiften van ïraude met bijstandsuitkeringen." indiendatum="1993-04-14">
+         <vrager partij="GPV" oorsprong="parlement">Schutte</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-05-6">
+         <antwoorder functie="Minister" ministerie="Justitie">Hirsch Ballin</antwoorder>
+         <mede-antwoorder>de staatssecretaris van Sociale Zaken en Werkgelegenheid</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1">Hebben de invoering van het sofi-nummer bij de gemeentelijke sociale diensten en de koppelmg van de bestanden van sociale diensten en belastingdienst geleid tot een forse groei van het aantal aangiften van fraude met bijstandsuitkeringen? Wordt een verdere toename verwacht wanneer de koppeling met de Informatiseringsbank zal zijn gerealiseerd? </vraag>
+      <vraag nummer="2">Welke organisatorische maatregelen (inzet van mensen en materieel) heeft het openbaar ministerie getroffen om deze te voorziene toename op een goede manier het hoofd te kunnen bieden? </vraag>
+      <vraag nummer="3">Waarom is de richtlijn voor het strafvorderingsbeleid inzake fraude met sociale uitkeringen met ingang van 1 april 1993 gewijzigd, met dien verstande, dat het bedrag waaronder slechts een transactie plaatsvindt is verdubbeld van f 6000,- naar f 12000,-?' </vraag>
+      <vraag nummer="4">Heeft over de aanpassing van deze richtlijn vooraf overleg plaatsgevonden met de Vereniging van Nederlandse Gemeenten en met Divosa? Zo neen, waarom niet? Zo ja, wat was het oordeel van deze instanties over de voorgenomen wijziging van de richtlijn? </vraag>
+      <vraag nummer="5">Erkent u, dat verhoging van het grensbedrag voor transacties negatieve gevolgen heeft voor de preventieve werking die uitgaat van een mogelijke strafvervolging, mede omdat in de praktijk het opleggen van een administratieve sanctie feitelijk weinig of geen betekenis heeft vanwege het ontbreken van voldoende draagkracht om zowel de ten onrechte ontvangen uitkering terug te betalen als om de sanctie te voldoen? </vraag>
+      <vraag nummer="6">Welke alternatieve mogelijkheden kan het Openbaar Ministerie bieden om ook sociale zekerheidsfraude tussen de f 6 000,- en f 12 000,- te bestrijden c.q. te doen bestraffen? </vraag>
+      <vraag nummer="7">Bent u niet van oordeel, dat de genoemde wijziging van de richtlijn vervolging sociale zekerheidsfraude op dit moment precies het verkeerde signaal is, indien niet tevens aanvullende mogelijkheden tot fraudebestrijding worden geboden? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Staatscourant 31 maart1993</noot>
+         <noot nummer="2"> Aangezien het Openbaar Ministerie fraudebestrijding in 1993 als prioriteit hanteert (zie bijlage 22 Miljoenennota 1993, Kamerstuk 22800, nr. 1)</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="6"> mei  1993) </antwoord>
+      <antwoord nummer="1" voetnoot="2">De invoering van het sofi-nummer bij de gemeentelijke sociale diensten maakt het sinds kort mogelijk dat de belastingdienst op grote schaal gegevens verstrekt aan de sociale diensten. Eind 1992 hebben voor het eerst alle sociale diensten informatie ontvangen over cliënten die in het daaraan voorafgaande jaar, naast een periode van bijstand, ook over een inkomstenbron beschikten uit of in verband met arbeid, waarvoor premie– en loonbelasting is betaald. Voorheen vond dergelijke gegevensverstrekking ook wel plaats, doch slechts in beperkte mate en uitsluitend op verzoek van de sociale dienst. De eerste resultaten van de verwerking van die belastingsignalen zijn weergegeven in onze brief van 3 december 1992 aan de voorzitter van de Bijzondere Commissie Misbruik en Oneigenlijk gebruik'. Een concreter inzicht van de omvang van deze fraude zal later dit jaar ontstaan uit de rapportages van de gemeenten aan de Rijksconsulenten. Hierbij zal ook worden aangegeven in hoeveel gevallen van geconstateerde fraude aangifte is gedaan bij het openbaar ministerie. Een stijging van het aantal aangiften zal zeker plaatsvinden. Deze stijging zal in eerste instantie groot zijn. uitkering», waarvan melding is gemaakt in het mondeling ISMO overleg van 16 december 1992 <voetnoot nummer="2"/>. Vanaf 1 april 1993 worden schriftelijk nieuwe bijstandsaanvragen ter verificatie getoetst aan het WSF-bestand. Tevens wordt gewerkt aan een geautomatiseerde vorm van gegevensuitwisseling waarbij niet alleen bij aanvang van de uitkering wordt geverifieerd, doch ook tijdens de duur van de uitkering verificatie plaatsvindt. De frequentie van uitwisseling is nog voorwerp van overleg, maar gestreefd wordt naar een zes-maandelijkse cyclus. Het aantal aangiften als gevolg van deze koppeling zal naar verwachting stijgen. Deze verhoging zal echter van tijdehjke aard zijn. Nadat de bestanden op elkaar zijn aangepast en een verificatie zowel vooraf als periodiek gedurende de uitkering plaatsvindt, zal het totale benadelingsbedrag niet tot een zodanige hoogte oplopen dat aangifte van fraude bij het openbaar ministerie plaatsvindt, tenzij sprake is van recidive. Voor wat betreft de gegevensuitwisseling met het CRI-HO-register is eerst een wetswijziging nodig om dit verkeer mogelijk te maken. Deze wetswijziging is in voorbereiding. Ook hier zal naar verwachting als gevolg van de bestandsvergelijking een tijdelijke verhoging in het aantal aangiften plaatsvinden. </antwoord>
+      <antwoord nummer="2">Zoals het kabinet in bijlage 22 van de Miljoenennota 1993 heeft aangekondigd worden voor de verwerkingscapaciteit van het OM en gestuurd bij onze hierboven genoemde brief van 3 december 1992. Op basis van de prognoses zijn met de arrondissementen managementafspraken gemaakt, waarbij o.m. aan de arrondissementen middelen zijn toebedeeld en afspraken zijn gemaakt over aantallen af te handelen strafzaken betreffende fraude met sociale uitkeringen. In de Voortgangsrapportage fraudebestrijding 1993 zal hierover nader verslag worden gedaan. </antwoord>
+      <antwoord nummer="3 en 6" voetnoot="3">De richtlijn voor het strafvorderingsbeleid inzake fraude met sociale uitkeringen moet in samenhang worden bezien met de nieuwe richtlijn voor het doen van aangifte of het opmaken van proces verbaal ter zake van fraude met sociale uitkeringen <voetnoot nummer="3"/>. De richtlijn voor het strafvorderingsbeleid vormt een complement op de richtlijn voor het doen van aangifte. Beide richtlijnen zijn op 1 april jl. in werking getreden en vervangen de richtlijnen sociale zekerheidsfraude van 1 juni 1989. De uitgangspunten in de nieuwe richtlijnen zijn de volgende: - bij een benadelingsbedrag beneden de f 6000,- wordt in beginsel geen aangifte gedaan of proces-verbaal opgemaakt, doch passen de uitvoeringsorganen een administratieve sanctie toe; - bij een benadelingsbedrag boven de f 12 000,- vindt in beginsel steeds aangifte plaats, gevolgd door een strafrechtelijke reactie; in die gevallen zal door de officier van justitie een gevangenisstraf dan wel het verrichten van onbetaalde arbeid geëist. Daarnaast is er een speciale regeling voor recidive. Uitdrukkelijk zij hier vermeld dat daarnaast in alle gevallen het ten onrechte uitgekeerde bedrag zal worden teruggevorderd. Ten opzichte van de vorige richtlijnen is het drempelbedrag om aangifte te doen opgetrokken van f 1200,- naar f 6000,-. Transactie was destijds voorzien bij een delictsduur van 8 tot 16 weken en een benadelingsbedrag tussen de f 2400,- en f 4800,- en is thans, zoals uit het voorafgaande blijkt voorzien bij een benadelingsbedrag tussen de f 6000,- en f 12 000,-, Verwezen zij verder naar de beantwoording van vraag 5 en 7. </antwoord>
+      <antwoord nummer="4">Voor de herziening van de richtlijnen is een projectgroep ingesteld onder voorzitterschap van Advocaat-Generaal mevrouw mr E. E. van der Bijl. Aan deze projectgroep namen verder vertegenwoordigers deel van de Federatie voor Bedrijfsverenigingen, Sociale Verzekeringsraad, Vereniging voor Nederlandse gemeenten, Divosa en de ministeries van Sociale Zaken en Werkgelegenheid en van Justitie. De richtlijn voor het doen van aangifte of het opmaken van proces-verbaal is in de projectgroep totstandgekomen. Over het eindresultaat bestond overeenstemming in de projectgroep. De richtlijn voor het strafvorderingsbeleid is binnen het openbaar ministerie tot stand gekomen in verband met de wordt gezien als het sluitstuk in de handhavingsketen. De maatregelen voorzien onder meer in een versterking van de organisatie van de uitvoeringsorganen ter verbetering van de verificatie en controle en in een completering van de bevoegdheden van deze organisaties om handhavend op te treden. Zo zijn in voorbereiding een wetsvoorstel administratieve boetes - dat de uitvoeringsorganen de mogelijkheid biedt een administratieve sanctie op te leggen, ook indien de uitkeringsrelatie met de betrokkene is beëindigd - en een wetsvoorstel terugvordering bij sociale verzekeringswetgeving - dat de uitvoeringsorganen in begmsel verplicht tot terugvordering over te gaan en daarvoor ook extra instrumenten geeft. De gemeenten zijn sinds 1 augustus 1992 al verplicht ten onrechte genoten bijstand terug te vorderen. In die gevallen waar het uitvoeringsorgaan wegens het ontbreken van een wettelijke bevoegdheid (nog) geen administratieve boete kan opleggen dient aangifte te worden gedaan dan wel proces-verbaal te worden opgemaakt. Een verhoging van het drempelbedrag voor het doen van aangifte of het opmaken van proces-verbaal ligt in de lijn van deze uitgangspunten. Bij de bepaling van de grenzen waarbinnen administratieve afdoening verantwoord is, is tevens rekening gehouden met de mogelijkheid binnen een redelijke termijn een administratieve sanctie of boete naast de terugvordering te effectueren. Overigens moet worden preventieve werking van het overheidsbeleid juist bevorderd worden. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Kamerstuk 17 050, nr. 165, Vergaderjaar 1992-1993</noot>
+         <noot nummer="2"> Kamerstuk 17 050, nr 172, Vergaderjaar 1992-1993</noot>
+         <noot nummer="3"> Kamerstuk 22457, nr. 4, Vergaderjaar 1992-1993</noot>
+      </noten>
+   </antwoorden>
+</kvr>

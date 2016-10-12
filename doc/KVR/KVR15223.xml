@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="10">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Hindriks (PvdA) aan de staatssecretaris van Economische Zaken over patenten op Hyperlink. (Ingezonden 18 februari 2002); Antwoord</item>
+         <item attribuut="Bestand">17Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR15223
+</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van het artikel "British Telecom bezit patent op Hyperlink" in Algemeen Dagblad van 12 februari 2002, en het voorkomen van triviale software octrooien.</item>
+         <item attribuut="Rubriek">Burgerlijk recht en burgerlijk procesrecht (Intellectueel en industrieel eigendom) Communicatie, media en informatievoorziening (Hard- en software) Communicatie, media en informatievoorziening (Netwerken)</item>
+         <item attribuut="Trefwoorden">Computernetwerken Octrooien Software</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2001-2002, nr. 764, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2010206450</item>
+         <item attribuut="Afkomstig_van">Economische Zaken (EZ)</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Hindriks</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2002-03-06</item>
+         <item attribuut="Datum_indiening">2002-02-18</item>
+         <item attribuut="Document-id">KVR15223</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2001–2002" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1601" allpagenumbers="1601 1602" vetnummer="2010206450" code="" lopendefooter="Tweede Kamer, vergaderjaar 2001–2002, Aanhangsel" filenaam="KVR15223" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2002"/>
+      <vraagdata vraagnummer="764" onderwerp="" indiendatum="2002-02-18">
+         <vrager partij="PvdA" oorsprong="parlement">Hindriks</vrager>
+         <vraagt-aan>de staatssecretaris van Economische Zaken</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2002-03-6">
+         <antwoorder functie="staatssecretaris" ministerie="Economische Zaken">Ybema</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="10">
+      <vraag nummer="1" voetnoot="1">Heeft u kennis genomen van het artikel <voetnoot nummer="1"/>over patenten op Hyperlink? </vraag>
+      <vraag nummer="2">Hoe beoordeelt U deze ontwikkeling? </vraag>
+      <vraag nummer="3">Beschouwt u het patent op Hyperlink als een zogenaamd triviaal patent dat niet voldoet aan de technische en nieuwheidseisen die in Europa gelden? Zo neen, waarom niet? </vraag>
+      <vraag nummer="4">Acht U het mogelijk dat onder huidige of toekomstige patentwet- en regelgeving in Nederland of Europa patenten worden verleend die naar hun aard overeenkomen met het Amerikaanse British Telecom patent op Hyperlink? </vraag>
+      <vraag nummer="5">Wat is de stand van zaken met betrekking tot het Europees Octrooi en de toepassing van artikel 52 van het Europees Octrooiverdrag? </vraag>
+      <vraag nummer="6" voetnoot="2">Op welke wijze heeft u een actieve rol gespeeld <voetnoot nummer="2"/>om triviale octrooien tegen te gaan en te voorkomen? </vraag>
+      <vraag nummer="7" voetnoot="3">Op welke wijze heeft u vorm gegeven aan de door u toegezegde <voetnoot nummer="3"/>initiatieven om scherpe criteria ingevoerd te krijgen? </vraag>
+      <vraag nummer="8">Op welke termijn verwacht u dat bestaande triviale software octrooien ongeldig worden verklaard? Bent u voornemens daartoe acties te ondernemen? </vraag>
+      <vraag nummer="9">Op welke termijn verwacht u dat Nederlandse voorstellen voor het invoeren van scherpe criteria in Europa ingang kunnen vinden? Welke acties bent u voornemens daartoe te ondernemen? </vraag>
+      <vraag nummer="10">Bent u bereid nader overleg te voeren met de Vereniging Open Source Nederland en de FENIT over het voorkomen van triviale software-octrooien? Kan de Kamer berichten over dat overleg tegemoet zien? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="2002-02-12" bron="Algemeen Dagblad" titel="British Telecom bezit patent op Hyperlink">Algemeen Dagblad, 12 februari 2002: «British Telecom bezit patent op Hyperlink»</noot>
+         <noot nummer="2" datum="2001-03-14" bron="Kamerstuk 21 670 nr. 14, verslag van een Algemeen Overleg gehouden">Kamerstuk 21 670 nr. 14, verslag van een Algemeen Overleg gehouden, 14 maart 2001</noot>
+         <noot nummer="3" titel="Volgens de staatssecretaris is deze samenvatting correct.">Uit Kamerstuk 21 670 nr. 14 «De staatssecretaris gaat niet akkoord met wijzigingen van het verdrag zonder verbeterde regels. Hij gaat de strijd in Europa aan tegen triviale octrooien. Hij zal initiatieven nemen waar het gaat om scherpe criteria voor het vernauwen van de mazen, in overleg met onder andere het BIE, de FENIT en de VOSN. Hij zal ook kijken naar verkorting van de termijn. Er komt voorlichting aan het MKB en voor het reces of in ieder geval vlak daarna zal er een evaluatie komen.» En «Volgens de staatssecretaris is deze samenvatting correct.»</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="10">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2" voetnoot="1">Het octrooi op hyperlinks is alleen mogelijk dankzij een zeer soepele toepassing van de voorwaarden voor octrooiverlening voor software, zoals dat in de VS gebeurt. Met mijn brief, 5 december 2001 (kenmerk I/II/KB/01059514, p. 8, zie ook het verslag AO <voetnoot nummer="1"/>) heb ik mij kritisch opgesteld tegenover een dergelijke soepele toepassing van de voorwaarden. </antwoord>
+      <antwoord nummer="3">Er bestaan aanzienlijke verschillen in de toepassing van de voorwaarden voor octrooiverlening, met name tussen de EG en de VS. In de VS wordt vooral minder streng gekeken naar de voorwaarde dat de uitvinding een technisch karakter moet hebben. De vraag of een octrooi «triviaal» is, in die zin dat het slechts om een mineure uitvinding gaat die gezien de hoogte van de inventiviteit niet voor octrooibescherming in aanmerking had mogen komen, is lastig te beantwoorden, omdat die vraag beoordeeld moet worden naar het moment waarop het octrooi werd aangevraagd. Achteraf, met kennis van de voortschrijdende techniek, lijkt een uitvinding misschien wel «triviaal», terwijl ze dat op het moment van aanvraag niet was. (Zie de EZ-publicatie De juridische en economische aspecten van het softwareoctrooi, publicatienr. 01/20, p. 15 en 28, aangeboden aan de Kamer met mijn hierboven genoemde brief, 5 december 2001). </antwoord>
+      <antwoord nummer="4">Dat is afhankelijk van de vraag of de beoordelende instantie van mening is dat er naar nationale en EOV-maatstaven sprake is van een uitvinding, die nieuw, inventief en toepasbaar op het gebied van de nijverheid is en die een technisch effect heeft. Ik ben van mening dat dit vooralsnog ook voor toekomstige wetgeving zal moeten blijven gelden. </antwoord>
+      <antwoord nummer="5">Er ligt sinds 20 februari een voorstel van de Europese Commissie voor een richtlijn betreffende de octrooieerbaarheid van in computer geïmplementeerde uitvindingen. Deze richtlijn heeft tot doel de nationale octrooiwetten te harmoniseren en de interpretatie van de octrooieringsvoorwaarden transparanter te maken. Naar aanleiding van de uitkomsten van de onderhandelingen over deze ontwerp-richtlijn zouden de staten die partij zijn bij het Europees Octrooiverdrag kunnen overwegen artikel 52 lid 2 onder c van het Europees Octrooiverdrag aan te passen. </antwoord>
+      <antwoord nummer="6">Zoals toegezegd tijdens het AO van 14 maart 2001, heb ik diverse stappen ondernomen om een duidelijk beeld te krijgen van de problematiek van de softwareoctrooien. Een van die stappen betrof een discussiebijeenkomst met VOSN/FENIT naar aanleiding van hun voorstellen voor criteria voor de octrooirechtelijke bescherming voor computerprogrammatuur. Verder heb ik onderzoek laten verrichten naar de toepasbaarheid van de WBSO-criteria op aanvragen van softwareoctrooien. Meer in het algemeen heb ik diverse onderzoeken over het softwareoctrooi uitgezet, waarvan de uitkomsten zijn neergelegd in de EZ-publicatie De juridische en economische aspecten van het softwareoctrooi, publicatienr. 01/20 (u aangeboden met mijn hierboven genoemde brief, 5 december 2001). Hierin zijn ook mijn bevindingen over de VOSN/FENIT- en WBSO-voorstellen verwerkt. Deze publicatie is aan de orde geweest tijdens het AO van 13 december 2001. Dankzij die onderzoeken zal het mogelijk zijn om in de discussie over de EG-richtlijn over octrooiering van softwareoctrooien met goed onderbouwde argumenten ons standpunt uit te dragen. </antwoord>
+      <antwoord nummer="7">Zoals ik heb toegezegd, heb ik onderzoek gedaan naar de criteria die zijn voorgesteld door VOSN en FENIT, er is met hen een discussiebijeenkomst op mijn ministerie geweest en ik heb laten onderzoeken of de WBSO-criteria toepasbaar zijn op aanvragen van softwareoctrooien (zie de EZ-publicatie De juridische en economische aspecten van het softwareoctrooi, publicatienr. 01/20, aangeboden met mijn hierboven genoemde brief, 5 december 2001, zie p. 8–9). Met behulp van deze bevindingen zal ik in EG-verband onderhandelen over de EG-richtlijn over softwareoctrooien. Uit dat onderzoek is overigens gebleken dat er weinig mogelijkheden zijn – zowel praktisch gezien als binnen de verplichtingen die met name het TRIPs-verdrag (Verdrag inzake de handelsaspecten van de intellectuele eigendom, bijlage bij het Wereldhandelsverdrag) ons opleggen – om de bestaande, internationaal aanvaarde en vastgelegde octrooicriteria verder aan te scherpen. </antwoord>
+      <antwoord nummer="8">Het ongeldig verklaren van reeds bestaande, zogenaamde triviale octrooien is voorbehouden aan de rechter. Ik zal mij wel sterk maken tijdens de onderhandelingen over de voorgestelde EG-softwarerichtlijn om de verlening van octrooien voor software zo transparant mogelijk te maken, binnen de grenzen van hetgeen verdragsrechtelijk (TRIPs-Verdrag) mogelijk is. </antwoord>
+      <antwoord nummer="9">Zie het antwoord op vraag 8. </antwoord>
+      <antwoord nummer="10">Ik verwijs graag naar de EZ-publicatie De juridische en economische aspecten van het softwareoctrooi, publicatienr. 01/20, naar mijn eerder genoemde brief aan uw Kamer d.d. 5 december, p. 8–9 en naar het AO van 13 december 2001. Daarin zijn de uitkomsten van de discussiebijeenkomst die met VOSN en FENIT is gehouden neergelegd en besproken. Wanneer VOSN en FENIT nieuwe voorstellen hebben voor het voorkomen van zogenaamde triviale octrooien, ben ik vanzelfsprekend te allen tijde bereid daarover met hen van gedachten te wisselen en u daar over te berichten. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1">Kamerstukken 26 628, nr. 5, pagina 9, vergaderjaar 2001–2002</noot>
+      </noten>
+   </antwoorden>
+</kvr>

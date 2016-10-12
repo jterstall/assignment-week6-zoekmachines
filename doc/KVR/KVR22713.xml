@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="4">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Luchtenveld (VVD) aan de ministers van Verkeer en Waterstaat en van Justitie over ongevalsdata. (Ingezonden 7 maart 2005); Antwoord</item>
+         <item attribuut="Bestand">17Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR22713
+</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van artikel 'Belangrijke ongevalsdata tot nu toe ongebruikt' (Vakblad Incident, 25 februari 2005), over het belang van het gebruik van gegevens in de Event Data Recording Systems (EDRs) voor het onderzoek (door ongevalsanalisten van de politie) naar de toedracht van een ongeval.</item>
+         <item attribuut="Rubriek">Criminaliteit en openbare orde (Ongevallenpreventie en -hulpverlening) Criminaliteit en openbare orde (Politie)</item>
+         <item attribuut="Trefwoorden">Ongevallen Politie Verkeer</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2004-2005, nr. 1364, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2040510040</item>
+         <item attribuut="Afkomstig_van">Verkeer en Waterstaat (VW)</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Luchtenveld</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2005-04-12</item>
+         <item attribuut="Datum_indiening">2005-03-07</item>
+         <item attribuut="Document-id">KVR22713</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2004–2005" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="2895" allpagenumbers="2895" vetnummer="2040510040" code="0405tkkvr1364" lopendefooter="Tweede Kamer, vergaderjaar 2004–2005, Aanhangsel" filenaam="KVR22713" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2005"/>
+      <vraagdata vraagnummer="1364" onderwerp="" indiendatum="2005-03-7">
+         <vrager partij="VVD" oorsprong="parlement">Luchtenveld</vrager>
+         <vraagt-aan>de ministers van Verkeer en Waterstaat en van Justitie</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2005-04-12">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">Peijs</antwoorder>
+         <mede-antwoorder>de minister van Justitie</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Hebt u het artikel «Belangrijke ongevalsdata tot nu toe ongebruikt» gelezen? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Deelt u de mening dat de gegevens die zijn opgeslagen in de Event Data Recording Systems (EDRs) een waardevolle bijdrage kunnen leveren aan het onderzoek naar de toedracht van een ongeval? </vraag>
+      <vraag nummer="3">Is het waar dat de data die door EDRs worden opgeslagen, juridisch onder dezelfde noemer te plaatsen zijn als bijvoorbeeld de gegevens op een tachograafschijf of de remsporen, die op het wegdek staan? Is het tevens waar dat de ongevalsanalisten van de politie de bevoegdheid hebben om deze gegevens uit te lezen? </vraag>
+      <vraag nummer="4">Kunnen deze gegevens, gelet op de wet, nu reeds worden betrokken bij het onderzoek naar de toedracht van een ongeval? Zo neen, bent u bereid om de desbetreffende wetgeving hierop aan te passen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="2005-02-25" bron="Vakblad Incident">Vakblad Incident, 25 februari 2005</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Ja. Overigens kunnen de gegevens, naast het gebruik bij de analyse van een specifiek ongeval, ook zicht geven op andere, meer algemene zaken die kunnen bijdragen tot verbetering van de verkeersveiligheid. </antwoord>
+      <antwoord nummer="3">In geval van gewone controles is er een verschil tussen de gegevens van een tachograaf en een EDRS. De gegevens die zijn opgeslagen in een tachograaf kunnen door de opsporingsambtenaren van de Arbeidsinspectie, van de Inspectie Verkeer en Waterstaat of van de politie worden ingezien op grond van de bevoegdheid die hen daartoe expliciet in het Arbeidstijdenbesluit Vervoer (voorheen het Rijtijdenbesluit) is toegekend, uitsluitend ter handhaving van de rij- en rusttijden van de chauffeur. Met de gegevens in een EDRS ligt dat iets anders. In geval van gewone controles is de bestuurder en/of eigenaar van het voertuig niet verplicht die gegevens beschikbaar te stellen. In geval van een onderzoek, bijvoorbeeld in verband met een ongeval kan de opsporingsambtenaar overgaan tot de inbeslagneming van een voorwerp dat kan dienen om de waarheid aan de dag te brengen. Zowel de tachograaf als de EDRS is in zo’n geval vatbaar voor inbeslagneming door de opsporingsambtenaar. Personen die daartoe opgeleid zijn kunnen de gegevens van een EDRS uitlezen. </antwoord>
+      <antwoord nummer="4">Ja. Zoals reeds uit het antwoord op vraag 3 blijkt kunnen de gegevens worden uitgelezen en worden gebruikt voor de analyse van het ongeval. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

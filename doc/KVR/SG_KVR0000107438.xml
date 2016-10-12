@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001663</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001663&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001663</item>
+         <item attribuut="Document-id">0000107438</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 630</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Worrell (P.v.d.A.) over een pasjesregeling.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 630</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">630</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Worrell</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-03-12</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Dees</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-04-22</item>
+         <item attribuut="Beginpagina">1253</item>
+         <item attribuut="Eindpagina">1254</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 6 - 1 9 8 7 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="1" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="630" onderwerp="een pasjesregeling." indiendatum="12 maart 1987)">
+         <vrager partij="PvdA" oorsprong="parlement">Worrell</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="22 april 1987). 1. Ja. 2. De brief van de minister van Binnen- landse Zaken waarin schriftelijk antwoord wordt gegeven op de openstaande vragen is verzonden aan de Tweede Kamer op 13 maart 1987. Het benodigd interdepartemen- taal overleg en een vertraging in de administratieve afwikkeling bij het ministerie van Binnenlandse Zaken hebben sneller antwoord belet. 3. Ja. 4, 5 en 6 Van de zijde van de ministeries van Welzijn, Volksgezondheid en Cultuur, van Binnenlandse Zaken en van Justitie is, zowel binnen het Landelijk Overleg Voetbalvandalisme als daar- buiten, een actieve bijdrage geleverd aan de gedachtenvorming en de ontwikkeling van een door de voetbalorganisaties in te stellen pasjesregeling. Onder meer deze bijdrage heeft geresulteerd in een standpuntbepaling van het LOV in haar vergadering van 11 maart 1987. Het op basis van deze vergadering geformuleerde advies hopen wij spoedig te ontvangen. Op grond van dat advies zullen wij ons standpunt terzake bepalen en daarover de Tweede Kamer informeren. Afhanke- lijk van dit advies kan worden bepaald welke kosten met invoering van (een variant van) een pasjesrege- ling gemoeid zijn en welke bijdrage daaraan van de zijde van de rijksover- heid mogelijk is.">
+         <antwoorder functie="staatssecretaris" ministerie="Welzijn, Volksgezondheid en Cultuur">D e e s</antwoorder>
+         <mede-antwoorder>de Ministers van Binnenlandse Zaken en van Justitie</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1 ">Herinneren de bewindslieden zich,  dat bij het mondeling overleg van 18  december 1986 is toegezegd, dat  nog een aantal vragen schriftelijk zou  worden beantwoord? </vraag>
+      <vraag nummer="1 "/>
+      <vraag nummer="2 ">Zo ja, welke zijn de redenen waardoor  het antwoord zo lang op zich laat  wachten?  </vraag>
+      <vraag nummer="3 ">Herinnert u zich de toezegging, dat u  het LOV zou vragen met voorrang te  adviseren o.a. inzake een pasjesrege- ling?  </vraag>
+      <vraag nummer="4 ">Bent u voornemens, zonder dat een  advies van het LOV is ontvangen, een  bijdrage te leveren aan een in te  stellen pasjesregeling door het  betaalde voetbal?  </vraag>
+      <vraag nummer="5 ">Zo ja,  a. welke zijn de kosten, die daarmee  gemoeid zijn;  b. door welke organisatie(s) zullen  deze kosten worden gedragen;  c. hoe hoog is de voorgenomen  bijdrage van het ministerie van  W V C ;  d. kunt u aangeven, op welke wijze  de financiering van de hierboven  genoemde pasjesregeling uit de  begroting 1987 van WVC zal  plaatsvinden, of ligt het in het  voornemen van de regering extra  middelen te vragen?  Wilt u, voordat u tot een beslissing  overgaat, vooraf deze Kamer hiervan  op de hoogte stellen?  </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Verslag mondeling overleg voetbalvanda  lisme (kamerstuk 18943, nr. 6). </noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

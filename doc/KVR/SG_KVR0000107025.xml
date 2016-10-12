@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001250</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001250&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001250</item>
+         <item attribuut="Document-id">0000107025</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 218</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Van Traa en Herfkens (beiden P.v.d.A.) over de hongerstaking van 9 Chilenen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 218</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">218</item>
+         <item attribuut="Indiener">
+            <persoon>Vam Traa</persoon>
+            <persoon partij="PvdA">Herfkens</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-11-28</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-12-04</item>
+         <item attribuut="Beginpagina">437</item>
+         <item attribuut="Eindpagina">438</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 6 - 1 9 8 7 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="218" onderwerp="de hongerstaking van 8 Chilenen." indiendatum="28 november 1986)">
+         <vrager partij="" oorsprong="parlement">Vam Traa</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Herfkens</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="4 december 1986)">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">V a n den Broek</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 ">Is in Alkmaar een groep van 8  Chilenen sinds 13 november 1986 in  hongerstaking gegaan?  </vraag>
+      <vraag nummer="2 ">Zou de minister de zorg van deze  hongerstakers omtrent de behande- ling in Chili van de volgende ter dood  veroordeelde personen: Hugo  Marchant M, Jorge Palma D, Carlos  Aranedo M en Carlos Garcia H aan  de Chileense autoriteiten over willen  brengen?  </vraag>
+      <vraag nummer="3 ">Wil de minister er op aandringen, dat  deze personen niet ter dood gebracht  worden?  </vraag>
+      <vraag nummer="4 ">Wil de minister er op aandringen, dat  het proces tegen diegenen, die  verdacht worden van de aanslag op  president Pinochet, bijgewoond  kunnen worden door internationale  waarnemers?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1 ">Blijkens hun eigen mededelingen is  op 13 november  j l . in Alkmaar een  aantal Chilenen in hongerstaking  gegaan.  2 en 3  Betrokkenen zijn op 28 november  j l .  door een militaire rechtbank in eerste  instantie ter dood veroordeeld  wegens moord op de burgemeester  van Santiago. Hun staan thans nog  beroepsmogelijkheden open. Zoals  bekend is de regering  o m humanitaire  gronden tegenstander van het ten  uitvoer leggen van de doodstraf.  Indien de doodvonnissen door de  hoogste beroepsinstantie onverhoopt  mochten worden bevestigd, zal de  regering niet nalaten er bij de  Chileense autoriteiten op aan te  dringen deze niet te voltrekken. Van  haar bezorgdheid in deze heeft de  regering reeds doen blijken.  </antwoord>
+      <antwoord nummer="4 ">De regering hecht vanouds grote  waarde aan het beginsel van de  openbaarheid van processen. Deze  opvatting wordt bij elk passende  gelegenheid uitgedragen. Zulks is  ook in het onderhavige geval  geschied.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

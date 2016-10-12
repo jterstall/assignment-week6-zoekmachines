@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="beschik." aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19931994:0001237</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001237&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001237</item>
+         <item attribuut="Document-id">0000003748</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 23</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Te Veldhuis, Verbugt en Van Rey (allen VVD) over de nieuwe bestemming van een stortplaats in één van de oude mergelgroeven.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 23</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">23</item>
+         <item attribuut="Indiener">
+            <persoon>Te Veldhuis</persoon>
+            <persoon>Verbugt</persoon>
+            <persoon>Van Rey</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-09-02</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Maij-Weggen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-09-30</item>
+         <item attribuut="Beginpagina">45</item>
+         <item attribuut="Eindpagina">46</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="45" allpagenumbers="45" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="" onderwerp="" indiendatum="">
+         <vrager partij="" oorsprong="parlement">Te Veldhuis</vrager>
+         <vrager partij="" oorsprong="parlement">Verbugt</vrager>
+         <vrager partij="" oorsprong="parlement">Van Rey</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="23">Vragen van de leden Te Veldhuis, Verbugt en Van Rey (allen WD) over de nieuwe bestemming van een stortplaats in één van de oude mergelgroeven. (Ingezonden 2 september 1993) </vraag>
+      <vraag nummer="1">Heeft de Waalse deelregering het voornemen de bestemming van een stortplaats in één van de oude mergelgroeven vlakbij de Nederlandse grens ten zuiden van Maastricht te veranderen in die van een stortplaats van ongecontroleerd chemisch afval? Wordt het lekwater van de stortplaats in de huidige vorm reeds ongezuiverd op enkele kilometers van de Nederlandse grens in de Maas geloosd? </vraag>
+      <vraag nummer="3">Bestaat het risico, dat de nieuwe bestemming van de stortplaats leidt tot verdere en ernstiger verontreiniging van de Maas? </vraag>
+      <vraag nummer="4">In hoeverre wordt gegarandeerd, dat door de nieuwe bestemming de inname van drinkwater uit de Maas geen gevaar loopt? </vraag>
+      <vraag nummer="5">Handelt de Waalse deelregermg conform de voor de Europese Gemeenschap geldende voorschriften (85/337/CEE) en eventueel overige internationale regelingen en afspraken? Zo neen, in hoeverre dreigt dan afwijking te ontstaan? Vindt over de onderhavige kwestie reeds overleg plaats tussen Belgische en Nederlandse autoriteiten? Zo neen, waarom niet? Zo ja, wat kan daarover worden meegedeeld? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+   <mededeling mededeler="Maij-Weggen" functie="minister" afdeling="Verkeer en Waterstaat" mededelingdatum="1993-09-30">Mededeling van minister Maij-Weggen (Verkeer en Waterstaat). (Ontvangen 30 september 1993) Hierbij doe ik u, mede namens mijn ambtgenoten van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Buitenlandse Zaken, het antwoord toekomen op de vragen gesteld door de leden Te Veldhuis, Verbugt en Van Rey over de nieuwe bestemming van een stortplaats in een van de oude mergelgroeven. Ik beschik thans over onvoldoende gegevens om de vragen te kunnen beantwoorden. Door de Rijkswaterstaat is de onderhavige kwestie bij de desbetreffende Waalse dienst ter sprake gebracht. Ik heb mij hierover ook schriftelijk gewend tot mijn Waalse ambtgenoot, minister Lutgen van Leefmilieu. Beantwoording van de vragen zal plaatsvinden zodra ik over de betreffende gegevens </mededeling>
+</kvr>

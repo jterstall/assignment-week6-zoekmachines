@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="de huurverhoging voorafgaan?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van 't Riet (D66) aan de staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieu over de maximale huurverhoging. (Ingezonden 11 september 2001)</item>
+         <item attribuut="Bestand">12Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V000115380
+</item>
+         <item attribuut="Inhoud">Vragen over een bericht in De Volkskrant van 8 september 2001 over een advies van een commissie om de maximale huurverhoging op een andere manier te gaan berekenen.</item>
+         <item attribuut="Rubriek">Volkshuisvesting (Woninghuren)</item>
+         <item attribuut="Trefwoorden">Woninghuren</item>
+         <item attribuut="Vindplaats">Kamervragen 2000-2001, vraagnr. 2000115380, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2000115380</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Van 't Riet</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2001-09-11</item>
+         <item attribuut="Document-id">V000115380</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2000–2001" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 2000–2001, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2001"/>
+      <vraagdata vraagnummer="2000115380" onderwerp="" indiendatum="2001-09-11">
+         <vrager partij="D66" oorsprong="parlement">Van 't Riet</vrager>
+         <vraagt-aan>de staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieu</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Kent u het bericht «Commissie wil verhoging van huren beperken»? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Is een advies aan u uitgebracht om de maximale huurverhoging op een andere manier te berekenen dan nu het geval is? Zo ja, wanneer wordt de Kamer op de hoogte gesteld van dit advies? </vraag>
+      <vraag nummer="3">Neemt u dit advies over? </vraag>
+      <vraag nummer="4">Wat zijn de redenen om niet langer het inflatiepercentage van het voorafgaande jaar als uitgangspunt te nemen voor het maximum, maar het gemiddelde inflatiepercentage van de vijf kalenderjaren die aan het jaar van </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" datum="2001-09-8" bron="De Volkskrant">De Volkskrant, 8 september 2001</noot>
+      </noten>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001337</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001337&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001337</item>
+         <item attribuut="Document-id">0000027674</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 403</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Te Veldhuis (V.V.D.), over geleden schade tengevolge van bepalingen van een gemeentelijk bestemmingsplan.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 403</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">403</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Te Veldhuis</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-12-19</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Alders</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-02-19</item>
+         <item attribuut="Beginpagina">819</item>
+         <item attribuut="Eindpagina">820</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="819" allpagenumbers="819 820" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1991"/>
+      <vraagdata vraagnummer="403" onderwerp="geleden schade tenge– volge van bepalingen van een gemeentelijk bestemmingsplan." indiendatum="19december 1990">
+         <vrager partij="VVD" oorsprong="parlement">Te Veldhuis</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="19februari 1991">
+         <antwoorder functie="minister" ministerie="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer">Alders</antwoorder>
+         <mede-antwoorder>de staatssecretaris van Landbouw, Natuurbeheer en Visserij</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1">Hebt u kennis genomen van de beslissing van Gedeputeerde Staten van Friesland' dat de gemeente Weststellingwerf aan bepaalde percelen agrarische grond een strengere beschermingsbestemming moet geven, omdat die gronden in het kader van het Relatienotabeleid beschermingswaardig zullen kunnen gaan worden? </vraag>
+      <vraag nummer="2">Vindt u het juridisch juist en beleids– matig billijk, dat Gedeputeerde Staten via de ruimtelijke ordening een dergelijke verplichting tegen de zin van een gemeente en/of grond– gebruiker(s) opleggen, zonder dat al een zogenaamde beheersvergoeding ingevolge het Relatienotabeleid met de betrokken grondgebruikers is overeengekomen, toegezegd of verzekerd? Bent u het ermee eens, dat een schadelijdende agrariër op grond van artikel 49 van de Wet op de Ruimte– lijke Ordening momenteel alléén een gemeentebestuur kan aanspreken voor geleden onevenredige schade tengevolge van bepalingen van een gemeentelijk bestemmingsplan, ook al zijn die bepalingen de gemeente tegen haar zin en onder verzet door Gedeputeerde Staten opgelegd, zoals het geval is in de in vraag 1 aangeduide situatie? </vraag>
+      <vraag nummer="4">Bent u het eens met de stelling, dat degene die bepaalt (in casu: de provincie Friesland) dan eigenlijk ook degene zou moeten zijn die betaalt, indien er onevenredige schade voor de betrokken agrariërs optreedt en die schade niet op een andere wijze wordt vergoed of is verzekerd? </vraag>
+      <vraag nummer="5">Zo ja, overweegt u dan het huidige juridische en beleidsmatige vacuüm op dit punt ongedaan te maken, bijvoorbeeld door het uitbreiden van de juridische aansprakelijkheid voor schade tot ook provinciale besturen in bovenvermelde soort van gevallen? </vraag>
+      <vraag nummer="6">Zo neen, vindt u het dan billijk, dat een situatie in stand blijft, waarin een onwillige en onvnjwillige niet-veroorzaker van schade (i.c. de gemeente) in beginsel toch op grond van art. 49 van de WRO kan worden aangesproken voor vergoeding van schade die is veroorzaakt door een ander (i.c. de provincie), die daarbij dan zelf financieel geheel buiten schot blijft? </vraag>
+      <vraag nummer="7">Bent u het ermee eens dat het in het in vraag 6 bedoelde geval in de praktijk meestal wel zo zal gaan dat géén van beide instanties tot vergoeding van schade zal overgaan en bijgevolg de gedupeerde agrariër dan tussen wal en schip terecht zal komen? Acht u dat een bevredigende situatie? </vraag>
+      <vraag nummer="8">Bent u het ermee eens, dat het karakter van vrijwilligheid, dat zo nauw verbonden is met het relatie– notabeleid van de Rijksoverheid, onder druk en spanning komt c.q. kan komen indien de provinciale overheid eenzelfde resultaat wil afdwingen via publiekrechtelijke (indirect bindende) regelingen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> 8 november 1990, RO-90-20985</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1">De beslissing, waarbij het Arob-bezwaar van zowel de gemeente als de betrokken agrariër tegen de weigering van gedepu– teerde staten om een verklaring van geen bezwaar af te geven voor het verlenen van aanlegvergunning ten behoeve van het scheuren en ploegen van de graslandpercelen in kwestie, door gedeputeerde staten ongegrond is verklaard, is mij bekend. Het is evenwel niet zo, dat deze beslissing van gedeputeerde staten nomen als indicatie voor de belang– rijke natuurwaarden van deze gronden. </antwoord>
+      <antwoord nummer="2">De koppeling die in die vraag wordt gelegd tussen het instrumentarium van  de  WRO  en  dat van  de Relatienota is onjuist. Ik wijs in dit verband op het - naar ik aanneem - U bekend zijnde rijksbeleid (Tweede Kamer, zitting 1982-1983, 14392 en 17 332, nr. 28). Kort aangegeven houdt dat in, dat de mogelijkheid voor aanwijzing van een gebied als Relatienotagebied de «normale» bescherming door middel van toepassing van het WRO-instrumen– tarium onverlet laat. Tegelijkertijd is het nimmer de bedoeling geweest dat de Relatienota, met name de beheersovereenkomst, fungeert als vervangingsmiddel voor beperkende bepalingen in een bestemmingsplan. In casu is van betekenis dat gedepu– teerde staten, met inachtneming van dit beleid en de Kroonjurisprudentie terzake, goedkeuring hebben onthouden aan onderdelen van het bestemmingsplan «Buitengebied» van de gemeente Weststellingwerf, waarin de aanvaardbaarheid van beperkingen voor het agrarisch gebruik (in toekomstige Relatienota– gebieden) met het oog op bescherming van natuurwaarden, afhankelijk werd gesteld van de totstandkoming van beheersovereen– komsten. Het aanbrengen van een dergelijke koppeling is fundamenteel in strijd met het beginsel dat het bestemmingsplan een zelfstandige betekenis heeft, onafhankelijk van buiten het plan bestaande regelingen teraad direct aanspreekbaar te maken in geval van onevenredige schade als bedoeld in artikel 49 WRO. Naast deze schadevergoe– dingsregeling is in de wet immers een regeling opgenomen (zie de artikelen 31a-31c), die voorziet in de mogelijkheid van verdeling van hogere kosten tussen overheden. Op grond daarvan bestaat voor de gemeenteraad de mogelijkheid om de Kroon te verzoeken kosten die voortvloeien uit bestemmingsplanbe– palmgen die vanwege een ander bestuursorgaan in het bestem– mingsplan zijn opgenomen vergoed te krijgen. </antwoord>
+      <antwoord nummer="4">Uw stellmg gaat op als er sprake is van kosten als bedoeld in artikel 31 a WRO die redelijkerwijs niet of niet geheel ten laste van de gemeente behoren te blijven en waarvan bovendien vaststaat dat geen vergoeding verzekerd is op grond van een andere (wettelijke) regeling. </antwoord>
+      <antwoord nummer="5 en 6">Het is - gelet op de regeling waarin artikel 31 a e.v. van de WRO voorziet - niet juist te stellen, dat er op het punt van juridische aansprakelijkheid voor schade sprake is van een juridisch en beleidsmatig vacuüm. Ik verwijs in dit verband ook naar mijn antwoord op vraag 3. </antwoord>
+      <antwoord nummer="7">Voor vastgestelde schade of hogere kosten als bedoeld in art. 49 WRO respectievelijk 31 a WRO bestaat een verplichting tot vergoeding. Uit de praktijk zijn mij (nog) geen gevallen bekend waarbij niet tot vergoeding waarden en spoort ook met de bedoeling van de Relatienota om ter ondersteuning en effectuering van een planologische bestemming naar waarden, een daarop toegespitst beheer mogelijk te maken. Dat met dit beleid het vrijwülige karakter van de Relatienota-beheersovereenkomst onder druk zou komen te staan, vermag ik - juist vanwege die vrijwil– ligheid en de daarmee parallel lopende financiële zekerheid voor een agrariër - niet in te zien. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="4">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Leers (CDA) aan de minister van Verkeer en Waterstaat over de stranding van lightrail. (Ingezonden 3 mei 1999); Antwoord</item>
+         <item attribuut="Bestand">13Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR9409
+</item>
+         <item attribuut="Inhoud">Vragen betreffende een artikel in het Brabants Dagblad van 29 april 1999 over het 'stranden van de metro in Rotterdam'.</item>
+         <item attribuut="Rubriek">Verkeer, vervoer en waterstaat (Openbaar vervoer)</item>
+         <item attribuut="Trefwoorden">Openbaar vervoer</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 1998-1999, nr. 1412, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2989912440</item>
+         <item attribuut="Afkomstig_van">Verkeer en Waterstaat</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Leers</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1999-05-25</item>
+         <item attribuut="Datum_indiening">1999-05-03</item>
+         <item attribuut="Document-id">KVR9409</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1998–1999" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="2811" allpagenumbers="2811" vetnummer="2989912440" code="" lopendefooter="Tweede Kamer, vergaderjaar 1998–1999, Aanhangsel" filenaam="KVR9409" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 1999"/>
+      <vraagdata vraagnummer="1412" onderwerp="" indiendatum="1999-05-3">
+         <vrager partij="CDA" oorsprong="parlement">Leers</vrager>
+         <vraagt-aan>de minister van Verkeer en Waterstaat</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1999-05-25">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">Netelenbos</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Hebt u de spiksplinternieuwe metro in Rotterdam laten stranden? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Bent u voldoende verzekerd? </vraag>
+      <vraag nummer="3">Wat is de reden dat u (te) hard reed? </vraag>
+      <vraag nummer="4">Met welke snelheid gaat u er nu aan werken dat de problemen rond de invoering van lightrail worden opgelost? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1999-04-29" bron="Brabants Dagblad">Brabants Dagblad, 29 april 1999</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Nee, dat gebeurde vanzelf. Door na het passeren van de wissel niet tijdig op de juiste knop te drukken kwam de metro tot stilstand. Dit gebeurde op een stuk dat stroomloos is. </antwoord>
+      <antwoord nummer="2">Ik heb geen aanleiding te veronderstellen van niet. </antwoord>
+      <antwoord nummer="3">Onbekendheid ter plekke. De snelheid speelde geen rol. </antwoord>
+      <antwoord nummer="4">Ik heb het voornemen om medio 1999 de implementatienota lightrail uit te brengen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

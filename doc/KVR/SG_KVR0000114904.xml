@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="doms- en vruchtgebruikproblematiek " aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19851986:0001344</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001344&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001344</item>
+         <item attribuut="Document-id">0000114904</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1985-1986 nummer 424</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Vermeend en Kombrink (beiden P.v.d.A.) over tijdelijk vruchtgebruik als aftrekbare kosten van inkomsten uit vermogen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1985-1986 nummer 424</item>
+         <item attribuut="Jaargang">1985_1986</item>
+         <item attribuut="Vraagnummer">424</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Vermeend</persoon>
+            <persoon partij="PvdA">Kombrink</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-01-07</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Ruding</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-02-07</item>
+         <item attribuut="Beginpagina">837</item>
+         <item attribuut="Eindpagina">838</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1985-1986 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1985-1  9 8 6 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="424" onderwerp="tijdelijk vruchtgebruik als aftrekbare kosten van inkomsten uit vermogen." indiendatum="7 januari 1986)">
+         <vrager partij="PvdA" oorsprong="parlement">Vermeend</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Kombrink</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1 ">Hebt u kennis genomen van het  artikel «Is aankoop vruchtgebruik  aftrekbaar» in Fiscoloog van 15  december 1985, nr. 85/929?  </vraag>
+      <vraag nummer="2 ">Bent u van mening dat uit het arrest  van de Hoge Raad van 27 november  1985, nr. 22.766, inderdaad valt af  te leiden, dat de aankoopsom van  een tijdelijk vruchtgebruik aftrekbaar  kan zijn als aftrekbare kosten van  inkomsten uit vermogen?  </vraag>
+      <vraag nummer="3 " voetnoot="1">Zo ja, is dan, mede gelet op de  ISMO-UCV van 9 oktober  j l . \ op dit  punt reparatiewetgeving dringend  noodzakelijk?  <voetnoot nummer="1"/> Zie Handelingen Bijzondere commissie  ISMO, blz.  6 - 5 4 .  Antwoord  Antwoord van minister Ruding  (Financiën). (Ontvangen 7 februari  1986)  </vraag>
+      <vraag nummer="1 ">Ja.  Naar mijn oordeel kan uit het arrest  van de Hoge Raad van 27 november  1985, nr. 22 766, worden afgeleid  dat de aankoopsom van het tijdelijk  recht van vruchtgebruik van verhuurd  onroerend goed in beginsel aftrekbaar  is. Dit sluit naar mijn oordeel evenwel  niet uit dat in andere situaties de  aankoop van een tijdelijk recht van  vruchtgebruik niet tot aftrekbaarheid  zou kunnen leiden.  </vraag>
+      <vraag nummer="3 ">Uit het arrest is nog eens duidelijk  geworden dat de problematiek van  de bloot-eigendomsconstructies een  evenwichtige oplossing vergt. De  problematiek is niet beperkt tot de  - afgezien van de werking van de  bijzondere rechtsmiddelen als  richtige heffing en fraus legis - onbelastbaarheid van de waarde-aan- groei van de blote eigendom door  het aflopen van het daarop gevestigde  tijdelijke genotsrecht, welke proble- matiek in de ISMO-UCV van 9  oktober 1985 aan de orde is geweest.  Zij strekt zich, zoals thans uitdrukkelijk  is komen vast te staan, mede uit tot  de aftrekbaarheid van de aankoopsom  van een tijdelijk genotsrecht.  Zoals ik in de genoemde ISMO-UCV  heb meegedeeld is het onderzoek  naar de oplossing van de bloot-eigen- </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

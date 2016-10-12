@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Onderwijs. " aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19851986:0001603</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001603&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001603</item>
+         <item attribuut="Document-id">0000115163</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1985-1986 nummer 682</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van Ooijen (P.v.d.A.) over het slenteren langs de straat van leerplichtige jongeren.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1985-1986 nummer 682</item>
+         <item attribuut="Jaargang">1985_1986</item>
+         <item attribuut="Vraagnummer">682</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Van Ooijen</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-04-14</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Ginjaar-Maas</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-05-07</item>
+         <item attribuut="Beginpagina">1355</item>
+         <item attribuut="Eindpagina">1356</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1985-1986 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 5 - 1 9 8 6 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="682" onderwerp="het slenteren langs de straat van leerplicht/ge jongeren." indiendatum="14 april 1986)">
+         <vrager partij="PvdA" oorsprong="parlement">Van Ooijen</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1 ">Hebt u kennis genomen van het  persbericht over het slenteren langs  de straat in Arnhem van een aantal  buitenlands leerplichtige jongeren?  </vraag>
+      <vraag nummer="2 ">Worden vanwege het feit, dat van  rijkswege alleen aan het begin van  het schooljaar faciliteiten beschikbaar  worden gesteld ten behoeve van  internationale schakelklassen,  leerlingen, die in de loop van het jaar  in ons land aankomen (o.a. vluchte- lingen) niet onmiddellijk tot het  onderwijs toegelaten?  </vraag>
+      <vraag nummer="3 " voetnoot="1">Welke maatregelen zult u nemen om  aan dit «schoolverzuim» door  leerplichtigen een einde te maken?  <voetnoot nummer="1"/> Zie «De Nieuwe Krant» van 11 april jl.  Antwoord  Antwoord van Staatssecretaris  Ginjaar-Maas (Onderwijs en  Wetenschappen). (Ontvangen 7 mei  1986)  </vraag>
+      <vraag nummer="1 ">Mij is niet bekend dat een persbericht  over deze problematiek is uitgegeven.  Het bureau Leerplichtzaken van de  gemeente Arnhem bleek bij telefoni- sche navraag evenmin op de hoogte  De toelating tot de scholen is een  zaak van de schoolbesturen. De  indruk bestaat dat niet zozeer de  faciliteiten als wel organisatorische  overwegingen bepalend zijn voor het  al dan niet tussentijds toelaten van  (buitenlandse) leerlingen. In Arnhem,  zo werd mij gemeld, was de interna- tionale schakelklas vol, waardoor 6 a  7 leerlingen niet direct geplaatst  konden worden. Inmiddels is door  het doorschuiven van leerlingen naar  het reguliere onderwijs het probleem  vrijwel opgelost.  </vraag>
+      <vraag nummer="3 ">Een maatregel, die getroffen is om  dit type problemen te verminderen, is  de nieuwe faciliteitenregeling die  met ingang van 1 augustus 1986 van  kracht zal worden. In deze regeling  wordt per leerling 0,75 taakeenheden  verstrekt, waardoor een flexibele  inzet mogelijk wordt. Scholen kunnen  nu zelf bepalen of zij wel of niet een  schakelklas nodig hebben en voor  hoelang. Voor andere maatregelen  ter bestrijding van Schoolverzuim  verwijs ik naar de beleidsnotitie  Schoolverzuim in het Voortgezet  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

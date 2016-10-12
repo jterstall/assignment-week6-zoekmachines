@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001584</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001584&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001584</item>
+         <item attribuut="Document-id">0000011888</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 654</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Tommel en Ybema (beiden D66) over Friesland Frico Domo.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 654</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">654</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Tommel</persoon>
+            <persoon partij="D66">Ybema</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-05-25</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Alders</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-06-16</item>
+         <item attribuut="Beginpagina">1335</item>
+         <item attribuut="Eindpagina">1336</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1335" allpagenumbers="1335" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="654" onderwerp="Friesland Frico Domo." indiendatum="1993-05-25">
+         <vrager partij="D66" oorsprong="parlement">Tommel</vrager>
+         <vrager partij="D66" oorsprong="parlement">Ybema</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-06-16">
+         <antwoorder functie="minister" ministerie="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer">Alders</antwoorder>
+         <mede-antwoorder>de staatssecretaris van Economische Zaken</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1">Heeft Friesland Frico Domo het voornemen zijn vestiging in Warga te sluiten en de produktie ten dele naar andere locaties en/of bedrijven over te brengen? </vraag>
+      <vraag nummer="2" voetnoot="1">Zal in verband hiermee een aanzienlijk aantal produkten dat thans nog in flessen met statiegeld wordt geleverd, alleen nog in eenmalige kartonverpakking worden geleverd? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="3">Is hierover in het kader van het verpakkingenconvenant overleg gevoerd? </vraag>
+      <vraag nummer="4">Bent u bereid al het mogelijke te doen om te voorkomen dat produktiecapaciteit voor zuivelprodukten in retourflessen verdwijnt, in ieder geval tot het moment dat de desbetreffende ecobalans beschikbaar zal zijn? </vraag>
+      <vraag nummer="5">Kan het gereedkomen van deze ecobalans worden versneld? Heeft het provinciale bestuur van Friesland met het ministerie van Economische Zaken contact opgenomen om te bezien of de in het geding zijnde werkgelegenheid in Warga (ongeveer 310 arbeidsplaatsen) kan worden behouden? Zal de sterke concentratie van de zuivelindustrie de keuzevrijheid van de consument niet aantasten? Past deze concentratie in het door de regering voorgestane mededingingsbeleid? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Het gaat om 22 van de 33 produkten</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja. De activiteiten met betrekking tot consumptiemelk zullen in Groningen gaan plaats vinden. De produktie van consumptiemelk in glas zal worden overgeheveld naar de vestiging in Leeuwarden en daarnaast en daarnaast worden uitbesteed aan Coberco. Er is op zich geen verband tussen het overbrengen van de produktie naar andere lokaties en bedrijven èn het wijzigen van de verpakking voor een aantal produktie van statiegeld naar eenmalige kartonverpakkingen Friesland Frico Domo heeft wel het voornemen het assortiment aan produkten te gaan beperken; dit vanwege bedrijfseconomische redenen. </antwoord>
+      <antwoord nummer="3">Neen. </antwoord>
+      <antwoord nummer="4">Ja. Zoals gesteld in bijlage 2 van het convenant Verpakkingen zullen vergelijkende milieu-analyses verricht worden voor onder meer koffiemelk, dik vloeibare zuivelprodukten en melk. In artikel 8 van het convenant Verpakkingen staat aangegeven dat indien uit onderzoek blijkt dat het vervangen van eenmalige verpakkingen door meermalige duidelijk minder schade voor het milieu oplevert en hiertegen op markteconomische gronden geen overwegend bezwaar bestaat, de verpakkende industrie zich verplicht over te gaan op het gebruik van meermalige verpakkingen ten koste van eenmalige. Friesland Frico Domo behoort tot de ondertekenaars van het convenant Verpakkingen. Gezien het bovenstaande zal ik er bij Friesland Frico Domo op aandringen de resultaten van de te verrichten analyses af te wachten alvorens tot wijziging van de verpakkingen over te gaan. Het bovenstaande zal ik in een brief kenbaar maken aan de directie van Friesland Frico Domo. Verder zal ik de voorzitter van de Stichtmg Verpakking en Milieu vragen zijn invloed in deze aan te wenden. Ten slotte zal ik de voorzitter van de Commissie Verpakkingen van deze kwestie op Anders dan kartels spelen fusies en overnames een noodzakelijke rol ten behoeve van de dynamiek van de markt. Fusies zijn in het algemeen dan ook positief te waarderen. Dit komt pas anders te liggen wanneer de macht van een onderneming, die bijvoorbeeld door fusie is ontstaan, zodanig toeneemt dat zij zonder rekening te houden met concurrenten haar gedrag op de markt kan bepalen en daarvan misbruik maakt. Indien en voorzover fusies op Nederlands grondgebied leiden tot economische machtposities, die met het algemeen belang strijdige gevolgen hebben, zal met gebruikmaking van de bevoegdheden van artikel 24 van de Wet economische mededinging tegen die gevolgen worden opgetreden. Overigens leert de ervaring dat ondernemers alleen succesvol in een concurrerende omgeving kunnen opereren wanneer zij hun produkten afstemmen op de wensen van de consument. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

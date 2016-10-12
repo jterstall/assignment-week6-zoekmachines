@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="6">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001385</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001385&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001385</item>
+         <item attribuut="Document-id">0000011689</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 455</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Willems (GroenLinks) over de Verklaring van Rio.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 455</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">455</item>
+         <item attribuut="Indiener">
+            <persoon partij="GroenLinks">Willems</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-03-05</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Pronk</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-03-29</item>
+         <item attribuut="Beginpagina">931</item>
+         <item attribuut="Eindpagina">932</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="931" allpagenumbers="931" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="455" onderwerp="de Verklaring van Rio." indiendatum="1993-03-5">
+         <vrager partij="GroenLinks" oorsprong="parlement">Willems</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-03-29">
+         <antwoorder functie="minister" ministerie="Ontwikkelingssamenwerking">Pronk</antwoorder>
+         <mede-antwoorder>de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en de staatssecretaris van Landbouw, Natuurbeheer en Visserij</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1">Herinneren de ministers voor Ontwlkkelingssamenwerking en van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer zich hun toezegging', dat de teksten van de Verklaring van Rio inzake milieu en ontwikkeling, Agenda 21 en de Bossenverklaring integraal in het Nederlands zouden worden vertaald? </vraag>
+      <vraag nummer="2">Zijn de vertalingen inmiddels beschikbaar? </vraag>
+      <vraag nummer="3">Komt er ook een Nederlandse vertaling van het Verdrag inzake Biologische Diversiteit en het Klimaatverdrag? </vraag>
+      <vraag nummer="4" voetnoot="1">Wanneer worden de (vertaalde) verdragen naar de Kamer verzonden, zodat de ratificatie, die de regering blijkens dezelfde brief <voetnoot nummer="1"/>, spoedig wil laten plaatsvinden, kan worden voltooid? </vraag>
+      <vraag nummer="5">Wat is de stand van zaken in de andere EG-lidstaten bij betrekking tot bekrachtiging van het Verdrag inzake Biologische Diversiteit en het Klimaatverdrag? </vraag>
+      <vraag nummer="6">Is de door de ministers voor Ontwikkelingssamenwerking en van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer in augustus vong jaar uitgesproken verwachting dat de Gemeenschap medio 1993 de akte van bekrachtiging bij de depositaris kan deponeren nog altijd haalbaar? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="6">
+      <antwoord nummer="1">Ja, die toezeggingen zijn inderdaad gedaan. </antwoord>
+      <antwoord nummer="2">De vertaling van de Verklaring van Rio is reeds gereed. Aan de vertaling van Agenda 21 en de Bossenverklaring wordt op dit moment de laatste hand gelegd. Het is de bedoeling dat de vertalingen van de drie bovengenoemde documenten, samen met de vertalingen van het Klimaatverdrag en van het Verdrag inzake Biodiversiteit, medlo mei in één document uitkomen. Overigens is het Klimaatverdrag reeds gepubliceerd in het Tractatenblad (Trb. 1992, 189). </antwoord>
+      <antwoord nummer="3">Het Klimaatverdrag is reeds vertaald en gepubliceerd in het Tractatenblad (Trb. 1992, 189). De vertaling van het Verdrag inzake Biodiversiteit is vrijwel gereed. </antwoord>
+      <antwoord nummer="4">Het Klimaatverdrag ligt nu ter advisering bij de Raad van State. Het zal vervolgens zo spoedig mogelijk ter goedkeuring aan de Staten-Generaal worden overgelegd. De parlementaire goedkeuringsstukken voor het Verdrag inzake Biodiversiteit worden op dit moment voorbereid. De verwachting is dat de procedure in Nederland voorafgaande aan de behandeling door de Staten-Generaal (behandeling van de toelichtende nota door de Ministerraad en advisering door de Raad van State) niet voor de zomer zal zijn afgerond. </antwoord>
+      <antwoord nummer="5">Binnen de EG bestaat het streven om het Verdrag inzake Biodiversiteit en het Klimaatverdrag gezamenlijk te laten ratificeren door de EG en de lidstaten. In de Milieuraad van 22 en 23 maart a.s. zijn de Raadsbeschikkingen ter bekrachtiging van beide verdragen besproken. Inzake de ratificatie van het klimaatverdrag zij evenwel aangetekend dat er een nauwe samenhang is tussen het moment van ratificatie en de voortgang die in de Gemeenschap wordt geboekt met van 31 december 1993 als uiterste datum van ratificatie door de Gemeenschap en de Lidstaten. </antwoord>
+      <antwoord nummer="6">In de brief van 20 augustus 1992 wordt gesproken over de ratificatie door de Gemeenschap van het Klimaatverdrag. De Gemeenschap verwacht dat de akte van bekrachtiging voor dit verdrag in de tweede helft van 1993 kan worden gedeponeerd. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

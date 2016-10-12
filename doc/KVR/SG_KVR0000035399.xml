@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19891990:0000992</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0000992&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0000992</item>
+         <item attribuut="Document-id">0000035399</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 72</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Swildens-Rozendaal en Stoffelen (beiden P.v.d.A.) over het in eigen land doen vervolgen van buitenlandse drugsgebruikers.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 72</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">72</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Swildens-Rozendaal</persoon>
+            <persoon partij="PvdA">Stoffelen</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-10-06</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Korthals Altes</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-10-23</item>
+         <item attribuut="Beginpagina">145</item>
+         <item attribuut="Eindpagina">146</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="145" allpagenumbers="145" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 921 7398" uitgever="SDU uitgevenj 's Gravenhage 1989"/>
+      <vraagdata vraagnummer="72" onderwerp="het in eigen land doen vervolgen van buitenlandse drugsge– bruikers." indiendatum="1989-10-6">
+         <vrager partij="PvdA" oorsprong="parlement">Swildens-Rozendaal</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Stoffelen</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1">Hebt u inmiddels, zoals toegezegd, uw standpunten bepaald over het advies van de procureur-generaal te 's-Hertogenbosch over het verzoek van de hoofd-officieren van Justitie te Roermond en Maastricht medewerking te verlenen aan het in eigen land doen vervolgen van buitenlandse drugsgebruikers? </vraag>
+      <vraag nummer="2">Zo neen, wanneer denkt u wel uw standpunt te kunnen bepalen over dit probleem, dat nog steeds als urgent beschouwd moet worden? Zo ja, waarom hebt u deze Kamer uw standpunt nog niet medegedeeld? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Zie Aanhangsel Handelingen nr 815. vergaderjaar 1988-1989</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="3">Gezien het vorenstaande behoeft deze vraag geen beantwoording. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

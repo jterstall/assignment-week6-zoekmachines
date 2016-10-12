@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001746</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001746&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001746</item>
+         <item attribuut="Document-id">0000012050</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 816</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Esselink (CDA) over het voornemen scholieren die zich normaal gedragen op bepaalde tramlijnen te belonen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 816</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">816</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Esselink</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-08-12</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Maij-Weggen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-08-25</item>
+         <item attribuut="Beginpagina">1663</item>
+         <item attribuut="Eindpagina">1664</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1663" allpagenumbers="1663 1664" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="816" onderwerp="het voornemen scholieren die zich normaal gedragen op bepaalde tramlijnen te belonen." indiendatum="1993-08-12">
+         <vrager partij="CDA" oorsprong="parlement">Esselink</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-08-25">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">Maij-Weggen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Heeft u kennis genomen van het voornemen van de Haagse Tramweg Maatschappij om scholieren die zich op een normale manier gedragen op bepaalde tramlijnen, dat wil zeggen zonder vernielingen aan te richten, te belonen? <voetnoot nummer="1"/>Bestaat deze beloning uit kortingen op abonnementsgelden, reisjes naar pretparken alsmede de mogelijkheid voor ouders om gratis mee te kunnen rijden op het abonnement van hun kinderen? Indien van bovengenoemde beloningen sprake is, hoe wordt vastgesteld welke scholieren in aanmerking komen en welke niet? </vraag>
+      <vraag nummer="4">Worden de bovengenoemde beloningen bekostigd door het ministerie van Welzijn Volksgezondheid en Cultuur, zo ja op welke begrotingspost wordt dit verantwoord? Worden ook andere overheidsmiddelen ingezet ter bekostiging van dit plan en zo ja, uit welke bronnen en om welke bedragen gaat het? </vraag>
+      <vraag nummer="6">Acht u het een efficiënte aanwending van schaarse overheidsmiddelen om normaal gedrag te belonen i.p.v. laakbaar gedrag te straffen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1993-08-11" bron=" Telegraaf"> Telegraaf, 11 augustus 1993</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Ja. HTM gaat in samenspraak met ouders/verzorgers en schoolleiding de tevoren vastgestelde korting c.q. beloning geven of onthouden een en ander afhankelijk van de experiment-vorm. Dit laat onverlet de gebruikelijke boetes/straf bij strafbare feiten. Het gaat dus om een combinatie van straffen en belonen van respectievelijk strafbaar en goed gedrag. </antwoord>
+      <antwoord nummer="4">De rijksbijdrage is toegezegd door de minister van Verkeer en Waterstaat in het kader van een veel groter aantal projecten ter verbetering sociale veiligheid in het openbaar vervoer. Deze kosten worden geboekt op begrotingsartikel 07.11.05. Nee. Andere gelden dan de rijksbijdrage van Verkeer en Waterstaat en gelden uit eigen middelen van de HTM zelf worden niet ingezet. </antwoord>
+      <antwoord nummer="6">Dit experiment maakt deel uit van een omvangrijk project Sociale Veiligheid in het Openbaar Vervoer, waaraan door V&amp;W in de jaren 1993 tot en met 1995 jaarlijks f 50 mln wordt besteed. De verdeling hiervan is als volgt: NS f 10 mln, BOV-gemeenten f 20 mln (waarvan voor de HTM f 4 mln), VSN f 5 mln; daarnaast f 10 mln voor de ontwikkeling van een structureel veiligheidsbeleid, inclusief experimenten, voorbeeldprojecten en ondersteunende activiteiten, alsmede f 5 mln voor Justitie. Het streven is dat aan het eind van de projectperiode de OV-bedrijven een integraal veiligheidsbeleid hebben gerealiseerd. Daartoe worden gedurende deze projectperiode subsidies verstrekt voor de meer gangbare projecten zoals bijvoorbeeld vormen van toezicht, specifieke opleidingen van personeel, betere beveiliging van stations, maar ook voor minder gangbare projecten die uit het experimentenbudget (jaarlijks 4 mln) kunnen worden betaald. Kern van de experimenten is het verkennen van tot op heden minder gebruikelijke maatregelen om de problemen rond toezicht en zorgen opleidingen bij zowel management als controle-beambten voor een meer adequate instelling in situaties waarbij agressie dreigt of plaatsvindt. Daarnaast wordt geëxperimenteerd met een gesloten instap-regime in de avonduren onder andere op lijn 6 door middel van het afsluiten van een deel van de tram, en met een nieuwe aanpak van scholieren. Omdat eerdere, meer conventionele maatregelen (ad hoc-begeleiding op de tram, gedragsbeïnvloeding vooraf op scholen en halte-adoptie-projecten) onvoldoende resultaat met betrekking tot de beteugeling van de onveiligheid, veroorzaakt door scholieren, hebben opgeleverd is na veel en grondig overleg een tijdelijk (één jaar) experiment bij de HTM opgezet. Dit project wordt na afloop in zijn geheel geëvalueerd. Kern van het experiment is de scholieren, de schoolleiding en de ouders bij de problematiek te betrekken door een duidelijke gedragsverbetering door scholieren in samenspraak met schoolleiding en ouders te belonen. Dit nogmaals onverlet het vervolgen van strafbaar gedrag. Dit scholierenproject bestaat uit twee onderdelen, waarbij de nadruk ligt op het structureel begeleiden van de schooljeugd. Daarnaast wordt verkend of het belonen van een duidelijke gedragsverbetering positief kan bijdragen aan de veiligheid in het openbaar vervoer. Daarbij is uitgegaan van de wetenschap dat een combinatie van het vervolgen van strafbaar gedrag en het belonen van goed gedrag in gebruikt en een belonmg voor goed gedrag aan het eind van het schooljaar f138000 Gelet op de huidige situatie, waarin bepaalde groepen scholieren voor een tot nog toe niet in te dammen sociale onveiligheid in het openbaar vervoer in Den Haag zorgen, heb ik het verantwoord geacht een beperk– te rijksbijdrage voor één jaar voor dit experiment te verlenen. Omdat eerdere maatregelen onvol– doende resultaat hebben opgeleverd worden tegelijkertijd meerdere expe– rimenten met betrekking tot sociale veiligheid in het openbaar vervoer uitgevoerd. Hierbij zijn de door u on– der 2. genoemde maatregelen alsook de begeleiding van de schooljeugd begrepen. Overigens merk ik op dat ondanks dit specifieke probleem met bepaalde groepen scholieren de HTM in Den Haag tot nog toe suc– cesvol is op het gebied van de verbe– tering sociale veiligheid in het open– baar vervoer. Succesvoller zelfs dan andere grote steden, waar overigens ook hard aan de oplossing van de problemen wordt gewerkt. Ik vertrouw erop u hiermee voldoen– de geïnformeerd te hebben. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

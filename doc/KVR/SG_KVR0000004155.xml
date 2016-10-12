@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0001644</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001644&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001644</item>
+         <item attribuut="Document-id">0000004155</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 430</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Ter Veer (D66) over een regeling voor gewetensbezwaarden tegen oormerken.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 430</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">430</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Ter Veer</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-03-10</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Gabor</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-04-11</item>
+         <item attribuut="Beginpagina">873</item>
+         <item attribuut="Eindpagina">874</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="873" allpagenumbers="873" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="'s-Gravenhage 1994"/>
+      <vraagdata vraagnummer="430" onderwerp="een regeling voor gewetensbezwaarden tegen oormerken." indiendatum="1994-03-10">
+         <vrager partij="D66" oorsprong="parlement">Ter Veer</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-04-11">
+         <antwoorder functie="staatssecretaris" ministerie="Landbouw, Natuurbeheer en Visserij">Gabor</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Herinnert u zich, dat tijdens het mondeling overleg op 3 maart jl. over de verplichte invoering van oormerken bij runderen, de «gewetensbezwaarden» als groep een regeling in het vooruitzicht is gesteld? </vraag>
+      <vraag nummer="2">Realiseert u zich, dat over concrete - niet mis te verstane - regelgeving met de veehouders uit de groep gewetensbezwaarden nog geen overeenstemming is bereikt en dat de meerderheid van de Tweede Kamer in genoemd mondeling overleg heeft aangedrongen op snelle en duidelijke regelgeving? </vraag>
+      <vraag nummer="3">Wanneer wordt over de uitwerking van deze regelgeving met het Landbouwschap overlegd? </vraag>
+      <vraag nummer="4">Mocht overleg met het Landbouwschap, voor 20 maart a.s., niet leiden tot de uitkomst die inhoudt de mogelijkheid voor gewetensbezwaarden hun runderen te schetsen of fotograferen, stalcontrole, het aanbrengen van de oormerken bij het verlaten van het bedrijf waarna handel «voor het leven» mogelijk is, wilt u dan op een zodanig tijdstip antwoorden dat de Tweede Kamer daarover nog voor 3 mei a.s. een uitspraak kan doen? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1">Het is juist, dat in het mondeling overleg van 3 maart een regeling voor «gewetensbezwaarden» in het vooruitzicht is gesteld. </antwoord>
+      <antwoord nummer="2">Het is mij inderdaad duidelijk, dat nog geen overeenstemming over regelgeving aangaande dit onderwerp is bereikt met de groep gewetensbezwaarden. Er is overigens wel op diverse momenten overleg met verschillende vertegenwoordigingen geweest. Het is mij eveneens duidelijk, dat een meerderheid van de Kamer bij het genoemde mondelinge overleg heeft aangedrongen op snelle en duidelijke regelgeving. Daarbij teken ik aan, dat reeds eerder bij de schriftelijke voorbereiding van de LNV-begroting </antwoord>
+      <antwoord nummer="1994" voetnoot="1 2">
+         <voetnoot nummer="1"/> en in antwoord op schriftelijke vragen van het lid Huys, ontvangen 20 januari 1994 <voetnoot nummer="2"/>, is benadrukt, dat het invoeren van regelgeving voor gewetensbezwaren grote zorgvuldigheid vereist. Kortheidshalve verwijs ik mede naar de op die vragen gegeven antwoorden. Die noodzakelijke zorgvuldigheid heeft eraan bijgedragen dat veel tijd gemoeid was met het opstellen van de regelgeving. De door het Landbouwschap opgestelde regelgeving zal echter op zeer korte termijn beschikbaar komen. </antwoord>
+      <antwoord nummer="3">Over de uitwerking van deze regelgeving wordt reeds langere tijd, ook al vóór het genoemde mondelinge overleg, met het Landbouwschap gesproken. </antwoord>
+      <antwoord nummer="4" voetnoot="3 5">De betreffende aanpassing van de Verordening I. en R. Runderen van het Landbouwschap zal zeker tijdig klaar zijn om de Kamer in de gelegenheid te stellen vóór 3 mei hierover een uitspraak te doen. Overigens zij opgemerkt dat de meeste van de voorwaarden voor een regeling, zoals die in deze vraag zijn vervat, reeds in het debat van 31 maart 1993 <voetnoot nummer="3"/> aan de orde zijn geweest en werden neergelegd in een motie*. Ik wil U er op wijzen dat de Kamer deze motie heeft verworpen. In een volgende motie <voetnoot nummer="5"/>, die wel werd aangenomen, werd de maximale soliditeit onderstreept en geformuleerd, dat een regeling onder strikte voorwaarden mogelijk moet worden gemaakt. De invulling van de regelgeving zal daaraan tegemoet komen. Ik herhaal mijn toezegging dat de definitieve invulling van de regeling </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

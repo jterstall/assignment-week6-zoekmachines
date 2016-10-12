@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001592</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001592&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001592</item>
+         <item attribuut="Document-id">0000107367</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 560</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Melkert en Verspaget (beiden P.v.d.A.) over de normen voor extra betalingsbalanssteun.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 560</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">560</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Melkert</persoon>
+            <persoon partij="PvdA">Verspaget</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-03-13</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Bukman</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-04-03</item>
+         <item attribuut="Beginpagina">1113</item>
+         <item attribuut="Eindpagina">1114</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 6 - 1 9 8 7 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="560" onderwerp="de normen voor extra betalingsbalans- steun." indiendatum="13 maart 1987)">
+         <vrager partij="PvdA" oorsprong="parlement">Melkert</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Verspaget</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="3 april 1987)">
+         <antwoorder functie="minister" ministerie="Ontwikkelingssamenwerking">B u k m a n</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1 ">Kan de minister de specifieke  normen geven op grond waarvan  Ghana, Malawi, Mozambique, Niger,  Senegal en Zambia extra betalingsba- lanssteun krijgen?'  </vraag>
+      <vraag nummer="2 ">Zouden meer landen op basis van  deze normen in aanmerking kunnen  komen voor extra betalingsbalans- steun?  </vraag>
+      <vraag nummer="3 ">Kan de minister aangeven op grond  van welke overwegingen de verschil- lende bedragen voor deze extra  betalingsbalanssteun zijn vastge- steld?  </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Persbericht ontwikkelingssamenwerking  nummer 7 van 26 februari il. </noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1 ">De genoemde landen kwalificeren  voor betalingsbalanssteun 1987  omdat enerzijds de economische  situatie in deze landen als «zorgwek- kend» tot «zeer zorgwekkend»  omschreven kan worden, terwijl  anderzijds deze landen een duidelijk  herstructurermgsbeleid voeren,  hetgeen ook moge blijken uit het feit  dat ze «eligible» zijn voor de Afrikafa- ciliteit van de Wereldbank. Daarenbo- ven voeren deze landen een accepta- bel sociaal beleid.  </antwoord>
+      <antwoord nummer="2 ">Ja, voorzover behorend tot de  programma-, regio- of sectorlanden  van het Nederlandse hulpprogramma;  het aantal landen is evenwel beperkt  gebleven tot zeven vanwege de  beperktheid van de fondsen en  vanwege het feit dat het  o m redenen  van doeltreffendheid en efficiency  wenselijk is per land een substantiële  bijdrage te geven.  </antwoord>
+      <antwoord nummer="3 ">In de eerste plaats wordt besloten of  een land al dan niet kwalificeert.  Indien een land kwalificeert dan geldt  als uitgangspunt dat de omvang en  de steun in de orde van grootte dient  te zijn van Vi% van het BNP, teneinde  een wezenlijke bijdrage te kunnen  leveren aan de verbetering van de  betalingsbalanssituatie.  Een Vi% van het BNP zou voor Ghana  neerkomen op f 59 min., voor Malawi  op f 16 min., voor Mali op f 12 min.,  voor Mozambique op  f 2 6 min., voor  Niger op 15 min., voor Senegal op  f 2 7 min. en voor Zambia op  f 2 9 min.  De toegezegde bedragen komen  derhalve grosso modo overeen met  '/2% van het BNP met uitzondering  van Ghana.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

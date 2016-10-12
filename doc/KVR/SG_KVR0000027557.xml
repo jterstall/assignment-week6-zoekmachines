@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="zal zo spoedig mogelijk plaatsvinden." aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001220</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001220&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001220</item>
+         <item attribuut="Document-id">0000027557</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 287</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Middel en De Cloe (beiden P.v.d.A.) over opruiming van bommen en granaten op Schiphol.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 287</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">287</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Middel</persoon>
+            <persoon partij="PvdA">De Cloe</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-11-29</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Dales</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-01-10</item>
+         <item attribuut="Beginpagina">579</item>
+         <item attribuut="Eindpagina">580</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="579" allpagenumbers="579 10" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1991"/>
+      <vraagdata vraagnummer="287" onderwerp="opruiming van bommen en granaten op Schiphol." indiendatum="1990-11-29">
+         <vrager partij="PvdA" oorsprong="parlement">Middel</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">De Cloe</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="2">Heeft de regering extra gelden vrijgemaakt voor de opruiming van bommen en granaten op Schiphol?' Worden met deze extra gelden twaalf nieuwe deskundigen aange– trokken? Hoe verhoudt zich deze beslissing met uw opvatting <voetnoot nummer="2"/> dat het de verant– woordelijkheid van de lagere overheid is om te beoordelen in hoeverre de situatie in een bepaald gebied, gezien de veiligheids– aspecten, zodanig urgent is, dat het noodzakelijk is een opsporingsactie te starten en dat de lagere overheid de daarmee gepaard gaande bijko– mende kosten zelf dient te dragen? w Is het u bekend, dat als gevolg van het niet-compenseren van het rente– verlies op deze voor-financiering met name kleine gemeenten in de problemen kunnen komen, bijvoor– beeld bij het ontwikkelen van bestemmingsplannen? </vraag>
+      <vraag nummer="6" voetnoot="1 2 3 4 3 4">Bent u bereid uw eerder ingenomen standpunt inzake de compensatie van de rente van de voor-financiering van het opsporen en opruimen van explosieven te verlaten en alsnog tot compensatie van de rente over te gaan? <voetnoot nummer="1"/> Haarlems Dagblad van 9 november jl. <voetnoot nummer="2"/> Antwoord dd. 2 oktober 1990 op de vragen van de leden Eversdijk en Esselink Aanhangsel Handelingen nr. 38, verga– derjaar 1990-1991 <voetnoot nummer="3"/> Antwoord op 15 oktober 1 990 tijdens de UCV Financiën Binnenlands Bestuur, Hande– lingen UCV nr 3, vergaderjaar 1990-1991 <voetnoot nummer="4"/> Dit noopt gemeenten ertoe om zelf het nut en het offer af te wegen, ofwel zelf priori– teiten te stellen, hetgeen blijkbaar in de situatie rond Schiphol niet opgaat In hoeverre strookt deze beslissing met de opvatting <voetnoot nummer="3"/> van de staatsse– cretaris van Financiën, dat een gemeente met de voor-financiering van het opsporen en opruimen van explosieven problemen kan hebben? <voetnoot nummer="4"/>
+      </vraag>
+      <vraag nummer="4">Waarom wordt de gemeente Haarlemmermeer overigens niet de ruimte gelaten zelf prioriteiten te stellen? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+   <mededeling mededeler="Dales" functie="minister" afdeling="Binnenlandse Zaken" mededelingdatum="1991-01-10">Mededeling van minister Dales (Binnenlandse Zaken). (Ontvangen 10 januari 1991) Hierbij deel ik u mee, dat de schrifte– lijke vragen van de leden Middel en De Cloe over ruiming van bommen en granaten op Schiphol, ingezonden op 29 november 1990 door mij niet binnen de gestelde termijn kan worden beantwoord. Beantwoording </mededeling>
+</kvr>

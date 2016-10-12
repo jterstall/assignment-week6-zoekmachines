@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19881989:0001317</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001317&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001317</item>
+         <item attribuut="Document-id">0000090916</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1988-1989 nummer 313</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Leerling (R.P.F.) over het buiten de vastgestelde visdagen opvissen van kokkels in de Oosterschelde.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1988-1989 nummer 313</item>
+         <item attribuut="Jaargang">1988_1989</item>
+         <item attribuut="Vraagnummer">313</item>
+         <item attribuut="Indiener">
+            <persoon partij="RPF">Leerling</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1988-11-15</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Braks</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-02-21</item>
+         <item attribuut="Beginpagina">631</item>
+         <item attribuut="Eindpagina">632</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 8 - 1 9 8 9 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 8 - 1 9 8 9 ,  A a n h a n g s e l " filenaam="" issn-nummer="ISSN 0921 7398 " uitgever="SDU uitgeverij 's-Gravenhage 1989 "/>
+      <vraagdata vraagnummer="313" onderwerp="het buiten de vastgestelde visdagen opvissen van kokkels in de Oosterschelde." indiendatum="15 november 1988)">
+         <vrager partij="RPF" oorsprong="parlement">Leerling</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1 ">Hebt u extra vergunningen afgegeven  voor het buiten de vastgestelde  visdagen in de Oosterschelde  opvissen van kokkels? Zo ja, om  hoeveel vergunningen en  o m hoeveel  extra dagen gaat het?  </vraag>
+      <vraag nummer="2 ">Welke specifieke reden was er om  die extra vergunningen af te geven?  Gaat het  o m een beslissing voor  eenmaal?  </vraag>
+      <vraag nummer="3 ">Waarom hebt u tijdens het Mondeling  Overleg Schelp- en Schaaldieren op  3 november  j l . geen melding gemaakt  van deze  o p handen zijnde beslissing?  </vraag>
+      <vraag nummer="4 ">Erkent u, dat met deze extra vergun- ningen een aantal kokkelvissers sterk  is bevoordeeld, nu na sluiting van de  voor dit jaar vastgestelde vistermijn  alsnog kokkels kunnen worden  gevangen?  </vraag>
+      <vraag nummer="5 ">In hoeverre  w o r d t gecontroleerd, dat  het opvissen van «restkokkels» zich  strikt beperkt tot de daartoe aange- wezen percelen?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="3 ">Tijdens het mondeling overleg op 3  november 1  9 8 8 is gesproken over de  kokkelvisserij op vrije gronden. Het is  als bekend verondersteld dat  activiteiten op kweekpercelen los  staan van de uitoefening van de  visserij op de vrije gronden.  </antwoord>
+      <antwoord nummer="4 ">In 1980 is aan kokkelvissers, in het  kader van bovengenoemd experiment,  de mogelijkheid geboden percelen te  huren voor het kweken van kokkels.  Een aantal kokkelvissers heeft geen  gebruik gemaakt van deze mogelijk^  heid. Voorts wensten sommige  kokkelvissers na verloop van tijd hun  huurovereenkomsten  n i e t t e continue- ren. Gezien het bovenstaande en  gelet op het feit dat de onderhavige  visserij slechts door de huurders op  de door hen gehuurde percelen  uitgeoefend mocht worden, is er  geen sprake van bevoordeling van de  huurders van kokkelpercelen.  </antwoord>
+      <antwoord nummer="5 ">Op de bevissing van de percelen in  de genoemde periode is toezicht  gehouden door de Rijkspolitie te  Water. Voorts is steeds een visserij- kundig ambtenaar van de Directie  Visserijen ter plaatse aanwezig  geweest. Er zijn geen overtredingen  m.b.t. de perceelsgrenzen geconsta- teerd.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

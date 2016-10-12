@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001503</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001503&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001503</item>
+         <item attribuut="Document-id">0000019889</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 486</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid van Heemst (PvdA) over het overschrijden van de maximumsnelheid.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 486</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">486</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">van Heemst</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-03-05</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Hirsch Ballin</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-03-27</item>
+         <item attribuut="Beginpagina">1023</item>
+         <item attribuut="Eindpagina">1024</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1023" allpagenumbers="1023 1024" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="486" onderwerp="het overschrijden van de maximumsnelheid." indiendatum="5 rnaart 1992}">
+         <vrager partij="PvdA" oorsprong="parlement">van Heemst</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-03-27">
+         <antwoorder functie="minister" ministerie="Justitie">Hirsch Ballin</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1" voetnoot="2 3">Hebt u kennisgenomen van de berichten in Trouw van 2 maart 1992 («Politie haalt autocoureur van de weg»)' en in het Rotterdams Dagblad van 28 februari 1992 («Snelheidsmaniak mag dure auto houden») <voetnoot nummer="2"/>? Wordt in het eerstgenoemde geval overwogen om verbeurdverklaring te vorderen <voetnoot nummer="3"/>, terwijl in het tweedegenoemde geval is afgezien van een dergelijke vordering? </vraag>
+      <vraag nummer="3">Hoe valt een dergelijk verschil in benadering in twee vrijwel gelijke gevallen (twee auto's die blijkens de aanvankelijke berichtgeving de maximum toegestane snelheid met 87 resp. 91 kilometer overschrijden) te verklaren? </vraag>
+      <vraag nummer="4">In welke mate is bij inbeslagneming/verbeurdverklaring de prijsklasse van een auto bepalend voor de te nemen beslissing? Betekent dit dat nieuwe, dure auto's, die in het algemeen ook gekenmerkt worden door het vermogen om (buitengewoon) hoge snelheden te rijden bijna per definitie zijn gevrijwaard van verbeurdverklaring bij het aanzienlijk overschrijden van de maximumsnelheid? Kunt u concreet aangeven welke nieuwe auto's in een prijsklasse waarin nog wel in redelijkheid tot verbeurdverklaring kan worden overgegaan in staat zijn om snelheden van boven de 200 kilometer per uur te rijden? </vraag>
+      <vraag nummer="6">In welke prijsklasse vallen de eerdergenoemde auto's (een Ferrari resp. BMW), die op de A4 resp. de A 16 te hard hebben gereden? </vraag>
+      <vraag nummer="7">Wat is uw reactie op de toelichting die de eerdergenoemde Officier van Justitie heeft gegeven op zijn beslissing niet tot verbeurdverklaring over te gaan: «Tja, het gaat niet altijd eerlijk in het leven. De wet is beperkt in dit soort gevallen?» </vraag>
+      <vraag nummer="8">Acht u de verschillende afwegingen door politie en Officier van Justitie in deze twee zaken verdedigbaar? Acht u ze uit oogpunt van rechtsgevoel bevredigend? Zo ja, op grond waarvan? In welke mate zijn de richtlijnen van de Procureurs-Generaal met betrekking tot inbeslagneming/verbeurdverklaring houdbaar, gelet op zowel recente jurisprudentie als de in deze vragen gesignaleerde problemen? </vraag>
+      <vraag nummer="10">Welke eventuele aanpassingen in beleid zijn denkbaar om het gewenste effect (het harder aanpakken van exorbitante snelheidsoverschrijding) langs andere weg te bereiken? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="2" titel="het onvoorstelbaar is dat de kantonrechter een wagen in een dergelijke prijsklasse verbeurd verklaard "> over een auto die op de A 16 211 kilometer per uur bleek te hebben gereden en die niet in beslag is genomen omdat volgens de Officier van Justitie te Dordrecht Mr. J van Zon «het onvoorstelbaar is dat de kantonrechter een wagen in een dergelijke prijsklasse verbeurd verklaard »</noot>
+         <noot nummer="3" titel="volgens de persofficier zal de officier van Justitie waarschijnlijk verbeurdverklaring vorderen."> zie: Trouw van 3 maart 1992: «volgens de persofficier zal de officier van Justitie waarschijnlijk verbeurdverklaring vorderen.»</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja. Mede op basis van de mij ter zake door de procureur-generaal bij het gerechtshof te Amsterdam, respectievelijk de procureur-generaal bij het gerechtshof te 's-Gravenhage verstrekte inlichtingen, kan het navolgende worden geconstateerd. </antwoord>
+      <antwoord nummer="2">In het geval van de snelheidsovertreding op de A4 in de buurt van de Schipholtunnel zal de officier van justitie te Haarlem ter terechtzitting verbeurdverklaring vorderen. In het geval van de toepassing van de richtlijn. Voor zoveel hier van belang bepaalt de richtlijn dat bij verkeersovertredingen van meer dan 70 km per uur inbeslagneming door de politie aangewezen is. De richtlijn gaat er daarbij van ult dat de officier van justitie, die over een dergelijke Inbeslagneming wordt geïnformeerd, in beginsel besluit tot handhaving van de inbeslagneming, tenzij daarvoor één of meer contra-indicaties van voldoende gewicht aanwezig zijn. Hierbij valt te denken aan relatief minder ernstige gevaarzetting of een eerste geconstateerde overtreding. Vooropgesteld moet worden dat de richtlijn ten behoeve van de politie criteria bevat voor inbeslagneming. De richtlijn laat onverlet de eigen verantwoordelijkheid van de officier van justitie die moet beoordelen of hij in een concreet geval verbeurdverklaring zal vorderen. De kans van slagen speelt hierbij een belangrijke rol. Een eventuele vordering tot verbeurdverklaring door de officier van justitie in de «Dordtse zaak» zou naar het oordeel van het openbaar ministerie in het ressort 's-Gravenhage zeer weinig kans van slagen hebben. Deze verwachting is gebaseerd op eerdere beslissingen van de rechter te Dordrecht, waarbij een vordering tot verbeurdverklaring werd afgewezen. Zo besliste de rechtbank te Dordrecht op 3 september 1991 in een procedure ex art. 552a Wetboek van Strafvordering dat een inbeslaggenomen auto met een waarde van ongeveer f 19 000 moest worden teruggegeven. Het betrof in acht ik het beleid van het openbaar ministerie te Dordrecht eveneens verantwoord. </antwoord>
+      <antwoord nummer="4, 5 en 6">De richtlijn gaat niet in op de waarde van een personenauto. Het uiteindelijke oordeel over een vordering tot verbeurdverklaring ligt bij de rechter. Voor de rechter spelen factoren een rol bij het beoordelen van een vordering tot verbeurdverklaring, waaronder de relatie tussen deze sanctie en de zwaarte van het delict. In ben van oordeel dat hierbij ook mag meewegen dat de eigenaar van een duurdere auto door aan het verkeer deel te nemen de daaraan verbonden risico's aanvaardt, zeker in geval van onrechtmatig gedrag. Overigens bestaat de mogelijkheid dat de rechter ingevolge artikel 33c tweede lid van het Wetboek van Strafrecht een vergoeding toekent ter voorkoming van onevenredig nadeel. Een en ander betekent dus dat nieuwe en dure personenauto's niet gevrijwaard zijn van verbeurdverklaring bij excessieve snelheidsovertredingen. </antwoord>
+      <antwoord nummer="9">De jurisprudentie naar aanleiding van de richtlijn verschilt weliswaar, doch geeft mij geen aanleiding tot een negatief oordeel over de houdbaarheid van de richtlijn. De rïchtlijn van de procureurs-generaal zal overigens binnenkort worden geëvalueerd. Hiertoe vindt op dit moment een inventarisatie plaats van de ervaringen van het openbaar ministerie met de toepassing van de richtlijn. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

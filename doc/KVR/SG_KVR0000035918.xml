@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001511</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001511&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001511</item>
+         <item attribuut="Document-id">0000035918</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 589</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Lankhorst (Groen Links) en Wolffensperger (D66) over de groepsregeling van de NS.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 589</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">589</item>
+         <item attribuut="Indiener">
+            <persoon>Lankhorst</persoon>
+            <persoon>Wolffensperger</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-03-16</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Maij-Weggen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-05-02</item>
+         <item attribuut="Beginpagina">1185</item>
+         <item attribuut="Eindpagina">1186</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1185" allpagenumbers="1185" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="589" onderwerp="de groepsregeling van de NS." indiendatum="1990-03-16">
+         <vrager partij="" oorsprong="parlement">Lankhorst</vrager>
+         <vrager partij="" oorsprong="parlement">Wolffensperger</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2 mei 1990), zie ook Aanhangsel Handelingen nr. 535, vergaderjaar 1989-1990.">
+         <antwoorder functie="minister" ministerie="Verkeer en Water– staat">Maij-Weggen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Wordt per 1 april a.s. de groepsre– geling voor het vervoer per trein afgeschaft?' </vraag>
+      <vraag nummer="2">Wat is de reden van dit besluit? </vraag>
+      <vraag nummer="3">Acht u het juist, dat de afschaffing van de groepsregeling van de NS voor de gebruikers tot gevolg heeft, dat de tariefstijging voor deze gebruikers eerder boven de 100% stijging komt dan boven de 2%? </vraag>
+      <vraag nummer="4">Bent u bereid uw invloed uit te oefenen teneinde de afschaffing van de groepsregeling alsnog ongedaan te maken? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" titel="Tarievennieuw"> «Tarievennieuw» van de NS</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja. kosten en opbrengsten. - Door de stijging van het vervoer per trein moesten door NS steeds meer verzoeken voor een groepsre– geling worden afgewezen. - Bij afwezigheid van een landelijk reserveringssysteem kan NS geen zitplaatsgarantie bieden. NS heeft hierdoor en door de stijging van het vervoer veel klachten ontvangen van groepsreizigers over te weinig zitplaatscapaciteit. </antwoord>
+      <antwoord nummer="3">Het gestelde dat de afschaffing van de groepsregeling van de NS voor de gebruiker tot gevolg heeft, dat de tariefstijging voor deze gebruikers eerder boven de 100% stijging komt dan boven de 2%, is niet juist. De werkelijke tariefstijging is afhankelijk van de groepssamenstelling en de reisafstand. Neen. Ik acht het niet zinvol NS te verzoeken een regeling te handhaven indien zij, zoals uit het vorengaande blijkt, aanvragen om daar gebruik van te mogen maken in toenemende mate moet afwijzen. Ik vind het naar de reizigers toe ook niet correct indien NS door deze regeling, formeel, te handhaven bij de reizigers verwachtingen wekt die zij vervolgens niet zou (kunnen) vervullen. Noch NS noch de reizigers zijn daarbij gebaat. De redenen zijn: - De ongunstige verhouding tussen </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

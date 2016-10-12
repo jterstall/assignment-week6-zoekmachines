@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19941995:0000533</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000533&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000533</item>
+         <item attribuut="Document-id">0000000533</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1994-1995 nummer 199</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Leerkes (Unie 55+) over leeftijdsdiscriminatie.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1994-1995 nummer 199</item>
+         <item attribuut="Jaargang">1994_1995</item>
+         <item attribuut="Vraagnummer">199</item>
+         <item attribuut="Indiener">
+            <persoon partij="Unie 55+">Leerkes</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-10-21</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Terpstra</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-11-23</item>
+         <item attribuut="Beginpagina">399</item>
+         <item attribuut="Eindpagina">400</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1994-1995" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="399" allpagenumbers="399" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1994-1995, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="'s-Gravenhage 1994"/>
+      <vraagdata vraagnummer="199" onderwerp="leeftijdsdiscriminatie." indiendatum="1994-10-21">
+         <vrager partij="Unie 55+" oorsprong="parlement">Leerkes</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-11-23">
+         <antwoorder functie="staatssecretaris" ministerie="Volksgezondheid, Welzijn en Sport">Terpstra</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1">Welke definitie van leeftijdsdiscriminatie hanteert het kabinet in zijn plannen alle rijksoverheidsregels van leeftijdsdiscriminerende bepalingen te ontdoen? Welke acties heeft het kabinet tot dusverre genomen om genoemd voornemen uit te voeren? </vraag>
+      <vraag nummer="3">Welke actie wil het kabinet ter zake verder ondernemen? Op welke termijn? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1" voetnoot="1">In het onderzoek dat door het ministerie van Binnenlandse Zaken en het ministerie van Justitie op verzoek van de Kamer tijdens de Uitgebreide Commissievergadering over de nota «Ouderen in Tel» <voetnoot nummer="1"/> wordt gedaan omtrent leeftijdscriteria in wet– en regelgeving wordt onder leeftijdsdiscriminatie verstaan: elk ongerechtvaardigd onderscheid naar leeftijd. Voor de beoordeling of het hanteren van het criterium leeftijd gerechtvaardigd is, wordt daartoe nagegaan of het gebruik van leeftijd als onderscheidend criterium noodzakelijk is gelet op het doel - dat legitiem moet zijn - dat daarmee beoogd wordt. Leeftijd moet dus een geschikt en noodzakelijk criterium zijn. Met andere woorden: is er voor het hanteren van een leeftijdscriterium een voldoende «dragende» motivering. Nadat dit is vastgesteld wordt vervolgens nagegaan of ook voor de gekozen leeftijdsgrens voldoende rechtvaardiging is. Ook wordt onderzocht of de gehanteerde leeftijdsgrens consistent is met andere leeftijdscriteria die om vergelijkbare redenen reeds elders in de wetgeving worden gehanteerd. Tenslotte wordt onderzocht of de gehanteerde leeftijdsgrens, ondanks de «dragende» motivering en de juistheid van de gekozen leeftijdsgrens, nadelige effecten heeft en welke groepen deze nadelen ondervinden. 2 e n 3 Het onderzoek zal - zoals ook in de memorie van toelichting bij de begroting van het ministerie van Binnenlandse Zaken staat vermeld - naar verwachting nog dit jaar aan het kabinet worden aangeboden. Gedurende het onderzoek zijn met de verschillende departementen afspraken gemaakt over het schrappen van leeftijdsgrenzen in wet– en regelgeving die in het licht van vorenstaande criteria niet te rechtvaardigen zijn. In die zin heeft het onderzoek tevens het karakter van een opschoonoperatie. Naast bovengenoemd onderzoek, dat gestaag vordert, functioneert sinds kort het Landelijk Bureau Leeftijdsdiscriminatie in Bunnik. Ik acht dit van belang, omdat juist via een centraal meld– en informatiepunt niet alleen service en ondersteuning kan worden verleend, maar ook meer inzicht kan worden verkregen in aard en frequentie van leeftijdsdiscriminatie. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Handelingen, verslag UCV 26 januari 1991, blz. 35, kolom I</noot>
+      </noten>
+   </antwoorden>
+</kvr>

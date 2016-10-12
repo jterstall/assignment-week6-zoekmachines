@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">overdrachtsbelasting op koopwoningen.; Antwoord</item>
+         <item attribuut="Bestand">14Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR1143
+</item>
+         <item attribuut="Rubriek">Belastingen (Belastingen van rechtsverkeer) Volkshuisvesting (Koopwoningen)</item>
+         <item attribuut="Trefwoorden">Koopwoningen Overdrachtsbelasting</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 1994-1995, nr. 508, Tweede Kamer</item>
+         <item attribuut="Afkomstig_van">Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Hofstra</persoon>
+            <persoon partij="VVD">Van Rey</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1995-02-09</item>
+         <item attribuut="Document-id">KVR1143</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1994–1995" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1037" allpagenumbers="1037" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1994–1995, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgeverij Plantijnstraat ’s-Gravenhage 1995"/>
+      <vraagdata vraagnummer="508" onderwerp="" indiendatum="1995-02-9">
+         <vrager partij="VVD" oorsprong="parlement">Hofstra</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Van Rey</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1995-03-6">
+         <antwoorder functie="staatssecretaris" ministerie="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer">Tommel</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Staat u nog steeds achter uw recente uitspraken <voetnoot nummer="1"/>over de overdrachtsbelasting op koopwoningen? </vraag>
+      <vraag nummer="2">Hebt u deze uitspraken op eigen titel gedaan of gaat het om een kabinetsvoornemen? </vraag>
+      <vraag nummer="3">Op welke termijn kan de Kamer concrete verlagingsvoorstellen voor de overdrachtsbelasting tegemoet zien? </vraag>
+      <vraag nummer="4">Om welke mate van verlaging zal het dan gaan? </vraag>
+      <vraag nummer="5">Waaruit bestaat de door u voorziene dekking om de verlaging van de overdrachtsbelasting te compenseren? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1995-02-4" bron="NRC-Handelsblad">NRC-Handelsblad, 4 februari 1995</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Deze vraag beantwoord ik bevestigend. Ik beschouw een verlaging van de overdrachtsbelasting als een van de middelen om de doorstroming, met name in de koopsector te bevorderen. </antwoord>
+      <antwoord nummer="2 t/m 5">Zoals ik in het interview in de «Woonconsument» van februari 1995 (zie bijlage) heb opgemerkt, liggen er op het punt van een verlaging van de overdrachtsbelasting geen kabinetsvoornemens. Zodra in het kabinet nadere mogelijkheden van extra lastenverlichting aan de orde komen, zal ik een verlaging van de overdrachtsbelasting als optie inbrengen. Ik wil hiermee het belang onderstrepen dat ik hecht aan een bevordering van de doorstroming op de woningmarkt. Deze kan ook een bijdrage leveren aan het beperken van het woon-werkverkeer en daarmee aan de (auto)mobiliteit. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001312</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001312&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001312</item>
+         <item attribuut="Document-id">0000011616</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 382</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Koffeman (CDA) over het op naam registreren van een auto met Nederlands kenteken.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 382</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">382</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Koffeman</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-01-26</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Hirsch Ballin</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-03-03</item>
+         <item attribuut="Beginpagina">783</item>
+         <item attribuut="Eindpagina">784</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="783" allpagenumbers="783" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="382" onderwerp="het op naam registreren van een auto met Nederlands kenteken." indiendatum="1993-01-26">
+         <vrager partij="CDA" oorsprong="parlement">Koffeman</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="3 maart 1993), zie ook Aanhangsel Handelingen nr. 350, Vergaderjaar 1992-1993">
+         <antwoorder functie="minister" ministerie="Justitie">Hirsch Ballin</antwoorder>
+         <mede-antwoorder>de minister van Verkeer en Waterstaat</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Kunnen, volgens de thans geldende regels, bezitters van een buitenlands paspoort een auto met een Nederlands kenteken op naam laten registreren zonder verificatie van het adres? <voetnoot nummer="1"/>Wordt bij dergelijke registraties een postbus of een buitenlands adres geaccepteerd? Hoe is dat geregeld voor Nederlanders? </vraag>
+      <vraag nummer="3">In hoeverre heeft deze situatie de afgelopen jaren problemen bij politie-onderzoeken veroorzaakt? Hoe groot schat u de omvang van de geschetste problematiek? </vraag>
+      <vraag nummer="4">Deelt u de mening, dat, zo nodig vooruitlopend op nieuwe wettelijke bepalingen terzake, op de kortst mogelijke termijn aan deze praktijk een einde moet komen? </vraag>
+      <vraag nummer="5">Zo ja, welke maatregelen staan u voor ogen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1993-01-25" bron=" Algemeen Dagblad"> Algemeen Dagblad, 25 januari 1993</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Bij tenaamstelling van een kentekenbewijs wordt zowel van houders van een buitenlands paspoort als van houders van een Nederlands paspoort een buitenlands adres geaccepteerd. Dit adres kan een postbus zijn. Een postbus als Nederlands adres wordt slechts in uitzonderlijke gevallen aanvaard, namelijk wanneer iemand geen vaste woon– of verblijfplaats heeft (bijvoorbeeld een schipper). </antwoord>
+      <antwoord nummer="3">Uit ingewonnen ambtsberlchten bij de procureurs-generaal, de Centrale Recherche Informatiedienst en de Algemene Verkeersdienst Rijkspolitie blijkt het bij diverse politiekorpsen regelmatig voor te komen dat gezochte personen met behulp van het kentekenregister niet zijn te achterhalen. Verder onderzoek wordt daardoor bemoeilijkt dan wel onmogelijk gemaakt. Een cijfermatige schatting met betrekking tot de frequentie van deze problematiek, die overigens per arrondissement verschilt, is echter niet te geven, omdat in de meeste gevallen registratie hierover ontbreekt. </antwoord>
+      <antwoord nummer="4"/>
+      <antwoord nummer=" en 5" voetnoot="1">In het wetsvoorstel Wegenverkeerswet 1992 <voetnoot nummer="1"/>, thans bij de Tweede Kamer aanhangig, wordt voorgesteld dat de aanvrager van een kentekenbewijs over een Nederlands woon– of vestigingsadres dient te beschikken, waardoor de traceerbaarheid van geregistreerden aanzienlijk wordt verbeterd. Aangezien dit wetsvoorstel thans gereed is voor mondelinge behandeling, is een tussentijdse wijziging van de huidige Wegenverkeerswet niet meer zinvol. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Kamerstuk 22 030</noot>
+      </noten>
+   </antwoorden>
+</kvr>

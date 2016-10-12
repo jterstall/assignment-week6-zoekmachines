@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001114</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001114&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001114</item>
+         <item attribuut="Document-id">0000106889</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 81</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Melkert en Verspaget (beiden P.v.d.A.) over UNESCO.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 81</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">81</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Melkert</persoon>
+            <persoon partij="PvdA">Verspaget</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-10-10</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Deetman</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-10-21</item>
+         <item attribuut="Beginpagina">159</item>
+         <item attribuut="Eindpagina">160</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1986-1987 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 6 - 1  9 8 7 ,  A a n h a n g s e l 1  5 9 " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="81" onderwerp="UNESCO." indiendatum="10 oktober 1986)">
+         <vrager partij="PvdA" oorsprong="parlement">Melkert</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Verspaget</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 ">Heeft de regering kennis genomen  van de verklaring van de directeur-ge- neraal van UNESCO, dat hij geen  kandidaat zal zijn voor een volgende  termijn?  </vraag>
+      <vraag nummer="2 ">Geeft dit feit aanleiding de in de  Algemene Vergadering van de VN  aangekondigde mogelijke heroverwe- ging van de Nederlandse positie  t.o.v. UNESCO te herzien, onverlet  latend de doelstelling van het tot  stand brengen van hervormingen  binnen deze organisatie? Zo neen,  waarom niet, mede in het licht van  het standpunt uiteengezet door de  regering in de toelichting bij het  begrotingshoofdstuk Onderwijs en  Wetenschappen?  </vraag>
+      <vraag nummer="3 ">Wat is de opvatting van de regering  ten aanzien van mogelijke initiatieven  tot alternatieve internationale  organisatievorming op het gebied  van onderwijs, cultuur en wetenschap- pen?  </vraag>
+      <vraag nummer="4 ">Zijn er aanwijzingen dat in de zich nu  aandienende omstandigheden de  regeringen van de Verenigde Staten  respectievelijk Groot-Brittannië hun  positie ten aanzien van UNESCO in  heroverweging zullen nemen?  Mag uit de mededelingen van de  minister-president bij de algemene  politieke en financiële beschouwingen  worden afgeleid, dat de regering  bereid is initiatieven te nemen  teneinde het spoedig tot stand  komen van zulk een heroverweging  te bevorderen?  De minister van Onderwijs en  Wetenschappen schrijft op blz 91  van zijn begrotingstoelichting: «Uit  de signalen en rapporten blijkt dat  sinds de 23e Algemene Conferentie  de door de lidstaten gewenste  hervormingen niet in voldoende mate  zijn tot stand gekomen, mede door  de opstelling van de Directeur-Gene- raal» (..) «Herverkiezing van de  huidige DG zou voor enkele Westerse  landen reden kunnen zijn tot uittreden  waardoor de basis voor het voortbe- staan van de UNESCO zou verdwij- nen».  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001137</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001137&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001137</item>
+         <item attribuut="Document-id">0000027474</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 204</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Leerling (R.P.F.) over het uitkopen van de oud-voorzitter van Veronica.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 204</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">204</item>
+         <item attribuut="Indiener">
+            <persoon partij="RPF">Leerling</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-10-15</item>
+         <item attribuut="Beantwoorder">
+            <persoon>D'Ancona</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-11-30</item>
+         <item attribuut="Beginpagina">411</item>
+         <item attribuut="Eindpagina">412</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="411" allpagenumbers="411" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 738x" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="204" onderwerp="het uitkopen van de oud-voorzitter van Veronica." indiendatum="15 oktober 1990).">
+         <vrager partij="RPF" oorsprong="parlement">Leerling</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1">Is de oud-voorzitter van Veronica uitgekocht met een gouden handdruk? Zo ja, gaat het hier om een groot bedrag? Is daarmee ook geld uit de publieke middelen gemoeid? Zo ja, hoeveel? </vraag>
+      <vraag nummer="3">Acht u het gepast, dat op deze wijze publieke middelen worden aangewend? Zo neen, beschikt u over middelen teneinde het een en ander ongedaan te maken? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1, 2 en 3">Uw vragen heb ik voor advies voorgelegd aan het Commissariaat voor de Media. Bijgaand doe ik u een afschrift toekomen van het antwoord dat ik ter zake van het Commissa– riaat heb ontvangen.' Ik kan daaraan nog het volgende toevoegen. Aangezien de aan de heer mr. W. Bordewijk toegekende afvloeiingsre– geling niet gefinancierd wordt uit de omroepgelden heb ik verder geen inzicht in de exacte omvang van het betreffende bedrag of van de betref– fende afvloeiingsregeling zelf. De vereniging is aan mij geen verant– woording verschuldigd over de aanwending van verenigingsmid– delen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

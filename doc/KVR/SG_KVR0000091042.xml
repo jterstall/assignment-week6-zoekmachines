@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19881989:0001443</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001443&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001443</item>
+         <item attribuut="Document-id">0000091042</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1988-1989 nummer 439</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Hageman (P.v.d.A.) over het beleid ten aanzien van «Scholing met behoud van uitkering».</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1988-1989 nummer 439</item>
+         <item attribuut="Jaargang">1988_1989</item>
+         <item attribuut="Vraagnummer">439</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Hageman</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-03-20</item>
+         <item attribuut="Beantwoorder">
+            <persoon>De Graaf</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-04-06</item>
+         <item attribuut="Beginpagina">881</item>
+         <item attribuut="Eindpagina">882</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1988-1989 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 8 - 1 9 8 9 ,  A a n h a n g s e l " filenaam="" issn-nummer="ISSN 0921 7398 " uitgever="SDU uitgeverij 's-Gravenhage 1989 "/>
+      <vraagdata vraagnummer="439" onderwerp="het beleid ten aanzien van «Scholing met behoud van uitkering»." indiendatum="20 maart 1989)">
+         <vrager partij="PvdA" oorsprong="parlement">Hageman</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="6 april 1989)">
+         <antwoorder functie="staatssecretaris" ministerie="Sociale Zaken en Werkgele- genheid">D e Graaf</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1 ">Op welke wijze hebt u de gemeente- besturen ingelicht over de aanpassing  van het beleid ten aanzien van  «Scholing met behoud van uitkering»?  </vraag>
+      <vraag nummer="2 " voetnoot="1">Verschilt de vorm waarin informatie  is verstrekt aan gemeentebesturen,  die direct belast zijn met de uitvoering  van de Algemene Bijstandswet en de  daarop gebaseerde rijksgroepsrege- lingen, van die waarop u de hoofdin- specteur-directeuren voor de  arbeidsvoorziening, de directeuren  van de gewestelijke arbeidsbureaus  en de rijksconsulenten sociale  zekerheid hebt ingelicht? <voetnoot nummer="1"/>'  2  </vraag>
+      <vraag nummer="3 ">Kunt u toelichten waarom de  gemeentebesturen niet op dezelfde  wijze zijn ingelicht als deze functio- narissen?  </vraag>
+      <vraag nummer="4 ">Op welke gronden meent u voor de  uitvoeringsorganen de beleidsruimte  met betrekking tot «scholing met  behoud van (RWW) uitkering» te  kunnen vergroten, waar van feitelijke  nieuwe wetgeving nog geen sprake  is?  </vraag>
+      <vraag nummer="5 ">In hoeverre kan een gemeentebestuur,  dat overeenkomstig de geldende  wetgeving besluit wordt aangespro- ken door belanghebbende, in dit  geval de bijstandsgerechtigde, op de  van rijkswege geboden beleidsruimte?  </vraag>
+      <vraag nummer="6 ">Deelt u de opvatting, dat uw handels- wijze niet overeenkomt met het  beginsel van geoorloofde anticipatie  dat wil zeggen bepalingen van  geldend recht worden terzijde  geschoven, indien en voorzover het  toekomstig recht, waarop  w o r d t  vooruitgelopen, in voldoende mate  concreet is geworden?  W o r d t er in  de door u voorgestane anticipatie  niet aan deze beginselen te kort  gedaan, nu er slechts sprake is van  een adviesaanvraag aan de Sociaal- Economische Raad en niet van  «ontwerp-wetgeving»?  </vraag>
+      <vraag nummer="7 ">Zo ja, welke maatregelen denkt u dan  te nemen?  </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" titel="Anticipatie op  pseudo wetgeving of erger.."> Sociaal Bestek, nr. 3 '89 «Anticipatie op  pseudo wetgeving of erger..» </noot>
+         <noot nummer="2" titel="Scholing  met behoud van uitkering"> Instructie bij SZ-jhournal 88/5 «Scholing  met behoud van uitkering». </noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1 ">Beleidsonderwerpen in het kader van  de Algemene Bijstandswet vormen  onderdeel van de regelmatig gevoerde  beleidsgesprekken tussen de  rijksconsulenten sociale zekerheid en  vertegenwoordigers van gemeenten.  Daarnaast verstrekken medewerkers  van de Rijksconsulentschappen, al  dan niet gevraagd, informatie  bijvoorbeeld via door DIVOSA  georganiseerde regionale bijeenkom- sten, en wordt de uitvoerende  instanties voorlichting gegeven via  onder andere het SZ-journaal. Deze  instrumenten worden ook toegepast  bij beleidsvraagstukken ten aanzien  van scholing met behoud van  uitkering.  2  t / m 4  In de adviesaanvraag voorzieningen- beleid, 29 mei 1988 aan onder  andere de Sociaal-Economische  Raad is onder meer aangegeven welk  beleid het kabinet voor ogen staat  ten aanzien van scholing met behoud  van uitkering. Met dat beleid denkt  het kabinet ook een aantal knelpunten  weg te nemen, die zich in de praktijk  reeds voordoen. Dit betreft met name  het probleem dat projecten met  scholing op tertiair niveau die  specifiek op werklozen zijn gericht,  strikt genomen op grond van de Rww  in geen enkel geval met behoud van  uitkering zouden kunnen worden  géVolgd. In de praktijk is behoefte  gebleken om bepaalde werklozen  met het oog op hun arbeidsinschake- ling die mogelijkheid wel te bieden.  Ik meen dat, waar dit knelpunt in  verband met het uitkeringsrecht  bestaat, nu reeds die ruimte moet  worden geboden, mits het scholings- vormen betreft die voldoen aan de  criteria die in de adviesaanvrage zijn  gegeven. Daarmee wordt het belang  van individuele uitkeringsgerechtig- den gediend, onder de waarborg dat  dit gebeurt binnen nu reeds wense- lijke, doch pas later te formaliseren  criteria.  Voor de informatieverstrekking over  zo'n standpunt bestaan verschillende  gemeentebestuur zijn daarom niet  anders dan voorheen.  6 en 7  Nee. Ik ben van opvatting dat in  afwachting van de regelgeving op  een praktische wijze is voorzien in de  oplossing van zich voordoende  knelpunten, waardoor actief kan  worden ingespeeld op een actuele  vraag vanuit de arbeidsmarkt. Aldus  w o r d t voorkomen dat maatregelen  zouden moeten worden genomen  tegen gemeentebesturen die  uitkeringsgerechtigden in de gelegen- heid willen stellen om  g e b r u i k t e  maken van de bedoelde, specifiek  voor hen gecreëerde scholingsvoor- zieningen.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

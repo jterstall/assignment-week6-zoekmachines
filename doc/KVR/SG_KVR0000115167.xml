@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="1">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19851986:0001607</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001607&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001607</item>
+         <item attribuut="Document-id">0000115167</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1985-1986 nummer 686</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Schutte (G.P.V.) over een studiedag «homoseksualiteit en ouderschap».</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1985-1986 nummer 686</item>
+         <item attribuut="Jaargang">1985_1986</item>
+         <item attribuut="Vraagnummer">686</item>
+         <item attribuut="Indiener">
+            <persoon partij="GPV">Schutte</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-03-19</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Brinkman</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-05-13</item>
+         <item attribuut="Beginpagina">1363</item>
+         <item attribuut="Eindpagina">1364</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1985-1986 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 5 - 1 9 8 6 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="686" onderwerp="een studiedag «homoseksualiteit en ouderschap»." indiendatum="19 maart 1986)">
+         <vrager partij="GPV" oorsprong="parlement">Schutte</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="13 mei 1986).">
+         <antwoorder functie="Minister" ministerie="Welzijn, Volksgezondheid en Cultuur">Brinkman</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="1">
+      <vraag nummer="1 ">Is de studiedag «homoseksualiteit en  ouderschap», gehouden te Utrecht  op 15 maart jl., vanwege het ministe- rie van WVC voor f 6700 gesubsi- dieerd? Heeft de minister zich op  deze studiedag ambtelijk laten  vertegenwoordigen ?  het kader van het rijksprogramma  sociaal-cultureel werk 1986 (kamer- stuk 19 200, XVI, nr. 9) dat op 14  november 1985 met de vaste  Commissie voor Welzijn en Cultuur is  besproken, worden tegen deze  achtergrond activiteiten ontplooid en  ondersteund, gericht op het bevorde- ren van bewustwording en het op  gang brengen van mentaliteitsveran- deringen om zodoende discriminatie  ten aanzien van homoseksuelen te  kunnen tegengaan en om hen een  gelijkwaardige positie in onze  samenleving te bieden.  Zo ja, op grond van welke overwegin- gen heeft de bewindsman een en  ander gedaan?  </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"/>
+         <noot nummer="1"> Zie Trouw van 17 maart 1986 </noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1 ">Ja.  De subsidiëring vloeit voort uit de in  1984 door de Tweede Kamer  aangeboden motie van mevrouw  Rempt-Halmmans de Jongh, waarin  de Regering werd gevraagd op korte  termijn een beleid te ontwikkelen met  betrekking tot homoseksualiteit.  Uitgangspunt van dit beleid is dat in  een pluriforme maatschappij als de  onze iedereen gelijke rechten,  kansen, vrijheden en verantwoorde- </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

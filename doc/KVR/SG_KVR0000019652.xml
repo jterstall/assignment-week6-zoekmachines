@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001266</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001266&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001266</item>
+         <item attribuut="Document-id">0000019652</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 253</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Esselink en Mulder-van Dam (beiden CDA) over zeefzand.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 253</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">253</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Esselink</persoon>
+            <persoon partij="CDA">Mulder-van Dam</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-09-25</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Alders</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-12-19</item>
+         <item attribuut="Beginpagina">513</item>
+         <item attribuut="Eindpagina">516</item>
+         <item attribuut="Omvang">4 pag.</item>
+      </metadata>
+      <header titel="" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="513" allpagenumbers="513 514 515 5" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 - 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="253" onderwerp="zeefzand." indiendatum="1991-09-25">
+         <vrager partij="CDA" oorsprong="parlement">Esselink</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Mulder-van Dam</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="19 december 1991), zie ook Aanhangsel Handelingen nr. 85 (vergaderjaar 1991-1992) Opmerkingen vooraf: Zeefzand is de fijne minerale fractie uit bouw– en sloopafval Het komt vrij bij het zeven van puin voorafgaand aan de fabncage van granulaten Uit onderzoek is gebleken dat zeefzand verontreinigingen bevat. Met name polycyclische aromatische">
+         <antwoorder functie="minister" ministerie="Volkshuisvesting, Ruimtelijke Ordenmg en Milieubeheer">Alders</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="9">
+      <vraag nummer="1">Accepteren wegenbouwbedrijven en andere bedrijven die vulmateriaal verwerken, niet langer zeefzand afkomstig van scheidings– en verwerkingsinstallaties voor bouw– en sloopafval, omdat het moet worden aangemerkt als chemisch afval? Hoeveel zeefzand komt er naar schatting in Nederland jaarlijks vrij? </vraag>
+      <vraag nummer="3">Wat gebeurt er nu met het zeefzand, dat al ontstaan was van het moment waarop vastgesteld werd dat zeefzand chemisch afval is? </vraag>
+      <vraag nummer="4">Bij welke gelegenheid en door wie is vastgesteld dat zeefzand in het algemeen gesproken moet worden aangemerkt als chemisch afval? Op grond van welke regeling is dat gebeurd? </vraag>
+      <vraag nummer="5">Op welke wijze zijn de exploitanten van inrichtingen voor de inzameling en verwerking van bouw– en sloopafval in kennis gesteld van het feit, dat zeefzand in het algemeen valt aan te merken als chemisch afval? In hoeverre (geschatte hoeveelheden en condities waaronder) is zeefzand nog herbruikbaar als vulmiddel in de wegenbouw en dergelijke nu het in het algemeen aangeduid wordt als chemisch afval? Welke maatregelen zijn of worden genomen om te voorkomen dat er grote, slechts als chemisch afval op speciale (C3) stortplaatsen te storten, hoeveelheden zeefzand ontstaan? </vraag>
+      <vraag nummer="8">Is er voldoende stortcapaciteit voorhanden? Zijn daarvoor vergunning op grond van de Wet Chemische Afvalstoffen aangevraagd en verstrekt? Wordt er zeefzand naar het buitenland uitgevoerd? Zo ja, om welke hoeveelheden gaat het dan? </vraag>
+      <vraag nummer="10">Hoe wordt zeefzand als restprodukt van de verwerking van bouw– en sloopafval in de ons omringende landen beoordeeld en verwerkt? </vraag>
+      <vraag nummer="11">Is, indien ontheffing wordt verleend voor de verwerking van zeefzand als vulmiddel in de wegenbouw, nu en in de toekomst een Milieu-effectrapportage (MER) nodig? </vraag>
+      <vraag nummer="12">Is een dergelijke MER nodig ingeval van vergunningverlening voor stort op een afvalstortplaats, (C3) al dan niet gecombineerd met niet-chemisch afval? 13 Is voor het transport van zeefzand de Regeling in–, door–, en uitvoer van gevaarlijke afvalstoffen van toepassing? Zo ja, hoe is dat aan betrokkenen (verwerkers, transporteurs) bekend gemaakt? </vraag>
+      <vraag nummer="14">Wat zijn de gevolgen van de stagnatie in de afzet van zeefzand voor de verwerking van bouw– en sloopafval tot herbruikbare produkten? Hoeveel bouw– en sloopafval wordt naar verwachting rechtstreeks gestort, omdat de afzet van zeefzand moeilijk is geworden? Is daarvoor ruimte op de aangewezen stortplaatsen? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="7">
+      <antwoord nummer="2">Bij de bewerking van bouw– en sloopafval in bewerkingsinrichtingen komt per jaar ca. 650.000 ton zeefzand vrij. Daarnaast komt ook jaarlijks ca. 100.000 ton zeefzand vrij in sorteer– en scheidingsbednjven die steenachtig (bouw)afval verwerken. Bouw– en sloopafval wordt op dit moment ook (nog) in ongebroken en/of ongezeefde toestand toegepast en gestort. Daarbij is (formeel) geen sprake van het «vrijkomen» van zeefzand. Bij de voorgenomen intensivering van het hergebruik van bouw– en sloopafval zullen deze ongebroken en/of ongezeefde toepassingen worden teruggedrongen zodat de hoeveelheid vrijkomend zeefzand nog zal toenemen. Op dit moment kan geen indicatie worden gegeven van de omvang van bedoelde toename. </antwoord>
+      <antwoord nummer="3">Ten gevolge van de signalen dat (sommige partijen) zeefzand moeten worden beschouwd en behandeld als chemisch afval zijn enkele bewerkingsinrichtingen vanaf 1989 overgegaan tot het bewaren van zeefzand op eigen terrein in afwachting van bewerkings–, toepassings– of deponiemogelijkheden. Voorts zijn de volgende ontwikkelingen waarneembaar: - De bewerkingsinrichtingen beperken de acceptatie van zandachtige materialen. Een zorgvuldiger grondverzet en het zeven van sloopafval op de provincie Utrecht dit standpunt onderschreven. Ongeveer op datzelfde moment in 1989 heeft de belangenvereniging van puinbewerkingsinstallaties in Nederland (Belangenvereniging Recycling Bouw– en Sloopafval, BRBS) mij in kennis gesteld van de resultaten van een oriënterend onderzoek naar de verontreiniging van zeefzand. Begin 1991 is een landelijk uniform standpunt voor de Inspectie Milieuhygiëne vastgesteld, waarin o.a. is vastgelegd dat zeefzand in principe als chemisch afval moet worden aangemerkt. Gebleken is dat het materiaal de in het Stoffen– en Processenbesluit van de Wet chemische afvalstoffen (WCA) genoemde ondergrens van 50 mg/kg aromatische polycyclische verbindingen overschrijdt. Overigens is het Stoffen– en Processenbesluit inmiddels vervangen door het Besluit aanwijzing chemische afvalstoffen. Deze juridische wijziging betreft onder andere een aangepaste normstelling voor PAK's. Dit zal overigens naar verwachting geen aanmerkelijke invloed hebben op de hoeveelheid zeefzand die als chemisch afval moet worden aangemerkt </antwoord>
+      <antwoord nummer="5">Middels een brief van de Inspecteur Milieuhygiëne voor de provincie Utrecht, 8 juni 1989 zijn de collega-inspecties in Nederland, en de directeur Afvalstoffen, op de hoogte gesteld van de onder 4 genoemde informatie. Door initiatieven van de Regionale Inspecties zijn vervolgens de randvoorwaarden aangegeven waarbinnen toepassing van zeefzand op of in de bodem zal zijn toegestaan. Daaruit blijkt dat: • zeefzand in de wegenbouw toepasbaar is indien het, door selectieve sloop en eventuele andere maatregelen, een zo goed mogelijke kwaliteit heeft en het tevens is voorzien van een kwaliteitsverklaring, • overig zeefzand (en dat is vooralsnog de grootste fractie van het totaal) toepasbaar is in wegfunderingen met een minimumomvang van 1000 ton en in andere werken met een minimum-omvang van 10.000 ton. Daarbij moet de bescherming van de bodem door isolatie worden gewaarborgd. Op deze manier kan een verantwoorde toepassing van zeefzand worden gerealiseerd waarbij, uitgaande van de huidige kwaliteit van het materiaal, de tot voor kort gangbare kleinschalige onbeheersbare toepassingen worden beëindigd en grootschalige nuttige toepassingen kunnen worden gerealiseerd. Indien de kwaliteit van het materiaal (op basis van de onder 7 genoemde initiatieven) zal zijn verbeterd dan kan het materiaal (weer) een breder toepassingsgebied krijgen. </antwoord>
+      <antwoord nummer="7">Het rijksbeleid is gericht op kwaliteitsverbetering van afvalstoffen en het nuttig toepassen van afvalstoffen met een aanvaardbare kwaliteit. Ten aanzien van zeefzand loopt sinds het bekend worden van de problemen in 1989 een aantal acties die moeten leiden tot het een modelverordening wordt opgesteld door de Vereniging van Nederlandse Gemeenten. </antwoord>
+      <antwoord nummer="8">Neen Slechts enkele stortplaatsen zijn op dit moment geëquipeerd om dit materiaal te kunnen ontvangen. Bij de beleidsontwikkeling inzake de verwijdering van chemisch afval wordt zeefzand beschouwd als een relatief weinig milieubelastend type chemisch afval dat te zamen met bijvoorbeeld huisvuil en bedrijfsafval mag worden gestort op stortplaatsen die voldoen aan zogenoemde IBC-criteria. Er is in samenwerking met de provmcies een beleid in gang gezet dat moet resulteren in het uitbreiden van het aantal stortplaatsen dat voldoet aan die IBC-criteria en bovendien over ontheffingen in het kader van de WCA beschikken om onder andere de nu in het geding zijnde kwaliteit zeefzand te kunnen accepteren. Uitgaande van de veronderstelling dat een deel van het zeefzand niet afzetbaar zal blijken te zijn zal het materiaal (voor zover het als chemisch afval moet worden geclassificeerd) op die stortplaatsen geborgen kunnen worden. Op dit moment beschikken twee stortplaatsen (VBM, Maasvlakte en Boeldershoek, Twenthe) over ontheffingen om dit type chemisch afval te mogen storten. Er zijn nog twee (concept-)aanvragen om ontheffing in behandeling (stortplaats de Vlagheide, Schijndel en Gewestelijke afvalverwerking Montfoort, Linnen en Montfoort). grondstof in de wegenbouw. In dat geval is er geen sprake van chemisch afval en is ontheffing van het bepaalde in de Wet chemische afvalstoffen ook niet aan de orde. Voor de toepassing van zeefzand als vulmiddel is geen m.e.r. vereist en zal ook in de toekomst geen m.e.r. nodig zijn. </antwoord>
+      <antwoord nummer="12">Zoals in het antwoord op vraag 8 al is aangeduid zal worden bevorderd dat stortplaatsbeheerders een ontheffing zullen vragen op grond van de Wca voor het storten van zeefzand, als onderdeel van het C3-afval. Ervan uitgaande dat zeefzand te zamen met niet-chemisch afval gestort wordt behoeft de aanvraag voor een ontheffing op grond van de WCA niet vergezeld te worden van een MER. Nadat de voorziene wijziging van het Besluit Milieu-effectrapportage van kracht is geworden zal wel een MER opgesteld moeten worden. </antwoord>
+      <antwoord nummer="13">De regeling in–, uit– en doorvoer van gevaarlijke afvalstoffen is op zeefzand van toepassing indien er sprake is van een afvalstof en het gehalte aan in de regeling omschreven stoffen een bepaalde grenswaarde overschrijdt (b.v. meer dan 50 mg/kg aromatische polycyclische verbindingen). Bij het in werking treden van de regeling is in 1988 een grote voorlichtingsactie gehouden onder alle houders van een vergunning op grond van de Wca en een aantal branche-organisaties, daarnaast is een voorlichtingsbrochure van de Gegevens over de hoeveelheid bouw– en sloopafval die zou worden gestort in verband met afzetproblemen van zeefzand zijn niet beschikbaar. Het beleid richt zich op zoveel mogelijk hergebruik van bouw– en sloopafval en op hergebruik van zeefzand (mits daarbij aan de condities genoemd in het ontwerp-Bouwstoffenbesluit wordt voldaan). Het storten van bouw– en sloopafval om reden van het afzetprobleem van zeefzand past niet in dat beleid, en zou overigens ook grote financiële gevolgen hebben en tot capaciteitsproblemen leideri op de bestaande stortplaatsen. Zoals in het antwoord op vraag 12 is aangegeven wordt bevorderd dat capaciteit beschikbaar komt voor het storten van zeefzand waarvoor geen toepassingsmogelijkheden bestaan. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

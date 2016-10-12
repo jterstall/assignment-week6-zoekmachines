@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001957</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001957&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001957</item>
+         <item attribuut="Document-id">0000107732</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 923</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Koetje en Mateman (beiden C.D.A.) over de SOOB-taken van de Raad voor het Binnenlands Bestuur.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 923</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">923</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Koetje</persoon>
+            <persoon partij="CDA">Mateman</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-07-09</item>
+         <item attribuut="Beantwoorder">
+            <persoon>De Graaff-IMauta</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-07-23</item>
+         <item attribuut="Beginpagina">1843</item>
+         <item attribuut="Eindpagina">1844</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1986-1987 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="923" onderwerp="de SOOB-taken van de Raad voor het Binnenlands Bestuur." indiendatum="9 juli 1987)">
+         <vrager partij="CDA" oorsprong="parlement">Koetje</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Mateman</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="23 juli 1987)">
+         <antwoorder functie="staatssecretaris" ministerie="Binnenlandse Zaken">D e Graaff-IMauta</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="1">
+      <vraag nummer="1 ">Hebt u inmiddels gereageerd op de  brief van de Raad voor het Binnen- lands Bestuur van  3 0 mei 1986  inzake de zgn. SOOB-taken van de  raad?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="8">
+      <antwoord nummer="1 ">Ja.  </antwoord>
+      <antwoord nummer="2 ">Ik kan instemmen met de taakopvat- ting van de Raad voor het Binnenlands  Bestuur zoals geformuleerd in de  brief van de Raad van  3 0 mei 1986.  </antwoord>
+      <antwoord nummer="3 ">Ja.  Zo ja, wat is de inhoud van de  reactie? Zo neen, op welke termijn  denkt u de raad te antwoorden?  </antwoord>
+      <antwoord nummer="3 ">Hebt u kennis genomen van het  eerste jaarrapport Onderzoek  Openbaar Bestuur van 9 januari  1987?  </antwoord>
+      <antwoord nummer="4 ">Waarom hebt u dit jaarrapport niet  aan de Tweede Kamer gezonden,  zoals voorgeschreven  w o r d t door  artikel 10 van de  W e t Raad voor het  binnenlands bestuur?  Het jaarrapport is op 7 juli 1 987 door  mij aan de Tweede Kamer gestuurd.  </antwoord>
+      <antwoord nummer="5 ">Ik verwacht de Kamer in oktober het  standpunt van het kabinet te kunnen  meedelen. Hierover wordt momenteel  interdepartementaal overleg gevoerd.  </antwoord>
+      <antwoord nummer="6 ">Ja.  Wanneer kan het regeringsstandpunt  terzake tegemoet worden gezien ex  artikel 10 van de  W e t Raad voor het  binnenlands bestuur?  </antwoord>
+      <antwoord nummer="6 ">Bent u bereid daarbij tevens aandacht  te schenken aan het gestelde in het  Jaarverslag 1986 van de Raad van  advies voor het wetenschapsbeleid  voor zover het de advisering over de  onderzoeksthema's voor het openbaar  bestuur betreft?  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

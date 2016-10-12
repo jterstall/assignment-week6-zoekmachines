@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001201</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001201&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001201</item>
+         <item attribuut="Document-id">0000027538</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 268</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Van der Vaart en Feenstra (beiden P.v.d.A.) over gebruik van aardgasbussen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 268</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">268</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Van der Vaart</persoon>
+            <persoon partij="PvdA">Feenstra</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-11-27</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Amelsvoort</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-12-21</item>
+         <item attribuut="Beginpagina">541</item>
+         <item attribuut="Eindpagina">542</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="541" allpagenumbers="541" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1991"/>
+      <vraagdata vraagnummer="268" onderwerp="gebruik van aardgasbussen." indiendatum="1990-11-27">
+         <vrager partij="PvdA" oorsprong="parlement">Van der Vaart</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Feenstra</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Hebt u in bepaalde gevallen goedge– keurd, dat aardgasbussen zijn vrijge– steld van de LPG-toeslag in de motorrijtuigenbelasting? </vraag>
+      <vraag nummer="2">Zo ja, om hoeveel gevallen gaat het? Tot welke datum gelden de vrijstel– lingen? Welk beleid voert u ter zake en welke wettelijke grondslag bestaat daarvoor? Wilt u aan bepaalde vrijstellingen een einde maken vanaf een bepaalde datum? Zo ja, in welke van de voornoemde gevallen? Per wanneer? </vraag>
+      <vraag nummer="4">Subsidieert de rijksoverheid het gebruik van aardgasbussen? Zo ja, in welke vorm? Met welke bedragen? </vraag>
+      <vraag nummer="5">Bent u bereid te bevorderen, dat aardgasbussen vooralsnog geen LPG-toeslag hoeven te betalen? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="4">De centrale overheid is een belangrijke geldschieter bij de praktijkproeven met aardgasbussen. Bij het Aardgasbus-circulaireplan (stadsbussen in Groningen, Rotterdam en Den Haag) heeft het ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieu– beheer f 1,65 miljoen bijgedragen en het ministerie van Verkeer en Water– staat f 150000,-. Bij het aardgas– streekbussenplan heeft het minis– terie van Volkshuisvesting, Ruimtelijke Ordening en Milieu– beheer f 200 000,- bijgedragen; het ministerie van Verkeer en Waterstaat f 1 356 600,-. De Nederlandse Maatschappij voor Energie en Milieu (NOVEM) draagt vanuit het onderzoekprogramma Rationeel Energiegebruik Verkeer en Vervoer eveneens bij aan de praktijk– proeven van het streekvervoerbedrijf en van de combinatie van stadsver– voerbedrijven. De inspanning van NOVEM is met name gericht op het energetisch optimaliseren van de motoren. De bijdrage bedraagt f 500 000,- voor elk van de projecten. </antwoord>
+      <antwoord nummer="5">Zoals ik hiervoor onder 1-3 heb uiteengezet, heb ik goedgekeurd dat </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

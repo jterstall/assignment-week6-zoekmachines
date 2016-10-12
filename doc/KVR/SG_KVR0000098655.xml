@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19871988:0000941</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0000941&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0000941</item>
+         <item attribuut="Document-id">0000098655</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1987-1988 nummer 5</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Melkert en Wallage (beiden P.v.d.A.) over de Nederlandse positie m.b.t. de Raad voor Namibië.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1987-1988 nummer 5</item>
+         <item attribuut="Jaargang">1987_1988</item>
+         <item attribuut="Vraagnummer">5</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Melkert</persoon>
+            <persoon partij="PvdA">Wallage</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-09-02</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-09-21</item>
+         <item attribuut="Beginpagina">9</item>
+         <item attribuut="Eindpagina">10</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 7 - 1 9 8 8 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 7 - 1 9 8 8 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="Vragen" onderwerp="de Nederlandse positie m.b.t. de Raad voor Namibië." indiendatum="2 september 1987)">
+         <vrager partij="PvdA" oorsprong="parlement">Melkert</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Wallage</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1 ">Waarom heeft de fungerend Perma- nent Vertegenwoordiger bij de  Verenigde Naties de mogelijkheid  geopperd de Nederlandse positie  met betrekking tot de Raad voor  Namibië te herzien?'  </vraag>
+      <vraag nummer="2 ">Waarvan is een eventuele herziening  afhankelijk?  </vraag>
+      <vraag nummer="3 ">Welke mogelijkheden staan de  minister hierbij voor ogen?  </vraag>
+      <vraag nummer="4 ">Acht de minister het opportuun de  Raad voor Namibië terecht te wijzen </vraag>
+      <vraag nummer="2 ">aangaande de prioriteitstelling  binnen zijn werkzaamheden, gegeven  de door de regering erkende zelfstan- dige bevoegdheden van de Raad?  </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> General Assembly  A / 4 2 /4 1 4 (brief van de  fungerend Permanent Vertegenwoordiger  van Nederland aan de secretaris-generaal  van de Verenigde Naties). </noot>
+         <noot nummer="2" titel=" (...) one would have expected the  Council to concentrate on real infringements  of Decree No 1 that are actually taking  place "> Idem: « (...) one would have expected the  Council to concentrate on real infringements  of Decree No 1 that are actually taking  place » </noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="3 ">Over specifieke mogelijkheden wil ik  mij nog nader beraden in het licht  van de verdere ontwikkelingen.  VN-lidstaten hebben alle vrijheid,  zich uit te spreken over een VN-orgaan  dat verantwoording schuldig is aan  de Algemene Vergadering van de  Verenigde Naties.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001260</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001260&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001260</item>
+         <item attribuut="Document-id">0000107035</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 228</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Herfkens en Ter Beek (beiden P.v.d.A.) over een Britse verklaring inzake de Malvinas/Falkland-eilanden.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 228</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">228</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Herfkens</persoon>
+            <persoon partij="PvdA">Ter Beek</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-11-13</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-12-10</item>
+         <item attribuut="Beginpagina">455</item>
+         <item attribuut="Eindpagina">456</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 6 - 1 9 8 7 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="228" onderwerp="een Britse verklaring inzake de Malvinas/ Falkland-eilanden." indiendatum="13 november 1986)">
+         <vrager partij="PvdA" oorsprong="parlement">Herfkens</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Ter Beek</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="10 december 1986)">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">V a n d e n Broek</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 ">Heeft de regering kennis genomen  van de Britse verklaring, dat rond de  Malvinas/Falkland-eilanden een  zogenaamde «Falkland Islands  Conservation zone» wordt ingesteld  van 150 mijl waarbinnen visvangst  door derde landen is verboden?  </vraag>
+      <vraag nummer="2 ">Is deze eenzijdige verklaring in strijd  met de oproep van de Verenigde  Naties aan betrokkenen om zich te  onthouden van eenzijdige wijzigingen  van de huidige toestand rond de  Malvinas/Falkland-eilanden?  </vraag>
+      <vraag nummer="3 ">Acht de regering deze eenzijdige  Britse actie schadelijk voor de kans  op een vreedzame oplossing van het  conflict inzake soevereiniteit over  de Malvinas tussen Argentinië en het  Verenigd Koninkrijk door middel van  onderhandelingen?  </vraag>
+      <vraag nummer="4 ">Is de regering bereid deze zaak met  de Britse regering te bespreken,  eventueel ook in  E P S . v e r b a n d ?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1 ">Ja.  2 en 3  De regering te Londen heeft blijkens  een desbetreffende bekendmaking  van officiële Britse zijde tot de  onderhavige maatregel besloten ter  bescherming van het visbestand in  en rond de betrokken zone, aangezien  en voor zolang dienaangaande nog  geen multilaterale regeling bestaat.  Opgemerkt zij dat de Falkland Islands  Interim Conservation Zone zich  nergens uitstrekt tot buiten de  equidistantielijn tussen de Falkland  eilanden en de Argentijnse kust. De  Britse regering legt te dezen een  rechtstreeks verband tussen de door  haar genomen maatregel enerzijds  en de recente totstandkoming van  een bilaterale visserijovereenkomst  tussen Argentinië en de Sowjet Unie  anderzijds. Ik ben van mening dat  een en ander los dient te worden  gezien van het geschil tussen beide  landen over de toekomstige status  van de Falklands (Malvinas).  W a t dit  laatste aangaat is het Nederlandse  standpunt, zoals dat nog dezer dagen  bij de behandeling te New York van  de desbetreffende resolutie in de  AVVN tot uitdrukking kwam, voldoen- de bekend.  Tussen Den Haag en Londen bestaat  over dit onderwerp veelvuldig  contact.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

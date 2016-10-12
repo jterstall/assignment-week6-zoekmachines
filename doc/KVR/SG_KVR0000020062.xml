@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="2">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001676</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001676&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001676</item>
+         <item attribuut="Document-id">0000020062</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 658</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Leerling (RPF) over een geheim EG-memorandum waarin economische sancties tegen Israël worden overwogen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 658</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">658</item>
+         <item attribuut="Indiener">
+            <persoon partij="RPF">Leerling</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-06-01</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-06-22</item>
+         <item attribuut="Beginpagina">1379</item>
+         <item attribuut="Eindpagina">1380</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1379" allpagenumbers="1379" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="658" onderwerp="een geheim EG-memorandum waarin economische sancties tegen Israël worden overwogen." indiendatum="1992-06-1">
+         <vrager partij="RPF" oorsprong="parlement">Leerling</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-06-22">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">Van den Broek</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1" voetnoot="1">Worden in een geheim EG-memorandum economische sancties tegen Israël overwogen om de stopzetting van het nederzettingenbeleid in de «bezette» gebieden af te dwingen? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Zo ja, onder wiens verantwoordelijkheid is dit rapport opgesteld? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Het betreft hier slechts enkele losse gedachten, zonder enigerlei specifieke status. 2 t / m 4 Zoals bekend staan de EG en haar lidstaten afwijzend tegenover het Israëlische nederzettingenbeleid in de Bezette Gebieden. Economische sancties tegen Israël zijn evenwel in dat verband niet aan de orde geweest. Hebben de directeuren-generaal van de ministeries van Buitenlandse Zaken in de EG-lidstaten aanbevelingen van dit memorandum voorlopig naast zich neergelegd? </antwoord>
+      <antwoord nummer="4">Zo ja, wat wordt onder de term «voorlopig» verstaan? Waarom heeft de Nederlandse regering niet aangedrongen op een definitieve afwijzing van de aanbevelingen van dit rapport? </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1" datum="1992-05-22" bron=" Zie onder meer de «Jerusalem Post» van 21 mei 1992 en " titel="Volkskrant"> Zie onder meer de «Jerusalem Post» van 21 mei 1992 en «Volkskrant», 22 mei 1992</noot>
+      </noten>
+   </antwoorden>
+</kvr>

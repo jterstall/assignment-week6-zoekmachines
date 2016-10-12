@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Vendrik en Azough (beiden GroenLinks) aan de ministers van Financiën en van Justitie over het TARGET2-betalingssysteem. (Ingezonden 12 februari 2007); Antwoord</item>
+         <item attribuut="Bestand">18Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR27456
+</item>
+         <item attribuut="Inhoud">Vragen over het voornemen van de Europese Centrale Bank om het TARGET2-betalingssysteem te koppelen aan het netwerk van SWIFT. Gevraagd wordt onder andere of het (Amerikaanse) TARGET2-systeem voldoet aan de Europese regels inzake gegevensbescherming. Vragenstellers verzoeken tevens de minister om dit onderwerp aan de orde te stellen tijdens de Ecofin-raad van 27 februari 2007.</item>
+         <item attribuut="Rubriek">Criminaliteit en openbare orde (Informatiebeveiliging) Criminaliteit en openbare orde (Persoonsregistratie en identificatie) Geld- en kapitaalmarkt (Betalingsverkeer)</item>
+         <item attribuut="Trefwoorden">Betalingsverkeer Gegevensbeveiliging Persoonsregistratie</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2006-2007, nr. 933, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2060707500</item>
+         <item attribuut="Afkomstig_van">Financiën (FIN)</item>
+         <item attribuut="Indiener">
+            <persoon partij="GroenLinks">Vendrik</persoon>
+            <persoon partij="GroenLinks">Azough</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2007-03-07</item>
+         <item attribuut="Datum_indiening">2007-02-12</item>
+         <item attribuut="Document-id">KVR27456</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2006–2007" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1993" allpagenumbers="1993 1994" vetnummer="2060707500" code="0607tkkvr933" lopendefooter="Tweede Kamer, vergaderjaar 2006–2007, Aanhangsel" filenaam="KVR27456" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2007"/>
+      <vraagdata vraagnummer="933" onderwerp="" indiendatum="2007-02-12">
+         <vrager partij="GroenLinks" oorsprong="parlement">Vendrik</vrager>
+         <vrager partij="GroenLinks" oorsprong="parlement">Azough</vrager>
+         <vraagt-aan>de ministers van Financiën en van Justitie</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2007-03-7">
+         <antwoorder functie="minister" ministerie="Financiën">Bos</antwoorder>
+         <mede-antwoorder>de minister van Justitie</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1">Is het waar dat de Europese Centrale Bank besloten heeft om het TARGET2-systeem volledig te koppelen aan het netwerk van SWIFT? </vraag>
+      <vraag nummer="2">Kunt u aangeven of TARGET2 voldoet aan de Europese regelgeving inzake gegevensbescherming? Zo ja, welke maatregelen zijn getroffen om dit te garanderen? </vraag>
+      <vraag nummer="3">Welke consequenties heeft het gebruik van het SWIFT-netwerk voor de toegang van derde landen tot de gegevens die via TARGET2 uitgewisseld worden? </vraag>
+      <vraag nummer="4">Kunnen de Amerikaanse autoriteiten in het kader van misdaadbestrijding, analoog aan de in het verleden geëiste en verkregen toegang tot de gegevens over bankbetalingen van Europese cliënten, toegang eisen en krijgen tot de gegevens die via TARGET2 gecommuniceerd worden, waaronder creditcard-transacties? Zo ja, wat is de positie van de Nederlandse regering in dezen? Bent u bereid om dit risico tijdens de ECOFIN-raad van 27 februari a.s. in te brengen? Welke maatregelen kunnen genomen worden om ervoor te zorgen dat Europese betalingsgegevens niet bij derde landen terechtkomen in strijd met Europese privacy-regels? </vraag>
+      <vraag nummer="5">Kunt u deze vragen vóór woensdag 14 februari a.s. beantwoorden? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Besloten is dat TARGET 2 gebruik zal maken van SWIFT. TARGET 2 is de opvolger van het huidige TARGET systeem, dat ook gebruik maakt van SWIFT. Er is in dat opzicht geen uitbreiding voor wat betreft de gegevens die ten behoeve van de uitvoering van het betalingsverkeer worden verzonden. </antwoord>
+      <antwoord nummer="2 en 3">TARGET 2 is momenteel in ontwikkeling en in dat kader wordt door het ESCB ook bezien op welke wijze invulling kan worden gegeven aan de voorwaarden die worden gesteld door de Europese regelgeving inzake gegevensbescherming in het algemeen en aan de voorwaarden die gelden ten aanzien van het gebruik van SWIFT in dat verband. Overigens geldt die vraag naar de invulling van de voorwaarden niet alleen ten aanzien van TARGET 2, maar ook al voor het huidige TARGET, dat ook gebruik maakt van SWIFT. In dat kader wordt ook de gegevensuitwisseling met derde landen meegenomen. </antwoord>
+      <antwoord nummer="4" voetnoot="1">Het is ons niet bekend dat de Amerikaanse autoriteiten in het kader van misdaadbestrijding in het verleden toegang hebben geëist en verkregen tot gegevens over betalingen van Europese cliënten, noch waar het gaat om creditcard-transacties noch voor wat betreft andere transacties. Wel is bekend dat de Amerikaanse autoriteiten in het kader van terrorismebestrijding toegang hebben tot gegevens die via SWIFT worden gezonden. In antwoord op Kamervragen dienaangaande van de kamerleden Van Bommel, De Wit en Koenders, 11 augustus 2006 heb ik de positie van de Nederlandse regering ten aanzien van de gegevensverstrekking via SWIFT aangegeven. Momenteel wordt in EU-verband gezocht naar een passende antwoord op het rapport van de zogenaamde Artikel 29 werkgroep. De Nederlandse regering vindt het belangrijk dat daarbij een adequaat evenwicht wordt gevonden tussen het belang van de gegevensbescherming, het belang van terrorismebestrijding en het belang van een efficiënt en betrouwbaar internationaal betalingsverkeer. Mocht de kwestie in het komende ECOFIN-overleg aan de orde komen, dan zal zij ook die positie innemen. Deze positie heeft de Nederlandse regering ook gecommuniceerd richting de Europese Commissie. Bijgesloten treft u een afschrift aan van de brief aan de Europese Commissie die de Nederlandse regering onlangs heeft verzonden. <voetnoot nummer="1"/>In dit kader kan ik overigens nog opmerken dat in het ECOFIN-overleg met name zal worden gesproken over TARGET 2 Securities. TARGET 2 Securities is een project waarin thans wordt bezien op welke wijze effectentransacties kunnen worden afgewikkeld, met gebruikmaking van TARGET 2. In de huidige planning wordt ervan uitgegaan dat TARGET 2 Securities in 2012 in bedrijf zou kunnen komen. </antwoord>
+      <antwoord nummer="5">Beantwoording voor 14 februari was helaas niet mogelijk. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1">Ter inzage gelegd bij het Centraal Informatiepunt Tweede Kamer</noot>
+      </noten>
+   </antwoorden>
+</kvr>

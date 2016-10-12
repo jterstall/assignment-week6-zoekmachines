@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="2">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001013</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001013&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001013</item>
+         <item attribuut="Document-id">0000019399</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 2</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Te Veldhuis en Van Erp (beiden VVD) over asbestbuizen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 2</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">2</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Te Veldhuis</persoon>
+            <persoon partij="VVD">Van Erp</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-08-19</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Alders</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-09-18</item>
+         <item attribuut="Beginpagina">3</item>
+         <item attribuut="Eindpagina">4</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="'s Gravenhage 1991"/>
+      <vraagdata vraagnummer="Vragen" onderwerp="asbestbuizen." indiendatum="1991-08-19">
+         <vrager partij="VVD" oorsprong="parlement">Te Veldhuis</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Van Erp</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1991-09-18">
+         <antwoorder functie="minister" ministerie="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer">Alders</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1" voetnoot="1 1">Is het u bekend, dat de waterleidmg– maatschappij Oost-Brabant (WOB) te Eindhoven momenteel doende is een nieuwe leiding aan te leggen voor het transport van drinkwater vanaf het pompstation Son en Breugel naar onder andere de gemeenten Best, Oirschot en Moergestel, en dat die leiding bestaat uit zogeheten asbestcement– buizen? <voetnoot nummer="1"/>Kunt u aangeven of en zo ja in hoeverre dit soort buizen schadelijk is of kan worden voor de volksge– zondheid, en of wordt overwogen om deze kwaliteit buizen vanaf 1993 niet meer te gebruiken, al dan niet door middel van een wettelijk verbod? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="3">Kunt u aangeven waarom, indien andere typen transportbuis van redelijke alternatieve kwaliteit bestaan, (b.v. van beton en kunst– stof), er nog steeds van asbestbuizen gebruik wordt gemaakt? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja. Transportbuizen van asbestcement brengen geen gezondheidsnsico's via het drinkwater met zich mee (zie ook beantwoording kamervragen van de leden Rienks, Swildens-Rozendaal nr. 2888904210, Eisma nr. 2888904590 en Van Es nr. 2888907870). De gevaren, die het gebruik van asbest met zich meebrengt, hangen samen met de blootstellmg aan asbestvezels via inademing. In dit verband wil ik u wijzen op de beleidsnotitie «Asbest in het milieu» die ik, mede namens de Minister van Sociale Zaken en Werkgelegenheid en de Staatssecretaris van Welzijn, Volksgezondheid en Cultuur, op 22 juli jl. aan de Voorzitter van de Tweede Kamer heb aangeboden. Door de Minister van Sociale Zaken en Werkgelegenheid wordt uit een oogpunt van arbeidsbescherming, op basis van de Arbeidsomstandighe– denwet een verbod op het nieuw gebruik van asbest en asbesthou– dende materialen voorbereid in de vorm van een verbod op het be– en verwerken van asbest. Dit voorgenomen verbod is een belangrijke maatregel om emissie van asbest zoveel mogelijk te voorkomen. Verwacht wordt dat dit verbod medio 1993 van kracht wordt. </antwoord>
+      <antwoord nummer="3">De waterleidingbedrijven in Nederland hebben op dit moment ongeveer 37.000 km asbestce– mentbuis (± 40% van het leidingnet) in gebruik. Op technische en econo– mische gronden worden alternatieve leidmgmaterialen door waterleiding– bedrijven vaak minder aantrekkelijk geacht. In het Milieuplan van de Vereniging van Exploitanten van Waterleidingbedrijven (VEWIN) wordt aangegeven dat de waterlei– dingbedrijven zullen anticiperen op het beleid van de overheid inzake asbest en vanaf 1993 voor de aanleg van nieuwe leidingen en renovaties aan bestaande leidingen geen asbestcement meer zullen toepassen. Tot dat moment zullen de bestaande voorraden naar verwachting nog worden toegepast. Het onderzoek naar alternatieve leidingmaterialen zal nog worden voortgezet. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Om te voorkomen dat het besluit bij" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19931994:0001408</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001408&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001408</item>
+         <item attribuut="Document-id">0000003919</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 194</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Tommel (D66) over de Amvb-glastuinbouw.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 194</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">194</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Tommel</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-11-04</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Alders</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-12-15</item>
+         <item attribuut="Beginpagina">393</item>
+         <item attribuut="Eindpagina">394</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="393" allpagenumbers="393" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="194" onderwerp="de Amvb-glastuinbouw." indiendatum="1993-11-4">
+         <vrager partij="D66" oorsprong="parlement">Tommel</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1" voetnoot="1">Is de concept-Algemene maatregel van bestuur «Tuinbouwbedrijven bedekte teelten» (Amvb– glastuinbouw) strijdig met de Wet milieubeheer, zoals de Zuidhollandse Milieufederatie beweert? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2" voetnoot="2">Zijn in deze concept-Amvb– glastuinbouw geen voorschriften opgenomen die de uitstoot van schadelijke pesticiden voor bedekte teelten - geschat op 606 000-628 000 kilo op jaarbasis - voorkómen? <voetnoot nummer="2"/>Hoe denkt u in dit verband om te gaan met het beleid van de minister van Verkeer en Waterstaat, te weten het standpunt over atmosferische depositie in de ontwerp– Evaluatienota Water (pag. 8, 7e gedachtenstreepje)? </vraag>
+      <vraag nummer="4" voetnoot="3">Zijn in de concept-Amvb– glastuinbouw geen voorschriften (zoals gevelisolatie en schermen) opgenomen om het energiegebrmk (totaal ca. 4,2 miljard m <voetnoot nummer="3"/> voor de glastuinbouw op jaarbasis) terug te dringen? Zijn in bedoelde Amvb geen voorschriften opgenomen voor preventie en hergebruik van afvalstoffen uit de glastuinbouw? </vraag>
+      <vraag nummer="6">Zijn in deze Amvb geen voorschriften opgenomen om de verkeers– bewegingen te beperken? </vraag>
+      <vraag nummer="7">Bent u het eens met de stelling, dat de nieuwe Wet milieubeheer beoogt het milieu te beschermen bij activiteiten uit inrichtingen, en dat de Wet een doelmatige verwijdering van afvalstoffen beoogt, een zuinig gebruik van energie en grondstoffen, en de beperking van verkeers– bewegingen? </vraag>
+      <vraag nummer="8">Hoe is voldaan aan Art. 8.11 lid 3 Wet milieubeheer in de concept– Amvb-glastuinbouw waar het gaat om de uitstoot van pesticiden, het zuinig omgaan met energie en grondstoffen en preventie en hergebruik van afvalstoffen? </vraag>
+      <vraag nummer="9">Hoe zijn de aspecten van Art. 8.40 leden 2a en 2b Wet Milieubeheer, te weten de bestaande toestand van het milieu (achtergronddepositie) en de gevolgen voor het milieu van de betreffende inrichtingen, verwerkt in de concept-AmvB? 10 . Kent u de genoemde 31 maatregelen van de Milieufederatie om de vervuiling vanuit de glastuinbouw terug te dringen? In hoeverre zijn deze in de Amvb verwerkt? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1993-10-28" bron=" NRC Handelsblad"> NRC Handelsblad, 28 oktober 1993</noot>
+         <noot nummer="2"> Meerjarenplan Gewasbescherming, T.K. 21 677 nrs 3/4. blz. 49</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+   <mededeling mededeler="" functie="" afdeling="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer" mededelingdatum="1993-12-15">Mededelmg van minister Alders (Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer). (Ontvangen 15 december 1993) Het ontwerp-Besluit tuinbouwbedrijven met bedekte teelt milieubeheer, dat gebaseerd zal worden op art. 8.40 van de Wet milieubeheer (Wm) is nog niet vastgesteld door de Ministerraad. Op grond hiervan kunnen de tekst en de toelichting van het besluit nog wijzigingen ondergaan. De voorpublicatie van het ontwerp-besluit is voorzien voor de tweede helft van december. Het ontwerp-besluit zal dan op grond van art. 21.6, vijfde lid, van de Wm aan de Staten-Generaal worden toegezonden. Op dat moment kan het ontwerp-besluit worden beoordeeld aan de hand van de vastgestelde tekst en de bijbehorende toelichting, waarin integraal wordt aangegeven welke overwegingen hebben geleid tot de keuzes die zijn gemaakt. Op grond hiervan vraag ik u begrip voor mijn besluit om de vragen van dhr. Tommel te beantwoorden gelijktijdig met de toezending van het ontwerp-besluit aan de Staten-Generaal. </mededeling>
+</kvr>

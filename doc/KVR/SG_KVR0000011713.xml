@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001409</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001409&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001409</item>
+         <item attribuut="Document-id">0000011713</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 479</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Tommel (D66) over uitspraken van de heer Arron, voormalig premier van Suriname.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 479</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">479</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Tommel</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-03-11</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Kooijmans</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-04-06</item>
+         <item attribuut="Beginpagina">979</item>
+         <item attribuut="Eindpagina">980</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="979" allpagenumbers="979" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="479" onderwerp="uitspraken van de heer Arron, voormalig premier van Suriname." indiendatum="1993-03-11">
+         <vrager partij="D66" oorsprong="parlement">Tommel</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-04-6">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">Kooijmans</antwoorder>
+         <mede-antwoorder>de minister voor Ontwikkelingssamenwerking</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Kent u het recente interview met de heer Arron? Hoe oordeelt u over de volgende beschuldigingen: - «Nou hij (ministerVan den Broek) kwam, met mooie verhalen maar er kwam geen rooie cent op tafel. Behalve een klein douceurtje voor humanitaire en overbruggingshulp. Toen begon het gezeur over restrictief beleid, zoiets als onder curatele stellen»; - «Ik heb het gevoel dat Nederland de frontleiders de woestijn in heeft gejaagd. De beloften werden niet nagekomen.»? Geven deze uitspraken de opvatting weer van de Surinaamse regering? </vraag>
+      <vraag nummer="3" voetnoot="2">Meent u, dat dergelijke uitspraken een positieve bijdrage leveren aan een sfeer van vriendschap en samenwerking, zoals onder andere bedoeld in het recent tussen beide landen gesloten Raamverdrag? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="4">Over welk fonds van ƒ 300 miljoen, waarop Suriname nog recht zou hebben na uitputting van de middelen zoals overeengekomen in de Overeenkomst inzake ontwikkelingssamenwerking van 1975, spreekt de heer Arron? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1993-03-6" bron=" Alkmaarse Courant"> Alkmaarse Courant, 6 maart 1993</noot>
+         <noot nummer="2"> Kamerstuk 22 992</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja. Wij gaan er van uit dat het te dezen gaat om uitspraken op persoonlijke titel. De heer Arron is bovendien geen lid van de Surinaamse regering. </antwoord>
+      <antwoord nummer="3">De vriendschappelijke betrekkmgen tussen het Koninkrijk en Suriname bieden ruimte voor openhartige gedachtenwisselingen. </antwoord>
+      <antwoord nummer="4">De heer Arron doelt waarschijnlijk op het bepaalde in artikel 5 van deze Overeenkomst, namelijk dat Nederland bereid is, indien het voor het meerjarenontwikkelings– programma bestemde bedrag van Nfl 2700 mln is besteed en het programma nog niet volledig is gerealiseerd, het resterende tekort tot een maximum van Nfl 300 mln te financieren op basis van strikte pariteit met Surinaamse besparingen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

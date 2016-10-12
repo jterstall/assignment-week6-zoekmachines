@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0000048</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0000048&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0000048</item>
+         <item attribuut="Document-id">0000010352</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Eerste Kamer 1992-1993 nummer 9</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Eerste Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Tiesinga-Autsema (D66) inzake gevolgen van proefdieren bij TNO ten gevolge van bezuinigingen.</item>
+         <item attribuut="titel">Aanhangsel Eerste Kamer 1992-1993 nummer 9</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">9</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Tiesinga-Autsema</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-10-09</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Simons</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-11-09</item>
+         <item attribuut="Beginpagina">17</item>
+         <item attribuut="Eindpagina">18</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Eerste Kamer der Staten-Generaal" kamer="1" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen door de leden der Kamer gesteld overeenkomstig artikel schriftelijk gegeven antwoorden"/>
+      <footer firstpaginanummer="17" allpagenumbers="17" vetnummer="" code="" lopendefooter="Eerste Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 - 738x" uitgever="'s Gravenhage 1992"/>
+      <vraagdata vraagnummer="Vragen" onderwerp="" indiendatum="1992-10-9">
+         <vrager partij="D66" oorsprong="parlement">Tiesinga-Autsema</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-11-9">
+         <antwoorder functie="de" ministerie="Ontvangen 9 november 1992">heer Simons staatssecretaris van Welzijn, Volksgezondheid en Cultuur.</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1">Is het waar dat TNO bezig is wegens bezuinigingen proefdieren af te maken? </vraag>
+      <vraag nummer="2">Bent u van mening dat bezuinigingen een voldoende reden zijn voor het massaal doden van proefdieren? </vraag>
+      <vraag nummer="3">Is het waar dat al eerder binnen TNO besloten is om letale experimenten met chimpansees toe te staan?' Heeft dat ook te maken met bezuinigingen? </vraag>
+      <vraag nummer="4">Is het waar dat binnen de huidige regelgeving TNO gerechtigd is dergelijke ingrijpende beslissingen te nemen? Zo ja, is het ethisch aanvaardbaar dat zulke zaken binnen de bevoegdheden van de instellingen zelf vallen? </vraag>
+      <vraag nummer="5">Indien u dat niet ethisch aanvaardbaar vindt, welke maatregelen gaat u dan treffen om herhaling in de toekomst te voorkomen?  NRC Handelsblad 8 oktober 1992. </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"/>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">  e n 2 Op dit moment is ITRI-TNO te Rijswijk inderdaad bezig om de fok van ratten en muizen te saneren. De reden hiervoor is dat binnen afzienbare tijd als gevolg van financiële tekorten minder dierexperimenteel onderzoek zal plaatsvinden. Om te voorkomen dat in de nabije toekomst een overschot aan proefdieren zal ontstaan is thans door de Raad van Bestuur van TNO besloten om de fok van een aantal ratten– en muizenstammen te reduceren door middel van het doden van mannelijke fokdieren. Als gevolg van dit besluit zijn op 12 oktober jl. 100 muizen en 92 ratten gedood. Het op deze wijze voorkomen van een overschot aan proefdieren wordt dezerzijds aanvaardbaar geacht. </antwoord>
+      <antwoord nummer="3">In 1983 en 1985 zijn enkele experimenten met chimpansees verricht met het doel inzicht te krijgen in de structuur van het hepatitus delta virus. De desbetreffende dieren werden in het kader van deze experimenten gedood. Uit het bovenstaande moge duidelijk zijn dat de desbetreffende experimenten niets te maken hebben met de huidige financiele tekorten bij ITRI-TNO te Rijswijk. </antwoord>
+      <antwoord nummer="4"> en 5 De vigerende Wet op de dierproeven kent geen specifieke regeling terzake van de besluitvorming met betrekking tot het doden van overtollige proefdieren, zodat de desbetreffende besluitvorming aan de vergunninghoudende instellingen zelf is voorbehouden. Opgemerkt wordt ten aanzien van de binnen de instellingen aanwezige fokdieren de wettelijke bepalingen omtrent de verzorging, de behandeling en het welzijn alsmede het toezicht daarop, van toepassing zijn. Daarnaast kan door de veterinaire inspectie uit de door de instellingen aangeleverde jaarlijkse registratiegegevens van proefdieren het aantal dieren worden afgeleid dat is gedood wegens overtolligheid. Gelet op het bovenstaande wordt dezerzijds gemeend dat het leggen van de besluitvorming bij de vergunninghoudende instellingen aanvaardbaar is. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

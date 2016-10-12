@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001804</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001804&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001804</item>
+         <item attribuut="Document-id">0000020190</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 785</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Willems en Rosenmöller (beiden Groen Links) over het ontslag van de heer Van K, medewerker transmissie bij PTT Telecom district Amsterdam.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 785</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">785</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Willems</persoon>
+            <persoon partij="Groen Links">Rosenmöller</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-06-18</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Maij-Weggen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-08-12</item>
+         <item attribuut="Beginpagina">1637</item>
+         <item attribuut="Eindpagina">1638</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1637" allpagenumbers="1637" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="'s Gravenhage 1992"/>
+      <vraagdata vraagnummer="785" onderwerp="het ontslag van de heer Van K, medewerker transmissie bij PTT Telecom district Amsterdam." indiendatum="18juni 1992">
+         <vrager partij="Groen Links" oorsprong="parlement">Willems</vrager>
+         <vrager partij="Groen Links" oorsprong="parlement">Rosenmöller</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="12 augustus 1992), zie ook Aanhangsel Handelingen nr. 725, Vergaderjaar 1991-1992">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">Maij-Weggen</antwoorder>
+         <mede-antwoorder>de ministervan Binnenlandse Zaken</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1">Is het u bekend, dat de heer Van K., medewerker transmissie bij PTT Telecom district Amsterdam, op 14 april jl., op staande voet is ontslagen? </vraag>
+      <vraag nummer="2">Is het u bekend, dat het resultaat van een veiligheidsonderzoek, uitgevoerd door de Binnenlandse Veiligheidsdienst, de reden vormde voor dit ontslag?' </vraag>
+      <vraag nummer="3" voetnoot="2">Is een lidmaatschap van de politieke partij de SAP voldoende reden voor ontslag uit de betreffende vertrouwensfunctie bij de PTT? <voetnoot nummer="2"/>Zo ja, waarom? </vraag>
+      <vraag nummer="4">In hoeverre heeft het gegeven, dat de heer Van K. kandidaat heeft gestaan voor de provinciale statenverkiezing van Noord-Holland in 1987 een rol gespeeld bij het ontslag? Zo ja, in welke zin? Zo neen, waarom wordt dat gegeven genoemd in het BVD-rapport? </vraag>
+      <vraag nummer="5">Acht u het juist, dat louter een actief lidmaatschap van een legale politieke partij als de SAP leidt tot een beroepsverbod? Zo neen, welke maatregelen gaat u treffen teneinde het gebeurde ongedaan te maken? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" titel="verklaring van bezwaar"> Zie de «verklaring van bezwaar», van 6 mei 1992, kenmerk TP/BC/929, afgegeven namens de minister van Verkeer en Waterstaat</noot>
+         <noot nummer="2"> Zie het rapport veiligheidsonderzoek van de Binnenlandse Veiligheidsdienst, van 3 april 1992, kenmerk 91167, opgesteld namens het hoofd van de dienst SAP = Socialistische Arbeiderspartij</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">PTT Telecom heeft het dienstverband van de heer Van K. voor het einde van de wettelijk overeengekomen proeftijd beëindigd, conform schriftelijk vastgelegde afspraken tussen PTT en de heer Van K. betreffende het verloop van de aanstellingsprocedure. Van een ontslag op staande voet is derhalve geen sprake. </antwoord>
+      <antwoord nummer="2 en 4">Uit het door de BVD ingestelde veiligheidsonderzoek naar de heer Van K. zijn gegevens naar voren gekomen op grond waarvan redelijkerwijs kan worden betwijfeld of de heer Van K. onder alle omstandigheden zijn verplichtingen voor de vervulling van de functie getrouwelijk zal volbrengen. Het feit dat de heer Van K. zich namens de Socialistiese Arbeiders Partij (SAP) kandidaat heeft gesteld voor Provinciale Staten van Noord-Holland, bij de verkiezingen van 1987, heeft hierbij mede een rol gespeeld. Betrokkene is door mij op de hoogte gesteld van mijn voornemens jegens hem een verklaring van bezwaar af te geven. PTT is op grond van de ter zake geldende voorschriften verplicht de plaatsing in een vertrouwensfunctie te beëindigen indien de minister van Verkeer en Waterstaat een dergelijke verklaring afgeeft. De onderhavige functie is krachtens artikel 8 van de Wet op de inlichtingen– en veiligheidsdiensten aangewezen als vertrouwensfunctie. PTT is op grond van de op artikel 60 van  de  Wet  op de telecommunicatievoorzieningen (WTV) gebaseerde ministeriële voorschriften verplicht een persoon die voor de vervulling van een dergelijke functie is aangewezen voor een veiligheidsonderzoek aan te melden bij de Bmnenlandse veiligheidsdienst (BVD). </antwoord>
+      <antwoord nummer="3">Het enkele lidmaatschap van een partij als de SAP is niet voldoende reden voor weigering van of ontslag uit een vertrouwensfunctie. Overigens kunnen er feiten en omstandigheden zijn die twijfel doen ontstaan over de getrouwelijke vervulling van een vertrouwensfunctie. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

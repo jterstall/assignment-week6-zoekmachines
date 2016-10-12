@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19931994:0001263</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001263&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001263</item>
+         <item attribuut="Document-id">0000003774</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 49</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid E. Van Middelkoop (GPV) over in bruikleen gekregen kunstwerken.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 49</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">49</item>
+         <item attribuut="Indiener">
+            <persoon>E. van Middelkoop</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-09-09</item>
+         <item attribuut="Beantwoorder">
+            <persoon>D'Ancona</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-10-12</item>
+         <item attribuut="Beginpagina">99</item>
+         <item attribuut="Eindpagina">100</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="99" allpagenumbers="99" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="" onderwerp="" indiendatum="">
+         <vrager partij="" oorsprong="parlement">E. van Middelkoop</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-10-12">
+         <antwoorder functie="minister" ministerie="Welzijn, Volksgezondheid en Cultuur">D'Ancona</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="49">Vragen van het lid E. Van Middelkoop (GPV) over in bruikleen gekregen kunstwerken. (Ingezonden 9 september 1993) </vraag>
+      <vraag nummer="1" voetnoot="1">Kent u het recente bericht, dat openbare instellingen vaak slordig omspringen met in bruikleen gekregen kunstwerken? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Zullen er, naar verachting, nog meer kunstwerken worden vermist? Hoeveel kunstwerken zijn er intussen verdwenen? Laat het beheer van sommige bruikleennemers zeer te wensen over? Zo ja, wat zijn de oorzaken hiervan? </vraag>
+      <vraag nummer="4">Zullen de instellingen, die kunstwerken missen door de Rijksdienst voor Beeldende Kunst Financieel aansprakelijk worden gesteld? </vraag>
+      <vraag nummer="5">Bent u van mening, dat de controle op het beheer over de bruikleencollecties verbeterd moet worden? Zo ja, hoe? </vraag>
+      <vraag nummer="6">Bent u van oordeel, dat de bruikleenregeling geëvalueerd dient te worden, waarbij met name bezien dient te worden of nadere waarborgen in de regeling moeten worden opgenomen om in het vervolg vermissing of slordig onderhoud van in bruikleen gestelde kunstwerken te voorkomen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1993-09-8" bron=" Volkskrant"> Volkskrant, 8 september 1993</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1">Neen Wel heb ik uit de pers vernomen dat de Vrije Universiteit van Amsterdam een relatief groot deel van de haar geschonken kunstwerken kwijt is. Van andere instellingen is mij niet bekend, dat zij even slordig met in bruikleen gekregen kunstwerken omspringen. </antwoord>
+      <antwoord nummer="2">Van de instellingen die een schenkingsaanbod hebben ontvangen, hebben enkele nog niet gereageerd. Verwacht wordt dat sommige van deze instellingen kunstwerken kwijt zijn. Om hoeveel werken het gaat kan nog niet gezegd worden, omdat dagelijks alsnog reacties van deze instellingen binnenkomen. Per 15 septemberjl. zijn ca. 34.000 BKR-werken weggeschonken. Daarnaast zijn er 455 kunstwerken als vermist opgegeven bij de assuradeuren. Omdat er herhaaldelijk instellingen melden dat als vermist veronderstelde kunstwerken teruggevonden zijn, is dit aantal niet constant. </antwoord>
+      <antwoord nummer="3">In algemene zin kan niet gezegd worden dat het beheer van sommige bruikleennemers zeer te wensen overlaat. Van een instelling nl. de Vrije Universiteit moet dit bepaald wel gezegd worden, gezien het aantal vermiste kunstwerken. </antwoord>
+      <antwoord nummer="4">Door de Rijksdienst Beeldende Kunst wordt momenteel rechtstreeks onderhandeld met de gezamenlijke assuradeuren over de schadevergoeding voor vermiste BKR-kunstwerken in plaats van met de instellingen afzonderlijk. Dit laatste is ingegeven door efficiency– overwegingen. </antwoord>
+      <antwoord nummer="5 en 6">Eén van de redenen tot afstoting van een deel van zijn BKR-collectie was voor de Rijksdienst Beeldende Kunst de onbeheersbaarheid van de collectie en het ontbreken van financiële middelen om de controle op de vele bruiklenen naar behoren uit te voeren. Nadat kunstwerken die instellingen in bruikleen hebben, aan hen zijn weggeschonken, zullen de bruikleenovereenkomsten met niet-museale instellingen (behoudens enkele hoogwaardigheidsbekleders) de komende jaren komen te vervallen. Door de vermindering van het aantal bruikleenovereenkomsten zal de controle op de resterende bruiklenen verbeterd kunnen worden. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

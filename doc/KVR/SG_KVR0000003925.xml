@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19931994:0001414</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001414&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001414</item>
+         <item attribuut="Document-id">0000003925</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 200</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Franssen (VVD) over een nieuw geneesmiddel voor hemofilie-patiënten.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 200</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">200</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Franssen</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-11-08</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Simons</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-12-17</item>
+         <item attribuut="Beginpagina">405</item>
+         <item attribuut="Eindpagina">406</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="405" allpagenumbers="405" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="200" onderwerp="een nieuw geneesmiddel voor hemofilie-patiënten." indiendatum="1993-11-8">
+         <vrager partij="VVD" oorsprong="parlement">Franssen</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-12-17">
+         <antwoorder functie="staatssecretaris" ministerie="Welzijn, Volksgezondheid en Cultuur">Simons</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Kent u het artikel over een nieuw geneesmiddel voor hemofilie– patiënten? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Komt, vanwege administratieve procedures, een nieuw factor Vlll-preparaat dat niet uit donorbloed wordt verkregen, niet voor vergoeding via de AWBZ in aanmerking? </vraag>
+      <vraag nummer="3">Welke maatregelen denkt u te nemen om aan deze ongewenste situatie, die op velen als extra bedreigend zal overkomen vanwege incidenten in het buitenland, een spoedig einde te maken? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1993-11-3" bron=" NRC-Handelsblad"> NRC-Handelsblad, 3 november 1993</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja. Sinds kort is een nieuw factor Vlll-preparaat dat is vervaardigd via recombinant DNA-techniek, geregistreerd krachtens artikel 3 lid </antwoord>
+      <antwoord nummer="1"> van  de  Wet  op de geneesmiddelenvoorziening. Dit preparaat komt niet voor plaatsing op bijlage 5 van de Regehng farmaceutische hulp 1993 in aanmerking, omdat het niet onderling vervangbaar is met andere geneesmiddelen die al op bijlage 5 of 6 van die regeling zijn geplaatst. Zoals bekend is de bijlage 6 in principe gesloten voor geneesmiddelen, tenzij het een geneesmiddel betreft dat bestemd is voor een aandoening of een ziekte die tot nu toe niet behandelbaar is met geneesmiddelen. Dit is zeker niet het geval voor de behandeling van hemofilie. Deze aandoening kan goed worden behandeld met uit humaan bloed bereide factor VIII. Het is dan ook niet zo dat er geen aanspraak bestaat op het nieuwe middel vanwege administratieve procedures, maar het is zo dat het middel niet in het AWBZ-pakket is opgenomen als gevolg van een maatregelen waarvoor, in overleg met de Tweede Kamer der Staten-Generaal, uit oogpunt van kostenbeheersing, bewust gekozen is en die met ingang van 1 juli 1993 van kracht geworden is. Het betreft een tijdelijke maatregelen van in beginsel één jaar. Ik zal deze maatregel eerder in heroverweging nemen indien de Ziekenfondsraad, die ik om advies heb gevraagd, vóór afloop van die periode met een aanvaardbaar alternatief komt om te komen tot een structurele kostenbeheersing. Mijns inziens is er geen sprake van een ongewenste situatie. De vervaardiging van Factor VIII uit humaan bloed is thans met zoveel zorg en veiligheidsmaatregelen omkleed, dat enig besmettingsrisico met virussen voorkomend in uit humaan bloed bereid factor VIII in Nederland praktisch is uitgesloten. Dit wordt ook overigens in het artikel in de NRC gesteld. Ik zie dan ook geen aanleiding, mede in het licht van het onder antwoord 2 gestelde, tot het nemen van maatregelen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

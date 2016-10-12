@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="hoge rentes te voorkomen?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Koomen (CDA) en Van Egerschot (VVD) aan de minister van Financiën over leningen bij rijscholen. (Ingezonden 8 september 2005)</item>
+         <item attribuut="Bestand">13Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V040521140
+</item>
+         <item attribuut="Inhoud">Vragen over artikel in Algemeen Dagblad over autorijscholen die leningen met hoge rentes verlenen aan klanten, terwijl ze adverteren met zogenaamde lage tarieven.</item>
+         <item attribuut="Rubriek">Geld- en kapitaalmarkt (Kredieten) Verkeer, vervoer en waterstaat (Overig)</item>
+         <item attribuut="Trefwoorden">Autorijscholen Kredieten</item>
+         <item attribuut="Vindplaats">Kamervragen 2004-2005, vraagnr. 2040521140, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2040521140</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Koomen</persoon>
+            <persoon partij="VVD">Van Egerschot</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2005-09-08</item>
+         <item attribuut="Document-id">V040521140</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2004–2005" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0405tkkvl2040521140" lopendefooter="Tweede Kamer, vergaderjaar 2004–2005, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2005"/>
+      <vraagdata vraagnummer="2040521140" onderwerp="" indiendatum="2005-09-8">
+         <vrager partij="CDA" oorsprong="parlement">Koomen</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Van Egerschot</vrager>
+         <vraagt-aan>de minister van Financiën</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Kent u het artikel <voetnoot nummer="1"/>waarin gesproken wordt van leningen met hoge rentes die sommige rijscholen verstrekken aan hun klanten, terwijl ze adverteren met zogenaamde lage tarieven? </vraag>
+      <vraag nummer="2">Valt deze vorm van het aanbieden van leningen onder de Wet financiële dienstverlening? Zo ja, is de Autoriteit Financiële Markten (AFM) op de hoogte van het bestaan van dit soort leningen en stelt de AFM een onderzoek in? </vraag>
+      <vraag nummer="3">Indien u het beleid voert dat schuldenproblematiek voorkomen dient te worden, kunt u dan aangeven in hoeverre het aanbieden van dergelijke producten bijdraagt aan het verminderen van deze problematiek? </vraag>
+      <vraag nummer="4">Welke maatregelen acht u wenselijk om dit soort leningen tegen dergelijk </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" datum="2005-09-6" bron="Algemeen Dagblad">Algemeen Dagblad, 6 september 2005</noot>
+      </noten>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid De Roon (PVV) aan de minister van Justitie over omstreden dna-techniek. (Ingezonden 3 januari 2008);Antwoord</item>
+         <item attribuut="Bestand">14Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR30712
+</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van bericht (NOS) dat in Groot-Brittannië na een vrijspraak ophef is ontstaan over de toepassing van een omstreden DNA-techniek in opsporingsonderzoeken. Indiener wil weten of deze techniek ook in Nederland wordt gebruikt en of het klopt dat er een kans bestaat dat DNA-materiaal van onschuldigen terecht komt bij DNA-materiaal van verdachten;wellicht zijn er personen ten onrechte veroordeeld op basis van toepassing van deze techniek?</item>
+         <item attribuut="Rubriek">Strafrecht en strafprocesrecht (Opsporingsonderzoek) Strafrecht en strafprocesrecht (Vervolging)</item>
+         <item attribuut="Trefwoorden">Opsporingen Strafvervolging</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2007-2008, nr. 1178, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070807510</item>
+         <item attribuut="Afkomstig_van">Justitie (JUS)</item>
+         <item attribuut="Indiener">
+            <persoon partij="PVV">De Roon</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2008-01-30</item>
+         <item attribuut="Datum_indiening">2008-01-03</item>
+         <item attribuut="Document-id">KVR30712</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="2519" allpagenumbers="2519" vetnummer="2070807510" code="0708tkkvr1178" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Aanhangsel" filenaam="KVR30712" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="1178" onderwerp="" indiendatum="2008-01-3">
+         <vrager partij="PVV" oorsprong="parlement">De Roon</vrager>
+         <vraagt-aan>de minister van Justitie</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2008-01-30">
+         <antwoorder functie="minister" ministerie="Justitie">Hirsch Ballin</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Hebt u kennisgenomen van het bericht dat in Groot-Brittannië na een vrijspraak ophef is ontstaan over de toepassing van een omstreden dna-techniek in opsporingsonderzoeken? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Klopt het dat deze techniek ook in Nederland wordt gebruikt in opsporingsonderzoeken? </vraag>
+      <vraag nummer="3">Klopt het dat bij toepassing van deze techniek er een kans is dat dna-materiaal van onschuldigen terecht komt bij dna-materiaal van de verdachte? </vraag>
+      <vraag nummer="4">Ziet u in de uitspraak van de Britse rechter aanleiding om zo snel mogelijk na te gaan of ook in Nederland personen mogelijk ten onrechte zijn veroordeeld op basis van de toepassing van deze techniek? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" weblink="http://www.nos.nl/nos/artikelen/2007/12/art000001C84451381FC629.html">http://www.nos.nl/nos/artikelen/2007/12/art000001C84451381FC629.html</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2 en 3">Het gaat hier om het zogenaamde LCN DNA-onderzoek («Low Copy Number»). LCN DNA-analyse is een gevoelige methode om uit een zeer geringe hoeveelheid DNA van minimale biologische sporen een DNA-profiel te verkrijgen. Onder de hierna omschreven voorwaarden wordt daarvan ook in Nederland gebruik gemaakt. Hoewel de LCN DNA-analyse extreem gevoelig is, is deze techniek niet wezenlijk anders dan de standaard DNA-analyse. Dit betekent dat gelijk al het forensische DNA-onderzoek er ook bij LCN DNA-analyse de kans bestaat dat DNA-materiaal van onschuldigen terecht komt bij DNA-materiaal van de verdachte. Dit risico is in de praktijk echter uiterst klein. Om contaminatie, vervuiling of vermenging van sporen te voorkomen voert het NFI DNA-onderzoek uit onder een zeer strikt regiem in gescheiden, DNA-vrije ruimten. Vanwege de hoge gevoeligheid van de LCN DNA-analyse zijn extra controlestappen in het onderzoeksproces opgenomen om de betrouwbaarheid te waarborgen. Net zoals het standaard DNA-onderzoek wordt het LCN DNA-onderzoek onder stringente condities uitgevoerd. </antwoord>
+      <antwoord nummer="4">Nee. Sinds 2002 is het NFI geaccrediteerd voor het uitvoeren van LCN DNA-onderzoek. Hoewel de LCN DNA-analyse extreem gevoelig is, is – zoals al in het antwoord op vraag drie werd opgemerkt – de techniek niet wezenlijk anders dan de standaard DNA-analyse. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

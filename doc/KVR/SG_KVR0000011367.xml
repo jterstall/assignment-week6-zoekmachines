@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001063</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001063&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001063</item>
+         <item attribuut="Document-id">0000011367</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 132</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Van der Vaart en Feenstra (beiden PvdA) over de aanpak van het klimaatprobleem.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 132</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">132</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Van der Vaart</persoon>
+            <persoon partij="PvdA">Feenstra</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-09-22</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Alders</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-11-10</item>
+         <item attribuut="Beginpagina">275</item>
+         <item attribuut="Eindpagina">276</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="275" allpagenumbers="275 276" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="132" onderwerp="de aanpak van het klimaatprobleem." indiendatum="1992-09-22">
+         <vrager partij="PvdA" oorsprong="parlement">Van der Vaart</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Feenstra</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="10 november 1992), zie ook aanhangsel Handelingen nr. 70, vergaderjaar 1992-1993">
+         <antwoorder functie="minister" ministerie="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer">Alders</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Hebt u kennis genomen van het berïcht <voetnoot nummer="1"/> over het gereedkomen van een nieuw model «ESCAPE», waarmee de effectiviteit van beleidsopties voor de aanpak van het klimaatprobleem kan worden geëvalueerd? </vraag>
+      <vraag nummer="2">Deelt u de conclusies die het RIVM trekt uit de berekeningen met het model? Zo neen, welke correcties of nuanceringen zouden naar uw oordeel op hun plaats zijn? </vraag>
+      <vraag nummer="3">Welke veronderstellingen heeft het RIVM in zijn berekeningen gehanteerd ten aanzien van de prijsontwikkeling van energie zonder specifieke overheidsmaatregelen? </vraag>
+      <vraag nummer="4">Welke prijselasticiteiten zijn aangehouden voor de te verwachten reactie op prijsstijgingen van energie, al dan niet beïnvloed door energiebelastingen? </vraag>
+      <vraag nummer="5">Hoe beoordeelt u die verondersteilingen? In hoeverre wijken zij af van de veronderstellingen die de Stuurgroep Regulerende Energieheffingen in zijn eindrapport heeft aangehouden? Deelt u in bijzonder de in het bericht weergegeven conclusie, dat indien de door de Europese Commissie voorgestelde ecotax op energie alleen in de EG wordt geïntroduceerd, dit geen significant effect zal hebben op het toekomstige klimaat? Welke effecten treden in die situatie volgens het model op ten aanzien van de emissies van onder andere kooldioxide? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Rijksinstituut voor Volksgezondheid en Milieuhygiëne (RIVM) van 1 september1992</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1">Ja. Het ESCAPE-model is een simulatie-model waarmee scenario's voor de emissies van broeikasgassen, de mondiale concentraties van broeikasgassen en de daaruit volgende veranderingen op klimaatgebied worden beschreven. De klimaatveranderingen, zoals stijging van de zeespiegel, veranderingen van temperatuur en neerslag, en de effecten van deze veranderingen op vegetatie, landbouw en watervoorziening worden voor Europa gedetailleerder dan met bestaande modellen mogelijk was in kaart gebracht. ESCAPE sluit aan bij bestaande klimaatmodellen en –studies en geeft een actueel beeld van de kennis op dit gebied Met het ESCAPE-model is het ook mogelijk de effecten van veranderingen in de emissies als gevolg van maatregelen door te rekenen. Wel kent het model beperkingen. In eerste instantie is in het model een technisch-wetenschappelijke invalshoek gekozen; zo ontbreekt op dit moment een macro-economisch blok. Op dit moment denkt het RIVM over de koppeling van het ESCAPE-model met macro-economische modellen. Uit de met het ESCAPE-model uitgevoerde berekeningen trekt het RIVM een aantal conclusies. Zo bevestigen de berekeningen de conclusie van de IPCC dat een zeker klimaatrisico niet kan worden vermeden. In alle gevallen zal voor de komende 40 jaar de snelheid van de temperatuurverandering boven de internationaal voorgestelde duurzaamheidsnorm uitkomen. Verder tonen de modelberekeningen aan dat klimaatverandering voor de EG een wezenlijk probleem kan vormen. Zeespiegelstijging zal met name ook delen van Frankrijk, Italië en Spanje bedreigen. Met uitzondering van de economisch getinte conclusies van het RIVM, met name ten aanzien van de effectiviteit van een heffing (zie hieronder), zie ik geen aanleiding kanttekeningen te plaatsen. en met name gas, als gevolg van de slechtere voorraadpositie, sterk stijgen. Tengevolge van deze veronderstellingen wordt het effect van de heffing, die vanaf 2000 constant is gehouden, op de onderlinge prijsverhoudingen van de verschillende brandstoffen in de loop van de tijd steeds geringer. nemen. De onzekerheden over een dergelijk lange periode zijn echter dusdanig groot, dat de uitspraken van het RIVM over de EG-heffing totaal anders beoordeeld moeten worden dan de resultaten van de Stuurgroep Regulerende Energieheffingen. Energieprijspaden in ESCAPE index (1990 = 100) 1990 2000 2100 1990 2000 2100 Olie Kolen Aardgas (exclusief heffing) (inclusief heffing) 100 175 389 100 235 448 100 103 107 100 227 231 100 175 389 100 188 402 De te verwachten reactie op prijsstijgingen kan op drie manieren tot stand komen. Ten eerste door een andere inzet van technieken, onder invloed van een COa-energie-heffing bijvoorbeeld meer zuinige en CO^-arme technieken. Ten tweede door een directe vermindering van de energievraag waarvan de omvang wordt bepaald door de prijselasticiteiten. En ten derde door vermindering of verschuiving van economische activiteiten. Het ESCAPE-model is in eerste instantie een technisch-wetenschappelijk model, dat wil zeggen dat in het model voornamelijk wordt gekeken naar substitutie tussen technieken en brandstoffen onder invloed van kostenverschillen. De mogelijkheid om verandering van de energievraag mee te nemen bestaat wel in het model, maar is in de De veronderstellingen die in het ESCAPE-model zijn gehanteerd, met name ten aanzien van de ontwikkeling van de brandstofprijs en het niet meenemen van prijselasticiteiten, wijken af van hetgeen de Stuurgroep Regulerende Energieheffingen heeft verondersteld. Dat het RIVM geen rekening heeft gehouden met de economische effecten, onder meer via de prijselasticiteiten, betekent dat het effect van de EG-heffing op de energievraag en de COi-uitstoot, zoals het RIVM die heeft berekend, als een minimum schatting moet worden gezien. Een beoordeling van de veronderstellingen omtrent de ontwikkeling van de brandstofprijzen tot 2100 is problematisch. Wel kan bijvoorbeeld geconstateerd worden dat de Stuurgroep Regulerende Energieheffingen uitgaat van een verdubbeling van de kolenprijs tussen 1990 en 2015. Het in 2000 constant gehouden. Bij de veronderstelde toename van de energieprijzen zal het effect van de heffing in de loop van de tijd verminderen. Naast de brandstofprijsontwikkeling en de prijselasticiteiten speelt de ontwikkeling van de CCh-emissies buiten de EG ook een belangrijke rol. Volgens het IPCC-scenario Business-as-usual verviervoudigen de COz-emissies wereldwijd in de periode tot 2100. Deze groei van de emissies vindt voornamelijk plaats buiten de OECD. Een heffing in de EG alleen beïnvloedt de COz-emissie buiten de EG natuurlijk niet en dus wordt de globale CCh-uitsoot in 2100 nauwelijks beïnvloed. Een alleen in de EG doorgevoerde heffing heeft als effect dat de COz-emissies van de EG in 2100 slechts 5% hoger liggen dan het huidige niveau, waarbij dan nog geen rekening is gehouden met de elasticiteiten. Over een dergelijke lange periode zou bij doorgaande economische groei een stijging van slechts 5% opmerkelijk zijn. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

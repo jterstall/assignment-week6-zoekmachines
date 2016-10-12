@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="deren?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001388</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001388&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001388</item>
+         <item attribuut="Document-id">0000035795</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 466</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden De Hoop Scheffer en Van lersel (beiden C.D.A.) over de uitvoering van EG-richtlijnen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 466</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">466</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">De Hoop Scheffer</persoon>
+            <persoon partij="CDA">Van lersel</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-02-15</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Andriessen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-03-19</item>
+         <item attribuut="Beginpagina">937</item>
+         <item attribuut="Eindpagina">938</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="937" allpagenumbers="937" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uiigeveni 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="466" onderwerp="de uitvoering van EG-richtlijnen." indiendatum="1990-02-15">
+         <vrager partij="CDA" oorsprong="parlement">De Hoop Scheffer</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Van lersel</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1" voetnoot="1">Heeft de regering de Commissie van de Europese Gemeenschappen op de hoogte gesteld van haar opvattingen ten aanzien van de uitvoering van EG-richtlijnen? <voetnoot nummer="1"/>Zo neen, is de regering bereid dit alsnog te doen en deze Kamer op de hoogte te stellen van het resultaat hiervan? Zo ja, welke mening is de Commissie toegedaan met betrekking tot de opvattingen van de regering, dat de standaard uitvoe– ringstermijn van 18 maanden soms voorzienbaar te kort is? </vraag>
+      <vraag nummer="4"/>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+   <mededeling mededeler="Andriessen" functie="minister" afdeling="Economische Zaken" mededelingdatum="1990-03-19">Mededeling van minister Andriessen (Economische Zaken), mede namens de staatssecretaris van Economische Zaken. (Ontvangen 19 maart 1990) Hierbij deel ik u (ook namens de staatssecretaris van Buitenlandse Zaken) mede dat het vanwege nog lopend interdepartementaal overleg niet mogelijk is u binnen de gestelde termijn de antwoorden te doen toekomen op de vragen van de leden De Hoop Scheffer en Van lersel, welke mij werden toegezonden met brief van 16 februari jl. De beant– woording zal plaats hebben vóór het paasreces. Heeft de Commissie zich bereid verklaard in die gevallen, waarin sprake is van een ingewikkelde materie, de standaarduitvoerings– termijn te verlengen? 4 Is de Commissie voornemens maatregelen te nemen, die de duide– lijkheid van EG-richtlijnen bevor– </mededeling>
+</kvr>

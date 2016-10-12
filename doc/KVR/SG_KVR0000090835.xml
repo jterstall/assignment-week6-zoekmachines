@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="2 " aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19881989:0001236</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001236&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001236</item>
+         <item attribuut="Document-id">0000090835</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1988-1989 nummer 233</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Wallage (P.v.d.A.), Te Veldhuis (V.V.D.) en Eisma (D66) over fondsen voor antarctisch onderzoek.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1988-1989 nummer 233</item>
+         <item attribuut="Jaargang">1988_1989</item>
+         <item attribuut="Vraagnummer">233</item>
+         <item attribuut="Indiener">
+            <persoon>Wallage</persoon>
+            <persoon>Te Veldhuis</persoon>
+            <persoon>Eisma</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1988-12-14</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Deetman</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-01-09</item>
+         <item attribuut="Beginpagina">467</item>
+         <item attribuut="Eindpagina">468</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1988-1989 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 8 - 1 9 8 9 ,  A a n h a n g s e l " filenaam="" issn-nummer="ISSN 0921 7398 " uitgever="SDU uitgeverij 's Gravenhage 1989 "/>
+      <vraagdata vraagnummer="233" onderwerp="fondsen voor antarctisch onderzoek." indiendatum="14 december 1988)">
+         <vrager partij="" oorsprong="parlement">Wallage</vrager>
+         <vrager partij="" oorsprong="parlement">Te Veldhuis</vrager>
+         <vrager partij="" oorsprong="parlement">Eisma</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1 ">Kunt u meedelen op welke wijze de  regering denkt te verzekeren, dat  Nederlandse onderzoekers een  betekenisvolle bijdrage kunnen  blijven leveren aan het antarctisch  onderzoek?'  </vraag>
+      <vraag nummer="2 ">Kan de regering meedelen op welke  wijze en op welke termijn zij in de  benodigde fondsen (ca. 1 miljoen per  jaar) denkt te voorzien?  Mededeling van minister  D e e t m a n  (Onderwijs en Wetenschappen).  (Ontvangen 9 januari 1989)  Hierbij deel ik u, mede namens mijn  ambtgenoot van Buitenlandse Zaken,  mee dat de toegezonden vragen van  de leden van uw Kamer, de heren  Wallage, Te Veldhuis en Eisma, tot  mijn spijt niet binnen de gebruikelijke  termijn kunnen worden beantwoord.  Dit in verband met het feit dat het  interdepartementale overleg, dat  onder leiding van het Ministerie van  Buitenlandse Zaken over deze  kwestie wordt gevoerd, naar verwach- ting niet voor begin februari zal zijn  afgerond. Gaarne zeg ik u toe, dat  beantwoording zo spoedig mogelijk  zal geschieden.  Zal Nederland op de voorbereidende  vergadering van de Antarctic Treaty  Consultative Meeting in Parijs begin  1989 de consultatieve status  aanvragen, zoals minister Van den  Broek toezegde tijdens zijn bezoek  aan Australië? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Zie Memorie van Toelichting van de  Begroting van Buitenlandse Zaken voor  1989, Kamerstuk 20 800 hfdst. V, nr. 3, pag  53. </noot>
+         <noot nummer="2"> Zie NRC-Handelsblad van 27 oktober 1988 </noot>
+      </noten>
+   </antwoorden>
+</kvr>

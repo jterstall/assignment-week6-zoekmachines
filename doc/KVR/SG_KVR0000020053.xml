@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="vereiste overleg nog niet is afgerond." aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001667</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001667&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001667</item>
+         <item attribuut="Document-id">0000020053</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 649</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Te Veldhuis (VVD) aan de ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Economische Zaken over de verslechtering van de Nederlandse markt</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 649</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">649</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Te Veldhuis</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-05-26</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Alders</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-06-16</item>
+         <item attribuut="Beginpagina">1361</item>
+         <item attribuut="Eindpagina">1362</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1361" allpagenumbers="1361" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="649" onderwerp="" indiendatum="">
+         <vrager partij="VVD" oorsprong="parlement">Te Veldhuis</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Hebt u kennis genomen van de jaarrede van de voorzitter van de VNCI' en van het Jaarverslag 1991 van de Raad van Onroerende Zaken? Is het u daarbij opgevallen, dat: - de omzet van de chemische industrie in Nederland is teruggelopen, terwijl die juist is toegenomen in zowel België/Luxemburg, Duitseland en de EG als totaliteit; - de ROZ er voor waarschuwt dat de interesse van beleggers sterk zal afnemen om de komende jaren in onroerend goed in Nederland te investeren? </vraag>
+      <vraag nummer="3">Wat vindt u van de door de VNCI en ROZ aangehaalde argumenten voor deze verslechtering van de Nederlandse markt, te weten: het milieu– en heffingenbeleid en de achteruitgang van het ondernemersklimaat en de concurrentiepositie voor Nederlandse ondernemingen, resp. het VINEX-beleid en wel met name de parkeernormen? Vindt u deze ontwikkelingen zorgwekkend? </vraag>
+      <vraag nummer="5">Trekt u hier al beleidsconclusies uit, of laat u alles «bij het oude»? </vraag>
+      <vraag nummer="6">Overweegt u in elk geval met beide betrokken doelgroepen in overleg te treden? Zo ja, wilt u daar dan over terugrapporteren? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Van  13 mei 1992 VNCI = Vereniging van Nederlandse Chemische Industrie ROZ = Raad van Onroerende Zaken</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+   <mededeling mededeler="Alders" functie="minister" afdeling="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer" mededelingdatum="16juni 1992">Mededeling van minister Alders (Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer). (Ontvangen 16juni 1992) Naar aanleiding van de mij met brief, 27 mei 1992, toegezonden vragen van het lid der Kamer Te Veldhuis over de verslechtering van de Nederlandse markt, deel ik u mede dat de beantwoording hiervan niet binnen de gestelde termijn kan plaatsvinden, aangezien het hiervoor </mededeling>
+</kvr>

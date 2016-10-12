@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001661</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001661&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001661</item>
+         <item attribuut="Document-id">0000027998</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 725</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Willems (Groen Links) en Schimmel (D66) over het exporteren van afval naar Schönberg</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 725</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">725</item>
+         <item attribuut="Indiener">
+            <persoon>Willems</persoon>
+            <persoon>Schimmel</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-06-14</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Alders</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-07-12</item>
+         <item attribuut="Beginpagina">1479</item>
+         <item attribuut="Eindpagina">1482</item>
+         <item attribuut="Omvang">4 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1479" allpagenumbers="1479 1480" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="'s-Gravenhage 1991"/>
+      <vraagdata vraagnummer="725" onderwerp="het exporteren van afval naar Schönberg" indiendatum="14juni 1991">
+         <vrager partij="" oorsprong="parlement">Willems</vrager>
+         <vrager partij="" oorsprong="parlement">Schimmel</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1991-07-12">
+         <antwoorder functie="minister" ministerie="Volkshuisvesting, Ruimtelijke Ordening en Miiieubeheer">Alders</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="11">
+      <vraag nummer="1">Acht u het verantwoord om met organische oplosmiddelen verontrei– nigde metaalhoudende filterkoek in Schönberg te storten, gegeven het feit dat de partij een te hoog gehalte aan organische oplosmiddelen bevat om in de C2-deponie te worden gestort?' </vraag>
+      <vraag nummer="2">Bent u van mening, dat de opslag in Schönberg op milieuhygiënisch meer verantwoorde wijze plaatsvindt dan in de C2-deponie? Zo ja, waarom? </vraag>
+      <vraag nummer="3" voetnoot="2">Waarom hebt u aan de gemeente Heythuysen vergunning verleend om verontreinigde grond uit te voeren naar de deponie Schönberg? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="4">Bent u van mening, dat in Schönberg de opslag van verontreinigde grond op milieuhygiënisch meer verant– woorde wijze plaatsvindt dan in Nederland mogelijk is? </vraag>
+      <vraag nummer="5" voetnoot="3">Deelt u de mening, dat door de wijze van storten in Schönberg verwerking van het afval op een later tijdstip nooit meer mogelijk is, in tegen– stelling tot de C2-deponie? <voetnoot nummer="3"/>Deelt u de mening, dat het, ook met het oog op de ontwikkeling van verwerkingsmogelijkheden, beter is om afval - tijdelijk - in Nederland te storten, zodat het later nog verwerkt kan worden? </vraag>
+      <vraag nummer="7" voetnoot="4">Is, in tegenstelling tot uw eerdere berichten, onlangs nog een grote partij batterijen afkomstig van het Nederlandse leger naar Schönberg afgevoerd? <voetnoot nummer="4"/>
+      </vraag>
+      <vraag nummer="8">Zijn de besluiten van uw ministerie aangaande de afvaltransporten naar Schönberg in het Nederlands gesteld en worden zij aan de betrokken autoriteiten in Mecklenburg - Vorpommern in het Nederlands ter kennis gebracht, zodat zij niet werkelijk op de hoogte kunnen zijn van de besluitgronden voor uitvoer? </vraag>
+      <vraag nummer="9">Deelt u de mening, dat er hierdoor geen garantie is dat de betrokken autoriteiten deze transporten afdoende kunnen beoordelen? </vraag>
+      <vraag nummer="10">Bent u bereid er zorg voor te dragen, dat de leveringscontracten en de daarbij behorende besluitgronden in het Duits vertaald worden? </vraag>
+      <vraag nummer="11">Zijn de berichten juist, dat de Duitse autoriteiten overwegen om per 1 juli a.s. de invoer van chemisch afval naar Schönberg aan strengere normen te binden danwel te verbieden? </vraag>
+      <vraag nummer="12">Bent u bereid te bevorderen, dat in ieder geval overheden geen afval meer transporteren naar Schönberg? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Beschikking van het Directoraat Generaal milieubeheer, directoraat afvalstoffen bureau melding WCA, NL 54787</noot>
+         <noot nummer="2"> Beschikking van het Directoraat Generaal milieubeheer, directoraat afvalstoffen bureau melding WCA, NL 57808</noot>
+         <noot nummer="3"> Op de stortplaats Schönberg wordt alle chemisch afval door elkaar gestort op folie in gaten op de stortplaats, waarop vervolgens weer huisvuil gestort wordt</noot>
+         <noot nummer="4"> Zie antwoord op vraag 5 van de vragen van de leden Beckers-de Bruyn en Willems, aanhangsel Handelingen nr. 724. Verga– derjaar 1989-1990</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="8">
+      <antwoord nummer="1" voetnoot="1">Het Besluit waarnaar in vraag 1 verwezen wordt betreft de uitvoer van metaalhoudende filterkoeken uit de C-2 categorie. Tot aan het gereedkomen van de C-2 deponie werd uitvoer van afval– stoffen uit deze categorie naar Schönberg toegestaan om reden dat bergingsmogelijkheden in eigen land ontbraken. Na de ingebruikname van de C-2 deponie begin 1990 wordt uitvoer van deze afvalstoffen in principe niet meer toegestaan. Een uitzondering op deze regel vormt de uitvoer van C-2 afvalstoffen waarvoor berging in de C-2 deponie toestemming in het algemeen gekoppeld aan een verplichting om onderzoek te doen naar en om zo mogelijk maatregelen te treffen ten einde het gehalte aan organische oplosmiddelen te verlagen tot een voor de C-2 deponie acceptabel niveau. Het komt momenteel dan ook niet of nauwelijks meer voor dat dit soort afvalstoffen worden uitge– voerd. De vraag of ik het verantwoord acht dat de betreffende afvalstoffen op de stortplaats Schönberg worden gestort kan ik bevestigend beant– woorden. De stortplaats Schönberg heeft isolerende voorzieningen die wezenlijk verschillen van de C-2 deponie. Zoals gezegd bestaan de isolerende voorzieningen van de C-2 deponie uit beton, bekleed met een voor organische oplosmiddelen gevoelige asfaltbitumen-laag. Bij de stortplaats Schönberg is met name de geohydrologische isolatie van belang. De gevoeligheid voor organische oplosmiddelen verschilt hierdoor wezenlijk van de C-2 deponie. Voor meer informatie over de stort– plaats Schönberg verwijs ik naar de antwoorden op eerdere kamervragen van de leden Beckers-de Bruijn en Willems. <voetnoot nummer="1"/>
+      </antwoord>
+      <antwoord nummer="2">Zie het antwoord op vraag 1. </antwoord>
+      <antwoord nummer="3">De hier bedoelde verontreinigde grond is, vanwege de aard van de grond en de soort verontreiniging (sintels/zware metalen), niet reinigbaar. Dit blijkt uit een bij de aanvraag gevoegde verklaring van het Service Centrum Grondreiniging. vinden een aanvraag voor een ontheffing van het stortverbod van de Wca aan te vragen. Dit betekent dat een belangrijk deel van de niet reinigbare grond en andere C3 afval– stoffen nog steeds in het buitenland gestort moet worden. </antwoord>
+      <antwoord nummer="5">Gezien het feit dat afvalstoffen op de stortplaats Schönberg gemengd worden gestort moet worden aange– nomen dat verwerking van het afval op een later tijdstip nlet meer mogelijk is. Of verwerking van in het hergebruikscompartiment van de C-2 deponie gestorte afvalstoffen in de toekomst mogelijk is zal nog moeten blijken. Overigens worden alleen afvalstoffen met een gehalte aan een aantal met name genoemde zware metalen van meer dan 2% in het hergebruikscompartiment van de C-2 deponie geborgen. </antwoord>
+      <antwoord nummer="6">In die gevallen waarin verwachtingen bestaan ten aanzien van toekomstige verwerking acht ik het in beginsel inderdaad beter de afvalstoffen tijdelijk - in afwachting van het beschikbaar komen van verwerkings– faciliteiten in eigen land - op te slaan. Voor de uitvoer van dergelijke afvalstoffen wordt dan ook geen toestemming tot uitvoer gegeven. Voorbeelden hiervan zijn batterijen en (potentieel) reinigbare grond. </antwoord>
+      <antwoord nummer="7">In het meldingenbestand voor grens– overschrijdend transport van gevaarlijk afval komt een transport van batterijen als hier bedoeld niet voor. Omdat de mogelijkheid is geschapen batterijen in eigen land toestemming van de Duitse overheid worden bij de aanvraag die bij het ministerie van VROM wordt ingediend, gevoegd. Wat het tweede punt betreft merk ik op dat de Duitse autoriteiten op de hoogte zijn van de criteria die worden gehanteerd bij het beoordelen van aanvragen voor uitvoer van afvalstoffen. Ook is er op ambtelijk niveau regelmatig contact met de Duitse autoriteiten. Verder wordt een korte samenvatting van de strekking van het besluit in het Duits met het besluit meegezonden. Gezien het voorgaande ben ik van mening dat de Duitse autoriteiten in staat zijn de transporten afdoende te beoordelen. Vertaling van leveringscontracten en besluitgronden zoals in vraag 10 wordt voorgesteld, acht ik daarom niet nodig. </antwoord>
+      <antwoord nummer="11">Nee, uit het overleg dat door het ministerie met de Duitse autoriteiten is gevoerd, is gebleken dat de uitvoer naar Schönberg voorlopig gecontinueerd kan worden. De acceptatiecriteria zullen niet wezenlijk worden gewijzigd of worden aangescherpt. De reden hiervoor is dat de voor de stortplaats Schönberg gehanteerde acceptatie– criteria al voor een belangrijk deel overeenkomen met de in de voormalige BRD geldende criteria. Wel moet er rekening mee worden gehouden dat er, vanwege een aanpassing van formulieren en procedures, na 1 juli enige stagnatie in de afvoer op kan treden. </antwoord>
+      <antwoord nummer="12">Zolang er in Nederland onvoldoende </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

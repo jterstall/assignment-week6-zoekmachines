@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="4">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001876</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001876&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001876</item>
+         <item attribuut="Document-id">0000020262</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 857</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Van Erp en Van Rey (beiden VVD) over de nieuwe koopavonden-en koopzondagenregeling.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 857</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">857</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Van Erp</persoon>
+            <persoon partij="VVD">Van Rey</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-08-25</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Andriessen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-09-07</item>
+         <item attribuut="Beginpagina">1781</item>
+         <item attribuut="Eindpagina">1782</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1781" allpagenumbers="1781" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="857" onderwerp="de nieuwe koopavonden– en koopzondagenregeling." indiendatum="1992-08-25">
+         <vrager partij="VVD" oorsprong="parlement">Van Erp</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Van Rey</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-09-7">
+         <antwoorder functie="minister" ministerie="Economische Zaken">Andriessen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Kan de per 1 juli wettige winkelopenstellingsregeling niet worden uitgevoerd omdat de voorgeschreven openingskaarten niet leverbaar zijn? Waarom kunnen de bestaanden kaarten niet worden gebruikt? </vraag>
+      <vraag nummer="3">Op welke termijn zijn de openingskaarten beschikbaar? </vraag>
+      <vraag nummer="4">Kan de uitbreiding tot acht koopzondagen en de nieuwe koopavondenregeling pas in januari 1994 ingaan omdat sprake zou zijn van een procedurefout? </vraag>
+      <vraag nummer="5">Op welke wijze wilt u bevorderen, dat de nieuwe koopavondenregeling nog per december a.s. kan ingaan en de koopzondagenregeling per 1 januari a.s.? Zie brief Stichting Ondernemers Binnenstad Venlo, is ondershands aan de regering doorgezonden. </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1 en 3">Nee.  De  wet van  20  mei  1992 tot wijziging van de Winkelsluitingswet 1976 is op 23 juni jl. gepubliceerd in Staatsblad 294. Ingevolge artikel VII van deze wet treden de artikelen met betrekking tot het landelijk openstellingsregime in werking met ingang van het derde kalenderkwartaal na de datum van uitgifte van het Staatsblad waarin deze wet wordt geplaatst. Dat is dus op 1 januari 1993 en niet op 1 juli 1 992. Naar verwachting zullen de nieuwe kaarten in oktober beschikbaar zijn, dus ruim voordat de wet in werking zal treden. </antwoord>
+      <antwoord nummer="2">Op een aankondigingskaart zijn de uren, waarop een winkel geopend mag zijn, aangegeven. De ondernemer maakt vervolgens de uren, waarop zijn winkel gesloten zal zijn, zwart. Met ingang van 1 januari 1993 echter veranderen de tijden waarop winkels open mogen zijn. De bestaande kaart biedt geen mogelijkheid om de openstelling tot 18.30 uur op maandag tot en met vrijdag en tot 18.00 uur op zaterdag aan te geven. Bovendien wekt het verwarring als de vervallen mogelijkheid van openstelling tussen 5 en 6 uur 's morgens op de kaart gehandhaafd zou blijven. Overigens is een ondernemer die de «oude» tijden wil handhaven, niet verplicht om per 1 januari 1993 een nieuwe aankondigingskaart bij de gemeente te laten waarmerken. </antwoord>
+      <antwoord nummer="4">Nee. Bepaald is dat de wijziging van de overige artikelen van de Winkelsluitingswet 1976 in werking zal treden op een bij koninklijk besluit te bepalen tijdstip. Dit kan pas geschieden nadat de nodige uitvoeringsmaatregelen, met name de Algemene Maatregelen van Bestuur, tot stand zijn gekomen. Naar verwachting zal dit zijn medio 1993. Indien er bij de ondernemers reeds dit jaar behoefte is aan een vierde koopavond voor Kerstmis, kan de gemeenteraad hieraan tegemoet komen door op grond van artikel 9, eerste lid, van de wet een extra koopavond aan te wijzen. Ten aanzien van de uitbreiding tot acht koopzondagen merk ik op dat deze wijziging door een amendement in de wet is opgenomen. In het amendement, dat betrekking had op het eerste lid van artikel 9, was geen voorziening opgenomen om de wijziging van dit lid op een ander tijdstip in werking te laten treden dan de overige wijzigingen van artikel 9. </antwoord>
+      <antwoord nummer="5">De wet biedt geen mogelijkheid om de overige artikelen, waaronder de koopavondenregeling en de uitbreiding tot acht zondagen, op verschillende tijdstippen in werking te laten treden. Een inwerkingtredingsdatum per 1 december 1992 of 1 januari 1993 is niet haalbaar, gezien de in de wet </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

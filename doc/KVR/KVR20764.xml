@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="toekomen." aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Gerkens (SP) aan de ministers van Justitie en van Economische Zaken over spyware. (Ingezonden 29 juni 2004); Mededeling</item>
+         <item attribuut="Bestand">16Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR20764
+</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van een bericht in EPN nieuws dat spyware infecties in Nederland sterk groeien.</item>
+         <item attribuut="Rubriek">Communicatie, media en informatievoorziening (Hard- en software) Communicatie, media en informatievoorziening (Netwerken) Criminaliteit en openbare orde (Criminaliteitsbestrijding en -preventie)</item>
+         <item attribuut="Trefwoorden">Computercriminaliteit Internet Software</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2003-2004, nr. 1967, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2030416730</item>
+         <item attribuut="Afkomstig_van">Justitie (JUS)</item>
+         <item attribuut="Indiener">
+            <persoon partij="SP">Gerkens</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2004-07-21</item>
+         <item attribuut="Datum_indiening">2004-06-29</item>
+         <item attribuut="Document-id">KVR20764</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2003–2004" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="4159" allpagenumbers="4159" vetnummer="2030416730" code="0304tkkvr1967" lopendefooter="Tweede Kamer, vergaderjaar 2003–2004, Aanhangsel" filenaam="KVR20764" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2004"/>
+      <vraagdata vraagnummer="1967" onderwerp="" indiendatum="2004-06-29">
+         <vrager partij="SP" oorsprong="parlement">Gerkens</vrager>
+         <vraagt-aan>de ministers van Justitie en van Economische Zaken</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Wat is uw mening over het bericht dat spyware infecties in Nederland sterk groeien? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2" voetnoot="2">Wat uw mening over het feit dat één op de drie computers besmet is met spyware? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="3">Wat vindt u van methodes zoals het afsluiten van websites waar spyware wordt verspreid en het geven van betere voorlichting over spyware om dit probleem aan te pakken? </vraag>
+      <vraag nummer="4" voetnoot="3">Bent u bereid om in Nederland een wetsvoorstel in te dienen dat, net zoals de Spy Act in Amerika, er op neer komt dat consumenten van tevoren toestemming moeten geven voordat een programma informatie over hen mag verzamelen en doorsturen? <voetnoot nummer="3"/>Zo ja, wanneer wilt u dit wetsvoorstel gaan indienen? Zo neen, waarom niet? </vraag>
+      <vraag nummer="5">Bent u bereid om u ook op Europees niveau hard te maken voor een dergelijk wetsvoorstel? Zo neen, waarom niet? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" titel="Spyware: de digitale pest van de 21e eeuw">EPN nieuws 3 2004: «Spyware: de digitale pest van de 21e eeuw»</noot>
+         <noot nummer="2" weblink="http://webwereld.nl/nieuws/18805.phtml">http://webwereld.nl/nieuws/18805.phtml</noot>
+         <noot nummer="3" weblink="http://webwereld.nl/nieuws/18848.phtml">http://webwereld.nl/nieuws/18848.phtml</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+   <mededeling mededeler="Donner" functie="minister" afdeling="Justitie" mededelingdatum="2004-07-21">Mededeling van minister Donner (Justitie), mede namens de minister van Economische Zaken. (Ontvangen 21 juli 2004) Met verwijzing naar uw brief van 29 juni 2004, nr. 2030416730, deel ik u, mede namens de Minister van Economische Zaken, mede dat de vragen van het lid van uw Kamer Gerkens (SP) over Spyware niet binnen de gebruikelijke termijn kunnen worden beantwoord, omdat het interdepartementale overleg nog niet kan worden afgerond. Ik streef ernaar u voor afloop van het zomerreces mijn antwoord te doen </mededeling>
+</kvr>

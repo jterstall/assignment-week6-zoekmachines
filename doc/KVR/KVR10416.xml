@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="4">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Poppe (SP) aan de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer over het gebruik van dieselloc's op geëlektrificeerde spoortrajecten. (Ingezonden 29 september 1999); Antwoord</item>
+         <item attribuut="Bestand">14Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR10416
+</item>
+         <item attribuut="Inhoud">Vragen over de milieu-eisen gesteld aan het gebruik van diesellocs voor het goederenvervoer per spoor.</item>
+         <item attribuut="Rubriek">Milieu (Algemeen) Verkeer, vervoer en waterstaat (Goederenvervoer) Verkeer, vervoer en waterstaat (Spoorwegen)</item>
+         <item attribuut="Trefwoorden">Goederenvervoer Milieuhygiëne Spoorwegen</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 1999-2000, nr. 146, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2990000430</item>
+         <item attribuut="Afkomstig_van">Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer</item>
+         <item attribuut="Indiener">
+            <persoon partij="SP">Poppe</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1999-10-20</item>
+         <item attribuut="Datum_indiening">1999-09-29</item>
+         <item attribuut="Document-id">KVR10416</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1999–2000" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="305" allpagenumbers="305" vetnummer="2990000430" code="" lopendefooter="Tweede Kamer, vergaderjaar 1999–2000, Aanhangsel" filenaam="KVR10416" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 1999"/>
+      <vraagdata vraagnummer="146" onderwerp="" indiendatum="1999-09-29">
+         <vrager partij="SP" oorsprong="parlement">Poppe</vrager>
+         <vraagt-aan>de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1999-10-20">
+         <antwoorder functie="minister" ministerie="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer">Pronk</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Hebt u kennisgenomen van het artikel «Spoorvervoer kan tien tot vijftig procent goedkoper» <voetnoot nummer="1"/>, waarin het bedrijf Transcare aankondigt een aantal diesellocs aan te schaffen voor het goederenvervoer over spoor? </vraag>
+      <vraag nummer="2">Aan welke emissie-eisen (geluid, stank, Nox e.d.) dienen dieselloc’s op het Nederlandse spoorwegnet momenteel te voldoen? Gelden deze eisen ongeacht het land van herkomst van de loc? </vraag>
+      <vraag nummer="3">Wat zijn de emissies van een Euro3-dieselloc? Klopt de stelling van Transcare dat «de Euro3 dieselloc milieuvriendelijker is dan een elektrische loc voor een lange kolentrein»? Is dit ook waar als gekeken wordt naar de directe overlast voor omwonenden? </vraag>
+      <vraag nummer="4">Acht u het wenselijk dat spoorwegmaatschappijen in toenemende mate dieselloc’s inzetten op binnenlandse en grensoverschrijdende trajecten die geheel of grotendeels voorzien zijn van bovenleiding? Zo ja, is het mogelijk om spoorwegmaatschappijen te verplichten om voor trajecten die geheel «onder de draad» liggen, altijd elektrische loc’s in te zetten, zo nodig in meerspanningsuitvoering? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1999-09-23" bron="Nieuwsblad Transport">Nieuwsblad Transport, 23 september 1999</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Voor dieselloc’s gelden geen wettelijke eisen aan de emissie van geluid, stank en luchtverontreiniging. </antwoord>
+      <antwoord nummer="3" voetnoot="2">Het begrip Euro3 is mij in relatie tot dieselloc’s onbekend. Naar mijn inzicht kan geen enkele thans beschikbare dieseltechnologie voor lokomotieven wedijveren met elektrische tractie op het punt van emissie van stikstofoxiden en (roet)deeltjes en geluid. Voor de emissie van CO <voetnoot nummer="2"/>heeft elektrische tractie een beperkt voordeel. </antwoord>
+      <antwoord nummer="4">Ik acht dat niet wenselijk. Het milieuvoordeel van het vervoer per spoor komt daarmee verder onder druk te staan. De geldende regelgeving voor het spoor betreffende toelating van vervoerders biedt geen bevoegdheid om spoorwegmaatschappijen te verbieden op bepaalde trajecten diesellocomotieven te gebruiken. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

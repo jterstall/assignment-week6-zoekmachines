@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19881989:0001151</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001151&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001151</item>
+         <item attribuut="Document-id">0000090750</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1988-1989 nummer 151</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Herfkens (P.v.d.A.) over de mensenrechtensituatie te Burkina Faso.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1988-1989 nummer 151</item>
+         <item attribuut="Jaargang">1988_1989</item>
+         <item attribuut="Vraagnummer">151</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Herfkens</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1988-11-16</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1988-12-01</item>
+         <item attribuut="Beginpagina">303</item>
+         <item attribuut="Eindpagina">304</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 8 - 1 9 8 9 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 8 - 1 9 8 9 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="151" onderwerp="de mensenrechtensitu- atiete Burkina Faso." indiendatum="16 november 1988)">
+         <vrager partij="PvdA" oorsprong="parlement">Herfkens</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1 december 1988)">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">V a n den Broek</antwoorder>
+         <mede-antwoorder>de minister voor Ontwikke- lingssamenwerking</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1 ">Hebt u kennis genomen van het  onlangs door Amnesty International  uitgebrachte rapport over Burkina  Faso?  </vraag>
+      <vraag nummer="2 ">Deelt u de zorg over de geconstateer- de gevangenhouding en mishandeling  van politieke tegenstanders van de  regering-Campaoré, onder wie  voormalige ministers uit de regering- Sankara en studenten en scholieren,  die geweldloos verzet hebben  gepleegd?  </vraag>
+      <vraag nummer="3 ">Zo ja, bent u bereid deze bezorgdheid  onder de aandacht te brengen van de  regering-Campaoré, bij voorbeeld via  de contacten, die met de autoriteiten  in Ouagadougou worden onderhou- den in het kader van de ontwikkelings- samenwerking?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1 ">Ja.  </antwoord>
+      <antwoord nummer="2 ">Ja, waarbij overigens zij aangetekend  dat volgens de ons ter beschikking  staande gegevens de betrokken  studenten en scholieren enige tijd  geleden in vrijheid zijn gesteld. Er  lijkt derhalve te kunnen worden  gesproken van een zekere verbetering  in de mensenrechtensituatie.  </antwoord>
+      <antwoord nummer="3 ">Van Nederlandse kant  w o r d t niet  nagelaten, in de contacten met de  daarvoor in aanmerking komende  autoriteiten van Burkina Faso, steeds  ook uitdrukking te geven aan de hier  te lande bestaande inzichten met  betrekking tot de mensenrechten.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

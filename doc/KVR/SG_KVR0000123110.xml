@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="rie dient te worden bevorderd. " aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19841985:0001138</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19841985:0001138&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19841985:0001138</item>
+         <item attribuut="Document-id">0000123110</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1984-1985 nummer 20</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Van der Burg en Evenhuis-van Essen (beiden C.D.A.) over het vrijlaten van een gedetineerde te Amsterdam.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1984-1985 nummer 20</item>
+         <item attribuut="Jaargang">1984_1985</item>
+         <item attribuut="Vraagnummer">20</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Van der Burg</persoon>
+            <persoon partij="CDA">Evenhuis-van Essen</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1984-08-30</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Korthals Altes</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1984-09-26</item>
+         <item attribuut="Beginpagina">37</item>
+         <item attribuut="Eindpagina">38</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1984-1985 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1984-1985, Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="20" onderwerp="het vrijlaten van een gedetineerde te Amsterdam." indiendatum="30 augustus 1984)">
+         <vrager partij="CDA" oorsprong="parlement">Van der Burg</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Evenhuis-van Essen</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 " voetnoot="1">Is het waar, dat de Amsterdammer  P.v.D., die op 28 juni  j l . tijdens een  wilde achtervolging de veroorzaker  was van een dodelijk ongeluk, daarbij  waarschijnlijk onder invloed van  sterke drank verkerend <voetnoot nummer="1"/>, op 2 juli is  vrijgelaten wegens cellentekort? Zo  neen, welke overwegingen hebben  dan aan deze beslissing ten grondslag  gelegen?  </vraag>
+      <vraag nummer="2 ">Zou, indien vraag 1 bevestigend  wordt beantwoord, de beslissing  anders zijn uitgevallen indien geen  sprake geweest zou zijn van cellente- kort? Welke eventuele andere overwe- gingen hebben gegolden om betrok- kene niet vast te houden?  Delen de bewindslieden de mening,  dat in het algemeen in dit soort  gevallen te weinig rekening wordt  gehouden met de gevoelens en de  positie van het slachtoffer of de  nabestaanden? Zien de bewindslieden  een mogelijkheid hierin verbetering  aan te brengen, b.v. doordat het  openbaar ministerie een gemotiveerde  mededeling doet aan het slachtoffer  of nabestaanden van de ter zake  genomen beslissing?  </vraag>
+      <vraag nummer="4 " voetnoot="1">Waarom hebben de eerder aangekon- digde maatregelen om het cellentekort  aan te pakken in dit geval geen effect  gesorteerd?  Zijn pogingen ondernomen, betrokkene  elders onder te brengen?  <voetnoot nummer="1"/> Nieuwe Noord Hollandse Courant van 29  juni jl.  Antwoord  Antwoord van minister Korthals Altes  (Justitie), mede namens de staatsse- cretaris van Justitie. (Ontvangen 26  september 1984)  1,2, 4 en 5  Neen. De verdachte is vrijgelaten  nadat de rechter-commissaris de  vordering tot inbewaringstelling had  afgewezen. De vragen 2, 4 en 5  behoeven mitsdien geen beantwoor- ding.  </vraag>
+      <vraag nummer="3 ">Aan de positie van slachtoffers van  delicten in de strafrechtspleging en  de verbetering die daarin kan worden  gebracht, heb ik in de memorie van  toelichting op de begroting van mijn  departement voor 1985 ruime aan- dacht besteed. Zoals daarin wordt  uiteengezet, ben ik van oordeel dat  een betere bejegening en voorlichting  van het slachtoffer of diens nabestaan- den door politie en openbaar ministe- </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

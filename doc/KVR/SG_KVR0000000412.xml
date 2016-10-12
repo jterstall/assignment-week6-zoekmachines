@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19941995:0000412</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000412&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000412</item>
+         <item attribuut="Document-id">0000000412</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1994-1995 nummer 78</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Koekkoek (CDA) over door gesubsidieerde scholen gevraagd schoolgeld.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1994-1995 nummer 78</item>
+         <item attribuut="Jaargang">1994_1995</item>
+         <item attribuut="Vraagnummer">78</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Koekkoek</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-09-26</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Netelenbos</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-10-17</item>
+         <item attribuut="Beginpagina">155</item>
+         <item attribuut="Eindpagina">156</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1994-1995" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de ledan der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="155" allpagenumbers="155" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1994-1995, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 • 7398" uitgever="VGravenhage 1994"/>
+      <vraagdata vraagnummer="" onderwerp="" indiendatum="">
+         <vrager partij="CDA" oorsprong="parlement">Koekkoek</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="78">Vragen van het lid Koekkoek (CDA) over door gesubsidieerde scholen gevraagd schoolgeld. (Ingezonden 26 september 1994) </vraag>
+      <vraag nummer="1" voetnoot="1">Kunt u zich voorstellen dat uw uitspraak dat sommige scholen meer dan duizend gulden schoolgeld vragen, zonder dat u in staat bent mee te delen welke scholen u bedoelt, verbazing wekt? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Wilt u proberen geen uitspraak meer te doen die u vervolgens niet kan waarmaken? Welke indicaties zijn er dat op sommige scholen in het voortgezet onderwijs meer dan 1000 gulden ouderbijdrage wordt gevraagd? </vraag>
+      <vraag nummer="4">Zal de inspectie bij haar aandacht voor de ouderbijdrage in het primair en voortgezet onderwijs nagaan of dergelijke bijdragen niet alleen in formele zin, maar ook werkelijk vrijwillig zijn, in die zin dat over de aard van de bijdrage bij ouders geen misverstand kan ontstaan? Rijks kas voor het basisonderwijs onvoldoende is? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Zie Aanhangsel Handelingen nr. 4, Vergaderjaar 1994-1995</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1,2en3">Mij zijn enkele individuele scholen bekend waarvan het schoolgeld meer dan f 1000 per leerling bedraagt. Omdat het hier niet gaat om het resultaat van een systematisch onderzoek, is het bekendmaken van de namen van deze scholen niet zorgvuldig. Het zou een willekeurig en incompleet beeld oproepen. Dit zou naar mijn mening geen bijdrage vormen aan de discussie waarom het in dit verband moet gaan: kunnen wij in Nederland waarborgen dat de kansen van iedere jong ingezetene op funderend onderwijs van gelijke kwaliteit onder gelijke omstandigheden ook daadwerkelijk gelijk zijn? </antwoord>
+      <antwoord nummer="4">Ja. indicatie voor de veronderstelling dat de bekostiging van het basis– of voortgezet onderwijs onvoldoende is. Het vormt wel een prikkel tot bezinning over de vraag wat nodig is om voor iedereen de gelijke toegang tot onderwijs van gelijke kwaliteit te kunnen blijven waarborgen. Is het vóórkomen van ouderbijdragen van vele honderden guldens een indicatie dat de bekostiging uit 's Het vóórkornen van hoge onderwijsbijdragen aan sommige scholen is niet per definitie een </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

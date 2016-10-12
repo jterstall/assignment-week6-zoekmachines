@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="ook daadwerkelijk vervult?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Tonkens en Vendrik (beiden GroenLinks) aan de minister van Volksgezondheid, Welzijn en Sport over het gebruik van open standaarden (OS) en open source software (OSS) in de zorgsector. (Ingezonden 6 september 2002)</item>
+         <item attribuut="Bestand">12Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V010215130
+</item>
+         <item attribuut="Rubriek">Communicatie, media en informatievoorziening (Hard- en software) Gezondheidszorg (Algemeen)</item>
+         <item attribuut="Trefwoorden">Gezondheidszorg Software</item>
+         <item attribuut="Vindplaats">Kamervragen 2001-2002, vraagnr. 2010215130, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2010215130</item>
+         <item attribuut="Indiener">
+            <persoon partij="GroenLinks">Tonkens</persoon>
+            <persoon partij="GroenLinks">Vendrik</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2002-09-06</item>
+         <item attribuut="Document-id">V010215130</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2001–2002" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 2001–2002, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2002"/>
+      <vraagdata vraagnummer="2010215130" onderwerp="" indiendatum="2002-09-6">
+         <vrager partij="GroenLinks" oorsprong="parlement">Tonkens</vrager>
+         <vrager partij="GroenLinks" oorsprong="parlement">Vendrik</vrager>
+         <vraagt-aan>de minister van Volksgezondheid, Welzijn en Sport</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1" voetnoot="1">Bent u bekend met de RVZ <voetnoot nummer="1"/>-rapportage «Inzicht in e-health» (Zoetermeer, 2002)? </vraag>
+      <vraag nummer="2">Deelt u de conclusie dat voor e-health open standaarden van essentieel belang zijn? </vraag>
+      <vraag nummer="3">Deelt u voorts de conclusie dat met name voor een kleine markt als de Nederlandse gezondheidszorg, OSS een oplossing kan vormen voor zowel het probleem van continuïteit van een leverancier als het gevaar van het ontstaan van een monopoliesituatie, en dat door de toepassing van OSS de kwaliteit van de programmatuur kan toenemen en kosten kunnen worden gereduceerd? </vraag>
+      <vraag nummer="4">Wat vindt u van de aanbeveling aan overheid en verzekeraars om, budgettair neutraal, geld voor OSS-ontwikkeling beschikbaar te stellen? </vraag>
+      <vraag nummer="5">Waar en hoe stimuleert de overheid op dit moment het gebruik van open standaarden en OSS in de zorgsector? Hoe kan dit in de toekomst verbeterd worden? </vraag>
+      <vraag nummer="6">Welke rol ziet u hierbij, met name op het gebied van open standaarden, weggelegd voor het NICTIZ ? Hoe zet u zich er voor in dat NICTIZ deze rol </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="2"/>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1">RVZ: Raad voor Volksgezondheid en Zorg</noot>
+         <noot nummer="2">NICTIZ: Nationaal ICT-Instituut voor de Zorg</noot>
+      </noten>
+   </antwoorden>
+</kvr>

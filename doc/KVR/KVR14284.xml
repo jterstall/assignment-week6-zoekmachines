@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Mosterd en Van der Knaap (beiden CDA) aan de minister van Sociale Zaken en Werkgelegenheid over bijstandfraude in Amsterdam. (Ingezonden 16 augustus 2001); Antwoord</item>
+         <item attribuut="Bestand">13Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR14284
+</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van berichten dat de gemeente Amsterdam een groot aantal signalen over bijstandsgerechtigden waarbij mogelijk sprake is van fraude, niet voor 1 januari 2002 kan verwerken (Trouw, 10 augustus 2001).</item>
+         <item attribuut="Rubriek">Sociale zekerheid (Bijstand (ABW, RWW, Wet Sociale Werkvoorziening)) Sociale zekerheid (Misbruik sociale zekerheid)</item>
+         <item attribuut="Trefwoorden">Bijstand Fraude</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2000-2001, nr. 1710, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2000114440</item>
+         <item attribuut="Afkomstig_van">Sociale Zaken en Werkgelegenheid (SZW)</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Mosterd</persoon>
+            <persoon partij="CDA">Van der Knaap</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2001-09-11</item>
+         <item attribuut="Datum_indiening">2001-08-16</item>
+         <item attribuut="Document-id">KVR14284</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2000–2001" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="3567" allpagenumbers="3567" vetnummer="2000114440" code="" lopendefooter="Tweede Kamer, vergaderjaar 2000–2001, Aanhangsel" filenaam="KVR14284" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2001"/>
+      <vraagdata vraagnummer="1710" onderwerp="" indiendatum="2001-08-16">
+         <vrager partij="CDA" oorsprong="parlement">Mosterd</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Van der Knaap</vrager>
+         <vraagt-aan>de minister van Sociale Zaken en Werkgelegenheid</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2001-09-11">
+         <antwoorder functie="minister" ministerie="Sociale Zaken en Werkgelegenheid">Vermeend</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Kent u het bericht dat de gemeente Amsterdam 100 000 oude signalen van de Belastingdienst over bijstandsgerechtigden waarbij mogelijk sprake is van fraude, niet voor 1 januari 2002 kan verwerken <voetnoot nummer="1"/>? </vraag>
+      <vraag nummer="2">Wat zijn de oorzaken hiervan? </vraag>
+      <vraag nummer="3">Welke maatregelen zult u nemen indien Amsterdam inderdaad de uitvoering van de bijstand niet op orde heeft per 1 januari 2002? Bent u van plan de aangekondigde stopzetting van de bevoorschotting dan door te voeren? </vraag>
+      <vraag nummer="4">Bent u van mening dat Amsterdam voldoende doet om de uitvoering van de Algemene Bijstandswet op orde te krijgen? </vraag>
+      <vraag nummer="5">Hoe gaat u om met een eventueel verzoek van de gemeente Amsterdam om uitstel? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="2001-08-10" bron="Trouw">Trouw, 10 augustus 2001</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2, 3, 4 en 5">In mijn brief van 2 juli jl. (BZ/Bu/01/43338a) en in het algemeen overleg met de vaste commissie voor SZW heb ik u geïnformeerd over de maatregelen die ik heb getroffen naar aanleiding van een onderzoek naar de uitvoering van de bijstandswet door de sociale dienst van de gemeente Amsterdam. In september zal ik een bestuurlijk overleg met Amsterdam voeren over het voorlopig plan van aanpak, dat bij mij is ingediend. Ik zal de Kamer informeren over de uitkomsten daarvan. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

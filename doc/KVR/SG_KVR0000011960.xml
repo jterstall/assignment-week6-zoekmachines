@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="4">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001656</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001656&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001656</item>
+         <item attribuut="Document-id">0000011960</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 726</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Smits (CDA) en Van Erp (VVD) over winkeldiefstal.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 726</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">726</item>
+         <item attribuut="Indiener">
+            <persoon>Smits</persoon>
+            <persoon>Van Erp</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-06-16</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Hirsch Ballin</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-07-07</item>
+         <item attribuut="Beginpagina">1481</item>
+         <item attribuut="Eindpagina">1482</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1481" allpagenumbers="1481 51" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="726" onderwerp="winkeldiefstal." indiendatum="1993-06-16">
+         <vrager partij="" oorsprong="parlement">Smits</vrager>
+         <vrager partij="" oorsprong="parlement">Van Erp</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-07-7">
+         <antwoorder functie="minister" ministerie="Justitie">Hirsch Ballin</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Wordt jaarlijks voor meer dan een miljard gulden aan winkeldiefstallen gepleegd? </vraag>
+      <vraag nummer="2" voetnoot="1">Herinnert u zich de toezegging van uw ambtsvoorganger <voetnoot nummer="1"/> om te komen tot een landelijk registratiesysteem voor plegers van winkeldiefstal? </vraag>
+      <vraag nummer="3">Waarom is de realisatiedatum ruimschoots overschreden? </vraag>
+      <vraag nummer="4">Welke maatregelen gaat u nemen om zo spoedig mogelijk te komen tot het toegezegde landelijk registratiesysteem winkeldiefstallen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Gedaan tijdens uw inzake actieplan voor de aanpak van veel voorkomende criminaliteit, Handelingen UCV, nrs. 81 en 95. Vergaderjaar 1986-1987</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">De omvang is aan de hand van verschillende inventarisaties slechts bij benadering vast te stellen. Het ministerie van Justitie heeft in 1991 een enquête gehouden onder detaillisten. Op basis van de verstrekte gegevens is de schade als gevolg van criminaliteit voor de detailhandel geschat op 1,4 miljard gulden. Daarbij vormde winkeldiefstal de grootste schadepost met een bedrag van 570 miljoen gulden. </antwoord>
+      <antwoord nummer="2">Ja. Daarnaast kan worden gewezen op de 23 november 1988 gegeven antwoorden op de op 20 oktober 1988 gestelde vragen door het lid Smits van de Tweede Kamer der Staten-Generaal (Aanhangsel Handelingen II 1988/1989, nr. 134), alsmede op het plan van aanpak ter beheersing van criminaliteit in en rond winkels van 11 maart 1991 (Kamerleden II 1990/1991,22038, nr. 1). Daaruit blijkt dat de registratie van winkeldiefstal is begrepen in het geautomatiseerde herkenningsdienstsysteem (HKS). Het opzetten van een apart registratiesysteem voor winkeldiefstal was dus niet nodig. Door middel van aansluiting op de Centrale Verwijzingsindex (CVI) is het mogelijk HKS landelijk te bevragen, zodat informatie over buiten de eigen regio gepleegde winkeldiefstallen opvraagbaar is. </antwoord>
+      <antwoord nummer="3">In het bij het antwoord op vraag 2 genoemde plan van aanpak is vermeld dat alle politieregio's beschikken over het HKS-systeem. Voorts is daarin toegezegd te bevorderen dat aansluiting op CVI op 1 april 1991 overal gerealiseerd zou zijn. De complexiteit van de invoering heeft geleid tot enige vertraging. Vanaf juni 1991 is negentig procent van de politiekorpsen aangesloten op CVI. In de daaropvolgende maanden volgde de laatste tien procent. Uit de op 31 maart 1992 aan de Tweede Kamer aangeboden voortgangsrapportage over het plan van aanpak ter beheersing van criminaliteit in en rond winkels blijkt dat HKS volledig operationeel is (Kamerstukken II 1991/1992,22038, nr. 4). Daarnaast zijn de politiekorpsen op grond van de Beheersregeling HKS/CVI van 18 juni 1991 verplicht gebruik te maken van HKS en CVI. </antwoord>
+      <antwoord nummer="4">Gelet op het antwoord op vraag 2 en vraag 3, behoeft deze vraag geen beantwoording meer. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

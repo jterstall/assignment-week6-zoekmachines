@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="2">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001785</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001785&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001785</item>
+         <item attribuut="Document-id">0000012089</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 855</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Jorritsma-Lebbink (VVD) over bescherming van werkwillenden in de binnenvaart.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 855</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">855</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Jorritsma-Lebbink</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-07-20</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Dales</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-09-17</item>
+         <item attribuut="Beginpagina">1743</item>
+         <item attribuut="Eindpagina">1744</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1743" allpagenumbers="1743" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="'s Gravenhage 1993"/>
+      <vraagdata vraagnummer="855" onderwerp="bescherming van werkwillenden in de binnenvaart." indiendatum="1993-07-20">
+         <vrager partij="VVD" oorsprong="parlement">Jorritsma-Lebbink</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-09-17">
+         <antwoorder functie="minister" ministerie="Binnenlandse Zaken">Dales</antwoorder>
+         <mede-antwoorder>de ministers van Justitie en van Verkeer en Waterstaat</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1">Bent u op de hoogte van de brief van het Nederlandse verladende bedrijfsleven inzake de bescherming van werkwillenden in de binnenvaart? Deelt u de mening, dat de ontwikkelingen bedreigend zijn zowel uit een oogpunt van openbare orde en veiligheid als vanwege het verdwijnen van vervoer over het water naar vooral de weg maar ook de spoorwegen, terwijl het overheidsbeleid erop gericht is vervoer over het water te stimuleren? </vraag>
+      <vraag nummer="3">Zult u bevorderen, dat zowel werkwillenden als alternatieve transportmodaliteiten (spoor en weg) hun activiteiten ongehinderd kunnen bedrijven? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja, bedoelde brief van de directeur van de EVO, 14 juli 1993 is mij bekend. De bedoelde ontwikkelingen hebben vanuit het oogpunt van de openbare orde en veiligheid steeds mijn zorg gehad. Tot mijn tevredenheid hebben de eerstverantwoordelijken, de diverse betrokken burgemeesters, de negatieve gevolgen van deze ontwikkelingen tot een minimum weten te beperken. Op dit moment is er onvoldoende reden om te veronderstellen dat de ontwikkelingen in meer structurele zin aanleiding zullen vormen voor een verschuiving van het vervoer over het water naar vooral de weg en het spoor. </antwoord>
+      <antwoord nummer="3">Mijn ambtgenoten van Justitie en van Verkeer en Waterstaat en ik hebben binnen de grenzen van onze onderscheiden verantwoordelijkheden het nodige gedaan om te bevorderen dat het vervoer per binnenschip - en het vervoer via andere transportwijzen - zoveel mogelijk ongestoord en ongehinderd kon plaatsvinden. Uiteraard zullen wij ook in de toekomst het nodige blijven doen om een ongehinderd vervoer op de Nederlandse (water)wegen te verzekeren. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001501</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001501&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001501</item>
+         <item attribuut="Document-id">0000019887</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 484</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Esselink (CDA) over de waarneming van Greenpeace over de vervuiling van de Maas in België.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 484</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">484</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Esselink</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-03-16</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Maij-Weggen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-03-24</item>
+         <item attribuut="Beginpagina">1019</item>
+         <item attribuut="Eindpagina">1020</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1019" allpagenumbers="1019" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's-Gravenhage 1992"/>
+      <vraagdata vraagnummer="484" onderwerp="de waarneming van Greenpeace over de vervuiling van de Maas in België." indiendatum="1992-03-16">
+         <vrager partij="CDA" oorsprong="parlement">Esselink</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-03-24">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">Maij-Weggen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1">Hebt u kennis genomen van de waarnemingen van Greenpeace over de vervuiling van de Maas in België ten tijde van de opschorting van inname van water door Nederlandse drinkwaterleidingbedrijven in januarï jl.? </vraag>
+      <vraag nummer="2">Wat is uw oordeel over de door Greenpeace gesignaleerde emissies van vervuilende stoffen door het bedrijf Sopar in Marche les Dames en van de mededeling van de Dienst Water van het Waalse Gewest dat dit bedrijf bij hen als lozer van vervuilende stoffen niet bekend was? Bent u bereid bij de Belgische en /of Waalse-regering aan te dringen op aktie gericht op beëindiging van de lozing van de gesignaleerde stoffen (analine en pyridine in verschillende verbindingen) door dit bedrijf en mogelijk andere regelmatige lozers zonder vergunning? Greenpeace zich met de verklaring van de minister van Leefmilieu van Wallonie, dat de vervuiling vermoedelijk veroorzaakt was door incidentele lozingen uit tankwagens, die hij als crimineel bestempelde? Zijn er al resultaten bekend van het door de Waalse minister van Leefmilieu indertijd aangekondigde nader onderzoek? Zo ja, welke? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="6">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">De Rijkswaterstaat beschikt niet over lozingsgegevens of vergunningsgegevens van de Waalse Maas. De Rijkswaterstaat kan de waarnemingen van Greenpeace ook niet zelf controleren. Van de Waalse autoriteiten heb ik begrepen dat nog lang niet alle Waalse bedrijven die daarvoor in aanmerking komen over een lozingsvergunning beschikken; men probeert deze achterstand binnen enkele jaren in te halen. door de specialistische diensten van de Rijkswaterstaat. Minister Lutgen heeft mij toegezegd een onderzoek te laten instellen naar de emissies van het betreffende bedrijf. </antwoord>
+      <antwoord nummer="4">De waarnemingen van Greenpeace van de 'reguliere' lozing van aniline en pyridines door het betreffende bedrijf zijn nog niet door andere onderzoeken bevestigd. Ook als dit wel het geval zou zijn, dan is het achteraf, zoals ook Greenpeace zelf stelt, moeilijk te bewijzen dat de calamiteuze lozing van januari door dit bedrijf veroorzaakt zou zijn. </antwoord>
+      <antwoord nummer="5">Gezien de waarnemingen van Greenpeace lijkt mij dat met beide mogelijkheden serieus rekening gehouden moet worden. Ikwacht verder het onderzoek dat door minister Lutgen is toegezegd af. </antwoord>
+      <antwoord nummer="6">Het aanvankelijke onderzoek heeft geen bruikbare aanwijzingen over de oorzaak opgeleverd. Wat betekent de waarneming van Greenpeace voor de mogelijkheid tot schadeverhaal van Nederlandse drinkwaterleidingbedrijven? </antwoord>
+      <antwoord nummer="5">Hoe verdraagt de waarneming van Bij mijn bezoek aan de Waalse minister van Leefmilieu, Lutgen, op 13 maart 1992, heb ik gezegd dat waarnemingen in Nederland van actiegroepen steeds serieus worden genomen en worden onderzocht </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

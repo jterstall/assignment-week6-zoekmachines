@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19881989:0001774</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001774&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001774</item>
+         <item attribuut="Document-id">0000091373</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1988-1989 nummer 766</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van Es (P.S.P.) over bedreiging door het Vlaams Blok van een Nederlandse toeriste in Antwerpen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1988-1989 nummer 766</item>
+         <item attribuut="Jaargang">1988_1989</item>
+         <item attribuut="Vraagnummer">766</item>
+         <item attribuut="Indiener">
+            <persoon partij="PSP">Van Es</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-06-30</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Braks</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-08-01</item>
+         <item attribuut="Beginpagina">1539</item>
+         <item attribuut="Eindpagina">1540</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 9 - 1 9 9 0 " typehandeling="" typedoc=""/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 8 - 1 9 8 9 ,  A a n h a n g s e l " filenaam="" issn-nummer="ISSN 921 • 7398 " uitgever="SDU uitgeverij 's-Gravenhage 1989 "/>
+      <vraagdata vraagnummer="766" onderwerp="bedreiging door het Vlaams Blok van een Nederlandse toeriste in Antwerpen." indiendatum="30 juni 1989)">
+         <vrager partij="PSP" oorsprong="parlement">Van Es</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 " voetnoot="1">Wilt u bij uw Belgische ambtsgenoot  opheldering vragen over de gebour- tenissen <voetnoot nummer="1"/>, waarbij een Nederlandse  toeriste in Antwerpen werd bedreigd  en belaagd door leden van het  Vlaams Blok, nadat zij foto's had  gemaakt van een Vlaams Blok-parle- mentslid, terwijl deze een 17-jarige  jongen molesteerde?  </vraag>
+      <vraag nummer="2 ">Hebt u kennis genomen van het feit,  dat deze vrouw geen aangifte durfde  te doen bij de Antwerpse politie,  vanwege veronderstelde banden  tussen het Vlaams Blok en de politie?  </vraag>
+      <vraag nummer="3 ">Kunt u het bestaan van dergelijke  relaties bevestigen?  </vraag>
+      <vraag nummer="4 ">Wilt u er bij uw Belgische ambtsge- noot op aandringen, de veiligheid van  Nederlanders in België te beschermen  tegen gewelddadigheden van het  Vlaams Blok?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

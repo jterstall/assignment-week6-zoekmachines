@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19941995:0000428</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000428&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000428</item>
+         <item attribuut="Document-id">0000000428</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1994-1995 nummer 94</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Sipkes (GroenLinks) over de Navo-luchtmachtoefening.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1994-1995 nummer 94</item>
+         <item attribuut="Jaargang">1994_1995</item>
+         <item attribuut="Vraagnummer">94</item>
+         <item attribuut="Indiener">
+            <persoon partij="GroenLinks">Sipkes</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-10-07</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Gmelich Meijling</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-10-19</item>
+         <item attribuut="Beginpagina">187</item>
+         <item attribuut="Eindpagina">188</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1994-1995" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="187" allpagenumbers="187" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1994-1995, Aanhangsel" filenaam="" issn-nummer="ISSN0921 -7398" uitgever="'s-Gravenhage 1994"/>
+      <vraagdata vraagnummer="" onderwerp="" indiendatum="">
+         <vrager partij="GroenLinks" oorsprong="parlement">Sipkes</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-10-19">
+         <antwoorder functie="staatssecretaris" ministerie="Defensie">Gmelich Meijling</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="10">
+      <vraag nummer="94">Vragen van het lid Sipkes (GroenLinks) over de Navo-luchtmachtoefening. (Ingezonden 7 oktober 1994) </vraag>
+      <vraag nummer="1">Zal in het kader van de Navo-luchtmachtoefening «Cold Fire» lager dan de gebruikelijke minimale hoogte van 300 meter boven Nederland worden gevlogen? Wordt hierbij gebruik gemaakt van tijdelijk ingestelde routes die een verbinding vormen met de permanente laagvliegroutes in het noorden en oosten van Nederland naar de vliegbasis Leeuwarden en Volkel? </vraag>
+      <vraag nummer="2">Wanneer en waarom is besloten tot het instellen van tijdelijke routes en een substantiële verlaging van de tot nu toe gehanteerde vlieghoogte van 300 meter? </vraag>
+      <vraag nummer="3" voetnoot="1">Herinnert u zich de motie waarin om tijdelijke opschorting wordt gevraagd van de maatregel die toestaat boven Nederlands grondgebied met militaire vliegtuigen oefenvluchten uit te voeren op hoogtes lager dan 300 meter, totdat de Navo-studie inzake het laagvliegen is uitgebracht en in de Kamer is behandeld? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="4" voetnoot="2">Herinnert u zich verder dat deze motie uiteindelijk is aangehouden omdat uw toenmalige ambtsvoorganger zich bereid verklaarde vóór de stemming van de motie met de Kamer mondeling van gedachten te wisselen o.a. over het tweede deel van de Navo-studie over het laagvliegen? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="5">Zo ja, deelt u de mening dat de toezegging nog niet helemaal is geconcretiseerd omtrent het tijdig informeren van de Kamer over de voorgenomen oefening, voordat u het besluit nam om boven Nederland laagvliegoefeningen onder de 300 meter te houden? Waarom is dit niet gebeurd? </vraag>
+      <vraag nummer="6" voetnoot="3">Hoe verhoudt dit besluit zich tot gemaakte afspraken over het niet lager vliegen dan 300 meter op de vliegroute tussen Schiermonnikoog en de Kust van Friesland, het Oostelijk gedeelte van de Waddenzee en de Dollard bij internationale oefeningen? <voetnoot nummer="3"/>
+      </vraag>
+      <vraag nummer="7">Heeft er overleg plaatsgevonden met de provinciale en lokale overheden en is er voorlichting aan de bevolking gegeven? Zo ja, wat is de reactie daarop geweest? </vraag>
+      <vraag nummer="8">Bent u bereid, indien blijkt dat deze oefeningen schade en overlast betekenen voor de bevolking, deze alsnog te staken? </vraag>
+      <vraag nummer="9">Bent u voorts bereid in de toekomst de Kamer vooraf te informeren over oefeningen, waarbij buiten de gebruikelijke vliegroutes en lager dan 300 meter gevlogen wordt? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Kamerstuk 16 666, nr, 46</noot>
+         <noot nummer="2"> Kamerstuk 16 666, nr. 64</noot>
+         <noot nummer="3"> Kamerstuk 23 400 X, nr. 5</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja. Jaarlijks vindt een aantal vliegoefeningen in het Nederlandse luchtruim plaats, waaronder de Navo-oefeningen Central Enterprise en Cold Fire. In een aantal gevallen worden enkele tijdelijke routes gebruik waarop een beperkt aantal vluchten mag worden uitgevoerd op de wettelijke minimum vlieghoogte van 150 meter. De bevelhebber der luchtstrijdkrachten is binnen de daarvoor geldende wettelijke kaders gemachtigd dergelijke tijdelijke routes in te stellen. </antwoord>
+      <antwoord nummer="3, 4 en 5" voetnoot="1 2">De toenmalige staatssecretaris heeft in een brief van 13 april 1992 <voetnoot nummer="1"/> de motie op stuk 16 666 nr. 46 ontraden. Over het tweede deel van de Navo-studie over het gebruik van laagvliegroutes– en gebieden is de Tweede Kamer ingelicht in een brief op 1 februari 1993 <voetnoot nummer="2"/>. In deze brief is van een persbericht aandacht gegeven aan deze oefening. Deze procedure is ook in voorgaande jaren gebruikt. Ik heb inmiddels wel opdracht gegeven te bewerkstelligen dat de desbetreffende Navo-autoriteiten een ruimere periode nemen tussen de bekendmaking van de oefening en het begin van de oefenactiviteiten. </antwoord>
+      <antwoord nummer="8">Van deze oefening verwacht ik geen overlast. Uiteraard zullen altijd maatregelen worden genomen om hinder en schade zoveel mogelijk te voorkomen. </antwoord>
+      <antwoord nummer="9">Het is ondoenlijk alle oefeningen en oefenvluchten vantevoren aan te kondigen, omdat door weersomstandigheden, aanpassing oefenschema's etc. in een groot aantal gevallen - vaak op het laatste moment– wijzigingen moeten worden aangebracht. Het spreekt voor zichzelf dat oefeningen van enige omvang vantevoren worden aangekondigd in de media. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Kamerstuk 16 666, nr. 66</noot>
+         <noot nummer="2"> Kamerstuk 16 666, nr. 70</noot>
+      </noten>
+   </antwoorden>
+</kvr>

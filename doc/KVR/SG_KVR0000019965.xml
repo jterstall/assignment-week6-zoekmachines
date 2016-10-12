@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001579</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001579&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001579</item>
+         <item attribuut="Document-id">0000019965</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 561</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Roosen-Van Pelt en Tegelaar-Boonacker (beiden CDA) over in opdracht van de Provincie Zuid-Holland uit te voeren infrastructurele werken.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 561</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">561</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Roosen-Van Pelt</persoon>
+            <persoon partij="CDA">Tegelaar-Boonacker</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-04-14</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Maij-Weggen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-04-28</item>
+         <item attribuut="Beginpagina">1181</item>
+         <item attribuut="Eindpagina">1182</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1181" allpagenumbers="1181" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="'s Gravenhage 1992"/>
+      <vraagdata vraagnummer="561" onderwerp="in opdracht van de Provincie Zuid-Holland uit te voeren infrastructurele werken." indiendatum="14april 1992">
+         <vrager partij="CDA" oorsprong="parlement">Roosen-Van Pelt</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Tegelaar-Boonacker</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Bent u bekend met de infrastructurele werken, uit te voeren in opdracht van de Provincie Zuid-Holland, aan de N-57, Voorne-Putten, aan de noordzijde van de Haringvlietsluizen en met de werken aan de Groenekruisweg, Brielle-Oostvoorne, bij de afslag Oostvoorne, waar respectievelijk een rijbaan en op– en afritten worden verwijderd? </vraag>
+      <vraag nummer="2">Is het bekend, dat als gevolg van deze verwijdering van een rijbaan c.q. op– en afritten: a. De doorstroming belemmerd wordt en er filevorming ontstaat tot aan de aansluiting Hellevoetssluis b. De verkeersveiligheid meer in het geding komt c. Er kapitaalsvernietigmg van miljoenen guldens plaatsvindt? </vraag>
+      <vraag nummer="3"/>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

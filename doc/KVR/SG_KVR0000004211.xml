@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0001700</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001700&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001700</item>
+         <item attribuut="Document-id">0000004211</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 486</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid J. T. van den Berg (SGP) over een (Moslim-)raadslid in Aalten.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 486</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">486</item>
+         <item attribuut="Indiener">
+            <persoon>Van den Berg J.T.</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-04-19</item>
+         <item attribuut="Beantwoorder">
+            <persoon>De Graaff-Nauta</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-05-13</item>
+         <item attribuut="Beginpagina">987</item>
+         <item attribuut="Eindpagina">988</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="987" allpagenumbers="987" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeveri) Plsntijnstraat s Gravenhage 1994"/>
+      <vraagdata vraagnummer="486" onderwerp="een (Moslim-)raadslid in Aalten." indiendatum="1994-04-19">
+         <vrager partij="" oorsprong="parlement">Van den Berg J.T.</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-05-13">
+         <antwoorder functie="staatssecretaris" ministerie="Binnenlandse Zaken">De Graaff-Nauta</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Heeft een (Moslim-)raadslid in Aalten bij zijn installatie tot raadslid niet de eed of belofte afgelegd, zoals geformuleerd in artikel 14 van de Gemeentewet, maar in plaats van «zo waarlijk helpe mij God almachtig» de woorden «in naam van Allah, de Erbarmer, de Barmhartige» gebruikt? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Acht u dit niet in strijd met genoemde bepaling in de Gemeentewet? </vraag>
+      <vraag nummer="3">Is de uitzonderingsbepaling aan het slot van artikel 1 van de Wet vorm van de eed («tenzij hij aan zijn godsdienstige gezindheid den plicht ontleent den eed, de belofte of de bevestiging op andere wijze te doen», Wet van 17 juli 1911, S. 215) bedoeld voor een situatie zoals die hier aan de orde is? </vraag>
+      <vraag nummer="4">Is het toegestaan elke gewenste formulering bij het afleggen van de eed of belofte te gebruiken? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="2"/>
+         <noot nummer="1" datum="1993-04-15" bron=" Zie Nederlands Dagblad"> Zie Nederlands Dagblad, 15 april 1993</noot>
+         <noot nummer="2"> Zie ook Aanhangsel Handelingen nr. 756, Vergaderjaar 1989-1990 en nr. 365, Vergaderjaar 1990-1991</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja. Betrokkene heeft de eed afgelegd en daarbij in plaats van de woorden «zo waarlijk heipe mij God almachtig» de woorden «in naam van Allah, de Erbarmer, de Barmhartige» gebruikt. </antwoord>
+      <antwoord nummer="2, 3 en 4">Artikel 1 van de Wet Vorm van Eed schrijft voor op welke wijze de eed, de belofte en de bevestiging moeten worden afgelegd. Afwijking is mogelijk indien betrokkene aan zijn godsdienstige gezindheid de plicht ontleent een andere handelwijze te volgen. Dat geldt ook ten aanzien van de in het kader van de eed voorgeschreven woorden «zo waarlijk helpe mij God almachtig». De vraag of godsdienstige gezindheid in een concreet geval afwijking van de wettelijke formulering eist staat primair ter beoordeling aan betrokkene. Een en ander hangt immers samen met de (hoogstpersoonlijke) wijze van geloofsbeleving. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

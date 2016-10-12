@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19851986:0001726</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001726&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001726</item>
+         <item attribuut="Document-id">0000115286</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1985-1986 nummer 806</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Müller-van Ast (P.v.d.A.) over de vergoeding van de kosten van geneeskundige behandeling van de gevolgen van kernrampen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1985-1986 nummer 806</item>
+         <item attribuut="Jaargang">1985_1986</item>
+         <item attribuut="Vraagnummer">806</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Müller-van Ast</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-06-05</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van der Reijden</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-06-10</item>
+         <item attribuut="Beginpagina">1601</item>
+         <item attribuut="Eindpagina">1602</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1985-1986 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 5 - 1 9 8 6 , Aanhangsel 1601 " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="806" onderwerp="de vergoeding van de kosten van geneeskundige behande- ling van de gevolgen van kernrampen." indiendatum="5 juni 1986)">
+         <vrager partij="PvdA" oorsprong="parlement">Müller-van Ast</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 ">Weet u, dat de kosten van genees- kundige behandeling van de gevolgen  van kernrampen in de polissen van  particuliere ziektekosten verzekerin- gen van vergoeding worden uitgeslo- ten?  Bent u op de hoogte van het feit, dat  de Ziekenfondswet deze uitsluiting  niet kent? Waarom is een dergelijke  bepaling wel opgenomen in de  particuliere polissen?  </vraag>
+      <vraag nummer="3 ">Hoe beoordeelt u het feit, dat de  dekking van de particuliere verzeke- raars op zo'n wezenlijk punt tekort  schiet vergeleken met de ziekenfonds- verzekering?  </vraag>
+      <vraag nummer="4 ">Deelt u de opvatting, dat diegenen  die door de opheffing van de vrijwillige  ziekenfondsverzekering een particu- liere verzekering hebben moeten  sluiten een verslechtering van hun  verzekeringspakket hebben ondervon- den?  </vraag>
+      <vraag nummer="5 ">Welke stappen neemt u om deze  uitsluitingsbepalingen ongedaan te  maken c.q. te verbieden?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="4 ">Neen. Hoewel de bedoelde groep  verzekerden op dit punt met een  wijziging in de verzekeringsvoorwaar- den is geconfronteerd kan niet van  een verslechtering van het verzeke- ringspakket worden gesproken.  </antwoord>
+      <antwoord nummer="5 ">In het licht van het privaatrechtelijke  karakter van de betreffende ziektekos- tenverzekeringen sta ik voorshands  niet positief tegenover de gedachte  om de uitsluitingsclausule te verbie- den.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

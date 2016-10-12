@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001752</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001752&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001752</item>
+         <item attribuut="Document-id">0000012056</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 822</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Kohnstamm (D66) over zorg voor mensen met een verstandelijke handicap in botsing met de BOPZ.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 822</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">822</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Kohnstamm</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-07-02</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Simons</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-08-30</item>
+         <item attribuut="Beginpagina">1675</item>
+         <item attribuut="Eindpagina">1678</item>
+         <item attribuut="Omvang">4 pag.</item>
+      </metadata>
+      <header titel="" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1675" allpagenumbers="1675 1676" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="822" onderwerp="zorg voor mensen met een verstandelijke handicap in botsing met de BOPZ." indiendatum="1993-07-2">
+         <vrager partij="D66" oorsprong="parlement">Kohnstamm</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="30 augustus 1993), zie ook Aanhangsel Handelingen nr. 768, Vergaderjaar 1992-1993">
+         <antwoorder functie="staatssecretaris" ministerie="Welzijn, Volksgezondheid en Cultuur">Simons</antwoorder>
+         <mede-antwoorder>de minister van Justitie</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="8">
+      <vraag nummer="1" voetnoot="1">Kent u het rapport «Zorg voor mensen met een verstandelijke handicap in botsing met de BOPZ», dat op 16 juni op een symposium met deze naam is uitgeicomen? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Heeft de wetgever nagelaten voor de personen die nu als «vrijwillig» in de BOPZ-instellingen verblijven, maar die - in het systeem van de BOPZ - gezien hun ontbreken van bereidheid als onvrijwillig dienen te worden beschouwd, een regeling te treffen? </vraag>
+      <vraag nummer="3">Zo ja, wat is uw oordeel over het feit, dat men tengevolge van deze omissie «op de bewoners verschillende rechtspositieregelingen moet toepassen, al naar gelang zij «voor-bopzers» of «na-bopzers» zijn? </vraag>
+      <vraag nummer="4">Deelt u de mening, dat het ontbreken van een overgangsregeling betekent «dat alle zittende bewoners de rechtspositie van een vrijwillige bewoner behouden weshalve ook geen vrijheidsbeperkingen bij hen zijn toegestaan»? Deelt u de mening, dat het een en ander zal resulteren in een vloed van aanvragen om inbewaringstelling en rechterlijke machtiging, omdat in de huidige praktijk bij onbekwame, vrijwillig opgenomen patiënten, vrijheidsbeperkende maatregelen worden genomen? </vraag>
+      <vraag nummer="6">Vallen - gezien de vraag hierover uit de praktijk - somatische behandelingen die niet gericht zijn op het wegnemen van de stoornis van de patiënt (zoals bijvoorbeeld een staarbehandeling) bij een onbekwame verzettende patiënt onder artikel 38 lid 5 van de BOPZ of onder het wetsvoorstel op de geneeskundige behandelingsovereenkomst (WGBO)? </vraag>
+      <vraag nummer="7">Deelt u de mening, dat de BOPZ-regel «geen behandeling bij verzet» bij onbekwamen voor de praktijk «totaal onwerkbaar» zal zijn, omdat de regel van artikel 38 lid 5 van de BOPZ afwijkt van wat gebruikelijk is in de somatische sfeer? Kan «Volgens de WGBO de zich verzettende onbekwame bij somatische problematiek wel degelijk behandeld worden»? </vraag>
+      <vraag nummer="8">Wat is uw oordeel over de volgende uitspraak: «De vrees dat bij het toestaan van dwangbehandeling op onbekwamen velen onder het mom van onbekwaamheid zullen worden behandeld, dient men niet weg te nemen door dwangbehandeling van onbekwamen te verbieden. Het verdient de voorkeur protocollen (met extra zorgvuldigheidseisen) te maken voor het behandelen van onbekwamen die zich verzetten»? </vraag>
+      <vraag nummer="9">Bent u bereid voor de bovenstaande problemen een oplossing te zoeken, zonodig via een reparatiewetje? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="6">
+      <antwoord nummer="1">Ja. Uitgangspunt is dat personen die voor de inwerkingtreding van de BOPZ vrijwillig zijn opgenomen, als vrijwillig blijven aangemerkt. In artikel 2, vierde lid, BOPZ is voorzien in een regeling voor het geval de betrokkene te kennen geeft het vrijwillig verblijf alsnog te willen beëindigen. Op dat moment kan er een rechterlijke machtiging (RM), eventueel voorafgegaan door een inbewaringstelling (IBS), worden maken krijgen met verschillende regelingen. Het onderscheid is evenwel niet «voor-bopzers» en «na-bopzers» maar vnjwillig en onvrijwillig opgenomen patiënten. </antwoord>
+      <antwoord nummer="4">Zoals in de beantwoording op vraag 2 is uiteengezet is uitgangspunt dat personen die voor de inwerkingtreding van de BOPZ vrijwillig zijn opgenomen, als vrijwillig blijven aangemerkt. Voor de vrijwillig opgenomen bewoners zal straks uitsluitend de Wet op de geneeskundige behandelingsovereenkomst (WGBO) galden. In deze wet wordt voor een groot deel de bestaande praktijk gecodificeerd. De wet voorziet in een vertegenwoordigingsregeling voor de wilsonbekwame patiënt. In dat geval geeft de in de wet aangewezen vertegenwoordiger toestemming voor verrichtingen. Ook onder de huidige regeling zal een vertegenwoordiger optreden. Naar verwachting zal in een groot deel van de gevallen deze vertegenwoordigingsregeling bevredigend werken. Deze plaatsvervangende toestemming za! evenwel geen vnjheidsbeperkende maatregelen kunnen legitimeren. </antwoord>
+      <antwoord nummer="5">Nee, deze mening delen wij niet. Het gaat in het (in vraag 1 genoemde) rapport over de groep patiënten, waarvoor artikel 60 in de wet is opgenomen, namelijk die patiënten die noch blijk geven van bereidheid noch van bezwaar tegen opname en dit ook in de loop van het verblijf niet zullen doen. Voor het aanvragen van een RM is vereist dat de betrokkene maatregelen in verband met de stoornis noodzakelijk zijn. Als er geen reden is om dergelijke maatregelen te treffen bestaat er geen juridische noodzaak om een (aanvullende) indicatie aan te vragen. </antwoord>
+      <antwoord nummer="6">Somatische behandelingen die niet gericht zijn op het wegnemen van de stoornis van de patiënt, zoals bij voorbeeld een staaroperatie, een tandartsbezoek, het verwijderen van tumoren, vallen onder de WGBO. Voor somatische behandelingen geldt dat indien de betrokkene niet tot een redelijke waardering van zijn belangen in staat is, zijn belangen door een vertegenwoordiger kunnen worden behartigd. Zie verder de beantwoording van vraag 7. </antwoord>
+      <antwoord nummer="7" voetnoot="1">Nee, wij delen de mening dat de regeling van artikel 38, vijfde lid, in de praktijk onwerkzaam zal zijn niet. Vooropgesteld moet worden dat de regeling zich beperkt tot de behandeling van de stoornis en zich niet richt op de behandeling van somatische aandoeningen. Bij de wilsonbekwame patiënt zal ook de vertegenwoordiger, net als bij de WGBO, toestemming voor uitvoering van het behandelingsplan kunnen geven. Deze toestemming geldt evenwel niet bij feitelijk verzet van de patiënt. Deze situatie zal zich, voor de groep van patiënten waar de vraag betrekking op heeft, naar verwachting niet vaak voor doen. In dergelijke gevallen voorziet de wet indien er ernstig gevaar dreigt in een oplossing. In het kader van de WGBO staat bij de behandeling centraal de vraag of de betrokkene in verzet van de patiënt, hoe ernstig is de aandoenmg, hoe dringend is de behandeling, zijn vragen die steeds moeten meewegen. Wij wijzen hierbij op het volgende citaat uit de memorie van antwoord inzake het wetsvoorstel Mentorschap ten behoeve van meerderjarigen <voetnoot nummer="1"/>, dat mutatis mutandis ook van toepassing is op de andere vertegenwoordigers: «Buiten het regime van BOPZ is toestemming van de mentor voldoende om een behandeling te doen plaatsvinden. Gefundeerd verzet van de betrokkene tegen een behandeling zal een belangrijke rol spelen bij de oordeelsvorming van de arts of de nakoming jegens de vertegenwoordiger wel verenigbaar is met de zorg van een goed hulpverlener. Bij die afweging, die in zo'n geval gemaakt zal moeten worden, zal het gevaar dat het niet behandelen veroorzaakt voor de patiënt, ongetwijfeld een grote rol spelen». </antwoord>
+      <antwoord nummer="8">Dwangbehandeling is alleen aan de orde bij zich verzettende onbekwame patiënten in het kader van het behandelingsplan. Het behandelingsplan is er op gericht om de stoornis zo te verbeteren dat het gevaar op grond waarvan de patiënt is opgenomen wordt weggenomen. Bij de verstandelijk gehandicapten valt hier onder ook de gedragswetenschappelijke behandeling, waarbij het gaat om het stimuleren van het vermogen zich aan wisselende situaties aan te passen. Een dergelijke behandeling is onder de in de BOPZ geschetste voorwaarden mogelijk. Wij </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

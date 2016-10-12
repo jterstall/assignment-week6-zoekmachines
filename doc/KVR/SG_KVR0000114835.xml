@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="gemeentelijke autoriteiten. " aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19851986:0001275</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001275&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001275</item>
+         <item attribuut="Document-id">0000114835</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1985-1986 nummer 355</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Janmaat-Abee, Cornelissen en Laning-Boersema (allen C.D.A.) over hulpverlening aan alcohol- en drugsverslaafden in Utrecht.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1985-1986 nummer 355</item>
+         <item attribuut="Jaargang">1985_1986</item>
+         <item attribuut="Vraagnummer">355</item>
+         <item attribuut="Indiener">
+            <persoon>Janmaat-Abee</persoon>
+            <persoon>Cornelissen</persoon>
+            <persoon>Laning-Boersema</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1985-12-18</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van der Reijden</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-01-17</item>
+         <item attribuut="Beginpagina">699</item>
+         <item attribuut="Eindpagina">700</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1985-1986 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 5 - 1 9 8 6 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="355" onderwerp="hulpverlening aan alcohol- en drugsverslaafden in Utrecht." indiendatum="18 december 1985)">
+         <vrager partij="" oorsprong="parlement">Janmaat-Abee</vrager>
+         <vrager partij="" oorsprong="parlement">Cornelissen</vrager>
+         <vrager partij="" oorsprong="parlement">Laning-Boersema</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1 ">Heeft de staatssecretaris kennis  genomen van het opheffingsbesluit  van de Stichting CAD te Utrecht?'  </vraag>
+      <vraag nummer="2 ">Is de staatssecretaris van mening dat  hierdoor de hulpverlening aan  alcohol- en drugsverslaafden in de  provincie Utrecht nog verder in  gevaar komt?  </vraag>
+      <vraag nummer="3 ">Is de staatssecretaris van mening dat  nu aan een goed functionerende  vrijwillige hulpverleningsorganisatie  als de SOHA  middelen beschikbaar  moeten worden gesteld om met het  oog op een verantwoorde hulpverle- ning direct in de ontstane situatie te  kunnen voorzien?  Antwoord van staatssecretaris Van  heid en Cultuur). (Ontvangen 17  januari 1986)  1,2 en 3  Het bestuur van het CAD Utrecht  heeft mij op 5 november 1985  schriftelijk op de hoogte gesteld van  het door haar voorgenomen besluit  om het CAD Utrecht op te heffen.  Sindsdien wordt intensief overleg  gevoerd tussen ambtelijke vertegen- woordigers van rijk, provincie en  gemeente en de betrokken hulpverle- ningsinstellingen. Doelstelling van dit  overleg is er voor zorg te dragen dat  de voortgang van de hulpverlening in  de provincie Utrecht gewaarborgd  wordt. De eventuele rol en de positie  van de SOHA hierbij is primair ter  beoordeling van de bevoegde  provinciale onderscheidenlijk  </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="2">Antwoord  der Reijden (Welzijn, Volksgezond-</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="2"> Stichting Opvang Hulpverlening Alcohol-en Drugsverslaafden. </noot>
+      </noten>
+   </antwoorden>
+</kvr>

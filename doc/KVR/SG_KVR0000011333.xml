@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001029</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001029&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001029</item>
+         <item attribuut="Document-id">0000011333</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 97</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Vermeend (PvdA) en Vreugdenhil (CDA) over het mogelijk ontlopen van de zogenoemde fictief-rendementsregeling.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 97</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">97</item>
+         <item attribuut="Indiener">
+            <persoon>Vermeend</persoon>
+            <persoon>Vreugdenhil</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-10-05</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van Amelsvoort</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-10-27</item>
+         <item attribuut="Beginpagina">205</item>
+         <item attribuut="Eindpagina">206</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="205" allpagenumbers="205" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="" onderwerp="" indiendatum="">
+         <vrager partij="" oorsprong="parlement">Vermeend</vrager>
+         <vrager partij="" oorsprong="parlement">Vreugdenhil</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-10-27">
+         <antwoorder functie="staatssecretaris" ministerie="Financiën">Van Amelsvoort</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="97">Vragen van de leden Vermeend (PvdA) en Vreugdenhil (CDA) over het mogelijk ontlopen van de zogenoemde fictief-rendementsregeling. (Ingezonden 5 oktober 1992) </vraag>
+      <vraag nummer="1">Hebt u kennis genomen van het artikel «Fund profiteert van maas in wet»? Wat is uw oordeel over deze fiscale constructie waarmee beoogd wordt de zogenoemde fictief-rendementsregeling te ontlopen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"/>
+         <noot nummer="1" datum="1992-09-25" bron=" Fiscaal Advies"> Fiscaal Advies, 25 september 1992</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1">Ja. Voor een goed begrip zet ik eerst de problematiek kort uiteen. Artikel 29a van  de  Wet  op de inkomstenbelasting 1964 houdt in dat voor Nederlandse particuliere aandeelhouders van buitenlandse beleggingsfondsen de opbrengst van aandelen in dergelijke fondsen ten minste op een bepaald forfaitair percentage (voor 1992: variërend van 4,8 tot 9) van de waarde van de aandelen per 1 januari wordt gesteld. Indien het buitenlandse fonds aantoont dat het bedrag dat uit de in het voorafgaande jaar genoten winst in het jaar aan de aandeelhouder ter beschikking had kunnen worden gesteld, lager is dan het op de voet van artikel 29a berekende forfaitaire rendement, wordt slechts dit lagere bedrag bij de aandeelhouders als inkomsten in aanmerking genomen. Deze zogenoemde tegenbewijsregeling, die een te rigide werking van het forfaitaire rendement voorkomt, is neergelegd in artikel 29a, vijfde lid. Bij de toepassmg van de tegenbewijsregeling heb ik tot dusver het begrip «voorafgaande jaar» van artikel 29a, vijfde lid, uitgelegd als het voorafgaande kalenderjaar of - ingeval het boekjaar van het fonds niet samenvalt met het kalenderjaar - het in het voorafgaande kalenderjaar eindigende boekjaar. Voor het forfaitaire rendement voor het kalenderjaar 1993 is in die benadering het boekjaar 1991/1992 het voorafgaande jaar. Indien een voorafgaand jaar als bedoeld in artikel 29a, vijfde lid, ontbreekt, slaagt het desbetreffende fonds per definitie in het tegenbewijs. Vorenvermelde interpretatie heeft tot gevolg dat als een eerste gebroken boekjaar zich uitstrekt over de jaargrens forfaitair rendement pas aan de orde komt met betrekking tot het tweede kalenderjaar volgend op de aanvang van het eerste boekjaar. Door verkoop van de aandelen in een buitenlands beleggingsfonds vlak voor of kort na de aanvang van het eerste kalenderjaar waarover forfaitair rendement is verschuldigd, zouden de desbetreffende aandeelhouders derhalve gedurende maximaal bijna 24 maanden een (vrijwel) onbelast rendement kunnen genieten. Een dergelijk resultaat is uiteraard niet beoogd met de tegenbewijsregeling, zij het dat het ontbreken van forfaitair rendement in het aanvangskalenderjaar van een fonds een logisch gevolg is van de opzet van artikel 29a. In beginsel kan het uitkeerbare dividend immers pas na ds afloop van het eerste jaar worden bepaald. Artikel 29a ijlt daarom altijd als het ware één jaar na. Inmiddels is mij gebleken dat thans in toenemende mate door banken buitenlandse beleggingsfondsen met een eerste gebroken boekjaar worden opgericht. Deze fondsen kenmerken zich door een hoge mate van liquiditeit. Daarin zou het gevaar kunnen schuilen dat deze fondsen zich richten op belastingvrije korte termijn belegging. Ik heb daarom inmiddels een aantal banken om nadere informatie gevraagd. In een schriftelijke reactie hebben zij mij medegedeeld de desbetreffende fondsen niet als fondsen voor de korte termijn te beschouwen noch beleggers te zullen adviseren hun aandelen te verkopen vlak voor of kort na de aanvang van het eerste kalenderjaar waarover forfaitair rendement is verschuldigd. met geleend geld, dat gezien het risicoprofiel van deze fondsen in die situaties sprake is van een fiscale constructie die zal worden bestreden. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

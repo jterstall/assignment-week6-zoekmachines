@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="terecht komen?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Koopmans en Haverkamp (beiden CDA) aan de staatssecretaris van Verkeer en Waterstaat over een incident met een vliegtuig van Onur Air. (Ingezonden 12 mei 2005)</item>
+         <item attribuut="Bestand">13Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V040514610
+</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van een bericht in Metro van 10 mei 2005 over het zoveelste incident met een vliegtuig van Onur Air. Wanneer wordt een vliegverbod opgelegd aan Onur Air om te voorkomen dat nog meer reizigers in gevaarlijke situaties terecht komen?</item>
+         <item attribuut="Rubriek">Verkeer, vervoer en waterstaat (Vliegveiligheid)</item>
+         <item attribuut="Trefwoorden">Vliegveiligheid</item>
+         <item attribuut="Vindplaats">Kamervragen 2004-2005, vraagnr. 2040514610, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2040514610</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Koopmans</persoon>
+            <persoon partij="CDA">Haverkamp</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2005-05-12</item>
+         <item attribuut="Document-id">V040514610</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2004–2005" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0405tkkvl2040514610" lopendefooter="Tweede Kamer, vergaderjaar 2004–2005, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2005"/>
+      <vraagdata vraagnummer="2040514610" onderwerp="" indiendatum="2005-05-12">
+         <vrager partij="CDA" oorsprong="parlement">Koopmans</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Haverkamp</vrager>
+         <vraagt-aan>de staatssecretaris van Verkeer en Waterstaat</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Hebt u kennisgenomen van het incident met weer een vliegtuig van Onur Air, ditmaal op de luchthaven van Antalya afgelopen weekeinde? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Heeft de door de Inspectie Verkeer en Waterstaat (IVW) afgegeven laatste waarschuwing betrekking op technische mankementen als een klapband? Geldt deze waarschuwing ook voor incidenten op buitenlandse luchthavens? Zo ja, waarom is niet meteen door de IVW invulling gegeven aan haar laatste waarschuwing en dus een vliegverbod opgelegd aan Onur Air? </vraag>
+      <vraag nummer="3">Wanneer wordt dit vliegverbod opgelegd om te voorkomen dat nog meer reizigers in gevaarlijke situaties </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" datum="2005-05-10" bron="Metro">Metro, 10 mei 2005</noot>
+      </noten>
+   </antwoorden>
+</kvr>

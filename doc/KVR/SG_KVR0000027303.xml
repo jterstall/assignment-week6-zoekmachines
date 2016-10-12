@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="5">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0000966</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0000966&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0000966</item>
+         <item attribuut="Document-id">0000027303</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 35</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Willems en Beckers-de Bruijn (beiden Groen Links) over de dioxine-uitstoot van de sinterfabriek van Hoogovens.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 35</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">35</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Willems</persoon>
+            <persoon partij="Groen Links">Beckers-de Bruijn</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-08-20</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Alders</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-10-02</item>
+         <item attribuut="Beginpagina">73</item>
+         <item attribuut="Eindpagina">74</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="73" allpagenumbers="73" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Grauenhage 1990"/>
+      <vraagdata vraagnummer="" onderwerp="" indiendatum="">
+         <vrager partij="Groen Links" oorsprong="parlement">Willems</vrager>
+         <vrager partij="Groen Links" oorsprong="parlement">Beckers-de Bruijn</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-10-2">
+         <antwoorder functie="minister" ministerie="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer">Alders</antwoorder>
+         <mede-antwoorder>de minister van Landbouw, Natuurbeheer en Visserij en de staatssecretaris van Welzijn, Volks– gezondheid en Cultuur</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="35">Vragen van de leden Willems en Beckers-de Bruijn (beiden Groen Links) over de dioxine-uitstoot van de sinterfabriek van Hoogovens. (Ingezonden 20 augustus 1990) </vraag>
+      <vraag nummer="1" voetnoot="1">Zijn inmiddels de analyse-resultaten bekend van de in juni door TNO genomen monsters van de afgassen van de sinterfabriek van Hoogovens? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Hoe luiden deze? Kunnen ook de resultaten van de eerdere metingen bekend worden gemaakt? </vraag>
+      <vraag nummer="4">Is al een besluit genomen over het nemen van nieuwe melkmonsters? </vraag>
+      <vraag nummer="5">In welke gevallen is sprake van een representatief weerbeeld bij het nemen van melkmonsters? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1">Ja. Op 12 en 13 juni jl. zijn door TNO stofmonsters genomen uit de toevoerleidingen van de sinter– banden naar de schoorstenen van de sinterfabriek. In de daarop volgende maand zijn deze monsters geanaly– seerd op ondermeer het gehalte aan dioxinen. De eerste analyseresultaten zijn medio juli tussen TNO, Hoogovens, de Provincie en de Inspectie Milieuhygiëne Noord– Holland besproken. Het ligt in de bedoeling, dat de definitieve rapportage in de loop van september wordt afgerond. </antwoord>
+      <antwoord nummer="2">Uit de analyses is gebleken, dat de uitstoot van de sinterfabriek circa 24 gram Toxische Equivalenten (T.E.Q.) dioxinen op jaarbasis bedraagt. In dit kader dient vermeld te worden dat gewoonlijk de meetresultaten eerst dan bekend worden gemaakt, als de definitieve rapportage is verschenen. De provinciale Milieugedeputeerden zijn inmiddels over de te volgen procedure inzake het emissieon– derzoek geïnformeerd door de hoofdinspecteur van de Volksge– zondheid voor de Milieuhygiëne. </antwoord>
+      <antwoord nummer="3">Op basis van analyses uit het begin van dit jaar van stofmonsters uit 1 988 was door de Universiteit van Amsterdam bepaald, dat de jaaruit– stoot van de sinterfabriek 30 gram T.E.Q zou bedragen. In opdracht van Hoogovens is het stofmonster uit 1988 ook nog een keer door TNO geanalyseerd. De resultaten van deze analyses liggen in de lijn van de resultaten van de Universiteit van Arnsterdam. </antwoord>
+      <antwoord nummer="4">Op basis van de hiervoorgenoemde emissiegegevens, heeft het RIVM de te verwachten deposities in de omgeving van de sinterfabriek opnieuw berekend en tevens verge– leken met de geschatte achtergrond– niveaus. Op basis van deze deposities is de verwachting van het RIVM, dat de grenswaarde op basis van de Warenwet met betrekking tot het dioxinegehalte van melkvet in koemelk (6 pg T.E.Q./g melkvet) niet zal worden overschreden. Ter onder– bouwing van deze conclusie is besloten, om een beperkt melkbe– monsteringsprogramma (4 meetpunten) uit te voeren. Tevens wordt één bodemmonster op het voorkomen van dioxines geanaly– seerd. De resultaten van dit melk-/bodemonderzoek welke medio september beschikbaar zijn gekomen bevestigen de eerdere voorspel– lingen. De dioxinegehaiten variëren van 0,8 tot 1,4 pg TEQ per gram melkvet en liggen daarmee ruim onder de norm en binnen het bereik van het landelijk achtergrondniveau. Dit vormt de reden dat het melkon– derzoek in deze streek wordt stopgezet </antwoord>
+      <antwoord nummer="5">Op jaarbasis overheerst in Nederland een zuidwestelijke wind. Melkmon– sters ter bepaling van het </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

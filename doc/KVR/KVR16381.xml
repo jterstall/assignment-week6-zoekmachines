@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="6">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Tonkens en Vendrik (beiden GroenLinks) aan de minister van Volksgezondheid, Welzijn en Sport over het gebruik van open standaarden (OS) en open source software (OSS) in de zorgsector. (Ingezonden 6 september 2002); Antwoord</item>
+         <item attribuut="Bestand">14Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR16381
+</item>
+         <item attribuut="Rubriek">Communicatie, media en informatievoorziening (Hard- en software) Gezondheidszorg (Algemeen)</item>
+         <item attribuut="Trefwoorden">Gezondheidszorg Software</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2002-2003, nr. 89, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2010215130</item>
+         <item attribuut="Afkomstig_van">Volksgezondheid, Welzijn en Sport (VWS)</item>
+         <item attribuut="Indiener">
+            <persoon partij="GroenLinks">Tonkens</persoon>
+            <persoon partij="GroenLinks">Vendrik</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2002-10-01</item>
+         <item attribuut="Datum_indiening">2002-09-06</item>
+         <item attribuut="Document-id">KVR16381</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2002–2003" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="181" allpagenumbers="181" vetnummer="2010215130" code="" lopendefooter="Tweede Kamer, vergaderjaar 2002–2003, Aanhangsel" filenaam="KVR16381" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2002"/>
+      <vraagdata vraagnummer="89" onderwerp="" indiendatum="2002-09-6">
+         <vrager partij="GroenLinks" oorsprong="parlement">Tonkens</vrager>
+         <vrager partij="GroenLinks" oorsprong="parlement">Vendrik</vrager>
+         <vraagt-aan>de minister van Volksgezondheid, Welzijn en Sport</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2002-10-1">
+         <antwoorder functie="minister" ministerie="Volksgezondheid, Welzijn en Sport">Bomhoff</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1" voetnoot="1">Bent u bekend met de RVZ <voetnoot nummer="1"/>-rapportage «Inzicht in e-health» (Zoetermeer, 2002)? </vraag>
+      <vraag nummer="2">Deelt u de conclusie dat voor e-health open standaarden van essentieel belang zijn? </vraag>
+      <vraag nummer="3">Deelt u voorts de conclusie dat met name voor een kleine markt als de Nederlandse gezondheidszorg, OSS een oplossing kan vormen voor zowel het probleem van continuïteit van een leverancier als het gevaar van het ontstaan van een monopoliesituatie, en dat door de toepassing van OSS de kwaliteit van de programmatuur kan toenemen en kosten kunnen worden gereduceerd? </vraag>
+      <vraag nummer="4">Wat vindt u van de aanbeveling aan overheid en verzekeraars om, budgettair neutraal, geld voor OSS-ontwikkeling beschikbaar te stellen? </vraag>
+      <vraag nummer="5">Waar en hoe stimuleert de overheid op dit moment het gebruik van open standaarden en OSS in de zorgsector? Hoe kan dit in de toekomst verbeterd worden? </vraag>
+      <vraag nummer="6">Welke rol ziet u hierbij, met name op het gebied van open standaarden, weggelegd voor het NICTIZ ? Hoe zet u zich er voor in dat NICTIZ deze rol ook daadwerkelijk vervult? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="2"/>
+         <noot nummer="1">RVZ: Raad voor Volksgezondheid en Zorg</noot>
+         <noot nummer="2">NICTIZ: Nationaal ICT-Instituut voor de Zorg</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="6">
+      <antwoord nummer="1">Ja. Het advies van de Raad voor Volksgezondheid en Zorg (RVZ) is door de vorige Minister van VWS op 6 mei 2001 aan de Tweede Kamer aangeboden (kenmerk IBE/I/2279947). Daarbij is aangekondigd dat u eind 2002 een geïntegreerd standpunt zult ontvangen op dit rapport en op een drietal andere adviezen over technologische innovatie van de RVZ, Raad voor Gezondheidsonderzoek (RGO) en Stichting Toekomst der Techniek (STT). </antwoord>
+      <antwoord nummer="2" voetnoot="1">Ik heb het Nationaal ICT Instituut in de Zorg (NICTIZ) een reactie gevraagd op de aanbevelingen van de RVZ over open standaarden en open source software. Ik wijs u verder op onderstaande passage die is opgenomen in de beantwoording van vragen van het lid Vendrik van GroenLinks aan de ministers van GSI en OCW <voetnoot nummer="1"/>: «De Minister van VWS bevordert via het Nationaal ICT Instituut in de Zorg (NICTIZ) actief het gebruik van open standaarden. Doelstelling van het NICTIZ is ondermeer het vergroten van de interoperabiliteit van de informatiesystemen in de zorg zodat de informatie ongeacht tijdstip en locatie kan worden geraadpleegd. In de zorg bepalen afnemers zelf welke hardware en software wordt ingezet, maar NICTIZ speelt een belangrijk rol bij het opstellen van de eisen die kunnen worden gesteld aan de ICT componenten die worden gebruikt voor de ZorgICT. De Minister van VWS draagt gedurende 5 jaar financieel bij aan het NICTIZ.» </antwoord>
+      <antwoord nummer="3">Zie het antwoord op vraag 2. </antwoord>
+      <antwoord nummer="4">Zie het antwoord op vraag 2. </antwoord>
+      <antwoord nummer="5">Zie het antwoord op vraag 2. </antwoord>
+      <antwoord nummer="6">Zie het antwoord op vraag 2. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1" documenttype="Kamervragen" documentnummer="1418" documentjaargang="2001-2002">Aanhangsel Handelingen, nr. 1418, vergaderjaar 2001–2002.</noot>
+      </noten>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001420</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001420&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001420</item>
+         <item attribuut="Document-id">0000019806</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 405</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van der Vlies (SGP) over het verplichte gebruik van het Nederlands op etiketten van voedingswaren.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 405</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">405</item>
+         <item attribuut="Indiener">
+            <persoon partij="SGP">Van der Vlies</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-02-03</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Simons</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-02-26</item>
+         <item attribuut="Beginpagina">859</item>
+         <item attribuut="Eindpagina">860</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="859" allpagenumbers="859" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="405" onderwerp="het verplichte gebruik van het Nederlands op etiketten van voedingswaren." indiendatum="1992-02-3">
+         <vrager partij="SGP" oorsprong="parlement">Van der Vlies</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-02-26">
+         <antwoorder functie="staatssecretaris" ministerie="Welzijn, Volksgezondheid en Cultuur">Simons</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Wordt overwogen om het verplichte gebruik van het Nederlands op etiketten van voedingswaren af te schaffen?' Zo ja, geschiedt dit op grond van een EEG-richtlijn, die stelt dat het voldoende is 'om een voor de koper gemakkelijk te begrijpen taal' te gebruiken op deze etiketten? </vraag>
+      <vraag nummer="3">Deelt u de opvatting, dat in Nederland alleen het Nederlands een voor iedere koper gemakkelijk te begrijpen taal is? </vraag>
+      <vraag nummer="4">Deelt u de opvatting, dat het gebruik van vreemde talen op (etiketten van) produkten, die in Nederland verkocht worden, een gevaar kunnen opleveren voor de volksgezondheid en de veiligheid van de consument? </vraag>
+      <vraag nummer="5">Zo ja, welke gevolgen denkt u daaraan te verbinden? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1992-01-29" bron=" RD/NRC/Staatscourant"> RD/NRC/Staatscourant, 29 januari 1992</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1"> tot  en  met  5 De etikettering van levensmiddelen dient op grond van de EG-Richtlijn 79/112 sinds 1981 in een voor de koper gemakkelijk te begrijpen taal te geschieden. Dit voorschrift is overgenomen in het recent gepubliceerde Warenwetbesiuit Etikettering van Levensmiddelen (Stb. 1992, 14), en betekent dat het uitsluitend gebruik van de Nederlandse taal niet meer verplicht is voorgeschreven. Enerzijds is daartoe besloten omdat uit de jurisprudentie van het Hof van de Europese Gemeenschappen is gebleken dat de verplichting niet langer als uitgangspunt kan worden gekozen. Anderzijds biedt ook de Etiketteringsrichtlijn niet die mogelijkheid dat uitsluitend de landstaal moet worden gehanteerd. Artikel 11, tweede lid, van die richtlijn bevat uitsluitend de verplichting dat een en ander «begrijpelijk geformuleerd» moet zijn, terwijl artikel 14 de Lid-Staten opdraagt «de handel» te verbieden in levensmiddelen indien de (in de richtlijn bedoelde aanduiding en vermeldingen) er niet op voorkomen in een voor de koper gemakkelijk te begrijpen taal, tenzij de koper door andere maatregelen wordt ingelicht». Uiteraard zal het wel zo zijn dat slechts het gebruik van Nederlandse bewoordingen c.q. Nederlandse woorden, in bijna alle gevallen het meest in aanmerking zal komen omdat het gebruik van die taal het best zal blijken te voldoen aan beide criteria. Overigens moge het duidelijk zijn dat aanduidingen als «Tee», «caffé» of «yoghourt» zeker equivalent zullen zijn aan de desbetreffende Nederlandse benammgen, en daarmee begrijpelijk zullen zijn in bovengenoemde zin. In het bijzonder geldt dat waarschuwingen op de etikettering in het Nederlands gesteld moeten zijn. Gelet op deze randvoorwaarden zie ik geen gevaar voor de volksgezondheid en de veiligheid van de consument. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

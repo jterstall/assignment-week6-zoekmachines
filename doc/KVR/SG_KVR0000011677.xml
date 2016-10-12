@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001373</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001373&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001373</item>
+         <item attribuut="Document-id">0000011677</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 443</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Franssen (VVD) over de Rotterdam School of Management.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 443</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">443</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Franssen</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-03-03</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Ritzen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-03-25</item>
+         <item attribuut="Beginpagina">907</item>
+         <item attribuut="Eindpagina">908</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="907" allpagenumbers="907 908" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="443" onderwerp="de Rotterdam School of Management." indiendatum="3 maart 1393">
+         <vrager partij="VVD" oorsprong="parlement">Franssen</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-03-25">
+         <antwoorder functie="Minister" ministerie="Onderwijs en Wetenschappen">Ritzen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1">Is het externe accountantsonderzoek bij de Rotterdam School of Management (RSM) niet afgerond? Zo ja, wilt u dan bevorderen dat dit onderzoek alsnog wordt afgerond? Zo neen, waarom niet? Bestaat de/een 38 pagina's tellende zogenaamde «zwarte lijst» met namen, bedragen en cursussen? Zo ja, kent u deze lijst? Sinds wanneer? Wilt u deze lijst - zo nodig vertrouwelijk - aan deze Kamer ter inzage geven? Zo neen, waarom niet? </vraag>
+      <vraag nummer="3">Sinds wanneer was het College van Bestuur van de Erasmusuniversiteit c.q. de voorzitter van dit college op de hoogte van het bestaan van deze lijst respectievelijk van het feit dat deze lijst in de maak was? </vraag>
+      <vraag nummer="4" voetnoot="1">Heeft de Interne Accountantsdient (IAD) van de Erasmusuniversiteit een eigen onderzoek verricht dan wel in ieder geval een eigen rapport over de gang van zaken bij de RSM uitgebracht? Aan wie is dit rapport uitgebracht? Draagt u kennis van de inhoud van dit rapport? Wilt u dit rapport aan de Kamer overleggen? Gebruikte de IAD bij het opstellen van dit rapport de zogenaamde «zwarte lijst»? Zo ja, hoe is dit te verklaren als deze lijst volgens uitlatingen <voetnoot nummer="1"/> van de voorzitter van het College van Bestuur van de Erasmusuniversiteit niet bestond? </vraag>
+      <vraag nummer="5">Deelt u de mening, dat de activiteiten van de RSM «universitaire taken» zijn? Zo ja, welke definitie hanteert u daarvoor? Stoelt uw opvatting dienaangaande op de wet? Zo ja, waaruit blijkt dit dan? </vraag>
+      <vraag nummer="6">Kent u het bericht, dat «de RSM één van de vele opleidingen is op een markt voor managementcursussen met universitaire docenten, waar volgens een grote schatting van deskundigen jaarhjks zeker zestig miljoen gulden omgaat»? </vraag>
+      <vraag nummer="7">Deelt u de opvatting, dat een onafhankelijk onderzoek naar het bestaan van regels inzake bijbetalingen aan universitaire docenten en de toepassing c.q. naleving ervan mede zou moeten omvatten het verkrijgen van inzicht in de «markt voor managementcursussen met universitaire docenten» teneinde de indruk te vermijden dat ten aanzien van RSM ten opzichte van andere cursussen met twee maten wordt gemeten? Zo neen, waarom niet? </vraag>
+      <vraag nummer="8">Gaat het College van Bestuur van de Erasmusuniversiteit nog steeds akkoord met privé-betalingen aan EUR-docenten? Acht u dit juist? Zo ja, mag de Kamer er gelet op de inhoud van uw brief van 20 januari jl.  van uitgaan dat u passende maatregelen zult nemen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="2"/>
+         <noot nummer="3"/>
+         <noot nummer="1" datum="1992-10-24" bron=" NRC"> NRC, 24 oktober 1992</noot>
+         <noot nummer="2"> Aanhangsel Handelingen nr. 315, Vergaderjaar 1992-1993</noot>
+         <noot nummer="3" datum="1993-02-27" bron=" NRC"> NRC, 27 februari 1993</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1">Het College van Bestuur van de Erasmus Universiteit Rotterdam (EUR) heeft mij meegedeeld dat het bestuur van de Stichting Rotterdam School of Management (RSM) het - in opdracht van de voorzitter van het RSM-bestuur - door het externe accountantsbureau verrichte onderzoek, als afgerond beschouwt. Ook ik heb uit kranteberichten vernomen dat er zo'n lijst zou bestaan. Het ligt niet in mijn voornemen die lijst via het College van Bestuur van de EUR op te vragen. Die lijst behoort bij het externe accountantsrapport aan het bestuur van de RSM. De wet kent mij geen bevoegdheid toe te beschikken over het rapport. gegeven om de lijst met namen, zie vraag 2, ter vertrouwelijke kennisname aan het hoofd van de IAD/EUR aan te bieden. Bedoelde lijst is niet opgenomen bij het rapport van de IAD/EUR. f. U zie antwoord 3, laatste zin. Ja. Van toepassing zijn de artikelen 1 </antwoord>
+      <antwoord nummer="en 2"> van  de  Wet  op  het wetenschappelijk onderwijs. Het is niet noodzakelijk dat de universiteit het post-initieel wetenschappelijk onderwijs zelf verzorgt. Zij kan dat, zoals in dit geval, doen in samenwerking met een derde zoals de  RSM. </antwoord>
+      <antwoord nummer="6">Ja. Ik heb kennis genomen van de krantepublikatie waarin deze mededeling is gedaan. Naast deze cursussen worden door de instellingen van wetenschappelijk onderwijs vele andere cursussen al dan niet in samenwerking met derden gegeven. </antwoord>
+      <antwoord nummer="7" voetnoot="2">De gevraagde toevoeging aan de taak van de door mij ingestelde commissie is overbodig, omdat de taak algemeen is geformuleerd. <voetnoot nummer="2"/> De toevoeging zou immers een nadere toespitsing op een bepaald terrein inhouden, waarmee een ander soort uitzondering wordt geschapen. </antwoord>
+      <antwoord nummer="8">Neen. Het College van Bestuur van de EUR heeft mij meegedeeld dat voor zover er thans additionele honoreringen aan EUR-docenten voor bijvoorbeeld managementcursussen plaatsvinden, deze geschieden via de universiteit. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

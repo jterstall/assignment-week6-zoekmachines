@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001362</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001362&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001362</item>
+         <item attribuut="Document-id">0000107137</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 330</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Beckers-de Bruijn (P.P.R.) over de kerncentrale te Borssele.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 330</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">330</item>
+         <item attribuut="Indiener">
+            <persoon partij="PPR">Beckers-de Bruijn</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-01-13</item>
+         <item attribuut="Beantwoorder">
+            <persoon>De Graaf</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-01-21</item>
+         <item attribuut="Beginpagina">659</item>
+         <item attribuut="Eindpagina">660</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 6 - 1 9 8 7 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer,  m e t de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="330" onderwerp="de kerncentrale te Borssele." indiendatum="13 januari 1987)">
+         <vrager partij="PPR" oorsprong="parlement">Beckers-de Bruijn</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="21 januari 1987)">
+         <antwoorder functie="staatssecretaris" ministerie="Sociale Zaken en Werkgele- genheid">D e Graaf</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1 ">Zal de kerncentrale te Borssele op 16  januari buiten bedrijf worden  gesteld?  </vraag>
+      <vraag nummer="2 ">Is dit (mede) het gevolg van het  onderzoek naar de veiligheid, dat het  IAEA na de ramp bij Tsjernobyl op  verzoek van de Regering heeft  verricht?  Wanneer hebt u het concept-rapport  van de Operational Safety Review  Team (OSART) ontvangen?  </vraag>
+      <vraag nummer="4 ">W a a r o m  w o r d t de centrale pas op 16  januari stilgelegd, terwijl de onveilige  situatie in Borssele reeds eind  oktober door de commissie met de  directie van de PZEM is besproken?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1 ">Ja, de PZEM heeft het besluit bekend  gemaakt de kerncentrale Borssele 14  dagen eerder dan gepland was uit  bedrijf te nemen.  </antwoord>
+      <antwoord nummer="2 ">Ja.  </antwoord>
+      <antwoord nummer="3 ">Begin november heeft de teamleider  van OSART het concept-rapport ter  verificatie, correctie en commentaar,  toegestuurd aan de teamleden, aan  de PZEM en via de PZEM aan de  overheid.  </antwoord>
+      <antwoord nummer="4 ">Er was vanuit veiligheidsoogpunt  geen reden om de kerncentrale  voortijdig stil te leggen.  Het OSAR-team heeft aan het  einde van het bezoek aan Borssele  de directie van de PZEM geïnformeerd  over de bevindingen, aanbevelingen  en verdere suggesties. Er waren op  dat moment twee onderwerpen die  naar de mening van OSART  o m  spoedige actie vroegen. Die acties  zijn ook inderdaad door de PZEM  getroffen in overleg met de Kernfysi- sche Dienst. De overige aanbevelin- gen en suggesties worden door de  staf van de kerncentrale verwerkt in  een plan van te nemen maatregelen,  waarbij onderscheid gemaakt kan  worden tussen punten die de PZEM  geregeld wil zien voor de opstart na  de splijtstofwisselstop en punten die  op langere termijn geïmplementeerd  worden. Om effectief voorzieningen  te kunnen treffen tijdens de splijtstof- wisselstop is stafpersoneel nodig om  de plannen verder uit te werken en  voor te bereiden. Dit stafpersoneel  kan alleen vrijgemaakt worden indien  de kerncentrale buiten bedrijf is.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

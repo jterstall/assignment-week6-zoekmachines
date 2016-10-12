@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="6">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19941995:0000586</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000586&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000586</item>
+         <item attribuut="Document-id">0000000586</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1994-1995 nummer 251</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Aanvullende vragen van het lid Van der Heijden (CDA) over de beveiliging van vitale informatie.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1994-1995 nummer 251</item>
+         <item attribuut="Jaargang">1994_1995</item>
+         <item attribuut="Vraagnummer">251</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Van der Heijden</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-11-29</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Sorgdrager</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-12-09</item>
+         <item attribuut="Beginpagina">503</item>
+         <item attribuut="Eindpagina">504</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1994-1995" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="503" allpagenumbers="503" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1994-1995, Aanhangsel" filenaam="" issn-nummer="ISSN0921 -7398" uitgever="'s-Gravenhage 1994"/>
+      <vraagdata vraagnummer="251" onderwerp="de beveiliging van vitale informatie." indiendatum="1994-11-29">
+         <vrager partij="CDA" oorsprong="parlement">Van der Heijden</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-12-9">
+         <antwoorder functie="minister" ministerie="Justitie">Sorgdrager</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1">Heeft de georganiseerde misdaad toch vitale informatie in handen gekregen bij de inbraak bij de Amsterdamse officier van justitie Valente? Waarom is direct na het bekend worden van deze inbraak de indruk gewekt dat de gestolen diskettes niets bijzonders bevatten? </vraag>
+      <vraag nummer="3">Geldt deze geruststellende mededeling nog steeds voor hetgeen is gestolen bij de procureur-generaal Van Randwijck en hoofdofficier Vrakking? </vraag>
+      <vraag nummer="4">Was het materiaal dat bij Valente is gestolen op geen enkele wijze beveiligd zodat gegevens over zaken en personen vrij toegankelijk zijn? </vraag>
+      <vraag nummer="5">Zijn afdoende maatregelen genomen om de mensen te beschermen die voor de politie werken en diegenen die met de politie samenwerken, die nu met naam en toenaam bekend kunnen zijn bij de misdadige organisaties? </vraag>
+      <vraag nummer="6">Neemt het O.M. de schade voor zijn rekening wanneer blijkt dat politiepersoneel of personen die samenwerken met de politie, aantoonbaar kosten moeten maken om de gevolgen van diefstal van vitaal justitieel materiaal te bestrijden of ongedaan te maken? </vraag>
+      <vraag nummer="7">Zo neen, waarom niet? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <toelichting>Deze vragen dienen ter aanvulling op de eerdere vragen ter zake van het lid Korthals, ingezonden 29 november 1994. </toelichting>
+   <antwoorden aantal="6">
+      <antwoord nummer="1">Neen. </antwoord>
+      <antwoord nummer="2">Gelet op het antwoord op vraag 1. behoeft deze vraag geen beantwoording meer. </antwoord>
+      <antwoord nummer="3">Ja. Wellichtten overvloede merk ik op dat bij de Hoofdofficier van Justitie te Amsterdam een poging tot inbraak is gedaan. </antwoord>
+      <antwoord nummer="4">Aangezien het hier niet vitale informatie betrof, waren er geen specifieke beveiligingsmaatregelen genomen. Op het arrondissementsparket te Amsterdam zijn in 1993 extra voorzieningen getroffen om de toegang tot informatie door onbevoegden tegen te gaan. De recente gebeurtenissen zijn aanleiding geweest een aanzienlijke verscherping van de veiligheidsmaatregelen doorte voeren. </antwoord>
+      <antwoord nummer="5" voetnoot="1">Ja. Ik verwijs naar bijgaande brief. <voetnoot nummer="1"/>Zowel aan burgers, als aan politiefunctionarissen zijn veiligheidsmaatregelen aangeboden. Indien nodig zullen deze worden geëffectueerd. 6 e n 7 Mogelijke verzoeken om schadevergoeding van politiepersoneel of personen die samenwerken met de politie, zal ik welwillend bezien. </antwoord>
+      <antwoord nummer="1"/>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

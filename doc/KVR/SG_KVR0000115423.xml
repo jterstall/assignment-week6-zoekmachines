@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="5">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19851986:0001863</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001863&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001863</item>
+         <item attribuut="Document-id">0000115423</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1985-1986 nummer 942</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Lankhorst (P.P.R.) over de proef met het milieu-abonnement in de gemeente Amsterdam.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1985-1986 nummer 942</item>
+         <item attribuut="Jaargang">1985_1986</item>
+         <item attribuut="Vraagnummer">942</item>
+         <item attribuut="Indiener">
+            <persoon partij="PPR">Lankhorst</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-06-10</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Smit-Kroes</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-08-01</item>
+         <item attribuut="Beginpagina">1875</item>
+         <item attribuut="Eindpagina">1876</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1985-1986 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 5 - 1 9 8 6 , Aanhangsel 1875 " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="942" onderwerp="de proef met het milieu-abonnement in de gemeente Amsterdam." indiendatum="10 juni 1986)">
+         <vrager partij="PPR" oorsprong="parlement">Lankhorst</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1 augustus 1986)">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">Smit-Kroes</antwoorder>
+         <mede-antwoorder>de ministervan Volkshuisves- ting, Ruimtelijke Ordening en Milieubeheer</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1 ">Waarom staat u de gemeente  Amsterdam niet toe de proef met het  milieu-abonnement met enkele  weken te verlengen?  </vraag>
+      <vraag nummer="2 ">Onderschrijft u - ter bestrijding van  de luchtverontreiniging en de  bevordering van het gebruik van het  openbare vervoer - het belang van  de proef?  </vraag>
+      <vraag nummer="3 ">Zou het verzoek van de gemeente  worden ingewilligd, indien de Wet  Personenvervoer reeds van kracht  was?  </vraag>
+      <vraag nummer="4 ">Wie neemt eventueel gederfde  inkomsten als gevolg van de invoering  van het milieu-abonnement voor haar  rekening?  </vraag>
+      <vraag nummer="5 ">Bent u bereid verlenging van de  proef onder dezelfde voorwaarden  toe te staan?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1 ">De gemeente Amsterdam heeft  toestemming gevraagd om naar  aanleiding van de zure-regenweek  een zogenaamde promotionele actie  te houden met een onpersoonlijke  milieu weeknetkaart tegen een  gereduceerd tarief. Zoals tevoren  overeengekomen had deze promotio- nele actie een tijdelijk karakter.  </antwoord>
+      <antwoord nummer="2 ">Onderzocht wordt wat de voor- en  nadelen van deze actie en van de  buitenlandse ervaring met zogenaam- de milieu-abonnementen zijn.  </antwoord>
+      <antwoord nummer="3 ">Onder het regime van de Wet  Personenvervoer zou de situatie niet  wezenlijk anders zijn geweest.  </antwoord>
+      <antwoord nummer="4 ">De gemeente Amsterdam.  </antwoord>
+      <antwoord nummer="5 ">Gezien het antwoord op de vragen 1  en 2 kan deze vraag op dit moment  niet beantwoord worden.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Smits (CDA) over mogelijke fraude bij de ABN-Amro. (Ingezonden 10 februari 1997); Antwoord</item>
+         <item attribuut="Bestand">14Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR4445
+</item>
+         <item attribuut="Rubriek">Bedrijfsleven en industrie (Bank- en verzekeringswezen)</item>
+         <item attribuut="Trefwoorden">Bankwezen Fraude</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 1996-1997, nr. 760, Tweede Kamer</item>
+         <item attribuut="Afkomstig_van">Financiën</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Smits</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1997-03-03</item>
+         <item attribuut="Datum_indiening">1997-02-10</item>
+         <item attribuut="Document-id">KVR4445</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1996–1997" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1555" allpagenumbers="1555" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1996–1997, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 1997"/>
+      <vraagdata vraagnummer="760" onderwerp="" indiendatum="1997-02-10">
+         <vrager partij="CDA" oorsprong="parlement">Smits</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1997-03-3">
+         <antwoorder functie="minister" ministerie="Financiën">Zalm</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Kent u het bericht over fraude bij de ABN-Amro? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2" voetnoot="2">Heeft de betreffende bank de transacties die bij de fraude betrokken zijn niet volgens de Wet MOT <voetnoot nummer="2"/>gemeld bij het centrale meldpunt te Zoetermeer? Zo ja, wat zijn hiervan de oorzaken? </vraag>
+      <vraag nummer="3">Op welke wijze heeft DNB zijn toezichtsfunctie ter zake uitgeoefend? Is de ontdekking van de fraude mede een gevolg van de toezichtsfunctie van DNB? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1997-02-7" bron="Telegraaf">Telegraaf, 7 februari 1997</noot>
+         <noot nummer="2">Wet melding ongebruikelijke transacties, kamerstuk 23 009</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Op grond van de Wet MOT dienen ongebruikelijke transacties aan het Meldpunt te worden gemeld. Deze meldingsplicht richt zich tot de financiële instelling en niet tot het personeel dat in dienst is van de financiële instelling. De financiële instelling dient goede interne procedures te ontwikkelen die ervoor zorgen dat iedere ongebruikelijke transactie door de instelling als zodanig kan worden gemeld. ABN AMRO beschikt over dergelijke procedures. Het personeel van ABN AMRO heeft naar het zich laat aanzien echter niet aan de interne procedures voldaan, zodat ABN AMRO als financiële instelling de ongebruikelijke transacties pas kon melden nadat de administratieve onregelmatigheden aan het licht waren gekomen. ABN AMRO heeft na het ontdekken van deze onregelmatigheden terstond de Landelijke Officier van Justitie ingelicht. Daarbij is aangegeven dat men bezig is de transacties die plaats hebben gevonden in kaart te brengen en dat alle nog niet gemelde ongebruikelijke transacties gemeld zullen worden, zodra deze bekend zijn. </antwoord>
+      <antwoord nummer="3">De Nederlandsche Bank is door ABN AMRO op de hoogte gesteld van de geconstateerde administratieve onregelmatigheden. Deze onregelmatigheden zijn ontdekt, dankzij de interne procedures die ABN AMRO hanteert. Deze interne procedures zijn een uitvloeisel van de aanbevelingen en algemene richtlijnen, die De Nederlandsche Bank op grond van de Wet toezicht kredietwezen 1992 met betrekking tot de administratieve organisatie aan kredietinstellingen geeft. Dergelijke voorschriften dragen bij aan de voorkoming van administratieve onregelmatigheden en vergemakkelijken opsporing daarvan. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

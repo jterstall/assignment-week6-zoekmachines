@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001489</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001489&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001489</item>
+         <item attribuut="Document-id">0000011793</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 559</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Versnel-Schmitz en Tommel (beiden D66) over ondertunneling van de Betuwespoorlijn.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 559</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">559</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Versnel-Schmitz</persoon>
+            <persoon partij="D66">Tommel</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-04-15</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Andriessen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-05-13</item>
+         <item attribuut="Beginpagina">1145</item>
+         <item attribuut="Eindpagina">1146</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, tnet de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1145" allpagenumbers="1145" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="559" onderwerp="ondertunneling van de Betuwespoorlijn." indiendatum="1993-04-15">
+         <vrager partij="D66" oorsprong="parlement">Versnel-Schmitz</vrager>
+         <vrager partij="D66" oorsprong="parlement">Tommel</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-05-13">
+         <antwoorder functie="minister" ministerie="Economische Zaken">Andriessen</antwoorder>
+         <mede-antwoorder>de minister van Verkeer en Waterstaat</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Op welke rapporten is uw uitspraak gebaseerd, als zou ondertunneling van de Betuwespoorlijn «minimaal tien miljard gulden» gaan kosten? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Op grond van welk kwantitatief criterium beoordeelt u of gehele dan wel gedeeltelijke ondertunneling van de Betuwespoorlijn al dan niet «economisch haalbaar» is? Wordt dit criterium door het gehele Kabinet onderschreven? Welke eisen stelt de regering aan de economische rentabiliteit? Wat moet er naar uw oordeel gebeuren indien de uit een oogpunt van milieu– en landschapsbescherming gewenste voorzieningen een economisch rendabele exploitatie van de spoorlijn onmogelijk maken? </vraag>
+      <vraag nummer="5">Welke zekerheden heeft de regering zich intussen verworven dat een aan te leggen Betuwespoorlijn ook daadwerkelijk intensief zal worden benut? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1993-03-18" bron=" Haagsche Courant"> Haagsche Courant, 18 maart 1993</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">De ervaring leert dat de gebruikelijke aanleg van spoorlijnen op het zogenaamde maaiveld-niveau, tevens de minst dure wijze van uitvoering is. In PKB deel 1 van de Betuweroute, voor het traject tussen Rotterdam/Waalhaven en Zevenaar, worden de aanlegkosten geraamd op f4,1 miljard. Uit verkennende studies van Rijkswaterstaat blijkt dat een volledig ondertunnelde Betuweroute, met gebruikmaking van boortechnieken, tussen de f 13,0 en f 14,0 miljard zou gaan kosten en dat de bouwtijd toeneemt met 25% tot 50%. Mijn collega van Verkeer en Waterstaat biedt de Kamer op zeer korte termijn een notitie over dit onderwerp aan. </antwoord>
+      <antwoord nummer="2">Met de term «economische haalbaarheid» heb ik in dit verband willen wijzen op de financiële inpasbaarheid van de Betuweroute in de Rijksbegroting. Gezien het grote beslag dat deze investering zal leggen op de schaarse middelen moet getracht worden de kosten zo laag mogelijk te houden. Ondertunnelling wordt alleen overwogen als bovengrondse ligging leidt tot (onoverkomelijke) inpassingsproblemen. Concrete uitwerking van de hoogteligging van het tracé is te vinden in het binnenkort uit te brengen Kabinetsstandpunt, PKB deel 3 van de Betuweroute. </antwoord>
+      <antwoord nummer="3">Economische rentabiliteit heeft twee aspecten: macro-economische rentabiliteit en bedrijfseconomische rentabiliteit. Bij de beoordeling van de macro-economische rentabiliteit gaat het erom vast te stellen dat de verwachte macro-economische baten in termen van toegevoegde waarde en werkgelegenheid de investeringskosten in ruime mate overtreffen. Bij de beoordeling van bedrijfseconomische rentabiliteit gaat het erom dat een zodanige exploitatie van de lijn mogelijk en aannemelijk moet zijn en dat de variabele en vaste (bedrijfs)kosten van het betrokken vervoersbedrijf worden gedekt, terwijl het bedrijf bij voorkeur ook uit de exploitatie een bijdrage zou moeten kunnen leveren aan de kosten voor aanleg en onderhoud van de infrastructuur. In het binnenkort uit te brengen PKB deel 3 van de Betuweroute, het Kabinetsstandpunt, wordt uitvoerig op deze aspecten ingegaan. </antwoord>
+      <antwoord nummer="4">Ik ben ervan overtuigd dat het mogelijk is de Betuweroute zo aan te leggen dat op een verantwoorde wijze wordt omgegaan met milieu en landschapswaarden terwijl tevens voldaan wordt aan eisen van economische rentabiliteit. de mogelijkheid van private financiering van de Betuweroute blijkt voorts dat grote (internationale) beleggers vertrouwen hebben in de mogelijkheden die het goederenvervoer per spoor in de toekomst zal bieden. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

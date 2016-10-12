@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001441</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001441&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001441</item>
+         <item attribuut="Document-id">0000035848</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 519</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Valk en Swildens Rozendaal (beiden P.v.d.A.) over verstekelingen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 519</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">519</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Valk</persoon>
+            <persoon partij="PvdA">Swildens Rozendaal</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-03-16</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Kosto</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-04-09</item>
+         <item attribuut="Beginpagina">1045</item>
+         <item attribuut="Eindpagina">1046</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1045" allpagenumbers="1045" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="519" onderwerp="verstekelingen." indiendatum="1990-03-16">
+         <vrager partij="PvdA" oorsprong="parlement">Valk</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Swildens Rozendaal</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="9 april 1990}">
+         <antwoorder functie="staatssecretaris" ministerie="Justitie">Kosto</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Is het u bekend, dat jaarlijks enkele honderden verstekelingen via Neder– landse havens aan wal worden gebracht? <voetnoot nummer="1"/>Leidt het vigerende uitzettingsbeleid er in een aanzienlijk aantal gevallen toe, dat de betreffende versteke– lingen worden overgedragen aan de kapitein van het schip waarmee zij naar ons land zijn gekomen? </vraag>
+      <vraag nummer="3">Is het u bekend, dat die (ex-)verste- kelingen zich in veel gevallen maandenlang in erbarmelijke omstandigheden aan boord van het schip bevinden? </vraag>
+      <vraag nummer="4">Bent u bereid de mogelijkheden van een humanere uitzetting, met behoud van de (financiële) verant– woordelijkheid van de rederij, te onderzoeken en deze Kamer daarover op korte termijn te berichten. </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1990-03-13" bron=" Zie de Volkskrant"> Zie de Volkskrant, 13 maart 1990</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1">Ja. Vooral in de haven van Rotterdam neemt het aantal geregi– streerde verstekelingen toe. In 1989 werden daar 176 van dergelijke vreemdelingen aangetroffen. In de eerste twee maanden van 1990 zijn bij de Rotterdamse Rivierpolitie reeds 60 personen als verstekeling aangemeld. 2, 3 en 4 Op grond van art. 7, 2e lid, van de Vreemdelingenwet kunnen vreemde– lingen die per schil zijn aangekomen en aan wie de toegang tot Nederland is geweigerd, worden verwijderd door hen te plaatsen aan boord van een schip van dezelfde vervoerson– derneming. Indien mogelijk worden deze personen echter verwijderd vanaf de luchthaven Schiphol, op kosten van de vervoersonderneming. Voordat deze vorm van verwijdering toegepast kan worden, moet aan twee voorwaarden voldaan zijn: de identiteit van de vreemdeling moet vaststaan en er moet gezorgd zijn voor (vervangende) reisdocumenten. Als aan deze voorwaarden niet is voldaan, wordt een verstekeling per schip verwijderd. In vrijwel alle gevallen is dat het schip, waarmee hij is gekomen. Het is mij bekend dat de behandeling van verstekelingen aan boord van zeeschepen in een aantal gevallen te wensen overlaat. De Rotterdamse Rivierpolitie tracht in schrijnende gevallen ten aanzien van verstekelingen op schepen in de Rotterdamse haven oplossingen te zoeken waarbij overigens de verant– woordelijkheid van de vervoerson– derneming zo veel mogelijk in stand wordt gelaten. Momenteel wordt onderzocht op welke wijze de omvang en verwijdering van verste– kelingen beter geregeld kunnen worden. Over de resultaten van dat onderzoek zal ik de Tweede Kamer der Staten-Generaal binnenkort inlichten. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

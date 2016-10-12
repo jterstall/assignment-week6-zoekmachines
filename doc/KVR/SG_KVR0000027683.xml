@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001346</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001346&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001346</item>
+         <item attribuut="Document-id">0000027683</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 412</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Frinking (C.D.A.) over verkoop van gasmaskers in winkels voor dumpartikelen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 412</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">412</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Frinking</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-01-25</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Simons</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-02-26</item>
+         <item attribuut="Beginpagina">837</item>
+         <item attribuut="Eindpagina">838</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="837" allpagenumbers="837" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN0921  - 7 3 9 8" uitgever="SDU uitgeverij 's Gravenhage 1991"/>
+      <vraagdata vraagnummer="412" onderwerp="verkoop van gasmaskers in winkels voor dumpartikelen." indiendatum="1991-01-25">
+         <vrager partij="CDA" oorsprong="parlement">Frinking</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1991-02-26">
+         <antwoorder functie="staatssecretaris" ministerie="Welzijn, Volksgezondheid en Cultuur">Simons</antwoorder>
+         <mede-antwoorder>de staats– secretaris van Defensie a</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Neemt zonder dat hiervoor aanleiding is de verkoop van gasmaskers in winkels voor dumpar– tikelen toe? Betreft het hierbij ook gasmaskers die door het ministerie van Defensie zijn afgestoten? </vraag>
+      <vraag nummer="3">Hoe wordt de kwaliteit van deze gasmaskers, in het bijzonder de filterbus, gecontroleerd op deugde– lijkeid? </vraag>
+      <vraag nummer="4">Indien de deugdelijkheid niet kan worden gegarandeerd, dienen deze gasmaskers dan niet uit de handel te worden genomen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"/>
+         <noot nummer="1"> Zie ook art 1407.6 van het NBW</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Mij heeft geen informatie bereikt die tot een dergelijke aanname zou moeten leiden. Overigens bestaat er momenteel voor particulieren geen enkele aanleiding om gasmaskers aan te schaffen. </antwoord>
+      <antwoord nummer="2">Berichten in de pers over verkoop van gasmaskers betreffen waarschijnlijk een klein deel van een partij gasmaskers die rond 1980 door Defensie is overgedragen aan de BB en vervolgens via Domeinen als overtollig materieel is afgestoten. </antwoord>
+      <antwoord nummer="3">Indien gasmaskers aan de consument worden aangeboden is de Warenwet van toepassing. Uit hoofde van deze wet berust het toezicht op de veiligheid van deze maskers en de filterbussen bij de Inspectie Gezondheidsbescherming van het Staatstoezicht op de Volks– gezondheid Voor de volledigheid zij opgemerkt dat recentelijk door de Raad van Europese Gemeenschappen een richtlijn inzake de deugdelijkheid van persoonlijke beschermingsmiddelen - waaronder gasmaskers - (Richtlijn 89/868/EEG, PB EGL. 399) is afgekondigd. Na implementatie van deze richtlijn, zal binnen de Europese Gemeen– schappen een geharmoniseerd veiligheidsniveau van o.a. te verhan– delen gasmaskers zijn gerealiseerd. </antwoord>
+      <antwoord nummer="4">Indien blijkt dat als gasmaskers aangeduide produkten worden verhandeld welke niet een afdoende bescherming bieden voor de gebruiker, zullen passende maatre– gelen worden getroffen. Tot deze maatregelen kan het uit de handel nemen van deze gasmaskers behoren. Een dergelijke maatregel wordt genomen krachtens de Warenwet (artikel 18 sub c van de herziene Warenwet). Tot op heden is er geen aanleiding om maatregelen te nemen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="4">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Smits en Hillen (beiden CDA) over de Postcodeloterij. (Ingezonden 22 januari 1998); Antwoord</item>
+         <item attribuut="Bestand">14Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR6480
+</item>
+         <item attribuut="Inhoud">Vragen over besteding van de opbrengsten van de Postcodeloterij.</item>
+         <item attribuut="Rubriek">Overheidsfinanciën (Kansspelen)</item>
+         <item attribuut="Trefwoorden">Kansspelen</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 1997-1998, nr. 689, Tweede Kamer</item>
+         <item attribuut="Afkomstig_van">Justitie</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Smits</persoon>
+            <persoon partij="CDA">Hillen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1998-02-10</item>
+         <item attribuut="Datum_indiening">1998-01-22</item>
+         <item attribuut="Document-id">KVR6480</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1997–1998" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1403" allpagenumbers="1403" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1997–1998, Aanhangsel" filenaam="KVR6480" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 1998"/>
+      <vraagdata vraagnummer="689" onderwerp="" indiendatum="1998-01-22">
+         <vrager partij="CDA" oorsprong="parlement">Smits</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Hillen</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1998-02-10">
+         <antwoorder functie="staatssecretaris" ministerie="Justitie">Schmitz</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Hebt u kennisgenomen van de uitzending van Lopende Zaken over de Postcodeloterij, waaruit bleek dat veel van de opbrengsten van deze loterij besteed wordt aan de eigen organisatie, aanverwante bv’s en nevenactiviteiten? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Wordt 60% van de opbrengst van de Postcodeloterij besteed aan goede doelen zoals afgesproken is? Hoe zijn deze «goede doelen» gedefinieerd? </vraag>
+      <vraag nummer="3">Welk percentage van de opbrengsten wordt uitgekeerd aan prijzen-geld? Hoe ligt dit in verhouding tot andere loterijen? </vraag>
+      <vraag nummer="4">Hoe wordt de besteding van de opbrengsten gecontroleerd? Door wie? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1998-01-18" bron="Lopende Zaken">Lopende Zaken, 18 januari 1998</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja. Uit deze uitzending bleek overigens niet dat veel van de opbrengsten van de Postcodeloterij worden besteed aan de eigen organisatie, aanverwante BV’s en nevenactiviteiten. </antwoord>
+      <antwoord nummer="2">Conform de Beschikking Postcodeloterij dient 60% van de bruto opbrengst te worden besteed aan doelen die het algemeen belang dienen, gelegen op het terrein van de ontwikkelingssamenwerking, het milieubehoud en de humanitaire hulpverlening. De Postcodeloterij heeft opgegeven over het jaar 1997 60,2% aan deze doelen te hebben besteed. </antwoord>
+      <antwoord nummer="3">Het aan prijzengeld uitgekeerde percentuele deel van de opbrengst door de Postcodeloterij bedroeg in 1997 24,1%. Bij de Staatsloterij bedroeg dit percentage in 1996 68%, bij de Algemene Loterij Nederland in 1996 27,3% en bij de Sponsorloterij in 1996 12%. </antwoord>
+      <antwoord nummer="4">De controle op de besteding van de opbrengsten vindt plaats door een accountant onder de bestuurlijke verantwoordelijkheid van de beneficianten. Elke vijf jaar vindt onder verantwoordelijkheid van de Raad van Toezicht van de Postcodeloterij een evaluatie van deze bestedingen plaats. De laatste evaluatie vond plaats in 1997. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001840</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001840&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001840</item>
+         <item attribuut="Document-id">0000020226</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 821</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Sipkes (Groen Links) over een betalingsrekening voor asielzoekers.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 821</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">821</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Sipkes</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-07-30</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Kok</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-08-21</item>
+         <item attribuut="Beginpagina">1709</item>
+         <item attribuut="Eindpagina">1710</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1709" allpagenumbers="1709" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="'s Gravenhage 1992"/>
+      <vraagdata vraagnummer="821" onderwerp="een betalingsrekening voor asielzoekers." indiendatum="1992-07-30">
+         <vrager partij="Groen Links" oorsprong="parlement">Sipkes</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-08-21">
+         <antwoorder functie="minister" ministerie="Financiën">Kok</antwoorder>
+         <mede-antwoorder>de staatssecretaris van Justitie en de minister van Welzijn, Volksgezondheid en Cultuur</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1">Kunnen asielzoekers niet onverkort bij alle banken door geheel Nederland een betalingsrekening openen?' Deelt u de mening, dat deze handelwijze in strijd is met het non-discriminatiebeginsel van artikel 1 Grondwet en internationale verdragen en zelfs strafbaar is op grond van art. 429quater van het Wetboek van Strafrecht? </vraag>
+      <vraag nummer="3">Is het waar dat door deze gebrekkige regeling asielzoekers grote problemen ondervinden bij het innen van hun uitkering en/of kinderbijslag? </vraag>
+      <vraag nummer="4">Zijn genoemde problemen het gevolg van de Wet identiteitsvaststelling bij financiële dienstverlening, op basis waarvan de Nederlandse Vereniging van Banken de zgn. «groene kaart» niet als geldig legitimatiebewijs accepteert? </vraag>
+      <vraag nummer="5">Bent u bereid, gelet op het maatschappelijke belang van het betalingsverkeer en de noodzaak voor asielzoekers hieraan te kunnen deelnemen met de banken in overleg te treden en erop aan te dringen dat een betaalrekening aan hen beschikbaar wordt gesteld? </vraag>
+      <vraag nummer="6">Wilt u er bij de banken tevens op aandringen dat een uniforme gedragslijn gehanteerd wordt? </vraag>
+      <vraag nummer="7">Bent u voorts bereid de «groene kaart» een zodanige status te verlenen, dat deze bij de banken ais identiteitsbewijs kan dienen? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="7">
+      <antwoord nummer="1">Van de Nederlandse Vereniging van Banken heb ik begrepen dat de Nederlandse banken iedere aanvraag tot het openen van een bankrekening op dezelfde wijze behandelen zonder daarbij onderscheid te maken naar persoon. Het doet daarbij niet terzake of de aanvrager bijvoorbeeld een Nederlandse ingezetene is, dan wel een niet-ingezetene of een asielzoeker. Wel is het een wettelijke plicht dat de identiteit van de aanvrager kan worden vastgesteld aan de hand van een daartoe geschikt identiteitspapier. De situatie waarop in de artikelen van Trouw van 18 juli en 25 juli jl. wordt gedoeld betreft asielzoekers, die niet in bezit zijn van een geschikt identiteitsbewijs. </antwoord>
+      <antwoord nummer="2">Gelet op het antwoord op vraag 1 deel ik die mening niet. </antwoord>
+      <antwoord nummer="3">Het is juist dat het voorkomt dat asielzoekers niet over de gewenste identiteitspapieren beschikken en daardoor geen rekening kunnen openen. Het is mij echter niet bekend dat er sprake zou zijn van grote problemen bij het innen van de uitkering of kinderbijslag, wel van enig ongemak. De uitbetalingen aan asielzoekers die niet over een bankrekening beschikken vinden contant plaats. Wanneer de desbetreffende asielzoekers in de decentrale opvang verblijven, zijn de Gemeentelijke Sociale Diensten hiervoor verantwoordelijk. Dit is zowel voor de asielzoekers zelf als voor de Gemeentelijke Sociale Diensten lastig (asielzoekers zijn afhankelijk van de openingstijden van de Gemeentelijke Sociale Diensten en zullen wellicht meer geld in huis hebben dan zij zelf wenselijk achten. </antwoord>
+      <antwoord nummer="4">Genoemde problemen zijn niet het gevolg van de Wet identiteitsvaststelling bij financiële dienstverlening, maarvan de omstandigheid dat sommige asielzoekers niet beschikken over een bruikbaar identificatiemiddel. Deze Wet is in 1988 tot stand gekomen met het oogmerk fraude bij nadere vaststelling van de identiteit van de asielzoeker. Gelet hierop kan deze kaart niet worden aangemerkt als identiteitspapier en kan hij derhalve ook niet gelden als identificatiemiddel bij het bankwezen. </antwoord>
+      <antwoord nummer="5">Overleg met de banken heeft, gezien de wettelijke verplichtingen terzake, geen zin. Wel onderkennen de ondergetekenden dat zich problemen kunnen voordoen voor zover asielzoekers voor financiële transacties zijn aangewezen op deelname aan het betalingsverkeer. De ondergetekenden streven ernaar voor deze problemen op korte termijn een passende oplossing te vinden. </antwoord>
+      <antwoord nummer="6">De banken hebben in 1986 ten aanzien van de vaststelling van de identiteit van clienten bij bepaalde vormen van financiële dienstverlening reeds een uniforme gedragslijn vastgesteld, die op grond van de Wet identiteitsvaststelling bij financiële dienstverlening bij Besluit van 30 november 1988 (Stb. 679), algemeen verbindend is verklaard. </antwoord>
+      <antwoord nummer="7">Gelet op de beperkte functie van de registratiekaart wekelijkse meldingsplicht, zoals aangeduid in het antwoord op vraag 4, is het niet mogelijk deze kaart de status van identiteitsbewijs te verlenen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

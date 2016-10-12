@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="toekomen" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001570</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001570&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001570</item>
+         <item attribuut="Document-id">0000011874</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 640</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Willems en Brouwer (beiden GroenLinks) over mogelijke corruptie van Limburgse ambtenaren en (ex)bestuurders bij de verwerving van opdrachten door de Klimmense wegenbouwer Baars.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 640</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">640</item>
+         <item attribuut="Indiener">
+            <persoon partij="GroenLinks">Willems</persoon>
+            <persoon partij="GroenLinks">Brouwer</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-05-18</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Hirsch Ballin</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-06-11</item>
+         <item attribuut="Beginpagina">1307</item>
+         <item attribuut="Eindpagina">1308</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1307" allpagenumbers="1307" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="s Gravenhage 1993"/>
+      <vraagdata vraagnummer="640" onderwerp="mogelijke corruptie van Limburgse ambtenaren en (ex)bestuurders bij de verwerving van opdrachten door de Klimmense wegenbouwer Baars." indiendatum="1992-05-18">
+         <vrager partij="GroenLinks" oorsprong="parlement">Willems</vrager>
+         <vrager partij="GroenLinks" oorsprong="parlement">Brouwer</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1">Stelt de rijksrecherche een onderzoek in naar mogelijke corruptie van Limburgse ambtenaren en (ex)bestuurders bij de verwerving van opdrachten door de Klimmense wegenbouwer Baars?' </vraag>
+      <vraag nummer="2">Zo ja.bent u bereid de resultaten van het recherche-onderzoek aan deze Kamer te verstrekken? Nader Antwoord Antwoord van minister Hirsch Ballin (Justitie). (Ontvangen 11 juni 1993) Met verwijzing naar mijn toezegging van 4 juni 1992 bij de beantwoording van de door de leden van uw Kamer Willems en Brouwer gestelde vragen' zend ik u hierbij een door de procureur-generaal bij het gerechtshof te Den Bosch opgesteld overzicht van de stand van zaken van de ingestelde onderzoeken naar corruptie. Gelet op de bescherming van de persoonlijke levenssfeer van de in het overzicht genoemde personen, doe ik u deze informatie ter vertrouwelijke kennisneming </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1992-05-14" bron=" De Volkskrant"> De Volkskrant, 14 mei 1992</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="2"/>
+         <noot nummer="1"> Zie Aanhangsel Handelingen nr. 627, Vergaderjaar 1991-1992</noot>
+         <noot nummer="2"> Ter vertrouwelijke inzage gelegd bij de afdeling Parlementaire Documentaire</noot>
+      </noten>
+   </antwoorden>
+</kvr>

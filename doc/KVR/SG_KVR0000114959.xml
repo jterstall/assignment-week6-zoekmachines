@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="verzoek voor te leggen. " aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19851986:0001399</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001399&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001399</item>
+         <item attribuut="Document-id">0000114959</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1985-1986 nummer 478</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Konings (P.v.d.A.) over het vermelden van de indentiteit van de school.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1985-1986 nummer 478</item>
+         <item attribuut="Jaargang">1985_1986</item>
+         <item attribuut="Vraagnummer">478</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Konings</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-02-10</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Ginjaar-Maas</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-02-27</item>
+         <item attribuut="Beginpagina">947</item>
+         <item attribuut="Eindpagina">948</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1985-1986 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 5 - 1 9 8 6 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="478" onderwerp="het vermelden van de identiteit van de school." indiendatum="10 februari 1986)">
+         <vrager partij="PvdA" oorsprong="parlement">Konings</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1 ">Is het u opgevallen, dat in advertenties  waarin scholen voor voortgezet  onderwijs pogen leerlingen te werven  meer en meer de identiteit van de  school verzwegen wordt? Wat is uw  mening daarover ook indien het u  niet opgevallen mocht zijn?  </vraag>
+      <vraag nummer="2 ">Deelt u de mening, dat de denominatie  van de school mede argument voor  opneming in het Plan van Scholen en  derhalve bekostiging is en het tot de  bekostigingsvoorwaarden gerekend  kan worden dat de identiteit van de  school naar buiten vermeld wordt?  </vraag>
+      <vraag nummer="3 ">Bent u bereid, de besturen-organisa- ties, uit het oogpunt van bekostiging  te wijzen op het belang van het  vermelden van de identiteit, zodat zij  hun leden daar attent op kunnen  maken?  Antwoord  Antwoord van staatssecretaris  Ginjaar-Maas (Onderwijs en  Wetenschappen), mede namens de  minister van Onderwijs en Weten- schappen. (Ontvangen 27 februari  1986)  </vraag>
+      <vraag nummer="1 ">Van de desbetreffende advertenties  heb ik geen kennis genomen, mede  omdat ik niet voornemens ben te  reflecteren.  Het verdient naar mijn mening  zonder meer aanbeveling dat scholen  uitkomen voor hun identiteit.  </vraag>
+      <vraag nummer="2 ">Terzake kan echter geen sprake zijn  van een bekostigingsvoorwaarde.  </vraag>
+      <vraag nummer="3 ">Met inachtneming van het antwoord  op vraag 2 ben ik bereid de besturen- organisaties het in vraag 3 bedoelde  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

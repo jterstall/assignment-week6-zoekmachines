@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001672</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001672&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001672</item>
+         <item attribuut="Document-id">0000036079</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 748</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Lilipaly (P.v.d.A.) over militaire oefenvluchten.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 748</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">748</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Lilipaly</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-06-05</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van Voorst tot Voorst</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-06-29</item>
+         <item attribuut="Beginpagina">1509</item>
+         <item attribuut="Eindpagina">1510</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1509" allpagenumbers="1509" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SOU uitgeverij 's-Gravenhage 1990"/>
+      <vraagdata vraagnummer="748" onderwerp="militaire oefenvluchten." indiendatum="1990-06-5">
+         <vrager partij="PvdA" oorsprong="parlement">Lilipaly</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-06-29">
+         <antwoorder functie="staatssecretaris" ministerie="Defensie">baron Van Voorst tot Voorst</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1 2">Hebt u kennis genomen van de vele klachten over de militaire oefen– vluchten boven de provincie Zeeland? <voetnoot nummer="1"/>Is het aantal militaire oefenvluchten boven Zeeland uitgebreid binnen de bestaande daarvoor bestemde gebieden? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="3">Deelt u de mening, dat uitbreiding van deze vluchten op gespannen voet staat met de intentie om geluid– hinder terug te dringen, zoals verwoord in het Nationaal Milieu Beleidsplan? </vraag>
+      <vraag nummer="4">Bent u bereid op korte termijn zódanige maatregelen te nemen, dat de overlast wordt teruggedrongen? II. II. </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Provinciale Zeeuwse Courant van 23 mei</noot>
+         <noot nummer="2"> Provinciale Zeeuwse Courant van 19 mei</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Ja. In verband met een afname van het aantal oefenvluchten boven Brabant is het aantal oefenvluchten boven Zeeland uitgebreid. Onder handhaving van het totale aantal oefenvluchten wordt daarmee een gelijkmatiger verdeling van geluidbe– lasting boven de vlieggebieden Brabant en Zeeland mogelijk. </antwoord>
+      <antwoord nummer="3">Neen. Door gelijkmatige verdeling van het aantal oefenvluchten over meerdere gebieden wordt de geluid– belasting gespreid. Dit staat niet op gespannen voet met de intenties als verwoord in het Nationaal Milieu Beleidsplan </antwoord>
+      <antwoord nummer="4">Op dit moment zijn reeds maatre– gelen getroffen c.q. in voorbereiding om de overlast verder terug te dringen. Bij de vhegbasis Woens– drecht is een begin gemaakt met de voobereiding van de geluidsisolatie van woningen in het kader van de zonering ingevolge de Lucht– vaartwet. Het bestaande oefen– gebied boven Zeeland is tot dertig kilometer uit de kust doorgetrokken zodat in de toekomst meer oefen– vluchten boven zee kunnen plaats– vinden. Dit gebied kan echter nog niet worden gebruikt omdat de vlieg– veiligheidsuitrusting nog niet geschikt is voor het vliegen boven open zee. De Konmklijke luchtmacht onderzoekt thans de mogelijkheden om snel tot aanpassing en uitbreiding van de vliegveiligheidsuit– rusting over te gaan. Voorts worden in het oefengebied boven Zeeland niet meer dan zes vliegtuigen tegelij– kertijd toegelaten. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

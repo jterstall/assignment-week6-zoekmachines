@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001089</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001089&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001089</item>
+         <item attribuut="Document-id">0000027426</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 156</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Sipkes (Groen Links) over de voorgenomen verwijdering van een Nigeriaan.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 156</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">156</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Sipkes</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-11-12</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Hirsch Ballin</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-11-14</item>
+         <item attribuut="Beginpagina">315</item>
+         <item attribuut="Eindpagina">316</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="315" allpagenumbers="315" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="156" onderwerp="de voorgenomen verwij– dering van een Nigeriaan." indiendatum="12 novemer 1990">
+         <vrager partij="Groen Links" oorsprong="parlement">Sipkes</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-11-14">
+         <antwoorder functie="minister" ministerie="Justitie">Hirsch Ballin</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Is het u bekend, dat de Nigeriaan David 0. F. vrijdag 9 november jl. is vastgezet in het politiebureau van Den Bosch teneinde hem uit Nederland te verwijderen? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Is het u bekend, dat bij de beoor– deling van zijn asielverzoek geen rekening is gehouden met een psychiatrisch rapport, waaruit blijkt dat F. ernstige psychische klachten heeft overgehouden aan zijn ervaringen in Nigeria? </vraag>
+      <vraag nummer="3">Is het u voorts bekend, dat F. uit angst voor zijn voorgenomen verwij– dering uit Nederland een zelfmoord– poging heeft gedaan in het politie– bureau? Is het u bekend, dat de voorgenomen verwijdering uit Nederland heden– middag zou moeten plaatsvinden? </vraag>
+      <vraag nummer="5">Bent u bereid, de voorgenomen uitzetting op te schorten en het asielverzoek van F. opnieuw met inachtneming van het psychiatrische rapport te beoordelen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Gegevens omtrent David 0. F. zijn onders– hands aan de staatssecretaris doorge– zonden</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja. Het betreffende psychiatrische rapport is eerst opgemaakt nadat zijn asielverzoek in eerste aanleg was afgewezen en het namens hem aangespannen kort geding was ingetrokken. </antwoord>
+      <antwoord nummer="3">Het is mij bekend dat F. in het politiebureau zich zodanig heeft gedragen dat het leek alsof hij zelfmoord wilde plegen. Gelet op de wijze waarop F. handelde, is evenwel geoordeeld dat F. niet werkelijk de intentie had om zich van het leven te beroven. F. is in het politiebureau nog onderzocht door een arts van de G.G.D. 4/5 De verwijzing zou inderdaad op 12 november jl. plaatsvinden. Met het oog op de beantwoording van deze vragen is de verwijdering aange– houden. Het psychiatrisch rapport is reeds meer dan een jaar geleden uitgebracht (de raadsman van F. heeft dit rapport overigens niet aan mij doen toekomen). Thans is niet gebleken dat F. het afgelopen jaar onder behandeling van een arts heeft gestaan. Gelet hierop zal alsnog tot verwijdering worden overgegaan. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

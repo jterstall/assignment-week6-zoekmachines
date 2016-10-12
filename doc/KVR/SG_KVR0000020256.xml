@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001870</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001870&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001870</item>
+         <item attribuut="Document-id">0000020256</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 851</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Jorritsma-Lebbink en Korthals (beiden VVD) over het afluisteren van telefoongesprekken zonder toestemming van de rechter-commissaris.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 851</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">851</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Jorritsma-Lebbink</persoon>
+            <persoon partij="VVD">Korthals</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-07-21</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Hirsch Ballin</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-09-01</item>
+         <item attribuut="Beginpagina">1769</item>
+         <item attribuut="Eindpagina">1770</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1769" allpagenumbers="1769" vetnummer="" code="" lopendefooter="Tweed^ Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="'s Gravenhage 1992"/>
+      <vraagdata vraagnummer="851" onderwerp="het afluisteren van telefoongesprekken zonder toestemming van de rechter-commissaris." indiendatum="1992-07-21">
+         <vrager partij="VVD" oorsprong="parlement">Jorritsma-Lebbink</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Korthals</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Is het bericht', dat de politie telefoongesprekken afluistert zonder toestemming van de rechter-commissaris, waar? Is het waar, dat PTT-Telecom daaraan meewerkt? </vraag>
+      <vraag nummer="3">Zo ja, in welk soort gevallen is daarvan sprake? Hoe lang gebeurt dat al? Wat is daarover uw oordeel? Bent u bereid maatregelen te treffen om zulks in de toekomst te voorkomen? Zo ja, welke? </vraag>
+      <vraag nummer="4">Zo neen, is de beschuldiging onderzocht? Wat zijn de resultaten van het onderzoek? ' NRC/Handelsblad, 20 juli 1992. </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

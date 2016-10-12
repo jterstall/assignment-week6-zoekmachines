@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="eigenvervoer. " aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19841985:0001652</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19841985:0001652&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19841985:0001652</item>
+         <item attribuut="Document-id">0000123624</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1984-1985 nummer 532</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Van Rey en Blauw (beiden V.V.D.) over uitbreiding van het optisch controlesysteem.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1984-1985 nummer 532</item>
+         <item attribuut="Jaargang">1984_1985</item>
+         <item attribuut="Vraagnummer">532</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Van Rey</persoon>
+            <persoon partij="VVD">Blauw</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1985-02-01</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Smit-Kroes</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1985-02-27</item>
+         <item attribuut="Beginpagina">1053</item>
+         <item attribuut="Eindpagina">1054</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1984-1985 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1984-1985, Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="532" onderwerp="uitbreiding van het optisch controlesysteem." indiendatum="1 februari 1985)">
+         <vrager partij="VVD" oorsprong="parlement">Van Rey</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Blauw</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 ">Is de minister van mening, dat door  optische controle door middel van  een vignet bij het aanwezig zijn van  een zgn. termijn-machtiging op de  vrachtauto van de beroepsvervoerder,  ook voor het eigen vervoer de grens- overgang met de Bondsrepubliek kan  worden versoepeld?  </vraag>
+      <vraag nummer="2 ">Is de minister bereid, in het overleg  met haar ambtgenoot van de Bonds- republiek te streven naar uitbreiding  tot het eigen vervoer van het optisch  controlesysteem op het aanwezig zijn  van het ontheffingsbewijs van het  verbod tot het verrichten van grens- overschrijdend eigen vervoer?  Het door vragenstellers genoemde  vignet zal een «declaratoire» functie  hebben, dat wil zeggen door het  aanbrengen van het vignet op de  voorruit wordt aangegeven, dat de  voor het desbetreffende vervoer  vereiste documenten aanwezig zijn.  Een logisch gevolg van deze functie  is dat het eigenvervoer zich eveneens  van deze faciliteit kan bedienen.  </vraag>
+      <vraag nummer="2 ">In het licht van het bovenstaande  wordt deze vraag bevestigend  beantwoord.  Een vertegenwoordiger van de  Algemene Verladers en Eigen Vervoer  Organisatie (EVO) heeft zich reeds  gevoegd bij de Nederlandse delegatie  voor de onderhandelingen met de  Bondsrepubliek over deze aangelegen- heid.  Antwoord  Antwoord van Minister Smit-Kroes  (Verkeer en Waterstaat). (Ontvangen  27 februari 1985)  </vraag>
+      <vraag nummer="1 ">De afspraken van de ministers van  Verkeer van de Benelux-landen en de  Bondsrepubliek Duitsland inzake de  versoepeling van de grenspassage  (protocol Neustadt/Aisch van 31 mei  1984 alsmede de uitvoerende Techni- sche Overeenkomst van 12 december  1984 voor het grensoverschrijdend  goederenvervoer over de weg) maken  geen onderscheid tussen beroeps- en  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

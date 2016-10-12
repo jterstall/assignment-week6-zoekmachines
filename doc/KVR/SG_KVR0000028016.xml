@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001679</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001679&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001679</item>
+         <item attribuut="Document-id">0000028016</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 743</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Koning (V.V.D.) over belastingheffing op vergoedingen aan ambtenaren in rayondienst voor het gebruik van hun privé-auto.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 743</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">743</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Koning</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-03-27</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van Amelsvoort</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-07-16</item>
+         <item attribuut="Beginpagina">1517</item>
+         <item attribuut="Eindpagina">1518</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1517" allpagenumbers="1517" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN0921 - 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's-Gravenhage 1991"/>
+      <vraagdata vraagnummer="743" onderwerp="belastingheffing op vergoe– dingen aan ambtenaren in rayon– dienst voor het gebruik van hun privé-auto." indiendatum="1991-03-27">
+         <vrager partij="VVD" oorsprong="parlement">Koning</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="16juli 1991), zie ook aanhangsel Handelingen nr. 549, Vergaderjaar 1990-1991">
+         <antwoorder functie="staatssecretaris" ministerie="Financiën">Van Amelsvoort</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Is het u bekend, dat ambtenaren welke in rayondienst zijn - zoals de ambtenaren van de Economische Controle Dienst - zich gedupeerd achten door de belastingheffing op vergoedingen welke hun voor het gebruik van hun privé-auto worden uitbetaald?' Is het u bekend, dat dit ongenoegen onder meer het gevolg is van de interpretatie van de zijde van de belastingdienst van artikel 36, 2e lid, letter a, van de Wet op de inkom– stenbelasting 1964 waarbij de belas– tingdienst ervan uitgaat, dat - om een voorbeeld te noemen - ambte– naren met woonplaats Zoetermeer en standplaats 's-Gravenhage, die meer dan één dag in de week hun taak verrichten in Rotterdam, ook voor dat woon-werkverkeer onder het reiskostenforfait vallen? </vraag>
+      <vraag nummer="3">Deelt u de opvatting, dat bij een woon-werkverkeer, zoals uiteengezet in vraag 2, waarbij meer dan één maal doch minder dan vijf maal per week naar dezelfde plaats wordt gereisd, maar naar wisselende plaatsen waar het werk wordt verricht, het veelal onmogelijk is gebruik te maken van de in het 6e lid van artikel 36 IB '64 aangegeven faciliteit als gevolg waarvan de belastingheffing op de reiskostenver– goedingen als extra honereus wordt ervaren? Bent u van mening, dat de interpre– tatie welke door de belastingdienst aan artikel 36, 2e lid, letter a van de Wet op de inkomstenbelasting 1964 wordt gegeven, leidt tot een redelijke en rechtvaardige belastingheffing, die bovendien voldoet aan de eisen van doelmatigheid? Zo ja, waarom bent u dat van mening? Zo neen, welke maatregelen denkt u in dat geval te nemen, uiteenlopende van een uitvoeringsvoorschrift tot wetswijziging? </vraag>
+      <vraag nummer="5">Bent u bereid (indien de werkgever geen auto ter beschikking stelt) indien u geen andere oplossingsmo– gelijkheden ziet een eenvoudig uitvoeringsvoorschrift te doen uitgaan met betrekking tot de berekening van de te bruteren belas– tingheffing op door de werkgever boven het reiskostenforfait verleende vergoedingen ten behoeve van het gebruik van de eigen auto door de werknemer ten behoeve van de werkgever in de gevallen van rayon– arbeid door de werknemer? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="2">' De Volkskrant van 22 maart 1991 (voorpagma)</noot>
+         <noot nummer="2"> Veelal de overheid, doch ook in de parti– culiere sector kan dit vraagstuk zich voordoen</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1" voetnoot="3">Ja. 2 e n 4 Het reiskostenforfait is van toepassing indien een werknemer/belastingplichtige ten minste eenmaal per week pleegt te reizen van zijn woning of verblijf– plaats naar de plaats(en) waar arbeid wordt verricht. De Hoge Raad heeft in een aantal arresten (onder meer BNB 1988/113 en BNB 1989/100) het begrip «pleegt te reizen» als volgt uitge– werkt: Indien een werknemer op meer dan 20 opeenvolgende werkdagen heen en weer reist tussen zijn woning of verblijfplaats en een zelfde arbeidsplaats waar arbeid wordt verricht, is sprake van een zodanig vast reispatroon dat gezegd moet worden dat die werknemer pleegt te reizen, in de zin van de wettelijke bepalingen betreffende het reiskostenforfait. Tijdens de parle– mentaire behandeling van het wetsvoorstel aftopping reiskosten– forfait heb ik mij op het standpunt gesteld dat bedoelde jurisprudentie meebrengt dat het forfait ook reeds van toepassing is indien een werknemer over een periode van vier of meer werkweken tenminste eenmaal per week heen en weer reist naar dezelfde arbeidsplaats' Na plaatsbewijs waarvoor de desbetref– fende vervoersonderneming een openbaar-vervoerverklaring afgeeft, kan hij geen gebruik maken van de faciliteit welke is aangegeven in het zesde lid van artikel 36 van de Wet op de inkomstenbelasting 1964. Dit gevolg is onderkend en aanvaard. Tijdens de parlementaire behan– deling van het wetsvoorstel aftopping reiskostenforfait <voetnoot nummer="3"/> heb ik er op gewezen dat het voor de Belas– tingdienst alleen uitvoerbaar is het «hoge» reiskostenforfait toe te passen indien een OV-verklaring wordt overgelegd. Daarbij is met name de positie van part-timers aan de orde gesteld, die in veel gevallen geen gebruik zullen maken van een plaatsbewijs waarvoor een OV-verklaring wordt afgegeven" Voor zover de werknemer/belasting– plichtige werkt op arbeidsplaatsen die niet met openbaar vervoer bereikbaar zijn, kan hij geen gebruik maken van de eerderbedoelde faciliteit. Ook dit gevolg is onderkend en aanvaard. </antwoord>
+      <antwoord nummer="5">Nee. Een dergelijk voorschrift zou niet passen in de systematiek van de Wet op de loonbelasting 1964. Deze wet merkt de werknemer aan als belastingplichtige. De heffing dient derhalve op een persoonlijke basis te berusten, temeer daar zij geldt als voorheffing op de inkomstenbe– lasting. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="2"> Ter inzage gelegd op de bibliotheek</noot>
+         <noot nummer="3"> Kamerstuk 21397 -Handelingen nr 24. blz 60-3392, Verga– derjaar 1989-1990</noot>
+      </noten>
+   </antwoorden>
+</kvr>

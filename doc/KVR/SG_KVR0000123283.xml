@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="deze te ondernemen? " aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19841985:0001311</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19841985:0001311&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19841985:0001311</item>
+         <item attribuut="Document-id">0000123283</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1984-1985 nummer 191</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van Es (P.S.P.) over militaire vluchten boven de Waddenzee.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1984-1985 nummer 191</item>
+         <item attribuut="Jaargang">1984_1985</item>
+         <item attribuut="Vraagnummer">191</item>
+         <item attribuut="Indiener">
+            <persoon partij="PSP">Van Es</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1984-09-05</item>
+         <item attribuut="Beantwoorder">
+            <persoon>De Ruiter</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1984-11-12</item>
+         <item attribuut="Beginpagina">379</item>
+         <item attribuut="Eindpagina">380</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1984-1985 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1984-1985, Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="191" onderwerp="militaire vluchten boven de Waddenzee." indiendatum="5 septem- ber1984)">
+         <vrager partij="PSP" oorsprong="parlement">Van Es</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1 ">Is het de minister bekend, dat op 24  augustus  j l . nabij West-Terschelling  twee straaljagers enkele malen  rakelings over de veerboot Terschel- ling-Harlingen zijn gevlogen?  </vraag>
+      <vraag nummer="2 ">Wordt bij de militaire vluchten van en  naar de schietstroken in de Waddenzee  rekening gehouden met de op gezette  tijden, volgens vaste dienstregeling,  passerende veerboten?  </vraag>
+      <vraag nummer="3 ">Wat is het oordeel van de minister  over het feit, dat bij dit incident een  aantal opvarende kinderen in paniek  geraakte?  </vraag>
+      <vraag nummer="4 ">Deelt de minister de mening, dat dit  soort incidenten ongewenst zijn en  dat ze, zeker gedurende het hoogsei- zoen van de zomervakanties, voorko- men dienen te worden?  Antwoord  Antwoord van minister De Ruiter  (Defensie). (Ontvangen 12 november  1984)  1 en 3  Op 24 augustus is een vliegtuig van  het type Starfighter tijdens het  aanvliegen van de Noordvaarderschiet- range op Terschelling op een hoogte  van circa 100 meter op enige afstand  de veerboot gepasseerd. Van een  rakelings passeren was derhalve geen  sprake. Hoewel er voor paniek geen  objectieve reden aanwezig was,  betreur ik als door het passeren van  het straalvliegtuig paniek zou zijn  ontstaan.  </vraag>
+      <vraag nummer="2 ">Bij het vaststellen van de procedures  voor militaire vluchten van en naar  de schietgebieden is rekening gehou- den met de vaarroute van de veerboot.  4 en 5  Bij het gebruik van de schietterreinen  op de Waddeneilanden wordt er  voortdurend naar gestreefd overlast  voor anderen zoveel mogelijk te  voorkomen. Ik zie dan ook geen reden  verdere stappen te nemen.  Welke stappen is de minister bereid in  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

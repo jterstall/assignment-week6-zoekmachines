@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="5">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19851986:0001742</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001742&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001742</item>
+         <item attribuut="Document-id">0000115302</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1985-1986 nummer 822</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Dijkman en Lankhorst (beiden P.P.R.) over problemen voor kleine bedrijven als gevolg van het verbod om keukenafval aan varkens te voederen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1985-1986 nummer 822</item>
+         <item attribuut="Jaargang">1985_1986</item>
+         <item attribuut="Vraagnummer">822</item>
+         <item attribuut="Indiener">
+            <persoon partij="PPR">Dijkman</persoon>
+            <persoon partij="PPR">Lankhorst</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-04-16</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Ploeg</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-06-13</item>
+         <item attribuut="Beginpagina">1633</item>
+         <item attribuut="Eindpagina">1634</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1985-1986 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 5 - 1 9 8 6 , Aanhangsel 1633 " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="822" onderwerp="problemen voor kleine bedrijven als gevolg van het verbod om keukenafval aan varkens te voederen." indiendatum="16 april 1986)">
+         <vrager partij="PPR" oorsprong="parlement">Dijkman</vrager>
+         <vrager partij="PPR" oorsprong="parlement">Lankhorst</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="13 juni 1986)">
+         <antwoorder functie="staatssecretaris" ministerie="Landbouw en Visserij">Ploeg</antwoorder>
+         <mede-antwoorder>de Staatssecretaris van Economische Zaken, de heer Van Zeil</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1 ">Onderkent u de problemen, waarin  de zogenaamde «schillenboeren» zijn  geraakt door het verbod om keuken- afval aan varkens te vervoederen?  </vraag>
+      <vraag nummer="2 ">Is het u bekend, dat vele kleine  bedrijven - vaak begonnen als  werklozenprojecten - slechts  aardappelschillen en groenteresten  bij particulieren ophalen?  </vraag>
+      <vraag nummer="3 ">Deelt u de mening, dat het voortbe- staan van deze bedrijven in het  belang van de werkgelegenheid is?  </vraag>
+      <vraag nummer="4 ">Ziet u mogelijkheden om het verbod  niet van toepassing te verklaren op  het keukenafval dat van deze kleine  schillencphaalbedrijven afkomstig is,  evenals u hebt gedaan voor produk- tie-afval dat afkomstig is uit andere  categorieën van bedrijven?  </vraag>
+      <vraag nummer="5 ">Zo neen, bent u dan bereid financiële  steun te verlenen aan de bedoelde  bedrijven, die door het verbod in de  problemen raken?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1 ">Deze problemen zijn slechts van zeer  tijdelijke aard. De door «schillenboe- ren» verzamelde afvallen zijn  namelijk door hun samenstelling heel  goed geschikt om aan andere dieren  dan varkens te vervoederen. Het  komt er dus op neer dat een aantal  «schillenboeren» - zeker niet de  meeste - andere afnemers moeten  vinden.  </antwoord>
+      <antwoord nummer="2 ">Ja.  </antwoord>
+      <antwoord nummer="3 ">Ja.  </antwoord>
+      <antwoord nummer="4 ">Neen. Er kan namelijk geen enkele  garantie worden gegeven, dat de  huisvrouw uitsluitend «schillen» aan  de schillenboer meegeeft en niet  tevens andere etensresten die wel  besmettelijke ziekten bij varkens  kunnen veroorzaken. Controle daarop  is vrijwel uitgesloten zulks in tegen- stelling tot de produktie-afvallen die  ik van het verbod heb uitgezonderd.  </antwoord>
+      <antwoord nummer="5 ">Neen, de onder 1 vermelde zeer  tijdelijke aard van de problemen,  geeft daartoe geen aanleiding.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

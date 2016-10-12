@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="2">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001714</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001714&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001714</item>
+         <item attribuut="Document-id">0000036121</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 790</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Tuinstra (C.D.A.) over het Vijfpartijen-Akkoord.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 790</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">790</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Tuinstra</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-06-08</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Simons</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-07-16</item>
+         <item attribuut="Beginpagina">1595</item>
+         <item attribuut="Eindpagina">1596</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1595" allpagenumbers="1595" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1989"/>
+      <vraagdata vraagnummer="790" onderwerp="het Vijfpartijen-Akkoord." indiendatum="1990-06-8">
+         <vrager partij="CDA" oorsprong="parlement">Tuinstra</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="16juli 1990">
+         <antwoorder functie="staatssecretaris" ministerie="Welzijn, Volksgezondheid en Cultuur">Simons</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1" voetnoot="1">Hebt u kennis genomen van berichten in de media, dat het akkoord tussen de specialisten, verzekeraars en ziekenhuizen 'op losse schroeven' staat, nu het College van Beroep voor het Bedrijfsleven de overeengekomen 10%-korting voor specialisten die niet met bovengenoemd akkoord hebben ingestemd, onverbindend heeft verklaard? <voetnoot nummer="1"/>Kan het onverbindend verklaren van de tariefkorting ook gevolgen hebben voor de specialisten die wel een overeenkomst hebben gesloten? </vraag>
+      <vraag nummer="3">Bevat het Vijfpartijen-Akkoord bepalingen om onvoorziene overschrijdingen binnen de geraamde kosten te verrekenen? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja. Naar aanleiding van de uitspraak van het CBB heeft het COTG op verzoek van VNZ, KPZ, KLOZ en LSV op 18 juni jl, op basis van artikel 7, lid 1, van de WTG, voorlopige tarieven vastgesteld. Deze voorlopige taneven zijn gelijk aan de gewraakte tarieven maar met uitzondering van de tweeslag in de sectoren zieken– fonds, particulier en AWBZ en afschaffing van de tijdelijke toeslag in de sectoren particulier en AWBZ. Materieel betekent dit dat de zieken– fondstarieven in hoogte gelijk zijn gebleven aan het hoge tarief (100%) van de tweeslag, die op hun beurt weer gelijk waren aan de tarieven van voor 1 april 1990. De particu– liere tarieven zijn omhoog gegaan en weer op het niveau van voor 1 april 1990 gekomen. Deze voorlopige tarieven gaan per 1 juli 1990 in en zullen gelden totdat er nieuwe tarieven zijn vastgesteld. De vastge– stelde nieuwe (voorlopige) tarieven gelden voor alle specialisten, ongeacht of zij wel of niet een overeenkomst gesloten hebben. Het onverbindend verklaren dat de tarief– korting heeft derhalve gevolgen voor alle specialisten. </antwoord>
+      <antwoord nummer="3">Het vijf-partijen-akkoord bevat in artikel 13 de afspraak dat de kosten van medisch specialistische hulp in dejaren 1990, 1991 en 1992 beperkt zullen blijven tot ten hoogste het niveau van het jaar 1989 in guldens, verminderd met de tijdelijke verhoging van de particuliere tarieven. Deze afspraak wordt wel aangeduid met het macro-budget. Voor het geval het niveau in een van deze jaren boven het macro-budget uitkomt, is tevens afgesproken dat tariefcorrectie ter compensatie van de omvang van de overschrijding zal plaats vinden. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

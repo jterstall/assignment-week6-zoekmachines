@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="2">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">de watersnood.; Antwoord</item>
+         <item attribuut="Bestand">15Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR1131
+</item>
+         <item attribuut="Inhoud">De vragen hebben betrekking op de voorfinanciering van de infrastructurele werken voor de binnenlandse waterbeheersing en de eventuele vervroegde beursgang van KPN om die financiering te verzekeren.</item>
+         <item attribuut="Rubriek">Ruimtelijke ordening en infrastructuur (Rivieren) Verkeer, vervoer en waterstaat (Waterkeringen)</item>
+         <item attribuut="Trefwoorden">Dijken Rivieren</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 1994-1995, nr. 496, Tweede Kamer</item>
+         <item attribuut="Afkomstig_van">Verkeer en Waterstaat</item>
+         <item attribuut="Indiener">
+            <persoon partij="AOV">Verkerk</persoon>
+            <persoon partij="AOV">Van Wingerden</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1995-01-30</item>
+         <item attribuut="Document-id">KVR1131</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1994–1995" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1013" allpagenumbers="1013" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1994–1995, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgeverij Plantijnstraat ’s-Gravenhage 1995"/>
+      <vraagdata vraagnummer="496" onderwerp="" indiendatum="1995-01-30">
+         <vrager partij="AOV" oorsprong="parlement">Verkerk</vrager>
+         <vrager partij="AOV" oorsprong="parlement">Van Wingerden</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1995-03-1">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">Jorritsma-Lebbink</antwoorder>
+         <mede-antwoorder>de minister van Financie¨n</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1">Bent u bereid een vervroeging van de tweede tranche van de plaatsing van staatsaandelen KPN op de beurs in overweging te nemen? </vraag>
+      <vraag nummer="2">Is de opbrengst daarvan in ieder geval de «voor» financiering te verzekeren van de nodige infrastructurele werken en eventuele tijdelijke voorzieningen voor de binnenlandse waterbeheersing, waaronder in ieder geval die voor de Maas in Limburg, zodat zo spoedig mogelijk met het werk kan worden begonnen? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <toelichting>De watersnood in Limburg en thans ook in andere delen van ons land dwingt tot structurele maatregelen op korte termijn. De «voor» financiering lijkt hierbij het belangrijkste probleem. </toelichting>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Bij de bepaling van het tijdstip voor een herplaatsing van aandelen is de inschatting van huidige en toekomstige marktomstandigheden van het allergrootste belang. Daarnaast vormen de afspraken die met de vennootschap en het bankensyndicaat zijn gemaakt een belangrijke randvoorwaarde. Gezien de potentie¨le omvang van een tweede tranche aandelen KPN speelt het aspect van een juiste timing van de herplaatsing een cruciale rol. Daarnaast is met de vennootschap de afspraak gemaakt, welke in het prospectus van de beursingang is weergegeven, dat de Staat voornemens is een tweede tranche, afhankelijk van de marktomstandigheden, in 1996 of 1997 te herplaatsen. Ik acht het dan ook vanuit zowel een financieel als een juridisch perspectief niet wenselijk de timing van de beursgang te laten beı¨nvloeden door de noodzaak nu extra middelen bijeen te brengen ter financiering van de extra inspanningen inzake de rivierdijkversterkingen. </antwoord>
+      <antwoord nummer="2" voetnoot="1">Terzake van de infrastructurele werken voor de binnenlandse waterbeheersing is de regering in overleg met provincies en waterschappen een gemeenschappelijke aanpak overeengekomen die ertoe leidt dat de beoogde spoedige aanvang van de werkzaamheden wordt zekergesteld. Een en ander wordt in het Deltaplan grote rivieren weergegeven, dat u onlangs is aangeboden <voetnoot nummer="1"/>. Ik acht het ongewenst de realisatie van het Deltaplan afhankelijk te stellen van de eventuele verkoopopbrengst van deelnemingen. Voorts zijn de opbrengsten uit de verkoop van KPN, zoals in de Miljoenennota 1995 uiteengezet, tezamen met de Common Areabaten benodigd voor de taakstellingen incidentele tekortreductie 1994 en 1995 de Investeringsimpuls (inclusief prijsstijging en doorloop na 1998) en de indirecte kosten samenhangend met de verkoop KPN. Tot op heden zijn geen Common Areabaten ontvangen. Pas na ontvangst van de Common Areabaten en een tweede tranche KPN kan worden bezien of er extra ontvangsten zijn ten opzichte van bij Miljoenennota opgestelde ramingen. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1" documenttype="Kamerstuk" kamerstuk-id="18 106" documentnummer="54">Kamerstuk 18 106, nr. 54</noot>
+      </noten>
+   </antwoorden>
+</kvr>

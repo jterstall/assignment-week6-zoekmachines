@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="4">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001581</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001581&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001581</item>
+         <item attribuut="Document-id">0000011885</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 651</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Eisma en Tommel (beiden D66) over de lozing van radioactief afval in zee.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 651</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">651</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Eisma</persoon>
+            <persoon partij="D66">Tommel</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-06-04</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Maij-Weggen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-06-14</item>
+         <item attribuut="Beginpagina">1329</item>
+         <item attribuut="Eindpagina">1330</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1329" allpagenumbers="1329 1330" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's-Gravenhage 1993"/>
+      <vraagdata vraagnummer="651" onderwerp="de lozing van radioactief afval in zee." indiendatum="1993-06-4">
+         <vrager partij="D66" oorsprong="parlement">Eisma</vrager>
+         <vrager partij="D66" oorsprong="parlement">Tommel</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="14juni 1993">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">Maij-Weggen</antwoorder>
+         <mede-antwoorder>de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Overweegt de Britse regering een nieuwe lozingsvergunning te verstrekken aan de opwerkingsfabriek Sellafield aan de lerse Zee? Zal een dergelijke vergunning leiden tot een aanzienlijke verhoging van de lozingen van radioactief afval in zee en in de atmosfeer? </vraag>
+      <vraag nummer="3">Deelt u de mening, dat een dergelijke verhoging van de lozingen in strijd is met de ministeriële verklaring van Parijs van September 1992, dat gestreefd zal worden naar het «voorkomen en het beëindigen van de verontreiniging veroorzaakt door de lozingen van raddioactieve afvalstoffen»? </vraag>
+      <vraag nummer="4">Bent u bereid tijdens de komende jaarvergadermg van de lidstaten van de Parijse Commissie, van 14 tot 19 juni 1993 in Berlijn, voorstellen te ondersteunen van Denemarken en lerland, om de verhoging van de radioactieve lozingen af te keuren? </vraag>
+      <vraag nummer="5">Wilt u de vragen voor de in vraag 4 genoemde jaarvergadering beantwoorden? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Uit informatie die de Regering van het Verenigd Koninkrijk ingebracht heeft in het Comité «Artikel 37» van Euratom alsmede in de werkgroep «Radioactieve Stoffen» van de Commissie van Parijs (ter uitvoering van het Verdrag van Parijs inzake de bescherming van de zee tegen verontreiniging door bronnen op land, Parijs 1974) is gebleken dat op dit moment een aanvraag voor inbedrijfstelling van een nieuwe fabriek THORP voor opwerking van bestraalde splijtstofelementen binnen het complex Sellafield bij de Britse autoriteiten in behandelmg is. </antwoord>
+      <antwoord nummer="2">Uit vorenbedoelde informatie blijkt dat de ingebruikname van THORP leidt tot een verhoging van de lozing van radioactieve stoffen. De voorziene maximale emissies door THORP zullen volgens diezelfde gegevens een jaarlijks toegevoegde dosis van 20 [iSv (lees: micro-Sievert) tot gevolg hebben. </antwoord>
+      <antwoord nummer="3">In september 1992 werd door alle Partijen van het verdrag van 1974, inclusief het Verenigd Koninkrijk en Nederland, een nieuw verdrag getekend: het Verdrag ter bescherming van het mariene milieu van de Noord-Oost Atlantische Oceaan, Parijs 1992; dit is nog niet in werking getreden. De verplichtingen van het verdrag van 1992 verschillen niet significant met die van het verdrag van 1974. In de Mmistenele Verklarmg, die tegehjkertijd met het Verdrag van Parijs werd getekend in 1992, is opgenomen dat « als principe.... lozingen en emissies van stoffen die toxisch, persistent en bio-accumulatief zijn, en die het mariene milieu kunnen bereiken, ongeacht hun menselijke oorsprong, vóór het jaar 2000, dienen te worden verminderd tot niveaus die niet schadelijk zijn voor de mens en het milieu, met het oog op beëindiging.» Een en ander is nader uitgewerkt in het aan de Verklaring gekoppelde Actieprogramma. Het Verdrag van 1992 bevat een definitie voor het begrip «verontreiniging» als zijnde «de introductie.... van stoffen.... in het mariene milieu die resulteert, of mogelijk zal resulteren, in gevaren voor de menselijke gezondheid, schade aan het mariene leven en ecosysteem, schade aan leefbaarheid of verstoring van ander legitiem gebruik van de zee» De Partijen bij het Verdrag zullen conform artikel 2 van het Verdrag «alle mogelijke stappen nemen om verontreiniging te voorkomen en beëindigen en alle noodzakelijke maatregelen nemen om het mariene milieu te beschermen tegen de ALARA-principe houdt in dat de lozing naar een zo laag mogelijk niveau gebracht dient te worden als redelijkerwijs haalbaar is («As Low As Reasonably Achievable»). De Nederlandse normen voor de toegevoegde jaarlijkse dosis zijn 0,4 |iSv wat correspondeert met het «verwaarloosbaar» risiconiveau, en 40 (iSv corresponderend met het «maximaal toelaatbaar» risiconiveau. De maximale toegevoegde dosis die jaarlijks te verwachten is door emissies van THORP, zijnde 20 (iSv, ligt tussen deze twee grenzen; het maxiaal toelaatbaar risico wordt niet overschreden, en is dan niet in strijd met de verplichtingen die voortvloeien uit het Verdrag. Conform Nederlands beleid dient in die gevallen waarbij de verwachte dosis ten gevolge van een emissie van radioactieve stoffen zich tussen de normen voor de verwaarloosbare dosis en de maximaal toelaatbare dosis bevindt, het ALARA-principe gerespecteerd te worden alsmede de rechtvaardiging van de installatie aangetoond te worden. Het ontbreekt de Nederlandse Regering op dit moment zowel aan inzicht in de wijze waarop invulling is gegeven aan het ALARA-principe als aan inzicht in de toekomstige noodzaak van de bedoelde installatie. </antwoord>
+      <antwoord nummer="4 en 5">De Nederlandse Regering zal bij monde van haar delegatie naar de jaarlijkse vergadering van de Commissie van Parijs, met een beroep op het principe van de voorzorg, haar bezorgdheid tot uitdrukking brengen over de </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

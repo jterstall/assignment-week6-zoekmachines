@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="maand plaatsvinden." aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19931994:0001406</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001406&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001406</item>
+         <item attribuut="Document-id">0000003917</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 192</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van Ojik (Groen Links) over Bovine Somatotropine (BST).</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 192</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">192</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Van Ojik</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-11-18</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Bukman</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-12-15</item>
+         <item attribuut="Beginpagina">389</item>
+         <item attribuut="Eindpagina">390</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="389" allpagenumbers="389" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="192" onderwerp="Bovine Somatotropine (BSTj." indiendatum="1993-11-18">
+         <vrager partij="Groen Links" oorsprong="parlement">Van Ojik</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Kent u het besluit van de Amerikaanse Food and Drug Administration om het commerciële gebruik van Bovine Somatotropine (BST) vrij te geven? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Hoeveel zuivelprodukten importeert de EG jaarlijks uit de VS? </vraag>
+      <vraag nummer="3">Welke gevolgen zal de toelating van BST in de VS hebben voor de EG-import van zuivel uit dit land, gegeven het feit dat in de Gemeenschap tot het einde van de eeuw een verbod geldt voor BST en dat «BST-melk» (en dus –melkprodukten) niet van «gewone» zuivel te onderscheiden zijn? </vraag>
+      <vraag nummer="4">Op welke wijze beschermt de EG zijn consumenten en markt tegen zuivelprodukten uit landen waar BST is toegestaan? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+   <mededeling mededeler="Bukman" functie="mmister" afdeling="Landbouw, Natuurbeheer en Visserïj" mededelingdatum=", 15 december 1993">Mededeling van mmister Bukman (Landbouw, Natuurbeheer en Visserïj). (Ontvangen, 15 december 1993) De bij brief aan mij toegezonden vragen van het lid Van Ojik der Tweede Kamer inzake Bovine Somatotropine (BST) kunnen tot mijn spijt niet binnen de gebruikelijke termijn worden beantwoord. De reden van uitstel is dat nader interdepartementaal overleg noodzakelijk is. De beantwoording zal nog deze </mededeling>
+</kvr>

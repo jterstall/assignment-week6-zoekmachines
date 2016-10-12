@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="gerechtvaardigd?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Vendrik (GroenLinks) aan de minister van Volksgezondheid, Welzijn en Sport over zorg voor borstkankerpatiënten. (Ingezonden 6 september 2005)</item>
+         <item attribuut="Bestand">14Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V040520970
+</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van ANP-bericht van 5 september 2005, dat deze zorg niet voldoet (langer dan 10 dagen wachten op diagnose en niet uitvoeren NABON-richtlijnen door ziekenhuizen).</item>
+         <item attribuut="Rubriek">Gezondheidszorg (Patiënten) Gezondheidszorg (Zorginstellingen)</item>
+         <item attribuut="Trefwoorden">Kanker Patiënten Ziekenhuizen</item>
+         <item attribuut="Vindplaats">Kamervragen 2004-2005, vraagnr. 2040520970, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2040520970</item>
+         <item attribuut="Indiener">
+            <persoon partij="GroenLinks">Vendrik</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2005-09-06</item>
+         <item attribuut="Document-id">V040520970</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2004–2005" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0405tkkvl2040520970" lopendefooter="Tweede Kamer, vergaderjaar 2004–2005, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2005"/>
+      <vraagdata vraagnummer="2040520970" onderwerp="" indiendatum="2005-09-6">
+         <vrager partij="GroenLinks" oorsprong="parlement">Vendrik</vrager>
+         <vraagt-aan>de minister van Volksgezondheid, Welzijn en Sport</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Bent u bekend met het bericht dat de zorg voor borstkankerpatiënten niet voldoet? </vraag>
+      <vraag nummer="2">Deelt u de mening dat het onacceptabel is dat bijna de helft van de patiënten langer dan 10 dagen moet wachten op de diagnose? Deelt u voorts de mening dat het onacceptabel is dat 86% van de ziekenhuizen niet in staat is de gehanteerde richtlijnen uit te voeren voor een groot deel van hun patiënten? Zo niet, waarom niet? </vraag>
+      <vraag nummer="3" voetnoot="2">Wat gaat u doen om er voor te zorgen dat op korte termijn wél alle ziekenhuizen de NABON <voetnoot nummer="2"/>-richtlijnen uitvoeren? </vraag>
+      <vraag nummer="4">Indien u van mening bent dat dit aan de ziekenhuizen zelf is, wanneer is er dan wél een situatie ontstaan waarin ingrijpen door de overheid is </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" datum="2005-09-5" bron="ANP-bericht">ANP-bericht, 5 september 2005</noot>
+         <noot nummer="2">Nationaal Borstkanker Overleg Nederland</noot>
+      </noten>
+   </antwoorden>
+</kvr>

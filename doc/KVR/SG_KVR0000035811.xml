@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001404</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001404&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001404</item>
+         <item attribuut="Document-id">0000035811</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 482</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Scheltema-de Nie en Versnel-Schmitz (beiden D66) over het tekort aan bouwlokaties binnen de gemeente Utrecht.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 482</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">482</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Scheltema-de Nie</persoon>
+            <persoon partij="D66">Versnel-Schmitz</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-03-08</item>
+         <item attribuut="Beantwoorder">
+            <persoon>De Graaff-Nauta</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-03-26</item>
+         <item attribuut="Beginpagina">969</item>
+         <item attribuut="Eindpagina">970</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de ledert der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="969" allpagenumbers="969" vetnummer="010359" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Gravenhage"/>
+      <vraagdata vraagnummer="482" onderwerp="het tekort aan bouwlo– katies binnen de gemeente Utrecht." indiendatum="1990-03-8">
+         <vrager partij="D66" oorsprong="parlement">Scheltema-de Nie</vrager>
+         <vrager partij="D66" oorsprong="parlement">Versnel-Schmitz</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-03-26">
+         <antwoorder functie="staatssecretaris" ministerie="Binnenlandse Zaken">De Graaff-Nauta</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1">Doet de Inspectie Lagere Overheden van het ministerie van Binnenlandse Zaken in haar advies over de artikel 12 aanvraag van de gemeente Utrecht onder andere het voorstel op korte termijn een oplossing te vinden voor het tekort aan bouwlokaties binnen de gemeentegrenzen van Utrecht, opdat daardoor Utrecht op eigen kracht tot een duurzame gezonde financiële positie kan komen? Onderschrijft u deze gedachte en ziet u daartoe mogelijkheden? </vraag>
+      <vraag nummer="3">Bent u bereid hierover op korte termijn met de provincie Utrecht in contact te treden? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">In het rapport van de Inspectie Financiën Lagere Overheden naar aanleiding van de artikel-12 aanvraag van de gemeente Utrecht wordt gesteld dat de voorgestelde steun van 10,9 mln gulden geen enkele garantie biedt voor een duurzaam gezonde financiële positie. Om die te bereiken, zo stelt de Inspectie, is meer nodig. Er moet een oplossing komen voor de oude stadsvernieuwingstekorten om te voorkomen dat Utrecht lange tijd armlastig blijft. In dit verband is het van essentieel belang dat er een oplossing voor de ruimtenood komt om te kunnen voorzien in de eigen behoefte aan woningen en ruimte voor bedrijfsvestiging. Het wordt dan mogelijk om de onrendabele planuit– voering in stadsvernieuwings– en restlocaties tot een minimum te beperken. Het biedt uitbreiding van het draagvlak, dat mede van belang is om de economische motorfunctie, zoals bedoeld in de Vierde Nota Ruimtelijke Ordening, te waarborgen c.q. verder uit te bouwen. </antwoord>
+      <antwoord nummer="2">Overeenkomstig de artikel-12 procedure brengt het college van Gedeputeerde Staten binnen 60 dagen na het verschijnen van het rapport van de Inspectie advies uit aan de beheerders van het Gemeen– tefonds (de staatssecretarissen van Financiën en Binnenlandse Zaken). Binnen dezelde termijn kan de gemeente reageren. Ten slotte brengt de raad voor de gemeentefinanciën zijn advies uit. Daarna bepalen de beheerders van het Gemeentefonds hun standpunt. </antwoord>
+      <antwoord nummer="3">Als de adviezen en het mede naar aanleiding daarvan door de staatsse– cretaris van Financiën en mij ingenomen standpunt leiden tot overname van het door de Inspectie gedane voorstel, ben ik zeker bereid om met het provinciaal bestuur van Utrecht in contact te treden. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

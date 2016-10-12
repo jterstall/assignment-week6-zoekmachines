@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="tend, huizenbestand? " aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19881989:0001360</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001360&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001360</item>
+         <item attribuut="Document-id">0000090959</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1988-1989 nummer 356</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Lankhorst (P.P.R.) over de huisvesting voor asielzoekers in de particuliere verhuissector.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1988-1989 nummer 356</item>
+         <item attribuut="Jaargang">1988_1989</item>
+         <item attribuut="Vraagnummer">356</item>
+         <item attribuut="Indiener">
+            <persoon partij="PPR">Lankhorst</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-02-08</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Heerma</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-03-09</item>
+         <item attribuut="Beginpagina">717</item>
+         <item attribuut="Eindpagina">718</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 8 - 1 9 8 9 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 8 - 1 9 8 9 ,  A a n h a n g s e l " filenaam="" issn-nummer="ISSN 0921 7398 " uitgever="SDU uitgeverij s-Gravenhage 1989 "/>
+      <vraagdata vraagnummer="356" onderwerp="de huisvesting voor asielzoekers in de particuliere verhuissector." indiendatum="8 februari 1989)">
+         <vrager partij="PPR" oorsprong="parlement">Lankhorst</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 ">Hebt u kennis genomen van de brief  van de gemeente Grave van 1  februari  j l . over de problemen met de  huisvesting van asielzoekers in de  particuliere verhuissector?  </vraag>
+      <vraag nummer="2 ">Hebt u kennis genomen van het  bericht, dat de gemeente Brummen  al een jaar tevergeefs probeert  „ e n  particuliere verhuurder te bewegen  tot het beschikbaar stellen van  woonruimte aan asielzoekers?'  M e d e d e l i n g  Mededeling van staatssecretaris  H e e r m a (Volkshuisvesting, Ruimtelij- ke Ordening en Milieubeheer).  (Ontvangen 9 maart 1989)  Naar aanleiding van uw brief van 9  februari  j l . deel ik u mede dat het mij  niet mogelijk is gebleken de schrifte- lijke vragen van het lid Lankhorst  binnen de gestelde termijn te  beantwoorden. De reden van de  vertraging is gelegen in het feit dat  de beantwoording het inwinnen van  informatie vergt, die enige tijd kost.  Ik zal er overigens voor zorgdragen,  dat de vragen zo spoedig mogelijk  zullen worden beantwoord.  Is er ten behoeve van het antwoord  van 27 december 1988 op terzake  schriftelijk gestelde vragen enig  onderzoek verricht naar de proble- men, die gemeenten ondervinden bij  het huisvesten van asielzoekers? </vraag>
+      <vraag nummer="2 "/>
+      <vraag nummer="4 ">Ziet u in de u nu ter beschikking  staande informatie aanleiding actie  te ondernemen teneinde te verzeke- ren, dat de gemeenten, die asielzoe- kers huisvesten, daarbij gebruik  kunnen maken van een breed, ook  particuliere huurwoningen omvat- </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Zie  A l g e m e e n Dagblad van 2 februari jl </noot>
+         <noot nummer="2"> Zie Aanhangsel Handelingen nr.  2 0 6 ,  vergaderjaar  1 9 8 8 -1 9 8 9 . </noot>
+      </noten>
+   </antwoorden>
+</kvr>

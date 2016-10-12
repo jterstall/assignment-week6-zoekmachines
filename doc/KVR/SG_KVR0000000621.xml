@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19941995:0000621</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000621&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000621</item>
+         <item attribuut="Document-id">0000000621</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1994-1995 nummer 287</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Marijnissen (SP) over uitspraken van luitenant-kolonel C. Haverhoek bd en kolonel N. Stuiver bd imake de uitzending van de Luchtmobiele Brigade naar het voormalig Joegoslavië.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1994-1995 nummer 287</item>
+         <item attribuut="Jaargang">1994_1995</item>
+         <item attribuut="Vraagnummer">287</item>
+         <item attribuut="Indiener">
+            <persoon partij="SP">Marijnissen</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-12-13</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Voorhoeve</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-12-20</item>
+         <item attribuut="Beginpagina">579</item>
+         <item attribuut="Eindpagina">580</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1994-1995" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="579" allpagenumbers="579" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1994-1995, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 • 7398" uitgever="'s Gravenhage 1994"/>
+      <vraagdata vraagnummer="287" onderwerp="uitspraken van luitenant-kolonel C. Haverhoek bd en kolonel N. Stuiver bd imake de uitzending van de Luchtmobiele Brigade naar het voormalig Joegoslavië." indiendatum="1994-12-13">
+         <vrager partij="SP" oorsprong="parlement">Marijnissen</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1">Kent u de uitspraken van luitenant kolonel C. Haverhoek bd en kolonel N. Stuiver bd van de NOV in de uitzending van Brandpunt (KRO) op 11 december 1994? </vraag>
+      <vraag nummer="2">Was u ten tijde van de uitzending van de Luchtmobiele Brigade naar het voormalig Joegoslavië bekend met de kritiek van de kant van luitenant-kolonel C. Haverhoek op de naar zijn mening te lichte bewapening van de militairen? </vraag>
+      <vraag nummer="3">Zo ja, op grond waarvan hebt u in zijn kritiek geen aanleiding gezien de bewapening aan te passen? </vraag>
+      <vraag nummer="4">Is aan luitenant-kolonel C. Haverhoek destijds naar aanleiding van zijn opmerkingen met betrekking tot de bewapening van «Dutchbat» een spreekverbod opgelegd? </vraag>
+      <vraag nummer="5">Zo ja, op grond waarvan? </vraag>
+      <vraag nummer="6">Was ertoen de Luchtmobiele Brigade actief werd in het voormalig Joegoslavië een uitgewerkt evacuatieplan beschikbaar? </vraag>
+      <vraag nummer="7">Zo neen, waarom is dan aan kolonel N. Stuiver bd van de NOV meegedeeld dat er wel een evacuatieplan beschikbaar was? Ligt er nu inmiddels wel een uitgewerkt evacuatieplan? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1,2en3">Ja. Bij de vaststelling van de voor uitvoering van de taken van het luchtmobiele bataljon benodigde bewapening en uitrusting is nauwgezet en uitgebreid advies ingewonnen bij de daarvoor verantwoordelijke functionarissen van de Koninkiijke landmacht en de leiding van de luchtmobiele brigade. In nauw overleg met deze functionarissen is gekozen voor een bewapening die robuust optreden mogelijk maakt en die voor het uit te zenden personeel een goede bescherming biedt. De opvattingen van de luitenant-kolonel C. Haverhoek b.d. waren bekend. Een aantal van zijn aanbevelingen strookte niet met de taakuitvoering onder de geldende operationele omstandigheden en was voor deze taakuitvoering niet nodig. </antwoord>
+      <antwoord nummer="4 en 5">Neen. 6 e n 7 Tijdens de verkenningen voor de uitzending zijn de mogelijkheden voor evacuatie onderzocht. Op basis daarvan is een evacuatieplan opgesteld dat sindsdien is aangepast en verbeterd. Evacuatieplannen maken altijd deel uit van de militaire planning voor dit soort operaties. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

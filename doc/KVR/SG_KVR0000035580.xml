@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19891990:0001173</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001173&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001173</item>
+         <item attribuut="Document-id">0000035580</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 251</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Nijhuis (V.V.D.) over een subsidie voor het comité Verplegenden en Verzorgenden in opstand.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 251</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">251</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Nijhuis</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-11-14</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Simons</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-01-10</item>
+         <item attribuut="Beginpagina">507</item>
+         <item attribuut="Eindpagina">508</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="507" allpagenumbers="507" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="251" onderwerp="" indiendatum="">
+         <vrager partij="VVD" oorsprong="parlement">Nijhuis</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="10januari 1990">
+         <antwoorder functie="staatssecretaris" ministerie="Welzijn, Volksgezondheid en Cultuur">Simons</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1">Waarom is de subsidie aan de vereniging VVIO verleend zonder dat deze Kamer daarvan op de hoogte is gesteld? </vraag>
+      <vraag nummer="2">Zijn de overigens discutabele activi– teiten van de Vereniging, namelijk het voeren van actie, grond voor subsidie geweest? Zo neen, op grond van welke overwegingen is deze subsidie dan wel verleend? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Omdat het naar mijn mening enerzijds niet te doen gebruikelijk is om de Tweede Kamer der Staten– Generaal zaken van deze aard en gewicht zo expliciet te rnelden, anderzijds de inhoud van de onder– havige aangelegenheid daartoe ook geen aanleiding gaf. </antwoord>
+      <antwoord nummer="2" voetnoot="1">Voor de beantwoording van deze vraag moge ik verwijzen naar de antwoorden op achtereenvolgens de vragen 2 en 1 van de heer Leerling.' Vereniging WIO,, 23 oktober 1989 kenmerk DG Vgz/GBO/OZ nr 524923, waarvan afschriften als bijlagen zijn bijgevoegd bij de antwoorden op de vragen van de heer Leerling. Voor de beantwoording van deze vraag moge ik verwijzen naar mijn antwoord op vraag 5 van de heer Leerling. <voetnoot nummer="1"/> Aanhangsel Handelingen nr 249, Verga– derjaar 1989-1990. Op grond van welke criteria is het gesubsidieerde bedrag vastgesteld dan wel samengesteld? </antwoord>
+      <antwoord nummer="4">Is het in het algemeen wenselijk om een vakbond, welke dan ook, te subsidiëren? Toelichting Deze vragen dienen ter aanvulling op de eerdere schriftelijke vragen ter zake van het lid Leerling, ingezonden 9 november jl., en van de leden Laning-Boersema en Koffeman, ingezonden 10 november jl. De subsidie is samengesteld en vastgesteld op basis van de hierna volgende criteria: - het creëren van een betere uitgangspositie voor professionali– sering van het beroep en/of - het positief beïnvloeden van de beeldvorming van de verpleeg– kundige verpleger/verpleegster en ziekenverzorgende, teneinde de aantrekkingskracht van genoemde beroepen te vergroten; - het in relatie tot andere subsidie– verzoeken en qua omvang accep– tabel verzoek zijn; - het een eenmalig karakter hebben wat nog niet in dit kalenderjaar kan worden uitgevoerd. Voor verdere achtergrondinformatie moge ik u nog verwijzen naar de inhoud van mijn brieven aan de </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

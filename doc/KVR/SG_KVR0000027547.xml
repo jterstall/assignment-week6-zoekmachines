@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="kenbaar maken." aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19901991:0001210</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19901991:0001210&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19901991:0001210</item>
+         <item attribuut="Document-id">0000027547</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 277</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Frissen (C.D.A.) over handel in hormoonpreparaten.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 277</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">277</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Frissen</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-02-03</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Dees</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-01-04</item>
+         <item attribuut="Beginpagina">559</item>
+         <item attribuut="Eindpagina">560</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="559" allpagenumbers="559" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1991"/>
+      <vraagdata vraagnummer="277" onderwerp="handel in hormoonpreparaten." indiendatum="1989-02-3">
+         <vrager partij="CDA" oorsprong="parlement">Frissen</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1">Heb u kennis genomen van de berichtgeving over de handel in hormoonpreparaten ten behoeve van bezoekers van sommige «sport– scholen?» Hoe staat het met de door u beoogde totstandkoming van een branche-organisatie van fitness– centra, waarbinnen het gebruik van anabole steroïden aan banden wordt gelegd? </vraag>
+      <vraag nummer="3">Welke plannen hebt u om: a. het gebruik van anabole steroïden zo spoedig mogelijk aan banden te leggen en om b. de controle op het illegaal verhan– delen van deze middelen uit te breiden? Welke zijn de resultaten van het overleg tussen de Nationale Commissie Aids-Bestrijding en de Nederlandse Sport Federatie over de omvang van het risico, dat gebruikers van hormoonpreparaten door inspuiting besmet raken met het Aids-virus? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"/>
+         <noot nummer="2"/>
+      </noten>
+   </vragen>
+   <toelichting>Zie de Volkskrant van 2 februari jl. Deze vragen dienen ter aanvulling op de eerdere schriftelijke vragen terzake van het lid Frissen, zie Aanhangsel Handelingen nr. 262, vergaderjaar 1987-1988. Nader antwoord van staatssecretaris Dees (Welzijn, Volksgezondheid en Cultuur). (Ontvangen 4 januari 1991) Conform de toezegging bij brief d.d. 6-3-1989, gedaan door mijn ambts– voorganger in antwoord op vraag 3 onder B van de afgevaardigde Frissen  zend ik u hierbij, voorshands ter kennisneming, het rapport «Aspecten van strafrecht en genees– middelenrecht bij dopinggeduide middelen» van Mr. Dr. H. T. van Staveren en Mw. Mr. M. J. G. Das van de Vrije Universiteit te Amsterdam. Inmiddels heb ik het rapport aan het Nederlands Centrum voor Doping– vraagstukken gezonden met het verzoek mij te adviseren omtrent de conclusies en aanbevelingen van de onderzoekers. Na ontvangst van het advies zal ik u mijn standpunt over het rapport </toelichting>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Zie Aanhangsel Handelingen nr. 343, Vergaderjaar 1988-1989</noot>
+         <noot nummer="2"> Ter inzage gelegd op de bibliotheek</noot>
+      </noten>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19851986:0001581</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001581&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001581</item>
+         <item attribuut="Document-id">0000115141</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1985-1986 nummer 660</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van Es (P.S.P.) over de wijzigingen in het stelsel van ziektekostenverzekeringen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1985-1986 nummer 660</item>
+         <item attribuut="Jaargang">1985_1986</item>
+         <item attribuut="Vraagnummer">660</item>
+         <item attribuut="Indiener">
+            <persoon partij="PSP">Van Es</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-03-07</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van der Reijden</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-04-28</item>
+         <item attribuut="Beginpagina">1311</item>
+         <item attribuut="Eindpagina">1312</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1985-1986 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 5 - 1 9 8 6 , Aanhangsel 1311 " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="660" onderwerp="" indiendatum="">
+         <vrager partij="PSP" oorsprong="parlement">Van Es</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="9">
+      <vraag nummer="1 ">Heeft de staatssecretaris kennis  genomen van de onrust, die op dit  moment aan het onstaan is bij  mensen die hun ziektekostenverzeke- ring willen regelen, over de wijzigin- gen in het stelsel van ziektekostenver- zekeringen, die op 1 april a.s. in  zouden moeten gaan, maar nog  steeds niet parlementair afgehandeld  zijn?  </vraag>
+      <vraag nummer="2 ">Is het waar, dat ziektekostenverzeke- ringsmaatschappijen bij aanvragen  van cliënten om informatie steeds  een slag om de arm moeten houden,  omdat in afwachting van de afhande- ling in de Eerste Kamer, nog steeds  niet alle voorwaarden bekend zijn  waaronder potentiële cliënten  verzekerd kunnen worden?  </vraag>
+      <vraag nummer="3 ">Zal de Eerste Kamer op zijn vroegst  op 18 maart de parlementaire  behandeling afronden? Is het waar  dat pas vanaf dat moment het  ministerie een voorlichtingscampagne  kan starten, waardoor verzekerden  gedetailleerde informatie over  wijzigingen, mogelijkheden en  rechten kunnen verkrijgen?  </vraag>
+      <vraag nummer="4 ">Is een termijn van ruim één week niet  te kort voor een voorlichtingscampag- ne over die ingrijpende en ingewikkel- de voorstellen?  Is het de staatssecretaris bekend, dat  ziektekostenverzekeringsmaatschap- pijen aanvragen van nieuwe cliënten  voor een verzekering voor het  standaardpakket aan moeten houden  tot na 18 maart? Wordt op deze  manier de vrije keuze, die cliënten  hebben om zich te verzekeren bij een  maatschappij naar eigen keuze,  ernstig bemoeilijkt, temeer daar  ziekenfondsen hun cliënten kunnen  garanderen dat bij eigen of  gelieerde (bovenbouw)maatschappij- en vóór 1 april alles voor elkaar zal  komen?  </vraag>
+      <vraag nummer="6 ">Acht de staatssecretaris de periode  van ruim één week voldoende voor  de ziektekostenverzekeringsmaat- schappijen om verzekeringen  definitief te regelen? Acht de  staatssecretaris die termijn voor  cliënten voldoende om een goede  keuze te kunnen maken uit de  definitieve verschillende mogelijkhe- den?  </vraag>
+      <vraag nummer="7 ">Begrijpt de staatssecretaris dat  mensen liever niet het 'risico' nemen  om zich pas na 1 april met terugwer- kende kracht voor bijvoorbeeld het  standaardpakket te verzekeren?  </vraag>
+      <vraag nummer="8 ">Welke conclusies trekt de staatsse- cretaris uit deze chaotische gang  van zaken?  </vraag>
+      <vraag nummer="9 ">Was het wellicht verstandiger  wijzigingen op een zodanig tijdstip te  stellen dat verzekerden op een  rustige en inzichtelijke manier hun  zaken kunnen regelen?  </vraag>
+      <vraag nummer="10 ">Welke stappen gaat de staatssecre- taris ondernemen om dat alsnog  mogelijk te maken?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

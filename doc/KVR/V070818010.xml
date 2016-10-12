@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="strafrechtelijk te vervolgen?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Vos en Heerts (beiden PvdA) aan de ministers van Financiën en van Justitie over Palminvest. (Ingezonden 16 april 2008)</item>
+         <item attribuut="Bestand">12Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V070818010
+</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van bericht dat de eigenaren van dit beleggingsfonds de helft van het ingelegde geld in eigen zak hebben gestoken (RTL nieuws, 14 april 2008).</item>
+         <item attribuut="Rubriek">Criminaliteit en openbare orde (Fraude) Geld- en kapitaalmarkt (Beleggingen)</item>
+         <item attribuut="Trefwoorden">Beleggingen Fraude</item>
+         <item attribuut="Vindplaats">Kamervragen 2007-2008, vraagnr. 2070818010, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070818010</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Vos Heerts</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2008-04-16</item>
+         <item attribuut="Document-id">V070818010</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0708tkkvl2070818010" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="2070818010" onderwerp="" indiendatum="2008-04-16">
+         <vrager partij="PvdA" oorsprong="parlement">Vos Heerts</vrager>
+         <vraagt-aan>de ministers van Financiën en van Justitie</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Bent u bekend met de berichtgeving dat de eigenaren van het beleggingsfonds Palminvest de helft van het ingelegde geld in eigen zak hebben gestoken en aan privézaken hebben besteed? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Zal de FIOD overgaan tot vervolging van de eigenaars? Zo neen, waarom niet? </vraag>
+      <vraag nummer="3">Is het mogelijk het ingelegde geld terug te vorderen van de eigenaars van Palminvest en terug te geven aan de beleggers? Zo neen, waarom niet? </vraag>
+      <vraag nummer="4" voetnoot="2">Wanneer kan de Kamer de aangekondigde maatregelen over de vrijstellingsmelding verwachten? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="5">Op welke wijze wordt er samengewerkt tussen het ministerie van Financien, de AFM en het ministerie van Justitie om beleggingsfraude te voorkomen en </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" datum="2008-04-14" bron="RTL nieuws" titel="Helft geld Palminvest in eigen zak">RTL nieuws, 14 april 2008: «Helft geld Palminvest in eigen zak»</noot>
+         <noot nummer="2" documenttype="Kamervragen" documentjaargang="2007-2008" documentnummer="1985">Aanhangsel Handelingen, vergaderjaar 2007–2008, nr. 1985.</noot>
+      </noten>
+   </antwoorden>
+</kvr>

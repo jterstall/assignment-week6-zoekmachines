@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0001940</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001940&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001940</item>
+         <item attribuut="Document-id">0000004451</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 726</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Van Rey en Van Erp (beiden VVD) en Smits (CDA) over de brandveiligheid van nachtkleding.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 726</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">726</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Van Rey</persoon>
+            <persoon partij="VVD">Van Erp</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-06-05</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Ritzen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-08-17</item>
+         <item attribuut="Beginpagina">1471</item>
+         <item attribuut="Eindpagina">1472</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsei van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1471" allpagenumbers="1471 1472" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="'s-Gravenhage 1994"/>
+      <vraagdata vraagnummer="726" onderwerp="de brandveiligheid van nachtkleding." indiendatum="1994-06-5">
+         <vrager partij="VVD" oorsprong="parlement">Van Rey</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Van Erp</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-08-17">
+         <antwoorder functie="minister" ministerie="Welzijn, Volksgezondheid en Cultuur">Ritzen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1">Moeten alle nachtkleding en dusters in Nederland voortaan worden voorzien van een ingenaaid waarschuwingsetiket met de tekst «Waarschuwing, verwijderd houden van open vuur» of «Brandvertragend»? </vraag>
+      <vraag nummer="2">Mogen als gevolg van dit Warenwetbesluit Brandwerendheid Nachtkleding een aantal stofkwaliteiten, waar onder zelfs kwaliteiten in 100% katoen, niet meer gebruikt worden? </vraag>
+      <vraag nummer="3">Is het contact met de nachtkledingbranche bij de totstandkoming van het Besluit Brandveiligheid Nachtkleding zeer gering geweest? </vraag>
+      <vraag nummer="4">Is het waar dat, Nederland met bovengenoemd Besluit vooruitloopt op Europese regelgeving en daarmee een uitzonderingspositie in Europa inneemt? Waarom is niet gewacht op Europese regelgeving? Waarom is er geen aansluiting gezocht bij de mate van regelgeving in andere lidstaten van de Europese Unie? Erkent u dat het Nederlands bedrijfsleven ernstige nadelen ondervindt van het bovengenoemde Besluit? Is een lijst met brandvertragende middelen waarnaar artikel 4 van het Besluit Brandveiligheid Nachtkleding verwijst, nog niet vrijgegeven? Hoe kan het Besluit geëffectueerd worden als deze lijst nog niet is vrijgegeven? </vraag>
+      <vraag nummer="7">Heeft deze wijze van regelgeving grote onzekerheid bij de nachtkledingsbranche teweeggebracht over de wettigheid van de in het verkeer gebrachte en de in het verkeer te brengen artikelen? </vraag>
+      <vraag nummer="8">Wordt gedragen nachtkleding opzettelijk aan open vuur biootgesteld? Bestaan er voorvallen, waarbij gedragen nachtkleding wel opzettelijk bij open vuur is gehouden, die de etikettering rechtvaardigen? Zo ja, zullen dergelijke voorvallen als gevolg van de etikettering in de toekomst worden voorkomen? Is de overgangstermijn, gelet op de inkooptermijnen, niet veel te kort? Zo neen, bestaat hier overeenstemming over met de branche? Waarom bestaat deze overeenstemming niet? Zo ja, bent u bereid de overgangstermijn te verlengen? </vraag>
+      <vraag nummer="10">Bent u, gezien de gesignaleerde problematiek, bereid de werking van het Besluit Brandveiligheid Nachtkleding op te schorten tot de lijst met toegestane brandvertragende middelen is vrijgegeven en de uitverkoopperiode met een jaar te verlengen tot 1 januari 1996? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Alle nachtkleding in de zin van het Warenwetbesluit brandveiligheid nachtkleding moet zijn voorzien van de vermelding «Waarschuwing! Verwijderd houden van open vuur». Deze vermelding mag worden vervangen door de vermelding «zelfdovend» doch uitsluitend indien de nachtkleding bestaat uit zodanig materiaal dat het voldoet aan de (strengere) eisen met betrekking tot de brandveiligheid van artikel 5, tweede lid, van het genoemde besluit. Het besluit kent niet de vermelding «brandvertragend». 2,  6 e n 7 Alle nachtkleding dient te voldoen aan de eisen met betrekking tot brandbaarheid opgenomen in artikel 3, eerste !id, van het eerdergenoemde eigenschappen reeds sinds 1977 verboden ingevolge artikel 17 van het Textielartikelenbesluit (Warenwet). Om bij voorbaat dergelijke eigenschappen zoveel mogelijk uit te sluiten introduceert artikel 4 van het Warenwetbesluit brandveiligheid nachtkleding voor brandvertragers een toelatingssysteem in de vorm van een zogenaamde «positieve lijst»: slechts brandvertragers waarvan uit door het betrokken bedrijfsleven aan te leveren onderzoeksresultaten is gebleken dat zij geen nadelige gezondheidseffecten kennen, worden op deze lijst geplaatst. Tot op heden kon nog geen brandvertrager in de lijst worden opgenomen in verband met uitblijvende onderzoeksgegevens van de zijde van het bedrijfsleven. Dit ondanks het feit dat reeds medio 1991 van de zijde van mijn ministerie herhaaldelijk is verzocht om die informatie. Het marktsegment van nachtkleding waarvoor het gebruik van brandvertragers nodig is, is beperkt. Het besluit kan derhalve goed ten uitvoer worden gebracht zonder het voorhanden zijn van de lijst van toegelaten brandvertragers. </antwoord>
+      <antwoord nummer="3">De branche is betrokken geweest bij de advisering over het ontwerp-besluit dat de Adviescommissie Warenwet. De adviesaanvraag van die commissie is gedateerd 9 december 1987. Het advies volgde op 16 mei 1990 (kenmerk: 13988/((11)15), en bevatte onder meer een herzien voorstel voor het ontwerp-besluit. Bij de uiteindelijke vaststelling van het besluit is zo nauw mogelijk aangesloten bij dit advies. Het feit dat komen. Overigens bekleedt Nederland geen uitzonderingspositie in Europa. Andere EG-lidstaten, zoals het Verenigd Koninkrijk, kennen ook wetgeving op dit gebied. Ook zijn er lanaen waar regelgeving geheel ontbreekt. Gezien het genoemde advies van de ACWW was er geen aanleiding om verdergaande aansluiting bij reeds in andere landen bestaande regelgeving te overwegen. </antwoord>
+      <antwoord nummer="5">Alle nachtkleding die in Nederland wordt verhandeld dient te voldoen aan de eisen van meergenoemd besluit. Het Nederlandse bedrijfsleven wordt derhalve niet benadeeld ten opzichte van buitenlandse ondernemingen die nachtkleding op de Nederlandse markt brengen. </antwoord>
+      <antwoord nummer="8">De onderhavige regelgeving is niet bedoeld om het opzettelijk aan open vuur blootstellen van nachtkleding te voorkomen. De etikettering is bedoeld om te waarschuwen voor de risico's van open vuur en het dragen van nachtkleding ten einde een veilig gedrag te bevcrderen. Met name uit gegevens uit de Verenigde Staten, waar soortgelijke regelgeving geldt, is gebleken dat regelingen als onderhavige het aantal brandongevallen ter zake, heeft teruggedrongen. Bij de keuze is zo nauw mogelijk aangesloten bij voor andere produkten met betrekking tot brandgevaarlijke eigenschappen reeds bestaande EG-aanduidingen. 9 e n  10 Het Warenwetbesluit brandveiligheid nachtkleding is gepubliceerd op 26 gezondheidsbelang en het belang van het bedrijfsleven. Het met terugwerkende kracht wijzigen van de inwerkingtreding of het verlengen van de overgangstermijn zou bovendien het bedrijfsleven wel adequaat heeft geanticipeerd op de publicatie en inwerkingtreding van het besluit benadelen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

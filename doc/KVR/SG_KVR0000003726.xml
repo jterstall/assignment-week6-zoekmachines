@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19931994:0001215</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001215&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001215</item>
+         <item attribuut="Document-id">0000003726</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 1</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van Otterloo (PvdA) over een door het Medisch Tuchtcollege geschorste arts.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 1</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">1</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Van Otterloo</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-08-19</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Simons</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-09-21</item>
+         <item attribuut="Beginpagina">1</item>
+         <item attribuut="Eindpagina">2</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="'s Gravenhage 1993"/>
+      <vraagdata vraagnummer="Vragen" onderwerp="een door het Medisch Tuchtcollege geschorste arts." indiendatum="1993-08-19">
+         <vrager partij="PvdA" oorsprong="parlement">Van Otterloo</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-09-21">
+         <antwoorder functie="staatssecretaris" ministerie="Welzijn, Volksgezondheid en Cultuur">Simons</antwoorder>
+         <mede-antwoorder>de minister van Justitie</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="8">
+      <vraag nummer="1">Hebt u kennis genomen van krantenberichten omtrent een door het Medisch Tuchtcollege geschorste arts, die ondanks de schorsing nog zou werken?' </vraag>
+      <vraag nummer="2">Betrof het hier louter werkzaamheden in het kader van waarneming voor een collega of heeft deze arts tevens zijn normale praktijk voortgezet? </vraag>
+      <vraag nummer="3">Betrof het hier een waarneming in de avond– of weekenddienst of was het een waarneming voor langere tijd van een collega? </vraag>
+      <vraag nummer="4">Wie is verantwoordelijk voor het betekenen van het vonnis aan een door het Medisch Tuchtcollege veroordeelde arts? Hoe, en op basis van welke regelingen, is daarbij de taakverdeling tussen het Openbaar Ministerie en de Geneeskundige Inspectie precies geregeld? </vraag>
+      <vraag nummer="5">Wanneer Is de betrokken arts op de hoogte gesteld van het vonnis? Gaat er in dit geval schorsende werking uit van het aantekenen van beroep? </vraag>
+      <vraag nummer="6">Langs welke weg zijn de patiënten van deze arts op de hoogte gebracht van de schorsing? Vindt u plaatsing van het vonnis in de Staatscourant voldoende om de patiënten op de hoogte te brengen van de uitspraak van het Medisch Tuchtcollege? </vraag>
+      <vraag nummer="7">Welke richtlijnen zijn er uitgevaardigd voor het controleren of de door het Medisch Tuchtcollege opgelegde straffen ook daadwerkelijk worden uitgevoerd? </vraag>
+      <vraag nummer="8">Zijn er nog andere gevallen bekend waarin veroordeelde artsen ondanks een schorsing toch bleken te werken? Welke conclusies trekt u uit deze gebeurtenis over de uitvoerbaarheid van het Medisch Tuchtrecht en de rol van de Geneeskundige Inspectie daarbij? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja. Voorzover bekend betrof het hier uitsluitend een waarneem-situatie bij een arts die van de schorsing niet op de hoog:e was. </antwoord>
+      <antwoord nummer="3">Het betrof een waarneming voor een aantal dagdelen per week in verband met ziekte van de arts voor wie werd waargenomen. </antwoord>
+      <antwoord nummer="4">De Medische Tuchtwet 1928 en het daarop gebaseerde Reglement Medisch Tuchtrecht en Oplossing van Geschillen kennen geen betekening. Een eindbeslissing van het tuchtcollege gaat van rechtswege in kracht van gewijsde indien deze onherroepelijk is geworden. Dat is het geval indien de beroepstermijn van 1 maand na ontvangst van de beschikking is verlopen. Openbaar Ministerie noch Geneeskundige Inspectie hebben hierbij een taak. </antwoord>
+      <antwoord nummer="5">De betrokken arts heeft een afschrift van de eindbeslissing van het medisch tuchtcollege in eerste aanleg te Den Haag op 19 april 1993 ontvangen. In een mededeling aan de voet van de beslissing wordt, zoals met betrekking tot iedere eindbeslissing van een medisch tuchtcollege voorgeschreven is, gewezen op het recht op hoger beroep, de beroepstermijn en op de wijze waarop beroep kan worden ingesteld. Van het instellen van hoger beroep gaat uiteraard schorsende werking uit, maar in dit geval is er geen hoger beroep ingesteld. De uitspraak ging derhalve, zoals onder 4 Medisch Tuchtrecht en Oplossing van Geschillen geeft aan welke instanties door middel van toezending van een beshssmg als de onderhavige in kennis worden gesteld. De Geneeskundig Hoofdinspecteur tekent alsdan de schorsing of ontzegging van de bevoegdheid de geneeskunst uit te oefenen aan in het register van erkende beroepsbeoefenaren, bedoeld in art. 44 van de Gezondheidswet. De regionale geneeskundig inspecteurs zien er op toe dat de geneeskunst niet onbevoegd wordt uitgeoefend, doorgaans in samenwerking met de regionale inspecteurs voor de geneesmiddelen wegens het tevens wegvallen van de receptuurbevoegdheid. Indien de inspectie constateert dat de geneeskunst wordt uitgeoefend door een arts die weet dat hij daartoe vanwege een tuchtrechtelijke schorsing of ontzegging van de bevoegdheid niet bevoegd is, doet zij daarvan mededeling aan het openbaar ministerie alsmede aan het medisch tuchtcollege dat de maatregel heeft opgelegd. In het onderhavige geval heeft de inspectie aan voornoemde instanties mededeling gedaan dat de betrokken arts, na ontvangst van een afschrift van de eindbeslissing van het medisch tuchtcollege in eerste aanleg te Den Haag, nog de geneeskunst uitoefende en dat deze, in de veronderstelling verkerend dat betekening zou plaatsvinden, aangaf niet te weten dat de schorsing al van kracht was. Na constatering van deze situatie heeft de inspecteur de betrokken arts duidelijk gemaakt dat inhouden of een ontzegging van de bevoegdheid, een dergelijke taak niet worden afgeleid. Indien uit mededelingen van de kant van de geneeskundige hoofdinspectie die indruk in de pers mocht zijn gewekt, dan berust één en ander op een misverstand en wordt dat betreurd. De bijzondere aandacht die de Procureur-Generaal en in het algemeen reeds de geneeskundige inspecties aan schorsingen en ontzeggingen wijden, hebben tot gevolg dat deze maatregelen, binnen de grenzen van het mogelijke, effectief worden bewaakt. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Pechtold en Koser Kaya (beiden D66) aan de minister-president, minister van Algemene Zaken en aan de ministers van Financiën en van Sociale Zaken en Werkgelegenheid over het voorstel van CDA-leider Balkenende om de AOW-leeftijd te verhogen. (Ingezonden 23 april 2007); Antwoord</item>
+         <item attribuut="Bestand">21Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR28202
+</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van een persbericht van het ANP van 19 april 2007 dat minister-president Balkenende tijdens de onderhandelingen over het regeerakkoord zou hebben aangedrongen op verhoging van de AOW-leeftijd. Waarom is in plaats daarvan gekozen voor de zogenoemde 'Bos-belasting', terwijl uit onderzoeken blijkt dat verhoging van de AOW-leeftijd een positief effect heeft op de economische groei?</item>
+         <item attribuut="Rubriek">Handel en economie (Economische ontwikkeling) Sociale zekerheid (Ouderdomsvoorzieningen en pensioenen (AOW))</item>
+         <item attribuut="Trefwoorden">AOW Economische ontwikkeling</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2006-2007, nr. 1614, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2060713220</item>
+         <item attribuut="Afkomstig_van">Algemene Zaken (AZ) Financiën (FIN) Sociale Zaken en Werkgelegenheid (SZW)</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Pechtold</persoon>
+            <persoon partij="D66">Koser Kaya</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2007-05-22</item>
+         <item attribuut="Datum_indiening">2007-04-23</item>
+         <item attribuut="Document-id">KVR28202</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2006–2007" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="3419" allpagenumbers="3419 3420" vetnummer="2060713220" code="0607tkkvr1614" lopendefooter="Tweede Kamer, vergaderjaar 2006–2007, Aanhangsel" filenaam="KVR28202" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2007"/>
+      <vraagdata vraagnummer="1614" onderwerp="" indiendatum="2007-04-23">
+         <vrager partij="D66" oorsprong="parlement">Pechtold</vrager>
+         <vrager partij="D66" oorsprong="parlement">Koser Kaya</vrager>
+         <vraagt-aan>de minister-president, minister van Algemene Zaken en aan de ministers van Financiën en van Sociale Zaken en Werkgelegenheid</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2007-05-22">
+         <antwoorder functie="minister-president" ministerie="Algemene Zaken">Balkenende</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Is het waar dat CDA-onderhandelaar Balkenende tijdens de onderhandelingen over het regeerakkoord van het huidige kabinet heeft «getamboereerd» op de noodzaak de AOW-leeftijd te verhogen? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Bent u op de hoogte van tabel 2.1 in het twaalfde rapport van de Studiegroep Begrotingsruimte, d.d. 22-6-2006, waaruit blijkt dat verhoging van de AOW-leeftijd tot 67 jaar een positief effect heeft op de economische groei, terwijl de afschaffing van het ouderentarief in de inkomstenbelasting (fiscalisering van de AOW, ook wel bekend als de Bos-belasting) een negatief effect heeft? </vraag>
+      <vraag nummer="3" voetnoot="2">Bent u op de hoogte van de doorrekening van de verkiezingsprogramma’s door het Centraal Planbureau <voetnoot nummer="2"/>, waaruit is gebleken dat geleidelijke verhoging van de AOW-leeftijd gunstig uitpakt voor de houdbaarheid van de overheidsfinanciën, terwijl de Bos-belasting nauwelijks zoden aan de dijk bleek te zetten? </vraag>
+      <vraag nummer="4" voetnoot="3">Deelt u de mening, mede gezien de CPB-analyse van het coalitieakkoord <voetnoot nummer="3"/>, waarin scherpe kritiek wordt geuit op de uitvoerbaarheid van de voorgenomen invoering van een ouderenheffing met korting voor werkende 63-plussers, tot geleidelijke verhoging van de AOW-leeftijd, zoals ook is aanbevolen door het Internationaal Monetair Fonds (IMF), zowel budgettair als economisch effectiever is dan de door het kabinet voorgenomen vorm van Bos-belasting? </vraag>
+      <vraag nummer="5">Op grond van welke argumenten kiest het kabinet voor de «Bos-belasting», in plaats van voor geleidelijke verhoging van de AOW-leeftijd? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="2007-04-19" bron="ANP">ANP, 19 april 2007</noot>
+         <noot nummer="2">Centraal Planbureau, Keuzes in kaart 2008–2011; Economische effecten van acht verkiezingsprogramma’s, oktober 2006</noot>
+         <noot nummer="3" datum="2007-02-7" bron="Centraal Planbureau, Indicatie van effecten Financieel kader 2008–2011">Centraal Planbureau, Indicatie van effecten Financieel kader 2008–2011, 7 februari 2007</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Op 8 februari 2007 heeft uw Kamer gedebatteerd met de verschillende onderhandelaars en de informateur, de heer Wijffels, over het verloop van de formatie. Het kabinet heeft zich bij zijn aantreden gebonden aan de afspraken in het coalitieakkoord van de Tweede Kamerfracties van het CDA, de PvdA en de ChristenUnie. De besprekingen ten behoeve van de kabinetsformatie hebben voor het overige een vertrouwelijk karakter en vinden plaats tussen delegaties van fracties uit uw kamer. </antwoord>
+      <antwoord nummer="2 t/m 5">Het kabinet is op de hoogte van de onder vragen 2 en 3 genoemde publicaties en de inhoud daarvan. Zoals ook in het door u genoemde rapport Studiegroep Begrotingsruimte staat, zijn er drie globale oplossingsrichtingen om de houdbaarheid van de overheidsfinanciën te verbeteren: verhogen van arbeidsparticipatie, het aanpassen van de vergrijzinggerelateerde instituties en sparen voor later. Het kabinet neemt de uitdagingen van het houdbaar maken van de collectieve voorzieningen zeer serieus en wil met nieuw beleid, zoals aangegeven in het coalitieakkoord, een derde van het zogenaamde houdbaarheidstekort opvangen. Het idee hierbij is dat in drie periodes, dat wil zeggen voor 2020, houdbare overheidsfinanciën worden bereikt. Uitgangspunt is een structureel overschot in 2011 van +1,0% (= feitelijk overschot van +1,1%), waarbij gestreefd wordt ieder jaar het EMU-saldo te verbeteren ten opzichte van voorafgaand jaar. Daarnaast wordt een viertal maatregelen genomen die de houdbaarheid verbeteren met 0,7% BBP. Het gaat hier om het effectiever vormgeven van de arbeidskorting, het aanpassen van de overdraagbaarheid van de algemene heffingskorting, het bevorderen van de arbeidsparticipatie van 63 jaar en ouder en het vergroten van de houdbaarheid van de aow en het zorgen voor een verantwoorde ontwikkeling van de uitgaven in de zorg en (mede door) vernieuwing zorgconcepten. Ten slotte wil het kabinet de arbeidsparticipatie bevorderen, met name die van groepen die nu langs de kant staan, zoals langdurig werklozen, gedeeltelijk arbeidsgeschikten, herintredende vrouwen, jongeren zonder startkwalificaties en ouderen met onvoldoende perspectief op een baan. Met betrekking tot de AOW geldt dat het kabinet de AOW ook in de toekomst welvaartsvast wil houden. Het kabinet is van mening dat daarvoor allereerst nodig is dat zoveel mogelijk mensen zo lang mogelijk doorwerken. Met respect voor de keuzevrijheid wordt aan ouderen met een relatief hoger inkomen gevraagd een steentje bij te dragen aan de financiering van een welvaartsvaste AOW door ofwel langer door te werken (tot aan hun 65ste) ofwel het betalen van een extra heffing. Bij doorwerken tot 65 jaar komt deze heffing per saldo te vervallen. Deze in het coalitieakkoord opgenomen maatregel verbetert de houdbaarheid van de overheidsfinanciën met 0,2% BBP. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

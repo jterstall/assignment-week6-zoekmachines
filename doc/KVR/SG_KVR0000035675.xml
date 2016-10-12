@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19891990:0001268</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001268&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001268</item>
+         <item attribuut="Document-id">0000035675</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 346</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Wallage (P.v.d.A.) over geologische verzameling van het Amsterdams Geologisch Museum.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 346</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">346</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Wallage</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-08-01</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Ritzen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-02-13</item>
+         <item attribuut="Beginpagina">697</item>
+         <item attribuut="Eindpagina">698</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="697" allpagenumbers="697 698" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="346" onderwerp="geologische verza– meling van het Amsterdams Geolo– gisch Museum." indiendatum="1989-08-1">
+         <vrager partij="PvdA" oorsprong="parlement">Wallage</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="13 februari 1990), zie ook Aanhangsel Handelingen nr. 836, vergaderjaar 1988-1989 en nr. 93, vergaderjaar 1989-1990.">
+         <antwoorder functie="minister" ministerie="Onderwijs en Wetenschappen">Ritzen</antwoorder>
+         <mede-antwoorder>de minister van Welzijn, Volksgezondheid en Cultuur</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1">Deelt u het oordeel van prof. H. Priem, dat de geologische verza– meling van het Amsterdams Geolo– gisch Museum grote wetenschap– pelijke waarde heeft en regelmatig door geologen uit de hele wereld wordt geraadpleegd?' </vraag>
+      <vraag nummer="2" voetnoot="1">Deelt u ook zijn oordeel, dat ons land zich internationaal volkomen belachelijk zou maken en dat honderd jaar onderzoek en verzamel– drift verloren zou gaan, wanneeer een aanzienlijk deel van de collectie aan particulieren zou moeten worden verkocht en dus uiteen zou vallen? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="3">Is het niet voor de hand liggend, dat, wanneer in het kader van de taakver– delingsoperatie de studierichting geologie geconcentreerd wordt aan de Vrije Universiteit, ook het museum aan die universiteit wordt verbonden? Zo ja, waarom heeft u dan in overleg met de Vrije Univer– siteit niet gewaarborgd, dat de collectie in tact zou blijven zoals de minister van Onderwijs en Weten– schappen deze Kamer tijdens de taakverdelingsdebatten heeft verzekerd? </vraag>
+      <vraag nummer="4" voetnoot="1">Is een poging de collectie als geheel over te brengen naar Leiden mislukt, omdat : «het ministerie van Onderwijs en Wetenschappen zei: de collectie is niet langer universitair, dus ga maar naar Welzijn, Volksge– zondheid en Cultuur. En Welzijn, Volksgezondheid en Cultuur is niet bereid op te draaien voor kosten die zijns inziens voor rekening van Onderwijs en Wetenschappen komen. Het is een griezelig soort afschuifsysteem»? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="5">Bent u bereid zich nu gezamenlijk te gaan inspannen een oplossing te vinden die de collectie bijeen houdt, waar immers de dreigende teloorgang een rechtstreeks gevolg is van het regeringsbeleid tot concentratie van de geologieoplei– dingen? </vraag>
+      <vraag nummer="6">Zo neen, kunt u uitleggen hoe de hele gang van zaken zich verhoudt tot de door u gezamenlijk aange– hangen visie op het rentmees– terschap? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Zie het NRC Handelsblad van 26 juli jl</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1 en 2">In 1986 hebben de Rijkscommissie voor de Musea en de Commissie van Advies voor de Natuurhistorische Musea gezamenlijk een advies uitge– bracht over een aantal als «bedreigd» aangemerkte universi– taire collecties. Ten aanzien van de aardwetenschappelijke collecties van het Geologisch Museum van de Universiteit van Amsterdam conclu– deerden beide commissies, dat bepaalde collectiedelen in aanmerking komen voor rijkszorg, omdat zij een aanvulling zijn op bestaande (rijks)collecties of door hun uniciteit en/of onvervang– baarheid behouden moeten blijven. In dit verband werden genoemd de zgn. Timorcollectie en de Molen– graafcollectie alsmede een selectie van unieke en/of onvervangbare regionale en andere collecties, bijvoorbeeld de meteorieten– en tectietencollectie en de Van der Lijn-zwerfsteencollectie, nadat deze eventueel zorgvuldig is uitgedund. Ook de holotypen zouden naar het oordeel van de commissies voor rijkszorg in aanmerking komen. Beide commissies waren voorts van oordeel, dat bepaalde collectiedelen van bijzonder belang zouden kunnen zijn op grond van het gebruik voor onderwijsdoeleinden of met het oog op de nationale geologische en natuurhistorische presentatie, die - zoals bekend - inmiddels aan Leiden is toegewezen. De commissies voegden aan hun conclusies uitdruk– kelijk de suggestie toe, dat in het belang van het behoud van de collecties een zekere selectie zou moeten worden toegepast. In het najaar van 1988 zijn contacten geweest tussen het ministerie van Onderwijs en Wetenschappen en de RU Utrecht, de Vrije Universiteit, de TU Delft en de Rijks Geologische bereid en niet in staat de collecties geheel over te nemen. Een van de overwegingen daarbij was, dat slechts enkele onderdelen van de collecties van direct belang waren voor het wetenschappelijk onderwijs en onderzoek. </antwoord>
+      <antwoord nummer="4">In het najaar van 1988 heeft de Universiteit van Amsterdam een aantal mogelijkheden gepresenteerd om de geologische collecties elders onder te brengen. Behalve aan een verhuizing naar Leiden werd daarbij ook gedacht aan een opname in de plannen voor het samenwerkings– verband «de Groene Plantage» te Amsterdam. Volgens dit plan zou de expositie «Genesis in Artis» een centrale positie innemen tussen het Planetarium, Artis, de hortus en het Zoölogisch Museum. Een belangrijk deel van de geologische collecties zou hierin een wezenlijke rol kunnen spelen. Het gaat hierbij om de publieksaantrekkelijke en educatief belangrijke stukken. Van een keuze voor Leiden, zoals de beheerder van het museum, de heer J. Werner, in NCR Handelsblad van 26 juli 1989 lijkt te suggereren, is toen niet gebleken. In dit verband kan ook worden gewezen op een uitspraak van de heer Werner in oktober 1988, dat het onderbrengen van de collectie in de expositie «Genesis in Artis» niet alleen aanzienlijk goedkoper is dan het overbrengen naar Leiden, maar ook uitstekend past in Amsterdams groene hart, de Plantagebuurt (aangehaald in NRC Handelsblad, 25 oktober 1988). </antwoord>
+      <antwoord nummer="5 en 6">Geruime tijd geleden hebben de toenmalige ministers van Onderwijs cultureel erfgoed». Dan komt de minister van Welzijn, Volksge– zondheid en Cultuur in beeld. Hieruit vloeit voort, dat een universiteit niet eerder tot het afstoten van een verzameling, die geen onderwijs– en/of onderzoekbelang meer dient, kan overgaan dan nadat zij zich met laatstbedoelde minister heeft verstaan. De universiteit heeft het ministerie van Welzijn, Volksge– zondheid en Cultuur benaderd met voorstellen voor onderbrenging van de onderhavige collectie en de  f i n a n – ciering daarvan. De betrokken bewindspersoon kon die voorstellen binnen de gegeven financiële randvoorwaarden niet aannemen. Dit heeft tot gevolg, dat zij ook niet de verantwoordelijkheid voor de collectie kan overnemen, omdat verantwoordelijkheid en financiering onlosmakelijk met elkaar zijn verbonden. Uit het voorgaande vloeit voort, dat thans nog geen definitieve bestemming aan de verzameling kan worden gegeven. Overeenkomstig de eerder door de Universiteit van Amsterdam uitgesproken bereidheid, zal zij de verzameling in afwachting van een definitieve bestemming in een van haar gebouwen opslaan. De minister van Onderwijs en Weten– schappen heeft zich bereid verklaard de universiteit in deze huisvestings– kosten tegemoet te komen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

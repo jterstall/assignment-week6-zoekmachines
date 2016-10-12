@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Harrewijn en Vendrik (beiden GroenLinks) aan de staatssecretaris van Financiën en de minister van Sociale Zaken en Werkgelegenheid over het groeiend aantal miljonairs in Nederland. (Ingezonden 16 april 1999); Antwoord</item>
+         <item attribuut="Bestand">14Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR9388
+</item>
+         <item attribuut="Rubriek">Inkomen en rechtspositie (Inkomens)</item>
+         <item attribuut="Trefwoorden">Bezitsvorming Inkomens</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 1998-1999, nr. 1394, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2989911670</item>
+         <item attribuut="Afkomstig_van">Financiën</item>
+         <item attribuut="Indiener">
+            <persoon partij="GroenLinks">Harrewijn</persoon>
+            <persoon partij="GroenLinks">Vendrik</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1999-05-19</item>
+         <item attribuut="Datum_indiening">1999-04-16</item>
+         <item attribuut="Document-id">KVR9388</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1998–1999" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="2773" allpagenumbers="2773" vetnummer="2989911670" code="" lopendefooter="Tweede Kamer, vergaderjaar 1998–1999, Aanhangsel" filenaam="KVR9388" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 1999"/>
+      <vraagdata vraagnummer="1394" onderwerp="" indiendatum="1999-04-16">
+         <vrager partij="GroenLinks" oorsprong="parlement">Harrewijn</vrager>
+         <vrager partij="GroenLinks" oorsprong="parlement">Vendrik</vrager>
+         <vraagt-aan>de staatssecretaris van Financiën en de minister van Sociale Zaken en Werkgelegenheid</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1999-05-19">
+         <antwoorder functie="staatssecretaris" ministerie="Financiën">Vermeend</antwoorder>
+         <mede-antwoorder>de minister van Sociale Zaken en Werkgelegenheid</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Bent u op de hoogte van het feit dat het aantal miljonairs sterk is toegenomen en momenteel ongeveer 200 000 bedraagt? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Welk percentage van deze 200 000 miljonairs valt bij de loon- en inkomstenbelasting in het 60% tarief? </vraag>
+      <vraag nummer="3">Kunt u de onderverdeling geven van het aantal miljonairs in het aantal vrouwen en mannen en tevens de onderverdeling in het aantal allochtonen en autochtonen? </vraag>
+      <vraag nummer="4">Wat is uw oordeel over deze cijfers? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1999-04-15" bron="CBS-gegevens, Teletext">CBS-gegevens, Teletext, 15 april 1999</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Uit de desbetreffende CBS-gegevens blijkt dat er in 1997 in Nederland 158 000 huishoudens zijn waarbij het (gezamenlijk) vermogen meer dan een miljoen gulden bedraagt. Naar schatting van het CBS zal dit aantal huishoudens in 1999 bijna 200 000 zijn. </antwoord>
+      <antwoord nummer="2" voetnoot="1">Bij 37% van de desbetreffende huishoudens uit 1997 viel de meestverdienende partner in dat jaar in het 60%-tarief. <voetnoot nummer="1"/>
+      </antwoord>
+      <antwoord nummer="3 en 4">Een volledige onderverdeling van het aantal miljonairs in mannen en vrouwen kan niet gegeven worden. Zoals aangegeven onder 1. zijn de CBS-gegevens gebaseerd op vermogens van huishoudens. Bij 74% van de huishoudens is sprake van een huwelijk of samenwonen, waardoor het niet mogelijk is het vermogen toe te wijzen aan één van de partners. Daarnaast is bij 10% van de miljonairs er sprake van een alleenstaande man en bij 16% sprake van een alleenstaande vrouw. Een onderverdeling van de miljonairs in allochtonen en autochtonen is niet voorhanden. De relatie tussen de vermogenspositie en de etniciteit van huishoudens wordt niet door het CBS of de Belastingdienst geregistreerd. De afgelopen jaren is het gemiddeld vermogen per huishouden gestegen. Volgens het CBS kwam deze stijging vooral door een toename van de woningprijzen en van het effectenbezit. Hierdoor is ook het aantal miljonairs gestegen. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1">Bron: CBS Vermogensstatistiek</noot>
+      </noten>
+   </antwoorden>
+</kvr>

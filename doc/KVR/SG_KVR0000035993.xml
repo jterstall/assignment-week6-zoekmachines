@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001586</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001586&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001586</item>
+         <item attribuut="Document-id">0000035993</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 663</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Frinking (C.D.A.) over de oefening Klaver-Twist.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 663</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">663</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Frinking</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-05-11</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Ter Beek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-06-01</item>
+         <item attribuut="Beginpagina">1335</item>
+         <item attribuut="Eindpagina">1336</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1335" allpagenumbers="1335" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="663" onderwerp="de oefening Klaver-Twist." indiendatum="1990-05-11">
+         <vrager partij="CDA" oorsprong="parlement">Frinking</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-06-1">
+         <antwoorder functie="minister" ministerie="Defensie">Ter Beek</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1" voetnoot="1">Welke doelstelling is verbonden aan een nieuwe vorm van oefenen, de oefening Klaver-Twist? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Wordt met deze oefenvorm niet een te grote wissel getrokken op het inlevingsvermogen van het laagste uitvoerende niveau? Kunnen de conclusies naar aanleiding van het oefenverslag aan deze Kamer worden overgelegd? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Defensiekrant van 3 mei 1990, blz. 3</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Binnen de gegeven randvoorwaarden streeft 1 LK naar het effectief en doelmatig oefenen van alle daaronder ressorterende staven en eenheden. Zo wordt reeds vele jaren gebruik gemaakt van oefeningen, waarbij hetzij alle troepen van een eenheid daadwerkelijk deelnemen (de zogenaamde FTX, Field Training Exercise) danwel alleen de staven van die eenheden (de zogenaamde CPX, Command Post Exercise). Thans wordt bezien of tussenvormen mogelijk zijn (CFX, Command Field Exercise). De oefening KLAVER TWIST had mede tot doel na te gaan of te oefenen commandanten en staven op adequate wijze kunnen worden opgeleid zonder daarbij steeds alle bijbehorende troepen te betrekken. Mocht dat laatste het geval zijn dan zal voor de niet-deelnemende troepen de vrijko– mende tijd worden benut voor het teniet doen van tekortkomingen in de opleiding en oefening op lager niveau. Daarnaast zal in dat geval een vermindering van de belasting voor de bevolking kunnen worden gerealiseerd, met name in de Bonds– republiek Duitsland. </antwoord>
+      <antwoord nummer="2">Bij dergelijke tussenvormen van oefenen moet vooraf worden vastge– steld voor welke niveaus de oefening is bestemd. Daarmee wordt ook bepaald het niveau, dat als laagste uitvoerende instantie zal deelnemen. Er wordt tijdens het ontwerpen van de oefening zorg voor gedragen dat door middel van een goede informa– tievoorziening en een doelgerichte organisatie de uitvoerders zich voort– durend een goed beeld kunnen vormen van de opdrachten die zij moeten uitvoeren. Mede uit ervaringen opgedaan bij de oefening KLAVER TWIST zal blijken of met deze vorm van oefenen het vereiste opleidingspeil kan worden gehaald. Ook zal het duidelijk maken of het uitvoerende niveau steeds een goed en realistisch beeld heeft kunnen presenteren aan de oefenende commandanten en staven. Overigens wordt niet voorzien dat het CFX-concept het regelmatig houden van FTX'n in de toekomst geheel zal kunnen vervangen. </antwoord>
+      <antwoord nummer="3">Het oefenen volgens het CFX-model is voor 1LK nog nieuw. Omdat derhalve nog geen afgeronde evaluatie van het concept ter beschikking staat is de aanbieding van definitieve conclusies aan de Tweede Kamer eerst op termijn mogelijk. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

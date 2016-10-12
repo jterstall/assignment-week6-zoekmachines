@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="4">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19941995:0000571</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000571&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000571</item>
+         <item attribuut="Document-id">0000000571</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1994-1995 nummer 236</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden De Cloe (PvdA), Van Erp (VVD) en Scheltema-De Nie (D66) over de gemeentelijke herindeling van het gebied Eindhoven-Helmond.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1994-1995 nummer 236</item>
+         <item attribuut="Jaargang">1994_1995</item>
+         <item attribuut="Vraagnummer">236</item>
+         <item attribuut="Indiener">
+            <persoon>De Cloe</persoon>
+            <persoon>Van Erp</persoon>
+            <persoon>Scheltema-De Nie</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-11-16</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van de Vondervoort</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-12-06</item>
+         <item attribuut="Beginpagina">473</item>
+         <item attribuut="Eindpagina">474</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1994-1995" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="473" allpagenumbers="473 474" vetnummer="" code="" lopendefooter="Tweede Karner, vergaderjaar 1994-1995, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="'s Gravenhage 1994"/>
+      <vraagdata vraagnummer="236" onderwerp="de gemeentelijke herindeling van het gebied Eindhoven-Helmond." indiendatum="1994-11-16">
+         <vrager partij="" oorsprong="parlement">De Cloe</vrager>
+         <vrager partij="" oorsprong="parlement">Van Erp</vrager>
+         <vrager partij="" oorsprong="parlement">Scheltema-De Nie</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-12-6">
+         <antwoorder functie="staatssecretaris" ministerie="Binnenlandse Zaken">Van de Vondervoort</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Kent u de beslissing van Provinciale Staten van Noord-Brabant om de gemeentelijke herindeling van het gebied Eindhoven-Helmond (de witte vlek) stop te zetten? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2" voetnoot="2">Hoe verhoudt deze beslissing zich met de bestuurlijke afspraak van uw ambtsvoorganger met het College van Gedeputeerde Staten in Noord-Brabant om de nadere invulling van het gebied Eindhoven-Helmond af te wachten alvorens het wetsvoorstel voor zuidoost-Brabant naar de Raad van State te sturen? Hebben Provinciale Staten in een eerder stadium wel ingestemd met een heroverweging van de herindeling van het gebied Eindhoven-Helmond? <voetnoot nummer="2"/>Wat is uw reactie op het verzoek van Provinciale Staten tot het spoedig in procedure brengen van een volledig herindelingsvoorstel voor zuidoost-Brabant? </vraag>
+      <vraag nummer="4" voetnoot="3">Acht u het nog mogelijk de gemeentelijke herindeling zuidoost-Brabant te laten ingaan per 1 januari 1996, aangezien ongeveer vier maanden verlopen tussen indiening van een wetsvoorstel bij de Raad van State en indiening bij de Kamer? <voetnoot nummer="3"/>Deelt u de opvatting, dat in het gebied zuidoost-Brabanttwee bestuurlijke processen - de vorming van een zelfstandige provincie nieuwe stijl en het proces van gemeentelijke herindeling - elkaar lelijk in de weg gaan zitten? </vraag>
+      <vraag nummer="6">Is niet op zeer korte termijn duidelijkheid vereist ten aanzien van de vraag of de vorming van een provincie nieuwe stijl in zuidoost-Brabant haalbaar is dan wel of tot een aanmerkelijk grootschaliger gemeentelijke herindeling zal moeten worden besloten dan nu voorgesteld? jl. </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Zie o.a. Brabants Dagblad van 12 november</noot>
+         <noot nummer="2"> Zie Handelingen van 26 oktober 1994 blz. 701, waar melding wordt gemaakt van de aangetroffen bestuurlijke afspraak van de vorige staatssecretaris van Binnenlandse Zaken en het College van Gedeputeerde Staten in Brabant</noot>
+         <noot nummer="3"> Zie kamerstuk 22 989, gemeentelijke herindeling noordoost-Brabant en kamerstuk 23 712, gemeentelijke herindeling 's-Hertogenbosch</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ik ken de motie van provinciale staten van Noord-Brabant van 11 november jl., waarin zij gedeputeerde staten onder andere vragen mij te verzoeken op zo kort mogelijke termijn een herindelingsvoorstel voor het gehele gebied Zuidoost-Brabant in procedure te brengen. Bovendien hebben provinciale staten in die motie aan gedeputeerde staten verzocht, indien ik bedoeld verzoek inwillig, ermee in te stemmen dat er geen vervolg wordt gegeven aan de zgn. Arhi-procedure. </antwoord>
+      <antwoord nummer="2">De afspraak die tussen mijn ambtsvoorganger en het college van gedeputeerde staten in augustus 1994 is gemaakt, hield in dat gedeputeerde staten half oktober hun beslissing over eventuele nadere invulling van de zogenoemde «witte vlek» zouden meedelen aan de betrokken bewindspersoon van Binnenlandse Zaken. Op 9 november jl. concludeerden gedeputeerde staten op grond van hun bevindingen dat het aanbeveling verdient de gemeente Eindhoven met Nuenen, alsmede de gemeente Helmond met Mierlo samen te voegen. Provinciale staten hebben tijdens de algemene beschouwingen het standpunt van gedeputeerde staten tot een onderwerp van uitvoerige politieke van de herindelingsvoorstellen met betrekking tot de gemeente Eindhoven, Helmond, Nuenen en Mierlo. In het kader van deze heroverweging is een aantal ruimtelijke onderzoeken uitgevoerd en is overleg gevoerd tussen het provinciebestuur en de vier gemeenten. Nu gedeputeerde staten aan de bestuurlijke afspraak van augustus 1994 hebben voldaan, zal ik spoedig een integraal wetsvoorstel voor Zuidoost-Brabant in procedure brengen. Ik beraad mij momenteel op de feitelijke invulling van het voorstel. </antwoord>
+      <antwoord nummer="4">Gezien de vertraging die het voorstel inmiddels heeft opgelopen acht ik het praktisch onmogelijk dat als datum van herindeling voor Zuidoost-Brabant 1 januari 1996 nog haalbaar is. Neen. Los van het proces van de mogelijke vorming van een zelfstandige provincie in dit gebied is gemeentelijke herindeling in elk geval nodig. Beide processen doorlopen een eigen traject, dat toevalligerwijs in de tijd gedeeltelijk samenvalt. </antwoord>
+      <antwoord nummer="6">De Kaderwet schrijft voor dat de gemeenten in het samenwerkingsverband en het algemeen bestuur van het regionaal openbaar lichaam binnen drie jaar na inwerkingtreding van de Rol-regeling een evaluatie moeten uitvoeren. Op basis van de evaluatie wordt beslist of een nieuwe provincie wordt </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

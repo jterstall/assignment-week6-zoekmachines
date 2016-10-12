@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19851986:0001260</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001260&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001260</item>
+         <item attribuut="Document-id">0000114820</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1985-1986 nummer 340</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Ernsting (C.P.N.) en Wallage (P.v.d.A.). Over een subsidieverzoek van de Anti-Apartheidsbeweging Nederland.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1985-1986 nummer 340</item>
+         <item attribuut="Jaargang">1985_1986</item>
+         <item attribuut="Vraagnummer">340</item>
+         <item attribuut="Indiener">
+            <persoon>Ernsting</persoon>
+            <persoon>Wallage</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1985-10-02</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Brinkman</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-01-13</item>
+         <item attribuut="Beginpagina">669</item>
+         <item attribuut="Eindpagina">670</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1985-1986 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 5 - 1 9 8 6 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="340" onderwerp="" indiendatum="2 oktober 1985)">
+         <vrager partij="" oorsprong="parlement">Ernsting</vrager>
+         <vrager partij="" oorsprong="parlement">Wallage</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="13 januari 1986)">
+         <antwoorder functie="minister" ministerie="Welzijn, Volksgezondheid en Cultuur">Brinkman</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 ">Is het waar dat u een subsidieverzoek  van de Anti-Apartheidsbeweging  Nederland voor een project in het  kader van het internationale jongeren- jaar hebt afgewezen?  </vraag>
+      <vraag nummer="2 ">Is het waar dat deze afwijzing is  toegelicht met het argument dat het  project gericht is op begrip voor en  steun aan één politieke organisatie in  Zuid-Afrika (ANC) en niet past in het  door de regering voorgestane  Zuid-Afrika-beleid?  </vraag>
+      <vraag nummer="3 ">Indien voorgaande vraag bevestigend  beantwoord wordt, kunt u dan  aangeven, waarop deze toelichting  gegrond is, gelet op het feit dat  bedoeld project helemaal niet op één  organisatie gericht is, maar veel  meer en algemener aspecten omvat  alsmede dat ook de regering het  ANC beschouwt als een belangrijke  anti-apartheidsorganisatie, waarmee  nog twee weken geleden door de  regering overleg is gevoerd?  </vraag>
+      <vraag nummer="4 ">Sinds wanneer toetst WVC de inhoud  van subsidieverzoeken aan door de  regering voorgestaan buitenlands  beleid en wat zijn de gevolgen van  een dergelijke toetsing voor de vele  Bent u bereid het subsidieverzoek  van de AABN opnieuw in overweging  te nemen?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1 ">Ja.  </antwoord>
+      <antwoord nummer="2 ">Ja. Deze opvatting werd eerder  verwoord door de Ministers van  Buitenlandse Zaken en voor Ontwik- kelingssamenwerking bij de kamerbe- handeling op 6 februari van de notitie  «Bevordering veranderingsprocessen  in Zuid-Afrika».  </antwoord>
+      <antwoord nummer="3 ">Het betreffende project heeft  betrekking op jongeren van het «ANC  Freedom College» en is derhalve te  beschouwen als directe steun aan  een Zuidafrikaanse politieke groepe- ring. Dergelijke steun is in het licht  van het zgn. tweede-spoorbeleid  uitgesloten. Overigens acht de  regering het van groot belang om  met de verschillende zich tegen de  apartheid verzettende Zuidafrikaanse  politieke bewegingen regelmatige  contacten op politiek niveau te  onderhouden.  </antwoord>
+      <antwoord nummer="4 ">Internationale activiteiten van het  Ministerie van WVC worden indien  daaraan aspecten van buitenlands  beleid zijn verbonden steeds getoetst  plaatshebben, kunnen eventuele  afwijzingen tot een minimum worden  beperkt.  </antwoord>
+      <antwoord nummer="5 ">Nader overleg heeft geleid tot een  afwijzende conclusie, zodat het  antwoord ontkennend luidt.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="TBS-instellingen?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Stuger, Eerdmans en Schonewille (allen LPF) aan de minister van Justitie over de recidivecijfers van het CBS. (Ingezonden 19 augustus 2002)</item>
+         <item attribuut="Bestand">11Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V010214010
+</item>
+         <item attribuut="Inhoud">Vragen over de recidivecijfers van verschillende categorieën TBS-ers.</item>
+         <item attribuut="Rubriek">Criminaliteit en openbare orde (Gevangeniswezen en penitentiair recht) Strafrecht en strafprocesrecht (Straffen)</item>
+         <item attribuut="Trefwoorden">Recidive TBS</item>
+         <item attribuut="Vindplaats">Kamervragen 2001-2002, vraagnr. 2010214010, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2010214010</item>
+         <item attribuut="Indiener">
+            <persoon partij="LPF">Stuger</persoon>
+            <persoon partij="LPF">Eerdmans</persoon>
+            <persoon partij="LPF">Schonewille</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2002-08-19</item>
+         <item attribuut="Document-id">V010214010</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2001–2002" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 2001–2002, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2002"/>
+      <vraagdata vraagnummer="2010214010" onderwerp="" indiendatum="2002-08-19">
+         <vrager partij="LPF" oorsprong="parlement">Stuger</vrager>
+         <vrager partij="LPF" oorsprong="parlement">Eerdmans</vrager>
+         <vrager partij="LPF" oorsprong="parlement">Schonewille</vrager>
+         <vraagt-aan>de minister van Justitie</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1">Wat zijn de algemene recidivecijfers voor TBS? </vraag>
+      <vraag nummer="2">Wat is het recidivecijfer van TBS-ers voor seksuele geweldsdelicten ten aanzien van kinderen in absolute en relatieve zin? </vraag>
+      <vraag nummer="3">Wat is het recidivecijfer van TBS-ers voor specifiek kindermoordenaars in absolute en relatieve zin? </vraag>
+      <vraag nummer="4">Wat is het recidivecijfer van TBS-ers tijdens (proef)verlof? </vraag>
+      <vraag nummer="5">Hoeveel TBS-ers (procentueel en absoluut) komen meermalen in een TBS-kliniek terecht? </vraag>
+      <vraag nummer="6">Wat zijn de totale kosten van </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

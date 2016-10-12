@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Worden door vergunningverlenende" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001860</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001860&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001860</item>
+         <item attribuut="Document-id">0000020246</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 841</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Willems (Groen Links) over een onderzoek naar de lozing van chemicaliën door chemische fabrieken.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 841</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">841</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Willems</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-08-13</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Alders</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-08-28</item>
+         <item attribuut="Beginpagina">1749</item>
+         <item attribuut="Eindpagina">1750</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1749" allpagenumbers="1749" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="841" onderwerp="een onderzoek naar de lozing van chemicalién door chemische fabrieken." indiendatum="1992-08-13">
+         <vrager partij="Groen Links" oorsprong="parlement">Willems</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1" voetnoot="1">Hebt u kennis genomen van het wereldwijde onderzoek dat door de milieu-organisatie Friends of the Earth is verricht naar de lozing van chemicaliën door chemische fabrieken? <voetnoot nummer="1"/>Hoe is te verklaren dat, naar uit dit onderzoek blijkt, de chemische industrieën uit Europa veel grotere hoeveelheden chemicaliën op het oppervlaktewater lozen dan vergelijkbare industrieën in de Verenigde Staten? Deelt u de mening, dat niet alleen de soepeler vergunningvoorwaarden in Europa maar ook de openbaarheid van lozingsgegevens zoals de Verenigde Staten die kennen een verklaren kan vormen voor het verschil in geloosde hoeveelheden? </vraag>
+      <vraag nummer="3">Bent u bereid te komen tot afspraken met het bedrijfsleven en/of tot wetgeving die ertoe leiden, dat ook in ons land de lozingsgegevens van chemische concerns openbaar worden? Wat is op dit punt de stand van zaken in het EG-overleg? Welke inzet kiest de Nederlandse regering in dit overleg? overheden regelmatig metingen verricht naar actuele lozingen en gecontroleerde of deze blijven binnen de vergunningvoorwaarden? Zo ja, stemmen de door Friends of the Earth gepresenteerde lozingsgegevens van Nederlandse chemische bedrijven overeen met de bij de verschillende overheden bekende lozingsgegevens en met de in verschillende vergunningen geformuleerde voorwaarden? Zo neen, waarom niet? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1992-07-30" bron=" De Volkskrant"> De Volkskrant, 30 juli 1992</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+   <mededeling mededeler="Alders" functie="minister" afdeling="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer" mededelingdatum="1992-08-28">Mededeling van minister Alders (Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer). (Ontvangen 28 augustus 1992) Met verwijzing naar uw brief van 14 augustus jl. moet ik u tot mijn spijt mededelen dat ik de schriftelijke vragen van het lid der Kamer Willems inzake een onderzoek naar de lozing van chemicaliën door chemische fabrieken, niet binnen de gebruikelijke termijn kan beantwoorden. Reden hiervoor is dat er enige tijd nodig is voor interdepartementale afstemming met het ministerie van Verkeer en Waterstaat. </mededeling>
+</kvr>

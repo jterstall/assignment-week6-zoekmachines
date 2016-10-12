@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19931994:0001466</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001466&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001466</item>
+         <item attribuut="Document-id">0000003977</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 252</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Tommel (D66) over het schenden van de EG aanbestedingsrichtlijnen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 252</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">252</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Tommel</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-12-03</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Andriessen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-01-17</item>
+         <item attribuut="Beginpagina">511</item>
+         <item attribuut="Eindpagina">512</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de lerien der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="511" allpagenumbers="511 512" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN0171 7T)B" uitgever=""/>
+      <vraagdata vraagnummer="252" onderwerp="het schenden van cle EG aanbestedingsrichtlijnen." indiendatum="3 december 1993) 1 Is het waar dat Rijkswaterstaat op grote schaal de EG aanbestedingsrïchtlijnen schendt">
+         <vrager partij="D66" oorsprong="parlement">Tommel</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="minister" ministerie="Economische Zaken">Andriessen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="3">? Welke acties worden ondernomen om deze situatie te verbeteren? <voetnoot nummer="3"/>Zijn er aanwijzingen dat ook in andere overheidssectoren en aan de overheid gelieerde sectoren niet wordt aanbesteed volgens de EG richtlijnen? Wat is in dit kader uw reactie op het onderzoek van mr. Elisabetta Manunza, waaruit blijkt dat de Nederlandse overheid het niet zo nauw neemt met de EG-aanbestedingsrichtlijnen? </vraag>
+      <vraag nummer="7" voetnoot="4 5">
+         <voetnoot nummer="4"/>Is hct niet wenselijk, dat nieuwe initiatieven worden ontplooid opdat aanbestedingen, conform de in EG richtlijnen aangegeven procedures plaatsvinden? <voetnoot nummer="5"/>Op welke wijze zullen eventuele boeteclaims worden verhaald, die uit Brussel aan de Nederlandse centrale overheid worden opgelegd, als gevolg van nalatigheid van lokale overheden en instellingen bij het naleven van de EG-richtlijnen? </vraag>
+      <vraag nummer="1"/>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

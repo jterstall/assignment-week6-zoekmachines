@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0001707</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001707&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001707</item>
+         <item attribuut="Document-id">0000004218</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 493</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Van Houwelingen en Koffeman (beiden (CDA) over de nucleaire opwerkingsfabriek THORP.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 493</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">493</item>
+         <item attribuut="Indiener">
+            <persoon partij="(CDA">Van Houwelingen</persoon>
+            <persoon partij="(CDA">Koffeman</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-04-22</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Kooijmans</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-05-16</item>
+         <item attribuut="Beginpagina">1003</item>
+         <item attribuut="Eindpagina">1004</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1003" allpagenumbers="1003" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever=""/>
+      <vraagdata vraagnummer="493" onderwerp="de nucleaire opwerkingsfabriek THORP." indiendatum="1994-04-22">
+         <vrager partij="(CDA" oorsprong="parlement">Van Houwelingen</vrager>
+         <vrager partij="(CDA" oorsprong="parlement">Koffeman</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-05-16">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">Kooijmans</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Hebt u kennis genomen van de maatregelen met betrekking tot safeguards in het algemeen en non-proliferatie waarborgen voor de nucleaire opwerkingsfabriek THORP? </vraag>
+      <vraag nummer="2">Zijn de getroffen maatregelen met betrekking tot de non-proliferatie maatregelen toereikend? Zo ja, waarom? </vraag>
+      <vraag nummer="3">Heeft de Nederlandse regering een bijzondere verantwoordelijkheid voor de uit Nederland afkomstige splijtstoffen en de verkregen producten en afvalstoffen door opwerking? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">In het kader van het Non-Proliferatieverdrag (NPV) zijn door de Internationale Organisatie voor Atoomenergie (IAEA) en, in EU-verband, door de Europese Organisatie voor Atoomenergie(Euratom), waarborgen opgesteld welke worden toegepast om het vreedzaam gebruik van nucleaire installaties zekerte stellen. Voor de Thermal Oxide Reprocessing Plant (THORP) in het Britse Sellafield zijn naast de gebruikelijke waarborgen nog specifieke maatregelen getroffen om elk proliferatie-risico tegen te gaan (zie het antwoord op vraag 2). </antwoord>
+      <antwoord nummer="2">De Regering is van oordeel dat de voor THORP geldende non-proliferatiemaatregelen afdoende garantie verschaffen dat er bij opwerking geen nucleair materiaal wordt onttrokken voor wapendoeleinden. Het standaard waarborgenconcept op grond waarvan ondermeer controle van de splijtstofboekhouding plaatsvindt, is voor THORP aangevuld met een aantal maatregelen waardoor een effectieve controle wordt vergemakkelijkt. Zo zijn Euratom-inspecteurs betrokken geweest bij het ontwerp en de bouw van de fabriek. Het Euratom-inspectoraat beschikt over rechtstreekse toegang tot de computers van de exploitatiemaatschappij van THORP, de British Nuclear Fuels Limited (BNFL). Bovendien is er permanent een Euratom-inspecteur aanwezig op het THORP-complex. Verder zijn de betrokken landen partij bij het NPV en hebben zij allen de Nuclear Suppliers Guidelines onderschreven. Ditzijn internationaal overeengekomen voorwaarden voor de export van nucleair materiaal, gericht op het voorkomen van proliferatie. Naast deze waarborgmaatregelen bestaan er ter voorkoming van diefstal en sabotage een aantal in lAEA-kader overeengekomen regelingen voor opslag en transport van plutonium die door het Verenigd Koninkrijk en de andere betrokken landen zijn onderschreven. </antwoord>
+      <antwoord nummer="3">Het elektriciteitsbedrijf dat de brandstofstaven ter opwerking aanbiedt, in dit geval de Gemeenschappelijke Kernenergiecentrale Nederland, blijft in beginsel verantwoordelijk voor de materialen die na opwerking worden verkregen. De Regering heeft als voornaamste verantwoordelijkheid voor wat betreft het afgescheiden plutonium die, welke voortkomt uit door haar internationaal aangegane verplichtingen. Ten aanzien van de gang van zaken met betrekking tot de afvalprodukten zijn in 1978 met de Britse regering per notawisseling afspraken gemaakt. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

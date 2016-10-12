@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="spoedig mogelijk plaatsvinden." aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0000976</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0000976&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0000976</item>
+         <item attribuut="Document-id">0000011280</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 44</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Brouwer (GroenLinks) over commerciële nevenactiviteiten van de Nederlandse politie.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 44</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">44</item>
+         <item attribuut="Indiener">
+            <persoon partij="GroenLinks">Brouwer</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-09-02</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Dales</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-10-05</item>
+         <item attribuut="Beginpagina">95</item>
+         <item attribuut="Eindpagina">96</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld rloor de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="95" allpagenumbers="95" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="'s Gravenhage 1992"/>
+      <vraagdata vraagnummer="" onderwerp="" indiendatum="">
+         <vrager partij="GroenLinks" oorsprong="parlement">Brouwer</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="44">Vragen van het lid Brouwer (Groen Links) over commerciële nevenactiviteiten van de Nederlandse politie. (Ingezonden 2 september 1992) </vraag>
+      <vraag nummer="1">Is het u bekend, dat de korpschef en een adjudant van de gemeentepolitie in Sittard eigenaar zijn van de commercieel opererende firma «Opleidingsinstituut voor Politie en Beveiliging»? </vraag>
+      <vraag nummer="2">Deelt u de mening, dat door de uitoefening van dit commerciële bedrijf, «de behoorlijke vervulling van de plichten als ambtenaar» van beide politiemannen in gevaar kan worden gebracht in de zin van artikel 91 van het Ambtenaren Reglement Gemeentepolitie 1958, te meer daar de betrokken adjudant is aangesteld als Regionaal Coordinator Voortgezette Opleiding en Vorming voor de politie in Zuid-Nederland? </vraag>
+      <vraag nummer="3">Voert genoemd bedrijf de ster van de Nederlandse Politie als wapen? Zo ja, vindt u dat zo'n gebruik van politiesymbolen uiterst onwenselijk en schadelijk kan zijn voor het aanzien van de politie? </vraag>
+      <vraag nummer="4">Bent u door de burgemeester van Sittard of anderszins op de hoogte gesteld van de aan deze firma verleende ontheffing en de gronden waarop deze is verleend? Worden in het algemeen ontheffingen op grond van artikel 91 lid 2 van het Ambtenaren Reglement Gemeentepolitie aan het Rijk gemeld? </vraag>
+      <vraag nummer="5">Welke maatregelen denkt u in zijn algemeenheid te nemen tegen de toenemende commerciële nevenactiviteiten van de Nederlandse politie? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+   <mededeling mededeler="Dales" functie="minister" afdeling="Binnenlandse Zaken" mededelingdatum="1992-10-5">Mededeling van minister Dales (Binnenlandse Zaken), mede namens de minister van Justitie. (Ontvangen 5 oktober 1992) Mede namens de minister van Justitie deel ik u mee, dat het tot mijn spijt niet mogelijk is de schriftelijke vragen van het lid Brouwer, over commerciële nevenactiviteiten van de Nederlandse politie, binnen de gestelde termijn te beantwoorden, aangezien interdepartementaal overleg nog niet is afgerond. Beantwoording zal zo </mededeling>
+</kvr>

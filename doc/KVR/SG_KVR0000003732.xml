@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="2">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19931994:0001221</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001221&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001221</item>
+         <item attribuut="Document-id">0000003732</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 7</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Aarts (CDA) en Melkert (PvdA) over het Surinaamse smeergeldschandaal.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 7</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">7</item>
+         <item attribuut="Indiener">
+            <persoon>Aarts</persoon>
+            <persoon>Melkert</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-08-24</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Pronk</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-09-21</item>
+         <item attribuut="Beginpagina">13</item>
+         <item attribuut="Eindpagina">14</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994 Aanhangsel van de Handelingen" typehandeling="Vergaderjaar 1993-1994 Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="s Gravenhage 1993 Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel 13" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat __ .. . nnn * rm * *n s Gravenhage 1993 Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel 13"/>
+      <vraagdata vraagnummer="•&quot;•&quot;^^^^™&quot;^^^^™&quot;&quot;" onderwerp="" indiendatum="">
+         <vrager partij="" oorsprong="parlement">Aarts</vrager>
+         <vrager partij="" oorsprong="parlement">Melkert</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-09-21">
+         <antwoorder functie="minister" ministerie="Ontwikkelingssamenwerking">Pronk</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1">^^^"^" ambtenaar van het Ministerie van ~j Handel en Industrie op non-aktief gesteld. Inmiddels is de president Vragen van de leden Aarts (CDA) en van de Centrale Bank met verlof Melkert (PvdA) over het gestuurd. Laatstgenoemde zal zijn Surinaamse smeergeldschandaal. werkzaamheden slechts mogen (Ingezonden 24 augustus 1993) hervatten na toestemming van de 1 Surinaamse Regering. In het licht Kent u de recente berichten' over de * an dez f °ntwikkelingen geef ik er vermoedelijke rol van de president ^e voorkeur aan. de resultaten van van de Centrale Bank van Suriname  het  '"gestelde onderzoek af te in het momenteel door Justitie wachten. onderzochte zogeheten smeergeldschandaal? </vraag>
+      <vraag nummer="2">Wilt u de Surinaamse regering om opheldering vragen met het oog op de rol van de Centrale Bank in het monetaire en economische aanpassingsbeleid? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">De Minister van Justitie en Politie van Suriname Soeshiel Girjasing heeft aan de procureur-generaal mr. C. G. de Randamie opdracht gegeven om het zogeheten «smeergeldschandaal» te onderzoeken. De Surinaamse autoriteiten hebben hangende dit onderzoek, een in het verband met dit schandaal genoemde hoge </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

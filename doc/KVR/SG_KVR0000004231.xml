@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="zal geschieden." aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0001720</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001720&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001720</item>
+         <item attribuut="Document-id">0000004231</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 506</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Korthals en Van Rey (VVD) over een financiële bijdrage uit het auditorenfonds.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 506</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">506</item>
+         <item attribuut="Indiener">
+            <persoon>Korthals</persoon>
+            <persoon>Van Rey</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-04-22</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Ritzen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-05-19</item>
+         <item attribuut="Beginpagina">1029</item>
+         <item attribuut="Eindpagina">1030</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1029" allpagenumbers="1029 10" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgeverij Plantijnstraat s Gravenhage 1994"/>
+      <vraagdata vraagnummer="506" onderwerp="een financiële bijdrage uit het auditorenfonds." indiendatum="1994-04-22">
+         <vrager partij="" oorsprong="parlement">Korthals</vrager>
+         <vrager partij="" oorsprong="parlement">Van Rey</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Kent u de recente brief van de Fiscale inlichtingen en opsporingsdienst (FIOD) aan de onderwijsinstellingen waarin deze de universiteiten en hoge scholen verzoekt de namen en financiële bijdragen van auditorstudenten vrij te geven ten einde hun over deze bijdragen een aanslag voor de inkomstenbelasting te kunnen opleggen? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Zijn de universiteiten en hogescholen wettelijk verplicht aan dit verzoek gehoor te geven? Zo ja, welke is de wettelijke grondslag van dit verzoek? </vraag>
+      <vraag nummer="3">Dient de financiële bijdrage aan auditoren, inclusief een reiskostenvergoeding, volledig als belastbaar inkomen te worden beschouwd? In welke zin wordt afgeweken van de fiscale behandeling van studenten die studiefinanciering krachtens de Wet op de Studiefinanciering ontvangen? </vraag>
+      <vraag nummer="5">Deelt u de mening, dat de financiële bijdrage uit het auditorenfonds ingevolge de Wet op het Hoger Onderwijs en Wetenschappelijk Onderzoek alleen mag worden verstrekt aan studerenden die een zeer goede reden hebben om hun inschrijvingsduur te verlengen teneinde aisnog te kunnen afstuderen? </vraag>
+      <vraag nummer="6">Deelt u de mening, dat een financiële bijdrage uit het auditorenfonds gelijk dient te worden behandeld als de studiefinanciering in de zin van de Wet op de Studiefinanciering? Zo nee, waarom niet? Zo ja, bent u bereici te bewerkstelligen, dat auditoren in fiscaal opzicht gelijk gesteld worden aan studerenden die recht op studiefinanciering hebben? ' Trouw van 21 april 1994. </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+   <mededeling mededeler="Ritzen" functie="minister" afdeling="Onderwijs en Wetenschappen" mededelingdatum="1994-05-19">Mededeling van minister Ritzen (Onderwijs en Wetenschappen), mede namens de staatssecretaris van Financiën. (Ontvangen 19 mei 1994) Hierbij deel ik u, mede namens de staatssecretaris van Financiën, mede dat de bij uw brief toegezonden vragen van de leden van uw Kamer, Korthals en Van Rey, inzake een financiële bijdrage uit het auditorenfonds tot mijn spijt niet binnen de gebruikelijke termijn kunnen worden beantwoord. Reden van de vertraging is dat het overleg met het ministerie van Financiën nog niet is afgerond. Gaarne zeg ik u toe, dat beantwoording zo spoedig mogelijk </mededeling>
+</kvr>

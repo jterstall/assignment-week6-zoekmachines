@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="10">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Hindriks (PvdA) aan de staatssecretaris van Economische Zaken over software patenten. (Ingezonden 26 februari 2002); Antwoord</item>
+         <item attribuut="Bestand">17Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR15225
+</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van persberichten op internet over een Europese ontwerprichtlijn voor softwarepatenten.</item>
+         <item attribuut="Rubriek">Burgerlijk recht en burgerlijk procesrecht (Intellectueel en industrieel eigendom) Communicatie, media en informatievoorziening (Hard- en software)</item>
+         <item attribuut="Trefwoorden">Octrooien Software</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2001-2002, nr. 766, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2010206920</item>
+         <item attribuut="Afkomstig_van">Economische Zaken (EZ)</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Hindriks</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2002-03-06</item>
+         <item attribuut="Datum_indiening">2002-02-26</item>
+         <item attribuut="Document-id">KVR15225</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2001–2002" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1605" allpagenumbers="1605 1606" vetnummer="2010206920" code="" lopendefooter="Tweede Kamer, vergaderjaar 2001–2002, Aanhangsel" filenaam="KVR15225" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2002"/>
+      <vraagdata vraagnummer="766" onderwerp="" indiendatum="2002-02-26">
+         <vrager partij="PvdA" oorsprong="parlement">Hindriks</vrager>
+         <vraagt-aan>de staatssecretaris van Economische Zaken</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2002-03-6">
+         <antwoorder functie="staatssecretaris" ministerie="Economische Zaken">Ybema</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="10">
+      <vraag nummer="1" voetnoot="1">Heeft u kennisgenomen van het persbericht <voetnoot nummer="1"/>en de frequently asked questions over de ontwerprichtlijn inzake software patenten die vandaag door de EU zijn gepubliceerd? </vraag>
+      <vraag nummer="2" voetnoot="2">Heeft u kennisgenomen van het commentaar <voetnoot nummer="2"/>van software organisaties op deze ontwerprichtlijnen? Hoe beoordeelt u dit commentaar? </vraag>
+      <vraag nummer="3">Zijn de voorstellen van de EU in overeenstemming met de inzet van de Nederlandse regering? Zo neen, welke acties bent u voornemens te ondernemen om de voorstellen alsnog in overeenstemming te brengen met deze inzet? </vraag>
+      <vraag nummer="4">Houden de voorstellen van de EU in voldoende mate rekening met gewenste criteria inzake het erkennen van softwarepatenten? Zo ja, op grond waarvan? Zo neen, hoe denkt u de criteria, zoals die zijn ontwikkeld door de Vereniging Open Source Nederland (VOSN) en de Federatie Nederlandse IT (FENIT) alsnog in voldoende mate in de richtlijn verwerkt te krijgen? </vraag>
+      <vraag nummer="5" voetnoot="3">Op welke wijze heeft u een actieve rol gespeeld <voetnoot nummer="3"/>bij de totstandkoming van deze ontwerprichtlijn? </vraag>
+      <vraag nummer="6" voetnoot="4">Op welke wijze zult u alsnog de door u toegezegde <voetnoot nummer="4"/>initiatieven om scherpe criteria ingevoerd te krijgen nemen in het Europees overleg over deze ontwerprichtlijn? </vraag>
+      <vraag nummer="7">Is het mogelijk om op grond van de nu bekende tekst van de ontwerprichtlijn te komen tot het ongeldig verklaren van triviale software-octrooien? Zo ja, op grond waarvan meent u dat en welke software-octrooien zal dat betreffen? Zo neen, bent u voornemens daartoe nadere acties te ondernemen? </vraag>
+      <vraag nummer="8">Is het waar dat deze ontwerprichtlijn is geschreven door Francisco Mingorance? Indien de directe verantwoordlijkheid elders ligt, is het dan waar dat Francisco Mingorance een belangrijke rol heeft vervuld bij het schrijven? Zo ja, hoe beoordeelt u dan zijn relatie met de Business Software Alliance en de daarin vertegenwoordigde grote Amerikaanse software-ondernemingen? </vraag>
+      <vraag nummer="9">Bent u bereid om ten aanzien van de wijze van totstandkoming van deze ontwerprichtlijn, alsmede de invloed daarop van externe adviseurs, nadere informatie te vragen aan de Europese Commissie? </vraag>
+      <vraag nummer="10">Bent u bereid om nader overleg te voeren met de VOSN en de FENIT over deze ontwerprichtlijn van de EU? Kan de Kamer nadere berichten over dat overleg tegemoet zien? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" weblink="http://eu.int/comm/pressroom/indexen.htm">http://eu.int/comm/pressroom/indexen.htm</noot>
+         <noot nummer="2" weblink="http://www.eurolinux.org/news/warn01C/indexen.html">http://www.eurolinux.org/news/warn01C/indexen.html</noot>
+         <noot nummer="3" datum="2001-03-14" bron="Zie Kamerstuk 21 670 nr. 14 over een algemeen overleg gehouden">Zie Kamerstuk 21 670 nr. 14 over een algemeen overleg gehouden, 14 maart 2001</noot>
+         <noot nummer="4" titel="Vervolgens de staatssecretaris is deze samenvatting correct">Uit Kamerstuk 21 670 nr. 14, «De staatssecretaris gaat niet akkoord met wijzigingen van het verdrag zonder verbeterde regels. Hij gaat de strijd in Europa aan tegen triviale octrooien. Hij zal initiatieven nemen waar het gaat om scherpe criteria voor het vernauwen van de mazen, in overleg met onder andere het BIE, de FENIT en de VOSN. Hij zal ook kijken naar verkorting van de termijn. Er komt voorlichting aan het MKB en voor het reces of in ieder geval vlak daarna zal er een evaluatie komen.» «En «Vervolgens de staatssecretaris is deze samenvatting correct»</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="10">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Ja. Ik zal dit commentaar meewegen bij de nadere bestudering van de ontwerp-richtlijn en bij de consultatie van de belanghebbenden in dat verband. </antwoord>
+      <antwoord nummer="3" voetnoot="1">Ik ben blij met de conclusie van de Commissie dat het technische karakter van geoctrooieerde uitvindingen voorop blijft staan en dat zij er uitdrukkelijk vanaf ziet de deur open te zetten voor de octrooiering van software en business methods als zodanig. Dat laat onverlet dat wij de voorgestelde richtlijn kritisch zullen benaderen. De onderhandelingen in Brussel zullen gevoerd worden met behulp van de uitkomsten van de diverse onderzoeken die ik heb laten verrichten naar de economische en juridische aspecten van het softwareoctrooi. De EZ-publicatie De Juridische en economische aspecten van het softwareoctrooi, publicatienr. 01/20 (aangeboden aan de Kamer met mijn brief, 5 december 2001, kenmerk I/II/KB/01059514) is de weerslag daarvan. Een onderdeel van dat onderzoek was een discussiebijeenkomst met VOSN/FENIT over hun voorstellen voor criteria voor de octrooirechtelijke bescherming voor computerprogrammatuur. Verder heb ik onderzoek laten verrichten naar de toepasbaarheid van de WBSO-criteria op aanvragen van softwareoctrooien. De uitkomsten hiervan zijn u met de genoemde EZ-publicatie aangeboden en zijn aan de orde geweest tijdens het AO van 13 december 2001 <voetnoot nummer="1"/>. Verder zal de richtlijn worden voorgelegd aan belanghebbende kringen voor commentaar. </antwoord>
+      <antwoord nummer="4">De voorstellen van de EU houden voldoende rekening met de internationaal voorgeschreven criteria inzake de octrooiering van uitvindingen. Zoals is gebleken bij het bestuderen van de criteria van VOSN en FENIT en zoals bleek tijdens de discussiebijeenkomst die gehouden is met beide organisaties, bieden de door hen voorgestelde criteria weinig houvast om het beoogde effect te bereiken (zie de genoemde EZ-publicatie, p. 41 e.v. en mijn brief aan uw Kamer d.d. 5 december, p. 9, beide besproken tijdens het AO van 13 december 2001). </antwoord>
+      <antwoord nummer="5">Er is eind november overleg gevoerd met de desbetreffende medewerkers van het DG Interne Markt van de Europese Commissie, waarbij hun verslag is gedaan van onze bevindingen. Ook eerder bestonden informele contacten tussen mijn ambtenaren en die van het DG Interne Markt over de wenselijkheid en de inhoud van de richtlijn. De richtlijn komt op hoofdpunten (het niet volgen van de VS-praktijk en bestendiging van de huidige praktijk van het Europees Octrooibureau) overeen met deze Nederlandse inbreng. </antwoord>
+      <antwoord nummer="6">Ik zal bij de onderhandelingen over de ontwerp-richtlijn putten uit het onder vraag 3 genoemde onderzoek, dat immers ook bedoeld was om een basis te bieden voor de standpuntbepaling van Nederland in die onderhandelingen. Uit dat onderzoek is overigens gebleken dat er weinig mogelijkheden zijn – zowel praktisch gezien als binnen de verplichtingen die met name het TRIPs-verdrag (Verdrag inzake de handelsaspecten van de intellectuele eigendom, bijlage bij het Wereldhandelsverdrag) ons opleggen – om de bestaande, internationaal aanvaarde en vastgelegde octrooicriteria verder aan te scherpen. </antwoord>
+      <antwoord nummer="7">Het ongeldig verklaren van reeds bestaande, zogenaamde triviale octrooien is voorbehouden aan de rechter. Dat zal doorgaans gebeuren aan de hand van de wetgeving die gold op het moment waarop het octrooi werd aangevraagd. Eventuele toekomstige wijzigingen in de huidige wetgeving zullen dus niet kunnen leiden tot ongeldigverklaring van bestaande octrooien. Wel verwacht ik een positieve invloed van de harmonisatie van de nationale wetten door middel van de nu voorgestelde richtlijn op de verlening van «triviale» octrooien in de nabije toekomst. Door de harmonisatie zal de ruimte om triviale octrooien te verlenen (en om een beroep op nietigheid van dergelijke octrooien door rechters te laten afwijzen) worden ingeperkt. Die harmonisatie zal de regelgeving tevens transparanter maken. </antwoord>
+      <antwoord nummer="8">De gesuggereerde betrokkenheid van Francisco Mingorance wordt door zowel de Commissie als door de BSA zelf ontkend. Wel geeft Brussel toe, blijkens een artikel in het Financieel Dagblad van 27 februari 2002, p. 3, dat aan eerdere versies van het BSA-document tekstdelen zijn ontleend. </antwoord>
+      <antwoord nummer="9">Het is een feit van algemene bekendheid dat de invloed van lobbyorganisaties groot is. Het richtlijnvoorstel zal zoals altijd kritisch op de inhoud worden beoordeeld. </antwoord>
+      <antwoord nummer="10">Vanzelfsprekend worden contacten gelegd met de belanghebbende kringen buiten de overheid, waaronder VOSN/FENIT. De Kamer wordt op de hoogte gehouden. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1">Kamerstukken 26 628, nr. 5</noot>
+      </noten>
+   </antwoorden>
+</kvr>

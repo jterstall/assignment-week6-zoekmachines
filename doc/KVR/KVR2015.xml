@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Scheltema-de Nie (D66) en Valk (PvdA) over de vernietiging van IDB-dossiers. (Ingezonden 12 oktober 1995); Antwoord</item>
+         <item attribuut="Bestand">13Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR2015
+</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van een bericht in het Parool (7 oktober 1995) over een tussenrapportage van de archiefinspectie, dd. 22 september 1995. In deze rapportage wordt melding gemaakt van de slechte staat van het archief van de Inlichtingendienst Buitenland (IDB) en van een niet geringe vernietiging van IDB-archieven in strijd met de archiefwet.</item>
+         <item attribuut="Rubriek">Criminaliteit en openbare orde (Inlichtingen- en veiligheidsdiensten) Cultuur en taal (Archieven)</item>
+         <item attribuut="Trefwoorden">Archieven Inlichtingen- en veiligheidsdiensten</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 1995-1996, nr. 106, Tweede Kamer</item>
+         <item attribuut="Afkomstig_van">Algemene Zaken</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Scheltema-de Nie</persoon>
+            <persoon partij="PvdA">Valk</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1995-10-18</item>
+         <item attribuut="Datum_indiening">1995-10-12</item>
+         <item attribuut="Document-id">KVR2015</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1995–1996" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="215" allpagenumbers="215" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1995–1996, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgeverij Plantijnstraat ’s-Gravenhage 1995"/>
+      <vraagdata vraagnummer="106" onderwerp="" indiendatum="1995-10-12">
+         <vrager partij="D66" oorsprong="parlement">Scheltema-de Nie</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Valk</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="18 oktober 1995). 1, 2 en 3 De tussenrapportage heb ik op 22 september jl.">
+         <antwoorder functie="minister-president" ministerie="">Kok, Algemene Zaken.</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Bent u op de hoogte van het bestaan van een tussenrapportage van de archiefinspectie, 22 september 1995, waarin melding wordt gemaakt van de slechte staat van het archief van de Inlichtingendienst Buitenland (IDB) en van een niet geringe vernietiging van IDB-archieven in strijd met de Archiefwet? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Bent u bereid de Kamer deze rapportage toe te zenden en deze te voorzien van een reactie van het kabinet? </vraag>
+      <vraag nummer="3">Wanneer kan een eindrapportage tegemoet worden gezien? </vraag>
+      <vraag nummer="4">Wordt overeenkomstig de aanbevelingen van de inspectie op korte termijn tot een institutioneel onderzoek en een beschrijving van de archiefbescheiden overgegaan teneinde tot een toegankelijke staat van het IDB-archief te komen? Zo ja, wanneer komen de resultaten daarvan beschikbaar? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1995-10-7" bron="Zie Parool">Zie Parool, 7 oktober 1995</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1, 2 en 3" voetnoot="1">De tussenrapportage heb ik op 22 september jl. <voetnoot nummer="1"/>ontvangen. Bij brief van gelijke datum is de rapportage aan de Tweede Kamer gezonden. Naar aanleiding van de onderhavige vragen is komen vast te staan dat door een administratieve omissie verspreiding binnen de Kamer niet heeft plaatsgevonden. Dit zal, naar ik vernomen heb, spoedig gebeuren. De tussenrapportage heeft het karakter van een voortgangsbericht en behoeft geen reactie mijnerzijds. Die zal worden gegeven bij de eindrapportage. Deze zal, naar verwachting, eind december worden afgerond en vervolgens met een reactie mijnerzijds aan de Kamer worden aangeboden. </antwoord>
+      <antwoord nummer="4">Naar aanleiding van de tussenrapportage is aangevangen met het institutioneel onderzoek. Dit onderzoek is blijkens de tussenrapportage nodig om tot een eindrapport te komen en zal derhalve in december moeten zijn afgerond. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1" documenttype="Kamerstuk" kamerstuk-id="24 400" documentnummer="8">Kamerstuk 24 400, nr. 8</noot>
+      </noten>
+   </antwoorden>
+</kvr>

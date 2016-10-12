@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19881989:0001028</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001028&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001028</item>
+         <item attribuut="Document-id">0000090627</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1988-1989 nummer 29</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van Es (P.S.P.) over militaire vliegshows.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1988-1989 nummer 29</item>
+         <item attribuut="Jaargang">1988_1989</item>
+         <item attribuut="Vraagnummer">29</item>
+         <item attribuut="Indiener">
+            <persoon partij="PSP">Van Es</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1988-08-31</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Bolkestein</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1988-10-07</item>
+         <item attribuut="Beginpagina">57</item>
+         <item attribuut="Eindpagina">58</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 8 - 1 9 8 9 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 8 - 1 9 8 9 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="29" onderwerp="militaire vliegshows." indiendatum="31 augustus 1988)">
+         <vrager partij="PSP" oorsprong="parlement">Van Es</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="8">
+      <vraag nummer="1 ">Waarom was de eerste reactie van  uw ministerie na het ongeluk in het  Westduitse Ramstein, dat u geen  verbod op militaire vliegshows wilt  uitvaardigen? </vraag>
+      <vraag nummer="1 "/>
+      <vraag nummer="2 ">Acht u de risico's voor het publiek en  de piloten hier te lande zoveel  kleiner dan in bij voorbeeld de  Bondsrepubliek, dat u voortzetting  van deze shows gerechtvaardigd  vindt?  </vraag>
+      <vraag nummer="3 ">Ziet u - evenals de woordvoerder van  uw ministerie - als belangrijkste  functie van de luchtvaartshows de  mogelijkheid tot vlagvertoon?'  </vraag>
+      <vraag nummer="4 ">Deelt u ook zijn mening, dat het extra  risico bij luchtvaartshows  t o t de  piloten beperkt moet zijn?'  </vraag>
+      <vraag nummer="5 ">W a t is uw reactie op de uitspraak van  een Italiaanse parlementariër - naar  aanleiding van het hoge percentage  ongelukken bij het stuntteam van de  Italiaanse luchtmacht - dat het uit  moet zijn met dit soort «hoge  representatiekosten»? </vraag>
+      <vraag nummer="2 "/>
+      <vraag nummer="6 ">Bent u bereid, in navolging van uw  Deense collega, een verbod op  militaire vliegshows alsnog te  overwegen?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="4 ">Militaire vliegdemonstraties worden  uiteraard zó georganiseerd dat de  risico's voor publiek èn vliegers tot  het uiterste  w o r d e n beperkt.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

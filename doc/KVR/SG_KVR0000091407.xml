@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19881989:0001808</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001808&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001808</item>
+         <item attribuut="Document-id">0000091407</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1988-1989 nummer 799</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Franssen (VVD) en Lankhorst (PPR) over terugbetaling van teveel betaalde studietoelage.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1988-1989 nummer 799</item>
+         <item attribuut="Jaargang">1988_1989</item>
+         <item attribuut="Vraagnummer">799</item>
+         <item attribuut="Indiener">
+            <persoon>Franssen</persoon>
+            <persoon>Lankhorst</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-07-25</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Deetman</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-08-17</item>
+         <item attribuut="Beginpagina">1603</item>
+         <item attribuut="Eindpagina">1604</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 8 - 1 9 8 9 " typehandeling="" typedoc=""/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 8 - 1 9 8 9 ,  A a n h a n g s e l " filenaam="" issn-nummer="ISSN 0921 7398 " uitgever="SDU uitgeverij 's Gravenhage 1989 "/>
+      <vraagdata vraagnummer="799" onderwerp="terugbetaling van teveel betaalde studietoelage." indiendatum="25 juli 1989)">
+         <vrager partij="" oorsprong="parlement">Franssen</vrager>
+         <vrager partij="" oorsprong="parlement">Lankhorst</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="17 augustus 1989)">
+         <antwoorder functie="minister" ministerie="Onderwijs en Wetenschappen">D e e t m a n</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1 ">Bent u bereid, totdat nader overleg  met de Tweede Kamer hierover  plaats heeft kunnen vinden,  vooralsnog de tijdelijke gedragslijn,  waarbij studenten de teveel betaalde  studietoelage tot maximaal f 76,44  per maand terugbetalen, te  handhaven en derhalve voorlopig  geen uitvoering te geven aan uw  voornemen de hoogte van het te  verrekenen bedrag vast te stellen op  f 2 0 3 , 3 5 per maand?  </vraag>
+      <vraag nummer="2 ">Zo neen, waarom niet?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1 ">De stand van zaken met betrekking  tot de effectuering van de sedert 1  oktober 1986 geldende regeling is  uiteengezet in het antwoord van 18  juli 1989 op vragen van de heer  Lankhorst.'  Uiteraard ben ik bereid om de Kamer  nader te informeren op dit punt en  daarover desgewenst overleg te  voeren.  De situatie waarbij niet langer een  bedrag van f 76,44 (gebaseerd op de  Regeling Verrekening voorschot  18 + , zoals die is aangepast na het  debat in de Tweede Kamer op 18  juni 1987) voor rekening van teveel  uitbetaalde studiefinanciering anders  dan voor de specifieke doelgroep  van de startvoorschotters wordt  gehanteerd behoeft naar mijn  mening niet te worden opgeschort  totdat eventueel overleg met uw  Kamer heeft kunnen plaatsvinden.  Tijdens het debat in juni 1987 werd  toegezegd de verrekeningsbedragen  voor  w a t bereft de startvoorschotten  te verlagen, van de voor zowel de  startvoorschotten als de daarna  toegekende studiefinanciering  geldende f 203,35 naar f 76,44.  Uitsluitend om uitvoeringstechnische  redenen is vervolgens, onverplicht,  gekozen voor een uniform bedrag  van f 76,44. De thans in het geding  zijnde regeling is op dit punt niet  meer dan correcte uitvoering van de  geldende regeling.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

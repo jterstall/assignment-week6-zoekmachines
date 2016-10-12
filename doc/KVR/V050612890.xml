@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="is?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Atsma en Schreijer-Pierik (beiden CDA) aan de minister van Landbouw, Natuur en Voedselkwaliteit over ploegvergunningen. (Ingezonden 4 mei 2006)</item>
+         <item attribuut="Bestand">15Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V050612890
+</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van een bericht in De Telegraaf van 2 mei 2006 over een uitspraak van de Raad van State waarin gesteld wordt dat boeren een vergunning moeten aanvragen om hun land te ploegen of te draineren.</item>
+         <item attribuut="Rubriek">Landbouw (Landbouwgronden)</item>
+         <item attribuut="Trefwoorden">Landbouwgronden Vergunningen</item>
+         <item attribuut="Vindplaats">Kamervragen 2005-2006, vraagnr. 2050612890, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2050612890</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Atsma</persoon>
+            <persoon partij="CDA">Schreijer-Pierik</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2006-05-04</item>
+         <item attribuut="Document-id">V050612890</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2005–2006" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0506tkkvl2050612890" lopendefooter="Tweede Kamer, vergaderjaar 2005–2006, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2006"/>
+      <vraagdata vraagnummer="2050612890" onderwerp="" indiendatum="2006-05-4">
+         <vrager partij="CDA" oorsprong="parlement">Atsma</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Schreijer-Pierik</vrager>
+         <vraagt-aan>de minister van Landbouw, Natuur en Voedselkwaliteit</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1" voetnoot="1">Heeft u kennisgenomen van de uitspraak van de Raad van State dat boeren die hun land willen ploegen of draineren een vergunning moeten aanvragen? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Voor welke activiteiten en in welke gebieden van Nederland moeten boeren in het vervolg een vergunning aanvragen? </vraag>
+      <vraag nummer="3">Door wie worden of zijn de activiteiten bepaald die vergunningplichtig zijn? Wie wijst de betreffende gebieden aan? </vraag>
+      <vraag nummer="4">Op grond van welke wet- en regelgeving zijn ondernemers verplicht om deze vergunning aan te vragen? </vraag>
+      <vraag nummer="5">Klopt het bericht dat de betreffende ondernemers zélf voor de kosten van mogelijk archeologisch onderzoek opdraaien? </vraag>
+      <vraag nummer="6">Hoe verhoudt deze vergunningplicht zich tot het streven van het kabinet om te komen tot vermindering van de regelgeving en verlaging van de administratieve lastendruk? </vraag>
+      <vraag nummer="7">Bent u bereid de wet- en regelgeving zodanig aan te passen dat voor activiteiten als ploegen en draineren niet standaard een vergunning nodig </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" datum="2006-05-2" bron="De Telegraaf" titel="Boer moet vergunning aanvragen voor ploegen">De Telegraaf, 2 mei 2006: «Boer moet vergunning aanvragen voor ploegen»</noot>
+      </noten>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Noorman-den Uyl en Crone (beiden PvdA) aan de staatssecretaris van Financiën over de verrekening van toeslagen met inkomstenbelasting. (Ingezonden 16 februari 2006); Antwoord</item>
+         <item attribuut="Bestand">15Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR25122
+</item>
+         <item attribuut="Inhoud">De belastingdienst verrekent de huur- en zorgtoeslag met nog openstaande belastingaanslagen, hoewel dit volgens de Algemene wet inkomensafhankelijke regelingen niet is toegestaan.</item>
+         <item attribuut="Rubriek">Belastingen (Belastingdiensten) Belastingen (Belastingontheffing, -teruggave, -vermindering, -vrijstelling)</item>
+         <item attribuut="Trefwoorden">Belastingdienst Toeslagen</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2005-2006, nr. 1058, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2050608140</item>
+         <item attribuut="Afkomstig_van">Financiën (FIN)</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Noorman-den Uyl</persoon>
+            <persoon partij="PvdA">Crone</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2006-03-14</item>
+         <item attribuut="Datum_indiening">2006-02-16</item>
+         <item attribuut="Document-id">KVR25122</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2005–2006" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="2245" allpagenumbers="2245" vetnummer="2050608140" code="0506tkkvr1058" lopendefooter="Tweede Kamer, vergaderjaar 2005–2006, Aanhangsel" filenaam="KVR25122" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2006"/>
+      <vraagdata vraagnummer="1058" onderwerp="" indiendatum="2006-02-16">
+         <vrager partij="PvdA" oorsprong="parlement">Noorman-den Uyl</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Crone</vrager>
+         <vraagt-aan>de staatssecretaris van Financiën</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2006-03-14">
+         <antwoorder functie="staatssecretaris" ministerie="Financiën">Wijn</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1">Bent u ervan op de hoogte dat de Belastingdienst de huurtoeslag en de zorgtoeslag verrekent met openstaande belastingaanslagen voor de inkomstenbelasting? </vraag>
+      <vraag nummer="2">Bent u ervan op de hoogte dat conform artikel 45 van de Algemene wet inkomensafhankelijke regelingen (AWIR) het niet toegestaan is om de toeslagen uit de AWIR te verrekenen met nog openstaande belastingaanslagen voor de inkomstenbelasting? </vraag>
+      <vraag nummer="3">In hoeveel gevallen heeft deze verrekening van toeslagen met openstaande vorderingen van de inkomstenbelasting plaatsgevonden? </vraag>
+      <vraag nummer="4">Wat heeft deze onjuiste handelswijze van de Belastingdienst veroorzaakt? </vraag>
+      <vraag nummer="5">Welke maatregelen heeft u getroffen om in alle gevallen deze verrekeningen terug te draaien en wanneer kunnen klanten van de Belastingdienst hier bericht over ontvangen? Zo neen, bent u voornemens dit alsnog te doen? </vraag>
+      <vraag nummer="6">Hoe gaat u een dergelijke verrekening tussen toeslagen en inkomstenbelasting in de toekomst voorkomen? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1 en 2">Ja. </antwoord>
+      <antwoord nummer="3">Deze verrekening heeft in 1139 gevallen plaatsgevonden. </antwoord>
+      <antwoord nummer="4">Voor de reguliere uitbetalingen van toeslagen werkt het automatiseringssysteem op de juiste wijze. Daarnaast vinden echter ook uitbetalingen plaats naar aanleiding van het handmatige verwerken van aanvragen, bijvoorbeeld bij herstel van betalingen die door de bank zijn geweigerd etc.. Deze betalingen gaan via een bestaand proces dat niet voor de uitbetaling van toeslagen, maar voor belastingheffing is ingericht. In dat proces wordt de mogelijkheid tot verrekenen onderzocht voordat tot uitbetalen wordt overgegaan. </antwoord>
+      <antwoord nummer="5 en 6">Er zijn inmiddels aanpassingen in de automatisering doorgevoerd om te voorkomen dat een dergelijke verrekening nog plaats kan vinden. De betrokken aanvragers hebben inmiddels een brief ontvangen waarin uitleg wordt gegeven over de onterechte verrekening en wordt aangegeven dat de toeslag alsnog volledig wordt uitbetaald. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

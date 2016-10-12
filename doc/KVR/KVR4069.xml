@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Van den Doel en H. G. J. Kamp (beiden VVD) over uitbreiding van het civiel medegebruik van zendmasten. (Ingezonden 20 november 1996); Antwoord</item>
+         <item attribuut="Bestand">14Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR4069
+</item>
+         <item attribuut="Rubriek">Communicatie, media en informatievoorziening (Radio en televisie) Communicatie, media en informatievoorziening (Telecommunicatie) Veiligheidsbeleid en defensie (Militair materieel)</item>
+         <item attribuut="Trefwoorden">Militair materieel Zendstations</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 1996-1997, nr. 395, Tweede Kamer</item>
+         <item attribuut="Afkomstig_van">Defensie</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Van den Doel</persoon>
+            <persoon partij="VVD">H. G. J. Kamp</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1996-12-06</item>
+         <item attribuut="Datum_indiening">1996-11-20</item>
+         <item attribuut="Document-id">KVR4069</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1996–1997" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="815" allpagenumbers="815" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1996–1997, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 1996"/>
+      <vraagdata vraagnummer="395" onderwerp="" indiendatum="1996-11-20">
+         <vrager partij="VVD" oorsprong="parlement">Van den Doel</vrager>
+         <vrager partij="VVD" oorsprong="parlement">H. G. J. Kamp</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1996-12-6">
+         <antwoorder functie="staatssecretaris" ministerie="Defensie">Gmelich Meijling</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Welke dringende operationele redenen verzetten zich tegen (tijdelijke) uitbreiding van het civiel medegebruik van zendmasten? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Op basis van welke randvoorwaarden worden zendmasten verhuurd aan civiele instanties? </vraag>
+      <vraag nummer="3">Kan een overzicht worden gegeven van overtollige masten op af te stoten defensieterreinen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1">Betreft aanvullende vragen naar aanleiding van de antwoorden op kamervragen 2969701570</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Bij plaatsing van meerdere antennes in eenzelfde mast kan er zogenaamde «co-site» interferentie ontstaan, wat het functioneren van militaire (telecommunicatie)apparatuur nadelig kan beı¨nvloeden. Tevens zal civiel medegebruik ten koste gaan van de mogelijkheid om de militaire capaciteit uit te breiden. </antwoord>
+      <antwoord nummer="2" voetnoot="1 2">Op eventuele verhuur van ongebruikte zendmasten aan civiele instanties zijn de algemene uitgangspunten en voorwaarden voor medegebruik van defensiemiddelen van toepassing welke staan beschreven in de brief van de Staatssecretaris van Defensie inzake medegebruik defensiemiddelen <voetnoot nummer="1"/>. Tevens gelden de uitgangspunten en voorwaarden uit de beleidslijn van de regering voor het werken voor tweeden en derden <voetnoot nummer="2"/>
+      </antwoord>
+      <antwoord nummer="3">Bij de oplevering van het Netherlands Armed Forces Integrated Network (NAFIN), die is gepland in 2000, wordt voorzien dat enkele masten overtollig zullen worden. Alleen over de zendmast te Oegstgeest kan nu reeds met zekerheid worden gesteld dat deze in 2000 zal worden afgestoten. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1" documenttype="Kamerstuk" kamerstuk-id="24 400 X" documentnummer="26">Kamerstuk 24 400 X, nr. 26</noot>
+         <noot nummer="2" documenttype="Kamerstuk" kamerstuk-id="24 036" documentnummer="16">Kamerstuk 24 036, nr. 16</noot>
+      </noten>
+   </antwoorden>
+</kvr>

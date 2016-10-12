@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Soutendijk-van Appeldoorn (CDA) en Korthals (VVD) over de Heinekenontvoerder Frans Meijer (Ingezonden 9 mei 1995); Antwoord</item>
+         <item attribuut="Bestand">13Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR1449
+</item>
+         <item attribuut="Rubriek">Strafrecht en strafprocesrecht (Uitlevering)</item>
+         <item attribuut="Trefwoorden">Strafvervolging Uitleveringen</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 1994-1995, nr. 805, Tweede Kamer</item>
+         <item attribuut="Afkomstig_van">Justitie</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Soutendijk-van Appeldoorn</persoon>
+            <persoon partij="VVD">Korthals</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1995-05-17</item>
+         <item attribuut="Datum_indiening">1995-05-09</item>
+         <item attribuut="Document-id">KVR1449</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1994–1995" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1637" allpagenumbers="1637" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1994–1995, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgeverij Plantijnstraat ’s-Gravenhage 1995"/>
+      <vraagdata vraagnummer="805" onderwerp="" indiendatum="1995-05-9">
+         <vrager partij="CDA" oorsprong="parlement">Soutendijk-van Appeldoorn</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Korthals</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="17 mei 1995) 1 tot en met 4 Ter beantwoording van deze vragen veroorloof ik mij, mede namens de minister van Buitenlandse Zaken, te verwijzen naar mijn brief van 9 mei 1995 aan de Voorzitter van de Tweede Kamer der Staten Generaal">
+         <antwoorder functie="minister" ministerie="Justitie">Sorgdrager</antwoorder>
+         <mede-antwoorder>de minister van Buitenlandse Zaken</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Is de Heinekenontvoerder Frans Meijer in Paraguay op vrije voeten gesteld? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Is de oorzaak van de vrijlating het feit, dat het uitleveringsverzoek van de Nederlandse regering niet tijdig de bevoegde autoriteiten heeft bereikt? </vraag>
+      <vraag nummer="3">Zo neen, wat is dan de oorzaak van de vrijlating? </vraag>
+      <vraag nummer="4">Gaat u stappen ondernemen om alsnog de uitlevering van de heer Frans Meijer aan Nederland te bewerkstelligen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1995-05-8" bron="De Telegraaf">De Telegraaf, 8 mei 1995</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" documenttype="Kamerstuk" kamerstuk-id="23 900 VI" documentnummer="25">Kamerstuk 23 900 VI, nr. 25</noot>
+      </noten>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0001690</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001690&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001690</item>
+         <item attribuut="Document-id">0000004201</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 476</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Van Gijzel (PvdA), Van Vlijmen (CDA) en Jorritsma-Lebbink (VVD) over de mogelijke bouw van een spoortunnel in Delft.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 476</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">476</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Van Gijzel</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-04-27</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Maij-Weggen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-05-06</item>
+         <item attribuut="Beginpagina">965</item>
+         <item attribuut="Eindpagina">966</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="965" allpagenumbers="965" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 • 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's-Gravenhage 1994"/>
+      <vraagdata vraagnummer="476" onderwerp="de mogelijke bouw van een spoortunnel in Delft." indiendatum="1994-04-27">
+         <vrager partij="PvdA" oorsprong="parlement">Van Gijzel</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-05-6">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">Maij-Weggen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Wordt de inhoud van de rapportage over de mogelijke bouw van een spoortunnel in Delft <voetnoot nummer="1"/> betrokken bij de opstelling van het Meerjarenprogramma Infrastructuur en Transport 1995-1999 (MIT)? </vraag>
+      <vraag nummer="2">Zal genoemde rapportage voor of tegelijk met het MIT de Kamer bereiken? Kunt u toezeggen dat voor de behandeling van het MIT door de Tweede Kamer in het najaar wat de spoorweginfrastructuur in en nabij Delft betreft geen onomkeerbare beslissingen worden genomen? </vraag>
+      <vraag nummer="4">Vergt de toepassing van elektronische verkeersgeleiding bij het treinverkeer dat door Delft gaat nog andere investeringen dan de genoemde 50 miljoen gulden? Zijn deze investeringen overbodig geworden op het moment dat alsnog een tunnel wordt aangelegd? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Brief van 28 maart 1994 aan de vaste Commissie voor Verkeer en Waterstaat</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Verkeer en Waterstaat is samen met de gemeente Delft en de Nederlandse Spoorwegen opdrachtgever van een gezamenlijke studie naar de noodzaak en mogelijkheden voor een tunnel in een aantal toekomstscenario's. Daarbij zal ook worden gestudeerd op de mogelijkheden om bij aanleg van de thans geplande projecten rekening te houden met het op langere termijn aanleggen van een tunnel. </antwoord>
+      <antwoord nummer="2">De in antwoord 1 aangegeven gezamenlijke studie zal niet tijdig genoeg kunnen worden afgerond om het resultaat ervan gelijktijdig met het MIT '95-'99 aan de Kamer aan te bieden. De afgesproken opzet van een gedegen onderzoek vereist daartoe teveel tijd. </antwoord>
+      <antwoord nummer="3">Ja. Volgens de vigerende planning zullen er voorlopig geen projecten in uitvoering worden genomen, die het later aanleggen van een spoortunnel te Delft onmogelijk of onevenredig duur zouden kunnen maken. Neen, voor zoverthans bekend vergt de electronische oplossing te Delft niet meer dan de genoemde 50 mln. gulden. Wel wordt nader onderzocht of bij vervoergroei op termijn wellicht direct ten zuiden van het station Delft een thans nog niet in het MIT opgenomen extra stuk tracé viersporig zou moeten worden gemaakt, alsmede de relatie die dit zou hebben met de traverse door Delft. Welk deel van de electronische oplossing onnodig zou worden bij een latere beslissing alsnog een tunnel aan te leggen is thans nog niet bekend. Overigens mag worden aangenomen, dat financieel gezien dit een geringe uitgave zal zijn ten opzichte van de financieringskosten van het te vroegtijdig aanleggen van een tunnel. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

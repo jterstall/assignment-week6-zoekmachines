@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001112</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001112&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001112</item>
+         <item attribuut="Document-id">0000106887</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 79</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Zijlstra en Van der Hek (beiden P.v.d.A.) over de veiligheid van de snelle kweekreactor te Kalkar.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 79</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">79</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Zijlstra</persoon>
+            <persoon partij="PvdA">Van der Hek</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-07-30</item>
+         <item attribuut="Beantwoorder">
+            <persoon>De GRaaf</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-10-17</item>
+         <item attribuut="Beginpagina">155</item>
+         <item attribuut="Eindpagina">156</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1986-1987 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 ,  A a n h a n g s e l 1 55 " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="79" onderwerp="de veiligheid wan de snelle kweekreactor te Kalkar." indiendatum="3 0 juli 1986)">
+         <vrager partij="PvdA" oorsprong="parlement">Zijlstra</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Van der Hek</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1 ">Moet geconcludeerd worden dat de  bij de Nederlandse ambtelijke  diensten beschikbare kennis ontoerei- kend is om de regering in staat te  stellen de gestelde vragen te  beantwoorden?  </vraag>
+      <vraag nummer="2 ">Zo ja, hoe kan de regering, op  verantwoorde wijze de veiligheidsrisi- co's van de kweekreactor te Kalkar in  het oog houden en beoordelen?  </vraag>
+      <vraag nummer="3 ">Kan uiteengezet worden, waarom de  interne Duitse besluitvormingsproce- dure het de betrokken Duitse instantie  onmogelijk maakt mededelingen te  doen m.b.t. de gestelde, zuiver  technische, vragen?  Deze vragen worden gesteld n.a.v.  het antwoord op eerdere vragen  (Aanhangsel Handelingen, vergader- jaar  1 9 8 5 - 1 9 8 6 , nr. 890).  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="3 ">Het is niet aan de Nederlandse  regering een oordeel te geven over  aard en inhoud van de interne Duitse  besluitvormingsprocedure. Het  antwoord op de vraag luidt dan ook  ontkennend.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

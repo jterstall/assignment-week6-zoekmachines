@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19881989:0001172</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001172&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001172</item>
+         <item attribuut="Document-id">0000090771</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1988-1989 nummer 171</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Ploeg en Weisglas (beiden V.V.D.) over de aanwezigheid van ambtenaren bij de viering van de Internationale dag voor de solidariteitmet het Palestijnse volk.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1988-1989 nummer 171</item>
+         <item attribuut="Jaargang">1988_1989</item>
+         <item attribuut="Vraagnummer">171</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Ploeg</persoon>
+            <persoon partij="VVD">Weisglas</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1988-11-28</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1988-12-08</item>
+         <item attribuut="Beginpagina">343</item>
+         <item attribuut="Eindpagina">344</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 8 - 1 9 8 9 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 8 - 1 9 8 9 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="171" onderwerp="de aanwezigheid'van ambtenaren bij de viering van de Internationale dag voorde solidariteitmet het Palestijnse volk." indiendatum="28 november 1988)">
+         <vrager partij="VVD" oorsprong="parlement">Ploeg</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Weisglas</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1 ">Hebben enkele ambtenaren van het  ministerie van Buitenlandse Zaken de  regering vertegenwoordigd bij de  - op  2 4 november  j . l . - door de PLO  in Den Haag georganiseerde viering  van de «Internationale dag voor de  solidariteit met het Palestijnse volk»?  </vraag>
+      <vraag nummer="2 ">W a t is de rang van deze ambtenaren?  </vraag>
+      <vraag nummer="3 ">Was het u te voren bekend, dat op  deze bijeenkomst het woord zou  worden gevoerd door Bisschop  Capucci, die in Israël is veroordeeld  tot 12 jaar gevangenisstraf wegens  het smokkelen van zware wapens  voor de PLO (de El Fatah) en die  herhaaldelijk anti-semitische uitspra- ken heeft gedaan?  </vraag>
+      <vraag nummer="4 ">Was het u tevens tevoren bekend,  dat een aantal Tweede Kamer-fracties  had besloten niet aanwezig te zijn op  de bijeenkomst, onder meer in  verband met de aanwezigheid van  Bisschop Capucci?  </vraag>
+      <vraag nummer="5 ">Waarom heeft de regering zich laten  vertegenwoordigen bij deze bijeen- komst?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="3 ">Uit persberichten viel op te maken  dat betrokkene vermoedelijk aanwezig  zou zijn en bij die gelegenheid het  w o o r d zou voeren.  4 en 5  Het voornemen van verscheidene  fracties uit de Tweede Kamer,  bedoelde bijeenkomst niet bij te  wonen, was mij niet onbekend. Ik  heb daaraan evenwel geen conse- quenties verbonden voor wat betreft  de presentie van eerdergenoemde  ambtenaren. Zoals bekend worden  van de kant van de Regering, als  onderdeel van het streven een  vreedzame oplossing van het  Arabisch-lsraëlisch conflict te helpen  bevorderen, in overeenstemming met  de motie van de geachte afgevaardig- de Gualthérie van Weezel op  ambtelijk niveau contacten onderhou- den met het hier te lande gevestigde  PLO-informatiebureau. Dat de  betrokken bijeenkomst door beide  ambtenaren werd bijgewoond,  betekent overigens uiteraard niet, dat  de Regering zich daarmede stelt  achter de gedragingen van alle  genodigden.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

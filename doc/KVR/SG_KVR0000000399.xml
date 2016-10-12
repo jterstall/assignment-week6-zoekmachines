@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="2">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19941995:0000399</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000399&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000399</item>
+         <item attribuut="Document-id">0000000399</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1994-1995 nummer 65</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Aanvullende vragen van het lid M. B. Vos (GroenLinks) over Gene Pharming.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1994-1995 nummer 65</item>
+         <item attribuut="Jaargang">1994_1995</item>
+         <item attribuut="Vraagnummer">65</item>
+         <item attribuut="Indiener">
+            <persoon>Vos M.B.</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-09-19</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van Aartsen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-10-12</item>
+         <item attribuut="Beginpagina">129</item>
+         <item attribuut="Eindpagina">130</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1994-1995" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="129" allpagenumbers="129" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1994-1995, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 • 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's-Gravenhage 1994"/>
+      <vraagdata vraagnummer="" onderwerp="" indiendatum="">
+         <vrager partij="" oorsprong="parlement">Vos M.B.</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-10-12">
+         <antwoorder functie="minister" ministerie="Landbouw, Natuurbeheer en Visserij">Van Aartsen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="65">Aanvullende vragen van het lid M. B. Vos (GroenLinks) over Gene Pharming. (Ingezonden 19 september 1994) </vraag>
+      <vraag nummer="1">Wordt de relatief hoge uitval van kalveren van de stier Herman door Gene Pharming aan «wanprestatie» door het ID-DLO geweten? Wat is naar uw opvatting de oorzaak van deze hoge uitval? Hoe hoog is de schadevergoeding die Gene Pharming om deze reden van het Ministerie eist? Heeft Gene Pharming u inzage geweigerd in het contract met Britol Myers Squibb? Zo ja, welke consequentie trekt u uit het feit dat u daardoor niet kunt garanderen «dat er geen andere doelstelling wordt nagestreefd dan de produktie van humaan lactofertïne voor biomedische toepassing»? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1994-09-14" bron=" Agrarisch Dagblad"> Agrarisch Dagblad, 14 september 1994</noot>
+         <noot nummer="2"> Antwoord van minister Bukman op vragen van de leden Sipkes en Vos, Aanhangsel Handelingen 1993-1994, Nr. 724</noot>
+      </noten>
+   </vragen>
+   <toelichting>Deze vragen dienen ter aanvulling op de eerdere vragen van het lid Poppe, ingezonden 15 september 1994 </toelichting>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Gene Pharming wijt de uitval van kalveren inderdaad aan wanprestatie van IVO/DLO. Het IVO/DLO heeft evenwel aangegeven dat de uitval niet significant boven het landelijk gemiddelde ligt. Gene Pharming Europe heeft geen bedrag voor de schadevergoeding genoemd. </antwoord>
+      <antwoord nummer="2">Ja. Gene Pharming Europe heeft schriftelijk verklaard dat zij bij gebreke van toestemming van de zijde van Bristol Myers Squibb/Mead Johnson niet in de positie is om de overeenkomst aan derden ter beschikking te stellen. Zij is bereid om het verzoek opnieuw aan Mead Johnson voor te leggen indien duidelijkheid is geschapen over de uitvoerbaarheid van de motie-Van Zijl c.s. met betrekking tot contracten en contacten met derden (22 963, no. 5). Voorts verklaart zij dat met betrekking tot het project «Herman», Gene Pharming Europe jegens derden en in het bijzonder jegens Bristol Myers Squibb geen contractuele verplichtingen heeft of op zich zal riemen die strijdig zijn met de toegestane doelstelling. Ik beraad mij thans op de door mij te nemen stappen mede in het licht van de wens van Gene Pharming tot beëindiging van het contract met IVO/DLO. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

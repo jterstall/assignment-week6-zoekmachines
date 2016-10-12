@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="jl" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001585</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001585&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001585</item>
+         <item attribuut="Document-id">0000019971</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 567</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Witteveen-Hevinga (PvdA) over het plaatsen van leren in hier te landen bestaande vacatures.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 567</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">567</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Witteveen-Hevinga</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-04-21</item>
+         <item attribuut="Beantwoorder">
+            <persoon>De Vries</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-05-06</item>
+         <item attribuut="Beginpagina">1191</item>
+         <item attribuut="Eindpagina">1192</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1191" allpagenumbers="1191" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's-Gravenhage 1992"/>
+      <vraagdata vraagnummer="567" onderwerp="het plaatsen van leren in hier te landen bestaande vacatures." indiendatum="1992-04-21">
+         <vrager partij="PvdA" oorsprong="parlement">Witteveen-Hevinga</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Hebt u kennis genomen van het bericht, zo'n duizend leren te plaatsen in hierte lande bestaande vacatures voor zowel ongeschoolden als hoger opgeleiden?' </vraag>
+      <vraag nummer="2">Kunt u nadere informatie verschaffen over deze vacatures en aangeven in welke RBA-gebieden deze zich bevinden? </vraag>
+      <vraag nummer="4"/>
+      <vraag nummer="5"/>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Nieuwsblad van het Noorden van 13 april</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+   <mededeling mededeler="De Vries" functie="minister" afdeling="Sociale Zaken en Werkgelegenheid" mededelingdatum="1992-05-6">Mededeling van minister De Vries (Sociale Zaken en Werkgelegenheid). (Ontvangen 6 mei 1992) Hierbij verzoek ik u om uitstel van beantwoording van de vragen van het Kamerlid mevrouw Witteveen-Hevinga over het plaatsen van leren in hier te lande bestaande vacatures, die mij gesteld zijn bij uw schrijven van 22 april 1992. De reden van mijn verzoek is dat ik nadere informatie heb gevraagd bij de Centrale Arbeidsvoorzieningsorganisatie. Welke inspanningen zijn gepleegd ten einde in Nederland woonachtige werkzoekenden in betreffende vacatures te plaatsen? 4 Op welke gronden is geconcludeerd, dat deze werkzoekenden niet in deze vacatures konden worden geplaatst? 5 Is dit voornemen aan de orde geweest in het CBA? Zo ja, welke standpunt heeft de overheidsgeleding ter zake ingenomen? 1  Nieuwsblad van het Noorden van 13 april </mededeling>
+</kvr>

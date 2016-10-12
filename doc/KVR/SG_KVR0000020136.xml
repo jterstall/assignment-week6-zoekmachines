@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001750</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001750&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001750</item>
+         <item attribuut="Document-id">0000020136</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 732</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Te Veldhuis (VVD) over de besteding van milieugelden op VROM</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 732</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">732</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Te Veldhuis</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-07-08</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Alders</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-07-20</item>
+         <item attribuut="Beginpagina">1527</item>
+         <item attribuut="Eindpagina">1528</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1527" allpagenumbers="1527 1528" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="732" onderwerp="" indiendatum="">
+         <vrager partij="VVD" oorsprong="parlement">Te Veldhuis</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="20juli 1992">
+         <antwoorder functie="minister" ministerie="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer">Alders</antwoorder>
+         <mede-antwoorder>de minister van financiën</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Heeft u kennis genomen van het bericht in NRC-Handelsblad' over de «gebrekkige administratie bij milieubeheer»? Heeft de accountantsdienst van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer een oordeelonthouding gegeven over de jaarrekening 1991 van het directoraat-generaal Milieubeheer omdat zij «in onzekerheid verkeert over de rechtmatige besteding van zo'n f400 miljoen als gevolg van gebrekkige administratie en controle»? </vraag>
+      <vraag nummer="3">Kan de accountantsdienst met name niet meer nagaan of in de afgelopen vijf jaren de regels van de subsidievoorwaarden voor zo'n duizend langlopende projecten op de beleidsterreinen bodemsanering en sanering geluidhinder zijn nageleefd? </vraag>
+      <vraag nummer="4">Kunt u aangeven, hoe een dergelijke, onregelmatigheid heeft kunnen ontstaan, hoe deze zo lang heeft kunnen voortduren, waarom er onvoldoende tussentijdse maatregelen konden worden getroffen, waarom nog steeds geen afdoende oplossingen zijn gevonden, wanneer die structurele oplossing wél kan worden verwacht en tenslotte in welke richting deze oplossing inhoudelijk zal worden gezocht? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1992-07-3" bron="">, 3 juli 1992</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">De verklaring van oordeelonthouding is ondermeer gebaseerd op het feit dat de accountantsdienst onvoldoende zekerheid heeft verkregen omtrent de rechtmatigheid van ca. 35% van  de in  1991 afgerekende voorschotten (uit 1991 en voorgaande jaren). In 1991 is voor een totaalbedrag van circa f 1,2 miljard aan voorschotten afgewikkeld. Deze voorschotten hadden voor een belangrijk deel betrekking op verplichtingen daterend uit 1990 en eerdere jaren. De onzekerheid wordt veroorzaakt door het feit dat onvoldoende interne controlemaatregelen, met name in het kader van specifieke regelgeving (bodemsanering en sanering geluidhinder), waren getroffen. In het bijzonder is geconstateerd dat het ministerie niet tijdig over de vereiste informatie beschikt om de rechtmatige besteding van gelden door Provincies en Gemeenten te kunnen controleren. </antwoord>
+      <antwoord nummer="3">Op basis van de bij het ministerie beschikbare informatie kon de accountantsdienst niet nagaan of de subsidievoorwaarden zijn nageleefd en de in de regelingen verlangde resultaten zijn behaald. De accountantsdienst zal overigens in het kader van zijn reguliere controle dit jaar nog, zonodig o.b.v. de bij de Provincies en Gemeenten aanwezige informatie, onderzoeken op welke wijze Provincies en Gemeenten uitvoering hebben gegeven aan de regelingen op de beleidsterreinen bodemsanering en sanering geluidhinder. De kamer zal over de uitkomsten worden geïnformeerd. </antwoord>
+      <antwoord nummer="4">Het hier gesignaleerde probleem is ontstaan als gevolg van een optimalisering van de uitvoering van de saneringsoperaties die ten koste is gegaan van de controle door het Rijk op de naleving van de regelgeving. Zowel op het beleidsterreln bodemsanering als op het beleidsterrein sanering geluidhinder is de bestuurlijke verantwoordelijkheid voor de naleving van de regelgeving en het vaststellen van de bereikte resultaten bij de Provincies (bodemsanering) en de (samenwerkingsverbanden van) Gemeenten (sanering geluidhinder) neergelegd. In lijn met de decentralisatiegedachte zijn voor Provincies en Gemeenten voorzien van accountantsverklaringen. De gevolgen van deze situatie zijn aan het licht gekomen bij de accountantscontrole over het dienstjaar 1990 toen voor het eerst sprake was van afrekening van projecten in het kader van de hier bedoelde regelingen in een behoorlijke omvang. Bij de door de accountantsdienst uitgevoerde controle over het dienstjaar 1990 worden voor het eerst de bij de controle gehanteerde toleranties overschreden. Op grond van dit signaal heeft ondergetekende direct maatregelen genomen om alle regelingen van DGM door te lichten op de aspecten uitvoerbaarheid en controleerbaarheid. Deze doorlichting is begin 1992 afgerond en er is een aanvang gemaakt met de implementatie van de aanbevelingen. Deze implementatie geschiedt in het kader van een project gericht op het behalen van een goedkeurende accountantsverklaring over 1992 (FIMA 2), waarover ik de kamer separaat zal informeren. Hierbij dient te worden opgemerkt dat voor de implementatie van een aantal aanbevelingen (opleggen van nadere voorwaarden aan provincies en gemeenten) nog bestuurlijk overleg zal moeten plaatsvinden met IPO en VNG. DE oplossing zal derhalve worden gezocht in het aanpassen van de regelingen zodat duidelijk wordt dat provincies en gemeenten primair verantwoordelijk zijn voor het financieel beheer van de door hen uitgevoerde regelingen. Daartoe zal </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

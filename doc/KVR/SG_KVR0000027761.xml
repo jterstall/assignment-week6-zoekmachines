@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="4">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001424</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001424&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001424</item>
+         <item attribuut="Document-id">0000027761</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 489</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid De Hoop Scheffer (C.D.A.) over asielzoekers op de arbeidsmarkt.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 489</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">489</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">De Hoop Scheffer</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-03-07</item>
+         <item attribuut="Beantwoorder">
+            <persoon>d'Ancona</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-04-04</item>
+         <item attribuut="Beginpagina">991</item>
+         <item attribuut="Eindpagina">992</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="991" allpagenumbers="991" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1991"/>
+      <vraagdata vraagnummer="489" onderwerp="asielzoekers op de arbeidsmarkt." indiendatum="1991-03-7">
+         <vrager partij="CDA" oorsprong="parlement">De Hoop Scheffer</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="4 april 1991).">
+         <antwoorder functie="minister" ministerie="Welzijn, Volksgezondheid en Cultuur">d'Ancona</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Hebt u kennis genomen van een artikel' naar aanleiding van een door u op 13 februari jl. gehouden spreek– beurt? Zijn de in dit artikel aan u toege– schreven uitspraken als zouden asiel– zoekers onderwijs moeten kunnen volgen en moeten kunnen werken, juist geciteerd? </vraag>
+      <vraag nummer="3" voetnoot="2">Zo ja, hoe verhouden die uitspraken zich met o.a. de notitie terzake van de minister van Sociale Zaken en Werkgelegenheid en de staatssecre– taris van Justitie van 9 januari 1991 over het vreemdelingenbeleid en arbeidsmarktbeleid? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="4">Mag deze Kamer ervan uitgaan, dat genoemde notitie het officiële regeringsstandpunt behelst? </vraag>
+      <vraag nummer="5">Zo ja, hoe zoudt u dan genoemde uitlatingen willen kwalificeren? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1991-02-14" bron=" Het Vrije Volk"> Het Vrije Volk, 14 februari 1991</noot>
+         <noot nummer="2"> Kametstuk 19 637, nr. 76</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Ja. </antwoord>
+      <antwoord nummer="3" voetnoot="1">De notitie 'vreemdelingenbeleid en arbeidsmarktbeleid' geeft het huidige regeringsstandpunt terzake weer. <voetnoot nummer="1"/>Het opvangbeleid van asielzoekers en de sociaal-rechtelijke positie, waaronder mogelijkheden tot onderwijs– en arbeidsparticipatie, van deze migranten zijn beleidsge– bieden die volop in ontwikkeling zijn. Dit geldt met name voor een speci– fieke categorie asielzoekers, namelijk de niet-verwijderbare asielzoekers. Mijn uitspraken dienen vooral aan de positie van deze groep gerelateerd te worden. Ten aanzien van asiel– zoekers in het algemeen ben ik van mening dat indien de toelatingspro– cedure langer dan een bepaalde periode duurt asielzoekers niet ianger van onderwijs– en arbeidspar– ticipatie dienen te worden uitge– sloten. De politieke discussie over bovengenoemde thema's zal naar aanleiding van het eindrapport van de commissie analyse asielprocedure en opvang asielzoekers (de commissie Mulder) verder gevoerd worden. Ja, zie beantwoording vraag 3. </antwoord>
+      <antwoord nummer="5">Het is niet aan mij genoemde uitla– tingen te kwalificeren. Op deze plaats wil ik er wel op wijzen dat zij in een bredere context gezien dienen te worden. (Zie beantwoording vraag 3) </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Zie Kamerstuk 19 637, nr. 76, Verga– derjaar 1990-1991</noot>
+      </noten>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19931994:0001460</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001460&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001460</item>
+         <item attribuut="Document-id">0000003971</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 246</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Verbugt en Te Veldhuis (beiden VVD) over de besluitvorming over Rotterdam Airport in relatie tot de regionale woningbouwtaakstelling.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 246</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">246</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Verbugt</persoon>
+            <persoon partij="VVD">Te Veldhuis</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-12-20</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Alders</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-01-14</item>
+         <item attribuut="Beginpagina">499</item>
+         <item attribuut="Eindpagina">500</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="499" allpagenumbers="499" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgeverij Plantijnstraat s Gravenhage 1994"/>
+      <vraagdata vraagnummer="246" onderwerp="de besluitvorming over Rotterdam Airport in relatie tot de regionale woningbouwtaakstelling." indiendatum="1993-12-20">
+         <vrager partij="VVD" oorsprong="parlement">Verbugt</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Te Veldhuis</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="Hjanuari 1994">
+         <antwoorder functie="minister" ministerie="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer">Alders</antwoorder>
+         <mede-antwoorder>de staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en de minister van Verkeer en Waterstaat</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Is de besluitvorming over de aanleg van een nieuwe luchthaven ten noorden van Rotterdam op de lange baan geschoven? Zo ja, waarom? Zo neen, kan een besluit nog in deze kabinetsperiode tegemoet worden gezien? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Welke invloed heeft het voortbestaan van een onduidelijke situatie rond het al dan niet handhaven van luchtvaartvoorzieningen in de Rotterdamse regio op de woningbouw in deze regio? </vraag>
+      <vraag nummer="3">Zal het uitblijven van een beslissing over een nieuwte bouwen Rotterdam Airport de continuïteit van de geplande woningbouw, met name in de eerste jaren na 1995, in gevaar brengen, omdat het ene besluit moet wachten op het andere? </vraag>
+      <vraag nummer="4">Heeft uitstel van de besluitvorming over Rotterdam Airport ook nog een vertragende invloed op de totstandkoming van een VINEX-uitvoeringscontract met deze regio? Brengt de vertraging met zich mee dat opnieuw de geplande termijn voor het afsluiten van een VINEX-uitvoeringscontract met de Rotterdamse regio niet wordt gehaald? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1993-12-16" bron=" De Telegraaf"> De Telegraaf, 16 december 1993</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1">Neen, het kabinet zal zich op korte termijn opnieuw over deze problematiek buigen. </antwoord>
+      <antwoord nummer="2">Een deel van de capaciteit in het stadsgewest Rotterdam is afhankelijk van de besluitvorming over het voortbestaan van de luchthaven Zestienhoven c.q. de aanleg van New Rotterdam Airport. Het betreft maximaal circa 6 500 woningen verdeeld over de lokaties Noordrand I, Noordrand ll/lll en de lokatie Spaland-Oost. </antwoord>
+      <antwoord nummer="3">De besluitvorming over het grootste deel van het woningbouwprogramma in het stadsgewest is niet afhankelijk van de besluitvorming over het vliegveld. Van het programma van 53 000 woningen (periode 1995-2005) kunnen 46 500 woningen ongeacht de vliegveld-besluitvorming worden gereaiiseerd. </antwoord>
+      <antwoord nummer="4">Het OOR en de gemeente Rotterdam hebben zich bereid getoond om het overleg te hervatten. De laatste maanden is een zekere vertraging in de voortgang van de voorbereiding van een uitvoeringsconvenant opgetreden. </antwoord>
+      <antwoord nummer="5">Ik acht het van het grootste belang dat ondanks de onzekerheid over een deel van de capaciteit ten noorden van Rotterdam het werk aan de verstedelijkingsoperatie voortgaat. Ik ga er  van uit dat  de vliegveld-besluitvorming het bereiken van een uitvoeringsconvenant niet in de weg hoeft te staan. Het sluiten van een akkoord op hoofdlijnen vóór de komende verkiezingen is nog steeds mogelijk, maar zal veel inzet van alle betrokkenen vergen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Vendrik (GroenLinks) aan de minister van Volksgezondheid, Welzijn en Sport over het betalen aan huisartsen voor het ontvangen van artsenbezoekers. (Ingezonden 23 september 2005); Antwoord</item>
+         <item attribuut="Bestand">14Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR24209
+</item>
+         <item attribuut="Inhoud">Vragen over bericht in Trouw: ondernemers zouden artsen betalen voor het ontvangen van artsenbezoekers. Indiener wil een wettelijk verbod op deze praktijken.</item>
+         <item attribuut="Rubriek">Gezondheidszorg (Geneesmiddelen) Gezondheidszorg (Medische beroepen)</item>
+         <item attribuut="Trefwoorden">Artsen Geneesmiddelen</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2005-2006, nr. 267, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2050600180</item>
+         <item attribuut="Afkomstig_van">Volksgezondheid, Welzijn en Sport (VWS)</item>
+         <item attribuut="Indiener">
+            <persoon partij="GroenLinks">Vendrik</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2005-11-04</item>
+         <item attribuut="Datum_indiening">2005-09-23</item>
+         <item attribuut="Document-id">KVR24209</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2005–2006" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="569" allpagenumbers="569" vetnummer="2050600180" code="0506tkkvr267" lopendefooter="Tweede Kamer, vergaderjaar 2005–2006, Aanhangsel" filenaam="KVR24209" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2005"/>
+      <vraagdata vraagnummer="267" onderwerp="" indiendatum="23september 2005">
+         <vrager partij="GroenLinks" oorsprong="parlement">Vendrik</vrager>
+         <vraagt-aan>de minister van Volksgezondheid, Welzijn en Sport</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2005-11-4">
+         <antwoorder functie="minister" ministerie="Volksgezondheid, Welzijn en Sport">Hoogervorst</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Hebt u kennisgenomen van het bericht «Ondernemer betaalt dokter voor ontvangen artsenbezoekers»? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Deelt u de mening dat het niet acceptabel is dat huisartsen worden betaald voor het ontvangen van een artsenbezoeker? Zo neen, waarom niet? </vraag>
+      <vraag nummer="3">Bent u bereid dit wettelijk te verbieden? Zo ja, op welke termijn is dat mogelijk? Zo neen, waarom niet? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="2005-09-22" bron="Trouw">Trouw, 22 september 2005</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Ja. </antwoord>
+      <antwoord nummer="3">Op grond van het Reclamebesluit geneesmiddelen is dit reeds verboden. Ook de Gedragscode van de CGR verzet zich hiertegen. Nefarma heeft reeds laten weten uitdrukkelijk afstand te nemen van deze actie. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

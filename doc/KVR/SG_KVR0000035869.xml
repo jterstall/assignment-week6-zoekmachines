@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001462</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001462&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001462</item>
+         <item attribuut="Document-id">0000035869</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 540 Herdruk</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Eisma (D66) over de aanleg van de Oost-Westbaan op Maastricht-airport.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 540 Herdruk</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">540 Herdruk</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Eisma</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-03-22</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Maij-Weggen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-04-17</item>
+         <item attribuut="Beginpagina">1087</item>
+         <item attribuut="Eindpagina">1088</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1087" allpagenumbers="1087" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgeverij 's-Gravenhage 1990"/>
+      <vraagdata vraagnummer="540" onderwerp="de aanleg van de Oost-Westbaan op Maastricht-airport." indiendatum="1990-03-22">
+         <vrager partij="D66" oorsprong="parlement">Eisma</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1" voetnoot="1">Mag uit uw bekendmaking tijdens een bezoek aan Maastricht in het kader van de verkiezingscampagne worden opgemaakt, dat binnenkort een concept-aanwijzingsbeschikking is te verwachten voor de aanleg van de Oost-Westbaan op Maastricht– airport? <voetnoot nummer="1"/> Zo ja, wanneer precies? </vraag>
+      <vraag nummer="2">Bent u van plan deze beschikking te publiceren nadat het aanvullende MER-rapport betreffende het aan– en afvliegen binnen de zogenaamde «betonnen muur» constructie, gereed is? </vraag>
+      <vraag nummer="3">Bent u van plan de aanwijzingsbe– schikking te publiceren vóórdat de onderhandelmgen met de Belgische autoriteiten zijn afgerond? Wat is de stand van zaken van de besprekingen met uw Belgische ambtgenoot? </vraag>
+      <vraag nummer="4">Hoe is het, in het kader van de vlieg– veiligheid, verkeersleidings– en vlieg– technisch mogelijk zonder overeen– stemming met België binnen de grenzen van Zuid-Limburg de Oost-Westbaan te realiseren? </vraag>
+      <vraag nummer="5">Heeft het kabinet besloten tot een verscherpte norm voor het maximaal toelaatbare vliegtuiglawaai met betrekking tot een eventuele Oost-Westbaan? Welke zijn de finan– ciële gevolgen voor woningisolatie? Hoeveel woningen betreft het indien geen overeenstemming met de Belgische autoriteiten wordt bereikt? </vraag>
+      <vraag nummer="6">Hoe verhoudt de financiering van de isolatie door Rijk, provincie en bedrijfsleven zich tot het uitgangspunt de vervuiler betaalt? Wanneer denkt u overeenstemming te bereiken over de verdeling van de lasten tussen Rijksoverheid, Provincie en bedrijfsleven? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1990-03-19" bron=" Zie het Limburgs Dagblad en de Limburger"> Zie het Limburgs Dagblad en de Limburger, 19 maart 1990</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

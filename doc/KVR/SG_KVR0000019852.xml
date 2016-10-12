@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001466</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001466&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001466</item>
+         <item attribuut="Document-id">0000019852</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 450</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Reitsma (CDA) over investeringen in mestopslag en afdekking van mestopslag.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 450</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">450</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Reitsma</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-01-31</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Alders</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-03-11</item>
+         <item attribuut="Beginpagina">951</item>
+         <item attribuut="Eindpagina">952</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="951" allpagenumbers="951" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="450" onderwerp="investeringen in mestopslag en afdekking van mestopslag." indiendatum="1992-01-31">
+         <vrager partij="CDA" oorsprong="parlement">Reitsma</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-03-11">
+         <antwoorder functie="minister" ministerie="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer">Alders</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Welk bedrag is per jaar uitgekeerd ten behoeve van investeringen in mestopslag en afdekking van mestopslag gedurende de looptijd van de eind 1990 ingetrokken Bijdrageregeling voor milieu-investeringen (BMI)? </vraag>
+      <vraag nummer="2">Waarom werd de BMI, die in beginsel zou lopen tot juli 1991, ingetrokken op een moment, dat het bij de instelling maximaal beschikbaar gestelde bedrag van f 15 mln. ten behoeve van dit soort investeringen nog niet was uitgeput? </vraag>
+      <vraag nummer="3">Op welke juridische gronden is een groot aantal aanvragen voor een bijdrage, die voldeden aan de voorwaarden van de regeling, afgewezen, terwijl er nog middelen beschikbaar waren? Bent u bereid deze aanvragen alsnog af te wikkelen en bijdragen toe te kennen tot aan het plafond van f 1 5 mln.? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Het eerste jaar van de regeling (1988) zijn geen gelden uitgekeerd t.b.v. mestopslag en afdekking. Voor 1989 en 1990 is voor deze onderdelen van de BMI-regeling respectievelijk 5,4 mln en 5,1 mln betaald. Hoewel de BMI-regeling in beginsel zou lopen tot juli 1991 is gekozen om de regeling te spreiden over 3 jaren, te rekenen vanaf 1988 samenvallend met de begrotingsjaren. De BMI-regeling werd ingetrokken omdat in het laatste begrotingsjaar 1990 de maximale kasbedragen zoals gepubliceerd in de Staatscourant werden overschreden. Aangezien de begrotingswetgever de onderbesteding in het eerste jaar 1988 niet heeft toegevoegd aan de budgetten 1989 en 1990, zijn deze middelen voor de regeling verloren gegaan. </antwoord>
+      <antwoord nummer="3">De uitvoerende instantie 'Dienst Investeringsrekening' (DIR) heeft indien aan de vereisten van de regelmg is voldaan als afwijzingsgrond uitputting van de gepubliceerde kasbedragen, (artikel 10 van de regeling). De regeling is als zodanig uitgevoerd. Hierbij zij opgemerkt dat krachtens de begrotingswetgeving een onderuitputting in een bepaald jaar neit kan worden toegevoegd aan het beschikbare kasbedrag van een volgend jaar. De bezwaarschriften die zijn voortgekomen uit het feit dat het voor enig jaar beschikbare kasbedrag was uitgeput, zijn vanwege het gesloten karakter van de regeling niet gehonoreerd. </antwoord>
+      <antwoord nummer="4">Neen, het ligt niet in het vermogen van de uitvoerder van deze regeling om extra middelen aan de begroting toe te voegen of zodanig om te buigen dat deze vrijkomen voor dit onderdeel. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

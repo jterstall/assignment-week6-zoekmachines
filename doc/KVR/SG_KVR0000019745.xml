@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001359</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001359&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001359</item>
+         <item attribuut="Document-id">0000019745</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 345</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Franssen en Ginjaar-Maas (beiden VVD) over ten onrechte uitgereikte Ibo-diploma's.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 345</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">345</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Franssen</persoon>
+            <persoon partij="VVD">Ginjaar-Maas</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-01-10</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Wallage</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-01-31</item>
+         <item attribuut="Beginpagina">737</item>
+         <item attribuut="Eindpagina">738</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="737" allpagenumbers="737 738" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="345" onderwerp="ten onrechte uitgereikte Ibo-diploma's." indiendatum="1992-01-10">
+         <vrager partij="VVD" oorsprong="parlement">Franssen</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Ginjaar-Maas</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-01-31">
+         <antwoorder functie="staatssecretaris" ministerie="Onderwijs en Wetenschappen">Wallage</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="9">
+      <vraag nummer="1">Hebben scholen vanwege een fout in een circulaire een verkeerd artikel uit het nieuwe eindexamenbesluit toegepast, waardoor aan 1724 kandidaten ten onrechte een Ibo-diploma is uitgereikt? </vraag>
+      <vraag nummer="2">Is het waar dat de inspectie meer dan eens heeft gewezen op de fout in de circulaire, maar dat het ministerie op deze signalen niet heeft gereageerd met een gewijzigde circulaire? Zijn de scholen ook nu nog niet geïnformeerd over de fout in de circulaire en is het dus niet uitgesloten dat bij de vaststellmg van de examenuitslag aan het einde van het huidige cursusjaar opnieuw fouten worden gemaakt? </vraag>
+      <vraag nummer="4">Waarom weigert u nog steeds de gemaakte fout te herstellen? Wilt u dit alsnog terstond doen? </vraag>
+      <vraag nummer="5">Hebben in het cursusjaar 1990/91 ongeveer 4200 leerlingen in het lager beroepsonderwijs deelgenomen aan profielverbetering en profielverbreding? Vallen de 1724 leerlingen aan wie ten onrechte een Ibo-diploma is uitgereikt onder dit totaal? Vindt de in casu onjuiste toepassing van de zogenaamde compensatieregel eenduidig plaats of is het mogelijk bij de toepassmg van die regel weer onderverdelingen te maken? Zo ja, kan dan worden verduidelijkt hoe de compensatieregel bij de bedoelde 1724 gevallen is toegepast? </vraag>
+      <vraag nummer="7">Is na te gaan wat bij toepassing van de compensatieregel het resultaat zou zijn voor de overige leerlingen die aan profielverbreding en profielverbetering hebben gedaan en die met vergelijkbare resultaten als de 1724 leerlmgen geen diploma hebben ontvangen? Om hoeveel resterende leerlingen zou het gaan? </vraag>
+      <vraag nummer="8">Deelt u de opvatting, dat ten opzichte van de ovengens in dezelfde omstandigheden verkerende leerlingen aan wie geen Ibo-diploma is uitgereikt, in meer dan één opzicht sprake is van rechtsongelijkheid? </vraag>
+      <vraag nummer="9">Realiseert u zich, dat leerlingen, aan wie geen Ibo-diploma is uitgereikt, mogelijk wel een jaar over moeten doen met als gevolg dat zij een jaar extra schoolgeld moeten betalen en zich een jaar later door arbeid een eigen inkomen kunnen verwerven? Welke conclusie trekt u hieruit? </vraag>
+      <vraag nummer="10">Wilt u erkennen, dat uw ministerie in deze kwestie heeft geblunderd? </vraag>
+      <vraag nummer="11">Hoe denkt u in deze situatie een voor alle betrokkenen acceptabele uitweg te vinden zonder de 1724 leerlingen hun diploma te ontnemen? Toelichting: Zie «Examens 1991 getoetst» - een rapportage van de inspectie van het onderwijs, 1991-nr. 12, pagina 19. </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="7">
+      <antwoord nummer="1">Het is juist dat scholen aan 1724 kandidaten een diploma hebben uitgereikt op basis van de regelgeving van voor 1 augustus 1990, zijnde de invoeringsdatum van het nieuwe Eindexamenbesluit vwo-havo-mavo-lbo. Gelet op de inhoud van de bepalingen in artikel 49 van het Eindexamenbesluit en van de vrijstellingsregeling (VO/BVE/ADA/JZ-90101752) zit naar de letter de fout niet in de regelgeving. Achteraf gezien moet echter wel geconstateerd worden dat de wijze van presenteren van deze bepalingen en de voorlichting daarover onvoldoende effectief zijn geweest. Eindexamenbesluit te laten verschijnen en aan de scholen te sturen. Tezamen met het verschijnen van deze herziene versie was beoogd een aantal artikelen in Uitleg te laten verschijnen. Gezien het inspectierapport zal nu daaraan voorafgaand in Uitleg afzonderlijk informatie worden verstrekt voor LBO-scholen over de toepassing van de compensatieregeling. </antwoord>
+      <antwoord nummer="4">Via Uitleg zal een artikel verschijnen over het Eindexamenbesluit en de toepassing daarvan voor LBO-scholen. Bij het beantwoorden van de vraag of het Eindexamenbesluit gewijzigd zou moeten worden, moet in de beschouwing betrokken worden dat een van de doelen van het nieuwe besluit was het komen tot een vorm van deregulering van regelgeving waarbij autonome scholen een aantal bevoegdheden zouden krijgen ook op het gebied van de examens. Nu geconstateerd kan worden dat dit geleid heeft tot interpretatieproblemen bij de regelgeving moet de afweging gemaakt worden tussen opnieuw nadere specificatie van de regelgeving of een betere voorlichting. Gegeven het antwoord op vraag 1 is gekozen voor het laatste. </antwoord>
+      <antwoord nummer="5">Ja. </antwoord>
+      <antwoord nummer="6">Zoals is aangegeven in het antwoord op vraag 1 is bij de genoemde leerlingen actie te ondernemen. </antwoord>
+      <antwoord nummer="9">Onder verwijzing naar het antwoord op vraag 8 moet helaas geconstateerd worden dat deze leerlingen mogelijk een jaar over moeten doen, met de gevolgen van dien. Gegeven het feit dat in hun geval echter de juiste regelgeving is gehanteerd ontbreekt de basis om in hun richting actie te ondernemen. </antwoord>
+      <antwoord nummer="10">Het ministerie kon op basis van de voorlichting over het eindexamenbesluit ervan uitgaan dat scholen van de regeling op de hoogte waren. Achteraf kan geconstateerd worden dat bij dit soort complexe regelingen er nog specifiekere voorlichting nodig is. </antwoord>
+      <antwoord nummer="11">Bij de evaluatie van de gang van zaken bij het eindexamen 1991 is besloten de leerlingen die ten onrechte een diploma is verstrekt deze toch te laten behouden. Deze diploma's hebben na uitreiking een bepaalde waarde gekregen en zijn door de leerlingen te goeder trouw ontvangen en zij hebben zich hiermee wellicht al een bepaalde positie verworven. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

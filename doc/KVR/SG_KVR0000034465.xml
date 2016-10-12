@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0000058</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0000058&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0000058</item>
+         <item attribuut="Document-id">0000034465</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Eerste Kamer 1989-1990 nummer 21</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Eerste Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van mevrouw Tiesinga-Autsema (D66) en mevrouw Bolding (Groen Links) over de zaak Elisabeth McCallister.</item>
+         <item attribuut="titel">Aanhangsel Eerste Kamer 1989-1990 nummer 21</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">21</item>
+         <item attribuut="Indiener">
+            <persoon>Tiesinga-Autsema</persoon>
+            <persoon>Bolding</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-02-23</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Kosto</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-04-23</item>
+         <item attribuut="Beginpagina">41</item>
+         <item attribuut="Eindpagina">42</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Eerste Kamer der Staten-Generaal" kamer="1" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen door de leden der Kamer gesteld overeenkomstig artikel schriftelijk gegeven antwoorden"/>
+      <footer firstpaginanummer="41" allpagenumbers="41" vetnummer="" code="" lopendefooter="Eerste Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="" onderwerp="" indiendatum="">
+         <vrager partij="" oorsprong="parlement">Tiesinga-Autsema</vrager>
+         <vrager partij="" oorsprong="parlement">Bolding</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="21">Vragen van mevrouw Tiesinga-Autsema (D66) en mevrouw Bolding (Groen Links) over de zaak Elisabeth McCallister. (Ingezonden 23 februari 1990) </vraag>
+      <vraag nummer="1">Is het waar dat tijdens de voorge– leiding op 3 november 1989 voor de rechter-commissaris te Amsterdam van Elisabeth McCallister, de Ameri– kaanse rechter die sinds die tijd in de vrouwengevangenis Het Spoor te Utrecht verblijft, door de officier van Justitie en/of de kinderpolitie Amsterdam is toegezegd dat haar dochtertje Stephanie niet aan de vader zou worden afgegeven dan na overleg met de advocaat van mevrouw McCallister? </vraag>
+      <vraag nummer="2">Is het waar, dat een dergelijk overleg niet is gepleegd? </vraag>
+      <vraag nummer="3">Is het de staatssecretaris bekend, dat mevrouw McCallister ook bij de rechter-commissaris heeft laten weten, dat de vader van Stephanie zich schuldig heeft gemaakt aan herhaalde incestueuze handelingen met zijn dochter? </vraag>
+      <vraag nummer="4">Is het waar, dat de officier van Justitie en/of de kinderpolitie Amsterdam de advocaat niet met zoveel woorden heeft laten weten, dat er wat dit overleg betreft sprake was van een fatale termijn, te weten 5 november 1989 te 17.00 uur, waarna aan aangifte van Stephanie aan haar vader niet te ontkomen zou zijn; hetgeen dan ook is gebeurd? </vraag>
+      <vraag nummer="5">Zo ja, had het dan niet in de reden gelegen, dat de rechter-commissaris en/of de kinderpolitie Amsterdam in dit geval voor uitlevering van Stephanie zelf contact met de advocaat van mevrouw McCallister had opgenomen? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="3">Ja. Hierbij merk ik het volgende op. Uit het Amerikaanse dossier was gebleken dat deze beschuldiging destijds voor de Amerikaanse rechter geen beletsel was geweest om de vader van het kind met de voogdij te belasten. Deze rechtsgeldige voogdijbeslissmg van een buiten– landse rechter heeft de Nederlandse overheid te respecteren. Er restte voor de officier van justitie geen andere mogelijkheid dan het kind aan de vader mee te geven. Een toevertrouwing aan de Raad voor de Kinderbescherming behoorde derhalve niet tot de mogelijkheden. </antwoord>
+      <antwoord nummer="5">Gelet op hetgeen hiervoor is vermeld, lag een contact als in deze vraag bedoeld niet voor de hand. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

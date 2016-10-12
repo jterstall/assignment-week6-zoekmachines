@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19871988:0000951</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0000951&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0000951</item>
+         <item attribuut="Document-id">0000098665</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1987-1988 nummer 15</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Jabaay (P.v.d.A.), Van Es (P.S.P.), en Beckers-de Bruijn (P.P.R.) over de verlenging van de vergunning tot verblijf voor een Indonesisch meisje.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1987-1988 nummer 15</item>
+         <item attribuut="Jaargang">1987_1988</item>
+         <item attribuut="Vraagnummer">15</item>
+         <item attribuut="Indiener">
+            <persoon>Jabaay</persoon>
+            <persoon>Van Es</persoon>
+            <persoon>Beckers-de Bruijn</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-08-27</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Korte-van Hemel</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-09-28</item>
+         <item attribuut="Beginpagina">29</item>
+         <item attribuut="Eindpagina">30</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 7 - 1 9 8 8 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer,  m e t de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 7 - 1 9 8 8 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="15" onderwerp="de verlenging van de vergunning tot verblijfVoor een Indonesisch meisje." indiendatum="27 augustus 1987)">
+         <vrager partij="" oorsprong="parlement">Jabaay</vrager>
+         <vrager partij="" oorsprong="parlement">Van Es</vrager>
+         <vrager partij="" oorsprong="parlement">Beckers-de Bruijn</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1 ">Zijn de bewindslieden van mening  dat in het geval van het Indonesisch  meisje Adek sprake is van een  klemmende reden van humanitaire  aard, zoals omschreven in de nota  vrouwenhandel van de regering van 2  juli  1 9 8 7 ' , om haar in Nederland toe  te laten?  </vraag>
+      <vraag nummer="2 ">Is de staatssecretaris alsnog bereid  de vergunning tot verblijf te verlen- gen?  Betrokkene heeft geen onderdak in  Indonesië; is minderjarig; heeft nog  geen basisschool of vakopleiding  genoten; heeft al sinds haar zevende  jaar niet in haar ouderlijk huis  g e w o o n d ; heeft op haar twaalfde jaar  met kennissen haar geboortedorp  verlaten om in de stad allerlei  baantjes te zoeken om in haar  levensonderhoud te kunnen voorzien;  is in deze situatie het doelwit  geworden van mensen, die haar in  Nederland tot prostitutie hebben  gedwongen; als ze teruggestuurd  wordt naar Indonesië, zal ze in  dezelfde situatie hetzelfde gevaar  lopen; alle pogingen om een opvang- adres te kunnen vinden in Indonesië  zijn tot nu toe mislukt.  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

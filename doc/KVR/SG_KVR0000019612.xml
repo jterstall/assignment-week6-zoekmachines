@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001226</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001226&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001226</item>
+         <item attribuut="Document-id">0000019612</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 213</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Van Gijzel en Swildens-Rozendaal (beiden PvdA) over bestrijding van agressie in het openbaar vervoer.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 213</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">213</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Van Gijzel</persoon>
+            <persoon partij="PvdA">Swildens-Rozendaal</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-11-27</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Maij-Weggen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-12-09</item>
+         <item attribuut="Beginpagina">433</item>
+         <item attribuut="Eindpagina">434</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="433" allpagenumbers="433" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="'s-Gravenhage 1991"/>
+      <vraagdata vraagnummer="213" onderwerp="bestrijding van agressie in het openbaar vervoer." indiendatum="1991-11-27">
+         <vrager partij="PvdA" oorsprong="parlement">Van Gijzel</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Swildens-Rozendaal</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1991-12-9">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">Maij-Weggen,</antwoorder>
+         <mede-antwoorder>de minister van Justitie</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1">Herinnert u zich de discussie over «gesloten instapsystemen» in het algemeen en meer conducteurs op de tram in het bijzonder?' Is de aangekondigde instelling van een werkgroep, die zich gaat bezighouden met onderzoek naar de mogelijkheden ter bestrijding van agressie in het openbaar vervoer, inmiddels geschied? </vraag>
+      <vraag nummer="3">Wanneer mag van deze werkgroep een rapportage, die uitzicht biedt op concrete maatregelen, worden verwacht? Blijft de minister van Verkeer en Waterstaat, ook na de tragische gebeurtenis in een Amsterdamse tram op 23 november jl., van mening, dat, hoewel het aanstellen van meer conducteurs niet strikt financieel doch ook vanuit veiligheidsoogpunt moet worden bezien, de openbaar vervoerbedrijven de lasten hiervan zouden moeten opbrengen uit te nemen efficiency-maatregelen? </vraag>
+      <vraag nummer="5" voetnoot="2">Is aangetoond, dat door de aanwezigheid van de conducteur op tramlijn 4 in Amsterdam, naast de terugdringing van het zwartrijden, ook de agressie op de tram is verminderd? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="6">Overstijgt het tegengaan van criminaliteit en vandalisme niet het openbaar-vervoerbelang? Zo ja, zou dit gevolgen voor het inzetten van financiële middelen moeten hebben? </vraag>
+      <vraag nummer="7">Is bij de beoordeling van de mogelijkheid om permanent conducteurs op de tram te plaatsen ook de factor lastenverlichting voor het justitiële apparaat en de rechterlijke macht in verband met zwartrijden meegenomen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="3"/>
+         <noot nummer="1"> Kamerstuk 21 823 nr 10, mondeling overleg van 6 juni 1991 over boetes voor zwartrijden</noot>
+         <noot nummer="2" datum="1991-11-26" bron=" Volkskrant"> Volkskrant, 26 november 1991</noot>
+         <noot nummer="3"> Kamerstuk 21 823 nr. 9</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja, wij herinneren ons de in juni 1991 met de Kamer gevoerde discussie over de bestrijding van het zwartrijden, waarbij ook het «gesloten instapregime» en «meer conducteurs op de tram» aan de orde kwamen. Onder de naam «Overlegplatform agressie in het openbaar vervoer» vindt thans overleg plaats over de aanpak van de agressie in het openbaar vervoer. Dit overleg, dat op 29 augustus jl. is gestart, staat onder leiding van de Secretaris-Generaal van mijn departement. In het overlegplatform participeren de departementen van Justitie, Binnenlandse Zaken en Verkeer en Waterstaat, alsmede CNV, FNV, Abva-Kabo, FSV, NS, Streekvervoer Nederland, BOV en BOS-gemeenten. </antwoord>
+      <antwoord nummer="3">Het ligt in de bedoeling dat het overlegplatform in de loop van februari een plan van aanpak zal voorleggen, waarover tussen deelnemers overeenstemming bestaat. Het aanstellen van (meer) conducteurs op de tram is een maatregel die allereerst gericht is op het terugdringen van het zwartrijden en die daarnaast wellicht een bijdrage levert aan het beheersbaarder maken van agressie in het openbaar vervoer. Ik benadruk dat het hier om twee verschillende verschijnselen gaat die zich niet per definitie lenen voor dezelfde maatregelen. Voor wat betreft het zwartrijden worden de aanbevelingen van de interdepartementale projectgroep bestrijding zwartrijden thans nader uitgewerkt in operationale maatregelen. Voor wat betreft de veiligheid is op deze lijn afgenomen. </antwoord>
+      <antwoord nummer="6">De verschijnselen criminaliteit en vandalisme komen helaas op vele terreinen in de samenleving voor. Het terugdringen van criminaliteit en vandalisme is een algemeen streven van de (rijks)overheid. Het overstijgt derhalve het openbaar vervoerbelang. Vandaar dat ook andere departementen actief zijn bij het nemen van maatregelen op het terrein van agressiebestrijding. Met betrokken partijen zal worden bezien welke maatregelen mogelijk zijn en op welke wijze deze gefinancierd kunnen worden. </antwoord>
+      <antwoord nummer="7">Bij de beoordelmg van de mogelijkheid van permanente conducteurs zal inderdaad worden uitgegaan van een integrale benadering. Dit betekent dat een totaal pakket van maatregelen verwacht wordt van het overlegplatform, waaraan naast Verkeer en Waterstaat ook Binnenlandse Zaken en Justitie een bijdrage leveren. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

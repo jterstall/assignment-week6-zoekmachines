@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="1">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001078</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001078&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001078</item>
+         <item attribuut="Document-id">0000027415</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 145</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van Es (Groen Links) over een rapport inzake mensenrechten in Egypte.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 145</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">145</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Van Es</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-10-18</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-11-12</item>
+         <item attribuut="Beginpagina">293</item>
+         <item attribuut="Eindpagina">294</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="293" allpagenumbers="293" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgevenj 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="145" onderwerp="een rapport inzake mensenrechten in Egypte." indiendatum="1990-10-18">
+         <vrager partij="Groen Links" oorsprong="parlement">Van Es</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-11-12">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">Van den Broek</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="1">
+      <vraag nummer="1">Hebt u kennis genomen van het door Amnesty International gepubliceerde rapport  over de aanhoudende schendingen van de mensenrechten in Egypte? dusverre hebben bereikt, geen aanleiding geven tot een Neder– landse stap als in deze vragen beoogd. Wel wil ik toezeggen, dat de verdere gang van zaken voor wat betreft de wijze waarop in Egypte bepalingen onder de noodtoestand worden gehanteerd, mijnerzijds met de nodige aandacht zal worden gevolgd. Bent u bereid bij de Egyptische regering te protesteren tegen deze schendingen en er op te attenderen, dat het door Egypte ondertekende VN-Verdrag tegen Martelingen die regering verplicht klachten hierover te onderzoeken? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"/>
+         <noot nummer="1"> Recent Human Rights Violations under the State of Emergency, Amnesty International, 17-10-1990</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1 en 2">De inhoud van de rapporten van Amnesty International, waaronder dat van oktober jl., inzake de toepassing door Egyptische autori– teiten van de bepalingen onder de noodtoestand, is mij bekend. Hoewel ik bedoelde rapporten op zich zeker ernstig neem, ben ik van oordeel dat de gegevens die mij tot </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

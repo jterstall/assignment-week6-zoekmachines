@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="bevindingen van de BVD?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0000947</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0000947&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0000947</item>
+         <item attribuut="Document-id">0000011251</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 15</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Willems en Brouwer (beiden Groen Links) over een BVD-rapport inzake de vermeende contacten tussen een functionaris van de Amsterdamse politie en de Surinaamse legerleiding.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 15</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">15</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Willems</persoon>
+            <persoon partij="Groen Links">Brouwer</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-08-26</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Dales</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-09-22</item>
+         <item attribuut="Beginpagina">33</item>
+         <item attribuut="Eindpagina">34</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="33" allpagenumbers="33" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat s Gravenhage 1992"/>
+      <vraagdata vraagnummer="" onderwerp="" indiendatum="">
+         <vrager partij="Groen Links" oorsprong="parlement">Willems</vrager>
+         <vrager partij="Groen Links" oorsprong="parlement">Brouwer</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="15">Vragen van de leden Willems en Brouwer (beiden Groen Links) over een BVD-rapport inzake de vermeende contacten tussen een functionaris van de Amsterdamse politie en de Surinaamse legerleiding. (Ingezonden 26 augustus 1992) </vraag>
+      <vraag nummer="1">Hebt u kennis genomen van de berichtgeving over het rapport van de Bmnenlandse Veiligheidsdienst over de vermeende contacten tussen een functionaris van de Amsterdamse politie en de Surinaamse legerleiding?' </vraag>
+      <vraag nummer="3"/>
+      <vraag nummer="4"/>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" datum="1992-08-18" bron=" De Volkskrant"> De Volkskrant, 18 augustus 1992</noot>
+      </noten>
+   </antwoorden>
+   <mededeling mededeler="" functie="" afdeling="Binnenlandse Zaken" mededelingdatum="1992-09-22">Mededelmg van minister Dales (Binnenlandse Zaken). (Ontvangen 22 september 1992) Hierbij bericht ik u dat het tot mijn spijt niet mogelijk is gebleken de vragen, gesteld door de leden van Uw Kamer, de heer Willems en mevrouw Brouwer, mij toegezonden bij uw brief van 27 augustus 1992, binnen de gestelde termijn te beantwoorden, aangezien deze beantwoording meer tijd vraagt dan was voorzien. Zijn de citaten uit het BVD-rapport op een juiste manier weergegeven in het betreffende artikei? Geeft het artikel daarmee een correcte weergave van de inhoud van het BVD-rapport? 3 Wat is uw mening over de conclusie van het artikel, dat het rapport een «opeenstapeling van vermoedens en veronderstellingen» is en de schorsing van drs. E. Sinester in feite op drijfzand berust? 4 Bent u bereid de Kamer inzage te geven in het betreffende BVD-rapport, zodat een correct en volledig beeld ontstaat van de </mededeling>
+</kvr>

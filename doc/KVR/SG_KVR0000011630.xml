@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001326</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001326&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001326</item>
+         <item attribuut="Document-id">0000011630</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 396</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Jorritsma-Lebbink (VVD) over valse kentekens.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 396</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">396</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Jorritsma-Lebbink</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-03-02</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Maij-Weggen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-03-10</item>
+         <item attribuut="Beginpagina">813</item>
+         <item attribuut="Eindpagina">814</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="813" allpagenumbers="813" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="396" onderwerp="valse kentekens." indiendatum="1993-03-2">
+         <vrager partij="VVD" oorsprong="parlement">Jorritsma-Lebbink</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-03-10">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">Maij-Weggen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="1">
+      <vraag nummer="1">Bent u inmiddels op de hoogte van de voorstellen van de RAI en de BOVAG waardoor het rondrijden met vals kenteken wordt bemoeilijkt c.q. onmogelijk wordt? Bent u bereid, gezien de vele duizenden valse kentekens en gezien de hoge urgentie, reeds vóór de behandeling van de Nieuwe Wegenverkeerswet terzake voorstellen naar de Kamer te sturen? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ik ben zeker op de hoogte van voorstellen omtrent het bemoeilijken van het rondrijden met valse kentekenplaten. De voorstellen zijn namelijk binnen mijn ministerie, door de Rijksdienst voor het Wegverkeer (RDW), opgesteld. Het eerste, door de RDW alleen, uitgebrachte voorstel «Gecontroleerde afgifte en inname van kentekenplaten» (GAIK) heeft een voorstel voor wijziging van de Produktgroep Voertuigmarkering van de RAI-vereniging opgeleverd. </antwoord>
+      <antwoord nummer="2" voetnoot="1">De beide GAIK-voorstellen, het oorspronkelijke en het geamendeerde voorstel zijn onderwerp van onderzoek geweest van een extern adviesbureau voor wat betreft de mate waarin de fraude met kentekenplaten wordt tegengegaan, de haalbaarheid alsmede de kosten/baten– verhouding. De eindrapportage van dit onderzoek is onlangs aan mij aangeboden. Volgens dit onderzoek kleven aan beide voorstellen nog wat bezwaren maar heeft het geamendeerde voorstel een groter draagvlak bij de branche. Afgesproken is om het geamendeerde voorstel verder uit te werken waarbij de gesignaleerde tekorten nog moeten worden ondervangen. De systematiek van de huidige wegenverkeerswet verzet zich tegen invoering van het voorstel. Het sluit echter wel aan bij de nieuwe Wegenverkeerswet die sinds september 1992 bij de Kamer voorligt <voetnoot nummer="1"/>, klaar voor plenaire behandeling. Derhalve is invoering gekoppeld aan de inwerkingtreding van de nieuwe WVW. De invoering kan plaats vinden via wijzigingen van de nieuwe WVW en de nieuwe AMvB kentekenreglement die zodra de problemen zijn opgelost en de WVW is goedgekeurd aan de Kamer kan worden voorgelegd. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Kamerstuk 22 030</noot>
+      </noten>
+   </antwoorden>
+</kvr>

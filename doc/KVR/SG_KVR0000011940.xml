@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001636</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001636&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001636</item>
+         <item attribuut="Document-id">0000011940</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 706</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Eisma (D66), Van Ojik (GroenLinks) en E. G. Terpstra (VVD) over hervatten commerciële Walvisvangst in Noorwegen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 706</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">706</item>
+         <item attribuut="Indiener">
+            <persoon>Eisma</persoon>
+            <persoon>Van Ojik</persoon>
+            <persoon>Terpstra E.G.</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-05-25</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Gabor</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-07-01</item>
+         <item attribuut="Beginpagina">1441</item>
+         <item attribuut="Eindpagina">1442</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1441" allpagenumbers="1441 1442" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="706" onderwerp="hervatten commerciële Walvisvangst in Noorwegen." indiendatum="1993-05-25">
+         <vrager partij="" oorsprong="parlement">Eisma</vrager>
+         <vrager partij="" oorsprong="parlement">Van Ojik</vrager>
+         <vrager partij="" oorsprong="parlement">Terpstra E.G.</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-07-1">
+         <antwoorder functie="staatssecretaris" ministerie="Landbouw, Natuurbeheer en Visserij">Gabor</antwoorder>
+         <mede-antwoorder>de minister van Buitenlandse Zaken</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Heeft Noorwegen onlangs - nadat tijdens de afgelopen vergadering in Kyoto in IWC-verband besloten is het moratorium op de walvisvangst met een jaar te verlengen - aangekondigd 296 dwergvinvissen te zullen vangen, waarvan 160 voor commerciële doeleinden? <voetnoot nummer="1"/> Wanneer zal deze jacht beginnen? </vraag>
+      <vraag nummer="2">Zal de Nederlandse regering, samen met de elf EG-partners, met een scherp protest reageren op deze inbreuk van Noorwegen op de internationaal gemaakte afspraak? </vraag>
+      <vraag nummer="3">Welke gevolgen heeft de hervatting van de walvisvaart door Noorwegen vocr de Nederlandse houding bij de besprekingen over de toetreding van Noorwegen tot de EG? Deelt u de opvatting van de Britse minister van Landbouw, dat Noorwegen vanwege het walvisbeslult niet tot de EG kan toetreden? Bent u op de hoogte van het voornemen van de Verenigde Staten, om, indien Noorwegen de commerciële walvisvaart zou hervatten, dit land met economische strafmaatregelen te treffen? Zal Nederland zich bij dergelijke strafmaatregelen aansluiten? </vraag>
+      <vraag nummer="5">Bent u bereid op korte termijn de ambassadeur van Noorwegen te ontbieden om de Nederlandse afkeuring over de Noorse schending van het moratorium over te brengen? </vraag>
+      <vraag nummer="6">Welke maatregelen zal de Nederlandse regering met de IWC-lidstaten jegens Noorwegen treffen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1993-05-19" bron=" Ondermeer Volkskrant en Trouw"> Ondermeer Volkskrant en Trouw, 19 mei 1993</noot>
+         <noot nummer="2" datum="1993-04-14" bron=" Zie antwoord van LIMV op schriftelijke vraag 8 over walvisvangst. ingezonden"> Zie antwoord van LIMV op schriftelijke vraag 8 over walvisvangst. ingezonden, 14 april 1993</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja. De Noorse regering heeft op 18 mei jl. bekendgemaakt dat de commerciële jacht op Dwergvinvissen met onmiddellijke ingang zou worden hervat. Naar verluidt zou op 16 juni jl. de eerste walvis zijn buitgemaakt in het kader van deze jacht. Zoals in het antwoord op de vragen van de leden Eisma en Rosenmöller d.d. 14 april jl. werd gesteld', is Noorwegen vanwege een voorbehoud formeel niet gebonden aan het moratorium op de commerciële walvisvaart. Niettemin heeft de regering door middel van een nota, die op 2 juni jl. door de ambassade te Oslo aan de Noorse autoriteiten is overhandigd, haar teleurstelling uitgesproken over het Noorse besluit tot hervatting van de commerciële walvisvaart en aangedrongen op herziening daarvan. Een protest in EG-verband lag niet voor de hand, aangezien de EG geen partij is bij het Internationale Walvisvaartverdrag. </antwoord>
+      <antwoord nummer="3">Zoals eveneens in het antwoord op de hierboven genoemde vragen van de leden Eisma en Rosenmöller werd gesteld, is de regering van oordeel dat Noorwegen bij toetreding tot de EG ook op het gebied van de natuurbescherming de binnen de EG geldende verplichtingen dient over te nemen. In EG-kader zal derhalve moeten worden onderzocht of het onderhavige Noorse besluit verenigbaar is met o.m. de bepalingen van de Habitat-richtlijn. Dit onderzoek zal in eerste instantie worden verricht door de Europese Commissie. De regering acht het niet opportuun op de uitkomsten daarvan vooruit te lopen. wetsvoorstel «The International Whaling Moratorium Act of 1993», ingediend, dat de president van de VS zijn discretionaire bevoegdheid in dezen ontneemt en verplicht tot het verbieden van import in de VS van visserijprodukten uit een land, indien wordt geconstateerd dat dat land zich schuldig maakt aan verboden walvisjacht. Naar het zich laat aanzien zal dit voorstel evenwel niet op korte termijn tot wet worden verheven. Nederland zal zich niet bij dergelijke economische strafmaatregelen kunnen aansluiten aangezien, zoals bekend, de bevoegdheid voor het internationale handelsbeleid door de EG-lidstaten is overgedragen aan de Gemeenschap. </antwoord>
+      <antwoord nummer="5">Zie het antwoord op vraag 2. Verdere acties zullen worden bezien in het licht van de ontwikkelingen ten aanzien van de Noorse walvisvangst. </antwoord>
+      <antwoord nummer="6"/>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

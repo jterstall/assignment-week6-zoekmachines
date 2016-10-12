@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19871988:0001072</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001072&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001072</item>
+         <item attribuut="Document-id">0000098786</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1987-1988 nummer 135</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Leerling (R.P.F.) over het toneelstuk «het vuil, de stad en de dood».</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1987-1988 nummer 135</item>
+         <item attribuut="Jaargang">1987_1988</item>
+         <item attribuut="Vraagnummer">135</item>
+         <item attribuut="Indiener">
+            <persoon partij="RPF">Leerling</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-11-10</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Korthals Altes</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-11-18</item>
+         <item attribuut="Beginpagina">269</item>
+         <item attribuut="Eindpagina">270</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="" typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer,  m e t  d e daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 7 - 1 9 8 8 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="135" onderwerp="het toneelstuk «het vuil, de stad en de dood»." indiendatum="1 0 n o v e m - b e r 1 9 8 7 )">
+         <vrager partij="RPF" oorsprong="parlement">Leerling</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="18 november 1987) 1, 2 en 3 Ja, ik heb daarvan uit kranteberichten kennis genomen. 4 en 5 Het openbaar ministerie te Rotterdam stelt een onderzoek in naar de vraag of opvoering van het toneelstuk «Het vuil, de stad en de dood» overtreding van artikel 137 c-e van het Wetboek van Strafrecht oplevert. Ik heb, gelet op artikel 7, derde lid, van de Grondwet, geen bevoegdheid de opvoering van het door vraagsteller bedoelde toneelstuk tevoren te verbieden of op te schorten. De burgemeester van Rotterdam heeft zijn standpunt dienaangaande op 17 november 1987 kenbaar gemaakt. Bent u bereid een onderzoek in te (laten) stellen naar de mate, waarin dit stuk beledigende uitlatingen bevat, die strijdig kunnen zijn met de artikelen 137c t / m e van het Wetboek van Strafrecht? 5 Bent u bereid, wanneer daar op grond van het onderzoek aanleiding toe bestaat, opvoering van het toneelstuk op 19 november a.s. o p te schorten dan wel te verbieden?">
+         <antwoorder functie="minister" ministerie="Justitie">K o r t h a l s A l t e s</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1 ">Hebt u kennisgenomen van het  voornemen het toneelstuk «het vuil,  de stad en de dood» van R. Fassbinder  op 19 november a.s. in Rotterdam in  première te laten gaan? </vraag>
+      <vraag nummer="1 "/>
+      <vraag nummer="2 ">Herinnert u zich, dat de opvoering  van dit toneelstuk in Frankfurt  uiteindelijk geen doorgang heeft  gevonden vanwege de bezwaren, die  vanuit de Joodse gemeenschap  tegen het stuk zijn ingebracht?  </vraag>
+      <vraag nummer="3 ">Is u bekend, dat het Amsterdams  theater Frascati heeft geweigerd het  toneelstuk daar te laten opvoeren  vanwege het (vermeende) anti-semi- tisch karakter? </vraag>
+      <vraag nummer="2 "/>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="5 ">Bent u bereid, wanneer daar op  grond van het onderzoek aanleiding  toe bestaat, opvoering van het  toneelstuk op 19 november a.s.  o p te  schorten dan wel te verbieden?  </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> O.a. Trouw van 9 november en NRC-Han-delsblad van 6 november 1987 </noot>
+         <noot nummer="2"> Nieuw Israëlitisch Weekblad van 30 </noot>
+      </noten>
+   </antwoorden>
+</kvr>

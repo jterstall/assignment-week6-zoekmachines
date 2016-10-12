@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0001928</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001928&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001928</item>
+         <item attribuut="Document-id">0000004439</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 714</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Apostolou (PvdA) over de beëdiging van ministers en staatssecretarissen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 714</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">714</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Apostolou</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-07-28</item>
+         <item attribuut="Beantwoorder">
+            <persoon>De Graaff-Nauta</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-08-10</item>
+         <item attribuut="Beginpagina">1447</item>
+         <item attribuut="Eindpagina">1448</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1447" allpagenumbers="1447" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantiinstraat 's-Gravenhage 1994"/>
+      <vraagdata vraagnummer="714" onderwerp="de beëdiging van ministers en staatssecretarissen." indiendatum="1994-07-28">
+         <vrager partij="PvdA" oorsprong="parlement">Apostolou</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="lOaugustus 1994">
+         <antwoorder functie="minister" ministerie="Binnenlandse Zaken">De Graaff-Nauta</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Herinnert u zich, dat bij de behandeling van de wetsvoorsteüen tot uitvoering van de Grondwet van 1983 inzake de eedsaflegging van ministers en staatssecretarissen Kamerbreed een pleidooi is gehouden om de beëdiging van ministers en staatssecretarissen voortaan in het openbaar te doen plaatsvinden? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Herinnert u zich de toezegging van de ministers van Binnenlandse Zaken om deze wens van de Kamer in positieve zin te bezien? </vraag>
+      <vraag nummer="3">Deelt u de mening, dat de beëdiging van ministers en staatssecretarissen een belangrijk democratisch moment is dat niet buiten de openbaarheid zou moeten plaatshebben? </vraag>
+      <vraag nummer="4">Wil de regering bewerkstelligen, dat de beëdiging van ministers en staatssecretarissen van het nieuwe kabinet in het openbaar plaatsvindt? </vraag>
+      <vraag nummer="1"/>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Ja. 3 e n 4 In de brief van de minister van Binnenlandse Zaken aan de Voorzitter van de Tweede Kamer van 10 oktober </antwoord>
+      <antwoord nummer="1991" voetnoot="1">
+         <voetnoot nummer="1"/> is het standpunt van het kabinet terzake weergegeven. Dit standpunt is niet gewijzigd. In de brief wordt aangegeven dat er een ruime mate van openbaarheid en publiciteit bestaat op de dag waarop de bewindspersonen hun werkzaamheden aanvangen. Dit komt tot uitdrukking bij de «bordes-foto», de portefeuille-overdrachten op de departementen en de presentatie van het kabinet via radio en televisie. Als belangrijk democratisch moment dat in onze constitutionele verhoudingen naar mijn oordeel primair de publieke aandacht verdient, geldt vooral het eerste openbare optreden van het nieuwe kabinet in de Tweede Kamer. Bij het debat met de Tweede Kamer over het regeerakkoord, de regeringsverklaring en het verloop van de informatie en formatie, blijkt immers of het nieuwe kabinet over de parlementaire legitimatie beschikt om aan de slag te gaan. Wat dit kabinet betreft, is het uitgangspunt dat dit openbare debat zo spoedig mogelijk na de beëdiging plaatsvindt. Dit standpunt is ook neergelegd in de brief van het kabinet aan de Voorzitter van de Tweede Kamer van 19 juni </antwoord>
+      <antwoord nummer="1991"/>
+      <noten afkomstig="antwoord">
+         <noot nummer="2"/>
+         <noot nummer="1"> Kamerstuk 21 208. nr. 7</noot>
+         <noot nummer="2"> Kamerstuk21 427, nr. 16</noot>
+      </noten>
+   </antwoorden>
+</kvr>

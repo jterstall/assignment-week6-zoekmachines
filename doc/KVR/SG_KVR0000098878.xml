@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19871988:0001164</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001164&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001164</item>
+         <item attribuut="Document-id">0000098878</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1987-1988 nummer 226</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Tazelaar (P.v.d.A.) over het markt- en prijsbeleid van het Europese landbouwbeleid.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1987-1988 nummer 226</item>
+         <item attribuut="Jaargang">1987_1988</item>
+         <item attribuut="Vraagnummer">226</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Tazelaar</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-11-25</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Ruding</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-12-24</item>
+         <item attribuut="Beginpagina">451</item>
+         <item attribuut="Eindpagina">452</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="" typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 7 - 1 9 8 8 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="226" onderwerp="" indiendatum="">
+         <vrager partij="PvdA" oorsprong="parlement">Tazelaar</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="24 december 1987)">
+         <antwoorder functie="" ministerie="Financiën"/>
+         <mede-antwoorder>de Minister van Landbouw en Visserij</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1 ">Heeft de minister van Financiën zich  uitgesproken tegen monetair  compenserende bedragen bij de  uitvoer van landbouwprodukten om  koersschommelingen ongedaan te  maken, verwijzende naar het feit, dat  «tenslotte andere produkten ook  geen bescherming tegen deze  uitingen van de vrije markt hebben»?'  </vraag>
+      <vraag nummer="2 ">Zo ja, bent u zich bewust van het feit,  dat voor die andere produkten geen  regelingen als interventie en export- restituties, welke van toepassing zijn  op een aantal landbouwprodukten,  bestaan?  </vraag>
+      <vraag nummer="3 ">Zo ja, betekent de in vraag één  geciteerde uitlating, dat de minister  van Financiën interventie- en  exportrestitutieregelingen voor  landbouwprodukten wil afschaffen?  Zo neen, op welke wijze zal dan  kunnen  w o r d e n zekergesteld, dat het  markt- en prijsbeleid van het Europees  landbouwbeleid zonder concurrentie- vervalsingen kan werken?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1 ">In de lezing bij het Koninklijk Instituut  voor Internationale Betrekkingen te  Brussel, 16 november 1987, die  de aanleiding vormde voor de gestel- de vragen heeft de Minister van  Financiën zich niet uitgesproken over  het systeem van monetair compense- rende bedragen, zoals dat van  toepassing is op de intra-Europese  handel in landbouwprodukten.  Daarentegen heeft hij wel gesproken  over de noodzaak om te voorkomen  dat het concept van een adequate  Europese begrotingsbeheersing  w o r d t aangetast door te bepalen dat  koersfluctuaties tussen de US dollar  en de ECU gekenmerkt worden als  «buitengewone omstandigheden» en  derhalve kunnen leiden tot overschrij- ding van het financiële richtsnoer  inzake de gemeenschappelijke  landbouw uitgaven.  2 en 3  Aangezien het antwoord op vraag 1  ontkennend is, is de beantwoording  van de laatste twee vragen niet meer  aan de orde.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

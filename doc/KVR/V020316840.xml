@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="brengen?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Van Dam en Boelhouwer (beiden PvdA) aan de ministers van Economische Zaken en van Binnenlandse Zaken en Koninkrijksrelaties over de kwetsbaarheid van computersystemen voor aanvallen van buitenaf en de risico's daarvan voor de vitale infrastructuren. (Ingezonden 5 september 2003)</item>
+         <item attribuut="Bestand">12Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V020316840
+</item>
+         <item attribuut="Rubriek">Communicatie, media en informatievoorziening (Netwerken) Criminaliteit en openbare orde (Algemeen)</item>
+         <item attribuut="Trefwoorden">Computercriminaliteit Gegevensbeveiliging Openbare orde en veiligheid</item>
+         <item attribuut="Vindplaats">Kamervragen 2002-2003, vraagnr. 2020316840, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2020316840</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Van Dam</persoon>
+            <persoon partij="PvdA">Boelhouwer</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2003-09-05</item>
+         <item attribuut="Document-id">V020316840</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2002–2003" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0203tkkvl2020316840" lopendefooter="Tweede Kamer, vergaderjaar 2002–2003, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2003"/>
+      <vraagdata vraagnummer="2020316840" onderwerp="" indiendatum="2003-09-5">
+         <vrager partij="PvdA" oorsprong="parlement">Van Dam</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Boelhouwer</vrager>
+         <vraagt-aan>de ministers van Economische Zaken en van Binnenlandse Zaken en Koninkrijksrelaties</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1" voetnoot="1">Bent u op de hoogte van de recente berichten over de kwetsbaarheid van computersystemen door aanvallen van buitenaf (hackers en virussen? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Zijn de risico’s van dergelijke aanvallen betrokken bij de analyses die worden gemaakt in het kader van de bescherming van de vitale infrastructuur in Nederland? </vraag>
+      <vraag nummer="3">Wat zijn de risico’s van dergelijke aanvallen voor de Nederlandse vitale infrastructuur? </vraag>
+      <vraag nummer="4">Bestaan er verbindingen tussen computersystemen die betrokken zijn bij het beheer van de vitale infrastructuur (in het bijzonder elektriciteit, water, gas, telecommunicatie) en internet? </vraag>
+      <vraag nummer="5">Is de Nederlandse vitale infrastructuur voldoende beschermd tegen dergelijke aanvallen? </vraag>
+      <vraag nummer="6">Kunt u garanderen dat dergelijke aanvallen de leveringszekerheid van elektriciteit, water, gas, de universele telefoondienst en de televisie- en radiodistributie niet in gevaar </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" datum="2003-08-25" bron="Zie o.m. de Volkskrant">Zie o.m. de Volkskrant, 25 augustus 2003</noot>
+      </noten>
+   </antwoorden>
+</kvr>

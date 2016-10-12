@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001020</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001020&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001020</item>
+         <item attribuut="Document-id">0000011324</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 88</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Willems en Lankhorst (beiden GroenLinks) over het concept-Plan van Aanpak Kanaalzone Zeeuwsch Vlaanderen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 88</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">88</item>
+         <item attribuut="Indiener">
+            <persoon partij="GroenLinks">Willems</persoon>
+            <persoon partij="GroenLinks">Lankhorst</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-09-18</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Alders</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-10-20</item>
+         <item attribuut="Beginpagina">187</item>
+         <item attribuut="Eindpagina">188</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="187" allpagenumbers="187 188" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="" onderwerp="" indiendatum="">
+         <vrager partij="GroenLinks" oorsprong="parlement">Willems</vrager>
+         <vrager partij="GroenLinks" oorsprong="parlement">Lankhorst</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-10-20">
+         <antwoorder functie="minister" ministerie="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer">Alders</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="88">Vragen van de leden Willems en Lankhorst (beiden Groen Links) over het concept-Plan van Aanpak Kanaalzone Zeeuwsch Vlaanderen. (Ingezonden 18 september 1992) </vraag>
+      <vraag nummer="1">Hebt u kennis genomen van het concept-Plan van Aanpak Kanaalzone Zeeuwsch Vlaanderen? Deelt u de mening, dat het Plan van Aanpak eenzijdig gericht is op het vergroten van de economische groeimogelijkheden en dat een integrale aanpak van economische, ruimtelijke en milieu-problemen, zoals bedoeld in het ROM-beleid, daaraan ondergeschikt is gemaakt? </vraag>
+      <vraag nummer="3" voetnoot="1">Deelt u de mening, dat citaten als «waar goede ontwikkelingsmogelijkheden zijn voor de industrie, krijgt die bestemming de voorkeur bij de afweging» er op duiden dat meer sprake is van een economische ontwikkelingsvisie dan van een samenhangend plan van aanpak in het kader van het gebiedsgericht milieubeleid? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="4">Hebt u voor de financiering van de sleutelprojecten reeds een bedrag van enkele miljoenen toegezegd? Zo ja, om welk bedrag gaat het? Is die toezegging aan voorwaarden gebonden, bijvoorbeeld dat het bedrijfsleven ook een substantiële financiële bijdrage levert? </vraag>
+      <vraag nummer="5">Bent u van plan aan medefinanciering van het Rijk de voorwaarde te verbinden dat het Plan van Aanpak integraal wordt uitgevoerd, en dat niet wordt opgehouden na realisering van de sleutelprojecten? </vraag>
+      <vraag nummer="6" voetnoot="6">Zijn ten aanzien van de buurtschappen Axelsche Sassing, Boerengat/Hoogedijk, en Koegorspolder (deels) andere geluids– en risico-normen aangelegd dan klaarblijkelijk ten aanzien van andere woongebieden is gebeurd? Wat is de reden dat in Boerengat zelfs buiten de 10~ <voetnoot nummer="6"/> risicocontour verwijdering wordt voorgesteld? </vraag>
+      <vraag nummer="7">Waarom wordt integrale milieuzonering alleen toegepast op de situatie bij Sluiskil, terwijl die volgens de Vierde Nota Ruimtelijke ordening in het hele ROM-gebied Kanaalzone had moeten plaatsvinden? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Plan van Aanpak Kanaalzone Zeeuwsch Vlaanderen, pag 5</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja. Aan het Plan van aanpak liggen verschillende doelstellmgen ten grondslag gericht op het verbeteren van de ruimtelijke en milieukwaliteit van het gebied. Tevens is als uitgangspunt geformuleerd dat de Kanaalzone een industriegebied is en het meest aangewezen gebied voor concentratie van de industriële ontwikkeling in Zeeuwsch-Vlaanderen. Ik meen dat het concept Plan van aanpak een evenwichtige uitwerking vormt van genoemde doelstellingen. Het plan schetst een toekomstvisie voor het gebied, waarin de functies wonen en werken centraal staan. Nieuwe woonlokaties worden aangegeven; bij bestaande woonlokaties worden duidelijke (milieu)grenzen gesteld aan industriële ontwikkelingsmogelijkheden om een goede kwaliteit voor de woonfuncties in het gebied te waarborgen. Deze grenzen leggen sterke beperkingen op aan de economische groeimogelijkheden. Tevens zijn maatregelen opgenomen om de (milieu)knelpunten tussen de woon– en werkfunctie op te lossen. Ook het natuurbelang heeft een plaats gekregen in het concept Plan van aanpak. Ik deel uw opvatting dan ook niet. </antwoord>
+      <antwoord nummer="3">In het gepubliceerde concept Plan van aanpak is vermeld dat op plaatsen waar industriële ontwikkelingen goede mogelijkheden heeft, «het accent op die functie is uitvoeringskosten hieraan te verstrekken. Een formele toezegging heb ik evenwel nog niet gedaan. Dit houdt mede verband met de aan deze bijdrage verbonden voorwaarde dat er sprake moet zijn van een evenwichtige financiering door alle partijen, waarbij het bedrijfsleven ook een substantieel aandeel levert. Daarnaast bekostigen de bedrijven zelf zoals gebruikehjk in beginsel hun bronmaatregelen. </antwoord>
+      <antwoord nummer="5" voetnoot="6">In het Plan van aanpak wordt onderscheid gemaakt tussen korte en lange termijnprojecten. De korte termijnprojecten (in de vraag sleutelprojecten genoemd) zijn primair gericht op de sanering van knelpuntsituaties (?ie verder het antwoord op de vorige vraag). De lange termijnprojecten betreffen vooral grotere infrastructurele projecten. Deze zijn gewenst in het licht van het geschetste toekomstperspectief en zijn in het concept Plan van aanpak opgenomen, opdat daarmee in de toekomstige planvorming rekening wordt gehouden. De nadere uitwerking en afweging ervar zal in de komende jaren binnen de daarvoor geëigende plankaders plaatsvinden. Nadere afspraken hierover worden vastgelegd in de af te sluiten slotovereenkomst. Het past niet in deze lijn om aan mijn bijdrage t.b.v. de korte termijnprojecten een harde voorwaarde te verbinden met betrekking tot de realisering van deze lange termijnprojecten. zijn te bestrijden. Bovendien zou ook na het treffen van milieumaatregelen de woonkwaliteit te wensen over laten. Overigens ligt vrijwel het gehele buurtschap binnen de 10~ <voetnoot nummer="6"/>risico-contour, zoals door DOW in het Externe Veiligheidsrapport van 1990 gepresenteerd; - om zowel milieu– als economische redenen vormt concentratie van de industriële bednjvigheid op een aantal industrieterreinen, waaronder Terneuzen-West, een essentieel onderdeel van de toekomstvisie uit het concept Plan van aanpak. Amovering van Boerengat/Hoogedijk is noodzakelijk om dit mogelijk te maken. In de Stuurgroep Kanaalzone zijn nadere afspraken gemaakt over de invulling van het IMZ-project Kanaalzone De Stuurgroep heeft gemeend na de IMZ-exercitie voor Sluiskil te moeten afzien van een IMZ-project voor de gehele Kanaalzone om de volgende redenen: - bij het opstellen van de toekomstvisie door de stuurgroep heeft de IMZ-systematiek als hulpmiddel gefungeerd. De milieubelastingscontouren in het concept Plan van aanpak vormen evenwel het resultaat van een afweging in het licht van de gewenste toekomstige ontwikkeling voor de gehele Kanaalzone, waarbij naast IMZ ook andere overwegmgen een rol hebben gespeeld. De IMZ-methodiek zou niettemin in het algemeen geen duidelijk afwijkende resultaten opleveren ten opzichte van de uitkomsten zoals neergelegd </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

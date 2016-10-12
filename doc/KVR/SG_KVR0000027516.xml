@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001179</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001179&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001179</item>
+         <item attribuut="Document-id">0000027516</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 246</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Leerling (R.P.F.) over transport van Amerikaans legermaterieel via Nederland naar Saoedi-Arabië.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 246</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">246</item>
+         <item attribuut="Indiener">
+            <persoon partij="RPF">Leerling</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-11-27</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Ter Beek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-12-13</item>
+         <item attribuut="Beginpagina">497</item>
+         <item attribuut="Eindpagina">498</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="497" allpagenumbers="497" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverii 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="246" onderwerp="" indiendatum="">
+         <vrager partij="RPF" oorsprong="parlement">Leerling</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-12-13">
+         <antwoorder functie="minister" ministerie="Defensie">Ter Beek</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Hebt u kennisgenomen van het transport van Amerikaans legermate– rieel, dat via ons land naar Saoedi– Arabië wordt verscheept? </vraag>
+      <vraag nummer="2">Op welke wijze is het ministerie van Defensie hierbij organisatorisch betrokken? Hoe groot is het financiële aandeel van het ministerie van Defensie bij dit transport? Is van Amerikaanse zljde gevraagd dit aandeel te vergroten? </vraag>
+      <vraag nummer="4">Bent u bereid, gelet op het feit dat de Amerikaanse troepen in de Golf ook de belangen van Nederland verdedigen, als geste tegenover de Amerikaanse bondgenoten eigener beweging de kosten van het transport dan wel het verschepen in Rotterdam van dit materieel geheel of gedeeltelijk voor rekening van de Nederlandse regering te laten komen? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">De regering heeft de Verenigde Staten alle nodige ondersteuning toegezegd bij de doorvoer van militair materieel met bestemming Perzische Golf. Voor de uitvoering van deze steun worden de reeds bestaande coördinatie-procedures en de organisatie van de zgn. Host Nation Support gebruikt, omdat daarmee veel ervaring is opgedaan voor grootscheepse verplaatsingen (zoals de Reforger oefeningen). De coördinatie van de operationele aangelegenheden berust voor het Departement van Defensie bij de Chef Defensiestaf. Met de uitvoering van de steunverlening is het Nationaal Territoriaal Commando van de Koninklijke Landmacht belast. </antwoord>
+      <antwoord nummer="3">Voor de financiële afwikkeling van dit transport is het Navo-status-verdrag van toepassing. Dit betekent dat de werkzaamheden als gevolg van de organieke taken met de organieke middelen (Host Nation Support) van de Nederlandse krijgsmacht niet in rekening worden gebracht. Na beëindiging van de steunverlening is het mogelijk aan te geven hoe groot het financiële aandeel van Defensie is bij dit transport. Kosten die door derden in rekening worden gebracht, worden aan de Verenigde Staten doorbe– rekend. Van Amerikaanse zijde is geen verzoek binnengekomen om het Nederlandse aandeel te vergroten. Uit het antwoord op vraag 3 blijkt dat Nederland een deel van de kosten van doorvoer draagt. Van de zijde van de VS is geen verzoek ontvangen voor een grotere finan– ciële bijdrage. Voorshands wordt niet overwogen om andere betalingen dan genoemd t.b.v. dit transport ten laste van de defensiebegroting te brengen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

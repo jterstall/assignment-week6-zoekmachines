@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="1">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19891990:0001158</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001158&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001158</item>
+         <item attribuut="Document-id">0000035565</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 236</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden E. G. Terpstra en Nijhuis (beiden V.V.D.) over de regeling «doventolk».</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 236</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">236</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">E. G. Terpstra</persoon>
+            <persoon partij="VVD">Nijhuis</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-12-04</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Ter Veld</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-12-29</item>
+         <item attribuut="Beginpagina">477</item>
+         <item attribuut="Eindpagina">478</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, tnet de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="477" allpagenumbers="477" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="236" onderwerp="de regeling «doventolk»." indiendatum="1989-12-4">
+         <vrager partij="VVD" oorsprong="parlement">E. G. Terpstra</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Nijhuis</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1989-12-29">
+         <antwoorder functie="staatssecretaris" ministerie="Sociale Zaken en Werkgele– genheid">Ter Veld</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="1">
+      <vraag nummer="1">Herinnert u zich de toezegging van de minister van Sociale Zaken en Werkgelegenheid, de regeling «doventolk» te evalueren, opdat eventuele problemen bij de uitvoering van de thans twee jaar bestaande regeling kunnen worden opgelost? 2a Is de Stichting Plotsdoven, als repre– sentant van een groep burgers die met specifieke uitvoeringsproblemen geconfronteerd worden, tot op heden niet betrokken bij de aanzet tot de evaluatie? 2b Zo neen, wilt u bevorderen, dat de «plotsdoven» nadrukkelijk betrokken worden bij de uitvoering? Wanneer zullen de resultaten van de toegezegde evaluatie deze Kamer bereiken? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1">' Kamerstuk 21 350, nr. 5, vergaderjaar 1989--1990</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1">Ja. 2a  t/m  3 Zoals in de toelichting van het Besluit doventolkvoorziening Algemene Arbeidsongeschikt– heidswet (Stcrt. 1988, 34) staat aangegeven is het de bedoelmg dat er drie jaar na de datum van inwer– kingtreding (1 januari 1988) een evaluatie van de regeling zal worden gehouden. Een plan met betrekking tot de daarvoor benodigde gegevens bevindt zich thans in een afron– dingsfase. Bij de opzet van dit plan is er naar gestreefd om eind 1991 een evaluatierapport uit te brengen. Mocht bij de definitieve afronding van genoemd plan blijken dat deze datum niet haalbaar is, dan zal ik u nader informeren. Tevens zal ik bevorderen dat bij de verzameling van gegevens ook aandacht wordt besteed aan plots– doven en dat in verband daarmee contact wordt gezocht met de Stichting Plotsdoven. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

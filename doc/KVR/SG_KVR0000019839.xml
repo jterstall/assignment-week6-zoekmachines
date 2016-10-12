@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001453</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001453&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001453</item>
+         <item attribuut="Document-id">0000019839</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 437</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van lersel (CDA) over het beleid op het gebied van micro-electronica.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 437</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">437</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Van lersel</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-02-13</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Ritzen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-03-09</item>
+         <item attribuut="Beginpagina">925</item>
+         <item attribuut="Eindpagina">926</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="925" allpagenumbers="925" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's-Gravenhage 1992"/>
+      <vraagdata vraagnummer="437" onderwerp="het beleid op het gebied van micro-electronica." indiendatum="1992-02-13">
+         <vrager partij="CDA" oorsprong="parlement">Van lersel</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-03-9">
+         <antwoorder functie="minister" ministerie="Onderwijs en Wetenschappen">Ritzen</antwoorder>
+         <mede-antwoorder>de minister van Economische Zaken</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Zijn goed onderzoek en een goede opleidmg op het gebied van de micro-electronica essentieel voor het behoud van de - binnen Europa - unieke positie van Nederland op dit gebied, alsmede voor de zeer noodzakelijke versterking van de kunde op het gebied van de informatietechnologie in Europa? </vraag>
+      <vraag nummer="2" voetnoot="1">Zo ja, welke actie hebt u de afgelopen twee jaar in financiële termen ondernomen, om het - mede door de inspanningen van het ministerie - opgebouwde hoge niveau van onderzoek en onderwijs in de micro-electronica te behouden danwel te versterken? Is het u bekend, dat leden van de commissie Oakley, op wier rapport u uw beleid op het gebied van de micro-electronica baseert, verantwoordelijk waren voor het Alvey programma <voetnoot nummer="1"/>, dat volledig mislukt is? Is het u tevens bekend, dat alle Nederlandse deskundigen het erover eens zijn, dat het rapport van de commissie kwalitatief beneden de maat is? </vraag>
+      <vraag nummer="4">Welke conclusies trekt u uit bovenstaande vragen voor wat betreft uw beleid op het gebied van micro-electronica? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Dit programma (350 M pond over 5 jaar) had tot doel de IT structuur in de UK te versterken</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja, waarbij ik de kwalificatie «unieke positie van Nederland» voor rekening van de vragensteller laat. </antwoord>
+      <antwoord nummer="2">In het kader van het Micro-electronica Strijdplan voor de tweede helft van de '80er jaren is aan de technische universiteiten een omvangrijke financiering verstrekt voor de ontwikkeling van hun onderzoek– en onderwijsfaciliteiten. Dit onder de uitdrukkelijke en door alle betrokken partijen geaccepteerde voorwaarde dat zij na afloop van dit Micro-electronica Strijdplan de exploitatie– en vervangingsinvesteringen zelf zouden financieren. Bovendien werd in 1988 het Jessi-plan opgesteld waarbij een grote betrokkenheid vanuit de universitaire wereld werd voorzien (Jessi-BLR). Al gevolg op het strijdplan waren mijn coilega van Economische Zaken en ik bereid om voor een voorstel dat inspeelde op Jessi van de kant van de instellingen en tweede-geldstroomorganisaties een aanvullend bedrag van f 16 mln. ter beschikking te stellen. Doordat vervolgens majeure wijzigingen werden aangebracht in het Jessi-programma, die er onder meer toe leidden dat binnen dat programma de ruimte voor lange-termijnonderzoek op het terrein van de micro-electronica aanmerkelijk werd ingekrompen, ontviel echter hieraan de grondslag. Hierbij teken ik nog aan dat de TU's naast bovengenoemde Micro-electronica Strijdplan ook aanzienlijke bijdragen hebben ontvangen in het kader van het lOP-IC-technologie. </antwoord>
+      <antwoord nummer="3">Het is mij bekend, dat dr. Oakley leiding gaf aan het Alvey programma. De constatering dat het Alvey-programma geheel mislukt is, laat ik voor rekening van de vragensteller. Doel en uitwerking van Alvey zijn niet door Oakley gedefinieerd, maar door het Alvey-Committee (samengesteld uit topmensen uit de Britse industrie). Oakley zelf stond en staat uitstekend bekend: bij Britse overheid, bij bedrijfsleven (gelet op zijn huidige adviseurstaken), bij EG en Europese industrie (lidmaatschap van de Esprit Advisory Board), Eureka etc. De door dr. Alvey geïnstigeerde onafhankelijke evaluaties geven op zijn minste een genuanceerder beeld. Ten aanzien van het tweede deel van de vraag wil ik het volgende opmerken. Het is ons bekend dat kritische geluiden zijn geuit t.a.v. het Op beide punten staan Oakley en Mackintosh bepaald niet alleen. Ik wijs de kamer op een, in mijn opdracht door dr. E. Kooi, de voormalige R&amp;D topman van Philips-Signetics in de V.S. gemaakt overzicht van de situatie aan de Amerikaanse universiteiten. Hoofdconclusies in zijn zeer genuanceerde rapport zijn o.m. dat: - naast onderzoek op het gebied van componenten en materialen vanuit de industrie in toenemende mate aandacht gevraagd wordt voor onderzoek op het gebied van circuitontwerp en systeemontwikkeling; - universiteiten nu al vechten met de financieringsproblematiek en dat, gelet op de toenemende kosten van apparatuur samenwerking tussen universiteiten voor gezamenlijk beheer en gebruik van faciliteiten voor micro-electronica-onderzoek en –onderwijs onvermijdelijk zal zijn. </antwoord>
+      <antwoord nummer="4">Geen andere, dan dat de instellingen gezamenlijk met betrokken tweede-geldstroomorganisaties een realistische en vooral financiee! haalbare onderzoek– en onderwijsstrategie voor de komende jaren moeten opbouwen volgens de lijnen zoals ik heb aangegeven in mijn brieven aan de Tweede Kamer d.d. 18 maart (Kamerstuk 21 800 VIII, nr. 75) en 8 oktober (Kamerstuk 22 300 VIII, nr. 10) 1991. Daartoe zal ik de instellmgen en tweede-geldstroomorganisaties binnenkort uitnodigen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0001973</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001973&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001973</item>
+         <item attribuut="Document-id">0000004484</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 759</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Oedayraj Singh Varma (Groen Links) over de zaak Wilman.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 759</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">759</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Oedayraj Singh Varma</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-08-17</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Dijkstal</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-09-05</item>
+         <item attribuut="Beginpagina">1537</item>
+         <item attribuut="Eindpagina">1538</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1537" allpagenumbers="1537" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's-Gravenhage 1994"/>
+      <vraagdata vraagnummer="759" onderwerp="de zaak Wilman." indiendatum="1994-08-17">
+         <vrager partij="Groen Links" oorsprong="parlement">Oedayraj Singh Varma</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-09-5">
+         <antwoorder functie="minister" ministerie="Binnenlandse Zaken">Dijkstal</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1 2">Hebt u kennis genomen van de afwijzende reactie van de heer Wilman op uw aanbod om hem een eenmalige uitkering van f 50.000,- te verstrekken als genoegdoening voor de handelwijze van de BVD ten aanzien van zijn persoon? <voetnoot nummer="1"/>Bent u van oordeel dat u met dit aanbod aan de heer Wilman gehandeld heeft in de geest van de wens van de Tweede Kamer waar op 17 februari 1994 de fracties van CDA, PvdA, D66 en Groen Links zich uitspraken voor rehabilitatie van de heer Wilman? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="3">Bent u van oordeel dat de BVD nooit onjuiste informatie over de heer Wilman aan derden heeft verspreid aangezien u in uw brief aan de heer Wilman stelt: «Gelet op de toemalige internationale, politieke en maatschappelijke verhoudingen achtte de overheid het verstrekken van deze gegevens juist en noodzakelijk»? </vraag>
+      <vraag nummer="4">Kunt u uiteen zetten hoe de heer Wilman met een eenmalige uitkering van f 50.000,- in een positie gebracht wordt alsof hem in 1973 een eenmansonderzoeksopdracht was verleend? Bent u van oordeel dat deze uitkering genoegdoening is voor het missen van twintig jaar beroepspraktijk en de daaruit voortvloeiende beloning, zowel in materiële als immateriële zin? </vraag>
+      <vraag nummer="5">Bent u bereid om op het verzoek van de heer Wilman om een nieuw gesprek in te gaan en bij de vormgeving van een oplossing uitdrukkelijk rekening te houden met de wens van de Kamer de heer Wilman te rehabiliteren? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1994-08-4" bron=" Brief van de minister van Binnenlandse Zaken aan de heer Wilman dd. 14 juli 1994; Volkskrant."> Brief van de minister van Binnenlandse Zaken aan de heer Wilman dd. 14 juli 1994; Volkskrant., 4 augustus 1994</noot>
+         <noot nummer="2"> Zie Handelingen II, 1993-1994, nr. 18, blz. 3954, 3962 en 3965</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1" voetnoot="1 2 3"> t/m4 Tijdens het plenaire debat met uw Kamer op 17 februari 1994 heeft mijn ambtsvoorganger, de heer Van Thijn, zich bereid verklaard, in overleg met de vaste Commissie voor de Inlichtingen– en Veiligheidsdiensten, persoonlijk naar de zaak-Wilman te kijken in een ultieme poging om het dossier te sluiten. Hij heeft hierbij nadrukkelijk aangegeven geen woorden als rehabilitatie in de mond te willen nemen <voetnoot nummer="1"/>. In de afgelopen maanden hebben mijn ambtsvoorgangers, de heer Van Thijn en mevrouw De Graaff-Nauta, zich persoonlijk in de zaak verdiept. Dit heeft, in overleg met de eerdergenoemde commissie, geleid tot een gesprek van de toenmalige minister van Binnenlandse Zaken en de voorzitter van deze commissie met de heer Wilman. Bij brief van 14 juli 1994 heeft mijn ambtsvoorgangster mevrouw De Graaff-Nauta de heer Wilman een eenmalige onbelaste uitkering van f 50.000,- aangeboden. Dit met de bedoeling hem in een positie te brengen alsof de in 1973 niet verstrekte onderzoeksopdracht <voetnoot nummer="2"/>wel zou zijn verstrekt. Bij het bepalen van dit bedrag is aansluiting gezicht bij de huidige kosten voor het uitbesteden van wetenschappelijke onderzoeksopdrachten. De uitkering is geen genoegdoening voor het missen van twintig jaar beroepspraktijk. Het aanbod is ingegeven door louter menselijke overwegingen en vormt een ultieme poging het dossier-Wilman te sluiten. Over het aanbod is overleg geweest met de Commissie voor de Inlichtingen– en Veiligheidsdiensten. Deze heeft mij laten weten dat zij met het voorstel volledig instemt. Naar aanleiding van het aanbod heeft de heerWilman mijn ambtsvoorganger bij brief om een gesprek verzocht. Hiervoor heeft mevrouw De Graaff-Nauta geen aanleiding gezien. De heer Wilman heeft in zijn laatste brief niet niet tot een ander oordeel. Aan de heer Wilman is verder medegedeeld dat met de verklaring en het aanbod al het mogelijk is gedaan en dat daarmee de zaak definitief is gesloten. Ook hiermee heeft de Commissie voor de Inlichtingen– en Veiligheidsdiensten volledig ingestemd. De brief aan de heer Wilman, waarin het aanbod is opgenomen, zend ik u met het oog op de bescherming van zijn persoonlijke levenssfeer separaat toe <voetnoot nummer="3"/>. </antwoord>
+      <antwoord nummer="5">Gezien het voorgaande ben ik van mening dat al het mogelijke is gedaan om tot definitieve sluiting van het dossier-Wilman te komen. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="2"> II 1972-1973, nr. 12385, p. 18</noot>
+         <noot nummer="3"> Ter vertrouwelijke inzage alleen voor de leden bij de afdeling Parlementaire Documentatie</noot>
+      </noten>
+   </antwoorden>
+</kvr>

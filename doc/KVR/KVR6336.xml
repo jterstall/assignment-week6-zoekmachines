@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Koekkoek (CDA) over een verdachte in het COPA-onderzoek (Ingezonden 16 december 1997); Antwoord</item>
+         <item attribuut="Bestand">13Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR6336
+</item>
+         <item attribuut="Rubriek">Criminaliteit en openbare orde (Drugsbestrijding) Strafrecht en strafprocesrecht (Vervolging)</item>
+         <item attribuut="Trefwoorden">Aanhoudingen Drugsbestrijding Strafvervolging Verdachten</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 1997-1998, nr. 567, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">0</item>
+         <item attribuut="Afkomstig_van">Justitie</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Koekkoek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1998-01-20</item>
+         <item attribuut="Datum_indiening">1997-12-16</item>
+         <item attribuut="Document-id">KVR6336</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1997–1998" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1157" allpagenumbers="1157" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1997–1998, Aanhangsel" filenaam="KVR6336" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 1998"/>
+      <vraagdata vraagnummer="567" onderwerp="" indiendatum="1997-12-16">
+         <vrager partij="CDA" oorsprong="parlement">Koekkoek</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1">Is de heer H. Goedschalk verdachte in het COPA-onderzoek? </vraag>
+      <vraag nummer="2">Is de heer Goedschalk onlangs via Schiphol naar Damascus gereisd? </vraag>
+      <vraag nummer="3">Was het bij politie/justitie bekend dat de heer Goedschalk Schiphol zou aandoen? </vraag>
+      <vraag nummer="4">Bestond de mogelijkheid de heer Goedschalk op zijn doorreis aan te houden? </vraag>
+      <vraag nummer="5">Indien aanhouding mogelijk was, waarom heeft deze niet plaatsgevonden? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

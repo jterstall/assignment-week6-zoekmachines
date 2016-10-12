@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Wagenaar (PvdA) aan de minister van Justitie over een beveiligingslek bij de browser Netscape. (Ingezonden 1 oktober 1998); Antwoord</item>
+         <item attribuut="Bestand">14Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR8026
+</item>
+         <item attribuut="Rubriek">Communicatie, media en informatievoorziening (Netwerken) Criminaliteit en openbare orde (Informatiebeveiliging)</item>
+         <item attribuut="Trefwoorden">Computernetwerken Gegevensbeveiliging</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 1998-1999, nr. 197, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2989901020</item>
+         <item attribuut="Afkomstig_van">Justitie</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Wagenaar</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1998-10-21</item>
+         <item attribuut="Datum_indiening">1998-10-01</item>
+         <item attribuut="Document-id">KVR8026</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1998–1999" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="399" allpagenumbers="399" vetnummer="2989901020" code="" lopendefooter="Tweede Kamer, vergaderjaar 1998–1999, Aanhangsel" filenaam="KVR8026" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 1998"/>
+      <vraagdata vraagnummer="197" onderwerp="" indiendatum="1998-10-1">
+         <vrager partij="PvdA" oorsprong="parlement">Wagenaar</vrager>
+         <vraagt-aan>de minister van Justitie</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1998-10-21">
+         <antwoorder functie="minister" ministerie="Justitie">Korthals</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Bent u op de hoogte van het beveiligingslek bij de browser Netscape? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Bent u van mening dat hierdoor een schending van de privacy kan plaats vinden? </vraag>
+      <vraag nummer="3">Bent u van mening dat hierdoor criminele activiteiten op het Internet zouden kunnen worden vergemakkelijkt? </vraag>
+      <vraag nummer="4">Is het lek in Netscape ook geconstateerd door de onlangs ingestelde «cybersquads» van de CRI? </vraag>
+      <vraag nummer="5">Welke maatregelen overweegt u om (in internationaal verband) tegen dit beveiligingslek te treffen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1998-09-29" bron="NRC Handelsblad">NRC Handelsblad, 29 september 1998</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1"/>
+      <antwoord nummer="2 en 3">Uit het bericht in NRC Handelsblad van 29 september jl. leid ik af dat gegevens toegankelijk zijn voor derden omdat ze door een softwarefout onvoldoende beveiligd zijn. Voor de Internetgebruiker zou dit betekenen dat voor derden zichtbaar is welke websites zijn bezocht en welke informatie op Internet is afgegeven. Ongeoorloofd gebruik van dergelijke gegevens levert weliswaar een schending van de privacy op, maar daarmee is nog geen sprake van een strafbaar feit. Gegevens het open karakter van het Internet dient primair de Internet gebruiker te waken voor een afdoende beveiliging van zijn gegevens. Dat is ook het uitgangspunt van de Wet Computercriminaliteit, waar de strafbaarheid van een ongeoorloofde inbreuk in een computersysteem onder meer afhankelijk is gesteld van enige beveiliging door de gebruiker (zie art. 138a Sr). De Internetgebruiker heeft verschillende mogelijkheden om het niveau van beveiliging van zijn gegevens te verhogen en eventueel misbruik van gegevens te voorkomen. Ik denk bijvoorbeeld aan de mogelijkheid om additionele beveiligingsmaatregelen te heffen, het volgen van aanwijzingen van leveranciers (zie ook vraag 5) of het civielrechtelijk aanspraken van de software leverancier of degene die onbevoegd gegevens aan derden ter beschikking stelt of gebruikt. </antwoord>
+      <antwoord nummer="4">Vooropgesteld zij, dat er geen zogenaamde cybersquads in het leven zijn geroepen. Momenteel is er op projectbasis een team bezig (het Internetteam) om instrumenten en technieken te ontwikkelen om de op Internet aangeboden kinderpornografie te bestrijden. Dit team, maar ook andere computerspecialisten binnen de politie, wordt herhaaldelijk geconfronteerd met software fouten. Het behoort evenwel niet tot de kerntaken van deze computerspecialisten om hier onderzoek naar te doen. </antwoord>
+      <antwoord nummer="5">Zoals ik al aangaf, is het primair de verantwoordelijkheid van de Internet gebruiker zelf om zijn gegevens adequaat te beveiligen. Bij het door u bedoelde artikel is aangegeven hoe dat voor wat betreft de Netscape browser kan («Veilig surfen met Netscape»). Ook ligt er een verantwoordelijkheid voor de ontwikkelaars van software in het tijdig onderkennen van software fouten en het aanbieden van reparatieprogramma’s, hetgeen naar ik begrijp in dit geval ook gebeurt. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

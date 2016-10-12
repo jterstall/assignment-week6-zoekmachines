@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001051</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001051&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001051</item>
+         <item attribuut="Document-id">0000027388</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 118</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Te Veldhuis (V.V.D.) over een overleg inzake milieu-onderwerpen .</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 118</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">118</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Te Veldhuis</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-10-17</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Lubbers</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-11-01</item>
+         <item attribuut="Beginpagina">239</item>
+         <item attribuut="Eindpagina">240</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="239" allpagenumbers="239" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="118" onderwerp="een overleg inzake milieu-onderwerpen ." indiendatum="1990-10-17">
+         <vrager partij="VVD" oorsprong="parlement">Te Veldhuis</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Hebben de bewindslieden op 20 september jl. met Belgische ambtge– noten gesproken over onder andere de Waterverdragen (Maas en Schelde), de TGV, de uitbreiding van de luchthaven Beek en andere 'milieuproblemen'? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Zo ja, kunnen zij dan per onderwerp mededelen wat de resultaten zijn van die besprekingen? Waarom is deze Kamer ter zake niet geïnformeerd? </vraag>
+      <vraag nummer="3">Welke conclusies moeten worden verbonden aan het feit, dat zo'n zware Regeringsdelegatie en elf bewindslieden uit het Belgische Kabinet bij het overleg waren betrokken? </vraag>
+      <vraag nummer="4">Zijn in voornoemd overleg besluiten genomen of conclusies getrokken ten aanzien van de toekomst van de Benelux? Zo ja, welke? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="toegezonden vragen van de leden" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19941995:0000633</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000633&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000633</item>
+         <item attribuut="Document-id">0000000633</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1994-1995 nummer 299</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Oudkerk en Dijksman (beiden PvdA) over bij de operatie van een drugskoerier aangetroffen drugs.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1994-1995 nummer 299</item>
+         <item attribuut="Jaargang">1994_1995</item>
+         <item attribuut="Vraagnummer">299</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Oudkerk</persoon>
+            <persoon partij="PvdA">Dijksman</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-11-01</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Borst-Eilers</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-12-21</item>
+         <item attribuut="Beginpagina">603</item>
+         <item attribuut="Eindpagina">604</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1994-1995" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="603" allpagenumbers="603" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1994-1995, Aanhangsel" filenaam="" issn-nummer="ISSN 0921-7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1994"/>
+      <vraagdata vraagnummer="299" onderwerp="bij de operatie van een drugskoerier aangetroffen drugs." indiendatum="1994-11-1">
+         <vrager partij="PvdA" oorsprong="parlement">Oudkerk</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Dijksman</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1">Kent u het bericht </vraag>
+      <vraag nummer="1"> als zouden ziekenhuizen verplicht zijn de drugs die bij de operatie van een drugskoerier worden aangetroffen terug te geven aan die koerier? Oudkerk en Dijksman (beiden PvdA) inzake bij de operatie van een drugskoerier aangetroffen drugs, (ingezonden 1 november 1994) kunnen tot mijn spijt nog niet worden beantwoord. De reden van uitstel is dat ondergetekende nog overleg moet voeren met de minister van Justitie. De beantwoording zal uiterlijk vóór 12 januari 1995 plaats hebben. Brengt het beroepsgeheim van de arts mee dat deze in de maag van een drugskoerier aangetroffen drugs weer aan de koerier meegeeft? </vraag>
+      <vraag nummer="3">Is er overleg geweest tussen uw ministeries om te komen tot een protocol voor dit soort situaties? </vraag>
+      <vraag nummer="4">Wilt u in overleg met de beroepsgroep de totstandkoming van een protocol bevorderen? </vraag>
+      <vraag nummer="1"/>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+   <mededeling mededeler="Borst-Eilers" functie="minister" afdeling="Volksgezondheid, Welzijn en Sport" mededelingdatum="1994-12-21">Mededeling van minister Borst-Eilers (Volksgezondheid, Welzijn en Sport). (Ontvangen 21 december 1994), zie ook aanhangsel Handelingen nr. 209, Vergaderjaar 1994-1995 De bij de brief (primair) aan mij </mededeling>
+</kvr>

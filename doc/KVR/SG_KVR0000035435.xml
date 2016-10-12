@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19891990:0001028</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001028&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001028</item>
+         <item attribuut="Document-id">0000035435</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 107</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Soutendijk-van Appeldoorn en Esselink (beiden C.D.A.) over het beleid inzake antibiotica voor veterinaire toepassing.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 107</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">107</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Soutendijk-van Appeldoorn</persoon>
+            <persoon partij="CDA">Esselink</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-10-04</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Braks</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-11-03</item>
+         <item attribuut="Beginpagina">221</item>
+         <item attribuut="Eindpagina">222</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="221" allpagenumbers="221" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 921 7398" uitgever="SDU uitgeverij 's Gravenhage 1989"/>
+      <vraagdata vraagnummer="107" onderwerp="het beleid inzake antibiotica voor veteri– naire toepassing." indiendatum="1989-10-4">
+         <vrager partij="CDA" oorsprong="parlement">Soutendijk-van Appeldoorn</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Esselink</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1989-11-3">
+         <antwoorder functie="minister" ministerie="Landbouw en Visserij">Braks</antwoorder>
+         <mede-antwoorder>de staatssecretaris van Welzijn, Volksgezondheid en Cultuur</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Hebt u kennis genomen van het RIVM-advies inzake inperking van het arsenaal van antimicrobiële geneesmiddelen voor veterinaire toepassing?' </vraag>
+      <vraag nummer="2">Deelt u de opvattingen van de werkgroep, dat in het kader van de Diergeneesmiddelenwet een beperkend toelatingsbeleid voor de mens levensreddende antibiotica is aan te bevelen? Deelt u de opvatting van de werkgroep dat nu momenteel een veterinair antibiotica beleid ontbreekt en er ook geen PMS (post marketing surveillance) door de fabrikanten en importeurs van diergeneesmiddelen plaats vindt, de beleidsoptie van het geheel verbieden van bepaalde soorten antibiotica de voorkeur verdient? </vraag>
+      <vraag nummer="4">Zo ja, op welke wijze bent u voornemens de aanbevelingen op concrete wijze gestalte geven? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> RIVM: rapportnummer 358471003 Bilthoven RIVM = Rijksinstituut voor volksgezondheid en milieuhygiëne</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja. 2 e n 4 Er kunnen redenen zijn voor een beperkend toelatingsbeleid voor bepaalde diergeneesmiddelen. Bij de totstandkoming van de Diergenees– middelenwet is derhalve, middels artikel 5, de mogelijkheid gecreëerd om substanties aan te wijzen die niet voor registratie als diergeneesmiddel in aanmerking komen ook al zouden zij aan de voorwaarden voor regis– tratie voldoen. Het betreft in derge– lijke gevallen substanties waarvan het gebruik als diergeneesmiddel in het belang van de volksgezondheid ongewenst is. Bezien zal worden of het rapport van de Werkgroep nieuwe gezichts– punten naar voren brengt op grond waarvan in het kader van artikel 5 een meer beperkt toelatingsbeleid voor bepaalde antimicrobiële middelen ten behoeve van humaan gebruik moet worden gevoerd. </antwoord>
+      <antwoord nummer="3">De voorstelling van zaken door de Werkgroep is niet helemaal correct. Anders dan gemeend wordt is er wel degelijk sprake van een antibiotica– beleid. Reeds in 1964 werden regels gesteld omtrent antibiotica voor veterinair gebruik in de Wet houdende regelen met betrekking tot de handel in antibiotica, chemotherapeutica, hormoonpreparaten en thyreostatica bestemd of mede bestemd voor aanwending bij dieren. Deze wet is in 1987 ingetrokken als gevolg van het van kracht worden van de Dierge– neesmiddelenwet (Stb. 1985, 410). Op basis van laatstgenoemde wet dienen er bij de aanvraag tot regis– tratie van een diergeneesmiddel, indien van toepassing, gegevens te worden verstrekt inzake het verschijnen van resistente organismen. In 1970 is er een Veevoederaddi– tieven Richtlijn (70/524/EEG) vastgesteld, krachtens welke het gebruik van antimicrobiële substanties als veevoederadditief niet toegelaten is als deze om gegronde redenen voor de gezondheid van mens of dier moeten worden gereserveerd voor medisch of veterinair gebruik. Met deze maatregel kwam een einde aan het op grote schaal toepassen van dergelijke antibiotica in de veehou– derij. In de praktijk worden er, in samen– werking met het RIVM, door de Gezondheidsdiensten voor Dieren, en de Streeklaboratoria voor de Volksgezondheid reeds op ruime schaal resistentiebepalmgen van bacteriën uitgevoerd. Te verwachten valt dat deze werkzaamheden wat de Gezondheidsdiensten betreft nog zullen toenemen naarmate de veteri– naire begeleiding in de veehouderij meer ingang gaat vinden. Ook de Rijkskeuringsdienst van Waren verricht onderzoek naar het voorkomen van resistente bacterie– stammen in het voedingsmiddelen– pakket. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

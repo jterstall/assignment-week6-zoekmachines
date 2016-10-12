@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="5">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Vendrik en Duyvendak (beiden GroenLinks) aan de ministers van Economische Zaken en van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer over het toezicht op gasleidingen en -installaties. (Ingezonden 3 juli 2003); Antwoord</item>
+         <item attribuut="Bestand">17Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR18525
+</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van een bericht in Trouw van 1 juli 2003 over het toezicht op gasleidingen en -installaties. Deze vragen dienen ter aanvulling op eerdere vragen ter zake van het lid De Wit, ingezonden 2 juli 2003.</item>
+         <item attribuut="Rubriek">Energie, water en grondstoffen (Aardgas)</item>
+         <item attribuut="Trefwoorden">Aardgas Bouwvoorschriften Pijpleidingen</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2003-2004, nr. 4, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2020314370</item>
+         <item attribuut="Afkomstig_van">Economische Zaken (EZ)</item>
+         <item attribuut="Indiener">
+            <persoon partij="GroenLinks">Vendrik</persoon>
+            <persoon partij="GroenLinks">Duyvendak</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2003-09-17</item>
+         <item attribuut="Datum_indiening">2003-07-03</item>
+         <item attribuut="Document-id">KVR18525</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2003–2004" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="7" allpagenumbers="7 8" vetnummer="2020314370" code="0203tkkvr4" lopendefooter="Tweede Kamer, vergaderjaar 2003–2004, Aanhangsel" filenaam="KVR18525" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2003"/>
+      <vraagdata vraagnummer="4" onderwerp="" indiendatum="2003-07-3">
+         <vrager partij="GroenLinks" oorsprong="parlement">Vendrik</vrager>
+         <vrager partij="GroenLinks" oorsprong="parlement">Duyvendak</vrager>
+         <vraagt-aan>de ministers van Economische Zaken en van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2003-09-17">
+         <antwoorder functie="minister" ministerie="Economische Zaken">Brinkhorst</antwoorder>
+         <mede-antwoorder>de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Is het waar dat gemeenten gasinstallaties en -aansluitingen «achter de meter» (binnenshuis) niet systematisch controleren, maar alleen wanneer er aanwijzingen zijn dat er iets mis is? <voetnoot nummer="1"/>Vindt u dat voldoende? Zo ja, waarom? Zo neen, waarom niet? </vraag>
+      <vraag nummer="2" voetnoot="2">Wat vindt u van het pleidooi van de heer Lek van de Haagse brandweer <voetnoot nummer="2"/>voor een landelijk geregelde, verplichte jaarlijkse keuring op leidingen en installaties binnenshuis? </vraag>
+      <vraag nummer="3">Is het waar dat de lokale netbeheerder verantwoordelijk is voor de controle op de gasleidingen «tot aan de meter»? Hoe is het toezicht hierop geregeld? Heeft bijvoorbeeld de Dienst Toezicht energie (DTe) hierin een rol? Vindt u dat deze controletaak en het toezicht hierop in de praktijk voldoende worden uitgeoefend? Zo ja, waarom? Zo neen, waarom niet? </vraag>
+      <vraag nummer="4">Heeft u aanwijzingen dat netbeheerders de controle op leidingen tot aan de meter hebben verminderd als gevolg van de liberalisering van de energiemarkt? Zo ja, wat zijn die aanwijzingen en wat gaat u ondernemen om deze situatie te verbeteren? </vraag>
+      <vraag nummer="5">Welke verantwoordelijkheid heeft u m.b.t. het toezicht op zowel elektra als gasleidingen en -installaties, zowel binnens- als buitenshuis? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="2003-07-1" bron="Trouw">Trouw, 1 juli 2003</noot>
+         <noot nummer="2" titel="Risicoanalyse veiligheid gas- elektra-installaties in de woning">In het rapport «Risicoanalyse veiligheid gas-elektra-installaties in de woning» 2002, in opdracht van het ministerie van VROM</noot>
+      </noten>
+   </vragen>
+   <toelichting>Deze vragen dienen ter aanvulling op eerdere vragen ter zake van het lid De Wit, ingezonden 2 juli 2003. </toelichting>
+   <antwoorden aantal="5">
+      <antwoord nummer="1">Volgens de Woningwet zijn gemeenten verantwoordelijk voor de handhaving van de bouwregelgeving. Het College van Burgemeester en Wethouders kan zelf bepalen welke instantie de handhaving uitoefent. Voor wat betreft het toezicht op gas- en elektra-installaties waren het tot de jaren ’90 in principe de gemeentelijke energiebedrijven die deze taak in opdracht van de gemeenten uitvoerden. Thans is dit meestal een afdeling Bouw- en Woningtoezicht. Ook de verantwoordelijkheid voor het bepalen van de controlefrequentie ligt bij de gemeente. In de huidige praktijk blijkt dat de gemeenten niet systematisch de woninginstallatie controleren. Om te bezien of dit consequenties heeft voor de veiligheid, is in opdracht van VROM de «Risicoanalyse veiligheid gas- en elektra-installaties in de woning» uitgevoerd en begin 2003 gepubliceerd. Hieruit kan worden geconcludeerd dat de veiligheid van installaties in woningen hoog is. Dat laat echter onverlet dat gemeenten hun verantwoordelijkheid moeten nemen. VROM is hierover in gesprek met de VNG. </antwoord>
+      <antwoord nummer="2">VROM heeft het initiatief genomen om met de VNG te praten over mogelijkheden om de handhaving van de veiligheid van gasvoorzieningen te verbeteren. Een landelijk geregelde (verplichte) keuring op leidingen en installaties binnenshuis zal in dit overleg als optie worden meegenomen. </antwoord>
+      <antwoord nummer="3">In artikel 10 van de Gaswet zijn de taken voor een gastransportbedrijf opgenomen. Deze taken hebben onder meer betrekking op het onderhouden en ontwikkelen van het gastransportnet op een wijze die de veiligheid, de doelmatigheid en de betrouwbaarheid waarborgt en het milieu ontziet. Voor de aanleg en het onderhoud van gasleidingen zijn normen en Richtlijnen opgesteld. Het gaat om NEN-normen en KVGN-Richtlijnen. Deze laatste worden momenteel omgezet in NEN-normen. Deze normen zijn mede opgesteld om de distributie van aardgas op een veilige en efficiënte manier te laten plaatsvinden. Zij worden regelmatig aangepast aan de laatste stand van techniek en aan de vigerende Europese normen voor gasdistributiesystemen. De normen zijn bepalend voor het ontwerp, de aanleg en het onderhoud van gasleidingen. De netbeheerder bewaakt de actuele conditie van zijn gasnet door periodiek lekzoeken en door het opstellen van conditierapporten. </antwoord>
+      <antwoord nummer="4">Het toezicht op de naleving van de in artikel 10 van de Gaswet genoemde taken is toebedeeld aan de DTe. De DTe voert audits uit bij de netbeheerders waarbij onder andere het punt van veiligheid van het gasnet aan de orde komt. Ik heb geen aanwijzingen dat de netbeheerders hun inspanningen met betrekking tot hun verantwoordelijkheden hebben verminderd. Op dit moment ben ik, zoals bekend, mede als uitvloeisel van de discussie over privatisering, bezig om de regels in de elektriciteits- en de gaswet met betrekking tot de kwaliteit van de netten aan te scherpen. De veiligheid maakt uiteraard een onderdeel hiervan uit. Vanwege de publiekrechtelijke verantwoordelijkheid voor veiligheid acht ik het noodzakelijk om deze NEN-normen en KVGN-Richtlijnen die op basis van zelfregulering zijn ontwikkeld, een publiekrechtelijke basis te geven. Zodoende krijgt de DTe ook een duidelijk publiek kader voor het toezicht op de in artikel 10 van de Gaswet genoemde taak. Het wetsvoorstel dat deze kwaliteit van de netten waarborgt zal in september voor advies aan de Raad van State worden voorgelegd. </antwoord>
+      <antwoord nummer="5">De verantwoordelijkheidsverdeling voor de installaties binnenshuis, dat wil zeggen, na de meter is als volgt. Primair is de eigenaar van een woning verantwoordelijk voor de naleving van de voorschriften uit de bouwregelgeving. De woningeigenaar heeft hiermee de taak om ervoor te zorgen dat de woning over een veilige installatie beschikt. Middels de Woningwet heeft de gemeente de verantwoordelijkheid de naleving van deze taak door de woningeigenaar te handhaven. Het Rijk, in dit geval de VROM-Inspectie, ziet er op toe dat gemeenten deze verantwoordelijkheid naar behoren invulling geven. De netbeheerders dragen de operationele verantwoordelijkheid voor de gas- en elektriciteitsleidingen tot en met de meter. De DTe houdt toezicht op een goede taakvervulling door de netbeheerders. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19931994:0001387</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001387&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001387</item>
+         <item attribuut="Document-id">0000003898</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 173</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van der Vlies (SGP) over embryo-splitsing.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 173</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">173</item>
+         <item attribuut="Indiener">
+            <persoon partij="SGP">Van der Vlies</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-10-20</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Hirsch Ballin</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-12-03</item>
+         <item attribuut="Beginpagina">351</item>
+         <item attribuut="Eindpagina">352</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="351" allpagenumbers="351" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's-Gravenhage 1993"/>
+      <vraagdata vraagnummer="173" onderwerp="embryo-splitsing." indiendatum="1993-10-20">
+         <vrager partij="SGP" oorsprong="parlement">Van der Vlies</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="3 december 1993), zie ook Aanhangsel Handelingen nr. 126, Vergaderjaar 1993-1994">
+         <antwoorder functie="minister" ministerie="Justitie">Hirsch Ballin</antwoorder>
+         <mede-antwoorder>de staatssecretaris van Welzijn, Volksgezondheid en Cultuur</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Kent u het voornemen van het Academisch ziekenhuis Maastricht om binnenkort over te gaan tot embryo-splitsing? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Ontbreekt voor deze behandeling nog een wettelijke toestemming? </vraag>
+      <vraag nummer="3">Op welke basis wil het ziekenhuis overgaan tot een dergelijke behandeling? Is daarvoor een vergunning op grond van artikel 18 Wet ziekenhuisvoorzieningen vereist? </vraag>
+      <vraag nummer="4" voetnoot="2">Hoe verhoudt het voornemen zich tot de stellingname van de regering in het wetsvoorstel Medische experimenten met embryo's? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="5">Wilt u bevorderen, dat aan genoemde behandeling toestemming wordt onthouden? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1993-10-19" bron=" Trouw dd."> Trouw dd., 19 oktober 1993</noot>
+         <noot nummer="2"> Kamerstuk 23 016, vergaderjaar 1992-1993</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Uit de pers is ons gebleken dat in het Academisch Ziekenhuis Maastricht het voornemen bestaat om pre-implantatiediagnostiek toe te passen. Daarvoor wordt van een door in vitro fertilisatie tot stand gekomen embryo een cel weggenomen. Deze cel wordt onderzocht op de aanwezigheid van een bepaalde erfelijke aandoening. In geval van een geslachtsgebonden aandoening wordt vooralsnog, zoals ook thans het voornemen is, volstaan met onderzoek naar het geslacht. </antwoord>
+      <antwoord nummer="2, 3 en 5">Pre-implantatiediagnostiek kan slechts in combinatie met in vitro fertilisatie worden toegepast. Het Academisch Ziekenhuis Maastricht heeft een vergunning op grond van artikel 18 Wet Ziekenhuisvoorzieningen om in vitro fertilisatie toe te passen. Omdat bij de vergunningverlening geen sprake was van toepassing van in vitro fertilisatie ten behoeve van pre-implantatiediagnostiek, is er voor het ministerie van Welzijn, Volksgezondheid en Cultuur aanleiding met dit ziekenhuis in overleg te treden. Van de uitkomsten van dit overleg zal verslag worden gedaan aan de Tweede Kamer. </antwoord>
+      <antwoord nummer="4">Het voorstel van wet houdende wijziging van de wet inzake medische experimenten in verband met regels inzake handelingen met menselijke embryo's en geslachtscellen' bevat de mogelijkheid om bij algemene maatregel van bestuur het verrichten van wetenschappelijk onderzoek met door in vitro fertilisatie tot stand gebrachte embryo's te verbieden. Uit de berichten moet begrepen worden dat de vorm van pre-implantatiediagnostiek die het Academisch Ziekenhuis Maastricht van plan is te gaan toepassen het experimentele stadium reeds te boven is. De zojuist genoemde regeling zou zich dus niet over deze toepassing uitstrekken. In een in voorbereiding zijnd wetsvoorstel wordt het enkele wegnemen van een cel uit een embryo in principe verboden. In bespreking is in hoeverre daarop uitzondering mag worden gemaakt ten behoeve van bepaalde duidelijk omschreven gevallen van pre-implantatiediagnostiek. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Kamerstukken II 1992/93, 23016, nrs. 1-2</noot>
+      </noten>
+   </antwoorden>
+</kvr>

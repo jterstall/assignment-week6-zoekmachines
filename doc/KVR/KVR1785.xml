@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="7">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid M. M. van der Burg (PvdA) over beveiliging van de computersystemen van de politie. (Ingezonden 20 juni 1995); Antwoord</item>
+         <item attribuut="Bestand">16Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR1785
+</item>
+         <item attribuut="Inhoud">Betreft een computerkraak via het ACU (Academisch Computercentrum Universiteit Utrecht) in het politiecomputersysteem.</item>
+         <item attribuut="Rubriek">Criminaliteit en openbare orde (Informatiebeveiliging)</item>
+         <item attribuut="Trefwoorden">Computercriminaliteit Politie</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 1994-1995, nr. 1128, Tweede Kamer</item>
+         <item attribuut="Afkomstig_van">Binnenlandse Zaken</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">M. M. van der Burg</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1995-08-21</item>
+         <item attribuut="Datum_indiening">1995-06-20</item>
+         <item attribuut="Document-id">KVR1785</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1994–1995" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="2321" allpagenumbers="2321 2322" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1994–1995, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgeverij Plantijnstraat ’s-Gravenhage 1995"/>
+      <vraagdata vraagnummer="1128" onderwerp="" indiendatum="1995-06-20">
+         <vrager partij="PvdA" oorsprong="parlement">M. M. van der Burg</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="21 augustus 1995), zie ook Aanhangsel Handelingen nr. 940, Vergaderjaar 1994–1995">
+         <antwoorder functie="minister" ministerie="Binnenlandse Zaken">Dijkstal</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1" voetnoot="1">Is door een computerkraak via het ACU (Academisch Computercentrum Universiteit Utrecht) een rapport van de politie van het district Eemland-Zuid in handen gekomen van een Leusdense zakenman? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Hoe is het mogelijk om via het ACU binnen te dringen in het politiecomputersysteem? </vraag>
+      <vraag nummer="3">Op welke wijze zijn de computerbestanden van de politie in het district Leusden Zuid beveiligd tegen ongeautoriseerd gebruik? </vraag>
+      <vraag nummer="4">Is van dezelfde beveiliging sprake in andere politiedistricten? </vraag>
+      <vraag nummer="5">Onderschrijft u de mening van prof. dr. ing. I. S. Herschberg dat de beveiliging van de politie en justitie «zo lek is als een mandje»? Zo neen, kunt u dan aangeven op welke wijze een «hacking» zoals genoemd in de toekomst kan worden voorkomen? </vraag>
+      <vraag nummer="6">Hebt u eerder signalen ontvangen van genoemde emeritus hoogleraar over slecht beveiligde computersystemen? Zo ja, welke acties hebt u daarop ondernomen? </vraag>
+      <vraag nummer="7">Kunt u deze vragen beantwoorden voor het Algemeen Overleg over Beheersing Informatiebeveiliging, 22 juni 1995? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1995-06-16" bron="Utrechts Nieuwsblad d.d. 15 en">Utrechts Nieuwsblad d.d. 15 en, 16 juni 1995</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="7">
+      <antwoord nummer="1">De politieregio Utrecht is door tussenkomst van een zakenman uit Leusden in het bezit gekomen van een aantal documenten. De inhoud van deze documenten en het verhaal van de zakenman sluiten niet uit dat informatie uit het zogenaamde Bedrijfs Processen Systeem (BPS) is betrokken. Het gaat hier om een regio-breed systeem ten behoeve van de ondersteuning van het (dagelijks) politiewerk, dat ook in gebruik is in het district Eemland-Zuid van de politieregio Utrecht. Deze gang van zaken is voor de leiding van het district Eemland-Zuid aanleiding geweest ter zake een diepgaand onderzoek in te stellen. Dit onderzoek staat onder leiding van een officier van Justitie. </antwoord>
+      <antwoord nummer="2">Het is thans niet duidelijk of bedoelde informatie door een computerkraak via het Academisch Computer- centrum Universiteit Utrecht is verkregen. Het hiervoor genoemde onderzoek zal ondermeer hierover meer duidelijkheid moeten geven. Zodra het onderzoek is afgerond, zult u onverwijld nader geı¨nformeerd worden. </antwoord>
+      <antwoord nummer="3">De computersystemen van de politieregio Utrecht zijn aan elkaar gekoppeld door middel van netwerken die in principe niet op andere openbare netwerken zijn aangesloten. Het regio-netwerk is wel gekoppeld aan het landelijk Podacs-netwerk dat fungeert als netwerk voor verschillende systemen ten behoeve van justitie en politie. Met behulp van diverse technische systemen en het gebruik van toegangscodes, zijn deze systemen beveiligd tegen toegang door onbevoegden. De hier bedoelde toegangscodes worden regelmatig gewijzigd. </antwoord>
+      <antwoord nummer="4">Ja, zie antwoord op vraag 3. </antwoord>
+      <antwoord nummer="5">De beveiliging van computer- systemen is afhankelijk van het geheel van de ter zake getroffen maatregelen en het gedrag van de gebruikers en systeembeheerders. Ondanks al die maatregelen vallen technische fouten en menselijke tekortkomingen nooit uit te sluiten. Daarmee is nog niet gezegd dat de beveiliging van de computer- systemen van politie en justitie «zo lek is als een mandje». Ik ben van mening dt de beveiliging erop gericht moet zijn fouten tot een minimum te beperken en waar nodig extra matregelen te treffen. Het hiervoor genoemde onderzoek zal moeten uitwijzen of ten aanzien van eerdergenoemde computersystemen extra beveiligingmaatregelen nodig zijn. </antwoord>
+      <antwoord nummer="6">Neen. </antwoord>
+      <antwoord nummer="7">Neen. De argumentatie hiervoor is weergegeven in mijn brief aan u van 21 juni jl. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"/>
+         <noot nummer="1" documenttype="Kamervragen" documentnummer="940">Aanhangsel Handelingen, nr. 940, Vergaderjaar 1994–1995.</noot>
+      </noten>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="aan te passen?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Remkes (VVD) aan de staatssecretaris van Financiën over de uitspraak van de rechtbank te Leeuwarden betreffende de computersystemen van de Belastingdienst. (Ingezonden 25 januari 2008)</item>
+         <item attribuut="Bestand">12Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V070809800
+</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van een uitspraak van de Rechtbank Leeuwarden, 18 december 2007, nr. AWB07/563, waarin een belastingplichtige in het gelijk werd gesteld omdat niet kon worden aangetoond dat de aanslag op de voorgeschreven wijze en op het juiste adres was bekendgemaakt. Indiener vraagt zich af of deze informatie niet beschikbaar zou moeten zijn in de computersystemen van de Belastingdienst. Zo nee, wat is daarvan de oorzaak en zouden die systemen niet moeten worden aangepast.</item>
+         <item attribuut="Rubriek">Belastingen (Belastingdiensten) Communicatie, media en informatievoorziening (Hard- en software)</item>
+         <item attribuut="Trefwoorden">Belastingdienst Informatietechnologie</item>
+         <item attribuut="Vindplaats">Kamervragen 2007-2008, vraagnr. 2070809800, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070809800</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Remkes</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2008-01-25</item>
+         <item attribuut="Document-id">V070809800</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0708tkkvl2070809800" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="2070809800" onderwerp="" indiendatum="2008-01-25">
+         <vrager partij="VVD" oorsprong="parlement">Remkes</vrager>
+         <vraagt-aan>de staatssecretaris van Financiën</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Heeft u kennisgenomen van een recente uitspraak <voetnoot nummer="1"/>van de rechtbank in Leeuwarden waarin een belastingplichtige die beroep had ingesteld tegen het in rekening brengen van de kosten van betekening van een dwangbevel, in het gelijk werd gesteld op grond van het feit dat de ontvanger niet aannemelijk heeft kunnen maken dat de aanslag op de wettelijk voorgeschreven wijze en aan het juiste adres bekend is gemaakt en dat belastingplichtige schriftelijk is aangemaand? </vraag>
+      <vraag nummer="2">Is de ter zake doende informatie niet aanwezig in de geautomatiseerde systemen van de Belastingdienst? Zo neen, wat is daarvan de oorzaak? </vraag>
+      <vraag nummer="3">Is deze uitspraak voor u aanleiding de desbetreffende computersystemen </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" datum="2007-12-18" bron="Rechtbank Leeuwarden EK">Rechtbank Leeuwarden EK, 18 december 2007, nr. AWB07/563</noot>
+      </noten>
+   </antwoorden>
+</kvr>

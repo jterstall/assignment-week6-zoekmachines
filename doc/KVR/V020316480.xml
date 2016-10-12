@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="overleg met de departementen?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Heemskerk en Crone (beiden PvdA) aan de minister van Economische Zaken over de Pensioen en Verzekeringskamer (PVK). (Ingezonden 29 augustus 2003)</item>
+         <item attribuut="Bestand">12Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V020316480
+</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van een bericht in de Volkskrant van 26 augustus 2003 over het mogelijk bijstellen van de ramingen voor de pensioenpremies.</item>
+         <item attribuut="Rubriek">Inkomen en rechtspositie (VUT en pensionering) Sociale zekerheid (Sociale verzekeringspremies)</item>
+         <item attribuut="Trefwoorden">Pensioenen Sociale verzekeringspremies</item>
+         <item attribuut="Vindplaats">Kamervragen 2002-2003, vraagnr. 2020316480, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2020316480</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Heemskerk</persoon>
+            <persoon partij="PvdA">Crone</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2003-08-29</item>
+         <item attribuut="Document-id">V020316480</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2002–2003" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0203tkkvl2020316480" lopendefooter="Tweede Kamer, vergaderjaar 2002–2003, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2003"/>
+      <vraagdata vraagnummer="2020316480" onderwerp="" indiendatum="2003-08-29">
+         <vrager partij="PvdA" oorsprong="parlement">Heemskerk</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Crone</vrager>
+         <vraagt-aan>de minister van Economische Zaken</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Kent u het bericht «PVK-baas helpt Zalm tijdens het diner aan 700 miljoen»? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Is het waar dat door bewindslieden druk is uitgeoefend op het CPB dan wel PVK om de ramingen voor de pensioenpremies bij te stellen? </vraag>
+      <vraag nummer="3">Op grond van welke argumenten is besloten tot bijstelling van de ramingen voor de pensioenpremies? </vraag>
+      <vraag nummer="4">Wat waren de standen van de belangrijkste aandelenbeurzen bij de eerste raming en wat waren de standen ten tijde van de aanpassing? Hoe groot was de invloed daarvan op de bijstelling van de raming? </vraag>
+      <vraag nummer="5">Welke aanpassingen zijn in de concept-MEV aangebracht na of in </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" datum="2003-08-26" bron="Volkskrant">Volkskrant, 26 augustus 2003</noot>
+      </noten>
+   </antwoorden>
+</kvr>

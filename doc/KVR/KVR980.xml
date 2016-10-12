@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="4">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Van der Vlies (SGP) en Schutte (GPV) over medische experimenten met heroïneverstrekking (Ingezonden 16 december 1994); Antwoord</item>
+         <item attribuut="Bestand">14Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR980
+</item>
+         <item attribuut="Rubriek">Gezondheidszorg (Medische ethiek) Welzijn (Verslavingszorg)</item>
+         <item attribuut="Trefwoorden">Harddrugs Medische ethiek</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 1994-1995, nr. 350, Tweede Kamer</item>
+         <item attribuut="Afkomstig_van">Volksgezondheid, Welzijn en Sport</item>
+         <item attribuut="Indiener">
+            <persoon partij="SGP">Van der Vlies</persoon>
+            <persoon partij="GPV">Schutte</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1995-01-13</item>
+         <item attribuut="Datum_indiening">1994-12-16</item>
+         <item attribuut="Document-id">KVR980</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1994–1995" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="711" allpagenumbers="711" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1994–1995, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgeverij Plantijnstraat ’s-Gravenhage 1995"/>
+      <vraagdata vraagnummer="350" onderwerp="" indiendatum="1994-12-16">
+         <vrager partij="SGP" oorsprong="parlement">Van der Vlies</vrager>
+         <vrager partij="GPV" oorsprong="parlement">Schutte</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1995-01-13">
+         <antwoorder functie="minister" ministerie="Volksgezondheid, Welzijn en Sport">Borst-Eilers</antwoorder>
+         <mede-antwoorder>de minister van Justitie</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Kent u het bericht <voetnoot nummer="1"/>als zou in de gemeente Amsterdam aan langdurig verslaafden bij wijze van proef van overheidswege gratis heroı¨ne worden verstrekt? </vraag>
+      <vraag nummer="2">Heeft de minister van Justitie recent ingestemd met bedoeld experiment? </vraag>
+      <vraag nummer="3" voetnoot="2">Herinnert u zich de toezegging van de minister van Volksgezondheid, Welzijn en Sport, gedaan bij de begrotingsbehandeling op 8 december 1994, <voetnoot nummer="2"/>dat medische experimenten met heroı¨neverstrekking niet zullen worden gestart voordat de Gezondheidsraad terzake heeft geadviseerd en voordat over dergelijke experimenten overleg is gevoerd met de Kamer? </vraag>
+      <vraag nummer="4">Wilt u bevorderen dat bedoeld experiment niet van start zal gaan voordat het gevraagde advies is beoordeeld en de Kamer zich hierover heeft kunnen uitspreken? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1994-12-15" bron="Algemeen Dagblad">Algemeen Dagblad, 15 december 1994</noot>
+         <noot nummer="2" datum="1994-12-8" bron="Handelingen II">Handelingen II, 8 december 1994</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja. Het bericht is onjuist. </antwoord>
+      <antwoord nummer="2">Neen. Bij een bezoek aan de gemeente Amsterdam op 9 november 1994 is de Minister van Justitie ingelicht over een plan met betrekking tot een «medisch verstrekkingsexperiment van roesopiaten». Zij heeft over dat plan echter geen standpunt ingenomen. Instemming door het kabinet met medische experimenten met heroı¨neverstrekking gaat overigens primair mij aan. </antwoord>
+      <antwoord nummer="3">Ja. Deze toezegging zal ik gestand doen. </antwoord>
+      <antwoord nummer="4">Onder verwijzing naar antwoord 1 moge duidelijk zijn dat actie mijnerzijds thans niet aan de orde is. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19891990:0000042</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0000042&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0000042</item>
+         <item attribuut="Document-id">0000034449</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Eerste Kamer 1989-1990 nummer 5</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Eerste Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van mevrouw Vonhoff-Luijendijk (V.V.D.) inzake ontvangst van de regionale zender «Radio Noord»</item>
+         <item attribuut="titel">Aanhangsel Eerste Kamer 1989-1990 nummer 5</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">5</item>
+         <item attribuut="Indiener">
+            <persoon>Vonhoff-Luijendijk</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-12-19</item>
+         <item attribuut="Beantwoorder">
+            <persoon>d'Acona</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-01-16</item>
+         <item attribuut="Beginpagina">9</item>
+         <item attribuut="Eindpagina">10</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Eerste Kamer der Staten-Generaal" kamer="1" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen door de leden der Kamer gesteld overeenkomstig artikel schriftelijk gegeven antwoorden."/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Eerste Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1989"/>
+      <vraagdata vraagnummer="Vragen" onderwerp="" indiendatum="1989-12-19">
+         <vrager partij="" oorsprong="parlement">Vonhoff-Luijendijk</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-01-16">
+         <antwoorder functie="mevrouw" ministerie="Ontvangen 16 januari 1990">d'Ancona, minister van Welzijn, Volksge– zondheid en Cultuur.</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Heeft de minister kennis genomen van de inhoud van een rapport over een ontvangstonderzoek dat Radio Noord met betrekking tot die zender in november 1989 heeft ingesteld? </vraag>
+      <vraag nummer="2">Deelt de minister de conclusie in dat rapport dat de ingebruikneming van de FM zender Hoogezand op 7 januari 1989 er oorzaak van is dat Radio Noord sindsdien in de Provincie Groningen niet overal behoorlijk kan worden ontvangen? </vraag>
+      <vraag nummer="3">Onderschrijft de minister de conclusie dat een regionale zender, waarvoor een speciale bijdrage van de bevolking wordt gevergd, in ieder geval in die regio overal goed moet kunnen worden ontvangen? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja. De ingebruikneming van de FM-zender Hoogezand voor Radio Noord kan er mede de oorzaak van zijn dat Radio Noord niet overal optimaal ontvangen kan worden in de provincie Groningen. Ik teken wel aan dat de conclusies van het onder– havige rapport in belangrijke mate gebaseerd zijn op metingen met verkeer gepolariseerde ontvangan– tennes. Uit onderzoek van de verant– woordelijke organisaties, de N.V. NOZEMA, is gebleken dat als gevolg van technische problemen op sommige plaatsen aan de provincie– grens, sprake is van marginale veldsterkte voor goede stereo– ontvangst. Voorts wordt in de regio Ter Apel storing ondervonden van de Duitse zender Lingen. kosten bij. Uit die aanvullende bijdrage worden ook zenderkosten betaald. Uiteraard wordt naar een zo goed mogelijke verzorging gestreefd. Het beperkte aantal beschikbare frequenties en storing van en op het buitenland, is er de oorzaak van dat de ontvangst in de grensstreken van Nederland niet in alle gevallen optimaal kan zijn. </antwoord>
+      <antwoord nummer="4">Ik heb deze kwestie onder de aandacht van de N.V. NOZEMA gebracht. Ik heb begrepen dat de NOZEMA inmiddels in overleg is getreden met Radio Noord om tot een bevredigende oplossing te komen. Is de minister bereid haar invloed aan te wenden om te bevorderen dat op korte termijn de ontvangstkwa– liteit van Radio Noord wordt verbeterd? Bedoelde speciale bijdrage is de opslag op de hoofdsom van de omroepbijdrage die door de provin– ciale overheid wordt geheven ter bestrijding van de kosten van de regionale omroep in haar bestuurs– gebied. Daarnaast wordt door mij een aanvullende bijdrage verstrekt uit de algemene omroepmiddelen. Voor de provincie Groningen draag ik circa 50% van de totale exploitatie– </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

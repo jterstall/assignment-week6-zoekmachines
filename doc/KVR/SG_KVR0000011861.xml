@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001557</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001557&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001557</item>
+         <item attribuut="Document-id">0000011861</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 627</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van Heemst (PvdA) over D.S.M. Chemicals.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 627</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">627</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Van Heemst</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-05-06</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Hirsch Ballin</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-06-09</item>
+         <item attribuut="Beginpagina">1281</item>
+         <item attribuut="Eindpagina">1282</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1281" allpagenumbers="1281" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="'s Gravenhage 1993"/>
+      <vraagdata vraagnummer="627" onderwerp="D.S.M. Chemicals." indiendatum="1993-05-6">
+         <vrager partij="PvdA" oorsprong="parlement">Van Heemst</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="9 juni 1993) 1, 2, 3,4 en 5 Voor informatie over het onderhavige geval verwijs ik naar het bijgevoegde verslag van de hoofdofficier van justitie te Rotterdam van 7 juni 1993, waarin een feitelijke uiteenzetting wordt gegeven van het gebeurde en van de overwegingen en beslissingen van het openbaar ministerie in deze zaak. 6en 7 De maximale boete die aan de rechtspersoon DSM Chemicals kon worden opgelegd, en welk bedrag DSM Chemicals als schikking heeft betaald, is zeer fors te noemen. Ik meen dat hiermee adequaat tot uitdrukking wordt gebracht dat het betreffende handelen zeer ernstig wordt opgenomen. In het algemeen is hieraan toe te voegen dat de Wet op de Economische Delicten, waarin overtredingen van de arbeidsomstandighedenwetgeving zijn gesanctioneerd, naast de geldboete diverse andere straffen en maatregelen kent waarmee tegen onder deze wet vallende delicten kan worden opgetreden. Vooralsnog is naar mijn oordeel niet gebleken dat de (straf)bepalingen terzake van de arbeidsomstandighedenwetgeving onvoldoende werkzaam zijn. Voorts merk ik op dat in deze situaties veelal mede commune strafbaarstellingen aan de orde zullen zijn waaraan aanzienlijke straffen zijn verbonden, zoals ook bij de onderhavige gebeurtenis het geval was. Voor een verhoging van de boetes, gesteld op de eerderbedoelde feiten, zie ik derhalve geen aanleiding, ook al niet omdat de geldboete gesteld op overtredingen opgenomen in artikel 1 van de Wet op de Economische Delicten met ingang van 1 maart 1993 van de derde categorie (maximaal f 10.000,-/voor rechtspersonen f 25.000,-) is gebracht op de vierde categorie weergegeven, op goede gronden van worden afgezien. Daarbij acht ik het onder meer van belang dat de officier van justitie - naast de hoogte van het schikkingsbedrag - zich rekenschap heeft gegeven van de belangen van de nabestaanden van de slachtoffers, en voorts bij haar beslissingen de inmiddels getroffen voorzieningen ter verbetering van de veiligheid van de werknemers bij DSM Chemicals heeft meegewogen. Voorts is voor wat betreft het openbaarheidsaspect, waarop ik zojuist doelde, van belang dat het openbaar ministerie door middel van een persbericht publieke bekendheid aan de schikking heeft gegeven. Deze bijzondere aard van de schikking staat tegenover het belang van een openbare afkeuring ter zitting van ernstige feiten als hier te laste hadden kunnen worden gelegd. Hoewel dit laatste naar mijn oordeel een zwaarwegend argument voor dagvaarding moet vormen, acht ik alles overwegende de beslissing van de officier van justitie om de door DSM Chemicals aangeboden schikking te aanvaarden, toch verantwoord. Tenslotte merk ik op dat, zoals blijkt uit het bijgevoegde verslag, de officier van justitie in overleg met de hoofdofficier van justitie te Rotterdam en de procureur-generaal bij het gerechtshof te 's-Gravenhage tot de schikking heeft besloten. Ik ben bij deze beslissing niet betrokken geweest. 9 Ja.">
+         <antwoorder functie="minister" ministerie="Justitie">Hirsch Ballin</antwoorder>
+         <mede-antwoorder>de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Sociale Zaken en Werkgelegenheid</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1" voetnoot="1">Kunt u uiteenzetten of en - zo ja - waarom, het openbaar ministerie zich vorig jaar op het standpunt heeft gesteld dat met D.S.M. Chemicals geen schikking zou worden getroffen voor de explosie van een opslagtank, die aan zeven mensen het leven kostte? <voetnoot nummer="1"/>Kunt u uiteenzetten of en - zo ja - waarom, dat standpunt toen is openbaar gemaakt? </vraag>
+      <vraag nummer="3">Waarom is het O.M. op dat standpunt teruggekomen? </vraag>
+      <vraag nummer="4">Welke nieuwe feiten hebben geleid tot het besluit om alsnog een schikking te treffen? </vraag>
+      <vraag nummer="5">Welke strafbare feiten zijn naar aanleiding van de explosie ten laste gelegd? </vraag>
+      <vraag nummer="6" voetnoot="2">Acht u de maximale boete (van ongeveer 290 000 gulden) in een juist verhouding staan tot de ernst van de ten laste gelegde feiten? Wilt u ingaan op de uitlating van de persofficier van Justitie over dit punt? <voetnoot nummer="2"/>Acht u een verhoging wenselijk en wilt u daartoe voorstellen voorbereiden? </vraag>
+      <vraag nummer="8">Wat is uw oordeel over de gedragshjn van het O.M., met name in termen van geloofwaardigheid ten aanzien van de nabestaanden en van preventie ten aanzien van vergelijkbare bedrijven? Welke bemoeienis heeft u met deze gedragslijn gehad? </vraag>
+      <vraag nummer="9">Kunt u deze vragen beantwoorden vóór het aanstaande mondeling overleg over de handhaving van milieuregels? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Zie NCR Handelsblad van 3 mei 1 993</noot>
+         <noot nummer="1" datum="1993-05-4" bron=" Zie Trouw"> Zie Trouw, 4 mei 1993</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer=" en 5">Voor informatie over het onderhavige geval verwijs ik naar het bijgevoegde verslag van de hoofdofficier van justitie te Rotterdam van 7 juni 1993, waarin een feitelijke uiteenzetting wordt gegeven van het gebeurde en van de overwegingen en beslissingen van het openbaar ministerie in deze zaak. 6en  7 De maximale boete die aan de rechtspersoon DSM Chemicals kon worden opgelegd, en welk bedrag DSM Chemicals als schikking heeft betaald, is zeer fors te noemen. Ik meen dat hiermee adequaat tot uitdrukking wordt gebracht dat het betreffende handelen zeer ernstig wordt opgenomen. In het algemeen is hieraan toe te voegen dat de Wet op de Economische Delicten, waarin overtredingen van de arbeidsomstandighedenwetgeving zijn gesanctioneerd, naast de geldboete diverse andere straffen en maatregelen kent waarmee tegen onder deze wet vallende delicten kan worden opgetreden. Vooralsnog is naar mijn oordeel niet gebleken dat de (straf)bepalingen terzake van de arbeidsomstandighedenwetgeving onvoldoende werkzaam zijn. Voorts merk ik op dat in deze situaties veelal mede commune strafbaarstellingen aan de orde zullen zijn waaraan aanzienlijke straffen zijn verbonden, zoals ook bij de onderhavige gebeurtenis het geval was. Voor een verhoging van de boetes, gesteld op de eerderbedoelde feiten, zie ik derhalve geen aanleiding, ook al niet omdat de geldboete gesteld op overtredingen opgenomen in artikel 1 van de Wet op de Economische Delicten met ingang van 1 maart 1993 van de derde categorie (maximaal f 10.000,-/voor rechtspersonen f 25.000,-) is gebracht op de vierde categorie weergegeven, op goede gronden van worden afgezien. Daarbij acht ik het onder meer van belang dat de officier van justitie - naast de hoogte van het schikkingsbedrag - zich rekenschap heeft gegeven van de belangen van de nabestaanden van de slachtoffers, en voorts bij haar beslissingen de inmiddels getroffen voorzieningen ter verbetering van de veiligheid van de werknemers bij DSM Chemicals heeft meegewogen. Voorts is voor wat betreft het openbaarheidsaspect, waarop ik zojuist doelde, van belang dat het openbaar ministerie door middel van een persbericht publieke bekendheid aan de schikking heeft gegeven. Deze bijzondere aard van de schikking staat tegenover het belang van een openbare afkeuring ter zitting van ernstige feiten als hier te laste hadden kunnen worden gelegd. Hoewel dit laatste naar mijn oordeel een zwaarwegend argument voor dagvaarding moet vormen, acht ik alles overwegende de beslissing van de officier van justitie om de door DSM Chemicals aangeboden schikking te aanvaarden, toch verantwoord. Tenslotte merk ik op dat, zoals blijkt uit het bijgevoegde verslag, de officier van justitie in overleg met de hoofdofficier van justitie te Rotterdam en de procureur-generaal bij het gerechtshof te 's-Gravenhage tot de schikking heeft besloten. Ik ben bij deze beslissing niet betrokken geweest. </antwoord>
+      <antwoord nummer="9"/>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Ter inzage gelegd bij de afdeling Parlementaire Documentatie</noot>
+      </noten>
+   </antwoorden>
+</kvr>

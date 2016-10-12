@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19871988:0001084</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001084&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001084</item>
+         <item attribuut="Document-id">0000098798</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1987-1988 nummer 147</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Lilipaly (P.v.d.A.) over de oeverbescherming van het Krammer/Volkerakmeer.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1987-1988 nummer 147</item>
+         <item attribuut="Jaargang">1987_1988</item>
+         <item attribuut="Vraagnummer">147</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Lilipaly</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-10-14</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Smit-Kroes</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-11-23</item>
+         <item attribuut="Beginpagina">293</item>
+         <item attribuut="Eindpagina">294</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="" typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 7 - 1 9 8 8 , Aanhangsel 293 " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="147" onderwerp="de oeverbescherming van het Krammer/Volkerakmeer." indiendatum="14 oktober 1987)">
+         <vrager partij="PvdA" oorsprong="parlement">Lilipaly</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="23 november 1987)">
+         <antwoorder functie="" ministerie="Verkeer en Waterstaat"/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 ">Hebt u ter gelegenheid van de  ondertekening van de bestuursover- eenkomst Krammer/Volkerak op 3  oktober  j l . gezegd, dat u ondanks de  snelle afkalving geen versnelling van  de oeverbeschermingswerken zult na- streven?'  </vraag>
+      <vraag nummer="2 ">Bent u van mening, dat in een  milieutechnische beoordeling van dit  vraagstuk ook de ervaringen met  afkalving in het Haringvliet betrokken  dienen te worden?  </vraag>
+      <vraag nummer="3 ">W a t is uit het oogpunt van (het  streven naar) het behoud van  waardevolle landschappen het  eindresultaat indien de werkzaamhe- den aan de oeverbescherming over 8  jaar uitgesmeerd worden? Wat is het  eindresultaat indien deze werken  binnen 3 jaar zijn voltooid?  </vraag>
+      <vraag nummer="4 ">Geven uw bevindingen ter zake  aanleiding uw eerdere stellingname  te herzien?  </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Zie het Brabants Dagblad van 5 oktober 1987 </noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1 ">Bij de ondertekening van de bedoelde  bestuursovereenkomst heb ik gesteld  dat gelet op de beperkte financiële  mogelijkheden van mijn ministerie  uitgegaan  w o r d t van een uitvoerings- periode van ongeveer 8 jaar (kosten  43,25 min.).  Naast oeververdedigingswerken in  het Krammer/Volkerak lopen immers  nog oeververdedigingsprogramma's  in het Grevelingenmeer en het  Haringvliet-Hollandsch Diep (kosten  in 1988 2,3 min., totaal  t / m 1995 ±  2 4 miljoen). De financiële problema- tiek is voorts zodanig dat eerst in  1989 met de werken in het Krammer/  Volkerak kan worden begonnen. De  uitvoeringsperiode van 8 jaar en het  feit dat pas in 1989 met de werkzaam- heden kan worden begonnen  betekent voor het Krammer/Volkerak  een verlies aan oppervlakte oeverge- bieden van naar schatting 150 tot  2 5 0 ha op een totaal te beschermen  oppervlakte van ongeveer  2 0 0 0 ha.  Gelet op de huidige financiële  situatie is dit verlies helaas onvermij- delijk.  </antwoord>
+      <antwoord nummer="2 ">Ja.  </antwoord>
+      <antwoord nummer="3 ">Uitvoering van de oeververdedigings- werken in een periode van 3 jaar kan  het verlies aan oevergebieden zoals  onder 1 genoemd met ruim de helft  beperken.  Neen, zie antwoord op vraag 1.  Wanneer in 1988 binnen het begro- tingsartikel financiële ruimte ontstaat,  ben ik bereid met de oeverbescher- mingswerken te starten.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

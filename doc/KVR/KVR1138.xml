@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">het tarief voor het lossen en laden van containers in Rotterdam.; Antwoord</item>
+         <item attribuut="Bestand">14Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR1138
+</item>
+         <item attribuut="Rubriek">Verkeer, vervoer en waterstaat (Havens)</item>
+         <item attribuut="Trefwoorden">Containers Havens</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 1994-1995, nr. 503, Tweede Kamer</item>
+         <item attribuut="Afkomstig_van">Economische Zaken</item>
+         <item attribuut="Indiener">
+            <persoon partij="SGP">Van der Vlies</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1995-02-07</item>
+         <item attribuut="Document-id">KVR1138</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1994–1995" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1027" allpagenumbers="1027" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1994–1995, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgeverij Plantijnstraat ’s-Gravenhage 1995"/>
+      <vraagdata vraagnummer="503" onderwerp="" indiendatum="1995-02-7">
+         <vrager partij="SGP" oorsprong="parlement">Van der Vlies</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1995-03-3">
+         <antwoorder functie="minister" ministerie="Economische Zaken">Wijers</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Overweegt Nedlloyd de uitbreiding van de afhandeling containerlijndiensten op het Verre Oosten niet in Rotterdam te verzorgen, maar in Antwerpen? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Is het tarief voor het lossen en laden van containers in Antwerpen 20% goedkoper dan in Rotterdam? </vraag>
+      <vraag nummer="3">In hoeverre wordt dit tariefsverschil veroorzaakt door subsidieverlening van havenactiviteiten door de Vlaamse overheid? </vraag>
+      <vraag nummer="4">Is deze subsidieverlening verenigbaar met het Gemeenschapsrecht van de Europese Unie? </vraag>
+      <vraag nummer="5">Welke stappen denkt u te ondernemen om te voorkomen dat reders naar buitenlandse havens uitwijken, omdat de haven van Rotterdam te duur is geworden? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1995-02-2" bron="Zie de NRC">Zie de NRC, 2 februari 1995</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2 en 5">Het is niet mogelijk om exacte percentages te noemen met betrekking tot de verschillen in tarieven tussen de havens voor het laden en lossen van containers. Deze tarieven worden uitonderhandeld tussen het overslagbedrijf en de reder, waarbij aspecten als grootte van het ladingpakket en te verlenen diensten een rol spelen. Verder hangt de prijs van een overgeslagen container niet alleen af van de overslagkosten, maar ook van de havenaanloopkosten, de hoogte van de toeslag die reders aan verladers in rekening brengen, etc. Ook aspecten als ligging, achterlandverbindingen en produktiviteit worden door reders meegewogen bij het bepalen van de havenkeuze. Een belangrijke overweging voor Nedlloyd om eventueel een deel van de uitbreiding van de containerlijndiensten in Antwerpen of Zeebrugge af te handelen is dat het consortium van rederijen, waarbij Nedlloyd is aangesloten, door overname van de Franse rederij Compagnie Ge´ne´rale Maritime, grotere belangen heeft gekregen op de Franse markt. Een deel van deze markt zou beter bediend kunnen worden vanuit Antwerpen of Zeebrugge dan uit Rotterdam: een aantal containers, dat nu per truck of binnenvaart van Rotterdam naar Antwerpen gaat, kan dan rechtstreeks worden afgeleverd per zeeschip. Deze overweging, die niet voorkomt uit het feit dat Rotterdam te duur zou zijn geworden, maar rust op het principe «ga daar waar de lading is», geeft mij geen aanleiding tot het nemen van stappen. </antwoord>
+      <antwoord nummer="3">Het is mij niet bekend in hoeverre, naast de hierboven genoemde factoren, het tariefverschil wordt veroorzaakt door subsidieverlening van havenactiviteiten door de Vlaamse overheid. </antwoord>
+      <antwoord nummer="4">De beantwoording van de vraag of de Vlaamse overheid subsidie verleent, al dan niet in strijd met het Gemeenschapsrecht van de Europese Unie, staat in beginsel niet aan de Nederlandse Regering ter beoordeling, maar aan de Europese Commissie. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

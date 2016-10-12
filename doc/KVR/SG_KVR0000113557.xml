@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19851986:0000097</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0000097&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0000097</item>
+         <item attribuut="Document-id">0000113557</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Eerste Kamer 1985-1986 nummer 59</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Eerste Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de heer De Rijk (P.v.d.A.) inzake de «Aanmeldingsbrochure voor a.s. eerstejaarsstudenten wetenschappelijk onderwijs 1986-1987».</item>
+         <item attribuut="titel">Aanhangsel Eerste Kamer 1985-1986 nummer 59</item>
+         <item attribuut="Jaargang">1985_1986</item>
+         <item attribuut="Vraagnummer">59</item>
+         <item attribuut="Indiener">
+            <persoon>De Rijk</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-05-28</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Deetman</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-06-17</item>
+         <item attribuut="Beginpagina">119</item>
+         <item attribuut="Eindpagina">120</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1985-1986 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen door de leden der Kamer gesteld overeenkomstig artikel 83 van het  antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Eerste Kamer, vergaderjaar  1 9 8 5 - 1 9 8 6 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="59" onderwerp="" indiendatum="op 28 mei 1986).">
+         <vrager partij="" oorsprong="parlement">De Rijk</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="op 17 juni 1986).">
+         <antwoorder functie="de" ministerie="Ontvangen op 17 juni 1986">heer D e e t m a n , minister van Onderwijs en Weten- schappen.</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1 ">Is het de minister bekend, dat in de  «Aanmeldingsbrochure voor a.s.  eerstejaars studenten wetenschappe- lijk onderwijs 1986-1987», uitgege- ven door het Ministerie van Onderwijs  en Wetenschappen, Centraal Bureau  Aanmelding en Plaatsing a.s.  eerstejaars studenten te Groningen,  op blz. 6 wordt medegedeeld:  «N.B. Bezitters van een niet-neder- lands diploma dienen voor 15  augustus 1986 een bewijsstuk te  overleggen van voldoende kennis van  de Nederlandse taal».  </vraag>
+      <vraag nummer="2 ">Wordt van de betrokken eerstejaars  een kennis van de Nederlandse taal  geëist die uitgaat boven die waaraan  de steller van deze brochure blijk  geeft?  </vraag>
+      <vraag nummer="3 ">Zo ja, is dat niet enigszins navrant te  achten?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1 ">Ja.  2 t/m 4  In de Wet op het wetenschappelijk  onderwijs (1975, Staatsblad 729)  zijn de toelatingseisen tot de univer- sitaire examens vastgelegd. Ingevolge  artikel 28, tweede en derde lid, van  de Wet op het wetenschappelijk  onderwijs en de artikelen 66 en 67  van het Academisch Statuut,  algemeen deel,  ( 1 9 8 1 , Staatsblad  653) dienen bezitters van een  niet-Nederlands diploma het bewijs  te leveren dat zij voldoende kennis  van de Nederlandse taal bezitten om  het (in het Nederlands gegeven)  onderwijs met vrucht te kunnen  volgen. De daarbij te stellen eisen  worden door de faculteit gesteld. De  kennis van de Nederlandse taal, zoals  door u gewraakt t.o.v. de steller van  de brochure, staat dus niet in relatie  tot de kennis die vereist wordt van  een eerstejaarsstudent.  Zo nee, kan dan van deze toelatingseis  enig resultaat voor het volbrengen  van een academische studie worden  verwacht?  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

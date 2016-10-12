@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="4">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Wijn en Verhagen (beiden CDA) aan de staatssecretaris van Justitie over het doorspelen van persoonsgegevens van asielzoekers aan een externe organisatie door de IND. (Ingezonden 25 maart 1999); Antwoord</item>
+         <item attribuut="Bestand">14Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR9225
+</item>
+         <item attribuut="Inhoud">Betreft aanvullende vragen op die van de leden Halsema, ingezonden 24 maart, en van Middel en Albayrak, ingezonden op 25 maart 1999.</item>
+         <item attribuut="Rubriek">Staats- en bestuursrecht (Privacy) Welzijn (Vreemdelingen en asielzoekers)</item>
+         <item attribuut="Trefwoorden">Privacy Vluchtelingen</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 1998-1999, nr. 1246, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2989910300</item>
+         <item attribuut="Afkomstig_van">Justitie</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Wijn</persoon>
+            <persoon partij="CDA">Verhagen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1999-04-23</item>
+         <item attribuut="Datum_indiening">1999-03-25</item>
+         <item attribuut="Document-id">KVR9225</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1998–1999" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="2457" allpagenumbers="2457" vetnummer="2989910300" code="" lopendefooter="Tweede Kamer, vergaderjaar 1998–1999, Aanhangsel" filenaam="KVR9225" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 1999"/>
+      <vraagdata vraagnummer="1246" onderwerp="" indiendatum="1999-03-25">
+         <vrager partij="CDA" oorsprong="parlement">Wijn</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Verhagen</vrager>
+         <vraagt-aan>de staatssecretaris van Justitie</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1999-04-23">
+         <antwoorder functie="staatssecretaris" ministerie="Justitie">Cohen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Is het waar dat het particulier onderzoeks- en administratiebureau NSS een geheimhoudingsverklaring heeft ondertekend inzake het aan dat bureau uitbestede dossieronderzoek? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Zo ja, hoe verhoudt zich deze afspraak tot de verklaring van een medewerker van NSS dat er door de IND niets is gezegd over vertrouwelijkheid of zwijgplicht? </vraag>
+      <vraag nummer="3">Heeft de IND op enigerlei wijze toezicht uitgeoefend op de uitvoering van het onderzoek? </vraag>
+      <vraag nummer="4">Wat zijn de gevolgen van het schenden van de geheimhoudingsverklaring door NSS voor de relatie tussen de IND en NSS? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <toelichting>Deze vragen dienen ter aanvulling op eerdere vragen ter zake van het lid Halsema, ingezonden 24 maart 1999, en van de leden Middel en Albayrak, ingezonden 25 maart 1999. </toelichting>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">In het contract met het onderzoeksbureau is een bepaling opgenomen omtrent de in acht te nemen vertrouwelijkheid. </antwoord>
+      <antwoord nummer="2">Een medewerker van het onderzoeksbureau, die niet betrokken was bij de invoer van de gegevens van asielzoekers, wordt verdacht van het wederrechtelijk toeëigenen van gegevens en deze ter beschikking stellen aan de redactie van de Groene Amsterdammer. Deze persoon heeft de standaard geheimhoudingsverklaring van het onderzoeksbureau ondertekend. Tegen deze medewerker zijn passende maatregelen getroffen en is een strafrechtelijke procedure in gang gezet. </antwoord>
+      <antwoord nummer="3" voetnoot="1">U zie mijn brief in antwoord op vragen van de leden Middel en Albayrak <voetnoot nummer="1"/>. </antwoord>
+      <antwoord nummer="4">De IND heeft het onderzoeksbureau aansprakelijk gesteld voor de schending van de geheimhoudingsplicht en de te lijden schade door de IND. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1" documenttype="Kamervragen" documentnummer="1245" documentjaargang="1998-1999">Aanhangsel Handelingen, nr. 1245, vergaderjaar 1998–1999.</noot>
+      </noten>
+   </antwoorden>
+</kvr>

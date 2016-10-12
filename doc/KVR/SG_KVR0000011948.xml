@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="4">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001644</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001644&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001644</item>
+         <item attribuut="Document-id">0000011948</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 714</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Jorritsma-Lebbink en Te Veldhuis (beiden VVD) over het tracé van de HSL.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 714</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">714</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Jorritsma-Lebbink</persoon>
+            <persoon partij="VVD">Te Veldhuis</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-06-17</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Maij-Weggen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-07-05</item>
+         <item attribuut="Beginpagina">1457</item>
+         <item attribuut="Eindpagina">1458</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1457" allpagenumbers="1457 1458" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="714" onderwerp="het tracé van de HSL." indiendatum="1993-06-17">
+         <vrager partij="VVD" oorsprong="parlement">Jorritsma-Lebbink</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Te Veldhuis</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-07-5">
+         <antwoorder functie="minister" ministerie="Verkeer er. Waterstaat">Maij-Weggen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Heeft het kabinet afgelopen vrijdag besloten het tracé van de HSL oostelijk van Zoetermeer (A-optie) vast te stellen dan wel zich voorgenomen die keuze te maken? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Is dit mede gebeurd om Vinex– lokaties vast te kunnen stellen? Hoe verhoudt de PKB-procedure HSL zich tot de procedure rond de Vinex– lokaties? </vraag>
+      <vraag nummer="4">Wat is de waarde van de inspraak van burgers nu het kabinet besloten, dan wel zich voorgenomen heeft te kiezen voor het A-tracé ten oosten van Zoetermeer? </vraag>
+      <vraag nummer="5">Betekent het kabinetsbesluit, dan wel het voornemen, waarmee de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer in de gelegenheid wordt gesteld om de Vinex-lokaties op het B-tracé te situeren, niet impliciet dat een besluit ten gunste van het A-tracé onontkoombaar is geworden? Wordt de Tweede Kamer op deze manier niet buiten spel gezet? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Cobouw van 15 juni jl</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Het Kabinet heeft op vrijdag 11 juni 1993 geen definitief besluit genomen over het tracé van een eventueel nieuw aan te leggen hogesnelheidsspoorlijn ten noorden van Rotterdam. Vaststelling van een tracé geschiedt door het nemen van een tracébesluit. In dit geval gaat daaraan vooraf de in de Wet op de Ruimtelijke Ordening voorgeschreven procedure voor een Planologische Kernbeslissing (PKB). Het Kabinet is voornemens deze zomer een nieuw deel 1 van de PKB, inclusief MER - het kabinetsvoornemen - te formuleren. Dit voornemen wordt daarna ter visie gelegd teneinde de Nederlandse burgers de gelegenheid te geven inspraakreties in te dienen. Voorts zal bestuurlijk overleg over het voornemen plaatsvinden met de betrokken provincies, gemeenten en waterschappen. Bovendien zullen enkele adviesorganen het kabinet over het voornemen adviseren. Op grond van de reacties, het bestuurlijk overleg en de adviezen, zal het kabinet daarna in deel 3 van de PKB haar definitieve standpunt voor de aanleg van hogesnelheidsspoorlijnen in ons land bepalen. Dit wordt vervolgens ter goedkeuring aan het parlement voorgelegd. Daarna vindt vaststelling van het tracé plaats. Er van uitgaande dat de Tracéwet per 1 januari 1994 in werking treedt, zal hierbij de procedure conform deze wet worden gevolgd. </antwoord>
+      <antwoord nummer="2">Bij het overleg over de VINEX-bouwlokaties speelt behalve de ontwikkeling van de woningbouw in de Randstad, een groot aantal andere voor de ruimtelijke inrichting van de Randstad belangrijke elementen een rol. Genoemd kunnen onder andere worden de groenstructuren, de glastuinbouw, het Plan Mainport en Milieu Schiphol (PMMS), de ontwikkelingen met betrekking tot Zestienhoven èn de eventuele aanleg van een nieuwe hogesnelheidsspoorlijn tussen Rotterdam en Schiphol. Het zou van onzorgvuldig bestuur getuigen indien al deze elementen niet mede in beschouwing zouden worden genomen. In het licht van de ruimtelijke structuren in de Randstad, is het kabinet van oordeel dat een tracering van een eventuele hogesnelheidslijn ten oosten van Zoetermeer minder nadelen lijkt te bieden dan een tracering ten westen van Zoetermeer. Het Kabinet heeft dus een voorlopige voorkeur uitgesproken met alle voorbehouden onder 1. Behalve de ruimtelijke structuur speelt overigens een groot aantal andere aspecten een rol bij het bepalen van het regeringsvoornemen inzake het </antwoord>
+      <antwoord nummer="3">Formeel gezien staan de procedures los van elkaar. De PKB-procedure HSL is hiervoor reeds beschreven. Het overleg met de betrokken provincies en gemeenten over de VINEX-bouwlokaties is inmiddels gestart. Het is de bedoeling dit najaar daarover afspraken vast te leggen. De Tweede Kamer zal hierover geïnformeerd worden. Het is de bedoeling voordien het regeringsvoornemen (deel 1 PKB) inzake de HSLte publiceren. De afspraken over de bouwlokaties dienen vervolgens te worden vastgelegd in streek– en structuurplannen. Concrete plannen voor de bouwlokaties moeten nog worden ontwikkeld en daarna worden vastgelegd in bestemmingsplannen. Het zal nog een aantal jaren duren voor de daadwerkelijke realisatie van de woningbouw op deze lokaties een aanvang kan nemen. Het is de bedoeling voordien de besluitvormingsprocedure over het HSL-project af te ronden. In wezen verloopt de besluitvorming over de VINEX-bouwlokaties en een eventuele nieuwe hogesnelheidsspoorlijn parallel. Op deze wijze wordt de samenhang tussen de projecten bestuurlijk vorm gegeven. in een andere detaillering van een tracé dan wel leiden tot de keuze voor een ander tracé. Bij de besluitvorming over het HSL-project komen verschillende tracè-varianten aan de orde. De keuze hiervan heeft effect op de VINEX– en toekomstige bouwlokaties. Een eventuele keuze van het kabinet en/of het parlement voor een tracé ten westen dan wel ten oosten van Zoetermeer beïnvloedt het ontwerp van een aantal lokaties dan wel kan leiden tot een andere keuze met betrekking tot de bouwlokaties. Van de regering mag worden verwacht dat zij leiding geeft aan de ontwikkeling van deze projecten. Daarom worden deze door het kabinet zowel apart als in samenhang bekeken. Later dit jaar zullen de voornemens hiervoor worden bekend gemaakt. </antwoord>
+      <antwoord nummer="6">Het antwoord op deze vraag is eveneens nee. Over de tracékeuze HSL zal het oordeel van de Tweede Kamer worden gevraagd na vaststelling van de PKB deel 3. Daarbij zal ongetwijfeld de complexe samenhang met de VINEX-bouwlokaties van beide projecten aan de orde komen. Zoals eerder beschreven zal de PKB deel 1 ter visie worden gelegd en zal de gelegenheid worden geboden inspraakreacties in te dienen. Mede op basis hiervan zal het kabinet haar definitieve standpunt aan het parlement ter goedkeuring voorleggen. De waarde van de inspraak is dus wat deze behoort te </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

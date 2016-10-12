@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="2">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19941995:0000598</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000598&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000598</item>
+         <item attribuut="Document-id">0000000598</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1994-1995 nummer 263</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Aanvullende vragen van de leden Van 't Riet, Augusteijn-Esser en Hoekema (allen D66} over kerosinelozingen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1994-1995 nummer 263</item>
+         <item attribuut="Jaargang">1994_1995</item>
+         <item attribuut="Vraagnummer">263</item>
+         <item attribuut="Indiener">
+            <persoon>Van 't Riet</persoon>
+            <persoon>Augusteijn-Esser</persoon>
+            <persoon>Hoekema</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-11-03</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Jorritsma-Lebbink</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-12-12</item>
+         <item attribuut="Beginpagina">529</item>
+         <item attribuut="Eindpagina">530</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1994-1895" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="529" allpagenumbers="529" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1994-1995, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="'s-Gravenhage 1994"/>
+      <vraagdata vraagnummer="263" onderwerp="kerosinelozingen." indiendatum="1994-11-3">
+         <vrager partij="" oorsprong="parlement">Van 't Riet</vrager>
+         <vrager partij="" oorsprong="parlement">Augusteijn-Esser</vrager>
+         <vrager partij="" oorsprong="parlement">Hoekema</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="12 december 1994), zie ook aanhangsel Handelingen nr. 222, vergaderjaar 1994-1995">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">Jorritsma-Lebbink</antwoorder>
+         <mede-antwoorder>de minister van Defensie</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1" voetnoot="1">Waarom zijn de gemeentelijke autoriteiten niet tijdig op de hoogte gebracht van de kerosinelozing op 14 september boven het DSM-complex, terwijl DSM en het ministerie van Defensie al wel op de hoogte waren? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Functioneren de bestaande vormen van overleg tussen de diverse Nederlandse instanties (burgemeesters van betrokken gemeenten, provincie Limburg, VROM, Defensie en de basis Geilenkirchen) bevredigend? Bent u bereid in dit overleg garanties te vragen om dit soort incidenten te voorkomen, b.v. door zowel veiligheidsprocedures als bestaande vliegroutes te herzien? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1994-11-3" bron=" Zie NRC 2 november 1994 en Volkskrant"> Zie NRC 2 november 1994 en Volkskrant, 3 november 1994</noot>
+      </noten>
+   </vragen>
+   <toelichting>Deze vragen dienen ter aanvulling op de eerdere vragen ter zake van die leden Van 't Riet en Augusteijn-Esser en van Rosenmöller, beiden ingezonden 3 november jl. </toelichting>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">De noodzaak van het op de hoogte brengen van de gemeentelijke autoriteiten was vanwege de aard van het incident niet aanwezig. Het incident is ook pas geruime tijd na het voorval onder de aandacht van het ministerie van Defensie gekomen. </antwoord>
+      <antwoord nummer="2">De Commissie AWACS Limburg heeft de afgelopen tijd goed gefunctioneerd. Er is constructief overlegd over handhaving van de routes, zonebewaking en klachtenafhandeling. Er is door alle partijen veel tijd en moeite geïnvesteerd in het opbouwen van een goede relatie en het creëren van een basis van vertrouwen binnen de Commissie AWACS Limburg. Garanties om incidenten zoals kerosinelozingen te voorkomen zijn niet te geven. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

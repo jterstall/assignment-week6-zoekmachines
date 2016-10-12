@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001165</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001165&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001165</item>
+         <item attribuut="Document-id">0000011469</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 234</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Kalsbeek-Jasperse en Swildens-Rozendaal (beiden PvdA) over regresrecht.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 234</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">234</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Kalsbeek-Jasperse</persoon>
+            <persoon partij="PvdA">Swildens-Rozendaal</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-12-10</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Ter Veld</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-12-17</item>
+         <item attribuut="Beginpagina">481</item>
+         <item attribuut="Eindpagina">482</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="481" allpagenumbers="481" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="234" onderwerp="regresrecht." indiendatum="1992-12-10">
+         <vrager partij="PvdA" oorsprong="parlement">Kalsbeek-Jasperse</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Swildens-Rozendaal</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-12-17">
+         <antwoorder functie="staatssecretaris" ministerie="Sociale Zaken en Werkgelegenheid">Ter Veld</antwoorder>
+         <mede-antwoorder>de minister van Justitie</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Is het u bekend dat per 1 januari 1993 alle rechtsvorderingen in het kader van het regresrecht ouder dan 5 jaar verjaren op grond van artikel 3:306t/m3:312 BW? </vraag>
+      <vraag nummer="2">Welke maatregelen hebben de bedrijfsverenigingen genomen om hun claims uit hoofde van artikel 52 Ziektewet en artikel 90 WAO veilig te stellen? Kunt u bij benadering aangeven om hoe.veel vorderingen het gaat en welk financieel belang met deze vorderingen is gemoeid? </vraag>
+      <vraag nummer="4">Indien in de betreffende zaken niet tot stuiting is overgegaan kan en wilt u dan garanderen dat dit nog vóór 1 januari 1993 gebeurt? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">In beginsel zullen per 1 januari 1993 rechtsvorderingen ouder dan vijf jaar verjaren op grond van de artikelen 3:306 tot en met 3:312 BW. Daarbij verdient aantekening dat in geval van een vordering tot schadevergoeding de benadeelde zowel met de schade als met de aansprakelijke persoon bekend moet zijn, anders geldt een termijn van 20 jaar (artikel 3:310). In verband met dit laatste kan nog worden gewezen op wetsvoorstel 22 599 dat voor vorderingen schulden die terug gaan op milieuverontreiniging de termijn van 30 jaar van het oude BW handhaaft. </antwoord>
+      <antwoord nummer="2 en 4">De bedrijfsverenigingen zijn uiteraard op de hoogte van de in het antwoord op vraag 1 bedoelde nieuwe verjaringsregeling. Niettemin heeft de Federatie van Bedrijfsverenigingen nog op 17 december 1992 hierover aan alle bedrijfsverenigingen een schrijven doen uitgaan. Voorts kan worden meegedeeld dat bedrijfsverenigingen in de regel het verhaalsrecht dat hen op grond van de Ziektewet en WAO is toegekend, ter zake van gedane uitkeringen zonder uitstel plegen uit te oefenen. De bedrijfsverenigingen zullen derhalve in beginsel niet geconfronteerd worden met de verjaring van vorderingen ten gevolge van het achterwege blijven van stuiting. Daar waar stuiting nodig is zal dat nog vóór 1 januari 1993 plaatsvinden. </antwoord>
+      <antwoord nummer="3">Ik beschik op dit moment niet over informatie over het aantal vorderingen dat is gestuit en evenmin over het daarmee gemoeide financiële belang. Zodra ik deze gegevens wel heb, zal ik de Kamer nader informeren. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

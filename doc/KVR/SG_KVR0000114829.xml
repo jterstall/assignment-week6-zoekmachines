@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19851986:0001269</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001269&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001269</item>
+         <item attribuut="Document-id">0000114829</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1985-1986 nummer 349</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Konings (P.v.d.A.) over de z.g. microcursus.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1985-1986 nummer 349</item>
+         <item attribuut="Jaargang">1985_1986</item>
+         <item attribuut="Vraagnummer">349</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Konings</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1985-12-12</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Deetman</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-01-14</item>
+         <item attribuut="Beginpagina">687</item>
+         <item attribuut="Eindpagina">688</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1985-1986 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 5 - 1 9 8 6 , Aanhangsel 687 " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="349" onderwerp="" indiendatum="">
+         <vrager partij="PvdA" oorsprong="parlement">Konings</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="14 januari 1986)">
+         <antwoorder functie="minister" ministerie="Onderwijs en Wetenschappen">D e e t m a n</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1 ">Waarom hebt u nooit een oordeel  willen geven over de z.g. microncur- sus, een opleiding voor het ondrewijs- kundig toepassen van computers in  basis en voortgezet onderwijs, u per  brief van 25 oktober 1982 gevraagd  door de organiserende stichting  Teachip, die tot 1 augustus 1985  door u werd gesubsidieerd?  </vraag>
+      <vraag nummer="2 ">Is het u bekend, dat van 1981 tot  1985 aan 2009 cursisten een  certificaat werd uitgereikt vanwege  het met goede resultaten volgen van  deze cursus en kunt u aangeven, hoe  betrokkenen in de praktijk functione- ren?  </vraag>
+      <vraag nummer="3 ">Bent u bereid, alsnog het verworven  Microncertificaat officieel te erkennen  als diploma voor onderwijsgevenden?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1 ">Als regel onthoud ik mij van het  geven van oordelen op inhoudelijke  gronden over cursussen die door  stichtingen, verenigingen of andere  ben ik van deze gedragslijn niet  afgeweken. Voor een goed begrip  van de situatie wil ik nog op het  volgende wijzen. Eerst in het begin  van de jaren tachtig heb ik besloten  de gebruikersvereniging Teachip een  subsidie te verstrekken om het  denken over en het gebruiken van  computers in het onderwijs te  stimuleren. Tevens werd daarmee  enig recht gedaan aan de erkenning  van de verdiensten van de Stichting  Teachip als voorloper op het gebied  van de invoering van informatietech- nologie in het onderwijs. Nog voor  het uitbrengen van het informatica- stimuleringsplan is er op gewezen  dat de ontwikkelde microncursus te  zijner tijd zou moeten worden  overgenomen door reguliere nascho- lingsinstellingen. Met de indertijd  verstrekte subsidie is tot uitdrukking  gebracht dat er mijnerzijds waardering  bestond voor het initiatief van  Teachip in een situatie waarin nog  weinig beschikbaar was op het  gebied van onderwijs en informatie- technologie. Inmiddels is in het kader  van het INSP een aanbod van  nascholing tot stand gekomen. De  microncursus heeft zeker een  bijdrage geleverd in het voldoen aan  de behoefte aan nascholing informa- tica, maar thans is daarin op andere  wijze voorzien.  </antwoord>
+      <antwoord nummer="2 ">Het exacte aantal van 2009 was mij  niet bekend. Evenmin is het mij  bekend waar, en hoe betrokkenen in  de praktijk functioneren.  Neen. Geen enkel verworven certifi- caat behorend bij een nascholingscur- sus wordt door mij officieel erkend  als diploma voor onderwijsgevenden.  Officieel erkende diploma's worden  alleen verstrekt in het geval van  cursussen die leiden tot een (nieuwe)  onderwijsbevoegdheid. In dit geval  betreft het een cursus die als  nascholingscursus beschouwd dient  te worden.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

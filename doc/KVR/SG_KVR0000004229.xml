@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0001718</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001718&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001718</item>
+         <item attribuut="Document-id">0000004229</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 504</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid De Cloe (PvdA) over wachtlijsten bij de ZMOK-scholen in de regio-Amsterdam.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 504</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">504</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">De Cloe</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-05-16</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Ritzen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-05-18</item>
+         <item attribuut="Beginpagina">1025</item>
+         <item attribuut="Eindpagina">1026</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1025" allpagenumbers="1025" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN0921 -7398" uitgever="Sdu Uitgeverij Plantijnstraat 's-Gravenhage 1994"/>
+      <vraagdata vraagnummer="504" onderwerp="wachtlijsten bij de ZMOK-scholen in de regio-Amsterdam." indiendatum="1994-05-16">
+         <vrager partij="PvdA" oorsprong="parlement">De Cloe</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-05-18">
+         <antwoorder functie="minister" ministerie="Onderwijs en Wetenschappen">Ritzen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Wat is uw reactie op het bericht <voetnoot nummer="1"/> over wachtlijsten bij de ZMOK-scholen in de regio-Amsterdam? </vraag>
+      <vraag nummer="2">In hoeverre speelt de inspanningsverplichting tot stabilisatie van het leerlingenaantal in het kader van het project «Weer Samen naar School» een rol bij het ontstaan van wachtlijsten of het zelfs thuiszitten van leerplichtige kinderen? </vraag>
+      <vraag nummer="3">Op welke wijze denkt u zo snel mogelijk wat te gaan doen aan deze uitzonderlijke en onwenselijke situatie? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1" voetnoot="1">Ja, ik heb via het betreffende artikel in de Volkskrant kennisgenomen van de berichtgeving over de wachtlijsten in het zmok in Amsterdam. De situatie in Amsterdam baart mij grote zorgen. Daarom heb ik een brief gezonden aan alle zmok-scholen in Nederland. Genoemde brief treft u in bijlage hierbij aan. <voetnoot nummer="1"/>Overigens blijkt het gelukkig niet zo te zijn, dat het «merendeel» van de vermelde 55 kinderen geen onderwijs volgt. Het gaat om 10 kinderen van wie is vastgesteld dat zij, in afwachting van plaatsing op een zmok-school, geen onderwijs volgen. Het moge volstrekt helder zijn dat naar mijn opvatting geen enkel leerplichtig zmok-kind van adequaat onderwijs verstoken zou mogen zijn. </antwoord>
+      <antwoord nummer="2">Er zijn geen aanwijzingen voor een relatie met «Weer Samen Naar School» (WSNS). WSNS betreft basisscholen en scholen voor lom, mlk en iobk. Overigens wil ik niet geheel uitsluiten, dat als gevolg van het WSNS-beleid, binnen de samenwerkingsverbanden WSNS de noodzaak tot doorverwijzing van kinderen met ernstige problemen naar een zmok-school eerder wordt gesignaleerd, waardoor enige extra druk op het zmok-onderwijs optreedt. Uit informatie uit het onderwijsveld leid ik echter af dat het meer voor de hand ligt de oorzaak mede te zoeken in capaciteitsproblemen bij de jeugdhulpverlening, die ertoe leiden, dat meer kinderen met ernstige problemen voor hun hulp uitsluitend zijn aangewezen op een zmok-school. Voor acties verwijs ik u naar het antwoord onder 1. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Ter inzage gelegd bij de afdeling Parlementaire Documentatie</noot>
+      </noten>
+   </antwoorden>
+</kvr>

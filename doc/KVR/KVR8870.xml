@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="5">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Klein Molekamp (VVD) aan de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeer over de opwarming van de aarde. (Ingezonden 3 februari 1999); Antwoord</item>
+         <item attribuut="Bestand">14Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR8870
+</item>
+         <item attribuut="Inhoud">Vragen over de bevindingen uit een Amerikaanse studie naar temperatuurstijgingen van verschillende delen van de aarde, in vergelijking met de temperatuurstijgingen berekend door IPCC (Intergovernmental Panel on Climate Change).</item>
+         <item attribuut="Rubriek">Milieu (Klimaatveranderingen)</item>
+         <item attribuut="Trefwoorden">Klimaatveranderingen</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 1998-1999, nr. 932, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2989907050</item>
+         <item attribuut="Afkomstig_van">Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Klein Molekamp</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1999-03-08</item>
+         <item attribuut="Datum_indiening">1999-02-03</item>
+         <item attribuut="Document-id">KVR8870</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1998–1999" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1907" allpagenumbers="1907" vetnummer="2989907050" code="" lopendefooter="Tweede Kamer, vergaderjaar 1998–1999, Aanhangsel" filenaam="KVR8870" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 1999"/>
+      <vraagdata vraagnummer="932" onderwerp="" indiendatum="1999-02-3">
+         <vrager partij="VVD" oorsprong="parlement">Klein Molekamp</vrager>
+         <vraagt-aan>de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeer</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1999-03-8">
+         <antwoorder functie="minister" ministerie="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer">Pronk</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1">Bent u bekend met een studie van de universiteit van Alabama (VS), waarin de opwarming van de verschillende delen van de aarde met satellietwaarnemingen is onderzocht? </vraag>
+      <vraag nummer="2">Kan uit deze metingen worden geconcludeerd dat de temperatuur op aarde in de afgelopen twintig jaar met gemiddeld 0,12 graden Celsius is gestegen, hetgeen neerkomt op een gemiddelde stijging van 0,6 graden Celsius per eeuw? </vraag>
+      <vraag nummer="3">Zijn de grootste temperatuurstijgingen gemeten in het Noord-Westen van Canada en in Siberië en China, welke gebieden zijn met een uitzonderlijk koud klimaat? </vraag>
+      <vraag nummer="4">Blijkt uit de studie dat de temperatuur op het Zuidelijk Halfrond iets is gedaald, in het bijzonder in een regio die zich uitstrekt van Centraal-Afrika via het Midden-Oosten naar India? </vraag>
+      <vraag nummer="5">In hoeverre komen deze metingen overeen met de door het IPCC berekende temperatuurstijgingen voor de komende eeuw? IPCC = Intergovernmental Panel on Climate Change </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Nee. Het is niet verantwoord om op basis van een meetreeks van de afgelopen twintig jaar een uitspraak te doen over een opwarmingstrend over een periode van honderd jaar. Naar ik heb vernomen wordt er in wetenschappelijke kring debat gevoerd over de interpretatie van de (korte) reeks satellietgegevens van Spencer &amp; Christy. </antwoord>
+      <antwoord nummer="3">Ja. Ook uit het Second Assessment Report van het IPCC blijkt dat de grootste temperatuurstijgingen zijn gemeten in de genoemde gebieden. </antwoord>
+      <antwoord nummer="4">Voorzover mij bekend doet de studie van Spencer &amp; Christy daar geen uitspraak over. </antwoord>
+      <antwoord nummer="5">De door u bedoelde reeks van metingen van 20 jaar is te kort om als toetssteen te dienen voor de Global Circulation Modellen, die de basis vormen voor de berekeningen van het IPCC voor de volgende eeuw. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

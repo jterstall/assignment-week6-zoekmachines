@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001347</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001347&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001347</item>
+         <item attribuut="Document-id">0000019733</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 333</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Franssen, Ginjaar-Maas (beiden VVD) en Netelenbos (PvdA) over een voorgenomen fusie tussen een christelijke mavo en twee reformatorische scholengemeenschappen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 333</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">333</item>
+         <item attribuut="Indiener">
+            <persoon>Franssen</persoon>
+            <persoon>Ginjaar-Maas</persoon>
+            <persoon>Netelenbos</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-12-13</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Wallage</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-01-28</item>
+         <item attribuut="Beginpagina">709</item>
+         <item attribuut="Eindpagina">710</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="709" allpagenumbers="709 710" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeveri] Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="333" onderwerp="een voorgenomen fusie tussen een christelijke mavo en twee reformatorische scholengemeenschappen." indiendatum="1991-12-13">
+         <vrager partij="" oorsprong="parlement">Franssen</vrager>
+         <vrager partij="" oorsprong="parlement">Ginjaar-Maas</vrager>
+         <vrager partij="" oorsprong="parlement">Netelenbos</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-01-28">
+         <antwoorder functie="staatssecretaris" ministerie="Onderwijs en Wetenschappen">Wallage</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1">Is het bestuur van de christelijke mavo in Tholen voornemens deze school te laten fuseren met de reformatorische scholengemeenschap voor mavo, havo en atheneum Voetius in Goes en de reformatorische scholengemeenschap voor Ibo en mavo Rehoboth in Krabbendijke? </vraag>
+      <vraag nummer="2">Is bij deze fusie naar uw oordeel en dat van het bestuur van de mavo in Tholen sprake van zuilverwisseling? </vraag>
+      <vraag nummer="3">Is het waar, dat aan de medezeggenschapsraad van de christelijke mavo in Tholen geen advies over deze voorgenomen fusie is gevraagd? welke gevolgen heeft dit feit, indien u de vorige vraag bevestigend beantwoordt, voor de rechtsgeldigheid van het desbetreffende bestuursbesluit? Hebt u kennis genomen van de uitspraken van bestuurslid J. Verschuure van de reformatorische scholengemeenschap Voetius in Goes: «Hij erkent dat de Thoolse leraren een nieuwe akte van benoeming zullen moeten ondertekenen als de fusie tot stand komt» en «Voor ons ligt dat simpel. Wij kunnen niemand dwingen iets te ondertekenen dat tegen zijn principes ingaat, maar we eisen van al onze personeelsleden wel instemming.»? Bent u op de hoogte van datgene waarmee precies instemming wordt verlangd? </vraag>
+      <vraag nummer="5">Hebt u ook kennis genomen van de navolgende uitspraak van de voorzitter van de medezeggenschapsraad van de christelijke mavo in Tholen over de mogelijkheid dat de aan deze mavo verbonden leraren over zullen gaan naar de nieuw te vormen school: «Twee zullen er zeker door de beugel kunnen, misschien drie en als ze heel soepel zijn kan nog een vierde collega de overstap meemaken. De anderen zullen met wachtgeld gestuurd worden en vervangen worden door nieuwe leraren. Een onnodige vervanging die het rijk kapitalen kost»? Bent u eventueel bereid die wachtgelden voor uw rekening te nemen? </vraag>
+      <vraag nummer="6">Hebt u eveneens kennis genomen van de uitspraak van leraar Nederïands C. H. P. Dickhout van de christelijke mavo in Tholen: «Ik heb gevraagd wat er zou gebeuren als ik onder een reformatorisch bestuur tennis op zondag. Het antwoord 'vas dat ik minimaal een berisping zou krijgen»? Is een eventueel verbod om te tennissen op zondag naar uw oordeel in overeenstemming met de vrijheid van een instelling op godsdienstige of levensbeschouwelijke grondslag om eisen te stellen die, gelet op het doel van de instelling, nodig zijn voor de vervulling van de functie? Zo ja, wilt u dit toelichten? j.l. </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja, ik ben van dit voornemen op de hoogte. De p.c. mavo te Tholen telt 132 leerlingen en wordt dus met opheffing bedreigd als geen fusie plaatsvindt. </antwoord>
+      <antwoord nummer="2">Ja. Naar mijn informatie heeft de medezeggenschapsraad van de p.c. mavo in Tholen op het punt van fusie alleen adviesbevoegdheid. Het advies van die raad is door het bestuur gevraagd maar niet gevolgd. </antwoord>
+      <antwoord nummer="4 en 5">De door diverse betrokkenen gedane uitspraken geciteerd in vragen 4, 5 en 6, zijn ook mij bekend via het situatie voor een ontslaguitkering in aanmerking wenst te komen, zal het weigeren van de benoeming in het algemeen niet worden beschouwd als een weigering een passende betrekkmg te aanvaarden. Volgens informatie van de directeur van de p.c. mavo zal waarschijnlijk een personeelslid met een volledige en drie met een gedeeltelijke betrekking de grondslag niet kunnen onderschrijven. Of zij van de ontslaguitkeringsregeling gebruik zullen maken is niet bekend, wèl dat zij daar in beginsel recht op hebben. Ik vermag niet te oordelen welke gedragingen wél en welke niet in overeenstemming zijn met de grondslag van een bepaalde school. Als in een concreet geval sprake is van een disciplinaire maatregel is het aan de commissie van beroep en eventueel de kantonrechter te beoordelen of zo'n maatregel al of niet rechtmatig is getroffen. Bij het oordeel zal vermoedelijk een rol spelen of bepaalde gedragingen een relatie hebben met het geven van onderwijs aan de betreffende school. Overigens moet een eventuele uitspraak van een commissie van beroep over concrete gevallen zoals hierboven bedoeld, niet worden gelijkgesteld met een oordeel over de vraag of terzake personeelskosten voor vergoeding in aanmerking worden gebracht. Een oordeel over de vraag of, en in welke mate, in concrete gevallen bijvoorbeeld vervangingskosten terecht door een bevoegd gezag bij het departement </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

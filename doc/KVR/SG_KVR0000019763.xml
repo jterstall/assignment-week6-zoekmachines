@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001377</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001377&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001377</item>
+         <item attribuut="Document-id">0000019763</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 363</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van Heemst (PvdA) over de achterstand bij de vergunningverlening op grond van de Wet verontreiniging oppervlaktewateren.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 363</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">363</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Van Heemst</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-01-30</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Maij-Weggen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-02-07</item>
+         <item attribuut="Beginpagina">773</item>
+         <item attribuut="Eindpagina">774</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="773" allpagenumbers="773 774" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="363" onderwerp="de achterstand bij de vergunningverlening op grond van de Wet verontreiniging oppervlaktewateren." indiendatum="1992-01-30">
+         <vrager partij="PvdA" oorsprong="parlement">Van Heemst</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-02-7">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">Maij-Weggen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="8">
+      <vraag nummer="1" voetnoot="1">Herinnert u zich uw uitspraak, dat de achterstand, die bestaat bij de verlening van vergunningen op grond van de Wet verontreiniging oppervlaktewateren «intussen met 40% is ingelopen? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2" voetnoot="1">Zijn «de ernstige zaken, waarmee is begonnen», <voetnoot nummer="1"/> de zaken, die spelen bij de belangrijkste lozers? </vraag>
+      <vraag nummer="3">Welk percentage van de achterstand bij de vergunningverlening voor de belangrijkste lozers was per 14 oktober 1991 ingelopen? </vraag>
+      <vraag nummer="4" voetnoot="2">Wat is uw reactie op de uitspraak van de Zuid Hollandse Miheufederatie (ZMF), dat «de cijfers die de minister van Verkeer en Waterstaat noemt niet kunnen kloppen»? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="5" voetnoot="3">Wilt u concreet ingaan op de nadere toelichting op de Zuid-Hollandse stand van zaken? <voetnoot nummer="3"/>
+      </vraag>
+      <vraag nummer="6">Kunt u een getalsmatige uitsplitsing per provincie geven van de oorspronkelijke achterstand (bij de start van het inhaalprogramma in 1989} en van de stand van zaken per 15oktober 1991? </vraag>
+      <vraag nummer="7">Wanneer komen de definitieve onderzoeksgegevens beschikbaar met betrekking tot het gedogen van milieu-overtredingen in de sfeer van de Wet Verontreiniging Oppervlaktewateren/Rijkswaterstaat? </vraag>
+      <vraag nummer="8">Wat is per punt uw reactie op de bewering van de ZMF, dat binnen de directie Zuid-Holland van Rijkswaterstaat (RWS) op vier punten niet voldaan is aan de voorwaarden die in 1988 door de werkgroep Inhaal Programma Achterstand Vergunningverlening zijn geformuleerd om de achterstanden in 1991 in te lopen, te weten: a. een uitbreiding van de capaciteit voor vergunningverlening met 29 formatieplaatsen (terwijl slechts 22,5 formatieplaatsen is gerealiseerd); b. het invoeren van een efficiëntere werkwijze (terwijl in Zuid-Holland slechts 6 i.p.v. de geplande 12 ontwerpbeschikkingen zijn opgesteld); c. het uitbesteden van werk aan externe bureaus (hetgeen nauwelijks plaatsvindtj en d. het van toepassing laten zijn van «algemene regels» voor «kleine» vergunningplichtigen in plaats van het hanteren van individuele vergunningen (wat juridisch nog niet mogelijk is)? In welke mate is in de overige directies van RWS voor wat betreft de in vraag 8 genoemde punten a t/m e sprake van eenzelfde kwantitatieve afwijking van de randvoorwaarden die zijn geformuleerd om volgens planning de achterstanden in te lopen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> UCVvan 14oktober 1991 over handhaving milieuwetgeving (blz. 1-47)</noot>
+         <noot nummer="2" titel="Handhaving"> Zie «Handhaving» van nov/dec 1991 (7e jg./nr. 6), blz. 7 t/m 9</noot>
+         <noot nummer="3"> Volgens een nadere toelichting van de ZMF waren op 14 oktober 1991 voor Zuid-Holland slechts 6 van de 72 grote bedrijven voorzien van een actuele vergunning</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1"> t/m  5 Ja. In 1989 is het Inhaalprogramma achterstand vergunningverlening bij Rijkswaterstaat gestart. De opzet is deze achterstand door extra personele inzet, strakkere planning en meer standaardisatie op 1 januari 1995 te hebben ingelopen. Prioriteit wordt thans gegeven aan de belangrijkste lozingen. Daarvan is circa 90% weggewerkt. In oktober 1991 was 40% van de totale achterstand ingelopen. De resterende, minder milieubelastende, lozingen zullen grotendeels door algemene regelgeving worden </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

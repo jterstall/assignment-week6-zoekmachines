@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="4">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001034</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001034&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001034</item>
+         <item attribuut="Document-id">0000106809</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 1</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Borgman (C.D.A.) over het uitstel- en vrijstellingsbeleid militaire dienst.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 1</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">1</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Borgman</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-09-03</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van Houwelingen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-09-17</item>
+         <item attribuut="Beginpagina">1</item>
+         <item attribuut="Eindpagina">2</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1986-1987 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="Vragen" onderwerp="het uitstel- en vrijstellingsbeleid militaire dienst." indiendatum="3 september 1986)">
+         <vrager partij="CDA" oorsprong="parlement">Borgman</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="staatssecretaris" ministerie="Defensie">V a n H o u w e l i n g e n</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 ">Herinnert de staatssecretaris zich de  veelvoudig gedane toezegging, o.a.  tijdens de behandeling van de  personeelsparagraaf uit de Defensie- nota 1984, dat deze Kamer reeds in  1984 een wetsvoorstel inzake het  uitstel en vrijstellingsbeleid zou  ontvangen?  </vraag>
+      <vraag nummer="2 ">Hoe verhoudt het in de brief van 1  september 1986 van de staatssecre- taris genoemde voornemen zich tot  de ook eerder gedane toezegging dat  de regering streeft naar een «zo ver  mogelijke individuele benadering»?'  </vraag>
+      <vraag nummer="3 ">Op grond van welke overwegingen  besluit de regering thans tot een  «strikte toepassing» van de regels  voor het uitstel- en vrijstellingsbeleid?  </vraag>
+      <vraag nummer="4 ">Op welke termijn zal het wetsvoorstel  inzake het uitstel- en vrijstellingsbe- leid militaire dienst deze Kamer  bereiken?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1 ">Ja, in die zin dat door mijn ambtsvoor- ganger een wetsvoorstel is aangekom  digd over het vrijstellingsbeleid. Over  het uitstelbeleid is een dergelijke  toezegging niet gedaan. (Zie Hande- lingen Tweede Kamer nr. 17,  7 - 9  februari 1984, blz.  2 9 3 2 en ook  Handelingen UCV 85, 9 april 1  9 8 4  blz. 39).  </antwoord>
+      <antwoord nummer="2 ">Een strikte toepassing van de criteria  is ook bij een individuele benadering  mogelijk en noodzakelijk. De in mijn  brief van 1 september jl. genoemde  maatregelen staan een individuele  benadering niet in de weg.  </antwoord>
+      <antwoord nummer="3 ">De overwegingen die tot een  striktere toepassing van de criteria  hebben geleid zijn vermeld in mijn  brief van 1 september  j l .  </antwoord>
+      <antwoord nummer="4 ">De Raad van State heeft inmiddels  advies uitgebracht. Het voorstel  wordt nog dit jaar aan de Tweede  Kamer aangeboden.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0000052</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0000052&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0000052</item>
+         <item attribuut="Document-id">0000010356</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Eerste Kamer 1992-1993 nummer 13</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Eerste Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van der Werff (VVD) inzake nog niet ontvangen antwoord op vragen gesteld tijdens beleidsdebat WVC/1992.</item>
+         <item attribuut="titel">Aanhangsel Eerste Kamer 1992-1993 nummer 13</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">13</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Van der Werff</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-11-24</item>
+         <item attribuut="Beantwoorder">
+            <persoon>D'Ancona</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-12-16</item>
+         <item attribuut="Beginpagina">25</item>
+         <item attribuut="Eindpagina">26</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Eerste Kamer der Staten-Generaal" kamer="1" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen door de leden der Kamer gesteld overeenkomstig artikel schriftelijk gegeven antwoorden"/>
+      <footer firstpaginanummer="25" allpagenumbers="25" vetnummer="" code="" lopendefooter="Eerste Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 - 738x" uitgever="Sdu Uitgeverij Plantijnstraat s Gravenhage 1992"/>
+      <vraagdata vraagnummer="" onderwerp="" indiendatum="">
+         <vrager partij="VVD" oorsprong="parlement">Van der Werff</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="16december 1992">
+         <antwoorder functie="mevrouw" ministerie="Ontvangen 16december 1992">D'Ancona, minister van Welzijn, Volksgezondheid en Cultuur.</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="13">Vragen van het lid Van der Werff (WD) inzake nog niet ontvangen antwoord op vragen gesteld tijdens beleidsdebat WVC/1992. (Ingezonden 24 november 1992) </vraag>
+      <vraag nummer="1">Herïnnert de bewindsvrouwe zich, dat vragensteller haar tijdens het beleidsdebat 1992 over onderwerpen rakende het ministerie van Welzijn, Volksgezondheid en Cultuur, dringend heeft verzocht' met betrekking tot bestaande nationale wetgeving in ieder geval op twee punten in overleg met haar ambtgenoot van Justitie tot reparatiewetgeving over te gaan met betrekking tot: - de met de invoering van het Nieuw BW sinds 1-1-92 geldende, verkrijgende verjaring gedurende 20 jaar, ook in het geval van bezit van niet te goeder trouw verkregen kunst– en kerkschatten en cultureel erfgoed na die periode; - de uitbreiding van de wet Behoud Cultuur Bezit tot overheden en overheidscollecties? </vraag>
+      <vraag nummer="2">Bestaat er mede in het licht van de laatste recente voorstellen van de Europese Commissie geen gerede aanleiding hier snel werk van te maken? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1 en 2">Op 10 november jl. is in de Interne Markt Raad een principe-accoord bereikt over de voorstellen van de Europese Commissie voor een verordening inzake de export van cultuurgoederen en een richtlijn inzake de teruggave. De datum van inwerkingtreding is nog niet bekend maar zal naar alle waarschijnlijkheid in de tweede van 1993 vallen. De nchtlijn kent na de inwerkingtreding een implementatietermijn van 9 a 12 maanden. Wat betreft de in de richtlijn gestelde verjaringstermijn voor publiek bezit van 75 jaar zal mijn collega van Justitie voor aanpassing van het Nieuwe BW actie ondernemen. Hierover zal ik nauw contact met Justitie onderhouden. Al eerder heeft de minister van Justitie (op 25-9-1992) in antwoord op vragen van het Tweede-Kamerlid Wolffensperger geantwoord dat de problematiek van de kunstdiefstal, in het bijzonder die uit publiek bezit, nog nader wordt bezien in het licht van de besprekingen gaande in EG-verband. Het overheidsbezit zal onder de werking van de richtlijn vallen. Aangezien ieder van de EG-lidstaten een wettelijke voorziening daartoe moet treffen heb ik een aanpassing van de Wet Behoud Cultuurbezit terzake in voorbereiding genomen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001191</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001191&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001191</item>
+         <item attribuut="Document-id">0000027528</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 258</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Blauw (V.V.D.) over mestafzet.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 258</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">258</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Blauw</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-11-23</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Bukman</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-12-19</item>
+         <item attribuut="Beginpagina">521</item>
+         <item attribuut="Eindpagina">522</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="521" allpagenumbers="521 522" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1991"/>
+      <vraagdata vraagnummer="258" onderwerp="mestafzet." indiendatum="1990-11-23">
+         <vrager partij="VVD" oorsprong="parlement">Blauw</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-12-19">
+         <antwoorder functie="minister" ministerie="Landbouw, Natuurbeheer en Visserij">Bukman</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1">Hebt u kennis genomen van het gewijzigde standpunt van de P.v.d.A. om per 1 januari 1993 de bedrijfsuit– oefening in de veehouderij te belem– meren, indien op dat moment geen afzetcontract voor de op het bedrijf geproduceerde mest getoond kan worden?' Wordt met deze stellingname de stabiliteit van het voorgenomen beleid niet ondermijnd, dit temeer omdat enige weken geleden bij de behandeling van de landbouwbe– groting en eerder bij de UCV van 10 september het kabinet, niet weersproken in de Kamer, 1 januari 1995 als uitgangspunt voor dit beleid heeft ingenomen? </vraag>
+      <vraag nummer="3">Welke gevolgen heeft of kan het nieuwe P.v.d.A.-standpunt voor het uitgestippelde beleid hebben in verband met de noodzakelijke motivatie om tot investeringen op bedrijfsniveau te komen zoals dat inmiddels is vastgelegd in de nota Tweede fase mestbeleid? Wilt u, gelet op de voorbereiding ten behoeve van de behandeling van de Structuurnota Landbouw zo spoedig mogelijk de antwoorden op deze vragen aan deze Kamer zenden? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="2">Zie weekblad Oogst van 16 november 1990 Kamerstuk 21 502, nr. 3</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ik heb kennis genomen van het artikel in het weekblad Oogst. Het betreft hier een samenvatting van een artikel in het blad Spil van oktober jl. waarin de heren Van Zijl, Huys en Feenstra een eigen kijk op de mestproblematiek geven. </antwoord>
+      <antwoord nummer="2 en 3">In de notitie «nieuwe voornemens mestbeleid» die u ter kennisneming is aangeboden op 27 maart 1990 en tegelijkertijd voor advisering aan een aantal instanties is voorgelegd, is van regeringszijde voorgesteld om vanaf 1993 het systeem van schorsing van mestproduktierechten integraal in te voeren. Zoals in de Notitie Mestbeleid tweede fase, toegezonden bij brief van 27 juni </antwoord>
+      <antwoord nummer="1990" voetnoot="1 2">
+         <voetnoot nummer="1"/> is aangegeven, bleek uit de adviezen dat integrale invoering van het systeem van schorsing van mestproduktierechten per 1993 bezwaarlijk werd geacht vanwege de grote operationele problemen en het onvoldoende aanwezig zijn van alter– natieven voor de distributie van mest in tekortgebieden, in de vorm van mestverwerking. Vanwege deze bezwaren is in de notitie gekozen voor de opzet zoals deze in de UCV van 10 september <voetnoot nummer="2"/> is besproken en waarmee de Tweede Kamer heeft ingestemd. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Kamerstuk 21 502 nr. 3, Vergaderjaar 1989-1990</noot>
+         <noot nummer="2"> Zie Handelingen UCV, nr. 47, Vergaderjaar 1989-1990</noot>
+      </noten>
+   </antwoorden>
+</kvr>

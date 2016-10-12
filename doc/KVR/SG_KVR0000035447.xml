@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19891990:0001040</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001040&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001040</item>
+         <item attribuut="Document-id">0000035447</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 119</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Castricum, De Cloe en Niessen (allen P.v.d.A.) over de Maasroute in het patrouilleschema van de Rijkspolitie.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 119</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">119</item>
+         <item attribuut="Indiener">
+            <persoon>Castricum</persoon>
+            <persoon>De Cloe</persoon>
+            <persoon>Niessen</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-10-20</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Korthals Altes</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-11-06</item>
+         <item attribuut="Beginpagina">245</item>
+         <item attribuut="Eindpagina">246</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="245" allpagenumbers="245" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 921 7398" uitgever="SDU uitgeverij 's Gravenhage 1989"/>
+      <vraagdata vraagnummer="119" onderwerp="de Maasroute in het patrouille– schema van de Rijkspolitie." indiendatum="20 oktober (1989">
+         <vrager partij="" oorsprong="parlement">Castricum</vrager>
+         <vrager partij="" oorsprong="parlement">De Cloe</vrager>
+         <vrager partij="" oorsprong="parlement">Niessen</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1989-11-6">
+         <antwoorder functie="minister" ministerie="Justitie">Korthals Altes</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="1">
+      <vraag nummer="1">Zit «de Maasroute, als voormalige provinciale weg, nog steeds niet in het patrouilleschema van de Rijkspo– litie»?' Zo neen, wanneer zal deze weg in bedoeld schema worden opgenomen? Bent u bereid, wanneer zulks nog enige tijd zal duren, deze maatregel versneld door te (laten) voeren, gezien het gevaarlijke karakter van de weg? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1989-10-18" bron=" Zie  in De Stem" titel="Wordt 'dodenweg' wel ooit veilig"> Zie «Wordt 'dodenweg' wel ooit veilig» in De Stem, 18 oktober 1989</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Met het verkeerstoezicht op de Maasroute, een nieuw gedeelte van het autosnelwegennet met de aanduiding Rijksweg A 59, zijn thans belast politie-ambtenaren van de verschillende landgroepen van het Korps Rijkspolitie en gemeentepo– litie-ambtenaren, ieder voor dat gedeelte van deze weg dat door het gebied loopt waarvoor zij de politietaak uitoefenen. De Algemene Verkeersdienst van het Korps Rijks– politie houdt hiernaast nog geen verkeerstoezicht op dit weggedeelte. </antwoord>
+      <antwoord nummer="2">Overwogen wordt door aanpassing van de beschikking van 19 november 1969, kenmerk Politie nr. 373 J 569 en nr. EA69/2584, betreffende de taak van de Algemene Verkeers– dienst van het Korps Rijkspolitie, die gebaseerd is op het bepaalde in de artikelen 34 b en 34 c van de Politiewet (Stb. 1989, nr. 223), het verkeerstoezicht op dit gedeelte van het autosnelwegennet mede te doen uitvoeren door de Algemene Verkeersdienst van het Korps Rijks– politie. Deze dienst zal dan in het bijzonder de algemene surveillance verzorgen. Gelet op de gesignaleerde verkeersproblemen heb ik de commandant van de Algemene Verkeersdienst van het Korps Rijks– politie inmiddels verzocht, in overleg met het bevoegd gezag en met de desbetreffende groepen van het Korps Rijkspolitie en korpsen van gemeentepolitie, zo snel mogelijk tot werkafspraken te komen zodat de Algemene Verkeersdienst van het Korps Rijkspolitie al op zeer korte termijn surveillances op dit wegge– deelte kan gaan uitvoeren, indien mijn ambtsopvolger daartoe besluit. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

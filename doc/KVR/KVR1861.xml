@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Hoekema en De Koning (beiden D66) over het bezoeken van Lourdes op Rijkskosten. (Ingezonden 17 augustus 1995); Antwoord</item>
+         <item attribuut="Bestand">14Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR1861
+</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van een artikel in Vrij Nederland (8 juli 1995).</item>
+         <item attribuut="Rubriek">Inkomen en rechtspositie (Loontoeslagen)</item>
+         <item attribuut="Trefwoorden">Overheidspersoneel Reiskostenvergoedingen</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 1994-1995, nr. 1197, Tweede Kamer</item>
+         <item attribuut="Afkomstig_van">Defensie</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Hoekema</persoon>
+            <persoon partij="D66">De Koning</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1995-09-08</item>
+         <item attribuut="Datum_indiening">1995-08-17</item>
+         <item attribuut="Document-id">KVR1861</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1994–1995" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="2465" allpagenumbers="2465" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1994–1995, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgeverij Plantijnstraat ’s-Gravenhage 1995"/>
+      <vraagdata vraagnummer="1197" onderwerp="" indiendatum="1995-08-17">
+         <vrager partij="D66" oorsprong="parlement">Hoekema</vrager>
+         <vrager partij="D66" oorsprong="parlement">De Koning</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1995-09-8">
+         <antwoorder functie="minister" ministerie="Defensie">Voorhoeve</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Is het waar, dat honderddertig ambtenaren van het ministerie van Defensie op Rijkskosten per vliegtuig of trein een bezoek hebben gebracht aan Lourdes? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Wat is de argumentatie, behoudens «de behoefte aan bezinning», deze kosten te vergoeden? </vraag>
+      <vraag nummer="3">Vindt u, dat aan de behoefte aan bezinning niet ook op een andere manier tegemoet kan worden gekomen? </vraag>
+      <vraag nummer="4">Zijn vergelijkbare faciliteiten voor bezinning beschikbaar voor andere geloofsovertuigingen c.q. humanisten? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1995-07-8" bron="Vrij Nederland">Vrij Nederland, 8 juli 1995, p. 14</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Neen. Reis- en verblijfkosten van de militaire bedevaart naar Lourdes worden gedragen door de deelnemers en de stichting Lourdesbedevaart, de organisator van de bedevaart. Voor deelname aan de bedevaart wordt aan defensieambtenaren verlof verleend op grond van de bepalingen van het Militaire ambtenaren-reglement of het Burgerlijk ambtenarenreglement defensie. Op uitnodiging van de Franse legerbisschop bezoeken jaarlijks e´e´n a` twee Defensievertegenwoordigers Lourdes. Hun verblijfkosten worden door het Ministerie van Defensie vergoed. Ook reizen doorgaans enkele commandanten mee die hun verblijfkosten bij het eigen krijgsmachtdeel declareren. Defensie ondersteunt de bedevaart door het leveren van medische begeleiding en door de inzet van – voor zover beschikbaar – luchttransport voor het vervoer van begeleiders en zieke of invalide militairen of veteranen die de reis niet per trein kunnen maken en van autoriteiten. </antwoord>
+      <antwoord nummer="2 en 3">Naast de godsdienstige motieven van deelnemers draagt de bedevaart bij aan de verbetering van de onderlinge betrekkingen tussen de verschillende krijgsmachten. Aan de bedevaart wordt deelgenomen door circa 20.000 personen uit 13 landen, waaronder die uit Oost-Europa. </antwoord>
+      <antwoord nummer="4">Er zijn vergelijkbare faciliteiten voor de protestantse pelgrimage, die jaarlijks door de Franse protestantse geestelijke verzorging wordt georganiseerd. Hieraan nemen jaarlijks ongeveer veertig Nederlanders deel, alsmede militairen uit verscheidene Europese landen, de Verenigde Staten en Canada. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0001590</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001590&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001590</item>
+         <item attribuut="Document-id">0000004101</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 376</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Sipkes en Willems (beiden Groen Links) over de produktie van strijdgassen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 376</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">376</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Sipkes</persoon>
+            <persoon partij="Groen Links">Willems</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-02-04</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Frinking</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-03-16</item>
+         <item attribuut="Beginpagina">765</item>
+         <item attribuut="Eindpagina">766</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="765" allpagenumbers="765 766" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgeverij Plantijnstraat s Gravenhage 1994"/>
+      <vraagdata vraagnummer="376" onderwerp="de produktie van strijdgassen." indiendatum="4februari 1994) 1">
+         <vrager partij="Groen Links" oorsprong="parlement">Sipkes</vrager>
+         <vrager partij="Groen Links" oorsprong="parlement">Willems</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-03-16">
+         <antwoorder functie="staatssecretaris" ministerie="Defensie">Frinking</antwoorder>
+         <mede-antwoorder>de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1" voetnoot="2">Hoe verhoudt zich het feit, dat de Nederlandse overheid in het verleden altijd ontkend heeft dat Nederland over strijdgassen zou beschikken of zich met de bereiding ervan bezighield, tot enerzijds de produktie van dergelijke gassen in de jaren dertig op het terrein van de voormalige Artillerie Inrichtingen in Zaandam en anderzijds tot de produktie die in Nederlands-lndië plaatsgevonden heeft? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="2">Is de Kamer in het verleden geïnformeerd over de produktie van zulke gassen? Zo neen, waarom niet? </vraag>
+      <vraag nummer="3" voetnoot="3">Is in de door de Nederlandse overheid uitgebrachte rapportage bij het Committee on Disarmement gemeld, dat het in Nederlands-lndië om een produktie van onder andere mosterdgas ging? Zo neen, waarom niet? Wanneer is de betreffende installatie overgedragen aan Indonesië? Welke afspraken zijn er met Indonesië gemaakt bij de overdracht? Waarom is tijdens een informatie-avond waarbij 41 omwonenden op de hoogte werden gesteld van de bodemverontreiniging informatie onthouden over hetfeit dat deze verontreiniging ook het zwaar giftige cyanide bevat? <voetnoot nummer="3"/>
+      </vraag>
+      <vraag nummer="6">Deelt u de mening, dat die informatie-avond daardoor in feite desinformatie opleverde? </vraag>
+      <vraag nummer="7">Bent u alsnog bereid aan omwonenden mede te delen dat de bodemverontreiniging ook het zwaar giftige cyanide bevat en welke gevolgen dat kan hebben voor de volksgezondheid? </vraag>
+      <vraag nummer="8">Wanneer en door wie zullen de verontreinigde terreinen gesaneerd worden? Welke consequenties heeft het voor de beleidsdoelstelling van het ministerie van Defensie alle bodemverontreiniging op defensieterreinen voor het jaar 2000 te saneren? </vraag>
+      <vraag nummer="9">Bent u bereid het jaarprogramma bodemsanering van defensie 1993 en 1994 zodanig te versnellen dat er nog een stuwende werking van uitgaat op de saneringsactiviteiten in 1994? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="4"/>
+         <noot nummer="1" datum="1994-01-6" bron=" Deze vragen dienen ter aanvullmg op de vragen van de leden Willems en Brouwer ingezonden"> Deze vragen dienen ter aanvullmg op de vragen van de leden Willems en Brouwer ingezonden, 6 januari 1994</noot>
+         <noot nummer="2" datum="1994-01-28" bron=" Persbericht Minister van Defensie"> Persbericht Minister van Defensie, 28 januari 1994</noot>
+         <noot nummer="3" datum="1994-01-29" bron=" Noordhollands Dagblad"> Noordhollands Dagblad, 29 januari 1994</noot>
+         <noot nummer="4"> Zie brief staatssecretaris van 10 januan 1994 aan de Voorzitter van de Tweede Kamer der Staten-Generaal, Kamerstuk 23 400 X, nr. 36</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="6">
+      <antwoord nummer="1">In het verleden heeft de Nederlandse regering nimmer ontkend dat zij over strijdgassen zou beschikken of zich met de bereiding daarvan bezig hield. In artikel 2 van de Wet van 31 juli 1930, tot goedkeuring van het Protocol nopens den chemische en bacteriologische oorlog van 25 juni 1925 (Staatsblad nr. 345) werd het voorbehoud gemaakt dat dit Protocol, «voor zover het betreft de chemische oorlog, van rechtswege zal ophouden verplichtend te zijn voor de Nederlandse regering tegenover iedere vijandelijke Staat, wiens strijdmacht of wiens bondgenootschap de in het Protocol neergelegde verbodsbepalmg niet de jaren tachtig gericht op een absoluut verbod op productie, ontwikkeling en opslag van chemische wapens. In dit verband zij bijvoorbeeld verwezen naar de verklaring op 15 juni 1982 van de toenmalige Minister-President Van Agt op de tweede bijzondere zitting van de Algemene Vergadering van de Verenigde Naties over ontwapening. Daarin stelde hij dat de Nederlandse strijdkrachten niet beschikken over chemische wapens en dat de Nederlandse regering niet overweegt om ze in te voeren in haar strijdkrachten en voorts dat zij tegen opslag van chemische wapens op Nederlands grondgebied is. </antwoord>
+      <antwoord nummer="2" voetnoot="2">Op 1 juni 1939 <voetnoot nummer="2"/> is in antwoord op vragen van het kamerlid Van Sleen mededeling gedaan over een besmetting met gifgas van arbeiders bij het verrichten van werkzaamheden op de terreinen van de Artillerie-lnrichtingen aan de Hembrug. </antwoord>
+      <antwoord nummer="3">Ja. Bij brief van 31 maart 1982 werd aan het Committee on Disarmament een rapport aangeboden onder de naam «Indonesia and the Netherlands– Working Document– destruction of about 45 tons of mustard agent at Batujajar, West-Java, Indonesia». Dit document (CD/270) is in de uitgave van het Ministerie van Buitenlandse Zaken «Ontwapening Veiligheid Vrede, voorstellen, besprekingen en besluiten 1981/1984» nr. 136 gepubliceerd (blz. 331). bodemverontreiniging. Aan de omwonenden is de informatie over de verontreiniging met cyaniden daarbij niet onthouden. Deze verontreiniging heefttijdens de voorlichting echter weinig aandacht gekregen, omdat de cyanide slechts zeer lokaal en in geringe concentratie in de bodem is aangetroffen. Daarnaast worden sporen van cyanide op veel voormalige bedrijfsterreinen aangetroffen en is er geen enkele relatie tussen deze verontreiniging en de proefinstallatie van strijdgassen. </antwoord>
+      <antwoord nummer="6"/>
+      <antwoord nummer=" en 7">Nu uit het door de Regionale Inspectie voor de Volksgezondheid en Milieuhygiëne gecoördineerde onderzoek niet valt af te leiden dat er acute risico's voor de volksgezondheid bestaan is er op dit moment geen aanleiding nadere informatie aan de omwonenden te verstrekken. </antwoord>
+      <antwoord nummer="8">Er zal, na afronding van het thans lopende bodemonderzoek, nog worden bezien door wie, op welke wijze en wanneer sanering zal worden uitgevoerd. De verontreiniging bij Hembrug heeft voor zover nu bekend geen invloed op de einddatum van het bodemsaneringsprogramma van Defensie. Binnen afzienbare tijd zijn de voorbereidingen van het bodemsaneringsprogramma 1994 </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

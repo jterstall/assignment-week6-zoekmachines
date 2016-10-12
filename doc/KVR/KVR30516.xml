@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="7">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Mastwijk (CDA) aan de staatssecretaris van Verkeer en Waterstaat over het kraken van de code van de OV-chipkaart. (Ingezonden 9 januari 2008); Antwoord</item>
+         <item attribuut="Bestand">14Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR30516
+</item>
+         <item attribuut="Inhoud">Aanvullende vragen op eerder vragen van de leden Gerkens en Roemer, ingezonden 9 januari 2008 over de beveiliging van de OV-chipkaart, nu gebleken is dat de geheime code van de kaart te kraken is, privacygevoelige informatie van klanten op straat kan komen te liggen en anderen op kosten van de kaarthouder kunnen reizen.</item>
+         <item attribuut="Rubriek">Verkeer, vervoer en waterstaat (Openbaar vervoer)</item>
+         <item attribuut="Trefwoorden">Chipkaarten Openbaar vervoer</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2007-2008, nr. 991, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070808040</item>
+         <item attribuut="Afkomstig_van">Verkeer en Waterstaat (VW)</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Mastwijk</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2008-01-16</item>
+         <item attribuut="Datum_indiening">2008-01-09</item>
+         <item attribuut="Document-id">KVR30516</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="2115" allpagenumbers="2115" vetnummer="2070808040" code="0708tkkvr991" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Aanhangsel" filenaam="KVR30516" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="991" onderwerp="" indiendatum="2008-01-9">
+         <vrager partij="CDA" oorsprong="parlement">Mastwijk</vrager>
+         <vraagt-aan>de staatssecretaris van Verkeer en Waterstaat</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2008-01-16">
+         <antwoorder functie="staatssecretaris" ministerie="Verkeer en Waterstaat">Huizinga-Heringa</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1" voetnoot="1">Kent u het bericht «Geheime code van ov-kaart ligt op straat»? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Is het waar dat hackers in Duitsland erin zijn geslaagd om de techniek respectievelijk de geheime code die in de chip van de OV-chipkaart wordt gebruikt, te kraken? </vraag>
+      <vraag nummer="3">Gaat het om dezelfde techniek die in de OV-chipkaarten in Nederland wordt gebruikt? </vraag>
+      <vraag nummer="4">Welke gevolgen heeft dit voor de reiziger als de code van de chip wordt gekraakt? Betekent dit bijvoorbeeld dat anderen dan de kaarthouder daarna op de kosten van de gerechtigde kaarthouder kunnen reizen en dat de privacy in ernstige mate in gevaar kan komen? </vraag>
+      <vraag nummer="5">Is het waar dat dit – als de code inderdaad is gekraakt – betekent dat de ontwikkelde techniek van de huidige chipkaart niet meer bruikbaar is, met andere woorden dat de investeringen die tot nu toe in de kaart zijn gedaan, als verloren moeten worden beschouwd? </vraag>
+      <vraag nummer="6">Kunt u aangeven wie, in het geval de veronderstelling zoals bedoeld in vraag 5 juist is, voor de kosten van een en ander zal opdraaien? </vraag>
+      <vraag nummer="7">Kunt u tenslotte een indicatie geven van de mate van vertraging die de landelijke invoering van de chipkaart hierdoor dreigt op te lopen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="2008-01-8" bron="de Volkskrant">de Volkskrant, 8 januari 2008</noot>
+      </noten>
+   </vragen>
+   <toelichting>Deze vragen dienen ter aanvulling op eerdere vragen ter zake van de leden Gerkens en Roemer (beiden SP), ingezonden 9 januari 2008 (vraagnummer 2070808030). </toelichting>
+   <antwoorden aantal="7">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Duitse onderzoekers hebben bekend gemaakt dat zij er achter gekomen zijn hoe de beveiliging van de technologie, die door NXP geheim is gehouden, werkt. De geheime codes zijn niet gekraakt. De beveiliging van de OV-chipkaart is hier echter niet uitsluitend afhankelijk van deze codes. De beveiliging van het OV-chipkaart systeem maakt gebruik van veel meer beveiligingsmaatregelen (zie antwoord 3 van de leden Gerkens en Roemer) dan alleen dit standaardalgoritme. </antwoord>
+      <antwoord nummer="3">Ja, TLS heeft mij bevestigd dat het om dezelfde techniek gaat. </antwoord>
+      <antwoord nummer="4">Volgens TLS zijn beide voorbeelden nu niet aan de orde. Misbruik van persoonsgegevens is niet mogelijk, omdat de persoonsgebonden kaart slechts de geboortedatum en een «encrypted» nummer bevat. Ik verwacht van Translink Systems (TLS) dat zij tegemoet komt aan de wensen van de reiziger op het gebied van betrouwbaarheid en veiligheid van de OV-chipkaart. </antwoord>
+      <antwoord nummer="5">Of TLS de techniek nog bruikbaar acht, moet blijken uit hun reactie op het onderzoek. </antwoord>
+      <antwoord nummer="6">Gelet op het antwoord op vraag 5 is het prematuur om over extra kosten te praten. </antwoord>
+      <antwoord nummer="7">Ik kan op dit moment geen indicatie geven of en in welke mate er vertraging zal optreden. Het zal duidelijk zijn dat ik de strippenkaart (het Nationaal VervoerBewijzen systeem: NVB) pas afschaf als de OV-chipkaart goed en veilig functioneert. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

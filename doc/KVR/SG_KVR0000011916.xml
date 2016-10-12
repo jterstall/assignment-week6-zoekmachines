@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001612</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001612&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001612</item>
+         <item attribuut="Document-id">0000011916</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 682</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid V. A. M. van der Burg (CDA) over witwassen van geld bij de Rabobank in Hulst.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 682</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">682</item>
+         <item attribuut="Indiener">
+            <persoon>V.A.M. van der Burg.</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-06-04</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Kok</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-06-25</item>
+         <item attribuut="Beginpagina">1391</item>
+         <item attribuut="Eindpagina">1392</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1391" allpagenumbers="1391" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="'s Gravenhage 1993"/>
+      <vraagdata vraagnummer="682" onderwerp="witwassen van geld bij de Rabobank in Hulst." indiendatum="1993-06-4">
+         <vrager partij="" oorsprong="parlement">V.A.M. van der Burg</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-06-25">
+         <antwoorder functie="minister" ministerie="Financiën">Kok</antwoorder>
+         <mede-antwoorder>de minister van Justitie</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Kent u het recente artikel <voetnoot nummer="1"/> over het witwassen van geld bij de Rabobank in Hulst? Wat wordt gedaan voor werknemers die, vanwege het zelfstandig melding doen van ongebruikelijke zaken, intern «afgestraft» zijn? Gelden er garanties met betrekking tot anonimiteit en geheimhouding? </vraag>
+      <vraag nummer="3">Worden meldingen, behalve aan de overheid, ook altijd gedaan aan de plaatselijke en landelijke bankleiding? Is er voorzien in een onafhankelijke onderzoeksinstantie? Zo neen, waarom niet? Zo ja, welke bevoegdheden heeft een dergelijke instantie? Hoe is het toezicht op en de verantwoordelijkheid voor het handelen van een min of meer zelfstandig bankfiliaal geregeld? </vraag>
+      <vraag nummer="5">Is een scherper toezicht nodig op banken in de grensstreken, onder andere vanwege de grotere mogelijkheden van deze banken in het buitenland verdacht geld te wisselen? Hebben bankdirecteuren een geheimhoudingsplicht met betrekking tot justitieel onderzoek naar het handelen van cliënten? Zo nee, waarom niet? Zo ja, welke sanctie bestaat er tegen het schenden van die plicht? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1993-05-29" bron=" Elsevier"> Elsevier, 29 mei 1993</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1" voetnoot="1">Ja. 2 e n  3 Het bij de Tweede Kamer aanhangige wetsvoorstel melding ongebruikelijke transacties <voetnoot nummer="1"/> voorziet in artikel 2 in een Meldpunt Ongebruikelijke Transacties. Dit meldpunt is een instantie die onafhankelijk is van de politie en van de financiële instellingen. Het voorgestelde artikel 9 verplicht financiële instellingen ongebruikelijke transacties te melden aan dit meldpunt. Voor een nadere toelichting zij verwezen naar de kamerstukken TK 1992-1993, 23 009, nrs. 1 tot en met  5. De voorgestelde meldingsplicht rust op de instelling en niet op het personeel van financiële instellingen. Daaraan is inherent dat deze instellingen goede interne procedures ontwikkelen die ervoor zorgen dat in deze ongebruikelijke transactie door de instelling zelf kan worden gemeld. Het is de taak van de leiding van deze instellingen om op de correcte naleving van deze procedures toe te zien. Werknemers tegen wie maatregelen worden genomen, hebben een arbeidsconflict waarop de gebruikelijke regels van het Burgerlijk Wetboek van toepassing zijn. Als overigens blijkt dat de instelling ten onrechte meldingen van werknemers niet doormeldt aan het meldpunt, kan de instelling wegens schending van de meldingsplicht (artikel 21) strafrechtelijk worden vervolgd. </antwoord>
+      <antwoord nummer="4">De Nederlandsche Bank N.V. houdt toezicht op een in het register als bedoeld in artikel 52 van de Wet toezicht kredietwezen 1992 (Wtk 1992) ingeschreven Nederlandse kredietinstelling, inclusief alle filialen van die kredietinstelling. De kantoren van Rabobank Nederland zijn echter geen filialen, doch zijn alle zelfstandige kredietinstellingen die participeren in Rabobank Nederland. Op grond van artikel 4 Wtk 1992 is bepaald dat het toezicht op de bij Rabobank Nederland aangesloten kredietinstellingen dat strekt in het belang van hun solvabiliteit en liquiditeit ten behoeve van bepaalde omschreven taken wordt uitgeoefend door Rabobank Nederland. Voorts zijn de bankkantoren van de Rabobank op grond van artikel 12 zogenaamde Financial Action Task Force on money laundering onderschreven. </antwoord>
+      <antwoord nummer="6">In de eerste plaats wordt opgemerkt dat in Nederland het zogenaamde bankgeheim niet bestaat. Derhalve kan een bankdirecteur zich in het kader van een justitieel onderzoek naar het handelen van clienten niet op een verschoningsrecht beroepen en zal hij de gevraagde informatie moeten verstrekken. Bankdirecteuren hebben evenmin tegenover hun cliënten een geheimhoudingsplicht indien informatie over die cliënten in het kader van een justitieel onderzoek wordt verstrekt. Een dergelijke wettelijke plicht bestaat in Nederland in zijn algemeenheid niet. Aangezien in het kader van het voorziene meldsysteem als neergelegd in het wetsvoorstel Melding ongebruikelijke transacties' een geheimhoudingsplicht wel noodzakelijk is geacht, is in dat wetsvoorstel een bepaling opgenomen dat een financiële instelling die een ongebruikelijke transactie van een cliënt aan het meldpunt heeft gemeld terzake aan geheimhouding gebonden is. Overtreding van deze bepaling zal een economisch delict zijn. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Kamerstuk II, 1992-1993, 23009, nrs 1-2</noot>
+      </noten>
+   </antwoorden>
+</kvr>

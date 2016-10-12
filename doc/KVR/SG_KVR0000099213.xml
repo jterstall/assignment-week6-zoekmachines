@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19871988:0001499</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001499&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001499</item>
+         <item attribuut="Document-id">0000099213</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1987-1988 nummer 556</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Kombrink en Rienks (beiden P.v.d.A.) over schoonmaakcontracten.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1987-1988 nummer 556</item>
+         <item attribuut="Jaargang">1987_1988</item>
+         <item attribuut="Vraagnummer">556</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Kombrink</persoon>
+            <persoon partij="PvdA">Rienks</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1988-04-22</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Koning</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1988-05-16</item>
+         <item attribuut="Beginpagina">1117</item>
+         <item attribuut="Eindpagina">1118</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="" typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 7 - 1 9 8 8 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="556" onderwerp="schoonmaakcontracten." indiendatum="22 april 1988)">
+         <vrager partij="PvdA" oorsprong="parlement">Kombrink</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Rienks</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 ">In hoeverre  w o r d t het risico van een  niet correcte uitvoering van door de  overheid afgesloten schoonmaakcon- tracten beïnvloed door de aard van  het afgesloten contract, o.a. ten  aanzien van meer- en minderwerkbe- palingen, alsmede de keuze tussen  een aanneemsom- en een urencon- tract?  </vraag>
+      <vraag nummer="2 ">Ligt het niet in de rede, indien m.b.t.  de jongste berichten' over misbruik- gevoeligheid van een dergelijke  samenhang sprake is, dat nader  overleg  w o r d t bevorderd tussen de  desbetreffende ministeries en andere  overheidsinstellingen met het RIB  teneinde deze misbruikgevoeligheid  te verminderen?  </vraag>
+      <vraag nummer="3 ">Betreffen deze berichten vooral die  overheidsopdrachtgevers, die het  RIB niet voor 100% hebben ingescha- keld voor bemiddeling, contractop- stelling en controle? Zo ja, welke  conclusies trekt u daaruit?  </vraag>
+      <vraag nummer="4 ">Is het aantal bij het RIB werkzame  buiteninspecteurs voldoende om als  inspectie in afdoende mate op de  kwaliteit van schoonmaakwerk te  kunnen voorzien? Zo neen, wilt u dan  een uitbreiding bevorderen?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="3 ">De berichten zoals die recent bekend  zijn gemaakt betreffen opdracht- gevers die het RIB niet volledig  hebben ingeschakeld voor zowel  bemiddeling, contractopstelling als  controle. Er is echter niet noodzake- lijkerwijs een causaal verband tussen  dat feit en de geconstateerde  onregelmatigheden. Naar mijn  oordeel verdient het RIB steun in het  streven naar het bemiddelen op  basis van afspraken die fraude  zoveel mogelijk uitsluiten.  </antwoord>
+      <antwoord nummer="4 ">Thans zijn bij het RIB drie kwaliteits  inspecteurs werkzaam die controles  zowel op verzoek van de ministeries  als uit eigen beweging verrichten.  Afhankelijk van de resultaten van de  verschillende onderhandelingen met  de ministeries zou wijziging van het  aantal inspecteurs kunnen worden  overwogen.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

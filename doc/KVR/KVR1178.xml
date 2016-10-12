@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Blaauw (VVD) over een Euro-ISDN-standaard (Ingezonden 20 februari 1995); Antwoord</item>
+         <item attribuut="Bestand">16Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR1178
+</item>
+         <item attribuut="Rubriek">Communicatie, media en informatievoorziening (Netwerken)</item>
+         <item attribuut="Trefwoorden">Computernetwerken Telecommunicatie</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 1994-1995, nr. 543, Tweede Kamer</item>
+         <item attribuut="Afkomstig_van">Verkeer en Waterstaat</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Blaauw</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1995-03-14</item>
+         <item attribuut="Datum_indiening">1995-02-20</item>
+         <item attribuut="Document-id">KVR1178</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1994–1995" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1107" allpagenumbers="1107 1108" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1994–1995, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgeverij Plantijnstraat ’s-Gravenhage 1995"/>
+      <vraagdata vraagnummer="543" onderwerp="" indiendatum="1995-02-20">
+         <vrager partij="VVD" oorsprong="parlement">Blaauw</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1995-03-14">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">Jorritsma-Lebbink</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1 2">In hoeverre is er een Euro-ISDN <voetnoot nummer="1"/>-standaard vastgesteld? Is deze standaard bindend voor de EU-landen? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="2">In hoeverre wordt de standaard door de lidstaten geaccepteerd? </vraag>
+      <vraag nummer="3">Zijn de berichten waar, als zou Frankrijk de Euro-ISDN niet accepteren en overgaan op een ISDN-techniek onder de naam V4? </vraag>
+      <vraag nummer="4">Zo ja, ontstaat dan niet eenzelfde situatie als bij de TV-normen, waarbij Frankrijk exclusief voor Secam koos? </vraag>
+      <vraag nummer="5">Wilt u alles in het werk stellen voor e´e´n ISDN-standaard in de Europese Unie en zo mogelijk ook daarbuiten? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1">= Integrated Service Digital Network</noot>
+         <noot nummer="2" datum="1995-02-13" bron="Telecommagazine">Telecommagazine, 13 februari 1995</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Beide vragen worden bevestigend kunnen worden onderscheiden in twee soorten: e´e´n soort standaarden voor toegang tot een ISDN telecommunicatienet, de andere soort standaarden voor het benutten van de ISDN-diensten over een ISDN telecommunicatienetwerk. In november 1994 zijn twee gemeenschappelijke technische voorschriften (CTR) voor randapparatuur die is bestemd om te worden aangesloten op het EURO-ISDN net vastgesteld door de Europese Commissie. In maart 1995 wordt de publikatie voorzien van een gemeenschappelijk technisch voorschrift voor ISDN telefonie. Deze gemeenschappelijke technische voorschriften zijn van toepassing in het kader van de EU-richtlijn randapparatuur (PbEG 1991, L 128) en zijn derhalve bindend voor de Lid-Staten. De voorschriften kennen voor wat betreft hun toepasselijkheid een tweetal tijdelijke uitzonderingsmogelijkheden. </antwoord>
+      <antwoord nummer="2 en 3">De standaarden zijn en moeten worden geaccepteerd door de Lid-Staten, tenzij zich e´e´n van de beide uitzonderingsmogelijkheden voordoet, te weten voor: – pre-Euro-ISDN telecommunicatienetten – aangemelde nationale varianten van de Euro-ISDN-standaarden. De berichten als zou Frankrijk de standaarden niet accepteren, zijn niet juist en moeten in het licht van de genoemdeuitzonderingsmogelijk- heden worden gelezen. Voor pre-Euro-ISDN telecommunicatienetten die bij de Commissie zijn aangemeld, is een overgangsperiode tot eind 1995 ingebouwd. Hierna mag geen pre-Euro-ISDN apparatuur meer geı¨nstalleerd worden. Voorts zijn tot eind 1996 nationale varianten van de Euro-ISDN-standaarden toegestaan, voor zover deze varianten zijn aangemeld bij de Commissie. Inmiddels zijn deze aanmeldingstermijnen verstreken. Frankrijk heeft pre-Euro-ISDN telecommunicatienetten en nationale varianten van Euro-ISDN aangemeld. Hierdoor zullen de beheerders van de Franse ISDN telecommunicatienetten geen aansprakelijkheid aanvaarden voor de interactie tussen Euro-ISDN randapparatuur – die niet tevens goedgekeurd is voor de aangemelde, nationale varianten – en het nationale ISDN telecommunicatienet. Het in de handel brengen van Euro-ISDN randapparatuur mag door deze landen overigens niet worden belemmerd of verboden. </antwoord>
+      <antwoord nummer="4">Deze vergelijking gaat niet op. Secam was een toekomstgerichte keuze. Het bestaan van uitzonderingen op de Euro-ISDN-standaarden voor toegang tot een Euro-ISDN telecommunicatienet is evenwel beperkt tot begrensde overgansperioden. Frankrijk en Duitsland hebben bij hun aanmelding gebruik gemaakt van een toegestane, tijdelijke uitzonderingsmogelijkheid. Nederland zal zich in Europees verband inzetten om de begrenzing in tijd van deze overgangsperioden te bewaken. </antwoord>
+      <antwoord nummer="5">Het streven van de Europese Raad van Ministers (Telecommunicatie), de Europese Commissie en de Lid-Staten van de Europese Unie is te komen tot e´e´n sterke interne Europese markt waarin handelsbarrie`res zijn geslecht. Dit streven wordt mede vorm gegeven door sommige (Euro-ISDN) standaarden verplicht te stellen door middel van gemeenschappelijke technische voorschriften zoals bovengenoemd. Daarnaast worden voorwaarden geschapen en ondersteund om te komen tot de ontwikkeling, acceptatie en toepassing van uniforme, vrijwillige standaarden. Hiertoe is het ministerie van Verkeer en Waterstaat actief in de verschillende (inter)nationale overlegstructuren, standaardisatieorganisaties en relevante Comite´s en Werkgroepen in Europese Unie-verband. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

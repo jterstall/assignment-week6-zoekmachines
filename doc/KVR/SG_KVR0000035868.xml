@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001461</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001461&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001461</item>
+         <item attribuut="Document-id">0000035868</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 539</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Janmaat-Abee en Tuinstra (beiden C.D.A.) over hartoperaties.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 539</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">539</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Janmaat-Abee</persoon>
+            <persoon partij="CDA">Tuinstra</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-03-12</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Simons</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-04-17</item>
+         <item attribuut="Beginpagina">1085</item>
+         <item attribuut="Eindpagina">1086</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden."/>
+      <footer firstpaginanummer="1085" allpagenumbers="1085" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="SDU uitgevenj 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="539" onderwerp="hartoperaties." indiendatum="1990-03-12">
+         <vrager partij="CDA" oorsprong="parlement">Janmaat-Abee</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Tuinstra</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-04-17">
+         <antwoorder functie="staatssecretaris" ministerie="Welzijn, Volksgezondheid en Cultuur">Simons</antwoorder>
+         <mede-antwoorder>de minister van Onderwijs en Weten– schappen</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="9">
+      <vraag nummer="1" voetnoot="1">Is het u bekend, dat elke twee weken vijf patiënten uit het academisch ziekenhuis in Maastricht in het St. Anthony Hospital in Londen een hartoperatie ondergaan? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Is het u bekend, dat deze operaties verricht worden door Nederlandse hartchirurgen? </vraag>
+      <vraag nummer="3">Ontvangen deze hartchirurgen hiervoor geen honorarium, maar alleen een onkostenvergoeding uit het ziekenhuisbudget van het acade– misch ziekenhuis Maastricht? </vraag>
+      <vraag nummer="4">Kunt u deze onkosten specificeren? </vraag>
+      <vraag nummer="5">Onder welke verrichting van het ziekenhuisbudget valt de onkosten– vergoeding die het ziekenhuis aan de specialist vergoedt? </vraag>
+      <vraag nummer="6">Mag het academisch ziekenhuis niet meer dan 735 hartoperaties verrichten of is hier sprake van een aantal verrichtingen, dat meetelt voor het vaststellen van het totale ziekenhuisbudget? Wie vergoedt de overige gemaakte kosten in het Anthony Hospital in Londen? </vraag>
+      <vraag nummer="8">Indien het ziekenfonds de overige kosten zou vergoeden, vallen deze vergoedingen dan binnen het verstrekkingenbesluit Zieken– fondswet of het Aanvullend Fonds? </vraag>
+      <vraag nummer="9">Heeft het academisch ziekenhuis met collega-instellingen overleg gepleegd om tot het wegwerken van de wachtlijsten te komen? </vraag>
+      <vraag nummer="10">Waarom worden deze hartoperaties in Londen uitgevoerd? Heeft het academisch ziekenhuis de mogelijk– heden onderzocht om onder dezelfde condities, met andere woorden als «vrijetijdsbesteding», deze operaties elders in Nederland uit te voeren. </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="7">
+      <antwoord nummer="1">Dergelijke berichten zijn in de pers verschenen. Bij navraag is mij gebleken dat, voor zover het wacht– lijstpatiënten van het Academisch Ziekenhuis Maastricht (AZM) betreft, het gaat om in totaal ca. 5 patiënten. Inmiddels is als onderdeel van een onlangs gesloten akkoord tussen het Academisch Ziekenhuis en de betrokken ziektekostenverzekeraars bedoelde «luchtbrug» weer beëindigd. </antwoord>
+      <antwoord nummer="2">Voor zover mij bekend is, werden deze operaties door een Nederlandse chirurg verricht. </antwoord>
+      <antwoord nummer="3">Bedoelde chirurg is in loondienst van het Academisch Ziekenhuis Maastricht. Voorzover ons bekend ontvangt hij geen honorarium. Desgevraagd meldde het Acade– misch Ziekenhuis ons dat in dit verband geen onkostenvergoeding plaatsvindt ten laste het ziekenhuis– budget van het ziekenhuis. </antwoord>
+      <antwoord nummer="4">Zie het antwoord op vraag 3. </antwoord>
+      <antwoord nummer="5">Zie het antwoord op vraag 3. </antwoord>
+      <antwoord nummer="6">In 1989 heeft het AZM met de ziektekostenverzekeraars een produktie afgesproken van 735 hartoperaties. Voor dit aantal heeft het ziekenhuis de benodigde budget– taire middelen verkregen. Het ziekenhuis mocht meer operaties uitvoeren, maar ontvangt voor de extra operaties geen extra budget. Voor 1990 is inmiddels een produktie afgesproken van 768 hartoperaties met een uitloop (ook budgettair) naar maximaal 800 operaties. </antwoord>
+      <antwoord nummer="7">Het is niet bekend of er sprake is van Het betreft een initiatief van enkele in de provincie Limburg aanwezige hartpatiëntenorganisaties tesamen met een hartchirurg uit Maastricht. Ons is gebleken dat noch de hartpa– tiëntenorganisaties, noch het acade– misch ziekenhuis voldoende hebben onderzocht in hoeverre er nog behandelingsmogelijkheden in Nederland aanwezig waren. Ook met de desbetreffende ziekte– kostenverzekeraars is onvoldoende overleg geweest. Wij achten een dergelijke gang van zaken, mede gelet op de beschikbare alternatieve mogelijkheden, onwenselijk. Inmiddels zijn evenwel tussen het AZM en de ziektekostenverzekeraars zodanige afspraken gemaakt dat mag worden verwacht dat dergelijke situaties zich niet opnieuw zullen voordoen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

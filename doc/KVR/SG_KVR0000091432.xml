@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19881989:0001833</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001833&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001833</item>
+         <item attribuut="Document-id">0000091432</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1988-1989 nummer 824</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Smits (C.D.A.) over winstuitkeringen in de apothekersbranche.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1988-1989 nummer 824</item>
+         <item attribuut="Jaargang">1988_1989</item>
+         <item attribuut="Vraagnummer">824</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Smits</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-07-03</item>
+         <item attribuut="Beantwoorder">
+            <persoon>De Korte</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-08-24</item>
+         <item attribuut="Beginpagina">1649</item>
+         <item attribuut="Eindpagina">1650</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 8 - 1 9 8 9 " typehandeling="" typedoc=""/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 8 - 1 9 8 9 ,  A a n h a n g s e l " filenaam="" issn-nummer="ISSN 921 7398 " uitgever="SDU uitgeverij 's Gravenhage 1989 "/>
+      <vraagdata vraagnummer="824" onderwerp="winstuitkeringen in de apothe- kersbranche." indiendatum="3 juli 1989)">
+         <vrager partij="CDA" oorsprong="parlement">Smits</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2 4 augustus 1989).">
+         <antwoorder functie="minister" ministerie="Economische Zaken">D e Korte</antwoorder>
+         <mede-antwoorder>de staatssecretaris van Welzijn, Volksgezondheid en Cultuur</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 ">Is het u bekend dat in de apothekers- branche een of meerdere zogenaam- de rugzakgroothandelaren winstuitke  ringen hebben gedaan aan hun  beherende vennoten c.q. commandi- taire vennoten?  </vraag>
+      <vraag nummer="2 ">W o r d t deze uitkering geheel of  gedeeltelijk als korting beschouwd?  </vraag>
+      <vraag nummer="3 ">Zo ja, welke maatregelen hebben de  verzekeraars genomen om ervoor te  zorgen dat deze uitkeringen worden  teruggesluisd naar de verzekeringsne- mer?  </vraag>
+      <vraag nummer="4 ">Zo neen, geldt dit ook voor de  uitkering door reguliere groothande- laren op basis van participatiebewij- zen, aandelen en kapitaalobligaties?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1 ">Uit perspublikaties en verkregen  informatie uit de bedrijfstak heb ik  vernomen dat in een aantal gevallen  uitkeringen zouden zijn gedaan.  2 en 3  Indien bedoelde uitkeringen zouden  zijn gedaan en geheel of gedeeltelijk  direct of indirect gebonden zijn aan  inkooptransacties, dan is er sprake  van voordelen die ingevolge de  vigerende COTG-tariefbeschikkingen  door de apotheekhoudenden moeten  worden doorberekend in de declara- tieprijzen. Uit perspublikaties heb ik  begrepen dat, mede naar aanleiding  van de resultaten van het onderzoek  van de Economische Controle Dienst  (ECD), houdende de stand van zaken  per 16 mei  j l .  w a t betreft de naleving  van de nieuwe tariefbeschikkingen  door apotheekhoudenden, de verze- keraars de controles op de apotheek- houdenden zullen gaan verscherpen.  De ECD heeft mij medegedeeld dat,  in het kader van het bovengenoemde  onderzoek dat in de bedrijfstak  plaatsvindt, in de eerste plaats  gevallen waarbij sprake is van uitbe- taalde kortingen/voordelen door  reguliere en/of rugzak-groothande- laren, op zo kort mogelijke termijn  zullen worden onderzocht en  afgehandeld.  Ook voor de reguliere groothande- laren geldt het onder punt 2 en 3  gestelde.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

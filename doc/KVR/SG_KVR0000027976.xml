@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001639</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001639&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001639</item>
+         <item attribuut="Document-id">0000027976</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 703</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Aarts (CDA), Sipkes (Groen Links), Van Traa en Verspaget (beiden PvdA) en Eisma (D66) over de 'squatters' van Goedgevonden</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 703</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">703</item>
+         <item attribuut="Indiener">
+            <persoon>Aarts</persoon>
+            <persoon>Sipkes,Van Traa,Verspaget</persoon>
+            <persoon>Eisma</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-06-13</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-07-05</item>
+         <item attribuut="Beginpagina">1435</item>
+         <item attribuut="Eindpagina">1436</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1435" allpagenumbers="1435" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1991"/>
+      <vraagdata vraagnummer="703" onderwerp="de 'squatters' van Goedgevonden." indiendatum="1991-06-13">
+         <vrager partij="" oorsprong="parlement">Aarts</vrager>
+         <vrager partij="" oorsprong="parlement">Sipkes,Van Traa,Verspaget</vrager>
+         <vrager partij="" oorsprong="parlement">Eisma</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1991-07-5">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zakenj. (Ontvangen 5 juli 1991">Van den Broek</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1">Hebt u kennis genomen van de uitspraak van het Hooggerechtshof in Pretoria' dat de 'squatters' van Goedgevonden het land waarop zij verblijven moeten verlaten? </vraag>
+      <vraag nummer="2">Hebt u voorts kennis genomen van de verklaring van de Zuidafrikaanse Raad van Kerken  waarin er op gewezen wordt, dat de mensen van Goedgevonden niet als 'squatters' beschouwd dienen te worden, maar als boeren die gedeporteerd werden van het land dat zij rechtmatig bewoonden en bewerkten? Bent u bereid zo spoedig mogelijk een dringend beroep op de Zuidafri– kaanse autoriteiten te doen teneinde niet tot ontruiming over te gaan maar met betrokkenen te overleggen om tot een oplossing te komen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="2" datum="1991-06-3" bron="' Van">' Van, 3 juni 1991</noot>
+         <noot nummer="1" datum="1991-06-4" bron=" Van"> Van, 4 juni 1991</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1"> t/m  3 De uitspraakvan het Hoogge– rechtshof te Pretoria en de verklaring van de Zuidafrikaanse Raad van Kerken over deze kwestie zijn mij bekend. Tegenover de Zuidafrikaanse autori– teiten is reeds kort na de uitspraak van het Hooggerechtshof van Neder– landse kant bezorgdheid geuit en op humanitaire gronden bepleit dat niet tot gedwongen ontruiming zal worden overgegaan. Op 18 juni jl. vond een ontmoeting plaats tussen de Goedgevonden gemeenschap en vertegenwoor– digers van de Zuidafrikaanse regering die, voor zover bekend, bij die gelegenheid geen specifieke uitspraken hebben gedaan. Volgens de informaties die mij inmiddels over deze kwestie hebben bereikt, is de Goedgevonden gemeenschap in verband met de omstandigheid dat het Hoogge– rechtshof op 20 juni jl. hoger beroep heeft toegestaan, nog niet van de betrokken boerderijgronden verwijderd. Hangende dit beroep is de tenuitvoerlegging van het gerech– telijk bevel tot ontruiming namelijk opgeschort. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

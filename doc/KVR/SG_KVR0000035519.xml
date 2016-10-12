@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="4">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19891990:0001112</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001112&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001112</item>
+         <item attribuut="Document-id">0000035519</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 189</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Feenstra, Swildens-Rozendaal en K. Zijlstra (allen P.v.d.A.) over een nieuwe put voor kaliumwinning in de Franse Elzas.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 189</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">189</item>
+         <item attribuut="Indiener">
+            <persoon>Feenstra</persoon>
+            <persoon>Swildens-Rozendaal</persoon>
+            <persoon>K. Zijlstra</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-11-29</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Maij-Weggen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-12-11</item>
+         <item attribuut="Beginpagina">385</item>
+         <item attribuut="Eindpagina">386</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="385" allpagenumbers="385 186" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uilgeverij 's Gravenhage 1989"/>
+      <vraagdata vraagnummer="189" onderwerp="een nieuwe put voor kaliumwinning in de Franse Elzas." indiendatum="1989-11-29">
+         <vrager partij="" oorsprong="parlement">Feenstra</vrager>
+         <vrager partij="" oorsprong="parlement">Swildens-Rozendaal</vrager>
+         <vrager partij="" oorsprong="parlement">K. Zijlstra</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1989-12-11">
+         <antwoorder functie="minister" ministerie="Verkeer en Water– staat">Maij-Weggen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Kunt u bevestigen, dat er plannen zijn om in de Franse Elzas een nieuwe put voor kaliumwinning te openen?' Zo ja, waaruit bestaan deze plannen? </vraag>
+      <vraag nummer="2">Bent u hierover door de Franse overheid ingelicht? Zo ja, wanneer en wat was uw reactie? Zo neen, hebt u nagegaan waarom dit niet is gebeurd? </vraag>
+      <vraag nummer="3">Zal het in exploitatie brengen van deze nieuwe mijn leiden tot een verhoging of een geringere daling van het zoutgehalte van de Rijn dan overeengekomen is? Zo ja, biedt het Rijnzoutverdrag - beoordeling naar de letter en de geest daarvan - ruimte voor een eventuele verhoging? </vraag>
+      <vraag nummer="4">Bent u, nu eindelijk een geleidelijke reductie van de zoutlast gerealiseerd lijkt te worden, voornemens stappen te ondernemen tegen het ontstaan van nieuwe bronnen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1989-11-25" bron=" NRC-Handelsblad"> NRC-Handelsblad, 25 november 1989</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja, er wordt binnen het bestaande mijncomplex een nieuwe produc– tieput voor de kaliumwinning in gebruik genomen. </antwoord>
+      <antwoord nummer="2">Hiervan is door Frankrijk in het ambtelijk overleg mededeling gedaan. Overigens bestaat er voor Frankrijk hiertoe geen verplichting. </antwoord>
+      <antwoord nummer="3">Het gebeurt wel meer dat de Franse kalimijnen nieuwe productieputten in gebruik nemen, wanneer oude putten minder rendabel worden. Deze verschuivingen binnen de totale produktie behoren tot de normale afbouwplanning van de mijnen. De nieuwe put heeft geen gevolgen voor het totaal van de zoutlozing door de kalimijnen. De lozing bedraagt ingevolge de afspraken over de eerste fase van het Rijnzoutverdrag maximaal 115 kg/s Cl als jaargemid– delde. Op dit moment wordt nog onderhandeld over een verdere reductie in het kader van de tweede fase van het verdrag. De nieuwe put verandert ook niets aan de toezegging van Frankrijk om één mijn in 1998 geheel te sluiten en de tweede en laatste mijn in 2004. </antwoord>
+      <antwoord nummer="4">Ik zet mij in voor de afbouw van bestaande zoutlozingen en tegen het ontstaan van nieuwe zoutlozingen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

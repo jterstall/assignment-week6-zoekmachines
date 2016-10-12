@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001244</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001244&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001244</item>
+         <item attribuut="Document-id">0000107019</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 211</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Leerling (R.P.F.) over de decemberuitkering van de interim-regeling ziektekosten ambtenaren 1982.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 211</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">211</item>
+         <item attribuut="Indiener">
+            <persoon partij="RPF">Leerling</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-11-17</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Deetman</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-12-03</item>
+         <item attribuut="Beginpagina">423</item>
+         <item attribuut="Eindpagina">424</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 6 - 1 9 8 7 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="211" onderwerp="de decemberuitkering van de interim-regeling ziektekosten ambtenaren 1982." indiendatum="17 november 1 986)">
+         <vrager partij="RPF" oorsprong="parlement">Leerling</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="3 december 1986)">
+         <antwoorder functie="minister" ministerie="Onderwijs en Wetenschappen">D e e t m a n</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 ">Heeft de minister kennis genomen  van het bericht, dat het voor sommige  onderwijsgevenden voordeliger is het  aanvraagformulier voor de december- uitkering van de interim-regeling  ziektekosten ambtenaren 1982 pas  begin van volgend jaar in te zenden'?  </vraag>
+      <vraag nummer="2 ">Deelt de minister de conclusie van  de opsteller van het bericht, dat  traagheid beloond  w o r d t met enkele  honderden guldens?  </vraag>
+      <vraag nummer="3 ">In welke mate heeft in voorgaande  jaren vertraagde betaling van de  decemberuitkering van de interim- regeling plaatsgevonden?  </vraag>
+      <vraag nummer="4 ">Ziet de minister reden artikel 6, lid 2  van de interim-regeling ziektekosten  ambtenaren 1982 naar aanleiding  van het in vraag 1 bedoelde bericht  te wijzigen?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1 ">Ja.  De tegemoetkoming in het kader van  de Interimregeling ziektekosten  ambtenaren 1982 is een netto-be- drag, in die zin dat de verschuldigde  loonbelasting en premie  A O W / A W W  voor rekening van de werkgever  komen.  W o r d t de interim-tegemoet- koming uitgekeerd op een tijdstip dat  een belanghebbende in verband met  het vastgestelde premie-maximum  geen premie  A O W / A W W meer  verschuldigd is, dan behoeft de  werkgever geen premie meer af te  dragen. Is de maximum-premie nog  niet bereikt, dan is de omvang van  die premie afhankelijk van de  individuele omstandigheden. Uit het  bovenstaande kan de conclusie  worden getrokken dat het tijdstip van  uitbetaling bepalend is voor de vraag  of premie verschuldigd is.  </antwoord>
+      <antwoord nummer="3 ">Voor zover bekend heeft er in de  voorgaande jaren niet of nauwelijks  een vertraagde betaling van de  decemberuitkering van de interim-uit- kering plaatsgevonden.  </antwoord>
+      <antwoord nummer="4 ">Mijn ambtgenoot van Binnenlandse  Zaken,  w a a r o n d e r d e Interimregeling  ziektekosten ambtenaren 1982  ressorteert, is in deze eerstverant- woordelijke bewindsman. Hij is op de  hoogte van de door u aan de orde  gestelde materie en beraadt zich op  eventuele consequenties.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

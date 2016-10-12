@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001639</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001639&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001639</item>
+         <item attribuut="Document-id">0000020025</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 621</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Willems (Groen Links) over uitlatingen van de heer Pont inzake een aparte CAO voor de hogere ambtenaren.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 621</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">621</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Willems</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-05-21</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Dales</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-06-03</item>
+         <item attribuut="Beginpagina">1303</item>
+         <item attribuut="Eindpagina">1304</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1303" allpagenumbers="1303" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="621" onderwerp="uitlatingen van de heer Pont inzake een aparte CAO voor de hogere ambtenaren." indiendatum="1992-05-21">
+         <vrager partij="Groen Links" oorsprong="parlement">Willems</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-06-3">
+         <antwoorder functie="minister" ministerie="Binnenlandse Zaken">Dales</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Deelt u de opvatting van uw directeur-generaal de heer Pont, geuit tijdens de viering van het 75-jarig bestaan van de CMHF <voetnoot nummer="1"/>, dat er een aparte CAO voor de hogere ambtenaren dient te komen? Deelt u de mening, dat één CAO voor alle ambtenaren een juiste vertaling is van wenselijke onderlinge solidariteit en samenhang tussen de arbeidsvoorwaarden van diverse groepen ambtenaren? </vraag>
+      <vraag nummer="3">Blijft ook de komende jaren uw inzet gericht op het afsluiten van één centrale CAO voor alle ambtenaren? </vraag>
+      <vraag nummer="4">Wilt u de heer Pont naar aanleiding van zijn uitlatingen wederom «bestraffend» toe spreken? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1992-05-21" bron=" De Volkskrant"> De Volkskrant, 21 mei 1992</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1" voetnoot="1">De directeur-generaal de heer Pont en ik delen de mening dat het in samenhang met het overeenstemmingsvereiste steeds buiten de boot vallen van de CMHF bij het afsluiten van centrale overeenkomsten ongewenst is. De heer Pont heeft gereleveerd dat hij onder mijn ambtsvoorganger als mogelijke oplossing met de gedachte van twee cao's <voetnoot nummer="1"/> heeft gespeeld. Naar aanleiding van de recent afgesloten onderhandelingen heeft hij daaraan als tweede oplossingsrichting toegevoegd de mogelijkheid van een grens, waarboven geen sprake meer zou zijn van het voeren van collectieve onderhandelingen over de arbeidsvoorwaarden. Zo'n boven-cao-gebied valt als marktconform aan te merken en paste als zodanig in het betoog van de heer Pont. </antwoord>
+      <antwoord nummer="2">Differentiatie uit arbeidsmarktoverwegingen kan zeker gerechtvaardigd zijn. Eén cao voor alle ambtenaren zou een belemmering kunnen vormen voor de mogelijkheid om slagvaardig te opereren op de arbeidsmarkt en het ook overigens moeilijk maken met sectorspecifieke omstandigheden rekening te houden. Ook in de toekomst blijft een onderhandelingsresultaat waar alle vier centrales zich mee kunnen verenigen mijn voorkeur hebben. Overigens zullen naar verwachting ingaande 1993 per overheidssector cao's worden afgesloten (het zgn. sectorenmodel). </antwoord>
+      <antwoord nummer="4">Gelet op het voorgaande behoeft deze vraag geen beantwoording. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1" titel="cao"> In de beantwoording gebruik  i k – het spraakgebruik volgend -telkens de term «cao». Strikt genomen is in de overheidssector in de huidige situatie uiteraard niet van cao's sprake</noot>
+      </noten>
+   </antwoorden>
+</kvr>

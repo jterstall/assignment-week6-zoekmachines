@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001877</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001877&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001877</item>
+         <item attribuut="Document-id">0000020263</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 858</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Wiebenga (VVD) over noodhulp aan Namibië.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 858</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">858</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Wiebenga</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-08-11</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Pronk</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-09-08</item>
+         <item attribuut="Beginpagina">1783</item>
+         <item attribuut="Eindpagina">1784</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1783" allpagenumbers="1783" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="858" onderwerp="noodhulp aan Namibië." indiendatum="1992-08-11">
+         <vrager partij="VVD" oorsprong="parlement">Wiebenga</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-09-8">
+         <antwoorder functie="minister" ministerie="Ontwikkelingssamenwerking">Pronk</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1">Hebt u kennis genomen van de berichten, dat de regering van Namibië onlangs een bedrag van ca. 60 miljoen gulden heeft uitgetrokken voor de aanschaf van een vliegtuig voor de president? </vraag>
+      <vraag nummer="2">Hebt u kennis genomen van de berichten, dat op die grond de regerïngen van Noorwegen en Zweden hebben besloten geen gehoor te geven aan de oproep van Namibië om noodhulp met het oog op de droogte in zuidelijk Afrika? </vraag>
+      <vraag nummer="3">Was of bent u voornemens aan Namibië noodhulp te verstrekken? Zo ja, voor welk bedrag? </vraag>
+      <vraag nummer="4">Deelt u de mening, dat de aanschaf van dit presidentiële vliegtuig voor een dergelijk absurd bedrag en de oproep tot het verlenen van noodhulp zich niet met elkaar verdragen? </vraag>
+      <vraag nummer="5">Acht u met vragensteller de regeringen van genoemde landen een signaal aan Namibië op zijn plaats, dat het geven van noodhulp door Nederland niet zal worden overwogen zolang door de regeringen van Namibië dergelijke financiële prioriteiten worden gesteld? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja. Ja, naar aanleiding van deze berichten heb ik met de genoemde regeringen contact opgenomen. Hieruit is gebleken dat beide landen het reguliere bilaterale programma voortzetten, doch dat de gewraakte aanschaf mede heeft geleid tot het besluit om Namibië geen noodhulp te verlenen. Daarbij is overwogen dat de prïoriteitsbepaling door de Namibische regering, zoals deze blijkt uit de aanschaf van de vliegtuigen, het verlenen van noodhulp niet rechtvaardigt. </antwoord>
+      <antwoord nummer="3">Eerder dit jaar werd een bedrag van 1,0 miljoen gulden voor noodhulp beschikbaar gesteld aan Namibië. De beslissing ten aanzien van toekenning van noodhulp heb ik niet herzien gelet op het humanitaire karakter van deze allocatie in verband met de ernstige droogtesituatie. Additionele noodhulp aan Namibië wordt in dit stadium niet overwogen. </antwoord>
+      <antwoord nummer="4">Naar mijn mening is de aanschaf buitensporig in verhouding tot de overige behoeften van het land. De Namibische autoriteiten zijn inmiddels van mijn zorg op de hoogte gebracht. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

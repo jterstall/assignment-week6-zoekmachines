@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001786</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001786&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001786</item>
+         <item attribuut="Document-id">0000036193</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 862</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Weisglas en Blaauw (beiden V.V.D.) over een dialoog tussen Israël en de PLO.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 862</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">862</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Weisglas</persoon>
+            <persoon partij="VVD">Blaauw</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-07-24</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-08-21</item>
+         <item attribuut="Beginpagina">1741</item>
+         <item attribuut="Eindpagina">1742</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1741" allpagenumbers="1741" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU üitgeveri] 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="862" onderwerp="een dialoog tussen Israël en de PLO." indiendatum="1990-07-24">
+         <vrager partij="VVD" oorsprong="parlement">Weisglas</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Blaauw</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-08-21">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">Van den Broek</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1" voetnoot="1">Hebben de EG-Ministers van Buiten– landse Zaken op 16 juli jl. besloten een missie naar Jeruzalem en Tunis te sturen teneinde bij respectievelijk de regering van Israël en de PLO te pleiten voor een dialoog tussen Israël en de PLO? <voetnoot nummer="1"/>Zo ja, welke gedragslijn van Israël en van de PLO zal die EG-missie bepleiten bij de gesprekspartners in Jeruzalem en Tunis teneinde te pogen bij te dragen aan het mogelijk en zinvol maken van een dergelijke dialoog? </vraag>
+      <vraag nummer="3">Zal van de PLO worden gevraagd om eerst «daadwerkelijk en consistent uiting te geven aan haar bereidheid om het bestaansrecht van Israël te aanvaarden en haar doeleinden langs vreedzame weg na te streven», zoals staat in uw brief aan de Vaste Commissie voor Buitenlandse Zaken, dd. Ujunijl.? </vraag>
+      <vraag nummer="2"/>
+      <vraag nummer="4">Betekent dit dat de EG-missie in uw ogen bij de PLO naar voren moet brengen, dat die organisatie haar handvest moet veranderen, waarin immers nog steeds als doelstelling vermeld staat de vernietiging van de staat Israël? Is in de EG overwogen om uw goede voorbeeld (en dat van de Verenigde Staten) te volgen en (Ministeriële) contacten met de PLO op te schorten totdat het door de PLO-leiding ingestelde onderzoek naar de mislukte terroristische aktie van 30 mei jl. bij de Israelische kust is afgerond en bekend is welke gevolgen de PLO daaruit trekt? </vraag>
+      <vraag nummer="6" voetnoot="3 2">Hebt u kennis genomen van de beslissing van de Arabische Liga, op voorstel van de PLO als huidig voorzitter, om een boycot in te stellen tegen bedrijven en organi– saties die behulpzaam zijn bij de emigratie van joden uit de Sovjet– Unie? <voetnoot nummer="3"/>Wilt u bewerkstelligen dat de EG-missie aan de PLO duidelijk maakt dat de EG-landen de verruimde emigratiemogelijkheden voor joden uit de Sovjet-Unie hebben verwelkomd <voetnoot nummer="2"/> en dat een dergelijke boycot in de ogen van de EG verwerpelijk is en niet zou moeten worden ingesteld? </vraag>
+      <vraag nummer="8">Wilt u, indien deze boycot onver– hoopt toch zou worden ingesteld, bezien wat dit betekent in het licht van de Nederlandse anti-boycotwet– geving? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1990-07-17" bron=" Zie de Staatscourant"> Zie de Staatscourant, 17 juli 1990</noot>
+         <noot nummer="2"> Kamerstuk21 603-1</noot>
+         <noot nummer="3" datum="1990-07-18" bron=" Zie o.m het Algemeen Dagblad"> Zie o.m het Algemeen Dagblad, 18 juli 1990</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1"> t/m  8 Gezien hun samenhang heb ik deze vragen betrokken in de beant– woording van de aanvullende vraag– stelling van de geachte afgevaar– digden Weisglas en Blaauw dd. 31 juli 1990.' </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

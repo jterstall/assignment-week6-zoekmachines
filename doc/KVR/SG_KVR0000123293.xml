@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="verkeerd inzicht? " aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19841985:0001321</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19841985:0001321&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19841985:0001321</item>
+         <item attribuut="Document-id">0000123293</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1984-1985 nummer 201</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Nypels (D'66) over deelname aan het pakketvergelijkingsoverleg.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1984-1985 nummer 201</item>
+         <item attribuut="Jaargang">1984_1985</item>
+         <item attribuut="Vraagnummer">201</item>
+         <item attribuut="Indiener">
+            <persoon partij="D'66">Nypels</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1984-09-13</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Rietkerk</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1984-11-13</item>
+         <item attribuut="Beginpagina">399</item>
+         <item attribuut="Eindpagina">400</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1984-1985 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1984-1985, Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="201" onderwerp="deelname aan het pakketvergelijkings- overleg." indiendatum="13 september 1984)">
+         <vrager partij="D'66" oorsprong="parlement">Nypels</vrager>
+         <vraagt-aan>het pakketvergelijkings-</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1 " voetnoot="1">Berusten de persberichten <voetnoot nummer="1"/> op  waarheid, volgens welke de werkge- versvertegenwoordigers in de  Commissie-pakketvergelijking de  werkzaamheden van deze commissie  vertragen, met name door het  afzeggen van vergaderingen?  </vraag>
+      <vraag nummer="2 ">Beschouwen de beide bewindslieden  de resultaten van een goede pakket- vergelijking van de arbeidsvoorwaar- den voor het lager, middelbaar en  hoger personeel in het bedrijfsleven,  in de overheidssfeer en in de trendvol- gerssector van onmisbare betekenis  voor het voeren van een verantwoord  arbeidsvoorwaardenoverleg zowel  door de sociale partners als door de  overheid?  Antwoord van minister Rietkerk  (Binnenlandse Zaken), mede namens  de Minister van Sociale Zaken en  Werkgelegenheid. (Ontvangen 13  november 1984)  1,2 en 3  Op 24 oktober 1984 heeft de Commis- sie Pakketvergelijking besloten haar  opdracht aan ons terug te geven. Wij  hebben u daarover inmiddels geïnfor- meerd bij brief AB84/U1807 d.d. 2  november 1984.  Zoals in de rapportage staat  vermeld is de commissie voornemens  haar advies vast te stellen in haar  vergadering van 7 november a.s.,  waarna het aan ons zal worden  aangeboden.  Op 14 november a.s. zullen wij over  de pakketvergelijking van gedachten  kunnen wisselen in een vergadering  van de vaste Commissie voor Ambte- narenzaken en Pensioenen.  De tussenliggende periode willen  wij benutten voor nader beraad over  de gerezen problematiek.  Zijn de bewindslieden bereid, bij de  werkgeversorganisaties aan te  dringen op een actieve medewerking  aan de pakketvergelijking, zodat nu  eindelijk op korte termijn een betrouw- baar beeld wordt verkregen van de  beloningsverhoudingen, waardoor  voortaan voorkomen kan worden dat  het arbeidsvoorwaardenbeleid in één  of meer van genoemde sectoren  wordt gebaseerd op een gebrekkig of  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" titel="Algemeen Dagblad"> Zie o.m. het «Algemeen Dagblad» van 30  augustus 1984 </noot>
+      </noten>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="1">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001382</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001382&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001382</item>
+         <item attribuut="Document-id">0000011686</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 452</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vraag van het lid Tommel (D66) over ongevallen met chemicaliëntankers op korte afstand van de Waddeneilanden.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 452</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">452</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Tommel</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-03-23</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Maij-Weggen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-03-29</item>
+         <item attribuut="Beginpagina">925</item>
+         <item attribuut="Eindpagina">926</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="925" allpagenumbers="925" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="452" onderwerp="ongevallen met chemicaliëntankers op korte afstand van de Waddeneilanden." indiendatum="1993-03-23">
+         <vrager partij="D66" oorsprong="parlement">Tommel</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-03-29">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">Maij-Weggen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="1">
+      <vraag nummer="1">Bent u naar aanleiding van de twee recente ongevallen met chemicaliëntankers, die op korte afstand ten noorden van de Waddeneilanden plaatsvonden, bereid er opnieuw bij uw Duitse collega op aan te dringen de scheepvaartroute ook voor kleinere schepen te verleggen naar de route die op 80 km ten noorden van de Waddeneilanden loopt? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1">Ik ben met mijn Duitse collega momenteel in onderhandeling over een voorstel voor een internationale (IMO-)aanbeveling gericht op het gebruik van de verder uit de kust gelegen zgn. diepwaterroutes door olie–, gas– en chemicaliëntankers. Bij deze onderhandelingen zijn ook Engeland, Denemarken en - als waarnemer - de Europese Commissie betrokken. Deze internationale aanbeveling wordt overigens door zowel Nederland als Duitsland gezien als een interim-maatregel, hangende de mogelijkheid om het gebruik van bepaalde routes te verplichten. Hiertoe hebben beide landen gezamenlijk mmiddels een voorstel bij de IMO ingediend. Zoals bekend hecht Duitsland aan een ondergrens - voor wat betreft de scheepsgrootte - van 10.000 ton. Deze ondergrens staat wat mij betreft steeds ter discussie, zij het dat in die discussie niet alleen de Duitse opvattingen en belangen een rol spelen, maar dat ook ik mij ervan wil overtuigen dat een verlaging van de ondergrens geen onacceptabele verschuiving van risico's naar de diepwaterroute met zich brengt. Zo komt er méèr verkeer in deze route, waardoor de kans op aanvaringen relatief groter wordt, en is er een toename van zgn. kruisend verkeer doordat méér schepen tussen de diepwaterroute en de zeehavens zullen varen. Deze effecten worden momenteel binnen mijn departement geanalyseerd. Mijn uitgangspunt in de onderhandelmgen met Duitsland blijft echter een zo laag mogelijke. uit risico-oogpunt acceptabele ondergrens. Ik verwacht de onderhandelingen eind april te kunnen afronden, met als resultaat een gezamenlijk voorstel aan de IMO. Dit voorstel zal dan in september worden behandeld, waarna de internationale aanbeveling in de loop van 1994 van kracht kan worden. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

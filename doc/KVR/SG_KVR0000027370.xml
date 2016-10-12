@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001033</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001033&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001033</item>
+         <item attribuut="Document-id">0000027370</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 101</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Koning (V.V.D.) over de interventie van dr. W. F. Duisenberg tijdens een SER-vergadering.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 101</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">101</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Koning</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-10-23</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Kok</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-10-26</item>
+         <item attribuut="Beginpagina">205</item>
+         <item attribuut="Eindpagina">206</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="205" allpagenumbers="205" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="101" onderwerp="de interventie van dr. W. F. Duisenberg tijdens een SER-verga– dering." indiendatum="1990-10-23">
+         <vrager partij="VVD" oorsprong="parlement">Koning</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-10-26">
+         <antwoorder functie="minister" ministerie="Financiën">Kok</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1">Hebt u kennis genomen van de inter– ventie van dr. W. F. Duisenberg tijdens de SER-vergaderïng van 19 oktober j.l.? </vraag>
+      <vraag nummer="2">Kunt u uw oordeel geven over deze interventie en in het bijzonder over de uitlating «dat de tekortproble– matiek voor de komende jaren al snel het drievoudige zal bedragen van de eerste becijferingen uit de Miljoenennota 1991»? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1">Ja. «De Miljoenennota 1991 bevat naast de gebruikelijke meerjarige uitgaven– ramingen nu ook meerjarige ramingen voor de belastingont– vangsten. Hierdoor is het mogelijk om een indicatie te geven van de meerjarige tekortontwikkeling. Het gaat om een zeer globale indicatie,» aldus de Miljoenennota (pag. 15). Deze zeer globale indicatie laat een tekortontwikkeling zien die van 1992 tot 1994 1% Nl (dus zo'n 5 miljard) boven het tijdpad van het regeerak– koord ligt. In 1990 en 1991 wordt wel aan het tijdpad voldaan. Deze berekening voor de jaren na 1991 is niet alleen zeer globaal maar gaat bovendien ten aanzien van de meerjarige economische vooruit– zichten uit van de veronderstellingen van het CPB ten tijde van het regeer– akkoord. Hierin is voor de jaren na 1991 bijvoorbeeld nog een rentevoet van 6% opgenomen. Wie, zoals de president van De Nederlandsche Bank, de aangeduide 5 miljard vermeerdert met niet alleen de gevolgen van een aanhoudend hogere rentevoet na 1991 maar ook met die van negatieve veronderstel– lingen ten aanzien van zowel overschrijdingen, loonontwikkeling, energieprijzen, als werkgelegenheid komt veel hoger uit. Zowel de Miljoe– nennota als de interventie van de heer Duisenberg betreffen een zeer globale indicatie op basis van verschillende veronderstellingen. Vast staat dat het kabinet, aan de hand van meer actuele gegevens en een economische analyse voor de jaren na 1991, zal moeten bezien hoe de ontwikkeling van inkomsten en uitgaven in overeenstemming kan worden gehouden met de randvoor– waarden inzake het financierings– tekort en de collectieve lastendruk, rekening houdend met de in het regeerakkoord overeengekomen beleidsprioriteiten. Dit zal zeer tijdig gebeuren, te weten in het begin van 1991. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

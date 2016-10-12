@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001114</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001114&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001114</item>
+         <item attribuut="Document-id">0000011418</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 183</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Ginjaar-Maas en Franssen (beiden VVD) over het Algemeen-Bijzonder gymnasium te Leeuwarden.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 183</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">183</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Ginjaar-Maas</persoon>
+            <persoon partij="VVD">Franssen</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-10-16</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Wallage</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-11-26</item>
+         <item attribuut="Beginpagina">379</item>
+         <item attribuut="Eindpagina">380</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="379" allpagenumbers="379" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="s Gravenhage 1992"/>
+      <vraagdata vraagnummer="183" onderwerp="het Algemeen-Bijzonder gymnasium te Leeuwarden." indiendatum="16 oktober 1992}">
+         <vrager partij="VVD" oorsprong="parlement">Ginjaar-Maas</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Franssen</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-11-26">
+         <antwoorder functie="Staatssecretaris" ministerie="Onderwijs en Wetenschappen">Wallage</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="11">
+      <vraag nummer="1">Werd de oorspronkelijke aanvraag voor een Algemeen-Bijzonder gymnasium in Leeuwarden (d.d. 17 november 1989) ondersteund door 365 ouderverklaringen inhoudend de bereidheid hun kind(eren) aan te melden voor het nieuw op te richten gymnasium? </vraag>
+      <vraag nummer="2">Zijn aan u op 24 september jl., na het mondeling overleg over het Plan van Scholen, wederom ongeveer 400 handtekeningen overhandigd door ouders die hun kind wensten aan te melden voor het nieuw op te richten AB-gymnasium te Leeuwarden? Bent u ervan op de hoogte dat de in de vorige vragen genoemde bereidverklaringen en handtekeningen voor meer dan de helft afkomstig zijn van ouders die buiten Leeuwarden wonen? </vraag>
+      <vraag nummer="4">Wat is de relevantie van uw opmerking in uw brief' van 28 september 1992 aan de voorzitter van de Tweede Kamer dat in Leeuwarden slechts 12%van de ouders geporteerd zouden zijn voor algemeen-bijzonder onderwijs? Weet u niet dat de enquête-formulieren betrekking hadden op leerlingen uit Leeuwarden die verschillende schoolsoorten kunnen bezoeken en niet specifiek betrekking op (toekomstige) gymnasiumleerlingen? </vraag>
+      <vraag nummer="5">Is het gerucht overigens waar, dat de wethouder van onderwijs van de gemeente Leeuwarden het openbaar onderwijs verboden zou hebben medewerking te verlenen aan bedoelde enquête? </vraag>
+      <vraag nummer="6">Deelt u de opvatting, dat een aanvraag voor een AB-gymnasium op haar eigen mérites moet worden beoordeeld, los van de vraag of er al dan niet reeds een openbaar gymnasium is? </vraag>
+      <vraag nummer="7">Deelt u ook de opvatting, dat in bijzondere gevallen (bijvoorbeeld als er niet of nauwelijks basisonderwijs van een bepaalde denominatie is waar een belangstelling voor voortgezet onderwijs van die denominatie uit afgeleid kan worden) het instrument directe meting (bijvoorbeeld d.m.v. bereidverklaringen van ouders) een adequate onderbouwing kan vormen van een aanvraag voor plaatsing op het Plan van Scholen? </vraag>
+      <vraag nummer="8">In hoeveel gevallen is de afgelopen 20 jaren de directe meting aanleiding geweest een school op het Plan van Scholen te zetten? Herinnert u zich, dat u tijdens het mondeling overleg over het Plan van Scholen gezegd hebt dat het aantal ouderhandtekeningen weliswaar de stichtingsnorm 355 overtreft maar dat de prognose op langere termijn voor een AB-gymnasium in Leeuwarden niet gunstig zou zijn? Op grond van welke feiten, argumenten en criteria deed u die mededeling? </vraag>
+      <vraag nummer="10">Sinds wanneer worden bij plaatsing op het Plan van Scholen indien voldaan wordt aan de stichtingsnormen, criteria als prognose voor langere termijn gehanteerd? Is dat ook het geval geweest bij de in vraag 7 bedoelde scholen? Zo ja, op welke wijze is dat dan geschiedt? </vraag>
+      <vraag nummer="11" voetnoot="2">Hebt u aan Marc Chavannes <voetnoot nummer="2"/>geschreven dat heel wat tegen de planprocedure valt in te brengen, en dat hij dat in het verleden ook gedaan heeft? Zo ja, wat valt er dan naar uw oordeel in te brengen tegen de planprocedure? </vraag>
+      <vraag nummer="12">Wilt u, nu u in genoemde brief de rol van de advies– en overlegprocedure rond het Plan van Scholen zo zwaar hebt aangezet, exact aangeven wat in de advies– en de overlegprocedure over het AB-gymnasium in Leeuwarden gezegd is? </vraag>
+      <vraag nummer="13">Waarom verschuilt u zich overigens </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="10">
+      <antwoord nummer="1">Neen. Eerst op 31 januari 1990 is een aanvraag voor opneming van een ab-gymnasium op het Plan van Scholen 1992-1994 ingediend door de deelplanorganisatie met gebruikmaking van de geëigende formulieren. Neen. Er zijn bereidverklaringen overgelegd, waarin men de Staten-Generaal de voorkeur voor een categoriaal gymnasium aangeeft. Een voorkeur voor een openbare grondsiag is niet duidelijk afgewogen; alleen de condities, waaronder de gemeente Leeuwarden openbaar onderwijs voornemens is te verzorgen, stroken kennelijk niet met de opvattingen van de petitionarissen. </antwoord>
+      <antwoord nummer="3">Inventarisatie naar herkomst in een voedingsgebied vindt bij petities in de regel niet plaats. </antwoord>
+      <antwoord nummer="4">De belangstelling naar richting is bepalend voor de in acht te nemen prognose. Het was mij bekend wat de inhoud van de enquête-formulieren was uit de rapportage van het bureau Veenhuis zelf. </antwoord>
+      <antwoord nummer="5">Het gerucht wordt niet bevestigd scholen voor v.o. </antwoord>
+      <antwoord nummer="9">Op grond van het te hanteren statistisch materiaal en de overige gegevens volgens het Besluit aanvraag bekostiging WVO heb ik deze gegevens als uitgangspunt voor de lange termijnprognose laten prevaleren. </antwoord>
+      <antwoord nummer="10">Sinds inwerkingtreding van de WVO geldt een prognose op lange termijn als uitgangspunt voor beoordeling of aan de stichtingsnorm zal worden voldaan. Dit geldt voor alle verzoeken tot opneming op het plan van scholen en is onderdeel van het formulier. </antwoord>
+      <antwoord nummer="11">In de notitie «Verbetering functioneren planprocedure WVO» heb ik het een en ander aangegeven; binnenkort kunt u mijn voorstel tot wetswijziging tegemoet zien. </antwoord>
+      <antwoord nummer="12">In het kader van de jaarlijkse behandeling van het ontwerp-Plan van Scholen is de betreffende informatie in de vorm van bijlagen ter kennis gebracht aan de Tweede Kamer der Staten-Generaal. </antwoord>
+      <antwoord nummer="13">De gemeten belangstelling heeft mij niet overtuigd van voldoende behoefte aan een algemeen bijzonder gymnasium te Leeuwarden. </antwoord>
+      <antwoord nummer="14"/>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

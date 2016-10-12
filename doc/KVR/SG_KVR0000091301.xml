@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19881989:0001702</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001702&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001702</item>
+         <item attribuut="Document-id">0000091301</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1988-1989 nummer 695</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Lilipaly (P.v.d.A.) over de herhuisvesting van de bewoners van het Molukse woonoord Lunetten.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1988-1989 nummer 695</item>
+         <item attribuut="Jaargang">1988_1989</item>
+         <item attribuut="Vraagnummer">695</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Lilipaly</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-05-22</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Brinkman</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-07-06</item>
+         <item attribuut="Beginpagina">1393</item>
+         <item attribuut="Eindpagina">1394</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 8 - 1 9 8 9 " typehandeling="" typedoc=""/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 8 - 1 9 8 9 , Aanhangsel " filenaam="" issn-nummer="ISSN 0921 7398 " uitgever="SDU uitgeverij 's Gravenhage 1989 "/>
+      <vraagdata vraagnummer="695" onderwerp="de herhuisvesting van de bewoners van het Molukse woonoord Lunetten." indiendatum="22 mei 1989)">
+         <vrager partij="PvdA" oorsprong="parlement">Lilipaly</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1 ">a Hebt u onlangs besloten in  cassatie te gaan tegen het tussenvon- nis van de rechtbank te 's-Hertogen- bosch in de kwestie rond de herhuis- vesting van de bewoners van het  Molukse woonoord «Lunetten» in  Vught? </vraag>
+      <vraag nummer="1 ">b Zo ja, welke motieven liggen  daaraan ten grondslag?  </vraag>
+      <vraag nummer="2 ">a Hebt u tevens besloten de woningen  in de ten behoeve van de herhuisves- tingsoperatie gebouwde wijk  «Vijverhof» niet langer te reserveren  voor de bewoners van het woonoord  «Lunetten»? </vraag>
+      <vraag nummer="2 ">b Zo ja, welke motieven liggen  daaraan ten grondslag?  </vraag>
+      <vraag nummer="3 ">a Kan de indruk worden weggeno- men, dat het besluit om in cassatie te  gaan, gecombineerd met het niet  langer reserveren van de woningen in  'de wijk «Vijverhof», een nieuw kabinet  voor het probleem plaatst, dat een  eventuele rechterlijke toestemming  tot ontruiming niet kan worden  geëffectueerd bij gebrek aan wonin- gen?  b Hoeveel woningen zijn nodig voor  de herhuisvesting van de  w o o n o o r d - bewoners?  c Kan een prognose worden gegeven  van het aantal woningen per jaar, dat  buiten de wijk «Vijverhof» beschikbaar  zal zijn teneinde herhuisvesting van  de woonoordbewoners alsnog te  realiseren? Op welke bronnen is deze  prognose gebaseerd?  </vraag>
+      <vraag nummer="4 ">a Wordt met de thans genomen  besluiten afgeweken van het sinds  1959 gevoerde beleid - conform het  rapport van de Commissie Verwey/  J o n k e r - b i j opheffing van woonoorden  zorg te dragen voor herhuisvesting in  woonwijken?  b Zo ja, hoe verdraagt een dergelijke  beleidswijziging zich met de demissio- naire status van het kabinet?  </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Zie het Brabants Dagblad van 12 en 13  mei j.l. </noot>
+         <noot nummer="2"> Zie het Brabants Dagblad van 13 mei j.l. </noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

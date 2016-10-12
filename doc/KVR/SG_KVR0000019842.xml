@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001456</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001456&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001456</item>
+         <item attribuut="Document-id">0000019842</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 440</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van Heemskerck Pillis-Duvekot (VVD) over de mogelijke verplaatsing van het bureau van de Commissie Militaire Dienst.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 440</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">440</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Van Heemskerck Pillis-Duvekot</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-02-20</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Ter Beek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-03-09</item>
+         <item attribuut="Beginpagina">931</item>
+         <item attribuut="Eindpagina">932</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="931" allpagenumbers="931" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="440" onderwerp="de mogelijke verplaatsing van het bureau van de Commissie Militaire Dienst." indiendatum="1992-02-20">
+         <vrager partij="VVD" oorsprong="parlement">Van Heemskerck Pillis-Duvekot</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-03-9">
+         <antwoorder functie="Minister" ministerie="Defensie">Ter Beek</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1">Heeft de Commissie van Advies inzake Gewetensbezwaren Militaire Dienst besloten haar werkzaamheden op te schorten zodra haar bureau door u naar Kerkrade wordt verplaatst? </vraag>
+      <vraag nummer="2">Wilt u deze beslissing mee nemen bij uw overweging het bureau van deze Commissie te verplaatsen naar Kerkrade? Heeft deze gang van zaken gevolgen voor de door u voorgestane verbetering van de procedures voor toepassing van de Wet Gewetensbezwaren? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja </antwoord>
+      <antwoord nummer="2">Ja. Ik merk hierbij op, dat de argumenten, aangedragen door de Commissie, mij niet hebben overtuigd. De vrees van de Commissie dat door verplaatsing van het bureau de onafhankelijkheid van de Commissie zou worden aangetast, deel ik niet. Het besluit van de Commissie bij de uitvoering van mijn beslissing de werkzaamheden op te schorten, betreur ik dan ook Ik heb de Commissie inmiddels laten weten dat ik een definitieve beslissing uitstel tot een zodanig tijdstip dat rekening kan worden gehouden met de resultaten van de Commissie Dienstplicht. </antwoord>
+      <antwoord nummer="3">De overgang van het administratieve onderdeel van het secretariaat van Den Haag naar Kerkrade betekent een verkorting en stroomlijning van de procedure en het voorkomt dubbele werkzaamheden. Deze worden veroorzaakt door de huidige dislocatie van het administratieve onderdeel van het secretariaat ten opzichte van het bureau Gewetensbezwaren, dat in Kerkrade is ondergebracht. Indien de Commissie haar werkzaamheden zou opschorten, betekent dit een verlenging van de procedure tot erkenning. Immers de beslissing tot erkenning wordt pas genomen na het uitbrengen van het advies van de Commissie. Bovendien kan ook de uitvoering van andere voorstellen tot verkorting en stroomlijning van de procedure, waarvoor medewerking van de Commissie is vereist, dan vertraging oplopen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

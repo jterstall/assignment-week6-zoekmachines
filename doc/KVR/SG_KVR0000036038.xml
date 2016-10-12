@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001631</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001631&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001631</item>
+         <item attribuut="Document-id">0000036038</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 708</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Brouwer (Groen Links) over het «vrijlaten» van 25% van het pensioen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 708</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">708</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Brouwer</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-05-28</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Ter Veld</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-06-15</item>
+         <item attribuut="Beginpagina">1427</item>
+         <item attribuut="Eindpagina">1428</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1427" allpagenumbers="1427" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1989"/>
+      <vraagdata vraagnummer="708" onderwerp="het «vrijlaten» van 25% van het pensioen." indiendatum="1990-05-28">
+         <vrager partij="Groen Links" oorsprong="parlement">Brouwer</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-06-15">
+         <antwoorder functie="staatssecretaris" ministerie="Sociale Zaken en Werkgele– genheid">Ter Veld</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="1">
+      <vraag nummer="1">Is het waar, dat gemeentelijke Sociale Diensten, indien zij een invaliditeits– of ouderdomspensioen aanvullen tot bijstandniveau, niet 25% van het pensioen «vrijlaten»? zou niet rechtvaardig zijn ten opzichte van personen die tegen een minimumloon werken. Vanzelfsprekend kan van een pensi– oengerechtigde niet gevergd worden dat deze aan het werk gaat om de bijstand te verminderen of te beëin– digen. Een pensioen is nu juist een verworvenheid na gedane arbeid. Ook daarin ligt een reden om geen vrijlating op een pensioen toe te passen. Zo ja, acht u dit juist gelet op het feit dat de «vrijlating» van 25% wel geldt indien sprake is van inkomen uit arbeid? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja. Een andere uitvoering is zelfs in strijd met de wettelijke voorschriften. </antwoord>
+      <antwoord nummer="2">Ik vind dit zeker juist. De bedoeling van een vrijlating is het stimuleren van bijstandsgerechtigden om aan het werk te gaan of werk te behouden. Een van de uitgangs– punten van de ABW is immers dat men zelf in zijn bestaan probeert te voorzien. Andere inkomensbronnen passen dan ook niet in het vrijla– tingssysteem. Om duidelijk te maken dat het om een stimulans gaat is de duur van de vrijlating in principe beperkt tot 2 jaar. Een langere duur </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

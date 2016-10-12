@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001163</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001163&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001163</item>
+         <item attribuut="Document-id">0000027500</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 230</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Lankhorst en Rosenmöller (beiden Groen Links) over het ISO-project.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 230</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">230</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Lankhorst</persoon>
+            <persoon partij="Groen Links">Rosenmöller</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-10-18</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Ritzen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-12-10</item>
+         <item attribuut="Beginpagina">463</item>
+         <item attribuut="Eindpagina">464</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="463" allpagenumbers="463 464" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="230" onderwerp="het ISO-project." indiendatum="18oktober 1990">
+         <vrager partij="Groen Links" oorsprong="parlement">Lankhorst</vrager>
+         <vrager partij="Groen Links" oorsprong="parlement">Rosenmöller</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="10december 1990">
+         <antwoorder functie="minister" ministerie="Onderwijs en Wetenschappen">Ritzen</antwoorder>
+         <mede-antwoorder>de minister van Sociale Zaken en Werkgelegenheid</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1 2">Welk oordeel hebt u over de uitvoerïng van het ISO-project <voetnoot nummer="1"/> door het bureau Riphagen, Reiche en De Vos? Acht u verdere samenwerking met dit bureau gewenst, mede in het licht van de reeds door u gesigna– leerde tegenvallende resultaten? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="2" voetnoot="3"> v Zo'neen, op welke wijze denkt u te voorkomen dat uitbesteding van het ISO-project tot verdere tegenval– lende resultaten zal leiden? Welk oordeel hebt u over de bijdrage van het particuliere bureau «Interme– diate Technology» aan de uitvoering van het ISO-project <voetnoot nummer="3"/>? Participeert dit bureau op dit moment nog in de uitvoering van het ISO-project? Zo ja, vindt u dat juist gelet op de slechte ervaringen met dit bedrijf? </vraag>
+      <vraag nummer="4">Realiseert u zich, dat het sociaal beleidskader voor SVM-bovental– ligen de mogelijkheid niet uitsluit, dat deelnemers aan scholing vooraf– gaand aan of tijdens hun scholings– traject (tijdelijk) teruggeroepen worden naar de school waaraan ze verbonden waren, met als gevolg een afgebroken scholing? Realiseert u zich, dat zulks leidt tot ergernis bij betrokkenen, verspilling van scholingsgelden eventueel een beperkte toegang tot nieuwe scholingstrajecten in de toekomst vanwege slechte ervaringen van de scholingsinstanties met betrok– kenen? Bent u bereid het beleids– kader zo te wijzigen dat deze situatie niet meer kan voorkomen? </vraag>
+      <vraag nummer="6">Wat zijn de resultaten van alle ISO-projecten? Wat is uw oordeel over deze resultaten, mede in het licht van het gesignaleerde bestuur– lijke onvermogen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> ISO = Intensivering Scholing door Onder– wijsinstellingen</noot>
+         <noot nummer="2" titel="Een bijzonder handige man"> Zie «Een bijzonder handige man», het Schoolblad, van 25 augustus j.l</noot>
+         <noot nummer="3" titel="Je verliest je zelfvertrouwen"> Zie «Je verliest je zelfvertrouwen», het Schoolblad, van 30 juni j.l</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1 en 2">Het ISO-project is niet geheel zonder problemen verlopen. Hierbij heeft een rol gespeeld dat naar mijn mening het extern projectmana– gement de complexiteit van het project aanvankelijk heeft onder– schat. Dit heeft in de beginfase geleid tot te optimistische verwach– tingen over de resultaten van het ISO-project met betrekking tot één van de doelstellingen, namelijk de uitplaatsing van docenten naar functies buiten het onderwijs. Voor mij is dat aanleiding geweest om de contractuele afspraken met het extern projectmanagement te herzien. Ik constateer dat inmiddels een forse toename van het aantal uitplaatsingen van docenten heeft plaatsgevonden. Op grond van de tussenbalans van medio 1990 verwacht het extern projectmana– gement dat de taakstelling in 1990 wordt gehaald. Ik zal de Kamer, conform mijn eerdere toezegging, begin 1991 de eindrapportage ISO doen toekomen. Overigens merk ik op dat de potentiële doelgroep docenten voor uitplaatsing aanzienlijk kleiner is dan aanvankelijk geraamd. De resultaten van de andere doelstellingen, met name stimulering van contractactiviteiten, zijn bevredigend en de taakstellingen van het extern projectmanagement op dit terrein worden meer dan gehaald. Het ISO-project verkeert in de eindfase. Het project en de inscha– keling van het extern projectmana– gement hierbij, loopt af op 31 december a.s. </antwoord>
+      <antwoord nummer="3">Het ISO-project kent een regionale structuur. Aan het regionale niveau is de ruimte gegeven om binnen richtinggevende landelijke kaders activiteiten te ontwikkelen en uit te voeren. Op deze wijze zijn voorwaarden geschapen om activi– teiten tot stand te brengen die scholing kunnen afronden om daarmee zijn kansen op herplaats– baarheid te vergroten. In een enkel geval kan de situatie zich voordoen dat nog tijdens het reeds aange– vangen scholingstraject de SVM-boventallige een passende reguliere functie krijgt aangeboden. De SVM-boventallige zal dan, uiteraard voor zover het om een passende reguliere betrekking gaat, de hem aangeboden functie moeten accepteren. Het uiteindelijke doel, t.w. herplaatsing op een reguliere arbeidsplaats, is dan immers bereikt. Dat de SVM-boventallige door deze «vroegtijdige» herplaatsing zijn reeds aangevangen scholingsactiviteiten zal moeten staken is dan vanzelf– sprekend. Anders wordt het ingeval het schoolbestuur noodgedwongen moet besluiten voorafgaand aan of tijdens het scholingstraject de SVM-boventallige, bijvoorbeeld in verband met vervangende werkzaamheden, terug te roepen. Het schoolbestuur is daartoe overigens zonder meer gerechtigd nu de SVM-boventallige formeel nog steeds in dienst is van de school. Overigens zal een bevoegd gezag als regel eerst bezien of de vervanging zodanig kan worden geregeld dat de SVM-boventallige niet behoeft te worden teruggeroepen. De nieuwe SVM-regelgeving biedt daartoe alle mogelijkheden. Het kan in een enkel geval echter voorkomen dat de SVM-boventallige met de vervan– gingswerkzaamheden zou moeten worden belast. In bepaalde gevallen kan dit inderdaad tot onredelijke situaties leiden, resp. tot ergenis bij tatief opzicht, op te maken. Dit zal plaatsvinden in een eindrapportage ISO die per 31-12-1990 zal worden opgeleverd. Bureau Riphagen, Reiche en de Vos heeft de stand van zaken opgemaakt per 31 juli j.l. Dit geeft het volgende beeld. 1. Stimulering contractactiviteiten. In het ISO project hebben op dat tijdstip 9.445 docenten deelge– nomen aan scholingsactiviteiten gericht op de uitvoering van contractactiviteiten door de onder– wijsinfrastructuur. De verwachting is dat dit aantal op 31-12-1990 is gestegen tot ruim 12.000. De taakstelling op dit terrein, 3000 docenten in 1989 en 3500 in 1990 is dus meer dan gerealiseerd. Aan het ISO-project is in 1990 tevens een taakstelling gekoppeld m.b.t. het daadwerkelijk uitvoeren van contrac– tactiviteiten door de onderwijsinfra– structuur in de vorm van een omzet van minimaal 13 mln. Ook deze taakstelling is gerealiseerd. De tussentijdse rapportage geeft aan dat per 31-7-1990 ten gevolge van ISO een bruto omzet van 15 mln. is gegenereerd binnen het voortgezet onderwijs. Geconcludeerd kan worden dat ISO een belangrijke impuls heeft gegeven aan de inzet van het reguliere onderwijs op het terrein van contractactiviteiten en aan de ontwikkeling van het markt– gericht denken binnen het onderwijs. 2. Uitplaatsing van werkloze docenten. De stand van zaken per 31-7-1990 luidt als volgt: - van de in totaal 3004 betrokken (geweest) zijnde docenten hebben er nog achter loopt op het beoogde aantal. De resultaten van ISO op dit terrein blijven dus achter bij de aanvankelijke verwachting. Ik heb op grond van de ervaringen binnen ISO moeten vaststellen dat voor de terugdringing van werkloosheid onder onderwijsgevend personeel naast het instrument van (om)scholing ook andere incentives noodzakelijk zijn. Deze constatering heeft zijn neerslag gevonden in de voorstellen inzake het brede arbeids– voorzieningsbeleid gericht op het terugdringen van de wachtgelden in de hele onderwijssector. De eindresultaten ISO zullen, zoals aangegeven, over enkele maanden beschikbaar komen. Ik zal de Kamer hierover nader informeren. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

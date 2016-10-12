@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19871988:0001339</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001339&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001339</item>
+         <item attribuut="Document-id">0000099053</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1987-1988 nummer 398</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Weisglas en Blauw (beiden V.V.D.) over fraude met EG-gulden.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1987-1988 nummer 398</item>
+         <item attribuut="Jaargang">1987_1988</item>
+         <item attribuut="Vraagnummer">398</item>
+         <item attribuut="Indiener">
+            <persoon>Weisgias</persoon>
+            <persoon partij="VVD">Blauw</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-04-09</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Braks</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1988-03-11</item>
+         <item attribuut="Beginpagina">799</item>
+         <item attribuut="Eindpagina">800</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1987-1988 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 7 - 1 9 8 8 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="398" onderwerp="fraude met EG-gulden." indiendatum="9 april 1987)">
+         <vrager partij="" oorsprong="parlement">Weisgias</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Blauw</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1 ">Herinneren de bewindslieden zich de  schriftelijke vragen, die op 2 februari  1987 zijn gesteld over fraude met  EG gelden'?  </vraag>
+      <vraag nummer="2 ">Waarom zijn deze vragen tot op  heden nog niet beantwoord?  </vraag>
+      <vraag nummer="3 ">Willen de bewindslieden deze thans  op zeer korte termijn beantwoorden?  </vraag>
+      <vraag nummer="4 ">Hebben de bewindslieden kennis  genomen van de jongste berichten,  dat de fraude ten koste van de EG  wederom op tenminste  f 7 miljard per  jaar wordt geschat en dat volgens  het Europese Parlement zonder deze  fraude geen financiële crisis zou  bestaan'?  </vraag>
+      <vraag nummer="5 ">Wat is hierop het commentaar van  de bewindslieden?  </vraag>
+      <vraag nummer="6 ">Zien zij in deze berichten een (extra)  aansporing om nu werkelijk, samen  met de overige EG-lidstaten, alles op  alles te zetten om die fraude te  bestrijden?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

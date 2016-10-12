@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="4">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001446</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001446&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001446</item>
+         <item attribuut="Document-id">0000035853</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 524</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Beckers-de Bruijn (Groen Links) over de buitenpolikliniek in Lochem.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 524</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">524</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Beckers-de Bruijn</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-02-16</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Simons</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-04-10</item>
+         <item attribuut="Beginpagina">1055</item>
+         <item attribuut="Eindpagina">1056</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1055" allpagenumbers="1055" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="524" onderwerp="de buiten– polikliniek in Lochem." indiendatum="1990-02-16">
+         <vrager partij="Groen Links" oorsprong="parlement">Beckers-de Bruijn</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="10 april 1990) (zie ook Vergaderjaar 1989-1990, Aanhangsel 499">
+         <antwoorder functie="staatssecretaris" ministerie="Welzijn, Volksgezondheid en Cultuur">Simons</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Heeft uw ambtsvoorganger noch u gereageerd op het advies van Gedeputeerde Staten van Gelderland van 18 augustus 1987 <voetnoot nummer="1"/> inzake de instandhouding van de buitenpoli– kliniek in Lochem en de omvorming tot een medisch centrum? Onderkent u, dat dit positieve advies bij de Lochemse bevolking terecht verwachtingen heeft gewekt ten aanzien van de toekomst van de buitenpolikliniek? </vraag>
+      <vraag nummer="3">Bent u op de hoogte van de wens van de gemeente Lochem, o.a. neergelegd in het plan «Medisch Centrum Lochem», om de bestaande polikliniek om te vormen tot een medisch centrum en dit te realiseren in samenhang met een verpleeg– en verzorgingstehuis? </vraag>
+      <vraag nummer="4">Erkent u, dat de combinatie van een verpleeg– en verzorgingstehuis met een medisch centrum in gevaar komt doordat enerzijds, vanwege rijkssub– sidie, de bouw van het verpleeg– en verzorgingstehuis snel moet aanvangen, terwijl anderzijds tussen G.S. en de Staten van Gelderland inmiddels een meningsverschil is ontstaan over de toekomst van de buitenpolikliniek? </vraag>
+      <vraag nummer="5">Bent u bereid in overleg met de provincie Gelderland, te bevorderen, dat de Lochemse wens tot een medisch centrum, gecombineerd met een verpleeg– en verzorgings– tehuis, gerealiseerd kan worden? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Kenmerknr. WZ87.15226 -WZ/MV305</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Met brief van 18 augustus 1987 hebben Gedeputeerde Staten van Gelderland de toenmalige Staatsse– cretaris van WVC op de hoogte gesteld van de initiatieven die toentertijd in Lochem werden ontwikkeld om te komen tot omvorming van de buitenpolikliniek in een 'Medisch Centrum Lochem'. G.S. verzochten daarbij de erkenning van de buitenpolikliniek Lochem te verlengen met een periode van 5 jaar, in afwachting van bovenbe– doelde ontwikkelingen. Hoewel op de brief formeel niet is gereageerd, is over de inhoud van deze brief meerdere malen op ambtelijk niveau contact geweest met ambtenaren van de provinciale griffie. Hierbij was het departementale standpunt dat de ontwikkelingen van de plannen met belangstelling gevolgd werden en dat er voorshands van de zijde van het departement geen aanleiding bestond om de situatie rond de buitenpolikliniek te wijzigen. Overigens zij opgemerkt, dat de buitenpoliklmiek, anders dan G.S. stellen, niet afzonderlijk erkend is, doch onderdeel vormt van het ziekenhuis 'Het Nieuwe Spittaal' te Warnsveld. De financiering van de buitenpolikliniek loopt ook via dat ziekenhuis. </antwoord>
+      <antwoord nummer="2">Zoals uit het antwoord op vraag 1 duidelijk is, lag en ligt het niet in de bedoeling de buitenpoliklmiek te sluiten. Enerzijds omdat mij geen klachten over het functioneren ervan bereiken en anderzijds omdat ik een nader voorstel van de provincie afwacht ten aanzien van de wijze waarop men zich voorstelt aan de omvorming van de buitenpolikliniek in een medisch centrum gestalte te geven. </antwoord>
+      <antwoord nummer="3">Ja. </antwoord>
+      <antwoord nummer="4 en 5">Het is het voornemen nog dit jaar te beginnen met de bouw van de eerste fase van het gecombineerde verpleeg– en verzorgingshuis op het terrein van de huidige polikliniek. Voor wat betreft het verpleeg– huisdeel van deze gecombineerde voorziening wordt in eerste aanleg een aantal van 30 bedden ten behoeve van somatisch zieken gebouwd. Het is de bedoeling om binnen bedoelde combinatie ook nog 60 bedden voor psycho-geriatrische meningsvorming en discussie nog niet afgerond. Dit zal binnenkort gebeuren. Van een meningsverschil terzake is mij niets bekend. Gelet op het bovenstaande acht ik het op dit ogenblik niet nodig om met het provinciaal bestuur over de buiten– polikliniek te Lochem in overleg te treden. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

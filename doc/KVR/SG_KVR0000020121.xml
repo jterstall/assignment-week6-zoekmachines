@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001735</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001735&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001735</item>
+         <item attribuut="Document-id">0000020121</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 717 Herdruk</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid De Graaf (CDA) over de toename van het aantal Zilvermeeuwen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 717 Herdruk</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">717 Herdruk</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">De Graaf</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-06-05</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Gabor</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-07-14</item>
+         <item attribuut="Beginpagina">1497</item>
+         <item attribuut="Eindpagina">1498</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1497" allpagenumbers="1497" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="'s Gravenhage 1992"/>
+      <vraagdata vraagnummer="717" onderwerp="de toename van het aantal Zilvermeeuwen." indiendatum="1992-06-5">
+         <vrager partij="CDA" oorsprong="parlement">De Graaf</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-07-14">
+         <antwoorder functie="Staatssecretaris" ministerie="Landbouw, Natuurbeheer en Visserij">Gabor</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1">Is het u bekend, dat er momenteel een Zilvermeeuwenplaag heerst op het eiland Schiermonnikoog?' Is het u bekend, dat deze Zilvermeeuwen zich voederen met jongen van Bergeenden en eveneens met jongen van diverse soorten weidevogels, waaronder Tureluurs? </vraag>
+      <vraag nummer="3">Is de forse uitbreiding van het aantal Zilvermeeuwen niet voor een zeer belangrijk deel veroorzaakt door het feit dat sedert een aantal jaren geen afschotvergunningen meer worden verleend? </vraag>
+      <vraag nummer="4">Als geen maatregelen worden genomen zal dan eerst de weidevogelstand op Schiermonnikoog nagenoeg geheel verdwenen zijn (alsmede de stand van de Bergeend) alvorens langs natuurlijke weg de stand van de Zilvermeeuw lager wordt? </vraag>
+      <vraag nummer="5" voetnoot="2">Bent u van mening, dat het onacceptabel is de stand van de weidevogels en van de Bergeend te laten decimeren door de ongebreidelde toename van het aantal Zilvermeeuwen? <voetnoot nummer="2"/>Indien de vragen 4 en 5 bevestigend worden beantwoord, bent u dan voornemens wederom afschotvergunningen voor Zilvermeeuwen op Schiermonnikoog te verlenen teneinde daarmee te bewerkstelligen dat Bergeenden en weidevogels de kans krijgen hun jongen groot te brengen? </vraag>
+      <vraag nummer="7">Bent u van mening, dat het rapen van eieren in combinatie met een beperkt afschot een aantoonbaar effect heeft op de meeuwenstand? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="2"> Een soort dat als cultuurvolgend bekend staat</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Het is mij bekend dat er op Schiermonnikoog momenteel ca. 5.000 paar zilvermeeuwen broeden. Naar mijn oordeel kan er niet gesproken worden van een plaag. </antwoord>
+      <antwoord nummer="2">Het is mij bekend dat een beperkt aantal zilvermeeuwen zich specialiseert in het eten van eieren en jongen van andere vogels, zoals bergeenden en weidevogels. Dit is een normaal verschijnsel, dat zich ook elders voordoet. </antwoord>
+      <antwoord nummer="3">Nee. Het aantal zilvermeeuwen is de laatste paar jaren min of meer stabiel. Het in de jaren 1983-1990 verrichte beperkte afschot (enkele tientallen meeuwen per jaar) heeft geen merkbare invloed gehad op het totale aantal zilvermeeuwen op het eiland </antwoord>
+      <antwoord nummer="4">Het antwoord op deze vraag luidt ontkennend. Uit de gegevens van de Natuur– en Vogelwacht Schiermonnikoog van 1986 tot en met 1990 blijkt, dat het aantal nesten en uitgekomen legsels van weidevogels geen verontrustende schommelingen te zien geeft. De stand van de bergeend is inderdaad teruggelopen. Er is echter specifiek onderzoek nodig om na te gaan wat de oorzaken van deze achteruitgang zijn en in het bijzonder wat de rol van de zilvermeeuwen daarbij is. Zilvermeeuwen zijn geenszins afhankelijk van het eten van eieren en jongen van andere vogels. Hun stand wordt bepaald door de beschikbare hoeveelheid organisch materiaal in het getijdegebied, afval op vuilstortplaatsen en door vissersschepen overboord gegooid opgevist materiaal. Nu in het Waddengebied vuilstortplaatsen allengs worden gesloten, valt te verwachten dat het aantal broedparen van de zilvermeeuw zal verminderen. Op Terschelling en Texel is dat al het geval. • Herdruk aanhangsels 706-731 i.v.m. foutieve paginering zilvermeeuwen verstoord teneinde nieuwe vestigingen en daarmee (plaats)concurrentie met andere soorten vogels tegen te gaan. Dit heeft weinig effect op het totale aantal broedparen, omdat deze meeuwen zich opnieuw zullen vestigen op plaatsen waar niet wordt geraapt. Een beperkt afschot van zilvermeeuwen die zich hebben gespecialiseerd op het roven van eieren en jongen van andere vogels heeft, naar gebleken is, eveneens geen meetbaar effect. De door het afschot opengevallen plaatsen worden bovendien doorgaans snel door andere meeuwen ingenomen, zodat het roven van jonge vogels en eieren zal voortduren. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

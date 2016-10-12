@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="omstreeks 24januari 1991." aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001244</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001244&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001244</item>
+         <item attribuut="Document-id">0000027581</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 311</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vraag van het lid Wiebenga (V.V.D.) over de opvang van Oos-Europeanen in Nederland.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 311</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">311</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Wiebenga</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-12-19</item>
+         <item attribuut="Beantwoorder">
+            <persoon>d'Ancona</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-01-17</item>
+         <item attribuut="Beginpagina">627</item>
+         <item attribuut="Eindpagina">628</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="627" allpagenumbers="627" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's Gravenhage 1991"/>
+      <vraagdata vraagnummer="311" onderwerp="de opvang van Oos-Europeanen in Nederland." indiendatum="1990-12-19">
+         <vrager partij="VVD" oorsprong="parlement">Wiebenga</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1" voetnoot="1">Treft de regering intensieve voorbe– reidingen voor de opvang van grote aantallen Oost-Europeanen in ons land? <voetnoot nummer="1"/>Wordt daarbij rekening gehouden met aantallen die variëren tussen minimaal 10000en maximaal 100000 mensen? Op welke gegevens en inlichtingen zijn deze getallen gebaseerd? </vraag>
+      <vraag nummer="3">Zal hier naar de mening van de regering in het algemeen sprake zijn van vluchtelingen of eerder econo– mische migranten? </vraag>
+      <vraag nummer="4">Is bij de plannen sprake van het opzetten van enorme tentenkampen? Acht de regering in de winter een opvang in tenten menswaardig? </vraag>
+      <vraag nummer="5">Hoe stelt de regering zich het levens– onderhoud van deze Oost-Europeanen in de winter voor? Onder welke regelingen vallen zij, indien de Regeling Opvang Asiel– zoekers niet van toepassing zou zijn? </vraag>
+      <vraag nummer="6">Zal het de bedoeling van de regering zijn dat de (meeste) Oost-Europeanen na de winter huiswaarts keren? Hoe wil de regering die terugkeer bewerkstel– ligen, indien de betrokkenen dat niet vrijwillig doen? </vraag>
+      <vraag nummer="7">Is de regering bereid bij de verlening van visa aan burgers van de Sowjet-Unie en van de andere Oost-Europese landen op een heldere manier voorlichting te geven over het onderscheid tussen vrij reizen (van harte toegestaan) en vrije vestiging (niet toegestaan) ter voorkoming van uitzichtloze immigratie-pogingen </vraag>
+      <vraag nummer="8">Is de regering bereid een meer samenhangend toelatingsbeleid in het verband van de E.G. en tussen de partners in het Schengen-verdrag te bevorderen, en in dat kader scherp stelling te nemen tegen het Duitse voornemen om de visumplicht voor Polen af te schaffen? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+   <mededeling mededeler="" functie="" afdeling="Welzijn, Volksgezondheid en Cultuur" mededelingdatum="1991-01-17">Mededelmg van minister d'Ancona (Welzijn, Volksgezondheid en Cultuur). (Ontvangen 17 januari 1991) De bij brief aan mij toegezonden vragen van het lid der Kamer Wiebenga inzake opvang van Oost-Europeanen in Nederland kunnen tot mijn spijt niet binnen de gebruikelijke termijn worden beant– woord. De reden van uitstel is vertraging i.v.m. feestdagen en noodzaak minister van Buitenlandse Zaken te raadplegen voor vragen 7 en 8. De beantwoording zal plaats hebben </mededeling>
+</kvr>

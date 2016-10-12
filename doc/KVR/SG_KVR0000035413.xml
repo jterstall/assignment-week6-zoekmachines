@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19891990:0001006</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001006&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001006</item>
+         <item attribuut="Document-id">0000035413</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 86</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Wolffensperger (D66) over een DNA-proef.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 86</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">86</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Wolffensperger</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-10-10</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Korthals Altes</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-10-27</item>
+         <item attribuut="Beginpagina">173</item>
+         <item attribuut="Eindpagina">174</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="173" allpagenumbers="173" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 921 7398" uitgever="SDU uitgeverij 's Gravenhage 1989"/>
+      <vraagdata vraagnummer="86" onderwerp="een DNA-proef." indiendatum="10oktober 1989">
+         <vrager partij="D66" oorsprong="parlement">Wolffensperger</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1989-10-27">
+         <antwoorder functie="minister" ministerie="Justitie">Korthals Altes</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1" voetnoot="1">Hebt u kennis genomen van de uitspraak van de rechtbank in Maastricht <voetnoot nummer="1"/>, dat een verdachte in een strafzaak niet gedwongen mag worden een DNA-proef te ondergaan wegens strijd met artikel 11 van de Grondwet? Acht u het wenselijk een wets– voorstel voor te bereiden, dat het mogelijk maakt een verdachte van een ernstig delict, zoals een zeden– of levensdelict, te dwingen een DNA-proef te ondergaan? </vraag>
+      <vraag nummer="3">Welke principiële problemen moeten bij het ontwerpen van zulk een wetsvoorstel worden opgelost, met name ten aanzien van de reikwijdte en de precedentwerking van een dergelijke regeling? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1989-10-5" bron=" Zie de Volkskrant"> Zie de Volkskrant, 5 oktober 1989</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ik heb kennis genomen van de beschikking van de rechtbank Maastricht van 4 oktober 1989, gegeven op het bezwaarschrift van de verdachte op de voet van artikel 225, derde lid, Invoeringswet Wetboek van Strafvordering, waarbij de beschikking van de rechter– commissaris van 12 september 1989 is vernietigd en de vordering van de officier van justitie tot het geven van een bevel tot het afnemen van bloed bij de verdachte ten behoeve van een DNA-onderzoek alsnog is afgewezen. </antwoord>
+      <antwoord nummer="2">Ik acht het gewenst dat een wetsvoorstel wordt voorbereid dat het mogelijk maakt dat op de licha– melijke integriteit van een verdachte van een misdrijf inbreuk wordt gemaakt ten einde een DNA-onderzoek te laten plaats– vinden, met dien verstande dat deze inbreuk zo gering mogelijk dient te zijn en de persoonlijke levenssfeer van de verdachte zoveel mogelijk dient te worden gewaarborgd. </antwoord>
+      <antwoord nummer="3">Bij het ontwerpen van een wetsvoorstel zal een aantal princi– piële en technische problemen moeten worden opgelost. Ik noem er enkele, in willekeurige volgorde: a. welk weefsel (bloed, mondslijm, haarwortels) dient de verdachte ten behoeve van een DNA-onderzoek af te staan? b. welke autoriteit dient de bevoegdheid te worden verleend een bevel aan de verdachte te geven om dit weefsel af te staan (de opspo– ringsambtenaar, de hulpofficier van justitie, de officier van justitie of de rechter-commissaris); dient hierbij te worden gedifferentieerd naar het soort weefsel en de mate waarin door het afstaan daarvan op de lichamelijke integriteit inbreuk wordt gemaakt, in dier voege dat bij voorbeeld een bevel tot het afstaan van speeksel door een opsporings– ambtenaar of een hulpofficier van justitie en een bevel tot het afstaan van bloed door een officier van justitie of een rechter-commissaris dient te worden gegeven? c. ten aanzien van welke delicten of delictsgroepen dient een verdenking te bestaan? d. dient een ernstige graad van verdenking (ernstige bezwaren) als voorwaarde bij het geven van een bevel te worden gesteld? e. door wie dient het weefsel uit of van het lichaam te worden verwijderd; welke waarborgen dienen daarbij in acht genomen te worden? f. welke voorschriften zijn nodig om te waarborgen dat het onderzochte weefsel ook het weefsel van de verdachte is? g. dient de verdachte het recht op een contra-expertise toe te komen; wie betaalt de kosten daarvan; hoe lang dient het weefsel voor dit doel te worden bewaard en onder welke condities? h. dient tegen een weigering van het bevel een rechtsmiddel te worden opengesteld en zo ja welk rechts– middel(en) (bezwaarschrift, hoger beroep, beroep in cassatie) of dient een voorafgaand verlof (van de rechtbank) te worden voorge– schreven? i. welke gevolgen dienen te worden verbonden aan een weigering van de verdachte om aan het bevel te voldoen; kan volstaan worden met een vervolging ter zake van de overtreding van artikel 184 Wetboek van Strafrecht of dient een aparte strafbepaling in het leven te worden geroepen; dient in dat geval voor m. dient de verdachte vooraf toestemming te worden gevraagd tot het afnemen van weefsel ten behoeve van DNA-onderzoek? n. welke voorschriften zijn noodza– kelijk ten einde te waarborgen dat de uit het DNA-onderzoek afkomstige gegevens alleen ten behoeve van de vaststelling van de identiteit van de dader (en niet van andere factoren, zoals erfelijkheidsfactoren) in het kader van een strafrechtelijk onderzoek worden gebruikt; dient vernietiging van verkregen gegevens en overblijvend weefsel plaats te vinden; binnen welke termijn dient die vernietiging te geschieden? o. kan met een aparte wettelijke regeling ten behoeve van het DNA-onderzoek worden volstaan of dienen tevens ten aanzien van andere - nieuwe - onderzoeksme– thoden (echoscopie, endoscopie, röntgenfotografie, auto-antistoffen identificatie) in de wet dwangmid– delen (het slikken van contrast– vloeistof, het afknippen van haren of nagels, het afnemen van speeksel of bloed, het inbrengen van endoscoop in slokdarm of rectum) te worden opgenomen (zie J. Naeyé, Rectaal fouilleren, Nederlands Juristenblad 1989, blz. 883)? Vanwege deze principiële en technische problemen leek het mij raadzaam de Commissie herijking Wetboek van Strafvordering advies te vragen alvorens een wetsontwerp bij de Tweede Kamer in te dienen. Ik heb de Commissie inmiddels een dergelijk verzoek gedaan. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

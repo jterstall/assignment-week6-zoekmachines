@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="ADL-kandidaat te beschouwen," aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19891990:0001065</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001065&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001065</item>
+         <item attribuut="Document-id">0000035472</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 143</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Versnel-Schmitz en Groenman (beiden D66) over een woningbouwproject te Veendam.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 143</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">143</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Versnel-Schmitz</persoon>
+            <persoon partij="D66">Groenman</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-10-26</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Ter Veld</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-11-20</item>
+         <item attribuut="Beginpagina">293</item>
+         <item attribuut="Eindpagina">294</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Karner der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="293" allpagenumbers="293" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 921 7398" uitgever="SDU uitgeverij 's-Gravenhage 1989"/>
+      <vraagdata vraagnummer="143" onderwerp="een woningbouwproject te Veendam." indiendatum="1989-10-26">
+         <vrager partij="D66" oorsprong="parlement">Versnel-Schmitz</vrager>
+         <vrager partij="D66" oorsprong="parlement">Groenman</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Bent u op de hoogte van het woning– bouwproject in de sociale huursector te Veendam, ter plekke van het voormalige bejaardentehuis AE-Horst? Is het u bekend, dat het gaat om 80 woningen, waarin een ADL-cluster– project van 12 woningen gereali– seerd kan worden? Is het u bekend, dat dit de laatste mogelijkheid is in de regio Oost-Groningen een ADL-clusterproject te realiseren? </vraag>
+      <vraag nummer="3" voetnoot="1">Komen mensen ouder dan 65 jaar volgens de AAW niet in aanmerking voor wonen in een ADL-cluster, ook al hebben zij ADL-assistentie nodig zeker te meer wanneer zij ouder worden? hetgeen recht doet aan een volks– huisvestingsbeleid en een ouderen– beleid, dat zich richt op het zo lang mogelijk zelfstandig wonen? <voetnoot nummer="1"/> Het vereiste minimum is 30. </vraag>
+      <vraag nummer="5"/>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+   <mededeling mededeler="Ter Veld" functie="staatssecretaris" afdeling="Sociale Zaken en Werkgele– genheid" mededelingdatum="">Mededeling van staatssecretaris Ter Veld (Sociale Zaken en Werkgele– genheid). (Ontvangen 20 november 1989} De aan de voormalige minister met uw brief van 27 oktober 1989 gestelde vragen van de leden der Kamer Versnel-Schmitz en Groenman inzake ADL-clusterwonen kunnen tot mijn spijt niet binnen de gebruikelijke termijn worden beant– woord, omdat nog interdeparte– mentaal overleg hierover gaande is. Gaarne zeg ik u toe, dat de beant– woording zo spoedig mogelijk zal geschieden. Is het u bekend, dat het aantal aanmelders voor het Veendamse project nu 35 personen bedraagt', van wie er 18 de leeftijd van 65 jaar hebben bereikt? 5 Bent u bereid dit ADL-clusterproject in Veendam te doen realiseren door ook mensen boven de 65 jaar als </mededeling>
+</kvr>

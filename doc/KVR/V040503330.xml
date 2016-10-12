@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="gezondheidsklachten?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Vietsch (CDA) aan de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer over gezondheidsrisico's door gebrek aan ventilatie. (Ingezonden 15 november 2004)</item>
+         <item attribuut="Bestand">15Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V040503330
+</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van het rapport 'Effecten van EPC-verlaging op de kwaliteit van het binnenmilieu in woningen'. 75% van de nieuwbouwwoningen zou niet voldoen aan de eisen van het Bouwbesluit, terwijl uit ander onderzoek zou blijken dat deze eisen op het gebied van ventilatie op zich al onvoldoende zijn.</item>
+         <item attribuut="Rubriek">Bouw (Woningbouw) Gezondheidszorg (Ziekten en ziektepreventie) Milieu (Luchtverontreiniging)</item>
+         <item attribuut="Trefwoorden">Luchtverontreiniging Preventieve gezondheidszorg Woningbouw</item>
+         <item attribuut="Vindplaats">Kamervragen 2004-2005, vraagnr. 2040503330, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2040503330</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Vietsch</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2004-11-15</item>
+         <item attribuut="Document-id">V040503330</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2004–2005" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0405tkkvl2040503330" lopendefooter="Tweede Kamer, vergaderjaar 2004–2005, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2004"/>
+      <vraagdata vraagnummer="2040503330" onderwerp="" indiendatum="2004-11-15">
+         <vrager partij="CDA" oorsprong="parlement">Vietsch</vrager>
+         <vraagt-aan>de minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1">Bent u op de hoogte dat door gebrek aan ventilatie allergische reacties, astma, chronische bronchitus en longemfyseem kunnen ontstaan? </vraag>
+      <vraag nummer="2" voetnoot="1">Is het waar dat in 75% van de nieuwe generatie woningen het ventilatiesysteem niet voldoet aan de eisen van het Bouwbesluit? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="3">In hoeverre zijn volgens u ventilatieroosters – al dan niet met suskasten voor demping van geluid – in met name slaapkamers voldoende om gezondheidsrisico’s te voorkomen? </vraag>
+      <vraag nummer="4" voetnoot="2 2">Deelt u de mening van het Onderzoeksinstituut OTB van de TU Delft dat de eisen uit het Bouwbesluit op het gebied van ventilatie ontoereikend zijn, dat, mede in verband met huisstofmijten, het ventilatievoud in een slaapkamer 1 moet zijn en dat er een gevelopening van tenminste 200 cm <voetnoot nummer="2"/>zou moeten zijn? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="5">In hoeverre zijn energieprestatienormen en geluidsnormen van gevels in strijd met de eis van voldoende ventilatie ter bestrijding van huisstofmijten en ter voorkoming van </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1">Rapport: Effecten van EPC-verlaging op de kwaliteit van het binnenmilieu in woningen van het ministerie van VROM/DHV</noot>
+         <noot nummer="2" datum="2004-11-6" bron="Lezing ir.E.Hasselaar, Technologiedag 2004, TU Delft">Lezing ir.E.Hasselaar, Technologiedag 2004, TU Delft, 6 november 2004</noot>
+      </noten>
+   </antwoorden>
+</kvr>

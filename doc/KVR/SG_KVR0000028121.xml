@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="5">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001784</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001784&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001784</item>
+         <item attribuut="Document-id">0000028121</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 848</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Sipkes en Beckers-de Bruijn (beiden Groen Links) over militaire aanvallen door het Turkse leger op Koerden in Noord-lrak en Turkije.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 848</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">848</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Sipkes</persoon>
+            <persoon partij="Groen Links">Beckers-de Bruijn</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-08-13</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-09-05</item>
+         <item attribuut="Beginpagina">1727</item>
+         <item attribuut="Eindpagina">1728</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1727" allpagenumbers="1727" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's-Gravenhage 1991"/>
+      <vraagdata vraagnummer="848" onderwerp="militaire aanvallen door het Turkse leger op Koerden in Noord-lrak en Turkije." indiendatum="1991-08-13">
+         <vrager partij="Groen Links" oorsprong="parlement">Sipkes</vrager>
+         <vrager partij="Groen Links" oorsprong="parlement">Beckers-de Bruijn</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1991-09-5">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">Van den Broek</antwoorder>
+         <mede-antwoorder>de minister van Defensie</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1">Hebt u kennis genomen van de berichten over aanvallen van het Turkse leger op Koerden in Noord-lrak en Turkije? </vraag>
+      <vraag nummer="2">Heeft het Turkse leger inmiddels meer dan zeventig aanvalsvluchten uitgevoerd? Hoeveel slachtoffers zijn er inmiddels te betreuren? Zijn ook aanvallen uitgevoerd op civiele doelen? Is bij de luchtaanvallen gebruik gemaakt van door Nederland geleverde vliegtuigen? Zo ja, deelt u dan de mening, dat in de toekomst moet worden afgezien van welke wapenleveranties dan ook aan Turkije? </vraag>
+      <vraag nummer="4">Deelt u de mening, dat de militaire aanvallen op de Koerden en de instelling van een bufferzone in Noord-lrak door Turkije in strijd zijn met het internationaal recht? </vraag>
+      <vraag nummer="5">Zo ja, wilt u dan bij de Turkse autori– teiten een krachtig protest laten horen en aandringen op onmiddel– lijke beëindiglng van de aanvallen? Wilt u tevens in overleg met de bondgenoten van de anti-lrak coalitie bewerkstelligen, dat de aanvallen worden beëindigd en dat Turkse troepen zich terugtrekken op hun eigen grondgebied? </vraag>
+      <vraag nummer="7">Hoe verhoudt zich de Nederlandse militaire aanwezigheid in Turkije ter bescherming van de Koerden in Irak met de nu door Turkije uitgevoerde militaire acties op diezelfde Koerden? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1 en 2">Wij hebben kennis genomen van berichten over Turkse militaire operaties met lucht– en landstrijd– krachten tegen Koerdische groepe– ringen die volgens de autoriteiten te Ankara terroristische acties uitvoerden vanuit Noord-lrak. Over preciese gegevens betreffende deze operaties wordt onzerzijds niet beschikt. Van officiële Turkse zijde is overigens tegengesproken dat aanvallen zouden zijn uitgevoerd op civiele doelen. </antwoord>
+      <antwoord nummer="3">Voorzover bekend is aan de operaties in kwestie deelgenomen door F-104 vliegtuigen. De herkomst van deze toestellen, die door Turkije zijn overgenomen van verschillende bondgenoten (waaronder Nederland), kan evenwel niet worden vastgesteld. Voor wapenleveranties aan Turkije blijft overigens het beleid zoals dat bij verschillende gelegen heden door de Regering tegenover de Kamer is uiteengezet, onver– minderd van kracht. </antwoord>
+      <antwoord nummer="4">Dergelijke operaties zijn, voorzover uitgevoerd over de landsgrenzen, niet in overeenstemming te achten met het volkenrecht. De Turkse regering heeft ontkend dat in Noord-lrak een zgn. bufferzone is ingesteld. </antwoord>
+      <antwoord nummer="5">Niet is nagelaten tegenover de Turkse regering blijk te geven van de hier te lande door de betrokken gebeurtenissen gewekte bezorgdheid. De operaties zijn inmiddels beëindigd. </antwoord>
+      <antwoord nummer="6 en 7">Er is geen verband tussen de Turkse operaties en de aanwezigheid van de geallieerde taakgroep die in Zuidoost-Turkije is gestationeerd. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

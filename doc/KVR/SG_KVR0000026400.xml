@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0000063</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0000063&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0000063</item>
+         <item attribuut="Document-id">0000026400</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Eerste Kamer 1990-1991 nummer 25</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Eerste Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van mevrouw E. Klaassens-Postema (PvdA) inzake een beleidswijziging m.b.t. woningaanpassing gehandicapten.</item>
+         <item attribuut="titel">Aanhangsel Eerste Kamer 1990-1991 nummer 25</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">25</item>
+         <item attribuut="Indiener">
+            <persoon>Klaassens-Postema E.</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-07-03</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Heerma</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-06-10</item>
+         <item attribuut="Beginpagina">51</item>
+         <item attribuut="Eindpagina">52</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Eerste Kamer der Staten-Generaal" kamer="1" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen door de leden der Kamer gesteld overeenkomstig artikel schriftelijk gegeven antwoorden"/>
+      <footer firstpaginanummer="51" allpagenumbers="51" vetnummer="" code="" lopendefooter="Eerste Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgevenj 's Gravenhage 1991"/>
+      <vraagdata vraagnummer="" onderwerp="" indiendatum="">
+         <vrager partij="" oorsprong="parlement">Klaassens-Postema E.</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="25">Vragen van mevrouw E. Klaassens– Postema (PvdA) inzake een beleids– wijziging m.b.t. woningaanpassing gehandicapten. (Ingezonden 3 juli 1990) </vraag>
+      <vraag nummer="1">Is het waar dat op het departement van VROM een beleidswijziging wordt voorbereid met betrekking tot woningaanpassing gehandicapten om per 1 januari 1991 te komen tot een eigen bijdrage? </vraag>
+      <vraag nummer="2">Is het waar dat de in voorbereiding zijnde regeling in gaat houden: a. bij verbeteringen tot f 3 000 een eigen bijdrage van de helft van het te investeren bedrag; b. f 1 500 eigen bijdrage bij investe– ringen van meer dan f 3 000? </vraag>
+      <vraag nummer="3">Als bovenstaande vragen beves– tigend worden beantwoord, wil de staatssecretaris dan uitleggen hoe deze maatregel past in het door het kabinet geformuleerde gehandicap– tenbeleid? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

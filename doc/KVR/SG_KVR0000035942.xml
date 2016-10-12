@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001535</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001535&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001535</item>
+         <item attribuut="Document-id">0000035942</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 612</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Schaefer (P.v.d.A.) over het race-circuit van de gemeente Reimerswaal.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 612</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">612</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Schaefer</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-01-03</item>
+         <item attribuut="Beantwoorder">
+            <persoon>D' Ancona</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-05-08</item>
+         <item attribuut="Beginpagina">1231</item>
+         <item attribuut="Eindpagina">1232</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1231" allpagenumbers="1231" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN0921 - 7398" uitgever="SDU uitgevenj 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="M" onderwerp="het race-circuit van de gemeente Reimerswaal." indiendatum="1990-01-3">
+         <vrager partij="PvdA" oorsprong="parlement">Schaefer</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="8 mei 1990), zie ook Aanhangsel Handelingen nr. 397, vergaderjaar 1989-1990.">
+         <antwoorder functie="minister" ministerie="Welzijn, Volksgezondheid en Cultuur">D'Ancona</antwoorder>
+         <mede-antwoorder>de ministers van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en van Landbouw, Natuurbeheer en Visserij en van de staatssecretaris van Economische Zaken</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Is het u bekend, dat u op korte termijn een aanvraag voor een A-Status voor het race-circuit van de gemeente Reimerswaal kan bereiken? </vraag>
+      <vraag nummer="2">Indien u zo'n aanvraag bereikt, bent u dan bereid deze naast de Zandvoortse aanvraag voor een A-Status te behandelen? </vraag>
+      <vraag nummer="3">Bent u bereid, in het voorstel naar de Kamer over een te verlenen A-Status voor een race-circuit de voorkeur te geven aan die locatie, die het minste milieubezwaren oplevert? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1">Het is mij bekend, dat de Stichting Ontwikkeling Nationaal Circuit een plan in ontwikkeling heeft voor een race-circuit in de gemeente Reimerswaal. De A-status kan worden toegekend op grond van het feit dat de betrokken landelijke sportorgani– satie(s) de onderhavige accommo– datie heeft aangewezen en zal gebruiken als dé (inter)nationale trainings– en wedstrijdaccommodatie voor de desbetreffende tak of takken van sport. Per tak van sport kan slecht één A-accommodatie voor een eventuele subsidie in aanmerking komen. De toekenning van de voorwaardelijke A-status aan het circuit Zandvoort impliceert onder meer, dat de verdere planontwik– keling (middels een plan van aanpak, waarvan onder meer een Milieu Effect Rapport deel uitmaakt) van het circuit Zandvoort ter hand is genomen om te bezien of aan de gestelde voorwaarden kan worden voldaan, teneinde de voorwaardelijke A-status al dan niet te kunnen omzetten in een definitieve A-status. Met de provincie Noord-Holland, die de coördinatie van de werkzaam– heden verzorgt, alsmede met andere betrokken partijen is afgesproken dat medio 1990 het plan van aanpak gereed zal zijn. In het licht hiervan stel ik rnij voor dat andere locaties eerst in aanmerking komen wanneer, op basis van de uitkomsten van het plan van aanpak Zandvoort, de noodzaak daartoe zich aandient. Uit het antwoord op vraag 2 moge blijken, dat als aan de gestelde voorwaarden met betrekking tot het circuit Zandvoort kan worden voldaan, de voorwaardelijke A-status met betrekking tot genoemd circuit kan worden omgezet in een defini– tieve A-status. Het binnenkort gereed komende MER over het circuit zal daarbij een belangrijke rol spelen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

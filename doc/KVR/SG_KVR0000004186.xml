@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="2">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0001675</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001675&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001675</item>
+         <item attribuut="Document-id">0000004186</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 461</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Verspaget (PvdA) over het bevolkingsbeleid in China.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 461</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">461</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Verspaget</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-03-24</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Kooijmans</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-04-25</item>
+         <item attribuut="Beginpagina">935</item>
+         <item attribuut="Eindpagina">936</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="935" allpagenumbers="935" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1994"/>
+      <vraagdata vraagnummer="461" onderwerp="het bevolkingsbeleid in China." indiendatum="1994-03-24">
+         <vrager partij="PvdA" oorsprong="parlement">Verspaget</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="25 april 1994). Zie ook aanhangsel Handelingen nr. 440, vergaderjaar 1993-1994.">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">Kooijmans</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1" voetnoot="1">Is het bericht waar <voetnoot nummer="1"/> als zou in China het bevolkingsbeleid zo ver gaan, dat zelfs pasgeboren kinderen worden gedood en vrouwen met vergevorderde zwangerschappen gedwongen worden tot abortus? Gaat het hier om incidenten of om regulier beleid? Was u voor uw vertrek naar China op de hoogte van deze praktijken? Zo ja, hebt u dit aan de orde gesteld in uw contacten met de Chinese regering? </vraag>
+      <vraag nummer="3">Op welke wijze en in welke fora zal Nederland overigens deze mensenrechtenschendingen aan de orde stellen?  Zie Trouw van 23 maart 1994. </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"/>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1"> en2 Het is de regering niet mogelijk vast te stellen in welke mate genoemde berichten op waarheid berusten. Wel heeft de Chinese regering bij verschillende gelegenheden erkend dat bij de uitvoering van het één-kind-beleid, waaraan de Chinese regering zeer hecht en ten aanzien waarvan weinig flexibiliteit bestaat, misstanden voorkomen. Wettelijke regelingen inzake de toelaatbaarheid van abortussen bestaan in China niet, hoewel het afbreken van zwangerschappen in een zeer laat stadium, zoals blijkt uit uitspraken van de verantwoordelijke Chinese minister, wordt ontmoedigd. De in het bedoelde artikel gemelde praktijken lijken geen deel uitte maken van regulier beleid. Wel lijkt er sprake van een gebrek aan of terughoudendheid bij controle op de excessen bij de uitvoering van het één-kind-beleid. Tijdens mijn bezoek aan China heb ik diverse aspecten van de mensenrechtensituatie in dat land aan de orde gesteld. De in het aangehaalde bericht vermelde specifieke feiten waren mij overigens avant mijn vertrek naar China niet bekend, zodat deze niet konden worden opgebracht. </antwoord>
+      <antwoord nummer="3">Schendingen van mensenrechten in China, met inbegrip van onderhavige problematiek, zijn zowel bilateraal als in het kader van het Gemeenschappelijk Buitenlands en Veiligheidsbeleid van de Europese Unie een punt van voortdurende zorg. Zij zullen bij daartoe passende gelegenheden onder de aandacht van de Chinese autoriteiten worden gebracht. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="4">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Koomen (CDA) en Van Egerschot (VVD) aan de minister van Financiën over leningen bij rijscholen. (Ingezonden 8 september 2005); Antwoord</item>
+         <item attribuut="Bestand">16Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR24023
+</item>
+         <item attribuut="Inhoud">Herdruk in verband met verkeerde paginering. Vragen over artikel in Algemeen Dagblad over autorijscholen die leningen met hoge rentes verlenen aan klanten, terwijl ze adverteren met zogenaamde lage tarieven.</item>
+         <item attribuut="Rubriek">Geld- en kapitaalmarkt (Kredieten) Verkeer, vervoer en waterstaat (Overig)</item>
+         <item attribuut="Trefwoorden">Autorijscholen Kredieten</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2005-2006, nr. 89H, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2040521140</item>
+         <item attribuut="Afkomstig_van">Financiën (FIN)</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Koomen</persoon>
+            <persoon partij="VVD">Van Egerschot</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2005-10-04</item>
+         <item attribuut="Datum_indiening">2005-09-08</item>
+         <item attribuut="Document-id">KVR24023</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2005–2006" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="195" allpagenumbers="195" vetnummer="2040521140" code="0506tkkvr89" lopendefooter="Tweede Kamer, vergaderjaar 2005–2006, Aanhangsel" filenaam="KVR24023" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2005"/>
+      <vraagdata vraagnummer="89" onderwerp="" indiendatum="2005-09-8">
+         <vrager partij="CDA" oorsprong="parlement">Koomen</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Van Egerschot</vrager>
+         <vraagt-aan>de minister van Financiën</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2005-10-4">
+         <antwoorder functie="minister" ministerie="Financiën">Zalm</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Kent u het artikel <voetnoot nummer="1"/>waarin gesproken wordt van leningen met hoge rentes die sommige rijscholen verstrekken aan hun klanten, terwijl ze adverteren met zogenaamde lage tarieven? </vraag>
+      <vraag nummer="2">Valt deze vorm van het aanbieden van leningen onder de Wet financiële dienstverlening? Zo ja, is de Autoriteit Financiële Markten (AFM) op de hoogte van het bestaan van dit soort leningen en stelt de AFM een onderzoek in? </vraag>
+      <vraag nummer="3">Indien u het beleid voert dat schuldenproblematiek voorkomen dient te worden, kunt u dan aangeven in hoeverre het aanbieden van dergelijke producten bijdraagt aan het verminderen van deze problematiek? </vraag>
+      <vraag nummer="4">Welke maatregelen acht u wenselijk om dit soort leningen tegen dergelijk hoge rentes te voorkomen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="2005-09-6" bron="Algemeen Dagblad">Algemeen Dagblad, 6 september 2005</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Als de rijschoolhouder bemoeienis heeft bij de totstandkoming van de kredietverstrekking, valt deze constructie niet onder de geldende Wet op het consumentenkrediet (Wck). Het verstrekken van diensten op krediet valt alleen onder deze wet voorzover de betreffende diensten zijn aangewezen bij algemene maatregel van bestuur, hetgeen voor het aanbieden van rijlessen niet het geval is. Aangezien er dus geen sprake is van een mogelijke overtreding van de Wck heeft de AFM dus ook geen onderzoek ingesteld. De reikwijdte van de Wfd zal ruimer zijn, waardoor deze vorm van kredietverstrekking wel onder die wet en het toezicht van de AFM zal vallen. </antwoord>
+      <antwoord nummer="3">Sommige mensen zouden door de aanbieding van dit product in de verleiding kunnen worden gebracht om schulden aan te gaan die, gezien hun financiële situatie, niet verantwoord zijn. Om die reden zullen bepaalde waarborgen van de Wfd, waaronder de kredietwaardigheidstoets en informatieverstrekkingsverplichtingen, van toepassing zijn. </antwoord>
+      <antwoord nummer="4">De Wfd zal in beginsel van toepassing worden verklaard op alle situaties waarbij er sprake is van het aanbieden van diensten op krediet. Situaties waarin mensen na het behalen van het rijbewijs nog vastzitten aan het betalen van rente en aflossen van schuld komen daardoor onder de Wfd te vallen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001677</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001677&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001677</item>
+         <item attribuut="Document-id">0000036084</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 753</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Van Erp en Blauw (beiden V.V.D.) over het aangaan van een maatschap of vennootschap onder firma tussen medewerkende partners.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 753</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">753</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Van Erp</persoon>
+            <persoon partij="VVD">Blauw</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-05-02</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van Amelsvoort</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-07-02</item>
+         <item attribuut="Beginpagina">1521</item>
+         <item attribuut="Eindpagina">1522</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1521" allpagenumbers="1521" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgeverij 's-Gravenhage 1990"/>
+      <vraagdata vraagnummer="753" onderwerp="het aangaan van een maatschap of vennootschap onder firma tussen medewerkende partners." indiendatum="1990-05-2">
+         <vrager partij="VVD" oorsprong="parlement">Van Erp</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Blauw</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2 juli 1990), zie ook Aanhangsel Handelingen nr. 674, vergaderjaar 1989-1990">
+         <antwoorder functie="staatssecretaris" ministerie="Financiën">Van Amelsvoort</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1">Kan de uitbreiding van art. 17, wet IB '64 in verband met het aangaan van een maatschap of vennootschap onder firma tussen medewerkende partners niet met terugwerkende kracht per 1 januari 1990 plaats– vinden? Welke redenen liggen hieraan ten grondslag? </vraag>
+      <vraag nummer="3">Is het u bekend, dat dit uitstel een grote teleurstelling betekent voor ondernemers in het MKB en de landbouw? </vraag>
+      <vraag nummer="4">Wilt u alsnog bevorderen, dat terzake het kabinetsstandpunt, zoals verwoord in het standpunt over het rapport «Loon naar werken» wordt uitgevoerd? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"/>
+         <noot nummer="1"> Kamerstuk 19622 nr. 4</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1 en 2" voetnoot="1">Voor dezelfde problematiek heeft de vaste Commissie voor financiën uit de Tweede Kamer der Staten– Generaal mijn aandacht gevraagd. Ik heb de vaste Commissie voor financiën een brief geschreven, waarin ik mijn standpunt nader heb uiteengezet. Een afschrift van die brief heb ik ter informatie bijge– voegd. <voetnoot nummer="1"/>
+      </antwoord>
+      <antwoord nummer="3" voetnoot="1">Het is mij bekend dat ondernemers bezwaren hebben tegen mijn hiervoor weergegeven standpunt. Deze zijn met name van praktische aard. Mijn standpunt terzake heb ik reeds aan de mspecteurs kenbaar gemaakt in het Infobulletin van februari 1990 waarvan bijgaand een kopie. <voetnoot nummer="1"/> Daarin kom ik naar mijn oordeel van de praktische bezwaren voldoende tegemoet door de inspec– teurs te verzoeken de, in verband met de wetswijziging uitgestelde, overdrachten met enige soepelheid te behandelen. Zij kunnen een balans die aansluit op bijvoorbeeld een winstsplitsing naar tijdsevenre– digheid als overdrachtsbalans accep– teren. Daardoor kunnen de extra inspanningen ten gevolge van een latere overdracht tot een minimum beperkt blijven. </antwoord>
+      <antwoord nummer="4">De bedoelde uitbreiding van de doorschuiffaciliteit heeft zijn beslag gekregen met de inwerkingtreding van de Oort-voorstellen per 1 januari 1990. Daarmee is uitvoering gegeven aan de toezegging welke op dit punt is neergelegd in het kabinetsstandpunt betreffende het rapport «Loon voor werken». </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Ter inzage gelegd op de bibliotheek</noot>
+      </noten>
+   </antwoorden>
+</kvr>

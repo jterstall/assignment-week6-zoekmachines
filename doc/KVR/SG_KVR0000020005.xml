@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Nader antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001619</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001619&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001619</item>
+         <item attribuut="Document-id">0000020005</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 601</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden E. G. Terpstra, Wiebenga en Franssen (allen VVD) over de wijze waarop de minister voor NAAZ in Nederland opening van zaken heeft gegeven.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 601</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">601</item>
+         <item attribuut="Indiener">
+            <persoon>Terpstra E.G.</persoon>
+            <persoon>Wiebenga</persoon>
+            <persoon>Franssen</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-11-29</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Hirsch Ballin</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-05-20</item>
+         <item attribuut="Beginpagina">1263</item>
+         <item attribuut="Eindpagina">1264</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1263" allpagenumbers="1263" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN0921 - 7398" uitgever="Sdu Uitgeverij Plantijnstraat s Gravenhage 1992"/>
+      <vraagdata vraagnummer="601" onderwerp="de wijze waarop de minister voor NAAZ in Nederland opening van zaken heeft gegeven." indiendatum="1991-11-29">
+         <vrager partij="" oorsprong="parlement">Terpstra E.G.</vrager>
+         <vrager partij="" oorsprong="parlement">Wiebenga</vrager>
+         <vrager partij="" oorsprong="parlement">Franssen</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1" voetnoot="1">Heeft Minister-President Maria Liberia-Peters in het Antilliaans Parlement gezegd, dat zij «het oneens is met de wijze waarop Hirsch Ballin in Nederland opening van zaken heeft gegeven»? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Heeft mevrouw Peters tevens gezegd, dat zij «ovengens niet verantwoordelijk is voor de interpretatie en de invulling, die Hirsch Ballin geeft aan afspraken die tussen ons zijn gemaakt»? </vraag>
+      <vraag nummer="3">Zo ja, is hiermee dan in het openbaar gesuggereerd dat u na terugkomst uit de Nederlandse-Antillen een onjuiste voorstelling van zaken hebt gegeven? </vraag>
+      <vraag nummer="4">Zo ja, is dat verwijt van de Minister-President van de Nederlandse-Antillen aan uw adres juist? </vraag>
+      <vraag nummer="5">Indien er enige grond is voor dit verwijt, wilt u dan per brief aan de Kamer uitleggen waarom u een verkeerde voorstelling van zaken hebt gegeven en tevens melden welke interpretatie en invulling de juiste zijn? </vraag>
+      <vraag nummer="6">Indien er geen grond is voor dit verwijt, hoe wilt u ze dan op de Nederlandse-Antillen in het algemeen en in het Antilliaans Parlement in het bijzonder, de indruk wegnemen dat u niet de waarheid heeft gesproken? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" titel="Premier Antillen weigert wijziging zelfbeschikkingsrecht"> Volkskrant van 26 november 1991 «Premier Antillen weigert wijziging zelfbeschikkingsrecht»</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Nader antwoord van minister Hirsch Ballin (Nederlands-Antilliaanse en Arubaanse Zaken). (Ontvangen 20 mei  1992) </antwoord>
+      <antwoord nummer="1 t/m 6">De minister-president van de Nederlandse Antillen heeft mij inmiddels informatie verstrekt ten behoeve van de beantwoording van deze vragen. Daaruit blijkt dat er geen verschil van mening bestaat over de essentie van de gemaakte afspraken, maar dat het meer gaat om de toonzetting bij het bekend maken daarvan. Er is dus geen sprake van een suggestie van haar kant dat ik een onjuiste voorstelling van zaken zou hebben gegeven. De minister-president van de Nederlandse Antillen wees er verder op dat het bewuste artikel in de Volkskrant naar haar oordeel was samengesteld uit uitspraken die gedeeltelijk uit hun verband waren gerukt. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Zie Aanhangsel Handelingen, nr. 228, Vergaderjaar 1991-1992</noot>
+      </noten>
+   </antwoorden>
+</kvr>

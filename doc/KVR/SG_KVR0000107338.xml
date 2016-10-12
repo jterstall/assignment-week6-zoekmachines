@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001563</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001563&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001563</item>
+         <item attribuut="Document-id">0000107338</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 531</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van Es (P.S.P.) over verkiezingen in Indonesië.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 531</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">531</item>
+         <item attribuut="Indiener">
+            <persoon partij="PSP">Van Es</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-03-05</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-03-25</item>
+         <item attribuut="Beginpagina">1055</item>
+         <item attribuut="Eindpagina">1056</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 6 - 1 9 8 7 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="531" onderwerp="verkiezingen in Indonesië." indiendatum="5 maart 1987)">
+         <vrager partij="PSP" oorsprong="parlement">Van Es</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="25 maart 1987)">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">V a n d e n B r o e k</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1 ">Is de minister ervan op de hoogte,  dat in april aanstaande overal in  Indonesië, ook in het door Indonesië  bezette Oost-Timor, verkiezingen  gehouden zullen worden?  </vraag>
+      <vraag nummer="2 ">Deelt de minister de mening, dat de  uitslag van deze verkiezingen in  Oost-Timor in genen dele opgevat  mag worden als een blijk van het  uitoefenen van het recht van zelfbe- schikking door de Oost-Timorese  bevolking?  </vraag>
+      <vraag nummer="3 ">Is de minister bereid, al dan niet na  overleg met Portugal, dat zichzelf  nog steeds als «administrerende  mogendheid» van Oost-Timor  beschouwt en met andere EG-landen,  de Indonesische regering ervan op  de hoogte te stellen, dat de Neder- landse regering de uitslag van deze  verkiezingen voor Oost-Timor niet als  een blijk van het uitoefenen van het  recht op zelfbeschikking zal beschou- wen?  De inlijving van Oost-Timor door  Indonesië is noch door de Verenigde  Naties, noch  d o o r e e n overweldigende  reeks van landen als rechtmatig  erkend.  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1 ">Ja.  </antwoord>
+      <antwoord nummer="2 ">Deze vraag draagt een theoretisch  karakter. Er zijn geen aanwijzingen  dat de veronderstelling juist is dat de  verkiezingen in Oost-Timor door  Indonesië of andere regeringen  beschouwd worden als een blijk van  het uitoefenen van het recht op  zelfbeschikking door de Oost-Timore- se bevolking.  </antwoord>
+      <antwoord nummer="3 ">In het licht van het bovenstaande  behoeft deze vraag geen antwoord.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

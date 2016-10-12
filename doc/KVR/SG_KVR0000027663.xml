@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="2">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0001326</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001326&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0001326</item>
+         <item attribuut="Document-id">0000027663</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 392</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Eversdijk (C.D.A.) over mestdistributie.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 392</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">392</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Eversdijk</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-12-20</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Bukman</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-02-14</item>
+         <item attribuut="Beginpagina">797</item>
+         <item attribuut="Eindpagina">798</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="797" allpagenumbers="797" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgeverij 's-Gravenhage 1991"/>
+      <vraagdata vraagnummer="392" onderwerp="mestdistributie." indiendatum="1990-12-20">
+         <vrager partij="CDA" oorsprong="parlement">Eversdijk</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="14februari 1991), zie ook Aanhangsel Handelingen nr. 363, vergaderjaar 1990-1991.">
+         <antwoorder functie="minister" ministerie="Landbouw, Natuurbeheer en Visserij">Bukman</antwoorder>
+         <mede-antwoorder>de minister van Verkeer en Waterstaat</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1">Hebt u kennis genomen van het NIEMA-rapport: «Haalbaarheidson– derzoek Mestdistributie door middel van de binnenvaart»? </vraag>
+      <vraag nummer="2">Wat is uw oordeel over de mogelijkheid van deze mestdistri– butie, waarbij met name ook de optie «binnenvaart gecombineerd met drijvende opslag» de aandacht zou verdienen? Indien uw oordeel positief is, welke mogelijkheden ziet u dan ter stimu– lering van deze distributie– en opslagmogelijkheid, mede in het kader van het beperken van het aantal vrachtautobewegingen en de mogelijkheden van gecombineerd vervoer? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja. Op basis van het NIEMA-rapport kan ik concluderen dat vervoer per schip een interessante bijdrage kan leveren aan de distributie van mest over grote afstand. Hierbij moet echter aan een aantal voorwaarden worden voldaan, met name een goede organisatiestructuur, financiering én voldoende acceptatie door de akker– bouwers in de beoogde afzetge– bieden. Bijkomende voordelen van transport over water ten opzichte van transport over de weg kunnen zijn dat met deze vorm van transport het milieu en het wegverkeer minder belast worden. Ten aanzien van binnenvaart gecom– bineerd met drijvende opslag, merk ik op dat - zeker bezien over de wat langere termijn - de kosten die gemoeid zijn met drijvende opslag hoger zijn dan die van opslag op het land. Echter wanneer zich omstan– digheden voordoen die het op zeer korte termijn tijdelijk vergroten van de mestopslagcapaciteit noodzakelijk maken, zou voornoemde optie naar mijn oordeel perspectief kunnen bieden. </antwoord>
+      <antwoord nummer="3">De distributie van mest wordt georganiseerd en voor het grootste deel gefinancierd door het landbouwbedrijfsleven zelf. Het is aan het bedrijfsleven om te beoor– delen of - en in hoeverre - het transport van mest over water perspectieven biedt en of verdere actie ondernomen dient te worden. In dit verband wijs ik erop dat de Stichting Landehjke Mestbank momenteel naar aanleiding van het NIEMA-rapport bestudeert of de in dit rapport genoemde opties een zinvolle bijdrage kunnen leveren aan het huidige distributiebeleid. Ik neem aan dat in dat kader ook zal worden onderzocht in hoeverre een deel van de transporten die thans over de weg worden afgewikkeld, zouden kunnen worden vervangen door vervoer per schip. Indien door het bedrijfsleven wordt besloten tot verdere actie kan bezien worden in hoeverre ondersteuning van Rijkswege past binnen het initiërend en voorwaardenscheppend beleid van de overheid. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001750</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001750&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001750</item>
+         <item attribuut="Document-id">0000012054</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 820</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Van Nieuwenhoven en Schoots (beiden PvdA) over het verstrekken van sofi-nummers aan illegale vreemdelingen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 820</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">820</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Van Nieuwenhoven</persoon>
+            <persoon partij="PvdA">Schoots</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-07-01</item>
+         <item attribuut="Beantwoorder">
+            <persoon>De Vries</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-08-27</item>
+         <item attribuut="Beginpagina">1671</item>
+         <item attribuut="Eindpagina">1672</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1671" allpagenumbers="1671 1672" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="820" onderwerp="het verstrekken van sofi-nummers aan illegale vreemdelingen." indiendatum="1993-07-1">
+         <vrager partij="PvdA" oorsprong="parlement">Van Nieuwenhoven</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Schoots</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-08-27">
+         <antwoorder functie="mmister" ministerie="Sociale Zaken en Werkgelegenheid">De Vries</antwoorder>
+         <mede-antwoorder>de minister en staatssecretaris van Justitie en de staatssecretaris van Financiën</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1 2">Kent u het artikel «lllegaal met sofi-nummer»? <voetnoot nummer="1"/>Worden er nog steeds sofi-nummers verstrekt aan personen zonder legale verblijfstitel? Zo ja, hoe verhoudt dit zich tot het antwoord op eerder gestelde vragen? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="3">Hoeveel illegale vreemdelingen hebben naar schatting nog altijd een sofi-nummer? Hoe wordt getracht te voorkomen dat zij nog langer over een sofi-nummer kunnen beschikken? </vraag>
+      <vraag nummer="4">Verleent het gewestelijke arbeidsbureau geen ontslagvergunning als het voorgenomen ontslag als enkele reden heeft het ontbreken van een geldige verblijfstitel? </vraag>
+      <vraag nummer="5">Heeft het aanbod van werk aan illegale vreemdelingen te maken met onvoldoende controle op de werkgevers, lage sancties voor werkgevers bij tewerkstelling van illegalen in verhouding tot de opbrengst, onvoldoende bereidheid van legaal hier verblijvende werklozen om werk te aanvaarden en onvoldoende sanctionering door sociale diensten en bedrijfsverenigingen bij werkweigering of moeten andere oorzaken worden aangewezen? Bent u bereid en in staat illegale arbeid verder terug te dringen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1993-06-25" bron=" NRC-Handelsblad"> NRC-Handelsblad, 25 juni 1993</noot>
+         <noot nummer="2"> Aanhangsel Handelingen nr. 143, Vergaderjaar 1991-1992</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">De betreffende column van de heer Schöndorff in het NRC Handelsblad van 25 juni 1993 is mij bekend Er worden geen Sofi-nummers meer uitgereikt aan illegaal in Nederland verblijvende personen. Voordat een Sofi-nummer wordt uitgereikt, wordt sinds november 1991 voor personen die niet de nationaliteit van een EG-land bezitten bij de Vreemdelingendienst de verblijfsstatus geverifieerd. </antwoord>
+      <antwoord nummer="3">Het aantal illegale vreemdelingen met een Sofi-nummer in niet bekend. Het betreft hier enerzijds illegale vreemdelingen aan wie voor november 1991 een Sofi-nummer is uitgereikt en die nog steeds in Nederland verblijven. Anderzijds zijn er vreemdelingen die ten tijde van de afgifte van het Sofi-nummer over een vergunning tot verblijf beschikten maar van wie de verblijfstitel inmiddels is verlopen zodat hun eventuele voortgezet verblijf hier te lande illegaal is geworden. Beide groepen beschikken over een formulier waarop hun Sofi-nummer is vermeld. Het bovenstaande betekent dat het enkele feit van het bezit van een Sofi-nummer geen garantie is dat betrokkene een geldige verblijfstitel bezit. Het niet bezitten van een Sofi-nummer is echter voor een werkgever wel een indicatie voor het mogelijk ontbreken van een voor arbeid geldige verblijfstitel; de werkgever zal zich daarbij bewust moeten zijn van zijn verplichtingen mgevolge de Wet arbeid buitenlandse werknemers (Wabw). Een identiteitscontrole is verplicht gesteld in het ontwerp van wet op de identificatieplicht. Op dit moment wordt onderzocht hoe op de meest effectieve wijze kan worden nagegaan welke personen niet over een geldige verblijfstitel beschikken maar wel over een Sofi-nummer. Voorwaarde hiervoor is in ieder geval dat het systeem centrale registratie vreemdelingen volledig operationeel is. Dit zal naar verwachting in het najaar van 1994 het geval zijn. </antwoord>
+      <antwoord nummer="4" voetnoot="1">Sinds 1 januari 1991 berust de arbeidsbureaus dienaangaande is daarop op 22-1-1991 en 24-3-1992 duidelijk geantwoord dat dit mhoudelijk nog steeds onverkort het geval was. De betreffende brieven (bijgevoegd) zijn ook opgenomen in het periodiek bulletin van de afdeling ontslagtaken van mijn ministerie dat aan alle arbeidsbureaus wordt toegezonden. Uit het vorenstaande moge blijken dat mijn standpunt was en is, dat in door vragenstellers bedoelde gevallen in beginsel steeds tot verlening van de ontslagvergunning wordt overgegaan. Ik ga ervan uit, dat de onzekerheid welke op dit punt enige tijd heeft bestaan, thans tot het verleden behoort. Overigens heb ik in de vraagstelling aanleiding gevonden mijn standpunt - naar ik aanneem ten overvloede - nogmaals onder de aandacht van de Regionaal Directeuren te brengen. kan de werkgever immers een tewerkstellingsvergunning aanvragen die hem dan niet kan worden geweigerd. Indien men gebruik maakt van illegalen, wil men klaarblijkelijk voordelen behalen die het daglicht van een officiële tewerkstellingsvergunning niet kunnen verdragen. Het gaat dan meestal om verregaande onderbetaling en uitbuiting, arbeid in strijd met de wettelijke arbeidstijden of arbeid in strijd met de arbeidsomstandighedenwet. In de hierboven gememoreerde nota inzake de bestrijding van illegale tewerkstelling zal hierop nader worden ingegaan aan de hand van de resultaten van een nog lopend onderzoek van het Nederlands Economisch Instituut. <voetnoot nummer="1"/> TK 1990-1991,22146, nr. 1. In het rapport van de Commissie Zeevalking inzake het binnenlandse vreemdelingentoezicht is reeds op deze problematiek gewezen. In de regeringsreactie  1  daarop is uitgebreid op het regeringsbeleid terzake ingegaan. Sindsdien is dit beleid ook in uitvoering genomen. De richtlijn van de procureurs-generaal over de sancties bij overtreding van de Wabw is vanaf medio 1992 aanzienlijk verscherpt. Voorts is een wijziging van het Wetboek van Strafrecht aanhangig waarin de tewerkstelling van illegale vreemdelingen als misdrijf wordt aangemerkt. De principebeslissing tot uitbreiding van de Dienst Inspectie Arbeidsverhoudingen is </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19901991:0000938</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0000938&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19901991:0000938</item>
+         <item attribuut="Document-id">0000027275</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1990-1991 nummer 7</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Kohnstamm (D66) over klachten over de handelwijze van de SILA.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1990-1991 nummer 7</item>
+         <item attribuut="Jaargang">1990_1991</item>
+         <item attribuut="Vraagnummer">7</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Kohnstamm</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-08-27</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Dales</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-09-20</item>
+         <item attribuut="Beginpagina">15</item>
+         <item attribuut="Eindpagina">16</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1990-1991" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="15" allpagenumbers="15" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1990-1991, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="SDU uitgevenj 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="Vragen" onderwerp="klachten over de handel– wijze van de SILA." indiendatum="1990-08-27">
+         <vrager partij="D66" oorsprong="parlement">Kohnstamm</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-09-20">
+         <antwoorder functie="minister" ministerie="Binnenlandse Zaken">Dales</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1 2">Hebt u kennis genomen van het feit dat bij het Humanistische Verbond en bij de Stichting Waakzaamheid Persoonsregistratie ca. 100 klachten zijn binnengekomen over de handel– wijze van de SILA <voetnoot nummer="1"/>, en daarover bij de SILA zelf duizenden klachten zijn gedeponeerd? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="2">a. Blijkt uit deze klachten onder andere dat via de bevolkingsadmini– stratie namen en adressen van burgers zijn doorgegeven aan de SILA en vervolgens aan onder andere de Nederlands Hervormde Kerk, uitsluitend op grond van het feit dat zij familie zijn van, dan wel gehuwd zijn met iemand, die in de bevolkingsadministratie geregi– streerd staat als zijnde in casu Nederlands Hervormd. b. Komt het voor dat ook burgers, waarvan de persoonskaart bij de bevolkingsadministratie vermeldt «geen kerkgenootschap» door de SILA worden aangeschreven? </vraag>
+      <vraag nummer="3">Hoe verhouden zich de genoemde klachten tot de voorwaarden, verbonden aan de aan de SILA verstrekte subsidie ad circa 16 miljoen gulden? Is er strijd tussen de ingediende klachten enerzijds en de toezegging van de SILA anderzijds, dat zij de van de bevolkingsadministratie verkregen gegevens zorgvuldig zou vergelijken met gegevens, welke reeds bij de kerkgenootschappen aanwezig zijn, alvorens tot verzending van brieven aan burgers over te gaan? </vraag>
+      <vraag nummer="5">Bent u van oordeel dat u op basis van de langdurige en intensieve politieke discussie over de wijze van opbouw van de interkerkelijke leden– administratie via de bevolkingsadmi– nistratie alsmede het actualiseren van die ledenadministraties direct of indirect via de GBA , een eigen verantwoordelijkheid hebt ten aanzien van deze feiten? Zo ja, welke stappen bent u voornemens terzake te ondernemen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="3"/>
+         <noot nummer="1"> SILA = Stichting Interkerkelijke Ledenad ministratie</noot>
+         <noot nummer="2"> Zie de Volkskrant van 23 augustus jl</noot>
+         <noot nummer="3"> GBA  = -Gemeentelijke Bevolkingsadmini– stratie</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Desgevraagd hebben de Stichting Waakzaamheid Persoonsregistratie en het Humanistisch Verbond mij bevestlgd dat zij een honderdtal klachten hebben gekregen. Deze klachten zijn voor het merendeel telefonisch binnengekomen. De SILA deelde mij dienaangaande het volgende mede: «Als onderdeel van het SILA-project vindt een persoonlijke verificatiepro– cedure plaats. Daardoor ontvangt iedere persoon, die in de ledenregis– tratie van een deelnemend kerkge– nootschap voorkomt en als zodanig ook in het SILA-bestand is opgenomen, van deze registraties in een persoonlijke brief bericht. Tegelijk wordt in die brief de mogelijkheid aangeboden een verklaring van bezwaar terug te sturen tegen opname in het SILA-bestand. Om te voorkomen dat in de toekomst gegevens uit de bevolkingsadministratie aan de SILA als gemachtigde van een kerkge– nootschap worden verstrekt, wordt tegelijk aangeboden de SILA te machtigen aan de gemeente te verzoeken de aanduiding kerkge– nootschap op de persoonskaart door te halen. Tot nu toe zijn ruim drie miljoen persoonlijke brieven verzonden aan personen, die staan geregistreerd in de ledenadministratie van de Neder– landse Hervormde Kerk. Verzending aan personen die staan geregistreerd bij de andere deelnemende kerkge– nootschappen is recent van start gegaan. Ruim 10% van de aange– schreven personen zendt een verklaring van bezwaar tegen opname in het SILA-bestand en machtigt de SILA om bij de gemeenten de aanduiding kerkge– nootschap op de persoonskaart door te halen. Van de tot nu toe ontvangen verklaringen van bezwaar N.H. Kerk uitsluitend gebruik is gemaakt van het bestaande geauto– matiseerde bestand van dit kerkge– nootschap. De SILA heeft daartoe geen gegevens van de bevolkingsad– ministratie ontvangen. De admini– stratie van de N.H. Kerk omvat tevens gezinsleden van lidmaten. Het is derhalve mogelijk dat burgers waarvan de persoonskaart bij de bevolkingsadministratie vermeldt «geen kerkgenootschap» door de SILAworden aangeschreven. Ten aanzien van de andere aan SILA deelnemende kerkgenootschappen worden uitsluitend gegevens aan gemeenten gevraagd van die burgers, die in de bevolkingsboek– houding een aantekening hebben van dat kerkgenootschap. aantekening hebben van het desbe– treffende kerkgenootschap, worden de bestanden vanuit de SILA aangewend voor de persoonlijke verificatie bij de burger. </antwoord>
+      <antwoord nummer="5">Mijn verantwoordelijkheid ten aanzien van dit vraagstuk is tweeërlei. Allereerst zie ik toe op de goede uitvoering van het Besluit bevolkingsboekhouding. Ten tweede zie ik toe op de goede uitvoering van de afspraken die in 1986 zijn gemaakt tussen het toenmalige kabinet en de SILA. Vanuit beide rollen zie ik geen reden om stappen te ondernemen. Ten aanzien van een overzicht van de voorwaarden die gesteld zijn inzake de verstrekking van een eenmalige bijdrage aan de SILA verwijs ik naar de nota naar aanleiding van het eindverslag van de begrotingswet waar de eenmalige bijdrage op is gebaseerd (Tweede Kamer, verga– derjaar 1987-1988, 20 229, nr. 7, p. 2). Deze voorwaarden hebben met name betrekking op het afleggen van rekening en verantwoording over de uitgaven van de SILA in het kader van de opbouw van de ledenadmini– stratie. Ik zie vooralsnog geen relatie tussen deze financieel-technische voorwaarden en de klachten. </antwoord>
+      <antwoord nummer="4">De SILA heeft mij hierover medege– deeld dat ten behoeve van de N.H. Kerk in het kader van de SILA geen </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

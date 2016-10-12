@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19941995:0000589</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000589&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19941995:0000589</item>
+         <item attribuut="Document-id">0000000589</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1994-1995 nummer 254</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Keur en Blaauw (beiden VVD) over de werking van artikel 9, derde lid van de Luchtvaartwet.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1994-1995 nummer 254</item>
+         <item attribuut="Jaargang">1994_1995</item>
+         <item attribuut="Vraagnummer">254</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Keur</persoon>
+            <persoon partij="VVD">Blaauw</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-11-30</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Jorritsma-Lebbink</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-12-09</item>
+         <item attribuut="Beginpagina">509</item>
+         <item attribuut="Eindpagina">510</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1994-1995" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="509" allpagenumbers="509 510" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1994-1995, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="'s Gravenhage 1994"/>
+      <vraagdata vraagnummer="254" onderwerp="de werking van artikel 9, derde lid van de Luchtvaartwet." indiendatum="1994-11-30">
+         <vrager partij="VVD" oorsprong="parlement">Keur</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Blaauw</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-12-9">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">Jorritsma-Lebbink</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="6">
+      <vraag nummer="1" voetnoot="1">Is het u bekend dat artikel 9, derde lid van de Luchtvaartwet en de Regeling Gelijkstelling buitenlandse bewijzen van bevoegdheid <voetnoot nummer="1"/>, Nederlandse privévliegers, die tevens ingezetene zijn, achterstellen ten opzichte van Nederlandse vliegers die elders domicilie hebben gekozen, doordat van deze laatste vliegers geen geldig Nederlands bewijs van bevoegdheid of van gelijkstelling wordt geëist bij het bedienen van buitenlandse luchtvaartuigen boven Nederland? Hoe wordt deze regel in de praktijk nageleefd? </vraag>
+      <vraag nummer="2" voetnoot="2">Waarom wordt dit onderscheid tussen ingezetenen en niet-ingezetenen in de Luchtvaartwet gemaakt? Is het zijn van ingezetene een relevant onderscheidend criterium bij het bepalen of een vlieger al of niet de specifieke Nederlandse luchtvaartomstandigheden kent <voetnoot nummer="2"/>? Zo neen, heeft deze bepaling dan niet een discriminerende werking voor Nederlandse vliegers die tevens ingezetene zijn? Wordt de naleving van deze regel in de praktijk omzeild doordat vliegers elders domicilie kiezen? Hoe wordt deze regeling in de praktijk door vliegers ervaren? </vraag>
+      <vraag nummer="3" voetnoot="3">Is het u bekend dat artikel 9, derde lid van de Luchtvaartwet in de praktijk gevaarlijke situaties veroorzaken doordat bijvoorbeeld Nederlandse privévliegers met buitenlands geregistreerde vliegtuigen en buitenlandse brevetten, die vanuit andere landen naar Nederland vliegen, gedwongen zijn onder VFR-condities boven Nederland te vliegen en te landen terwijl op dat moment IFR-condities geïndiceerd <voetnoot nummer="3"/>zijn? Bent u bereid om maatregelen te nemen zodat onder deze omstandigheden vliegers toch onder de veiliger IFR-condities kunnen vliegen? </vraag>
+      <vraag nummer="4">Welke andere ICAO lidstaten kennen een dergelijke bepaling? Is er bij de ICAO draagvlak te vinden voor deze wettelijke bepaling? Welke verdragsverplichtingen is Nederland aangegaan met betrekking tot de wederzijdse erkenning van buitenlandse vliegbrevetten? Hoe zijn deze geïmplementeerd in Nederlandse wetgeving? </vraag>
+      <vraag nummer="5">Kunt u aangeven hoeveel vliegers, die tevens ingezetene zijn, boven Nederland vliegen en hoeveel Nederlandse vliegers met buitenlandse brevetten boven Nederland vliegen? Zo neen, waarom zijn deze gegevens niet bekend? </vraag>
+      <vraag nummer="6">Bent u, gezien het voorgaande, bereid om de werking van artikel 9, derde lid van de Luchtvaartwet op te schorten of op termijn voor een meer adequate juridische regeling te zorgen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Besluit van 27 juli 1993, L93.007188</noot>
+         <noot nummer="2" datum="1998-09-7" bron=" Handelingen 1987-1988"> Handelingen 1987-1988, 7 september 1998, blz. 5694</noot>
+         <noot nummer="3"> Deze omstandigheid doet zich voor als er boven Nederland een overcast wolkenbasis van 550 ft. hangt en een vliegzicht van 1,5 a 2,0 km aanwezig is. Dit zijn nog net VFR-condities maar een privévlieger die over de bevoegdheid beschiktom onder IFR-condities te vliegen zal er de voorkeur aan geven om onder de veiliger IFR-regels te vliegen, bijvoorbeeld omdat die hem een grotere vlieghoogte toestaan. Indien hij over buitenlandse brevetten beschikt die hem een IFR bevoegdheid geven, mag hij door deze regel daarvan boven Nederland geen gebruik maken. VFR = Vision Flight Rules IFR = Instrument Flight Rules</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Zie vraag 6. verkeersvliegers. Het aantal Nederlandse vliegers met buitenlandse brevetten is niet bekend; enerzijds wordt dit veroorzaakt doordat er op de betrokkenen geen plicht rust om hiervan melding te doen en anderzijds omdat zij op buitenlands geregistreerde vliegtuigen vliegen waarop de Rijksluchtvaartdienst geen toezicht heeft. Aangenomen wordt echter dat het om betrekkelijk geringe aantallen vliegers gaat. </antwoord>
+      <antwoord nummer="6">(gecombineerd antwoord vragen 1, 2, 4 en  6). Artikel 9, derde lid is indertijd in de Luchtvaartwet opgenomen om te voorkomen dat Nederlanders zich met gebruikmaking van een in het buitenland geregistreerd luchtvaartuig en in het bezit van een buitenlands bewijs van bevoegdheid zouden onttrekken aan hettoezicht van de nationale luchtvaartautoriteiten. Bij nader inzien blijkt deze bepaling echter minder gelukkig te zijn. Daarom is bij de thans lopende herziening van de luchtvaartwetgeving, waarbij alle regelgeving wordt heroverwogen en waarvan het eerste wetsvoorstel binnenkort wordt aangeboden aan de Ministerraad, de betrokken bepaling niet overgenomen en uit de huidige Luchtvaartwet geschrapt. Naar het zich thans laat aanzien, zal dit wetsvoorstel u medio 1995 worden aangeboden. Wanneer het voorstel eenmaal kracht van wet heeft gekregen, zal ook de Gelijkstellingsregeling worden </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

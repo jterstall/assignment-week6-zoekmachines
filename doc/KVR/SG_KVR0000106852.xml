@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001077</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001077&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001077</item>
+         <item attribuut="Document-id">0000106852</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 44</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Leerling (R.P.F.) over de verspreiding van een meldingsformulier euthanasie binnen het politie-apparaat.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 44</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">44</item>
+         <item attribuut="Indiener">
+            <persoon partij="RPF">Leerling</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-06-19</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Korthals Altes</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-10-06</item>
+         <item attribuut="Beginpagina">85</item>
+         <item attribuut="Eindpagina">86</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 6 - 1 9 8 7 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="44" onderwerp="de verspreiding van een meldingsformulier euthanasie binnen het politie-apparaat." indiendatum="19 juni 1986)">
+         <vrager partij="RPF" oorsprong="parlement">Leerling</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1 ">Dragen de ministers kennis van de  verspreiding binnen het politie-appa- raat van een meldingsformulier  waarin de dader een verklaring aflegt  betreffende toepassing van euthana- sie?  Sedert wanneer wordt deze werkwijze  gevolgd? Gaat het hier om een  nieuwe politie-taak?  </vraag>
+      <vraag nummer="3 ">Vervult dit meldingsformulier de  functie van een proces-verbaal?  </vraag>
+      <vraag nummer="4 ">Welke voorzieningen zijn getroffen  voor politiemensen, die afwijzend  staan tegenover toepassing van  euthanasie, dan wel door het gebruik  van dit meldingsformulier in gewe- tensnood kunnen komen?  </vraag>
+      <vraag nummer="5 ">Circuleren er meerdere versies van  dit meldingsformulier? Zo neen, aan  de hand van welke criteria is tot de  huidige vraagstelling besloten? Zo ja,  hoe luiden die andere versies?  </vraag>
+      <vraag nummer="6 ">Sinds wanneer wordt dit formulier  verspreid, door wie en onder welke  instanties of personen?  W i e kunnen  als rapporteur optreden?  Hoeveel meldingen zijn sinds de  aanvang van de verspreiding bij de  officieren van Justitie ingevuld  binnengekomen? Zijn meldingen door  anderen ontvangen?  </vraag>
+      <vraag nummer="8 ">Welke funktie vervult een dergelijke  melding bij het besluit van de officier  van Justitie om al dan niet tot  vervolging over te gaan?  W o r d t de  Inspecteur voor de Volksgezondheid  bij de besluitvorming betrokken?  </vraag>
+      <vraag nummer="9 ">Aan welke criteria moet tenminste  zijn voldaan  o m niet tot vervolging  over te gaan?  Welke beslissingen omtrent het al  dan niet overgaan tot vervolging zijn  tot op heden door de Officieren van  Justitie genomen op de binnengeko- men meldingen?  Vragensteller heeft ten behoeve van  de Minister een exemplaar van het  formulier bijgevoegd.  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

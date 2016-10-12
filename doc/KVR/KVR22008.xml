@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="10">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Straub en Van Heemst (beiden PvdA) aan de minister van Binnenlandse Zaken en Koninkrijksrelaties over zodanige storingen bij elektronische aangifte bij de politie dat het regiopolitiekorps Haaglanden weer terug zal keren naar haar eigen applicatie. (Ingezonden 11 november 2004); Antwoord</item>
+         <item attribuut="Bestand">19Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR22008
+</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van een bericht in de Haagsche Courant van 9 november 2004 dat het doen van aangifte per internet bij de politie Haaglanden in de praktijk niet goed verloopt omdat het nieuwe landelijke systeem regelmatig 'uit de lucht is'.</item>
+         <item attribuut="Rubriek">Communicatie, media en informatievoorziening (Netwerken) Criminaliteit en openbare orde (Politie)</item>
+         <item attribuut="Trefwoorden">Internet Politie</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2004-2005, nr. 730, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2040503180</item>
+         <item attribuut="Afkomstig_van">Binnenlandse Zaken en Koninkrijksrelaties (BZK)</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Straub</persoon>
+            <persoon partij="PvdA">Van Heemst</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2005-01-17</item>
+         <item attribuut="Datum_indiening">2004-11-11</item>
+         <item attribuut="Document-id">KVR22008</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2004–2005" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1543" allpagenumbers="1543 1544" vetnummer="2040503180" code="0405tkkvr730" lopendefooter="Tweede Kamer, vergaderjaar 2004–2005, Aanhangsel" filenaam="KVR22008" issn-nummer="ISSN 0921 - 7398" uitgever="SduUitgevers ’s-Gravenhage 2005"/>
+      <vraagdata vraagnummer="730" onderwerp="" indiendatum="2004-11-11">
+         <vrager partij="PvdA" oorsprong="parlement">Straub</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Van Heemst</vrager>
+         <vraagt-aan>de minister van Binnenlandse Zaken en Koninkrijksrelaties</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2005-01-17">
+         <antwoorder functie="minister" ministerie="Binnenlandse Zaken en Koninkrijksrelaties">Remkes</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="10">
+      <vraag nummer="1" voetnoot="1">Hebt ukennisgenomen van de berichtgeving dat het doen van aangiften per internet bij de politie Haaglanden in de praktijk niet goed blijkt te verlopen omdat het nieuwe landelijke systeem regelmatig «uit de lucht is»? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Waaraan zijn de gesignaleerde problemen toe te schrijven? </vraag>
+      <vraag nummer="3">Is het korps Haaglanden een pilot korps voor de elektronische aangifte of betreft het een «normale» uitrol van een in een «pilotfase» geteste applicatie? </vraag>
+      <vraag nummer="4">Heeft uitsluitend het korps Haaglanden onder de gesignaleerde problemen te leiden of doen deze problemen zich bij korpsen voor? Zo ja, welke korpsen zijn dat dan? </vraag>
+      <vraag nummer="5">Waarom slaagt het concern informatiemanagement politie (CIP) er niet in om in korte tijd een betrouwbare en stabiele versie van de elektronische aangifte-applicatie te leveren? </vraag>
+      <vraag nummer="6">Wanneer verwacht het CIP een betrouwbare versie te kunnen leveren? </vraag>
+      <vraag nummer="7" voetnoot="2">Wat is uw oordeel over de brief van de burgemeester van Den Haag aan de voorzitter van de commissie Veiligheid en Bestuur van de gemeente Den Haag waarin hij aankondigt dat de politie Haaglanden maatregelen heeft getroffen om de bestaande eigen applicatie van dat korps, die tot 1 juli 2004 in gebruik was, voor het eind van het jaar weer operationeel te laten zijn? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="8">Staat utoe dat het korps Haaglanden weer gaat werken met de eigen applicatie? Zo ja, waarom? Zo neen, wat gaat udaartegen ondernemen? </vraag>
+      <vraag nummer="9">Zijn er meer korpsen die overwegen hun oude applicatie weer in gebruik te nemen? Zo ja, welke korpsen zijn dat dan? </vraag>
+      <vraag nummer="10">Welke gevolgen heeft de geconstateerde problematiek voor zowel uw vertrouwen in de applicaties die door het CIP worden geleverd, als voor het vertrouwen van het gebruikersveld binnen en buiten de politie? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="2004-11-9" bron="Haagsche Courant" titel="Storingen bij elektronische aangifte politie">Haagsche Courant, 9 november 2004: «Storingen bij elektronische aangifte politie»</noot>
+         <noot nummer="1" datum="2004-11-5" bron="Brief van de burgemeester van Den Haag, kenmerk BSD/2004.3289 – RIS 121591">Brief van de burgemeester van Den Haag, kenmerk BSD/2004.3289 – RIS 121591, 5 november 2004</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="10">
+      <antwoord nummer="1">Ja, daar heb ik kennis van genomen. </antwoord>
+      <antwoord nummer="2">De storingen zijn vrijwel uitsluitend technisch van aard geweest en betreffen in principe alle korpsen. De mate van problemen hing wel onder andere af van het aantal aangiftes dat een korps te verwerken krijgt. Inmiddels is een deel van de problemen verholpen en zijn CIP en ISC hard bezig om de overige problemen op korte termijn op te lossen. </antwoord>
+      <antwoord nummer="3">In feite betreft het een normale uitrol, met die kanttekening dat Haaglanden het eerste (en enige) korps is dat gebruik maakt van het systeem Genesys en dat er met betrekking tot de koppeling met dat systeem dus in feite sprake is van een pilot. Daarnaast ligt in Haaglanden het aantal Internet aangiftes veel hoger dan bij de korpsen die tot op heden zijn aangesloten. </antwoord>
+      <antwoord nummer="4">Een deel van de gesignaleerde problemen doen zich ook in andere korpsen voor, een deel niet of in mindere mate. Een deel van de problemen zijn generiek, andere weer regio-specifiek of zijn minder ernstig. Een factor die bij sommige problemen mee speelt is de hoeveelheid aangiften die in de betreffende regio per dag worden gedaan via het internet. </antwoord>
+      <antwoord nummer="5">Ik ben van mening dat het CIP hier wel in slaagt. Het project Internet aangifte heeft in feite goed gepresteerd. Het heeft in korte tijd een landelijke uniforme voorziening aan het publiek en aan de korpsen opgeleverd. Deze voorziening is met, door én voor de politie en het publiek gerealiseerd in een werkveld (het internet) waar de politie tot voor kort weinig tot geen ervaring in had. De voorziening is op tijd en volgens afspraken opgeleverd. Uiteraard is de Internet aangifte voorziening nog niet volledig uitontwikkeld. De storingen die zijn opgetreden zijn voor zowel CIP als ISC aanleiding om met hoge prioriteit een aantal technische verbeteringen op korte termijn door te voeren. Dit om de dienstverlening naar het publiek en de politie stabieler en betrouwbaarder te maken. </antwoord>
+      <antwoord nummer="6">Binnen enkele maanden verwacht het CIP dat alle problemen m.b.t. de stabiliteit en betrouwbaarheid zijn opgelost. </antwoord>
+      <antwoord nummer="7">Ik heb er begrip voor dat het korps de belangen van de burger voorop stelt en zolang de landelijke voorziening nog niet optimaal functioneert haar eigen voorziening gebruikt. Ik ga er echter vanuit dat het korps Haaglanden participeert in de landelijke voorziening, zodra de technische problemen met de landelijke voorziening zijn opgelost. Ik zal het korps hier zo nodig op aanspreken. </antwoord>
+      <antwoord nummer="8">Zolang de landelijke voorziening met problemen kampt, heb ik er geen problemen mee dat Haaglanden tijdelijk gaat werken met een eigen systeem. Voor de lange termijn ga ik ervan uit dat alle korpsen, dus ook Haaglanden, participeren in de landelijke voorziening. </antwoord>
+      <antwoord nummer="9">Voor zover mij bekend overweegt geen van de korpsen de oude applicatie opnieuw in gebruik te nemen. </antwoord>
+      <antwoord nummer="10">Ik heb er vertrouwen in dat de geconstateerde technische problemen binnen korte termijn zijn opgelost. Verder ga ik ervan uit dat de geconstateerde problemen het vertrouwen van het gebruikersveld binnen en buiten de politie niet hebben aangetast. Ook andere (commerciële) organisaties hebben immers wel eens technische problemen met hun website. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

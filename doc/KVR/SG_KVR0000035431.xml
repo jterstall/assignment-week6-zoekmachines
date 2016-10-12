@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="mijn antwoord te doen toekomen." aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19891990:0001024</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001024&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001024</item>
+         <item attribuut="Document-id">0000035431</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 103</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Wolffensperger (D66) over vermindering van het aantal uit te schrijven bekeuringen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 103</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">103</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Wolffensperger</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-10-12</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Korthals Altes</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-11-02</item>
+         <item attribuut="Beginpagina">213</item>
+         <item attribuut="Eindpagina">214</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="213" allpagenumbers="213" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 921 7398" uitgever="SDU uitgeverij 's Gravenhage 1989"/>
+      <vraagdata vraagnummer="103" onderwerp="vermindering van het aantal u/t te schrijven bekeuringen." indiendatum="1989-10-12">
+         <vrager partij="D66" oorsprong="parlement">Wolffensperger</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1">Heeft de officier van justitie in het arrondissement Den Bosch circa 6300 processen verbaal inzake verkeersovertredingen geseponeerd wegens een te grote achterstand van behandeling op het parket? Zo ja, op welke gronden, ontleend aan het algemeen belang, zijn deze sepots verleend?' </vraag>
+      <vraag nummer="2">Heeft het Openbaar Ministerie in Den Bosch de politie verzocht het aantal bekeuringen, met name voor fout parkeren, door rood licht rijden en het niet dragen van autogordels, met circa 30% terug te brengen? </vraag>
+      <vraag nummer="3" voetnoot="2">Zijn deze maatregelen het resultaat van het door u genoemde overleg <voetnoot nummer="2"/>tussen de procureurs-generaal ten aanzien van de gesignaleerde knelpunten? Zo neen, wanneer zijn resultaten van dat overleg te verwachten? Waarom zijn de uitkomsten van dat overleg niet afgewacht? </vraag>
+      <vraag nummer="4">Zijn de voorgenomen maatregelen op het parket te Den Bosch besproken in het reguliere driehoeks– overleg tussen burgemeester(s), politie en justitie? Zo neen, waarom niet? Zijn er inmiddels ook arrondisse– menten, die vooruitlopend op het bovengenoemde overleg maatre– gelen hebben genomen ter vermin– dering van de werkdruk bij de parketten? Zo ja, houden die maatre– gelen ook in het verhogen van het aantal sepots en het verminderen van het aantal bekeuringen? </vraag>
+      <vraag nummer="6">Deelt u de mening, dat bovenge– noemde werkwijze schadelijk is voor de motivatie van politiemensen, die hun werk goed willen doen en voor de geloofwaardigheid van de rechts– handhaving? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1989-10-11" bron=" Algemeen Dagblad"> Algemeen Dagblad, 11 oktober 1989</noot>
+         <noot nummer="2"> Aanhangsel Handelingen nr. 851, Verga– derjaar 1988-1989 Mededeling Altes (Justitie). (Ontvangen 2</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+   <mededeling mededeler="Korthals Altes" functie="minister" afdeling="Justitie" mededelingdatum="1989-11-2">Mededeling van minister Korthals Altes (Justitie). (Ontvangen 2 november 1989) Met verwijzing naar uw brief van 13 oktober 1989 deel ik u mee dat de vragen van het lid van uw Kamer Wolffensperger over vermindering van het aantal uit te schrijven bekeu– ringen niet binnen de gebruikelijke termijn kunnen worden beantwoord, omdat ik nog niet beschik over alle benodigde inlichtingen. Ik streef ernaar u voor 21 november 1989 </mededeling>
+</kvr>

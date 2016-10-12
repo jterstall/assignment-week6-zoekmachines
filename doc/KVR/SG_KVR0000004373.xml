@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="dit ambtsbericht plaatsvinden." aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0001862</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001862&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001862</item>
+         <item attribuut="Document-id">0000004373</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 648</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Oedayraj Singh Varma (GroenLinks) over particuliere inlichtingendiensten.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 648</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">648</item>
+         <item attribuut="Indiener">
+            <persoon partij="GroenLinks">Oedayraj Singh Varma</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-06-16</item>
+         <item attribuut="Beantwoorder">
+            <persoon>De Graaff-Nauta</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-07-13</item>
+         <item attribuut="Beginpagina">1315</item>
+         <item attribuut="Eindpagina">1316</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1315" allpagenumbers="1315" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="s Gravenhage 1994"/>
+      <vraagdata vraagnummer="648" onderwerp="particuliere inlichtingendiensten." indiendatum="1994-06-16">
+         <vrager partij="GroenLinks" oorsprong="parlement">Oedayraj Singh Varma</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Heeft Paul Pieter 0. onder de schuilnaam Marcel Paul Knotter de afgelopen jaren informatie van Derde-Wereldorganisaties, belangenorganisaties en actiegroepen doorgesluisd naar het particuliere bewakingsbedrijf Algemene Beveiligings Consultants (ABC) te Vinkeveen, een bedrijf dat zich volgens de statuten bezighoudt met «recherchewerkzaamheden op strafrechtelijk en privaatrechtelijk gebied voor bedrijfsleven en overheden»? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Beschikt het bedrijf ABC over een vergunning om dergelijk inlichtingenwerk te mogen verrichten? </vraag>
+      <vraag nummer="3">Zo ja, op grond van welke wetgeving? </vraag>
+      <vraag nummer="4">Zo neen, bent u van plan actie te ondernemen tegen het bedrijf? </vraag>
+      <vraag nummer="5">Welke recherchewerkzaamheden heeft ABC verricht voor de overheid? Wat was de aard van dit werk? Wie was of waren de opdrachtgever(s)? Wat is uw mening over het bestaan van particuliere inlichtingendiensten, die hun diensten voornamelijk verrichten voor bedrijven en waarop op geen enkele wijze democratische controle kan worden uitgeoefend? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" titel="Onze Wereld"> «Onze Wereld», juli/augustus 1994</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+   <mededeling mededeler="De Graaff-IMauta" functie="minister" afdeling="Binnenlandse Zaken" mededelingdatum="1994-07-13">Mededeling van minister De Graaff-IMauta (Binnenlandse Zaken), mede namens de minister van Justitie. (Ontvangen 13 juli 1994) Mede namens de minister van Justitie deel ik u mee, dat het tot mijn spijt niet mogelijk is de schriftelijke vragen van het lid Oedayraj Singh Varma, over particuliere inlichtingendiensten ingezonden op 17 juni 1994, binnen de gestelde termijn te kunnen beantwoorden, aangezien het door de minister van Justitie gevraagde ambtsbericht nog niet is ontvangen. Beantwoording zal zo spoedig mogelijk na ontvangst van </mededeling>
+</kvr>

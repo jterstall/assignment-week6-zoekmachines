@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19851986:0001587</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001587&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001587</item>
+         <item attribuut="Document-id">0000115147</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1985-1986 nummer 666</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Lankhorst (P.P.R.) over de brochure «Wet studiefinanciering».</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1985-1986 nummer 666</item>
+         <item attribuut="Jaargang">1985_1986</item>
+         <item attribuut="Vraagnummer">666</item>
+         <item attribuut="Indiener">
+            <persoon partij="PPR">Lankhorst</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-04-17</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Deetman</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-04-28</item>
+         <item attribuut="Beginpagina">1323</item>
+         <item attribuut="Eindpagina">1324</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1985-1986 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 5 - 1 9 8 6 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="666" onderwerp="" indiendatum="">
+         <vrager partij="PPR" oorsprong="parlement">Lankhorst</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="28 april 1986)">
+         <antwoorder functie="minister" ministerie="Onderwijs en Wetenschappen">D e e t m a n</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1 ">Hebt u kennis genomen van de door  uw ministerie uitgegeven brochure  «Wet studiefinanciering» en de  daarin vermelde mededeling, dat aan  de brochure geen rechten mogen  worden ontleend, maar alleen aan de  wettekst?  riseerde wettekst niet altijd juridisch  sluitend is, wordt daar doorgaans bij  vermeld dat er geen rechten aan  kunnen worden ontleend. Volledig- heidshalve is daarbij in deze brochure  ook opgenomen, hoe men in het  bezit kan komen van de integrale  wettekst. Het is gebruikelijk dat de  Staatsuitgeverij voor de toezending  van wetteksten kosten in rekening  brengt.  Overigens zal bij een herdruk van  de brochure aan dit punt aandacht  worden besteed.  Is het waar, dat mensen, die naar  aanleiding van die brochure de tekst  van de wet aanvragen, een rekening  ontvangen, terwijl dat niet uit de  brochure blijkt?  </vraag>
+      <vraag nummer="3 ">Acht u het billijk, dat aanvragers op  deze manier eerst worden aangezet  om de wettekst te bestellen en  vervolgens de rekening aangeboden  krijgen?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="1">
+      <antwoord nummer="1 ">Ja.  2 en 3  De brochure «Wet Studiefinanciering»  is gemaakt om iedere belanghebben- de op begrijpelijke wijze in te lichten  over het nieuwe stelsel van studiefi- nanciering. De belangrijkste informa- </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

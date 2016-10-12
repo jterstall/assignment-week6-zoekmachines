@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19851986:0001625</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001625&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001625</item>
+         <item attribuut="Document-id">0000115185</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1985-1986 nummer 704</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Kombrink en Vermeend (beiden P.v.d.A.) over de inzetbaarheid van de administratie op verscheidene inspecties der belastingen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1985-1986 nummer 704</item>
+         <item attribuut="Jaargang">1985_1986</item>
+         <item attribuut="Vraagnummer">704</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Kombrink</persoon>
+            <persoon partij="PvdA">Vermeend</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-04-11</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Koning</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-05-15</item>
+         <item attribuut="Beginpagina">1399</item>
+         <item attribuut="Eindpagina">1400</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1985-1986 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 5 - 1 9 8 6 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="704" onderwerp="de inzetbaarheid van de administratie op verscheidene inspecties der belastin- gen." indiendatum="11 april 1986)">
+         <vrager partij="PvdA" oorsprong="parlement">Kombrink</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Vermeend</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="15 mei 1986)">
+         <antwoorder functie="staatssecretaris" ministerie="Financiën">Koning</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1 ">Ligt op verscheidene inspecties der  belastingen de werkelijke inzetbaar- heid van de administratie aanzienlijk  (25% en meer) beneden de begro- tingsformatie?  </vraag>
+      <vraag nummer="2 ">Zo ja, is daarvan het gevolg, dat  keuzes moeten worden gemaakt  inzake wel of niet te verrichten  werkzaamheden?  Wilt u per inspectie van de inzetbaar- heid een overzicht verschaffen?  Leidt een en ander er toe, dat  besloten wordt of kan worden, de  voorlopige aanslagen achterwege te  laten, dan wel uit te stellen en dat  daardoor de heffing van belasting  wordt vertraagd, met alle financiële  gevolgen van dien?  </vraag>
+      <vraag nummer="5 ">Werkt dit ook door naar 1987 ten  gevolge van de geautomatiseerde  vaststelling van voorlopige aanslagen  op basis van historische gegevens?  </vraag>
+      <vraag nummer="6 ">In hoeveel inspecties is sprake van  een dergelijke besluitvorming, of  voornemens daartoe?  </vraag>
+      <vraag nummer="8 ">Zo neen, welke maatregelen zult u  nemen om te voorkomen, dat aan de  voorlopige aanslagregeling afbreuk  wordt gedaan?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1 ">In de aan de berekening van de  begrotingsformatie ten grondslag  liggende normen wordt rekening  gehouden met een verminderde  inzetbaarheid van circa 24% (verlof,  ADV, ziekte e.d.) Uit de rapportages  van de inspecties over 1985 is  gebleken dat de feitelijke verminderde  inzetbaarheid ongeveer 25% heeft  bedragen. Aangezien de werkelijke  bezetting van de administraties van  de inspecties der directe belastingen  over 1985 niet lager was dan de  begrotingsformatie, is de veronder- stelling die is neergelegd in de vraag  niet juist.  2 en 4  Uit het antwoord op de eerste vraag  moge duidelijk zijn dat de werkzaam- heden, inclusief de voorlopige  aanslagregeling, op de bedoelde  administraties normaal doorgang  kunnen vinden. Overigens merk ik op  dat, ook indien zich wel problemen  zouden voordoen, aan de voorlopige  aanslagregeling, gezien het budgettai- re belang, de hoogste prioriteit wordt  toegekend.  </antwoord>
+      <antwoord nummer="3 ">feitelijke niet-inzetbaarheid acht ik  het verstrekken van gegevens per  inspectie niet zinvol.  5 t/m 8  Gezien hetgeen bij de beantwoording  van de vragen 1 t/m 4 is opgemerkt  behoeven deze vragen geen beant  woording meer.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="kunnen vinden?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001595</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001595&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001595</item>
+         <item attribuut="Document-id">0000036002</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 672</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Lankhorst en Beckers-de Bruijn (beiden Groen Links) over een wijziging van het streekplan Zuid-Holland West.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 672</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">672</item>
+         <item attribuut="Indiener">
+            <persoon partij="Groen Links">Lankhorst</persoon>
+            <persoon partij="Groen Links">Beckers-de Bruijn</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-05-08</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Alders</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-06-05</item>
+         <item attribuut="Beginpagina">1353</item>
+         <item attribuut="Eindpagina">1354</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1353" allpagenumbers="1353" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN0921 - 7398" uitgever="SDU uitgeverij s Gravenhage 1990"/>
+      <vraagdata vraagnummer="672" onderwerp="een wijziging van het streekplan Zuid-Holland West." indiendatum="1990-05-8">
+         <vrager partij="Groen Links" oorsprong="parlement">Lankhorst</vrager>
+         <vrager partij="Groen Links" oorsprong="parlement">Beckers-de Bruijn</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="1">
+      <vraag nummer="1">Hebt u kennis genomen van het besluit van de Provinciale Staten van Zuid-Holland, 26 april 1990 om door middel van een partiële wijziging van het streekplan Zuid-Holland West in de gemeente Maasland binnen het reconstructie– gebied Midden-Delfland een trans– portcentrum ten behoeve van de agransche export vanuit het Westland te realiseren, waarbij de keuze voor deze locatie wordt beargumenteerd met de goedkope grondprijs en de snelle beschik– baarheid van dit terrem in verge– lijking met negen onderzochte alter– natieven buiten Midden-Delfland? Bent u bereid zodanige maatregelen te nemen, dat de realisatie van het transportcentrum niet ten koste zal gaan van het reconstructiegebied Midden-Delfland? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+   <mededeling mededeler="Alders" functie="minister" afdeling="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer" mededelingdatum="5 juni 1990} Bij brief van 9 mei jl. ontving ik bovengenoemde vragen betreffende een wijziging van het streekplan Zuid-Holland West. Voor de beant– woording van deze vragen is nog nader interdepartementaal overleg nodig. Het is daarom niet mogelijk de gestelde vragen binnen de gebruikelijke termijn te beant– woorden. Acht u dit besluit in overeen– stemming met de strekking van de reconstructiewet Midden Delfland (Stb. 233, 1977">Mededeling van minister Alders (Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer). (Ontvangen 5 juni 1990} Bij brief van 9 mei jl. ontving ik bovengenoemde vragen betreffende een wijziging van het streekplan Zuid-Holland West. Voor de beant– woording van deze vragen is nog nader interdepartementaal overleg nodig. Het is daarom niet mogelijk de gestelde vragen binnen de gebruikelijke termijn te beant– woorden. Acht u dit besluit in overeen– stemming met de strekking van de reconstructiewet Midden Delfland (Stb. 233, 1977), die erop gericht is deze bufferzone vrij te houden van stedelijke en transportfuncties, en met het feit, dat twee eerdere besluiten tot bestemming van delen van dit gebied tot bedrijfsterrein (Schie-oevers Zuid te Delft en Oost Abtspolder Noord te Rotterdam) uiteindelijk geen doorgang hebben </mededeling>
+</kvr>

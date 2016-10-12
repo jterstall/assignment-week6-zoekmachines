@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19851986:0000080</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0000080&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0000080</item>
+         <item attribuut="Document-id">0000113540</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Eerste Kamer 1985-1986 nummer 42</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Eerste Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de heren Kruisinga en Eijsink (beiden CDA.) inzake de visvangstquota van de Europese Gemeenschap.</item>
+         <item attribuut="titel">Aanhangsel Eerste Kamer 1985-1986 nummer 42</item>
+         <item attribuut="Jaargang">1985_1986</item>
+         <item attribuut="Vraagnummer">42</item>
+         <item attribuut="Indiener">
+            <persoon>Kruisinga</persoon>
+            <persoon>Eijsink</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1985-12-30</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Ploeg</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-02-25</item>
+         <item attribuut="Beginpagina">83</item>
+         <item attribuut="Eindpagina">84</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1985-1986 Aanhangsel van de Handelingen " typehandeling="Vergaderjaar 1985-1986 Aanhangsel van de Handelingen " typedoc="Vragen door de leden der Kamer gesteld overeenkomstig artikel 83 van het  antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Eerste Kamer, vergaderjaar  1 9 8 5 - 1 9 8 6 , Aanhangsel " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="42" onderwerp="" indiendatum="op 30 december 1985).">
+         <vrager partij="" oorsprong="parlement">Kruisinga</vrager>
+         <vrager partij="" oorsprong="parlement">Eijsink</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1 ">Herinnert de staatssecretaris zich de  vragen en antwoorden betreffende de  visvangstquota van de Europese  Gemeenschap van de zijde van  ondergetekenden van 9 oktober 1984  (zie Aanhangsel Handelingen Eerste  Kamer, vergaderjaar 1984-1985, nr. 8)?  </vraag>
+      <vraag nummer="2 ">Wil de staatssecretaris, gelet op de  sindsdien terzake opgetreden ontwikke- lingen en de beschikbaar gekomen  gegevens thans daarop een meer  gepreciseerd antwood geven dan hem  destijds mogelijk was?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

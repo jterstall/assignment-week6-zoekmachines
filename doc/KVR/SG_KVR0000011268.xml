@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0000964</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0000964&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0000964</item>
+         <item attribuut="Document-id">0000011268</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 32</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Wiebenga (VVD), Aarts (CDA), Vermeend (PvdA), Nuis (D66) en Leerling (RPF) over de schulden van de eilandgebieden van de Nederlandse-Antillen en het land zelf aan het pensioenfonds.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 32</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">32</item>
+         <item attribuut="Indiener">
+            <persoon>Wiebenga</persoon>
+            <persoon>Aarts</persoon>
+            <persoon>Vermeend</persoon>
+            <persoon>Nuis</persoon>
+            <persoon>Leerling</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-12-09</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Hirsch Ballin</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-09-29</item>
+         <item attribuut="Beginpagina">71</item>
+         <item attribuut="Eindpagina">72</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="71" allpagenumbers="71" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="'s Gravenhage 1992"/>
+      <vraagdata vraagnummer="" onderwerp="" indiendatum="">
+         <vrager partij="" oorsprong="parlement">Wiebenga</vrager>
+         <vrager partij="" oorsprong="parlement">Aarts</vrager>
+         <vrager partij="" oorsprong="parlement">Vermeend</vrager>
+         <vrager partij="" oorsprong="parlement">Nuis</vrager>
+         <vrager partij="" oorsprong="parlement">Leerling</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="29 september 1992), zie ook aanhangsel Handelingen nr. 271, vergaderjaar 1991- 1992">
+         <antwoorder functie="minister" ministerie="Justitie">Hirsch Ballin</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="32">Vragen van de leden Wiebenga (VVD), Aarts (CDA), Vermeend (PvdA), Nuis (D66) en Leerling (RPF) over de schulden van de eilandgebieden van de Nederlandse-Antillen en het land zelf aan het pensioenfonds. (Ingezonden 9 december 1991) </vraag>
+      <vraag nummer="1" voetnoot="1">Voldoen de Eilandgebieden van de Nederlandse-Antillen en het land zelf al jarenlang niet aan hun verplichtingen jegens het Pensioenfonds van de Nederlandse-Antillen (APNA) en dragen zij onvoldoende af aan het fonds? <voetnoot nummer="1"/>Werd het vermogen per ultimo 1983 van het pensioenfonds berekend op ca. 500 miljoen NAf. en de verplichting op ca. 619 miljoen NAf., zodat er op dat moment een actuarieel tekort bestond van ca. 119 miljoen NAf.? </vraag>
+      <vraag nummer="3">Is het Eilandgebied Curagao debiteur van eht pensioenfonds voor een bedrag van inmiddels ca. 180 miljoen NAf. en het land voor een bedrag van ca. 40 miljoen NAf? Hoe hoog zijn de schulden van de andere eilandgebieden aan het pensioenfonds? Kan het fonds thans nog slechts «op kasbasis» functioneren? Erkent u, dat het fonds met een dergelijke schuldpositie van ca. 250 miljoen NAf. in een onwerkbare positie dreigt te komen? </vraag>
+      <vraag nummer="5">Deelt u de mening, dat het structureel niet afdragen van verschuldigde gelden aan het pensioenfonds door de betrokken eilandgebieden van de Nederlandse-Antillen en door het land zelf te kwalificeren is als onbehoorlijk bestuur? </vraag>
+      <vraag nummer="6">Bent u niet bevreesd, dat het pensioenfonds hierdoor op een gegeven ogenblik niet meer aan zijn verplichtingen kan voldoen en de persioenen van de persioengerechtigden niet meer kan laten betalen? Bent u niet bevreesd, dat de rekening hiervan uiteindelijk op het bord van de Nederlandse regerïng zal worden gelegd? Tot welke maatregelen zal een en ander leiden? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Deze vraag wordt, wat betreft de onderscheiden eilandgebieden van de Nederlandse Antillen, bevestigend beantwoord. Het Land voldoet sinds 1989 aan zijn verplichtingen en draagt maandelijks een extra bedrag ter atlossmg van de bestaande schuld af. Het Algemeen Pensioenfonds van de Nederlandse Antillen (verder te noemen A.P.N.A.) is in onderhandeling met de overheden van de onderscheiden eilandgebieden van de Nederlandse Antillen en het Land teneinde de vorderingen van het A.P.N.A. op voornoemde overheden in rentedragende leningen te converteren. </antwoord>
+      <antwoord nummer="2">Deze vraag wordt bevestigend beantwoord ten aanzien van het actuarieel tekort per ultimo 1984. </antwoord>
+      <antwoord nummer="3">De schulden van de overheden van de onderscheiden eilandgebieden van de Nederlandse Antillen en het Land per ultimo 1991, kunnen als volgt worden gespecificeerd: Curagao Bonaire Sint Maarten Sint Eustatius Saba Land Totaal Over het functioneren van het fonds wordt opgemerkt, dat de ontvangen bijdragen - zelfs afgezien van de beleggingsopbrengsten - meer dan NAf 205,5 miljoen NAf 21,3 miljoen NAf 12,1 miljoen 0,4 miljoen 0,3 miljoen 5,8 miljoen NAf NAf NAf NAf 245,4 miljoen </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

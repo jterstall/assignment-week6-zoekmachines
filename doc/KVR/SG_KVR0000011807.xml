@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="omstreeks de eerste week van juni." aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001503</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001503&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001503</item>
+         <item attribuut="Document-id">0000011807</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 573</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Soutendijk-van Appeldoorn en Laning-Boersema (beiden CDA) over de tamponziekte.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 573</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">573</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Soutendijk-van Appeldoorn</persoon>
+            <persoon partij="CDA">Laning-Boersema</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-04-26</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Simons</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-05-17</item>
+         <item attribuut="Beginpagina">1173</item>
+         <item attribuut="Eindpagina">1174</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1173" allpagenumbers="1173" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="573" onderwerp="de tamponziekte." indiendatum="26april 1993">
+         <vrager partij="CDA" oorsprong="parlement">Soutendijk-van Appeldoorn</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Laning-Boersema</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="1">
+      <vraag nummer="1">Hebt u kennis genomen van het overlijden van een vrouw tengevolge van het Toxische Shock Syndroom (TSS-syndroom), ook wel de tamponziekte genoemd? Kent u het artikel «Tamponziekte, nog geen verleden tijd»? Is u bekend in hoeveel gevallen het TSS-syndroom optreedt bij vrouwen die tampons gebruiken? Zo neen, bent u bereid om een onderzoek in te stellen naar de frequentie en preventie van het TSS-syndroom en de Kamer daarover te berichten? Acht u het wenselijk, dat de Wet infectieziekten gewijzigd wordt, in dier voege dat voor Staphylococcus Aureusinfecties een meldingsplicht gaat gelden, teneinde een overzicht te krijgen van de frequentie van het optreden van het TSS-syndroom? Bent u bereid om in het kader van art. 8 van de Warenwet minimumeisen op te nemen betreffende de risico's die tampons bij gebruik kunnen hebben voor de gezondheid van vrouwen? Wilt u de geneeskundige hoofdinspectie verzoeken alle artsen in Nederland per brief specifiek te wijzen op het ziektebeeld van het menstruele TSS-syndroom, gelet op de in de literatuur beschreven sterfte van 2-5% tengevolge van «patients» en «doctors delay»?' </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"/>
+         <noot nummer="2"/>
+         <noot nummer="1" titel="de tamponziekte"> Nederlands Tijdschrift Geneeskunde 1992: 136, nr. 15, blz. 750, van  de Meeberg, Muller en Henny. Uit onderzoek naar bijsluiters van vier willekeurige tamponmerken is ons gebleken dat de produktinformatie met betrekking tot «de tamponziekte» varieert van géén informatie tot onvolledige informatie</noot>
+         <noot nummer="2"> Gerefereerd wordt aan het document van de Food and Drug Administration, 21 CFR Part. 801 (Docket No 80N 0425), Federal Register/Vol 47, No.120/Tuesday, June 22, 1982/Rules and Regulations; Menstrual Tampons; User Labeling</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+   <mededeling mededeler="Simons" functie="staatssecretaris" afdeling="Welzijn, Volksgezondheid en Cultuur" mededelingdatum="1993-05-17">Mededeling van staatssecretaris Simons (Welzijn, Volksgezondheid en Cultuur) (Ontvangen 17 mei 1993) De bij brief aan mij toegezonden vragen van de leden van uw Kamer Soutendijk-van Appeldoorn en Laning-Boersema over de tamponziekte kunnen tot mijn spijt niet binnen de gebruikelijke termijn worden beantwoord. De reden van uitstel is de complexiteit van het probleem en de noodzaak van het raadplegen van deskundigen over het toxische shock syndroom (TSS-syndroom). De beantwoording zal plaatsvinden </mededeling>
+</kvr>

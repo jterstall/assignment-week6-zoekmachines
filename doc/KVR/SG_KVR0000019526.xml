@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19911992:0001140</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001140&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19911992:0001140</item>
+         <item attribuut="Document-id">0000019526</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1991-1992 nummer 127</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van Rijn-Vellekoop (PvdA) over de verwerking van accu's.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1991-1992 nummer 127</item>
+         <item attribuut="Jaargang">1991_1992</item>
+         <item attribuut="Vraagnummer">127</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Van Rijn-Vellekoop</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1991-08-29</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Alders</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1991-11-05</item>
+         <item attribuut="Beginpagina">259</item>
+         <item attribuut="Eindpagina">260</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1991-1992" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="259" allpagenumbers="259" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1991-1992, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="'s Gravenhage 1991"/>
+      <vraagdata vraagnummer="127" onderwerp="de verwerking van accu's." indiendatum="1991-08-29">
+         <vrager partij="PvdA" oorsprong="parlement">Van Rijn-Vellekoop</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="5 november 1991). Zie ook Aanhangsel Handelingen nr 5, Vergaderjaar 1991-1992">
+         <antwoorder functie="minister" ministerie="Volkshuisvesting, Ruimtelijke Ordenmg en Milieubeheer">Alders</antwoorder>
+         <mede-antwoorder>de minister van Econo– mische Zaken (Ontvangen 5 november 1991)</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1">Overweegt de firma Hollandse Metallurgische Industrie Billiton de verwerking van accu's te beëin– digen?' </vraag>
+      <vraag nummer="2">Worden momenteel alle in Nederland afgedankte accu's door HMIB verwerkt? Zo neen, hoeveel accu's verdwijnen er ongecontroleerd in het milieu of naar het buitenland? </vraag>
+      <vraag nummer="4">Kunnen alle in Nederland vrijko– mende accu's in het buitenland verwerkt worden (Frankrijk of Duitsland)? </vraag>
+      <vraag nummer="5">Is dit ook mogelijk en gewenst gezien Europese uitgangspunten en/of richtlijnen? </vraag>
+      <vraag nummer="6">Hoe is buitenlandse verwerking te garanderen en te controleren? </vraag>
+      <vraag nummer="7">Heeft HMIB gevraagd om een statie– geldregeling, zodat milieu– en arbeidshygiënische investeringen gedaan kunnen worden en het bedrijf kan overleven? </vraag>
+      <vraag nummer="8">Wat is uw mening over de mogelijkheid en de werkzaamheid van een statiegeldregeling? HMIB = Hollandse Metallurgische Industrie Billiton. </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> De Volkskrant van 28 augustus jl</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1">Ja. 2 + 3. Het merendeel van de accu's dat in Nederland vrijkomt, wordt door de Hollandse Metallurgische Industrie Billiton B.V. (HMIB) verwerkt. Circa 10 procent van de in Nederland vrijkomende accu's wordt geëxpor– teerd, terwijl een ongeveer even groot deel van de hoeveelheid accu's die bij HMIB wordt verwerkt uit het buitenland afkomstig is. Accu's zijn recentelijk op grond van het Besluit aanwijzing chemische afvalstoffen (Stb. 1991, 247) aangemerkt als chemisch afval. Als gevolg hiervan dient bij afgifte van accu's melding plaats te vinden aan het Ministerie van VROM. Hierdoor zal in de toekomst meer zekerheid omtrent bovenstaande schattingen te geven zijn. De restwaarde van gedurende accu's hangt af van schaalgrootte van verwerking en de prijs van lood. Tot voor kort was deze restwaarde voor de situatie bij HMIB positief. Ook thans nog wordt door HMIB een vergoeding voor het inleveren van accu's gegeven. Het gevolg hiervan is dat er een (financiële) stimulans is om gebruikte accu's in te leveren. Van ongecontroleerd verdwijnen van accu's zal, gezien de positieve waarde, nauwelijks sprake zijn. </antwoord>
+      <antwoord nummer="4">De hoeveelheid in Nederland vrijko– mende gebruikte accu's is relatief gering ten opzichte van de hoeveelheid die vrijkomt in Frankrijk of Duitsland. De verwerkingsfacili– teiten in Franknjk en Duitsland hebben een zodanig grote capaciteit dat naar verwachting het Neder– landse aanbod verwerkt zou kunnen worden. </antwoord>
+      <antwoord nummer="5">Op grond van Europese richtlijnen geldt dat, indien hergebruik van de accu's aan de orde is, de Neder– landse overheid de export niet mag afremmen. Het Nederlandse aanbod van gebruikte accu's is in relatie tot de toe te passen schaal van verwerking en de wenselijkheid voor een positieve restwaarde, vrij klein. Een aanpak voor de verwerking van de accu's die over de grens heen reikt is om deze reden gewenst </antwoord>
+      <antwoord nummer="6">Thans wordt door HMIB serieus gezocht naar mogelijkheden om beleidsmatige wenselijkheid, als gevolg van de thans ontbrekende wettelijke basis voor een volledige statiegeldregeling niet op de door het bedrijf gestelde termijn een dergelijke regeling zou kunnen reali– seren. </antwoord>
+      <antwoord nummer="8"/>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

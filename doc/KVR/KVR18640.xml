@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="4">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Dijksma (PvdA) aan de staatssecretaris van Verkeer en Waterstaat over mogelijk vallende ijsklompen in de regio Twente. (Ingezonden 4 september 2003); Antwoord</item>
+         <item attribuut="Bestand">14Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR18640
+</item>
+         <item attribuut="Inhoud">Vragen naar berichten over het gevaar voor de bevolking van vallende ijsklompen afkomstig van overvliegende vliegtuigen, in de regio Twente.</item>
+         <item attribuut="Rubriek">Verkeer, vervoer en waterstaat (Vliegveiligheid)</item>
+         <item attribuut="Trefwoorden">Overijssel Vliegveiligheid</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2003-2004, nr. 101, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2020316700</item>
+         <item attribuut="Afkomstig_van">Verkeer en Waterstaat (VW)</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Dijksma</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2003-10-06</item>
+         <item attribuut="Datum_indiening">2003-09-04</item>
+         <item attribuut="Document-id">KVR18640</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2003–2004" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="217" allpagenumbers="217" vetnummer="2020316700" code="0304tkkvr101" lopendefooter="Tweede Kamer, vergaderjaar 2003–2004, Aanhangsel" filenaam="KVR18640" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2003"/>
+      <vraagdata vraagnummer="101" onderwerp="" indiendatum="2003-09-4">
+         <vrager partij="PvdA" oorsprong="parlement">Dijksma</vrager>
+         <vraagt-aan>de staatssecretaris van Verkeer en Waterstaat</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2003-10-6">
+         <antwoorder functie="staatssecretaris" ministerie="Verkeer en Waterstaat">Schultz van Haegen-Maas Geesteranus</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Kent u de berichten over «vallende ijsklompen» in de regio Twente? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Is het mogelijk dat deze ijsklompen afkomstig zijn van overvliegende vliegtuigen? </vraag>
+      <vraag nummer="3">Bent u op de hoogte van het onderzoek dat onderzoekers van de universiteit Groningen naar dit fenomeen zijn gestart? Bent u bereid de uitkomsten van dit onderzoek aan de Kamer te melden? </vraag>
+      <vraag nummer="4">Heeft u op enigerlei wijze contact met de autoriteiten in Twente over het mogelijke gevaar dat het vallen van dergelijke grote ijsklompen voor de bevolking met zich meebrengt? Zo ja, tot welke maatregelen leidt dit contact? Zo neen, waarom niet? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="2003-08-26" bron="De Telegraaf" titel="Weer ijsklomp in Twente">De Telegraaf, 26 augustus 2003: «Weer ijsklomp in Twente»</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Ja, via de media heb ik daar kennis van genomen. </antwoord>
+      <antwoord nummer="2">Ja, dat is mogelijk. Toilet- en vuilwatersystemen hebben soms een overloopbuis. Deze buis wordt elektrisch verwarmd, waardoor het overlopende water niet kan bevriezen en meteen geloosd wordt. Als deze verwarming defect raakt en het vliegtuig vliegt op een hoogte waarbij de buitentemperatuur onder nul graden Celsius komt, kan het overlopende water bevriezen. Als de buitentemperatuur weer boven nul graden Celsius komt, doordat het vliegtuig weer op een lagere hoogte vliegt, kan de ijsaangroei loskomen. Vliegtuigen zijn echter zodanig ontworpen en worden zodanig onderhouden dat deze ijsaangroei in het algemeen niet zal optreden. Het betrouwbaarheidsniveau van deze verwarmingsinstallaties heeft geen aanleiding gegeven om de eisen gesteld aan deze installaties (internationaal) aan te passen. </antwoord>
+      <antwoord nummer="3">Nee, dit is mij onbekend. Zodra dit onderzoek is afgerond, zal ik mij van de uitkomsten op de hoogte stellen en u daarover informeren indien relevant met betrekking tot uw vraagstelling. </antwoord>
+      <antwoord nummer="4">Nee, hierover is geen contact geweest met Twente of welke andere regio dan ook. Gelet op de risico’s die verbonden zijn met dit verschijnsel, wordt het ook niet nodig geacht om hierover met elkaar direct contact te onderhouden. De kans op ijsvorming is gering, en mocht het toch gebeuren, dan is de kans dat het ijs buiten het bebouwde gebied los komt bovendien groot. De kans dat het verschijnsel van loskomen van ijsafzetting optreedt in naderingsgebieden van luchthavens is groter dan daarbuiten. Onder andere in verband met de externe veiligheid van de luchtvaart in algemene zin worden deze gebieden zoveel mogelijk vrij gehouden van bebouwing. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="3">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Algra en Sterk (beiden CDA) aan de ministers van Binnenlandse Zaken en Koninkrijksrelaties en voor Bestuurlijke Vernieuwing en Koninkrijksrelaties over politie-inzet op de Antillen. (Ingezonden 30 september 2003); Antwoord</item>
+         <item attribuut="Bestand">14Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR18742
+</item>
+         <item attribuut="Inhoud">Nederlandse politiemensen die op de Nederlandse Antillen werken, beraden zich op actie en willen zich terugtrekken van de Antillen. Wat zijn de oorzaken hiervan en wat zijn de gevolgen voor de politiewerkzaamheden op de Antillen.</item>
+         <item attribuut="Rubriek">Criminaliteit en openbare orde (Politie)</item>
+         <item attribuut="Trefwoorden">Nederlandse Antillen Politie</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2003-2004, nr. 189, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2030400630</item>
+         <item attribuut="Afkomstig_van">Binnenlandse Zaken en Koninkrijksrelaties (BZK) Bestuurlijke Vernieuwing en Koninkrijksrelaties (BVK)</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Algra</persoon>
+            <persoon partij="CDA">Sterk</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2003-10-23</item>
+         <item attribuut="Datum_indiening">2003-09-30</item>
+         <item attribuut="Document-id">KVR18742</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2003–2004" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="405" allpagenumbers="405" vetnummer="2030400630" code="0304tkkvr189" lopendefooter="Tweede Kamer, vergaderjaar 2003–2004, Aanhangsel" filenaam="KVR18742" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2003"/>
+      <vraagdata vraagnummer="189" onderwerp="" indiendatum="2003-09-30">
+         <vrager partij="CDA" oorsprong="parlement">Algra</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Sterk</vrager>
+         <vraagt-aan>de ministers van Binnenlandse Zaken en Koninkrijksrelaties en voor Bestuurlijke Vernieuwing en Koninkrijksrelaties</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2003-10-23">
+         <antwoorder functie="minister" ministerie="Binnenlandse Zaken en Koninkrijksrelaties">Remkes</antwoorder>
+         <mede-antwoorder>de minister voor Bestuurlijke Vernieuwing en Koninkrijksrelaties</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Heeft u kennisgenomen van de berichten dat de Nederlandse politiemensen die werkzaam zijn op de Antillen zich beraden op acties en zich willen terugtrekken van de Antillen? <voetnoot nummer="1"/>Zo ja, wat is hiervoor de aanleiding? </vraag>
+      <vraag nummer="2">Welke gevolgen heeft dit voor de politiewerkzaamheden op de Antillen? </vraag>
+      <vraag nummer="3">Bent u voornemens maatregelen te treffen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="2003-09-25" bron="ACP-internetsite">ACP-internetsite, 25 september 2003</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja. De aanleiding was een verschil van inzicht met de politievakorganisaties over een aanvullende onkostenvergoeding voor de politieambtenaren van het RST. </antwoord>
+      <antwoord nummer="2">Dit heeft geen gevolgen gehad voor de continuïteit van de inzet van het RST en de adequate bestrijding van de criminaliteit. </antwoord>
+      <antwoord nummer="3">Het verschil van inzicht met de politievakorganisaties is opgelost. Met de politievakorganisaties is overeenstemming bereikt over een tijdelijke aanpassing van de aanvullende vergoeding. De onrust onder de Nederlandse RST ambtenaren is hiermee weggenomen. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="over eventueel te nemen maatregelen. " aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19851986:0001840</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001840&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19851986:0001840</item>
+         <item attribuut="Document-id">0000115400</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1985-1986 nummer 919</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Lankhorst (P.P.R.) over de gevolgen van de kernramp in Tsjernobyl voor de gezondheid van trekvogels.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1985-1986 nummer 919</item>
+         <item attribuut="Jaargang">1985_1986</item>
+         <item attribuut="Vraagnummer">919</item>
+         <item attribuut="Indiener">
+            <persoon partij="PPR">Lankhorst</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-06-13</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Braks</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1986-07-21</item>
+         <item attribuut="Beginpagina">1825</item>
+         <item attribuut="Eindpagina">1826</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1985-1986 Aanhangsel van de Handelingen " typehandeling="Vergaderjaar 1985-1986 Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 5 - 1 9 8 6 , Aanhangsel 1825 " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="919" onderwerp="" indiendatum="">
+         <vrager partij="PPR" oorsprong="parlement">Lankhorst</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1 ">Kunt u meedelen, of reeds onderzoek  wordt verricht naar de gevolgen van  de kernramp in Tsjernobyl voor de  gezondheid van trekvogels en de  effecten van de besmetting van deze  vogels op de verspreiding van  radioactiviteit naar mens en milieu?  Zo neen, bent u bereid een dergelijk  onderzoek te bevorderen?  </vraag>
+      <vraag nummer="2 ">Bent u bereid om, in het belang van  de vogelpopulaties en de volksge- zondheid, de jacht op alle trekvogels  te verbieden, totdat de resultaten van  dit onderzoek bekend zijn?  Antwoord van minister Braks  (Landbouw en Visserij). (Ontvangen  21 juli 1986)  1 en 2  Ik heb het voornemen om bij terugkeer  van trekvogels in Nederland onder- zoek te doen verrichten naar mogelijke  besmetting van deze vogels als  gevolg van de kernramp in Tsjernobyl.  Afhankelijk van de bevindingen van  bedoeld onderzoek zal ik mij beraden  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

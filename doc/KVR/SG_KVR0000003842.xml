@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="7">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19931994:0001331</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001331&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19931994:0001331</item>
+         <item attribuut="Document-id">0000003842</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 117</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Verbugt en Te Veldhuis (beiden VVD) over de problematiek inzake het VINEX-overleg met de Haagse Regio.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 117</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">117</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Verbugt</persoon>
+            <persoon partij="VVD">Te Veldhuis</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-10-21</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Alders</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-11-11</item>
+         <item attribuut="Beginpagina">237</item>
+         <item attribuut="Eindpagina">238</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="237" allpagenumbers="237" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Planlijnslraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="117" onderwerp="de problematiek inzake het VINEX-overleg met de Haagse Regio." indiendatum="1993-10-21">
+         <vrager partij="VVD" oorsprong="parlement">Verbugt</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Te Veldhuis</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-11-11">
+         <antwoorder functie="minister" ministerie="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer">Alders</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="7">
+      <vraag nummer="1">Kent u het recente bericht, als zou het stadsgewest Haaglanden uit het VINEX-overleg met het Rijk zijn gestapt?' </vraag>
+      <vraag nummer="2">Is het bestuurlijk overleg met Haagianden inzake de VINEX-taakstelling in een impasse geraakt? Zo ja, waarom? </vraag>
+      <vraag nummer="3">Kan de impasse gevolgen hebben voor de realisatie van de VINEX taakstellmg, zoals deze is vastgelegd in het startconvenant? Zo ja, welke? Zo neen, op welke termijn zal dan een uitvoeringscontract worden getekend? </vraag>
+      <vraag nummer="4">Wordt de realisatie van het regionaal verstedelijkingsmodel Haaglanden bemoeilijkt door een bodemsaneringsprobleem? Zo ja, hangt dit probleem samen met verstedelijking in het tuinbouwgebied? Hoe hoog zijn de geraamde saneringskosten c.q. hoeveel zijn ze hoger dan eerder geraamd bij de VINEX? </vraag>
+      <vraag nummer="5">Is uitvoering van de voornoemde VINEX-taakstelling conform de doelstellingen van het NMP+ niet haalbaar binnen het beschikbare budgettaire kader? Zo ja, wat zijn de tekorten? </vraag>
+      <vraag nummer="6">Is de uitwerkmg van het regionaal verstedelijkingsmodel Haaglanden conform de mobiliteitsdoelstellingen van het SVV-II duurder dan aanvankelijk voorzien? Zo ja, hoeveel? </vraag>
+      <vraag nummer="7">Is uitvoering van de voornoemde VINEX-taakstelling conform de doelstellingen van het SVV-II niet haalbaar binnen het beschikbare budgettaire kader? Zo ja, wat zijn de knelpunten? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1993-10-18" bron=" Cobouw"> Cobouw, 18 oktober 1993</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="7">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Neen. </antwoord>
+      <antwoord nummer="3">Het overleg wordt voortgezet. Binnen enkele weken zal duidelijk zijn wanneer een uitvoeringscontract haalbaar is. </antwoord>
+      <antwoord nummer="4">Bodemsanering is in alle stadsgewesten een apart aandachtspunt. In het tuinbouwgebied gaat het veelal om zogenaamde diffuse verontreiniging (niet IBS). Bij Vinex zijn geen nauwkeurige ramingen gemaakt omdat voldoende onderzoek ontbrak. De thans geraamde saneringskosten in Haaglanden bedragen voor IBS f 23 tot 37 miljoen en voor niet-IBS f 60 tot 90 miljoen. </antwoord>
+      <antwoord nummer="5">Over de uitvoerbaarheid wordt nog onderhandeld. </antwoord>
+      <antwoord nummer="6">Het gewest acht een bijdrage voor o.v.-infrastructuur van in totaal f 1 450 miljoen - in de periode 1990-2005 - nodig om aan de mobiliteitsdoelstellingen te voldoen. Dat is f 450 miljoen meer dan in 1991 in het vooruitzicht was gesteld. Thans stelt het rijk, binnen budgettaire kaders, f 1 300 miljoen in het vooruitzicht. </antwoord>
+      <antwoord nummer="7">Met het in vraag 6 genoemde bedrag acht de regering uitvoering van de Vinex– en SVV-ll-taakstelling in voldoende mate mogelijk. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

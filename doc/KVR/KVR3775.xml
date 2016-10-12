@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Van der Burg (CDA) over vermeende uitspraken van Koningin Beatrix. (Ingezonden 10 oktober 1996); Antwoord</item>
+         <item attribuut="Bestand">13Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR3775
+</item>
+         <item attribuut="Inhoud">Betreft vermeende uitspraken van Koningin Beatrix over het decoratiestelsel.</item>
+         <item attribuut="Rubriek">Staats- en bestuursrecht (Koninklijk huis)</item>
+         <item attribuut="Trefwoorden">Koninklijk huis Onderscheidingen</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 1996-1997, nr. 110, Tweede Kamer</item>
+         <item attribuut="Afkomstig_van">Binnenlandse Zaken</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Van der Burg</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1996-10-15</item>
+         <item attribuut="Datum_indiening">1996-10-10</item>
+         <item attribuut="Document-id">KVR3775</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1996–1997" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1 221" allpagenumbers="1 221" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1996–1997, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 1996"/>
+      <vraagdata vraagnummer="110" onderwerp="" indiendatum="1996-10-10">
+         <vrager partij="CDA" oorsprong="parlement">Van der Burg</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1996-10-15">
+         <antwoorder functie="minister" ministerie="Binnenlandse Zaken">Dijkstal</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Kent u het artikel «Beatrix: Meer lintjes»? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Is het bericht waar? </vraag>
+      <vraag nummer="3">Zo neen, wilt u het bericht ten spoedigste rectificeren? </vraag>
+      <vraag nummer="4">Bent u op de hoogte van het feit, dat de vaste commissie voor Binnenlandse Zaken van de Tweede Kamer van plan is op korte termijn een eerste evaluatie van het decoratiebeleid bij de «algemene gelegenheid» 1996 te houden? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1996-10-9" bron="Algemeen Dagblad">Algemeen Dagblad, 9 oktober 1996</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2 en 3">De opvattingen van de regering met betrekking tot de eerste ervaringen met het vernieuwde decoratiestelsel zijn neergelegd in de brief die ik de Kamer toe heb gezonden d.d. 22 </antwoord>
+      <antwoord nummer="4">Ja, hoewel ik een uitnodiging voor een overleg nog niet heb ontvangen. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1" documenttype="Kamerstuk" kamerstuk-id="24 827" documentnummer="1">Kamerstuk 24 827, nr. 1</noot>
+      </noten>
+   </antwoorden>
+</kvr>

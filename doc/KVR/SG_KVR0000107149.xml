@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001374</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001374&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001374</item>
+         <item attribuut="Document-id">0000107149</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 342</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Ter Beek (P.v.d.A.) over de bouw van een nieuw zgn. «early-warning radarsystem» door de Verenigde Staten en het Verenigd Koninkrijk.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 342</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">342</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Ter Beek</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-12-19</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-01-26</item>
+         <item attribuut="Beginpagina">683</item>
+         <item attribuut="Eindpagina">684</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 6 - 1 9 8 7 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="342" onderwerp="de bouw van een nieuw zgn. «early-warning radarsys- tem» door de Verenigde Staten en het Verenigd Koninkrijk." indiendatum="18 december 1986)">
+         <vrager partij="PvdA" oorsprong="parlement">Ter Beek</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="26 januari 1987)">
+         <antwoorder functie="" ministerie="Buitenlandse Zaken"/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1 ">Is de regering op de hoogte van het  feit dat de VS en het VK besloten  hebben een nieuw zgn. «early-warning  radarsystem» te bouwen bij Flyingda- les (VK)?'  </vraag>
+      <vraag nummer="2 ">Is het de regering bekend dat de  toenmalige ABM-onderhandelaars  Smith en Rylander van mening zijn  dat deze radar evenals die in Krasnoy- arsk (USSR) niet in overeenstemming  is met het ABM-verdrag?  </vraag>
+      <vraag nummer="3 ">Hoe interpreteert de regering de  artikelen 6 en 9 van dit verdrag,  toegepast op het early-warning  radarsystem in Flyingdales?  </vraag>
+      <vraag nummer="4 ">Deelt de regering de mening dat het  voortgaan van de bouw van het  Flyingdales-systeem de kansen op  een wapenbeheersingsoplossing  voor dit soort systemen verkleint?  </vraag>
+      <vraag nummer="5 ">Is zij bereid de Duitse en Amerikaanse  regering van de opvatting van de  Nederlandse regering op de hoogte  te brengen?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1 ">Het is de Regering bekend dat het  bestaande Amerikaanse radarsys- teem in Fylingdales Moor wordt  gemoderniseerd.  2 en 3  Bij de ratificatie van het ABM-verdrag  door het Amerikaanse Congres in  1972 heeft de Amerikaanse regering  expliciet verklaard dat het ABM-ver- drag niet van toepassing is op  «existing ballistic missile early  warning radars». Het ging daarbij  met name om de radarinstallaties in  Thule, Groenland, en Fylingdales  Moor, Groot-Brittannië.  De regeringen van de Verenigde  Staten en Groot-Brittannië zijn dan  ook van oordeel dat de modernisering  van de al vóór 1972 bestaande  radarinstallatie in Fylingdales in  overeenstemming is met de bepalin- gen van het ABM-verdrag. Zie  hiervoor ook de als bijlage gevoegde  tekst van het terzake gegeven  antwoord van de Britse minister van  de Strijdkrachten, Stanley, op een  vraag in het Britse Lagerhuis op  2 2  mei 1986.'  </antwoord>
+      <antwoord nummer="4 ">Deze vraag behoeft in het licht van  bovenstaande geen beantwoording.  </antwoord>
+      <antwoord nummer="5 ">De Regering ziet in het licht van  bovenstaande hiertoe geen aanlei- ding.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

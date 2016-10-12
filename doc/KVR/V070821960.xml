@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="worden toegepast?" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">
+Vragen van het lid Jager (CDA) aan de staatssecretaris van Justitie
+over meerpersoonscelgebruik. (Ingezonden 5 juni 2008)</item>
+         <item attribuut="Bestand">12Kb</item>
+         <item attribuut="Permalink">http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=V070821960</item>
+         <item attribuut="Inhoud">Vragen naar aanleiding van een bericht op NOS Teletekst van 3 juni
+2008. Indiener vindt dat gedetineerden prima met z'n tweeën op één cel kunnen
+zitten en vraagt de staatssecretaris zich ervoor in te zetten dat twee of meer
+op één cel blijvend wordt toegepast.</item>
+         <item attribuut="Rubriek">Criminaliteit en openbare orde (Gevangeniswezen en penitentiair
+recht)</item>
+         <item attribuut="Trefwoorden">Gedetineerden</item>
+         <item attribuut="Vindplaats">Kamervragen 2007-2008, vraagnr. 2070821960, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2070821960</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Jager</persoon>
+         </item>
+         <item attribuut="Datum_indiening">2008-06-05</item>
+         <item attribuut="Document-id">V070821960</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2007–2008" typehandeling="" typedoc="Vragen gesteld door de leden der Kamer"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="0708tkkvl2070821960" lopendefooter="Tweede Kamer, vergaderjaar 2007–2008, Vragen" filenaam="" issn-nummer="" uitgever="Sdu Uitgevers ’s-Gravenhage 2008"/>
+      <vraagdata vraagnummer="2070821960" onderwerp="" indiendatum="2008-06-5">
+         <vrager partij="CDA" oorsprong="parlement">Jager</vrager>
+         <vraagt-aan>de staatssecretaris van Justitie</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Hebt u kennisgenomen van het artikel dat gevangenen te gemakkelijk op één cel zouden worden geplaatst? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Hoeveel cellen worden momenteel gebruikt voor meerpersoonscelgebruik? Wat vindt u van de conclusie van de Raad voor de Strafrechtstoepassing en Jeugdbescherming in het licht van de rapportage van de Inspectie voor de Sanctietoepassing? </vraag>
+      <vraag nummer="3">Deelt u de mening dat gedetineerden prima met zijn tweeën op één cel kunnen zitten en dat het niet aan de gedetineerde is om te beslissen of hij al dan niet een cel wil delen? </vraag>
+      <vraag nummer="4">Gaat u zich ervoor inzetten dat twee of meer op één cel blijvend moet </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord">
+         <noot nummer="1" datum="2008-06-3" bron="Nos Teletekst">Nos Teletekst, 3 juni 2008</noot>
+      </noten>
+   </antwoorden>
+</kvr>

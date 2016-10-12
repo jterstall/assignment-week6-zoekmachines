@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001693</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001693&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001693</item>
+         <item attribuut="Document-id">0000107468</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 660</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Nijhuis en Hermans (beiden V.V.D.) over overleg met adviesorganen en belangenorganisaties inzake het advies van de commissie-Dekker.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 660</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">660</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Nijhuis</persoon>
+            <persoon partij="VVD">Hermans</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1987-04-28</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Lubbers</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-05-06</item>
+         <item attribuut="Beginpagina">1311</item>
+         <item attribuut="Eindpagina">1312</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 6 - 1 9 8 7 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="660" onderwerp="overleg met adviesorganen en belangenorganisaties inzake het advies van de commissie-Dekker." indiendatum="28 april 1987)">
+         <vrager partij="VVD" oorsprong="parlement">Nijhuis</vrager>
+         <vrager partij="VVD" oorsprong="parlement">Hermans</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="minister-president" ministerie="Algemene Zaken">Lubbers</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1 ">Voert een delegatie van het kabinet  binnenkort met diverse adviesorganen  en belangenorganisaties gesprekken  over het advies van de commissie  Structuur en Financiering Gezond- heidszorg, de zogenaamde commis- sie-Dekker?  </vraag>
+      <vraag nummer="2 ">Zijn slechts die organisaties uitgeno- digd, die belanghebbend zijn bij de  door de commissie-Dekker voorge- stelde verplichte basisverzekering en  niet de beroepsorganisaties van  apothekers, tandartsen, fysiothera- peuten en andere para-medische  beroepsbeoefenaren die direct  belanghebbend zijn bij het zogenaam- de «15%-pakket», d.w.z. dat deel van  de gezondheidszorg, dat buiten de  voorgestelde basisverzekering valt?  </vraag>
+      <vraag nummer="3 ">Indien het antwoord op vraag 2  bevestigend luidt, wat is dan de  verklaring voor deze merkwaardige  gang van zaken? Bent u bereid de  genoemde organisaties alsnog voor  een gesprek uit te nodigen?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1 ">Ja.  Neen. Het kabinet heeft een selectie  moeten maken vanwege de vele  onderscheiden beroepsgroepen en  instellingen die aktief zijn in de  gezondheidszorg en het maatschap- pelijk welzijn. Bij deze selectie is op  geen enkele wijze vooruitgelopen op  de inhoud van het rapport van de  commissie Dekker en de daarin  voorgestelde samenstelling van het  basispakket. De gesprekken die zijn  belegd dienen er juist toe tot een  kabinetsstandpunt te komen over  o.m. de keuze van de commissie  Dekker inzake het basispakket. Voor  zover het niet mogelijk is afzonderlijke  beroepsgroepen c.q. belanghebben- den apart uit te nodigen, heeft het  kabinet hen in overweging gegeven  hun opvattingen inzake de aanbeve- lingen van de commissie Dekker op  schrift te stellen en het kabinet  daaromtrent te informeren. Daarnaast  zullen de uitgenodigde algemene  adviescolleges alle relevante elemen- ten in hun onderlinge samenhang  aan de orde stellen.  </antwoord>
+      <antwoord nummer="3 ">Niet van toepassing  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

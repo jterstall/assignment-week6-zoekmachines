@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19861987:0001366</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001366&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19861987:0001366</item>
+         <item attribuut="Document-id">0000107141</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1986-1987 nummer 334</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Müller-van Ast (P.v.d.A.) over een vergoedingsregeling voor geneesmiddelen.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1986-1987 nummer 334</item>
+         <item attribuut="Jaargang">1986_1987</item>
+         <item attribuut="Vraagnummer">334</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Müller-van Ast</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1986-12-12</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Dees</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1987-01-21</item>
+         <item attribuut="Beginpagina">667</item>
+         <item attribuut="Eindpagina">668</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 6 - 1 9 8 7 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 6 - 1 9 8 7 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="334" onderwerp="" indiendatum="">
+         <vrager partij="PvdA" oorsprong="parlement">Müller-van Ast</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="21 januari 1987)">
+         <antwoorder functie="" ministerie="Welzijn, Volksgezondheid en Cultuur. (Ontvangen 21 januari 1987"/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1 " voetnoot="1 2 3">Hebt u kennis genomen van de  totstandkoming van een overeen- komst tussen Nefarma, KPZ <voetnoot nummer="1"/>, KLOZ <voetnoot nummer="2"/>,  KNMP <voetnoot nummer="3"/> en Bond van Groothandelaren  over een vergoedingsregeling voor  geneesmiddelen?  </vraag>
+      <vraag nummer="2 " voetnoot="4">Hecht u enige waarde aan deze  overeenkomst, ondanks het feit, dat  de belangrijkste vertegenwoordiger  van de verzekeraars, de VNZ <voetnoot nummer="4"/>, niet bij  de totstandkoming was betrokken?  </vraag>
+      <vraag nummer="3 ">Hebt u kennis genomen van het  vernietigende VNZ-oordeel over deze  overeenkomst?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1 ">Ja.  2  t / m 5  Over de standpuntsbepaling van de  regering ten aanzien van de overeen- komst is overleg met de betrokken  bewindslieden gaande. Het beleids- standpunt zal aan de Kamer worden  medegedeeld.  Hebt u zich reeds een mening  gevormd over deze overeenkomst?  Zo ja, wilt u die aan deze Kamer  mededelen?  </antwoord>
+      <antwoord nummer="5 ">Acht u het gewenst, dat volstaan  w o r d t met een bezuiniging van  hoogstens 30 min, nu een bezuiniging  van 1 75 min volgens de VNZ  haalbaar is?  </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Kontaktcommissie Publiekrechtelijke  Ziektekostenregelingen </noot>
+         <noot nummer="2"> Kontaktorgaan Landelijke Organisaties van  Ziektekostenverzekeraars </noot>
+         <noot nummer="3"> Koninklijke Nederlandse Maatschappij ter  bevordering van de Pharmacie </noot>
+         <noot nummer="4"> Vereniging Nederlandse Ziekenfondsen </noot>
+      </noten>
+   </antwoorden>
+</kvr>

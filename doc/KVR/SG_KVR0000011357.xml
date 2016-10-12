@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001053</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001053&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001053</item>
+         <item attribuut="Document-id">0000011357</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 122</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Nuis (D66), Netelenbos (PvdA), Hermes (CDA), Franssen (VVD) en Lankhorst (GroenLinks) over de stichtingsvorm voor openbaar schoolbestuur.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 122</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">122</item>
+         <item attribuut="Indiener">
+            <persoon>Nuis</persoon>
+            <persoon>Netelenbos</persoon>
+            <persoon>Hermes</persoon>
+            <persoon>Franssen</persoon>
+            <persoon>Lankhorst</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-10-16</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Wallage</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-11-04</item>
+         <item attribuut="Beginpagina">255</item>
+         <item attribuut="Eindpagina">256</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="255" allpagenumbers="255" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="122" onderwerp="de stichtingsvorm voor openbaar schoolbestuur." indiendatum="1992-10-16">
+         <vrager partij="" oorsprong="parlement">Nuis</vrager>
+         <vrager partij="" oorsprong="parlement">Netelenbos</vrager>
+         <vrager partij="" oorsprong="parlement">Hermes</vrager>
+         <vrager partij="" oorsprong="parlement">Franssen</vrager>
+         <vrager partij="" oorsprong="parlement">Lankhorst</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-11-4">
+         <antwoorder functie="staatssecretaris" ministerie="Onderwijs en Wetenschappen">Wallage</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1">Weet u, dat gemeenten plannen hebben om de openbare school te besturen door middel van een overheidsstichting? </vraag>
+      <vraag nummer="2">Blijft u bij uw mening, dat de huidige wetgeving dit niet toelaat?' Bent u voornemens op korte termijn een wetswijziging te bevorderen die de stichtingsvorm voor openbaar schoolbestuur mogelijk maakt? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Toelichting UCV over Nota 2000, UCV Handelingen nr. 35 blz 46, Vergaderjaar 1991-1992</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja. In het kader van de procedure op grond van artikel 75a van de Wet op het voortgezet onderwijs - waarbij aan de minister van Onderwijs en Wetenschappen voorgenomen fusies moeten worden gemeld - heeft een aanta! colleges van B&amp;W als bevoegd gezag van openbare scholen te kennen gegeven dat men ervoor kiest dat de per 1 augustus 1993 door fusie te creëren scholen in stand worden gehouden door een stichting. </antwoord>
+      <antwoord nummer="2">Het is mij bekend dat hierover verschillend wordt gedacht, maar ik ga er, zoals ik tijdens de UCV van 6 april j.l. reeds heb gesteld, van uit dat de onderwijswetgeving beoogt een dergelijke bestuursvorm niet toe te laten, gezien de daarin voorkomende definities van het begrip «bevoegd gezag». </antwoord>
+      <antwoord nummer="3">De bestuursvorm van het openbaar onderwijs is onderdeel van het brede thema van de bestuurlijke verhoudingen in het onderwijs waarover in de memorie van toelichting bij de O&amp;W-begroting 1993 een discussie in het vooruitzicht is gesteld. Hierover zal ik u op zeer korte termijn grondig informeren. Het is gewenst dat, alvorens definitieve kabinetsstandpunten en wetsvoorstellen op tafel worden gelegd, over het toekomstperspectief van bestuurlijke relaties in het onderwijs een actieve discussie en overleg met het onderwijsveld ontstaat. Op zichzelf bestaat daarna tegen een wettelijke regeling die de (gemeentelijke) stichting als bevoegd gezag van het openbaar onderwijs mogelijk maakt, geen bezwaar. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

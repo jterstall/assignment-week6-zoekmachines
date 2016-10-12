@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0001681</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001681&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001681</item>
+         <item attribuut="Document-id">0000004192</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 467</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Vliegenthart (PvdA) over JWG-plaatsen bij de ministeries.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 467</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">467</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Vliegenthart</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-04-07</item>
+         <item attribuut="Beantwoorder">
+            <persoon>De Vries</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-04-27</item>
+         <item attribuut="Beginpagina">947</item>
+         <item attribuut="Eindpagina">948</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="947" allpagenumbers="947 3" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1994"/>
+      <vraagdata vraagnummer="467" onderwerp="JWG-plaatsen bij de ministeries." indiendatum="1994-04-7">
+         <vrager partij="PvdA" oorsprong="parlement">Vliegenthart</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-04-27">
+         <antwoorder functie="minister" ministerie="Sociale Zaken en Werkgelegenheid">De Vries</antwoorder>
+         <mede-antwoorder>de minister van Binnenlandse Zaken</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1">Is bij de ministeries geen enkele JWG-plaats gecreëerd? Wat is daarvan de oorzaak? Hoe wilt u een eind maken aan de discrepantie tussen de doelstellingen van het aktiverend arbeidsmarktbeleid voor jongeren en de eigen inspanning van de rijksoverheid om jongeren een garantieplaats aan te bieden? </vraag>
+      <vraag nummer="3">Bent u bereid een registratie van het aantal JWG-plaatsen bij de ministeries in te voeren? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Het is niet juist dat bij de rijksoverheid in de regio Den Haag geen JWG-plaatsen zijn gecreëerd. Het aantal gerealiseerde plaatsen is echter wel gering. Ingevolge het gesloten convenant tussen de gemeente Den Haag en het ministerie van Biza namens de rijksoverheid zouden in het kader van de sociale vernieuwing bij de «Haagse rijksoverheid» 250 additionele arbeidsplaatsen worden gerealiseerd. Volgens informatie die de gemeente Den Haag medio november 1993 aan de minister van Biza zond, blijken hiervan ca. 80 plaatsen bij de totale rijksoverheid gerealiseerd te zijn. Als oorzaken kunnen worden genoemd: - de meeste ministeries hebben zich in de convenant-periode ook ingespannen andere projecten van additioneel werkte realiseren, bijvoorbeeld in de zin van de Subsidieregeling voor Additionele Jongerenbanen bij de Rijksoverheid (SAJO-regeling). Door deze aktiviteiten zijn in 1993 bij de rijksoverheid bijna 200 extra banen voor jongeren geschapen; - het aanbod van niet-additionele, dus formatieve of reguliere banen is in de convenant-periode aanzienlijk teruggelopen als gevolg van de GEO en reorganisaties bij vrijwel alle ministeries. Dit betreft met name banen op de laagste functieniveaus. </antwoord>
+      <antwoord nummer="2">De JWG blijft onverkort overeind als onderdeel van het aktiverend arbeidsmarktbeleid voor jongeren. Ik stel me voor om in overleg met de minister van Binnenlandse Zaken na te gaan of en zo ja op welke wijze het mogelijk is de realisatie van additionele arbeidsplaatsen bij de rijksoverheid te bevorderen. In dit verband verwijs ik naar de uitspraak van de minister van Bmnenlandse Zaken in het vragenuur van 12 april jl., dat het scheppen van arbeidsplaatsen in het kader van de JWG hoog op zijn agenda staat. </antwoord>
+      <antwoord nummer="3" voetnoot="1">Bij de mondelinge behandeling van het wetsvoorstel tot wijziging van de JWG in de Tweede Kamer <voetnoot nummer="1"/> is naar voren gekomen dat geen informatie voorhanden was over de inspanningen van de rijksoverheid zelf bij het realiseren van JWG-plaatsen. Bij die gelegenheid heb ik toegezegd het aandeel van de rijksoverheid bij de JWG-monitoring mee te nemen. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Kamernummer 23453</noot>
+      </noten>
+   </antwoorden>
+</kvr>

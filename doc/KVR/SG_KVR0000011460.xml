@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="2">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001156</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001156&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001156</item>
+         <item attribuut="Document-id">0000011460</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 225</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Groenman (D66) over de gelijke behandeling van slapers en gepensioneerden.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 225</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">225</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Groenman</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1992-12-01</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Ter Veld</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1992-12-16</item>
+         <item attribuut="Beginpagina">463</item>
+         <item attribuut="Eindpagina">464</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="463" allpagenumbers="463" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1992"/>
+      <vraagdata vraagnummer="225" onderwerp="de gelijke behandeling van slapers en gepensioneerden." indiendatum="1992-12-1">
+         <vrager partij="D66" oorsprong="parlement">Groenman</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1992-12-16">
+         <antwoorder functie="staatssecretaris" ministerie="Sociale Zaken en Werkgelegenheid">Ter Veld</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1" voetnoot="1 2">Realiseert u zich, dat het uitvoeringsbesluit <voetnoot nummer="1"/> met betrekking tot de gelijke behandeling van slapers en gepensioneerden <voetnoot nummer="2"/> er in ieder geval toe leidt dat VUT-ters en arbeidsongeschikt verklaarde deelnemers - voor wie premievrijstelling geldt en de pensioenopbouw wordt voortgezet - niet onder het begrip «gewezen deelnemer» vallen en dus nog steeds met de nadelen van pensioenbreuk geconfronteerd kunnen worden? </vraag>
+      <vraag nummer="2">Acht u het niet wenselijk thans reeds deze tekortkoming door aanpassing van het uitvoeringsbesluit weg te nemen ten einde een latere aanpassing - met terugwerkende kracht - bij de evaluatie van de wet in 1995 te voorkomen? Zo neen, waarom niet? Bent u bereid de pensioencommissie van de Stichting van de Arbeid om pensioentechnisch advies te vragen teneinde het uitvoeringsbesluit in die zin te wijzigen, dat de in vraag 1 bedoelde groepen alsnog onder de definitie van «gewezen deelnemers» zullen vallen? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" titel="regeling omschrijving gewezen deelnemer"> Uitvoeringsbesluit Pensioen– en spaarfondsenwet «regeling omschrijving gewezen deelnemer» d.d 14 oktober 1991, Staatscourant 1991, nr. 205</noot>
+         <noot nummer="2"> Wet van 23 augustus 1991 tot wijziging van de Pensioen– en spaarfondsenwet</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja. Ik acht het niet wenselijk om vooruitlopend op de evaluatie van de wet tot een uitbreiding van het begrip «gewezen deelnemer» over te gaan. Daartegen pleit bovendien dat in de pensioensfeer arbeidsongeschikten en VUT-ters voor wie de premiebetaling en de pensioenopbouw wordt voortgezet met actieve deelnemers kunnen worden gelijkgesteld. Voor zover mij bekend, is er met betrekking tot VUT-ters meestal geen sprake van bevroren pensioengrondslagen bij de voortgezette pensioenopbouw; met betrekking tot arbeidsongeschikten is bij een minderheid van de pensioenregelingen sprake van voortzetting op basis van bevroren grondslagen. Bij de evaluatie kan en zal in een bredere context worden bezien in hoeverre het voorschrift tot gelijke behandeling van slapers en gepensioneerden beantwoordt aan zijn doelstelling. Daarbij wordt dan ook betrokken of er naast slapers andere categorieën zijn met bevroren pensioenaanspraken of met een pensioenaanwas die achterblijft bij de toeslagen op ingegane pensioenen. </antwoord>
+      <antwoord nummer="3">Ik acht een pensioentechnische adviesaanvrage van de Stichting van de Arbeid over uitbreiding van het begrip gewezen deelnemers tot VUT-ters en arbeidsongeschikten niet nodig. Ik kan meedelen dat binnen de Stichting van de Arbeid wordt overwogen de uitvoeringspraktijk van de gelijke behandeling bij het verlenen van toeslagen aan een nader onderzoek c.q. inventarisatie te onderwerpen. Voorts voeren de sociale partners thans voor zover het arbeidsongeschikten betreft achterbanberaad over dit vraagstuk, waarbij onder meer aan de orde is of - mede in het licht van de invoering van de wet gelijke behandeling slapers en gepensioneerden - een heroverweging van bevroren grondslagen onder de aandacht van de bij pensioenregelingen betrokken partijen moet worden gebracht. Deze oplossing prefereer ik boven een uitbreiding van het begrip gewezen deelnemer. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

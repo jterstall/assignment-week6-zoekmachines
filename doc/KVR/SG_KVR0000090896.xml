@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19881989:0001297</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001297&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001297</item>
+         <item attribuut="Document-id">0000090896</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1988-1989 nummer 293</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Frissen (C.D.A.) over een tekort aan Nederlandse luchtverkeersleiders.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1988-1989 nummer 293</item>
+         <item attribuut="Jaargang">1988_1989</item>
+         <item attribuut="Vraagnummer">293</item>
+         <item attribuut="Indiener">
+            <persoon partij="CDA">Frissen</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-01-19</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Smit-Kroes</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-02-13</item>
+         <item attribuut="Beginpagina">589</item>
+         <item attribuut="Eindpagina">590</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1988-1989 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 8 - 1 9 8 9 ,  A a n h a n g s e l " filenaam="" issn-nummer="ISSN 0921 7398 " uitgever="SDU uitgeverij 's-Grc  unuge 1989 "/>
+      <vraagdata vraagnummer="293" onderwerp="een tekort aan Nederlandse luchtverkeersleiders." indiendatum="19 januari 1989)">
+         <vrager partij="CDA" oorsprong="parlement">Frissen</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="13 februari 1989)">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">S m i t - K r o e s</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1 ">Hebt u kennis genomen van de  berichten over de escalerende  problemen inzake een tekort aan  verkeersleiders bij het Nederlands  luchtverkeersleidingscentrum, die  binnen afzienbare termijn zullen  leiden toï ernstige vertragingen van  en naar Nederlandse luchtha- vens? </vraag>
+      <vraag nummer="1 "/>
+      <vraag nummer="2 ">Deelt u de zorg van de Rijksluchtvaart- dienst, dat op korte termijn de  problemen tussen vraag en aanbod  van luchtverkeersleiders niet op te  lossen zijn?  </vraag>
+      <vraag nummer="3 ">Welke maatregelen denkt u hiertegen  te nemen?  </vraag>
+      <vraag nummer="4 ">Op welke termijn denkt u het tekort  aan goed opgeleide Nederlandse  luchtverkeersleiders op te vangen?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1 ">Ja.  </antwoord>
+      <antwoord nummer="2 ">Ja.  </antwoord>
+      <antwoord nummer="3 ">Verscheidene maatregelen zijn  inmiddels genomen. Zo is de opleiding  van verkeersleiders zoveel mogelijk  geïntensiveerd en wordt gepoogd  door aanpassing van het opleidings- systeem het afval-percentage in het  eindstadium te beperken. Voorts  wordt onderzocht of langs andere  weg het aantal beschikbare verkeers- leiders kan worden vergroot. Tenslotte  hebben methoden om de beschikbare  menscapaciteit zo doelmatig mogelijk  in te zetten, de bijzondere aandacht.  </antwoord>
+      <antwoord nummer="4 ">Ik verwacht dat omstreeks 1992/1993  het tekort aan goed opgeleide  verkeersleiders zo ver teruggedron- gen is, dat het geen oorzaak van  vertragingen meer zal zijn.  Een volledige oplossing verwacht ik  niet eerder dan in 1995, mede omdat  nog verkeersleiders van Schiphol  over zullen gaan naar het verkeerslei- dingscentrum Maastricht van  Eurocontrol.  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

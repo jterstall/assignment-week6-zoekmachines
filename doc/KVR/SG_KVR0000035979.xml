@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001572</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001572&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001572</item>
+         <item attribuut="Document-id">0000035979</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 649</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Te Veldhuis en Blauw (beiden V.V.D.) over illegale kap in Noord-Brabant</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 649</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">649</item>
+         <item attribuut="Indiener">
+            <persoon partij="beiden VVD">Te Veldhuis en Blauw</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-04-17</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Braks</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-05-28</item>
+         <item attribuut="Beginpagina">1307</item>
+         <item attribuut="Eindpagina">1308</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1307" allpagenumbers="1307 1308" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN0921 -7398" uitgever="SDU uitgeverij 's-Gravenhage 1990"/>
+      <vraagdata vraagnummer="649" onderwerp="illegale kap in Noord-Brabant" indiendatum="1990-04-17">
+         <vrager partij="beiden VVD" oorsprong="parlement">Te Veldhuis en Blauw</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-05-28">
+         <antwoorder functie="minister" ministerie="Landbouw, Natuurbeheer en Visserij">Braks</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="2">Zijn in Noord-Brabant honderden hectaren bos illegaal gekapt en worden deze niet herbebost?'- <voetnoot nummer="2"/>Is er controle op illegale veilingen en door wie moet deze controle worden uitgevoerd? </vraag>
+      <vraag nummer="3">Indien vraag 1 bevestigend wordt beantwoord, kan er dan alsnog een herplantplicht worden opgelegd? </vraag>
+      <vraag nummer="4">Wat is de minister voornemens te doen om soortgelijke overtredingen te voorkomen of althans tijdig op te sporen? </vraag>
+      <vraag nummer="5" voetnoot="3">Zijn de gronden in Limburg, waarop eerder illegale veilingen werden gesignaleerd <voetnoot nummer="3"/>, inmiddels herbeplant? </vraag>
+      <vraag nummer="6">Komt illegaal kappen van bos ook elders in Nederland voor? Wordt namens de minister nagegaan of grond, die in het kader van de 'set-aside' regeling zal worden bebost, eerder bebost is geweest en via illegale kap in landbouwgrond is omgezet? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="4"/>
+         <noot nummer="1"> Vrij Nederland, 24 maart jl , Luchtfoto's laten het zien, de illegale ontbossing van Noord-Brabant</noot>
+         <noot nummer="2" datum="1990-03-1" bron=" Het Nieuwsblad"> Het Nieuwsblad, 1 maart 1990, Het Brabants Landschap wordt polderlandschap</noot>
+         <noot nummer="3" datum="1988-06-30" bron=" Limburgs Dagblad"> Limburgs Dagblad, 30 juni 1988, Staats– bosbeheer sommeert eigenaren tot herbe– planting</noot>
+         <noot nummer="4" datum="1990-03-1" bron=" Het Binnenhof"> Het Binnenhof, 1 maart 1990, Ongeloof over illegale houtkap bij AiD</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="4">
+      <antwoord nummer="1">Neen, in Noord-Brabant zijn geen honderden hectaren bos iliegaal gekapt. Er is slechts incidenteel sprake van het illegaal vellen van houtopstanden en het niet tijdig herbeplanten van de gevelde opper– vlakten. </antwoord>
+      <antwoord nummer="2 en 3">Ingevolge artikel 2 van de Boswet is degene die het voornemen heeft om tot vellen of doen vellen van een houtopstand, anders dan bij wijze van dunning, over te gaan, verplicht van dit voornemen tijdig tevoren kennis te geven aan de Directeur Staatsbosbeheer. De directeur zendt onverwijld een bevestiging van de ontvangst van de kennisgeving. Op grond van de Boswet is de eigenaar van de grond waarop een houtop– stand, anders dan bij wijze van dunning, is geveld, verplicht om binnen een tijdvak van drie jaren na de velling te herbeplanten. Zowel op de naleving van de meldingsplicht als ook op de naleving van de verplichting tot herbeplanten, wordt door de Algemene Inspectiedienst (AID) nauwgezet gecontroleerd. Van de ontvangstbevestigingen van de kennisgevingen die op grond van artikel 2 van de Boswet door de Directeur Staatsbosbeheer worden verzonden, wordt telkens, ten behoeve van de controle, een afschrift gezonden naar de regionale inspectiekantoren van de AID. Door de controleurs bosbouw wordt vastgesteld of de houtopstand binnen de periode van één jaar na de melding is geveld en of herbe– planting binnen een periode van drie jaren heeft plaatsgevonden. De controles op de herplantplicht worden vaak gecombineerd met de controles die de AID verricht op de naleving van de subsidievoorwaarden in het kader van de Regeling bijdragen bos– en landschapsbouw. Op grond van deze regeling kan onder meer een bijdrage worden verleend voor herbebossing indien dit geschiedt op grond van een bestaande verplichting tot herbe– planting ingevolge de Boswet. lllegale vellingen worden door de AID door middel van controle te velde opgespoord. Indien een illegale velling wordt geconstateerd wordt proces-verbaal opgemaakt. Voorts doet de AID-controleur mededeling aan de eigenaar van de gevelde oppervlakte dat herbeplanting binnen de in artikel 3 van de Boswet genoemde periode moet plaats– vinden. Het tijdstip van de velling vonden na voorafgaande tijdige kennisgeving als bedoeld in artikel 2 van de Boswet. Op deze gronden heeft nog geen herbeplanting plaats– gevonden. Van de zaken waarbij herbeplanting ten onrechte achterwege is gebleven, is door de AID proces-verbaal opgemaakt. Een deel van deze zaken is thans in behandeling bij het Openbaar Minis terie. Daarnaast speelt in één zaak een procedure bij het College van Beroep voor het bedrijfsleven. Voor het geval dat betrekking heeft op de naaldhoutopstanden welke zijn geveld ten behoeve van afgravingen in de gemeenten Beegden en Heel/Panheel wordt momenteel langs bestuurlijke weg naar een oplossing gezocht. </antwoord>
+      <antwoord nummer="6">In het gehele land wordt incidenteel wel eens illegaal bos gekapt. Zoals reeds hierboven werd vermeld, worden deze illegale vellingen door de AID te velde opgespoord. Van de geconstateerde overtredingen wordt door de AID proces-verbaal opgemaakt. </antwoord>
+      <antwoord nummer="7">De AID controleert de aanvragen die m het kader van de set-aside regeling worden ingediend voor het uit produktie nemen van bouwland door middel van bebossing, steek– proefsgewijze. Dergelijke aanvragen zullen in de regel gepaard gaan met aanvragen in het kader van de Beschikking vrijstelling meldings– en herplantplicht, de Regeling bijdragen aanleg snelgroeiend bos 1988 en de Regeling bijdragen bos– en landschapsbouw. Op laatstge– </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

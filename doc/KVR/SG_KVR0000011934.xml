@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001630</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001630&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001630</item>
+         <item attribuut="Document-id">0000011934</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 700</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Versnel-Schmitz (D66) over de grenzen voor een woonvergunning.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 700</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">700</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Versnel-Schmitz</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-06-01</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Heerma</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-06-30</item>
+         <item attribuut="Beginpagina">1429</item>
+         <item attribuut="Eindpagina">1430</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1429" allpagenumbers="1429" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="700" onderwerp="de grenzen voor een woonvergunning." indiendatum="1993-06-1">
+         <vrager partij="D66" oorsprong="parlement">Versnel-Schmitz</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-06-30">
+         <antwoorder functie="staatssecretaris" ministerie="Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer">Heerma</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="3">
+      <vraag nummer="1" voetnoot="1">Hebt u kennis genomen van het bericht <voetnoot nummer="1"/> over het plan van het dagelijks bestuur van het stadsgewest Haaglanden om met ingang van 1996 de grenzen voor een woonvergunning te verhogen tot 1100 gulden maandhuur voor huurwoningen en drie ton voor koopwoningen? </vraag>
+      <vraag nummer="2">Zijn deze grenzen niet strijdig met de maximumgrenzen die zijn vastgesteld in de vorig jaar in het parlement behandelde, en per 1 juli 1993 ingaande Huisvestingswet (momenteel 865 gulden maandhuur voor een huurwoning en 152.000 gulden voor een koopwoning? </vraag>
+      <vraag nummer="3">Acht u dit plan niet evenzeer strijdig met uw circulaire (MG 91-18) waarin u aan de Colleges van B &amp; W en GS laat weten dat alleen bij wijze van hoge uitzondering en na goedkeuring van gedeputeerde staten naar boven kan worden afgeweken en dat hiervoor in beginsel alleen gemeenten in landelijke gebieden in aanmerking komen, waaraan door het bovengemeentelijk ruimtelijk beleid strikte groeibeperkingen zijn opgelegd? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Haagsche Courant 14 mei</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja. In artikel 6, tweede lid, van de Huisvestingswet is bepaald dat in het algemeen alleen huur– en koopwoningen als distributiewoonruimte kunnen worden aangewezen onder de vastgestelde huurprijsgrens respectievelijk de koopprijsgrens. Blijkens het derde lid van dat artikel is de huurprijsgrens gelijkgesteld aan de op het tijdstip van de aanwijzing geldende maximale huurprijs per maand waarvoor in het desbetreffende jaar een bijdrage op grond van de Wet individuele huursubsidie (thans f 865,- p/m) kan worden verstrekt. De koopprijsgrens is gelijkgesteld aan de in de betrokken gemeente geldende maximale koopsom van een woonruimte, voor het in eigendom verkrijgen waarvan aan de eigenaar-bewoner een van diens inkomen afhankelijke rijksbijdrage kan worden verstrekt (op grond van het Besluit woninggebonden subsidies bedraagt de maximale koopsom per 1 januari 1993 voor Zuid-Holland f 152.000,-). De gemeenten zijn onder die grenzen vrij om een aan de plaatselijke of regionale situatie aangepaste begrenzing te kiezen bij de afbakening van het distributiebestand. Hantering van hogere distributiegrenzen is in strijd met de wet. (Voor de uitzondering zie antwoord op vraag 3.) </antwoord>
+      <antwoord nummer="3">Krachtens het vierde lid van artikel 6 van de Huisvestingswet is aanwijzing als distributiewoonruimte van huur– en koopwoningen met een huur– dan wel koopprijs boven de hierboven genoemde prijsgrenzen alleen bij wijze van hoge uitzondering en onder goedkeuring van gedeputeerde staten mogelijk. Op grond van genoemd artikellid kunnen voor een zodanige goedkeuring echter uitsluitend die gemeenten of die kernen van een gemeente in aanmerking komen waaraan door het bovengemeentelijk ruimtelijk beleid strikte groeibeperkingen zijn opgelegd en dan ook alleen indien daarmee het belang van een evenwichtige en rechtvaardige verdeling van woonruimte is gediend. Indien het dagelijks bestuur van het stadsgewest Haaglanden inderdaad een plan als bedoeld in het bericht van de Haagsche Courant van 14 mei jl. ten uitvoering zou brengen dan acht ik dat, ook indien hiervoor toestemming van gedeputeerde staten zou worden verkregen, in </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

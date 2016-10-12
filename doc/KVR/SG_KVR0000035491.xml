@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Nader antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19891990:0001084</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001084&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0001084</item>
+         <item attribuut="Document-id">0000035491</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 161</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Braams (VVD) en De Leeuw (CDA) over het aanplanten van bos.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 161</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">161</item>
+         <item attribuut="Indiener">
+            <persoon>Braams</persoon>
+            <persoon>De Leeuw</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-06-16</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Braks</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-11-20</item>
+         <item attribuut="Beginpagina">329</item>
+         <item attribuut="Eindpagina">330</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="329" allpagenumbers="329" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 921 7398" uitgever="SDU uitgeverij 's Gravenhage 1989"/>
+      <vraagdata vraagnummer="161" onderwerp="hetaanplanten van bos." indiendatum="1989-06-16">
+         <vrager partij="" oorsprong="parlement">Braams</vrager>
+         <vrager partij="" oorsprong="parlement">De Leeuw</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="20 november 1989) Op een subsidie-aanvraag in het kader van de Beschikking ter zake van het uit produktie nemen van bouwland (Stcrt. 1988, 158) voor braaklegging/bebossing van gronden, gelegen in het Waardevol Agrarisch Cultuurlandschap (W.A.C.) van de Dollardpolders, is door mijn ministerie afwijzend beslist. Immers, zoals ik al eerder kenbaar heb gemaakt (onder meer in mijn antwoord op de op 16 juni 1989 ingediende vragen van de leden Braams en De Leeuw">
+         <antwoorder functie="" ministerie="Landbouw, Natuurbeheer en Visserij"/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="10">
+      <vraag nummer="1" voetnoot="1">Wanneer mag het nadere plan van toedeling van de extra f 5 mln. gulden, die als gevolg van de motie Voorhoeve/de Vries voor de bosbouw is bestemd, tegemoet worden gezien? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Ligt het in de bedoeling de voor 1989 aangewezen extra  f 5 miljoen in het lopende kalenderjaarte besteden? </vraag>
+      <vraag nummer="3">Is een oplossing gevonden voor de financiering van de aanleg van 250 ha bos in de Flevopolder in 1989 en de daarna volgende jaren? </vraag>
+      <vraag nummer="4">Welk bedrag wordt jaarlijks nodig geacht teneinde het aanleggen van dit bos mogelijk te maken? </vraag>
+      <vraag nummer="5">Hoeveel ha moet in totaal nog worden aangelegd volgens de oorspronkelijke plannen? </vraag>
+      <vraag nummer="6">Zijn voor ongeveer 500 ha in Beerta uit gebruik te nemen landbouwgrond door de eigenaar c.q. eigenaren plannen voorbereid teneinde tot aanplanten van bos over te kunnen gaan? </vraag>
+      <vraag nummer="7">Waren de hiervoor benodigde financiële middelen aanwezig door de mogelijkheid van combineren van verschilende bijdrage-regelingen? </vraag>
+      <vraag nummer="8">Kunt u mededelen waarop de bezwaren berusten, die aanleiding heben gegeven tot het tot dusver niet uitvoeren van het bebossingsplan en door wie deze zijn ingebracht? </vraag>
+      <vraag nummer="9" voetnoot="2">Welke inspanning hebt u zich getroost in het algemeen van de lagere bestuursriiveaus steun te krijgen voor de uitvoering van bebossingsplannen, die in overeen– stemming zijn met mondiale en nationale doelstellmgen, die de regering nastreeft? <voetnoot nummer="2"/>
+      </vraag>
+      <vraag nummer="10">Bent u bereid, in de onderhavige situatie na te gaan of van uw kant een stimulans voor de voortgang van dit project kan worden gegeven? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Zie Kamerstuk 20800 nr. 23</noot>
+         <noot nummer="2"> In dit geval het streven naar evenwicht in de koolstofcyclus en een verhoging van de zelfvoorzieningsgraad van hout</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

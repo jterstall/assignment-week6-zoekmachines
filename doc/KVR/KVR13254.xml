@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Hoekema (D66) en Koenders (PvdA) aan de ministers van Buitenlandse Zaken en van Defensie over terugtrekking van Amerikaanse kernwapens uit Griekenland. (Ingezonden 29 januari 2001); Antwoord</item>
+         <item attribuut="Bestand">13Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR13254
+</item>
+         <item attribuut="Inhoud">Vragen over het terugtrekken van Amerikaanse kernwapens van de Griekse luchtmachtbasis Araxos. (Athens News, 18 januari 2001).</item>
+         <item attribuut="Rubriek">Veiligheidsbeleid en defensie (Militair materieel)</item>
+         <item attribuut="Trefwoorden">Griekenland Kernwapens Verenigde Staten</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 2000-2001, nr. 809, Tweede Kamer</item>
+         <item attribuut="Vraagnr_bij_indiening">2000105430</item>
+         <item attribuut="Afkomstig_van">Buitenlandse Zaken (BUZA)</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Hoekema</persoon>
+            <persoon partij="PvdA">Koenders</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">2001-03-08</item>
+         <item attribuut="Datum_indiening">2001-01-29</item>
+         <item attribuut="Document-id">KVR13254</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 2000–2001" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1681" allpagenumbers="1681" vetnummer="2000105430" code="" lopendefooter="Tweede Kamer, vergaderjaar 2000–2001, Aanhangsel" filenaam="KVR13254" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 2001"/>
+      <vraagdata vraagnummer="809" onderwerp="" indiendatum="2001-01-29">
+         <vrager partij="D66" oorsprong="parlement">Hoekema</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Koenders</vrager>
+         <vraagt-aan>de ministers van Buitenlandse Zaken en van Defensie</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="2001-03-8">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">Van Aartsen</antwoorder>
+         <mede-antwoorder>de minister van Defensie</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1" voetnoot="1">Heeft u kennisgenomen van het bericht dat Amerikaanse kernwapens van de Griekse luchtmachtbasis Araxos zullen worden teruggetrokken? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Is dit bericht waar? </vraag>
+      <vraag nummer="3">Wie heeft het initiatief genomen voor deze terugtrekking? </vraag>
+      <vraag nummer="4">Wat is de argumentatie bij resp. Griekenland en de VS voor de terugtrekking? </vraag>
+      <vraag nummer="5">Heeft hierover NAVO-consultatie plaats gehad? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="2001-01-18" bron="Athens News">Athens News, 18 januari 2001</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2 t/m 5">In het licht van het vigerende NAVO-voorlichtingsbeleid terzake van de locatie van Amerikaanse kernwapens in Europa, kunnen over de inhoud van het genoemde artikel uit de Athens News geen mededelingen worden gedaan. De Regering kan U echter verzekeren dat er geen sprake is van een wijziging in het nucleaire beleid van de NAVO. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

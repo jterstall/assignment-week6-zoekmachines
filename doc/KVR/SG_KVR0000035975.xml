@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001568</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001568&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001568</item>
+         <item attribuut="Document-id">0000035975</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 645</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Eisma (D66) over stormschade.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 645</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">645</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Eisma</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-05-11</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Maij-Weggen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-05-22</item>
+         <item attribuut="Beginpagina">1299</item>
+         <item attribuut="Eindpagina">1300</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1299" allpagenumbers="1299" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="SDU uitgevenj 's Gravenhage 1990"/>
+      <vraagdata vraagnummer="645" onderwerp="stormschade." indiendatum="1990-05-11">
+         <vrager partij="D66" oorsprong="parlement">Eisma</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1990-05-22">
+         <antwoorder functie="minister" ministerie="Verkeer en Water– staat">Maij-Weggen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1">Herinnert u zich uw uitspraak, dat het kabinet vóór 1 mei uitsluitsel zou geven over het extra bedrag van f 25 mln. om de stormschade te compen– seren in Ameland en Zeeland?' Is dit bedrag als gevolg van bijko– mende claims nog verhoogd? </vraag>
+      <vraag nummer="3">Handhaaft u uw mening, dat dit extra bedrag niet kan worden vrijgemaakt op de begroting van Verkeer en Waterstaat?' </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1"> t/m6 Voor de gevraagde informatie verwijs ik u naar mijn brief aan u van 14 mei 1990 (21 300 XII, nr. 62) over de schade aan dijken, duinen en water– keringen door de stormen van 1990. Wat betreft de nota Kustverdediging kan ik u berichten dat definitieve besluitvorming in het Kabinet in juni zal plaatsvinden. De Kamer zal hierna zo spoedig mogelijk worden geïnformeerd. Wat is het resultaat van het beraad in het kabinet? </antwoord>
+      <antwoord nummer="5">Is de nota Kustverdediging inmiddels in het kablnet besproken? Wanneer kan de Kamer deze nota ontvangen? </antwoord>
+      <antwoord nummer="6">Zal nog voor de zomer aanbesteding plaatsvinden van de zandsuppletie– werken in Ameland en Zeeland? </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"> Tijdens het mondeling overleg over kustverdediging op 3 april jl</noot>
+      </noten>
+   </antwoorden>
+</kvr>

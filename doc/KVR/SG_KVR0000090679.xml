@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19881989:0001080</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001080&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001080</item>
+         <item attribuut="Document-id">0000090679</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1988-1989 nummer 81</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Spieker en Swildens-Rozendaal (beiden P.v.d.A.) over de assistentie van de politie bij het executeren van vonissen inzake arbeidsconflicten.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1988-1989 nummer 81</item>
+         <item attribuut="Jaargang">1988_1989</item>
+         <item attribuut="Vraagnummer">81</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Spieker</persoon>
+            <persoon partij="PvdA">Swildens-Rozendaal</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1988-09-06</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Korthals Altes</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1988-10-31</item>
+         <item attribuut="Beginpagina">161</item>
+         <item attribuut="Eindpagina">162</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 8 - 1 9 8 9 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 8 - 1 9 8 9 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="81" onderwerp="de assistentie van de politie bij het executeren van vonissen inzake arbeidsconflicten." indiendatum="6 september 1988) Hebt u kennisgenomen van de verwijdering van 73 bemanningsleden van het half afzinkbare werkschip ' H e r m o d ' door politie-beambten op maandag 16 augustus j l . en het daaraan ten grondslag liggende vonnis van de fungerend-president van de rechtbank te Alkmaar dd. 1 5 augustus jl.?">
+         <vrager partij="PvdA" oorsprong="parlement">Spieker</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Swildens-Rozendaal</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="31 oktober 1988)">
+         <antwoorder functie="minister" ministerie="Justitie">K o r t h a l s A l t e s</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="8">
+      <vraag nummer="2 ">Is over het optreden van de politie  onder leiding van de hoofdofficier  van justitie in het arrondissement  Alkmaar vooraf overleg gevoerd met  het ministerie van Justitie?  </vraag>
+      <vraag nummer="3 ">In hoeverre deelt u de algemeen  gangbare mening*, dat de politie  weliswaar verplicht is waar nodig de  executerende deurwaarder terzijde te  staan, doch de autoriteiten wel de  tijd mogen nemen te beslissen hoe  en wanneer die assistentie wordt  verleend?  </vraag>
+      <vraag nummer="4 ">W o r d t er in arbeidsconflicten  doorgaans naar gestreefd het  optreden van de politie bij de  executie van een gerechtelijke  uitspraak tot een minimum te  beperken, zoals het geval was bij de  afwikkeling van het vonnis van de  president van de rechtbank te  Rotterdam dd. 5 augustus jl. inzake  acties van de bemanning van het  werkschip 'Balder'?  </vraag>
+      <vraag nummer="5 ">Deelt u de mening dat het Alkmaarse  vonnis, ongeacht de achtergronden  van de zaak, tot voorzichtigheid op  het punt van de executie aanleiding  gaf, daar de rechter in samenspraak  met partijen in de overweging van  het vonnis richtlijnen ten opzichte  van te voeren onderhandelingen gaf?  </vraag>
+      <vraag nummer="6 ">Was het de autoriteiten bekend, dat  het voor actieleider Suarez onmogelijk  was 'zich sterk te maken voor zijn  collegae' m.b.t. de afspraken,  gemaakt tijdens de rechtbankzitting,  daar hem de toegang tot de 'Hermod'  werd ontzegd (zie de Volkskrant van  17 augustus jl.)?  </vraag>
+      <vraag nummer="7 ">Zo neen, vindt u dat de autoriteiten  zich hiervan op de hoogte hadden  behoren te stellen?  </vraag>
+      <vraag nummer="8 ">Bent u, gelet op de gewenste  terughoudendheid bij het inschakelen  van de politie en de specifieke  omstandigheden van het geval, van  mening dat het optreden van 'de  sterke  a r m ' de dag volgend op de  dag van de uitspraak in ieder geval  voortijdig was?  </vraag>
+      <vraag nummer="9 ">Zo ja, ziet u in deze zaak aanleiding  regels te stellen rond de assistentie  van de politie bij het executeren van  vonissen inzake arbeidsconflicten of  beschouwt u deze zaak als een  incident?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="7">
+      <antwoord nummer="1 ">Ja.  </antwoord>
+      <antwoord nummer="2 ">Voorafgaand aan de situatie die op  15 augustus 1988 ontstond nadat de  president van de arrondissements- rechtbank te Alkmaar vonnis had  gewezen in het arbeidsconflict, had  de Inspecteur-Generaal der Mijnen  reeds op 6 augustus 1988 opdracht  gegeven de HERMOD buiten de  veiligheidszone van 500 meter te  plaatsen, hetgeen in concreto  betekende dat de HERMOD anker  moest ophalen en waarbij het aan de  kapitein van de HERMOD was een  veilige ankerplaats te zoeken. De  kapitein berichtte dat het hem door  het toedoen van de stakende  bemanningsleden onmogelijk was  aan die aanwijzing te voldoen.  Op 12 augustus 1988 wendden  zowel de Panamese autoriteiten als  de kapitein van de HERMOD zich tot  de Nederlandse overheid met het  verzoek  o m assistentie te verlenen  'om het oproer aan boord van de  HERMOD te controleren en stop te  zetten.'  Als uitvloeisel daarvan vond in  overleg met mij in de avonduren van  vrijdag 12 augustus 1988 politie-op- treden plaats onder leiding van de  hoofdofficier van justitie te Alkmaar.  Nadat rijkspolitieambtenaren aan  boord van de HERMOD waren  gegaan, bleek dat het gezag van de  kapitein over zijn bemanning ernstiger  was aangetast dan de Nederlandse  overheid voordien had begrepen.  verzekeren en gewelddadigheden  van de stakers tegen vitale onderdelen  van het schip te voorkomen.  Op 15 augustus 1988 heeft de  deurwaarder andermaal een beroep  gedaan op de assistentie van de op  de HERMOD aanwezige rijkspolitie- ambtenaren bij het betekenen van  het in kort geding gewezen vonnis  van de stakers.  </antwoord>
+      <antwoord nummer="3 ">Deze opvatting kan ik onderschrijven.  Het gaat daarbij evenwel om beslis- singen waaraan beleidsmatige  afwegingen, zoals de gevolgen voor  de openbare orde en de veiligheid,  ten grondslag liggen en niet om de  toetsing van de innerlijke waarde van  het door de onafhankelijke rechter  tussen twee civiele procespartijen  gewezen vonnis. De verantwoordelijk- heid voor de tenuitvoerlegging zelf  berust te allen tijde bij degene die tot  die tenuitvoerlegging opdracht heeft  gegeven.  Omdat in het onderhavige geval, na  de uitspraak van de president van de  arrondissementsrechtbank, de  situatie aan boord snel slechter werd  en escalatie dreigde, was voortva- rendheid geboden.  </antwoord>
+      <antwoord nummer="4 ">Zoals in het antwoord op vraag 3 is  meegedeeld, is de mate van inzet van  de politie niet afhankelijk van de aard  van het conflict, maar van aspecten  die voor bestuurlijk en justitieel  beleid ter zake doen, zoals bijvoor- beeld de effecten voor de openbare  orde en de veiligheid.  </antwoord>
+      <antwoord nummer="5 ">Naar mijn mening gaf het vonnis van  de president van de arrondissements- rechtbank te Alkmaar geen aanleiding  tot een grotere voorzichtigheid op  betekent echter niet dat het daardoor  voor Suarez - die zich tijdens de  rechtbankzitting had sterk gemaakt  voor zijn niet aanwezige collegae - onmogelijk  w e r d gemaakt  o m de in  het vonnis neergelegde afspraken na  te komen.  De door de president voorgestelde  afspraken - ingegeven door het feit  dat het arbeidsconflict nog niet was  opgelost mede en vooral omdat door  de werknemers geen gemachtigde  was aangewezen om namens hen te  onderhandelen - zien immers in het  bijzonder op de heropening van de  onderhandelingen, waarbij de  vertegenwoordigers van de werkne- mers voorzien dienen te zijn van de  gebruikelijke volmachten. Daarnaast  staat het verbod van de president om  gedurende  3 0 dagen na betekening  van het vonnis door te gaan met de  bezetting/staking.  </antwoord>
+      <antwoord nummer="8 ">Naar mijn oordeel kan niet gesteld  worden dat het optreden van de  politie de dag volgend op die van de  uitspraak voortijdig is geweest, gelet  op de uitdrukkelijke machtiging in het  vonnis dit terstond na betekening,  zonodig met behulp van de sterke  arm, ten uitvoer te leggen. Daarnaast  speelt een rol dat het, juist gelet op  de specifieke omstandigheden van  het onderhavige geval, namelijk een  dreigende ernstige verstoring van de  orde aan boord van een schip binnen  de Nederlandse territoriale wateren,  niet verantwoord leek niet onmiddel- lijk gevolg te geven aan de rechterlijke  uitspraak.  </antwoord>
+      <antwoord nummer="9 ">Gelet op de zeer bijzondere omstan- digheden van het onderhavige geval  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

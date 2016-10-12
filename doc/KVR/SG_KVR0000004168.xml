@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0001657</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001657&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001657</item>
+         <item attribuut="Document-id">0000004168</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 443</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid E. van Middelkoop (GPV) over de commissie die voor de VN de oorlogsmisdaden in ex-Joegoslavië onderzoekt.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 443</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">443</item>
+         <item attribuut="Indiener">
+            <persoon>Van Middelkoop E.</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-03-24</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Kooijmans</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-04-13</item>
+         <item attribuut="Beginpagina">899</item>
+         <item attribuut="Eindpagina">900</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="899" allpagenumbers="899" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1994"/>
+      <vraagdata vraagnummer="443" onderwerp="de commissie die voor de VN de oorlogsmisdaden in ex-Joegoslavië onderzoekt." indiendatum="1994-03-24">
+         <vrager partij="" oorsprong="parlement">Van Middelkoop E.</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="13april 1994">
+         <antwoorder functie="minister" ministerie="Buitenlandse Zaken">Kooijmans</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Moet de commissie, die voor de VN de oorlogsmisdaden in ex-Joegoslavië moet onderzoeken, haar werkzaamheden eind april beëindigen? <voetnoot nummer="1"/>
+      </vraag>
+      <vraag nummer="2">Wie heeft hiertoe besloten? Wat is de reden hiervoor geweest? </vraag>
+      <vraag nummer="3">Wat gebeurt er met het door de commissie reeds opgebouwde computerbestand van vijfenvijftigduizend documenten? </vraag>
+      <vraag nummer="4">Wat betekent deze beslissing voor het beoogd functioneren van het Internationaal Tribunaal voor de vervolging van personen aansprakelijk voor ernstige schendingen van het internationale humanitaire recht, begaan op het grondgebied van het voormalige Joegoslavië sedert 1991? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1994-03-19" bron=" Volkskrant"> Volkskrant, 19 maart 1994</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1">Ja. Het besluit hiertoe is genomen door de Juridisch Adviseur van de Secretaris-Generaal van de Verenigde Naties, namens de Secretaris-Generaal. Reden voor het besluit was de benoeming van een Openbaar Aanklager bij het Internationaal Tribunaal voor de vervolging van personen aansprakelijk voor ernstige schendingen van het internationale humanitaire recht, begaan op het grondgebied van het voormalige Joegoslavië sedert 1991. De Openbaar Aanklager is verantwoordelijk voor het voorbereiden van strafzaken tegen deze personen. Het is altijd de bedoeling geweest dat de Openbaar Aanklager bij het Tribunaal de taken van de Commissie van Experts met betrekking tot het verzamelen van bewijsmateriaal zou overnemen. </antwoord>
+      <antwoord nummer="3 en 4">De door de commissie verzamelde gegevens zullen worden overgedragen aan de Openbaar Aanklager bij het Internationaal Tribunaal. Voor het overige moge ik verwijzen naar het debat in de Tweede kamer op 3 maart jongsleden naar aanleiding van het wetsvoorstel «Bepalingen verband houdend met de instelling van het Internationaal Tribunaal voor de vervolging van personen aansprakelijk voor ernstige schendingen van het internationale humanitaire recht, begaan op het grondgebied van het voormalige Joegoslavië sedert 1991 «– </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1"/>
+         <noot nummer="1"> Handelingen, vergaderjaar 1993-1994, bladzijde 4223-4246</noot>
+      </noten>
+   </antwoorden>
+</kvr>

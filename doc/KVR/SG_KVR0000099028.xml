@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="5">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19871988:0001314</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001314&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19871988:0001314</item>
+         <item attribuut="Document-id">0000099028</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1987-1988 nummer 374</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid De Beer (V.V.D.) over overbelasting van het telefoonnet a.g.v. de A tot Z-spelshow.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1987-1988 nummer 374</item>
+         <item attribuut="Jaargang">1987_1988</item>
+         <item attribuut="Vraagnummer">374</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">De Beer</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1988-02-10</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Smit-Kroes</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1988-03-03</item>
+         <item attribuut="Beginpagina">751</item>
+         <item attribuut="Eindpagina">752</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="" typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar  1 9 8 7 - 1 9 8 8 , Aanhangsel  7 5 1 " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="374" onderwerp="" indiendatum="">
+         <vrager partij="VVD" oorsprong="parlement">De Beer</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="3 maart 1988)">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">S m i t - K r o e s</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1 ">W a t is de inhoud geweest van het  vooroverleg tussen de PTT en de  TROS met betrekking tot de te  verwachten telefoondrukte naar  aanleiding van de A tot Z-spelshow?  W a t was de conclusie?  </vraag>
+      <vraag nummer="2 ">Was voorzien, dat zich opnieuw een  - zij het korte - overbelasting van het  telefoonnet zou kunnen voordoen?  </vraag>
+      <vraag nummer="3 ">Welke klachten zijn ditmaal bij de  PTT binnengekomen naar aanleiding  van de overbelasting van het telefoon- net?  </vraag>
+      <vraag nummer="4 ">Zijn deze storingen technisch te  voorkomen?  </vraag>
+      <vraag nummer="5 ">Zo neen, welke wettelijke middelen  staan de PTT open om herhaling te  voorkomen?  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1 ">In het vooroverleg tussen de TROS  en de PTT zijn de nodige afspraken  gemaakt over de begeleiding van de  telefonische reacties bij de A tot  Z-show en over de daarvoor nodige  technische voorzieningen. De  conclusie was dat er voldoende  voorzorgen waren getroffen om een  en ander goed te laten verlopen.  </antwoord>
+      <antwoord nummer="2 ">Dit was niet verwacht.  </antwoord>
+      <antwoord nummer="3 ">Van enkele abonnees zijn klachten  ontvangen, dat men gedurende korte  tijd geen kiestoon kon krijgen.  </antwoord>
+      <antwoord nummer="4 ">Deze storingen kunnen weliswaar  technisch worden voorkomen door  de capaciteit van de infrastructuur af  te stemmen op dergelijk (kortstondig)  piekverkeer, maar dit zou economisch  niet verantwoord zijn.  </antwoord>
+      <antwoord nummer="5 ">PTT kan op grond van het bepaalde  in artikel 4 lid 11 van het Rijkstele- foonreglement en artikel 8 lid 3 van  de Voorwaarden van aansluiting aan  de geabonneerde, voorschriften  geven ter voorkoming van hinder  voor het telefoonverkeer. In casu  kunnen deze voorschriften inhouden,  dat voor reacties van het publiek op  tv-programma's geen telefoonaan- sluitingen mogen worden ingezet,  wanneer er geen of onvoldoende  waarborgen bestaan dat hinder zal  worden voorkomen.  De PTT zal op grond van de  opgedane ervaringen geen medewer- king meer verlenen aan acties op  televisie, tenzij er voldoende waarbor- gen bestaan dat hinder  w o r d t  v o o r k o m e n .  </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

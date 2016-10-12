@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="5">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001506</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001506&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001506</item>
+         <item attribuut="Document-id">0000011810</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 576</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden V. A. M. van der Burg en Biesheuvel (beiden CDA) over uitlatingen van de minister van Binnenlandse Zaken op het jubileum van de Bond van Nederlandse predikanten.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 576</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">576</item>
+         <item attribuut="Indiener">
+            <persoon>van der Burg V.A.M.</persoon>
+            <persoon partij="CDA">Biesheuvel</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-04-26</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Dales</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-05-17</item>
+         <item attribuut="Beginpagina">1179</item>
+         <item attribuut="Eindpagina">1180</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1179" allpagenumbers="1179" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat 's Gravenhage 1993"/>
+      <vraagdata vraagnummer="576" onderwerp="uitlatingen van de minister van Binnenlandse Zaken op het jubileum van de Bond van Nederlandse predikanten." indiendatum="1993-04-26">
+         <vrager partij="" oorsprong="parlement">van der Burg V.A.M.</vrager>
+         <vrager partij="CDA" oorsprong="parlement">Biesheuvel</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1993-05-17">
+         <antwoorder functie="minister" ministerie="Binnenlandse Zaken">Dales</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1">Herinnert u zich het standpunt van de regerïng', dat «instellingen waarin deze personen functioneren er zijn ten dienste van een overheidsbelang, namelijk de defensie, respectievelijk de uitvoering van het straf– en penitentiair recht, zodat de overheid bijzondere betrokkenheid heeft bij de zorg voor die personen. Naar het oordeel van het kabinet is er dan ook voldoende grond voor financiële steun door de overheid ten behoeve van categoriale geestelijke verzorging in deze instellingen? </vraag>
+      <vraag nummer="2" voetnoot="2 3 4">Herinnert u zich voorts de uitspraken, gedaan tijdens een uitgebreide commissievergadering van 22 juni 1992 <voetnoot nummer="2"/>, dat «met betrekking tot de militaire dienst en de detentie de overheid een bijzondere verantwoordelijkheid heeft voor de geestelijke verzorging van personen die door de overheid in bijzondere situaties worden gebracht», alsmede dat «er bij ons geen voornemens bestaan om over te schakelen op gedeeltelijke bekostiging of iets dergelijks» <voetnoot nummer="3"/>? Hoe vallen deze uitspraken te rijmen met de uitlatingen van de minister van Binnenlandse Zaken op het jubileum van de Bond van Nederlandse predikanten van 20 april jl., dat «de kerken de halve hand zouden mogen ophouden en niet de hele» <voetnoot nummer="4"/>? </vraag>
+      <vraag nummer="4">Is de minister van Binnenlandse Zaken bereid een toelichting te geven op hetgeen zij precies bedoelt met haar uitlatingen, dat de kerk in de toekomst niet meer zo «beschamend snel» moet zijn met het ophouden van de hand, alsmede dat zij de indruk heeft dat de synodes en andere landelijke vergaderingen het CIO veel te gemakkelijk laten begaan met zijn «uiterste pogingen om de staat ertoe te brengen toch maar weer het nodige te betalen»? Kan de minister van Binnenlandse Zaken deze beweringen staven? </vraag>
+      <vraag nummer="5">Heeft de minister tijdens het jubileum van genoemde Bond namens het kabinet gesproken? </vraag>
+      <vraag nummer="6">Zo neen, welke motieven liggen aan deze uitlatingen ten grondslag? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> Kamerstuk 20868, nr. 2, p. 12, vergaderjaar 1989-1990</noot>
+         <noot nummer="2"> UCV Handelingen nr 47, blz 17, vergaderjaar 1991-1992</noot>
+         <noot nummer="3"> UCV Handelingen nr 47, blz. 22, vergaderjaar 1991-1992</noot>
+         <noot nummer="4"> Trouw, 21 april 1993 CIO = Commissie interkerkelijk contact in overheidszaken</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Ja. </antwoord>
+      <antwoord nummer="3">De centrale gedachte van het kabinetsstandpunt over steunverlening aan (kerk)genootschappen is dat in de verhouding tussen kerk en staat de eigen verantwoordelijkheid van de genootschappen uitgangspunt moet zijn. Er kunnen zich echter bijzondere omstandigheden voordoen, waarin de overheid, gelet op het belang van de uitoefening van de vrijheid van godsdienst en levensovertuiging zorg draagt voor voorwaarden ten behoeve van effectuering van de vrijheid van godsdienst en levensovertuiging. Uitgaande van de eigen verantwoordelijkheid van (kerk)genootschappen en instellingen, kan steunverlening door de overheid slechts een aanvullend karakter hebben. De minister van Binnenlandse Zaken heeft met haar opmerking deze principiële uitgangspunten nog eens willen benadrukken. Zij is zich daarbij ervan bewust dat deze uitgangspunten hun praktische de geciteerde opmerkingen geplaatst. Met de geciteerde opmerkingen heeft zij onder andere gedoeld op het feit dat de omstandigheden bij de krijgsmacht zich in de loop der tijd aanzienlijk hebben gewijzigd (het recht op verlof 's avonds en in de week-enden, waardoor dienstplichtigen en andere leden van de krijgsmacht niet zijn aangewezen op categorale geestelijke verzorging en evenals iedere andere burger in de gelegenheid zijn gebruik te maken van de normale geestelijke verzorging). Zij kan zich voorstellen dat dit de kerk ertoe zou kunnen brengen zich af te vragen of de voorwaarden, die destijds een volledige bekostiging van geestelijke verzorging in de krijgsdienst rechtvaardigen, nog wel aanwezig zijn. </antwoord>
+      <antwoord nummer="5">Slechts ten dele. Zie het antwoord op vraag 4. </antwoord>
+      <antwoord nummer="6">De uitspraken werden door de spreekster voor de aanwezigen van belang geacht. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

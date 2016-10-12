@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19931994:0001615</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001615&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19931994:0001615</item>
+         <item attribuut="Document-id">0000004126</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1993-1994 nummer 401</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Blaauw (VVD) over de studie over het communicatiemanagement inzake de Betuweroute.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1993-1994 nummer 401</item>
+         <item attribuut="Jaargang">1993_1994</item>
+         <item attribuut="Vraagnummer">401</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Blaauw</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1994-03-16</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Maij-Weggen</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1994-03-29</item>
+         <item attribuut="Beginpagina">815</item>
+         <item attribuut="Eindpagina">816</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1993-1994" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="815" allpagenumbers="815" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1993-1994, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 7398" uitgever="Sdu Uitgeverij Plantijnstraat s Gravenhage 1994"/>
+      <vraagdata vraagnummer="401" onderwerp="de studie over het commun/catiemanagement inzake de Betuweroute." indiendatum="1994-03-16">
+         <vrager partij="VVD" oorsprong="parlement">Blaauw</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1994-03-29">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">Maij-Weggen</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Is de studie over het communicatiemanagement inzake de Betuweroute extern uitgevoerd? </vraag>
+      <vraag nummer="2">Zo ja, hoeveel financiële middelen zijn daarmee gemoeid? In hoeverre is er gebruik gemaakt van de uitkomst van deze studie? Deelt u de mening, dat in de betrokken studie op een wel zeer laatdunkende wijze wordt gesproken over innovatieve mensen door deze «Willie Wortels» te noemen? </vraag>
+      <vraag nummer="5">Zijn creatieve personen in het moderne management van innovatieve bedrijven voorwaarde voor het voortbestaan van een bedrijf in de scherpe internationale concurrentieverhoudingen? </vraag>
+      <vraag nummer="6">Als geen gebruik is gemaakt van deze studie, hoe heeft uw ministerie dan geopereerd ten einde de mening te beïnvloeden? Welke systematiek hebt u in gedachten als het gaat om het «verkopen» van de HSL? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="5">
+      <antwoord nummer="1">Ja, de studie over het communicatiemanagement Betuweroute is extern uitgevoerd door een externe communicatie-adviseur. Het schrijven van een communicatieplan was een onderdeel van de werkzaamheden van de desbetreffende communicatie-adviseur die indertijd was ingeschakeld voor het totale communicatiemanagement van het Betuweroute-project. De totale kosten voor het inschakelen van deze communicatie-adviseur bedroegen voor de periode mei 1992 tot en met februari 1993 circa f 170.000,-- exclusief B.T.W. Het communicatieplan was dus een onderdeel van deze werkzaamheden. </antwoord>
+      <antwoord nummer="3">Van het communicatieplan is als zodanig geen gebruik gemaakt, omdat het niet goed en niet goed bruikbaar was. </antwoord>
+      <antwoord nummer="4">Ja. </antwoord>
+      <antwoord nummer="5" voetnoot="1">Ja, hoewel creativiteit alleen niet voldoende is om voort te bestaan. Doel van communicatie van de Betuweroute is niet het beïnvloeden van de mening. Doel van communicatie is informeren: snel, duidelijk, open, serieus. In het afgelopen jaar heeft er onder meer communicatie plaatsgevonden over de volgende onderwerpen: - uitkomen van PKB2 en PKB3; - uitkomen van het rapport van de CommissieVan Engelshoven; - behandelen PKB3 in de Tweede Kamer; - behandelen van vele brieven van burgers, die zich betrokken voelen bij het Betuweroute-project. Daarnaast is er een algemene brochure verschenen, die breed verspreid wordt. Een exemplaar treft u bijgaand aan <voetnoot nummer="1"/>. </antwoord>
+      <antwoord nummer="7">Het is geen kwestie dat de HSL «verkocht» dient te worden. Overheidsbeleid moet van een zodanige kwaliteit zijn dat «verkopen» daarvan niet nodig is. Het HSL-project is daar een voorbeeld van. Het </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

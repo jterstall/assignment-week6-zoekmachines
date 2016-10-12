@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="ambtsbericht nog niet ontvangen is." aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19921993:0001265</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001265&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19921993:0001265</item>
+         <item attribuut="Document-id">0000011569</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1992-1993 nummer 335</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Dijkstal (VVD) over politiesurveillanten in het openbaar vervoer.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1992-1993 nummer 335</item>
+         <item attribuut="Jaargang">1992_1993</item>
+         <item attribuut="Vraagnummer">335</item>
+         <item attribuut="Indiener">
+            <persoon partij="VVD">Dijkstal</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1993-01-18</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Dales</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1993-02-11</item>
+         <item attribuut="Beginpagina">685</item>
+         <item attribuut="Eindpagina">686</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1992-1993" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="685" allpagenumbers="685" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1992-1993, Aanhangsel" filenaam="" issn-nummer="ISSN0921 7398" uitgever="'s Gravenhage 1993"/>
+      <vraagdata vraagnummer="335" onderwerp="politiesurveillanten in het openbaar vervoer." indiendatum="1993-01-18">
+         <vrager partij="VVD" oorsprong="parlement">Dijkstal</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1">Kent u het plan van de gemeente Rotterdam om politiesurveillanten in het openbaar vervoer in te zetten ter bevordering van de veiligheid? </vraag>
+      <vraag nummer="2">Zullen deze politiesurveillanten betaald worden door het openbaar vervoersbedrijf RET?' Beantwoording zal zo spoedig mogelijk na ontvangst van deze ambtsberichten plaatsvinden. Acht u het juist, dat politiepersoneel door derden betaald wordt? Zo neen, welke maatregel(en) zult u hiertegen treffen? I  Nieuwjaarsrede 1993 van de korpschef van de gemeentepolitie te Rotterdam. </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+   <mededeling mededeler="Dales" functie="minister" afdeling="Binnenlandse Zaken" mededelingdatum="II februari 1993">Mededeling van minister Dales (Binnenlandse Zaken). (Ontvangen II februari 1993) Hiermee deel ik u mee, dat het tot mijn spijt niet mogelijk is de schriftelijke vragen van het lid Dijkstal over politie-surveillanten in het openbaar vervoer, ingezonden op 18 januari 1993, binnen de gestelde termijn te kunnen beantwoorden, aangezien het door mij gevraagde </mededeling>
+</kvr>

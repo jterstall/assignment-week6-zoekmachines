@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="aangelegenheid terug te komen." aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">urn:mpeg:mpeg21:sgd:19891990:0001620</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001620&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=urn:mpeg:mpeg21:sgd:19891990:0001620</item>
+         <item attribuut="Document-id">0000036027</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 697</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen Van Es (Groen Links) over verstoring van uitzendingen van de Cubaanse televisie.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 697</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">697</item>
+         <item attribuut="Indiener">
+            <persoon>van Es</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1990-05-18</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van den Broek</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1990-06-12</item>
+         <item attribuut="Beginpagina">1403</item>
+         <item attribuut="Eindpagina">1404</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990 Aanhangsel van de Handelingen" typehandeling="Vergaderjaar 1989-1990 Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="sou uitgevenj's Gravenhage 1989 Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel 1403" filenaam="" issn-nummer="" uitgever="sou uitgevenj's Gravenhage 1989 Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel 1403"/>
+      <vraagdata vraagnummer="697" onderwerp="verstoring van uitzendingen van de Cubaanse televisie." indiendatum="1990-05-18">
+         <vrager partij="" oorsprong="parlement">van Es</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="2">
+      <vraag nummer="1">Verstoort het Amerikaanse TV Marti uitzendingen van de Cubaanse televisie? </vraag>
+      <vraag nummer="2">Deelt u de mening, dat deze vorm van inmenging in strijd is met het internationaal recht, met name de conventie van Nairobi, 1982 en de internationale telecommunicatie conventie? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+   <mededeling mededeler="Van den Broek" functie="minister" afdeling="Buitenlandse Zaken" mededelingdatum="1990-06-12">Mededeling van minister Van den Broek (Buitenlandse Zaken). (Ontvangen 12 juni 1990) Onder verwijzing naar de brief van de Griffier uwer Kamer betreffende hogergenoemde aangelegenheid moge ik u berichten dat, gezien de technische complexiteit van de kwestie, ter voorbereiding van een antwoord advies wordt ingewonnen bij het ministerie van Verkeer en Waterstaat. Ik neem mij derhalve voor om te gelegener tijd op deze </mededeling>
+</kvr>

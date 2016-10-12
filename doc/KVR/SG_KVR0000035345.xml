@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19891990:0000938</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0000938&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19891990:0000938</item>
+         <item attribuut="Document-id">0000035345</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1989-1990 nummer 19</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Groenman (D66) over voorkeursbehandeling bij aanstelling in overheidsfuncties.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1989-1990 nummer 19</item>
+         <item attribuut="Jaargang">1989_1990</item>
+         <item attribuut="Vraagnummer">19</item>
+         <item attribuut="Indiener">
+            <persoon partij="D66">Groenman</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-09-08</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Van Dijk</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-09-26</item>
+         <item attribuut="Beginpagina">37</item>
+         <item attribuut="Eindpagina">38</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1989-1990" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="37" allpagenumbers="37" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1989-1990, Aanhangsel" filenaam="" issn-nummer="ISSN 921 7398" uitgever="SDU uitgeverij 's Gravenhage 1989"/>
+      <vraagdata vraagnummer="19" onderwerp="voorkeursbehandeling bij aanste/ling in overheidsfuncties." indiendatum="1989-09-8">
+         <vrager partij="D66" oorsprong="parlement">Groenman</vrager>
+         <vraagt-aan>ste/ling in</vraagt-aan>
+      </vraagdata>
+      <antwoorddata antwoorddatum="1989-09-26">
+         <antwoorder functie="minister" ministerie="Binnenlandse Zaken">Van Dijk</antwoorder>
+         <mede-antwoorder>de ministers van Justitie en van Sociale Zaken en Werkgelegenheid</mede-antwoorder>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1" voetnoot="1">Hebt u kennis genomen van de berichtgeving <voetnoot nummer="1"/> over de nota doelgroepenbeleid van het Tilburgse college van B &amp; W, waarin aan de gemeenteraad wordt voorgesteld bij nieuwe vacatures in het gemeentelijk apparaat voorlopig uitsluitend vrouwen, gehandicapten of mensen uit etnische minderheidsgroepen aan te nemen? </vraag>
+      <vraag nummer="2" voetnoot="2">Is het bericht «Tilburgs vacature– beleid wordt getoetst aan Grondwet» <voetnoot nummer="2"/> feitelijk juist en onder– schrijft u de daarin gegeven interpre– tatie van artikel 3 van de Grondwet, dat «uitsluiting van bevolkings– groepen van het recht op benoem– baarheid is verboden»? </vraag>
+      <vraag nummer="3" voetnoot="3 4 5 6 7">Welke conclusies trekt u uit uw antwoord op vraag 2 voor wat betreft: - het reserveren van arbeidsplaatsen voor gehandicapten? <voetnoot nummer="3"/>- het reserveren van overheids– functies voor Molukkers? <voetnoot nummer="4"/>- het reserveren van functies voor personen uit verschillende doelgroepen, zoals gebruikelijk bij bepaalde onderdelen van het centrale gemeentelijk apparaat in Amsterdam, bij diverse stadsdeel– raden in Amsterdam, bij de Univer– siteit van Amsterdam? - het reserveren van overheids– functies voor hogere ambtenaren van het eigen departement of de andere departementen in het kader van het zgn. management development? <voetnoot nummer="5"/>- het reserveren van overheids– en/of onderwijsfuncties voor zgn. wachtgelders? <voetnoot nummer="6"/>- het exclusief werven van personen uit een bepaalde etnische groep, bijvoorbeeld voor functies in het welzijnswerk, terwijl het verbod van artikel 429 quarter van het Wetboek van Strafrecht toch geen uitzon– dering kent voor «rasbepaalde» functie-eisen? <voetnoot nummer="7"/>
+      </vraag>
+      <vraag nummer="4">Bent u bereid deze Kamer een nota toe te zenden, waarin zo helder mogelijk het juridisch kader wordt geschetst waaraan voorkeursbehan– deling bij aanstelling in overheids– functies moet worden getoetst alsmede tevens de hoofdlijnen worden geformuleerd voor het schorsings– en vernietigingsbeleid van de Kroon bij desbetreffende besluiten van andere overheden en waarbij in het bijzonder wordt aangegeven in welke gevallen eerst een eventuele tussenkomst van de ambtenarenrechter of van de burger– lijke rechter zal worden afgewacht? </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1" datum="1989-08-18" bron=" Zie diverse dagbladen van 17 en"> Zie diverse dagbladen van 17 en, 18 augustus 1989</noot>
+         <noot nummer="2" datum="1989-08-18" bron=" Zie NRC Handelsblad"> Zie NRC Handelsblad, 18 augustus 1989</noot>
+         <noot nummer="3"> Door het ministerie van Sociale Zaken en Werkgelegenheid in de brochure 'Een arbeidsplaats voor een gehandicapte' genoemd als mogelijkheid tot uitvoering van de Wet Arbeid Gehandicapte Werknemers</noot>
+         <noot nummer="4" datum="1989-06-21" bron=" Zie 'Rijk reserveert arbeidsplaatsen voor Molukkers', persbericht van het ministerie van Binnenlandse Zaken"> Zie 'Rijk reserveert arbeidsplaatsen voor Molukkers', persbericht van het ministerie van Binnenlandse Zaken, 21 juni 1989</noot>
+         <noot nummer="5"> Zie de betreffende publicaties van de ministeries</noot>
+         <noot nummer="6"> Zie diverse regelingen van de ministeries van Binnenlandse Zaken en van Onderwijs en Wetenschappen</noot>
+         <noot nummer="7"> Zie personeelsadvertenties diverse gemeenten en welzijnsinstellingen</noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="3">
+      <antwoord nummer="1">Ja. </antwoord>
+      <antwoord nummer="2">Neen. Van de zijde van het ministerie van Binnenlandse Zaken is medege– deeld dat eventuele toetsing aan de grondwet pas aan de orde komt, wanneer de gemeenteraad het voorkeursbeleid heeft vastgesteld. </antwoord>
+      <antwoord nummer="3 en 4">Wij zijn bereid een nota aan (onder meer) de Kamer toe te zenden, waarin wordt ingegaan op de randvoorwaarden voor voorkeursbe– handeling van verschillende doelgroepen in het overheidsperso– neelsbeleid in het licht van onder meer artikel 3 Grondwet. Daarin zal ook aandacht worden besteed aan de in vraag 3 genoemde varianten van voorkeursbeleid. Overigens zij er op gewezen dat een terughoudend beleid ten aanzien van schorsing en vernietiging wordt gevoerd. </antwoord>
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

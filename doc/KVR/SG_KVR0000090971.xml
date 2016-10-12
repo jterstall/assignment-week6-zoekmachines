@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="overgelegd? " aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19881989:0001372</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001372&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001372</item>
+         <item attribuut="Document-id">0000090971</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1988-1989 nummer 368</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid De Pree (P.v.d.A.) over onbezet gebleven plaatsen in de huisartsopleiding.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1988-1989 nummer 368</item>
+         <item attribuut="Jaargang">1988_1989</item>
+         <item attribuut="Vraagnummer">368</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">De Pree</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1989-02-02</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Dees</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1989-03-15</item>
+         <item attribuut="Beginpagina">741</item>
+         <item attribuut="Eindpagina">742</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar 1988-1989 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1988-1989, Aanhangsel " filenaam="" issn-nummer="ISSN 0921 7398 " uitgever="SDU uitgeverij 's-Gravenhage 1989 "/>
+      <vraagdata vraagnummer="368" onderwerp="onbezet gebleven plaatsen in de huisartsopleiding." indiendatum="2 februari 1989)">
+         <vrager partij="PvdA" oorsprong="parlement">De Pree</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1 ">Heb u kennis genomen van berichten  over het ongebruikt laten van een  groot aantal plaatsen in de huisartsop- leiding?'  </vraag>
+      <vraag nummer="2 ">Hoeveel opleidingsplaatsen zijn in de  periode 1985-1988 onbezet geble- ven?  Mededeling  Mededeling van staatssecretaris  Dees (Welzijn, Volksgezondheid en  Cultuur). (Ontvangen 15 maart 1989)  De bij brief aan mij toegezonden  vragen van het lid van uw Kamer De  Pree inzake onbezet gebleven  plaatsen in de huisartsopleiding,  kunnen tot mijn spijt niet binnen de  gebruikelijke termijn worden beant- woord. De reden van uitstel is dat het  departementaal overleg met het  Ministerie van Onderwijs en Weten- schapen nog niet is afgerond. De  beantwoording zal plaats hebben  medio april 1989.  Aan wie wijt u dit? Zullen de budgetten  van de instituten voor de huisartsop- leiding hieraan worden aangepast?  </vraag>
+      <vraag nummer="4 ">Bent u bereid in de nota Beroeps- krachtenplanning hieraan uitvoerig  aandacht te besteden, daarbij  rekening houdend met de toenemen- de behoefte aan huisartsen?  </vraag>
+      <vraag nummer="5 ">Zal de nota, zoals afgesproken, begin  1989, aan deze Kamer worden  </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>

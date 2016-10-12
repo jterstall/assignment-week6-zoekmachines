@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bibliografische_omschrijving">Vragen van de leden Van Zuijlen en Van Gijzel (beiden PvdA) over het GSM-netwerk. (Ingezonden 31 januari 1997); Antwoord</item>
+         <item attribuut="Bestand">15Kb</item>
+         <item attribuut="Permalink">
+http://www.geencommentaar.nl/parlando/index.php?action=doc&amp;filename=KVR4324
+</item>
+         <item attribuut="Inhoud">Betreft eventuele problemen m.b.t. het afschermen van het GSM-netwerk tegen meeluisteren, o.a. in de burgerluchtvaart.</item>
+         <item attribuut="Rubriek">Communicatie, media en informatievoorziening (Telecommunicatie)</item>
+         <item attribuut="Trefwoorden">Mobiele telefonie</item>
+         <item attribuut="Vindplaats">Kamervragen met antwoord 1996-1997, nr. 643, Tweede Kamer</item>
+         <item attribuut="Afkomstig_van">Verkeer en Waterstaat (VW)</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Van Zuijlen</persoon>
+            <persoon partij="PvdA">Van Gijzel</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1997-02-10</item>
+         <item attribuut="Datum_indiening">1997-01-31</item>
+         <item attribuut="Document-id">KVR4324</item>
+         <item attribuut="Omvang">1 pag.</item>
+      </metadata>
+      <header titel="Tweede Kamer der Staten-Generaal" kamer="2" vergaderjaar="Vergaderjaar 1996–1997" typehandeling="Aanhangsel van de Handelingen" typedoc="Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden"/>
+      <footer firstpaginanummer="1317" allpagenumbers="1317" vetnummer="" code="" lopendefooter="Tweede Kamer, vergaderjaar 1996–1997, Aanhangsel" filenaam="" issn-nummer="ISSN 0921 - 7398" uitgever="Sdu Uitgevers ’s-Gravenhage 1997"/>
+      <vraagdata vraagnummer="643" onderwerp="" indiendatum="1997-01-31">
+         <vrager partij="PvdA" oorsprong="parlement">Van Zuijlen</vrager>
+         <vrager partij="PvdA" oorsprong="parlement">Van Gijzel</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="10 februari 1997) 1, 2 en 3 In het nota-overleg betreffende Veiligheid Burgerluchtvaart van 27 januari jl. heb ik er bij het onderwerp intruders in het algemeen op gewezen dat de techniek om af te luisteren verder schrijdt en waakzaamheid daartegen geboden blijft. Als voorbeeld is daarbij GSM genoemd, aangezien dit systeem geldt als het paradepaardje van de mobiele telefonie. Hierdoor staat het systeem zeer in de belangstelling, hoogst waarschijnlijk ook vanuit criminele circuits. Van GSM is nooit gezegd dat het voor de volle 100% te beveiligen is. Voor zover mij momenteel bekend, is tot op heden echter nooit geconstateerd dat GSM op onbevoegde wijze afgeluisterd is of dat de gebruike GSM-technieken zijn gekraakt. 4 Verwijzend naar eerdere vragen omtrent deze problematiek">
+         <antwoorder functie="minister" ministerie="Verkeer en Waterstaat">Jorritsma-Lebbink</antwoorder>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="4">
+      <vraag nummer="1">Heeft u in het nota-overleg van 27 januari jl. over veiligheid in de burgerluchtvaart met de zinsnede «ook op het gebied van GSM zijn er inmiddels problemen» aan willen geven dat er problemen zijn met betrekking tot het afschermen van het GSM-netwerk tegen meeluisteren? </vraag>
+      <vraag nummer="2">Kunt u aangeven waar deze problemen uit bestaan? Zijn er mogelijkheden om in te breken op het netwerk? Is het mogelijk om ongeautoriseerd GSM-signalen op te vangen en te decoderen? </vraag>
+      <vraag nummer="3">Kunt u ingaan op de technische stand van zaken om de bij GSM gebruikte encryptie-technieken te kraken? </vraag>
+      <vraag nummer="4">Is het GSM-systeem mede geïntroduceerd, omdat inbraak/afluisteren niet mogelijk meer zou zijn? Welke stappen worden ondernomen om die bescherming te handhaven dan wel te herstellen? </vraag>
+      <noten afkomstig="vraag"/>
+   </vragen>
+   <antwoorden aantal="2">
+      <antwoord nummer="1, 2 en 3">In het nota-overleg betreffende Veiligheid Burgerluchtvaart van 27 januari jl. heb ik er bij het onderwerp intruders in het algemeen op gewezen dat de techniek om af te luisteren verder schrijdt en waakzaamheid daartegen geboden blijft. Als voorbeeld is daarbij GSM genoemd, aangezien dit systeem geldt als het paradepaardje van de mobiele telefonie. Hierdoor staat het systeem zeer in de belangstelling, hoogst waarschijnlijk ook vanuit criminele circuits. Van GSM is nooit gezegd dat het voor de volle 100% te beveiligen is. Voor zover mij momenteel bekend, is tot op heden echter nooit geconstateerd dat GSM op onbevoegde wijze afgeluisterd is of dat de gebruike GSM-technieken zijn gekraakt. </antwoord>
+      <antwoord nummer="4" voetnoot="1">Verwijzend naar eerdere vragen omtrent deze problematiek <voetnoot nummer="1"/>kan ik stellen dat GSM niet eenvoudig af te luisteren is. Het systeem heeft een hoog, in Europees verband overeengekomen, beveiligingsniveau; een van de belangrijkste beschermingen tegen afluisteren is de geavanceerde (digitale) codering van het ethersignaal. Het onbevoegd afluisteren van gesprekken van GSM-gebruikers is daardoor haast onmogelijk. De beveiliging van telecommunicatiesystemen, en dus ook van GSM, heeft de voortdurende aandacht van de betreffende operators, maar ook van de overheid. Ik draag immers de politieke verantwoordelijkheid voor de veiligheid van de telecommunicatiesystemen in ons land. Ontwikkelingen die zouden kunnen leiden tot ongewenste aantasting van de veiligheid worden zeer kritisch gevolgd en indien noodzakelijk worden terzake passende maatregelen genomen. </antwoord>
+      <noten afkomstig="antwoord">
+         <noot nummer="1">Aanhangsel handelingen nr. 370, vergaderjaar 1995–1996</noot>
+      </noten>
+   </antwoorden>
+</kvr>

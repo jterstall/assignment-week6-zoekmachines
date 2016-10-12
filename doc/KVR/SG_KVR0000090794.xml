@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="showKVR.xsl"?>
+<kvr xmlns:xs="http://www.w3.org/2001/XMLSchema" type="Antwoord" aantalvragen="">
+   <meta><!--
+          Metadata toegevoegd door de griffie, geparsed uit Parlando.
+         --><metadata>
+         <item attribuut="Bron">Staten-Generaal digitaal</item>
+         <item attribuut="RecordIdentifier">sgd:mpeg21:19881989:0001195</item>
+         <item attribuut="identifier">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001195&amp;role=xml</item>
+         <item attribuut="Permalink">http://resolver.kb.nl/resolve?urn=sgd:mpeg21:19881989:0001195</item>
+         <item attribuut="Document-id">0000090794</item>
+         <item attribuut="Rechten">Tweede Kamer der Staten-Generaal</item>
+         <item attribuut="Vindplaats">Aanhangsel Tweede Kamer 1988-1989 nummer 192</item>
+         <item attribuut="SGD-Type">Aanhangsel</item>
+         <item attribuut="Type">Kamervragen</item>
+         <item attribuut="Kamer">Tweede Kamer</item>
+         <item attribuut="Bibliografische_omschrijving">Vragen van het lid Pronk (P.v.d.A.) over de uitvoering van EG-verordening nr. 1725/79.</item>
+         <item attribuut="titel">Aanhangsel Tweede Kamer 1988-1989 nummer 192</item>
+         <item attribuut="Jaargang">1988_1989</item>
+         <item attribuut="Vraagnummer">192</item>
+         <item attribuut="Indiener">
+            <persoon partij="PvdA">Pronk</persoon>
+         </item>
+         <item attribuut="Datum_indiening">1988-11-17</item>
+         <item attribuut="Beantwoorder">
+            <persoon>Braks</persoon>
+         </item>
+         <item attribuut="Datum_reaktie">1988-12-19</item>
+         <item attribuut="Beginpagina">385</item>
+         <item attribuut="Eindpagina">386</item>
+         <item attribuut="Omvang">2 pag.</item>
+      </metadata>
+      <header titel="" kamer="" vergaderjaar="Vergaderjaar  1 9 8 8 - 1 9 8 9 " typehandeling="Aanhangsel van de Handelingen " typedoc="Vragen gesteld door leden van de Kamer, met de daarop door de regering  gegeven antwoorden "/>
+      <footer firstpaginanummer="" allpagenumbers="" vetnummer="" code="" lopendefooter="T w e e d e Kamer, vergaderjaar  1 9 8 8 - 1 9 8 9 ,  A a n h a n g s e l " filenaam="" issn-nummer="" uitgever=""/>
+      <vraagdata vraagnummer="192" onderwerp="de uitvoering van EG-verordening nr. 1725/79." indiendatum="17 november 1988)">
+         <vrager partij="PvdA" oorsprong="parlement">Pronk</vrager>
+         <vraagt-aan/>
+      </vraagdata>
+      <antwoorddata antwoorddatum="">
+         <antwoorder functie="" ministerie=""/>
+         <mede-antwoorder/>
+      </antwoorddata>
+   </meta>
+   <vragen aantal="5">
+      <vraag nummer="1 ">Hebt u kennis genomen van de  schriftelijke vragen' van het lid van  het Europese Parlement Dankert aan  de Europese Commissie over de  uitvoering van verordening (EEG) nr.  1 7 2 5 / 7 9 , inzake de toekenning van  steun voor tot mengvoeder verwerkte  ondermelk en voor magere melkpoe- der bestemd voor kalvervoeding?  </vraag>
+      <vraag nummer="2 ">Hebt u kennis genomen van de  antwoorden ter zake van de heer  Andriessen namens de Commissie  (van 23 mei 1986 en 27 april 1988),  waarin deze ondermeer stelt, dat  «de Nederlandse autoriteiten  opnieuw hebben verklaard, dat zij  noch in dit geval, noch in andere  gevallen bankgaranties hebben  geëist, die niet zijn voorgeschreven in  de communautaire verordeningen»?  </vraag>
+      <vraag nummer="3 ">Hebt u kennis genomen van het  artikel, waarin een ontvanger van  EG-steun bevestigt, dat hem «over  1982 1,3 miljoen gulden is betaald»? </vraag>
+      <vraag nummer="2 "/>
+      <vraag nummer="4 ">W a t is de letterlijke tekst van de  originele beschikking? Door wie werd  deze beschikking, op grond waarvan  het in vraag 3 genoemde en in de  schriftelijke vraag nr. 1895/86  genoemde bedrag van zo'n  f 1  3 6 8 001,65 is uitbetaald, afgege- ven?  Komt in deze beschikking geen  passage voor over een te stellen  «aanvullende» bankgarantie, welke  zal worden verbeurd, indien de  Commissie de door de Nederlandse  autoriteiten gebezigde uitleg van het  EG-recht niet zou accepteren?  </vraag>
+      <noten afkomstig="vraag">
+         <noot nummer="1"> nrs. 1902/85 en 1985/86. </noot>
+         <noot nummer="2"> Zie het Limburgs Dagblad van 11 november  1986. </noot>
+      </noten>
+   </vragen>
+   <antwoorden aantal="0">
+      <noten afkomstig="antwoord"/>
+   </antwoorden>
+</kvr>
